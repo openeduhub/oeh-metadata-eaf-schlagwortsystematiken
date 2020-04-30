@@ -1,8 +1,8 @@
 {
   "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/physik_systematik/koroljow__sergej_pawlowitsch",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=%2Fskohub-vocabsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fphysik_systematik%2Fkoroljow__sergej_pawlowitsch",
-  "inbox": "https://test.skohub.io/inbox?target=%2Fskohub-vocabsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fphysik_systematik%2Fkoroljow__sergej_pawlowitsch",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fphysik_systematik%2Fkoroljow__sergej_pawlowitsch",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fphysik_systematik%2Fkoroljow__sergej_pawlowitsch",
   "prefLabel": {
     "de": "Koroljow, Sergej Pawlowitsch"
   },

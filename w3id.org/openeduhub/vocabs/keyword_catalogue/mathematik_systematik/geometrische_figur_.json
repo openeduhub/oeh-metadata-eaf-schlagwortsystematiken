@@ -1,8 +1,8 @@
 {
   "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/mathematik_systematik/geometrische_figur_",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=%2Fskohub-vocabsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fmathematik_systematik%2Fgeometrische_figur_",
-  "inbox": "https://test.skohub.io/inbox?target=%2Fskohub-vocabsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fmathematik_systematik%2Fgeometrische_figur_",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fmathematik_systematik%2Fgeometrische_figur_",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fmathematik_systematik%2Fgeometrische_figur_",
   "prefLabel": {
     "de": "Geometrische Figur "
   },

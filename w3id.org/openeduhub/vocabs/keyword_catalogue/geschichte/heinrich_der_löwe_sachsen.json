@@ -1,8 +1,8 @@
 {
   "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/geschichte/heinrich_der_löwe_sachsen",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=%2Fskohub-vocabsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fgeschichte%2Fheinrich_der_l%C3%B6we_sachsen",
-  "inbox": "https://test.skohub.io/inbox?target=%2Fskohub-vocabsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fgeschichte%2Fheinrich_der_l%C3%B6we_sachsen",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fgeschichte%2Fheinrich_der_l%C3%B6we_sachsen",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fgeschichte%2Fheinrich_der_l%C3%B6we_sachsen",
   "prefLabel": {
     "de": "Heinrich der Löwe (Sachsen)"
   },

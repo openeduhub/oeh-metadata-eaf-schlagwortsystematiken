@@ -1,8 +1,8 @@
 {
   "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/sexualerziehung_systematik/empfängnisverhütung",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=%2Fskohub-vocabsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fsexualerziehung_systematik%2Fempf%C3%A4ngnisverh%C3%BCtung",
-  "inbox": "https://test.skohub.io/inbox?target=%2Fskohub-vocabsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fsexualerziehung_systematik%2Fempf%C3%A4ngnisverh%C3%BCtung",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fsexualerziehung_systematik%2Fempf%C3%A4ngnisverh%C3%BCtung",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fsexualerziehung_systematik%2Fempf%C3%A4ngnisverh%C3%BCtung",
   "prefLabel": {
     "de": "Empfängnisverhütung"
   },

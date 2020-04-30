@@ -1,8 +1,8 @@
 {
   "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/geschichte/anna_amalia_herzogin_sachsenweimareisenach",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=%2Fskohub-vocabsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fgeschichte%2Fanna_amalia_herzogin_sachsenweimareisenach",
-  "inbox": "https://test.skohub.io/inbox?target=%2Fskohub-vocabsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fgeschichte%2Fanna_amalia_herzogin_sachsenweimareisenach",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fgeschichte%2Fanna_amalia_herzogin_sachsenweimareisenach",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fgeschichte%2Fanna_amalia_herzogin_sachsenweimareisenach",
   "prefLabel": {
     "de": "Anna Amalia (Herzogin Sachsen-Weimar-Eisenach)"
   },

@@ -1,8 +1,8 @@
 {
   "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/fremdsprachen/fitzgerald__francis_scott",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=%2Fskohub-vocabsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Ffremdsprachen%2Ffitzgerald__francis_scott",
-  "inbox": "https://test.skohub.io/inbox?target=%2Fskohub-vocabsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Ffremdsprachen%2Ffitzgerald__francis_scott",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Ffremdsprachen%2Ffitzgerald__francis_scott",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Ffremdsprachen%2Ffitzgerald__francis_scott",
   "prefLabel": {
     "de": "Fitzgerald, Francis Scott"
   },

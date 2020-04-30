@@ -1,8 +1,8 @@
 {
   "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/physik_systematik/lumière__gebrüder",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=%2Fskohub-vocabsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fphysik_systematik%2Flumi%C3%A8re__gebr%C3%BCder",
-  "inbox": "https://test.skohub.io/inbox?target=%2Fskohub-vocabsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fphysik_systematik%2Flumi%C3%A8re__gebr%C3%BCder",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fphysik_systematik%2Flumi%C3%A8re__gebr%C3%BCder",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fphysik_systematik%2Flumi%C3%A8re__gebr%C3%BCder",
   "prefLabel": {
     "de": "Lumière, Gebrüder"
   },

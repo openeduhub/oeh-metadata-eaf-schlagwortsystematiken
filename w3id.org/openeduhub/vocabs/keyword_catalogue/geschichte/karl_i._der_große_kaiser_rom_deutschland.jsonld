@@ -1,8 +1,8 @@
 {
   "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/geschichte/karl_i._der_große_kaiser_rom_deutschland",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=%2Fskohub-vocabsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fgeschichte%2Fkarl_i._der_gro%C3%9Fe_kaiser_rom_deutschland",
-  "inbox": "https://test.skohub.io/inbox?target=%2Fskohub-vocabsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fgeschichte%2Fkarl_i._der_gro%C3%9Fe_kaiser_rom_deutschland",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fgeschichte%2Fkarl_i._der_gro%C3%9Fe_kaiser_rom_deutschland",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fgeschichte%2Fkarl_i._der_gro%C3%9Fe_kaiser_rom_deutschland",
   "prefLabel": {
     "de": "Karl I. der Große (Kaiser Rom Deutschland)"
   },

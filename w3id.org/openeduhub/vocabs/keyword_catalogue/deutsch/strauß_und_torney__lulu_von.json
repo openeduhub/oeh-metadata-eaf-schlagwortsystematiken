@@ -1,8 +1,8 @@
 {
   "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/deutsch/strauß_und_torney__lulu_von",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=%2Fskohub-vocabsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fdeutsch%2Fstrau%C3%9F_und_torney__lulu_von",
-  "inbox": "https://test.skohub.io/inbox?target=%2Fskohub-vocabsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fdeutsch%2Fstrau%C3%9F_und_torney__lulu_von",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fdeutsch%2Fstrau%C3%9F_und_torney__lulu_von",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fdeutsch%2Fstrau%C3%9F_und_torney__lulu_von",
   "prefLabel": {
     "de": "Strauß und Torney, Lulu von"
   },
