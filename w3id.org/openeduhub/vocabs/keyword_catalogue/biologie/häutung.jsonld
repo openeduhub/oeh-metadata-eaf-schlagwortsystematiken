@@ -1,8 +1,8 @@
 {
   "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/biologie/häutung",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fbiologie%2Fh%C3%A4utung",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fbiologie%2Fh%C3%A4utung",
+  "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-systematicsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fbiologie%2Fh%C3%A4utung",
+  "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-systematicsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fbiologie%2Fh%C3%A4utung",
   "prefLabel": {
     "de": "Häutung"
   },

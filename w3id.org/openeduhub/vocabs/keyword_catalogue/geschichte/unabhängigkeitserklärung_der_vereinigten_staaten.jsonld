@@ -1,8 +1,8 @@
 {
   "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/geschichte/unabhängigkeitserklärung_der_vereinigten_staaten",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fgeschichte%2Funabh%C3%A4ngigkeitserkl%C3%A4rung_der_vereinigten_staaten",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fgeschichte%2Funabh%C3%A4ngigkeitserkl%C3%A4rung_der_vereinigten_staaten",
+  "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-systematicsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fgeschichte%2Funabh%C3%A4ngigkeitserkl%C3%A4rung_der_vereinigten_staaten",
+  "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-systematicsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fgeschichte%2Funabh%C3%A4ngigkeitserkl%C3%A4rung_der_vereinigten_staaten",
   "prefLabel": {
     "de": "Unabhängigkeitserklärung der Vereinigten Staaten"
   },

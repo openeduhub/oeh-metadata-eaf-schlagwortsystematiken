@@ -1,8 +1,8 @@
 {
   "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/arbeitslehre/baustoff",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Farbeitslehre%2Fbaustoff",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Farbeitslehre%2Fbaustoff",
+  "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-systematicsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Farbeitslehre%2Fbaustoff",
+  "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-systematicsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Farbeitslehre%2Fbaustoff",
   "prefLabel": {
     "de": "Baustoff"
   },

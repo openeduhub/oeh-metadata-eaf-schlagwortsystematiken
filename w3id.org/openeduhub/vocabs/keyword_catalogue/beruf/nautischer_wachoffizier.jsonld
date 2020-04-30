@@ -1,8 +1,8 @@
 {
   "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/beruf/nautischer_wachoffizier",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fberuf%2Fnautischer_wachoffizier",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fberuf%2Fnautischer_wachoffizier",
+  "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-systematicsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fberuf%2Fnautischer_wachoffizier",
+  "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-systematicsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fberuf%2Fnautischer_wachoffizier",
   "prefLabel": {
     "de": "Nautischer Wachoffizier"
   },

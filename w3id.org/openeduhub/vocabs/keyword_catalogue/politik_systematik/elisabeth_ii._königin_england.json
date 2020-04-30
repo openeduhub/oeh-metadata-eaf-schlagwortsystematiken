@@ -1,8 +1,8 @@
 {
   "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/politik_systematik/elisabeth_ii._königin_england",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fpolitik_systematik%2Felisabeth_ii._k%C3%B6nigin_england",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fpolitik_systematik%2Felisabeth_ii._k%C3%B6nigin_england",
+  "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-systematicsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fpolitik_systematik%2Felisabeth_ii._k%C3%B6nigin_england",
+  "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-systematicsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fpolitik_systematik%2Felisabeth_ii._k%C3%B6nigin_england",
   "prefLabel": {
     "de": "Elisabeth II. (Königin England)"
   },

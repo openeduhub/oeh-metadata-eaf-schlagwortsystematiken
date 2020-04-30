@@ -1,8 +1,8 @@
 {
   "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/politik_systematik/rüttgers__jürgen",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fpolitik_systematik%2Fr%C3%BCttgers__j%C3%BCrgen",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fpolitik_systematik%2Fr%C3%BCttgers__j%C3%BCrgen",
+  "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-systematicsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fpolitik_systematik%2Fr%C3%BCttgers__j%C3%BCrgen",
+  "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-systematicsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fpolitik_systematik%2Fr%C3%BCttgers__j%C3%BCrgen",
   "prefLabel": {
     "de": "Rüttgers, Jürgen"
   },

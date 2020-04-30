@@ -1,8 +1,8 @@
 {
   "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/verkehrserziehung_systematik/reaktionsfähigkeit_verkehr",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fverkehrserziehung_systematik%2Freaktionsf%C3%A4higkeit_verkehr",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fverkehrserziehung_systematik%2Freaktionsf%C3%A4higkeit_verkehr",
+  "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-systematicsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fverkehrserziehung_systematik%2Freaktionsf%C3%A4higkeit_verkehr",
+  "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-systematicsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fverkehrserziehung_systematik%2Freaktionsf%C3%A4higkeit_verkehr",
   "prefLabel": {
     "de": "Reaktionsfähigkeit (Verkehr)"
   },

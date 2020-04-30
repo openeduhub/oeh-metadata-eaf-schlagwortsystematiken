@@ -1,8 +1,8 @@
 {
   "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/geographie_systematik/grüne_revolution_id",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fgeographie_systematik%2Fgr%C3%BCne_revolution_id",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fgeographie_systematik%2Fgr%C3%BCne_revolution_id",
+  "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-systematicsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fgeographie_systematik%2Fgr%C3%BCne_revolution_id",
+  "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-systematicsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fgeographie_systematik%2Fgr%C3%BCne_revolution_id",
   "prefLabel": {
     "de": "Grüne Revolution"
   },

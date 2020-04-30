@@ -1,8 +1,8 @@
 {
   "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/paedagogik_systematik/pestalozzi__johann_heinrich",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fpaedagogik_systematik%2Fpestalozzi__johann_heinrich",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fpaedagogik_systematik%2Fpestalozzi__johann_heinrich",
+  "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-systematicsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fpaedagogik_systematik%2Fpestalozzi__johann_heinrich",
+  "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-systematicsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fpaedagogik_systematik%2Fpestalozzi__johann_heinrich",
   "prefLabel": {
     "de": "Pestalozzi, Johann Heinrich"
   },

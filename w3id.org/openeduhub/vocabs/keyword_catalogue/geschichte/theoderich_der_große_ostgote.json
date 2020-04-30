@@ -1,8 +1,8 @@
 {
   "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/geschichte/theoderich_der_große_ostgote",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fgeschichte%2Ftheoderich_der_gro%C3%9Fe_ostgote",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fgeschichte%2Ftheoderich_der_gro%C3%9Fe_ostgote",
+  "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-systematicsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fgeschichte%2Ftheoderich_der_gro%C3%9Fe_ostgote",
+  "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-systematicsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fgeschichte%2Ftheoderich_der_gro%C3%9Fe_ostgote",
   "prefLabel": {
     "de": "Theoderich der Große (Ostgote)"
   },
