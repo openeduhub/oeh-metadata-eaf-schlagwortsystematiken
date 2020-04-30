@@ -1,0 +1,375 @@
+@base <https://w3id.org/openeduhub/vocabs/keyword_catalogue/medienpaedagogik_systematik/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<beleuchtung_film/theater> a skos:Concept ;
+    skos:broader <filmgestaltung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Beleuchtung (Film/Theater)"@de .
+
+<belichtung> a skos:Concept ;
+    skos:broader <fotografieren> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Belichtung"@de .
+
+<bildsprache> a skos:Concept ;
+    skos:broader <fotografieren> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bildsprache"@de .
+
+<bildtonzuordnung> a skos:Concept ;
+    skos:broader <filmgestaltung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bild-Ton-Zuordnung"@de .
+
+<bittorf__wilhelm> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bittorf, Wilhelm"@de ;
+    skos:topConceptOf <> .
+
+<bluebox> a skos:Concept ;
+    skos:broader <fernsehen> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bluebox"@de .
+
+<boulevardpresse> a skos:Concept ;
+    skos:broader <presse> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Boulevardpresse"@de .
+
+<castingshow> a skos:Concept ;
+    skos:broader <fernsehen> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Castingshow"@de .
+
+<comedy> a skos:Concept ;
+    skos:broader <fernsehfilm> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Comedy"@de .
+
+<computerspiel_pädagogik> a skos:Concept ;
+    skos:broader <medienwirkung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Computerspiel (Pädagogik)"@de .
+
+<everding__august> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Everding, August"@de ;
+    skos:topConceptOf <> .
+
+<fake_news> a skos:Concept ;
+    skos:broader <nachricht> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fake News"@de .
+
+<fernsehen_östliche_bundesländer> a skos:Concept ;
+    skos:broader <fernsehen> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fernsehen (östliche Bundesländer)"@de .
+
+<fernsehkonsum> a skos:Concept ;
+    skos:broader <fernsehen> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fernsehkonsum"@de .
+
+<fernsehproduktion> a skos:Concept ;
+    skos:broader <fernsehen> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fernsehproduktion"@de .
+
+<fernsehserie> a skos:Concept ;
+    skos:broader <fernsehen> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fernsehserie"@de .
+
+<fernsehübertragung> a skos:Concept ;
+    skos:broader <fernsehen> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fernsehübertragung"@de .
+
+<filmanalyse> a skos:Concept ;
+    skos:broader <film> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Filmanalyse"@de .
+
+<filmbildung> a skos:Concept ;
+    skos:broader <film> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Filmbildung"@de .
+
+<filmgeschichte> a skos:Concept ;
+    skos:broader <film> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Filmgeschichte"@de .
+
+<filmmontage> a skos:Concept ;
+    skos:broader <filmgestaltung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Filmmontage"@de .
+
+<filmsprache> a skos:Concept ;
+    skos:broader <filmgestaltung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Filmsprache"@de .
+
+<fotomontage> a skos:Concept ;
+    skos:broader <fotografieren> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fotomontage"@de .
+
+<kinderkino> a skos:Concept ;
+    skos:broader <medienzentrum> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kinderkino"@de .
+
+<kino> a skos:Concept ;
+    skos:broader <film> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kino"@de .
+
+<kulturtechnik> a skos:Concept ;
+    skos:broader <medienpädagogik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kulturtechnik"@de .
+
+<medienerziehung> a skos:Concept ;
+    skos:broader <medienzentrum> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Medienerziehung"@de .
+
+<medienkonsum> a skos:Concept ;
+    skos:broader <medienpädagogik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Medienkonsum"@de .
+
+<medienkunde> a skos:Concept ;
+    skos:broader <medienzentrum> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Medienkunde"@de .
+
+<medienwirklichkeit> a skos:Concept ;
+    skos:broader <medienpädagogik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Medienwirklichkeit"@de .
+
+<montage_medien> a skos:Concept ;
+    skos:broader <medienpädagogik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Montage (Medien)"@de .
+
+<neue_medien> a skos:Concept ;
+    skos:broader <medienpädagogik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Neue Medien"@de .
+
+<playback> a skos:Concept ;
+    skos:broader <fernsehen> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Play-back"@de .
+
+<pressekodex> a skos:Concept ;
+    skos:broader <presse> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pressekodex"@de .
+
+<rundfunk> a skos:Concept ;
+    skos:broader <massenmedien> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Rundfunk"@de .
+
+<seifenoper> a skos:Concept ;
+    skos:broader <fernsehfilm> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Seifenoper"@de .
+
+<sensibilisierung_fotografie> a skos:Concept ;
+    skos:broader <fotografieren> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sensibilisierung (Fotografie)"@de .
+
+<tonstudio> a skos:Concept ;
+    skos:broader <medienpädagogik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tonstudio"@de .
+
+<trickfilmherstellung> a skos:Concept ;
+    skos:broader <filmherstellung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Trickfilmherstellung"@de .
+
+<unterhaltungssendung> a skos:Concept ;
+    skos:broader <fernsehen> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Unterhaltungssendung"@de .
+
+<unterrichtsfilm> a skos:Concept ;
+    skos:broader <medienpädagogik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Unterrichtsfilm"@de .
+
+<vertonung> a skos:Concept ;
+    skos:broader <filmherstellung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Vertonung"@de .
+
+<videoclip> a skos:Concept ;
+    skos:broader <video> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Videoclip"@de .
+
+<videoproduktion> a skos:Concept ;
+    skos:broader <aktive_medienarbeit_> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Videoproduktion"@de .
+
+<weitwinkelobjektiv> a skos:Concept ;
+    skos:broader <fotografieren> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Weitwinkelobjektiv"@de .
+
+<zeitung> a skos:Concept ;
+    skos:broader <presse> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zeitung"@de .
+
+<aktive_medienarbeit_> a skos:Concept ;
+    skos:broader <medienzentrum> ;
+    skos:inScheme <> ;
+    skos:narrower <videoproduktion> ;
+    skos:prefLabel "Aktive Medienarbeit "@de .
+
+<medienwirkung> a skos:Concept ;
+    skos:broader <medienpädagogik> ;
+    skos:inScheme <> ;
+    skos:narrower <computerspiel_pädagogik> ;
+    skos:prefLabel "Medienwirkung"@de .
+
+<nachricht> a skos:Concept ;
+    skos:broader <presse> ;
+    skos:inScheme <> ;
+    skos:narrower <fake_news> ;
+    skos:prefLabel "Nachricht"@de .
+
+<printmedium> a skos:Concept ;
+    skos:broader <medienpädagogik> ;
+    skos:inScheme <> ;
+    skos:narrower <presse> ;
+    skos:prefLabel "Printmedium"@de .
+
+<video> a skos:Concept ;
+    skos:broader <medienzentrum> ;
+    skos:inScheme <> ;
+    skos:narrower <videoclip> ;
+    skos:prefLabel "Video"@de .
+
+<fernsehfilm> a skos:Concept ;
+    skos:broader <fernsehen> ;
+    skos:inScheme <> ;
+    skos:narrower <comedy>,
+        <seifenoper> ;
+    skos:prefLabel "Fernsehfilm"@de .
+
+<filmherstellung> a skos:Concept ;
+    skos:broader <film> ;
+    skos:inScheme <> ;
+    skos:narrower <trickfilmherstellung>,
+        <vertonung> ;
+    skos:prefLabel "Filmherstellung"@de .
+
+<massenmedien> a skos:Concept ;
+    skos:broader <medienpädagogik> ;
+    skos:inScheme <> ;
+    skos:narrower <fernsehen>,
+        <film>,
+        <rundfunk> ;
+    skos:prefLabel "Massenmedien"@de .
+
+<filmgestaltung> a skos:Concept ;
+    skos:broader <film> ;
+    skos:inScheme <> ;
+    skos:narrower <beleuchtung_film/theater>,
+        <bildtonzuordnung>,
+        <filmmontage>,
+        <filmsprache> ;
+    skos:prefLabel "Filmgestaltung"@de .
+
+<presse> a skos:Concept ;
+    skos:broader <printmedium> ;
+    skos:inScheme <> ;
+    skos:narrower <boulevardpresse>,
+        <nachricht>,
+        <pressekodex>,
+        <zeitung> ;
+    skos:prefLabel "Presse"@de .
+
+<fotografieren> a skos:Concept ;
+    skos:broader <medienpädagogik> ;
+    skos:inScheme <> ;
+    skos:narrower <belichtung>,
+        <bildsprache>,
+        <fotomontage>,
+        <sensibilisierung_fotografie>,
+        <weitwinkelobjektiv> ;
+    skos:prefLabel "Fotografieren"@de .
+
+<medienzentrum> a skos:Concept ;
+    skos:broader <medienpädagogik> ;
+    skos:inScheme <> ;
+    skos:narrower <aktive_medienarbeit_>,
+        <kinderkino>,
+        <medienerziehung>,
+        <medienkunde>,
+        <video> ;
+    skos:prefLabel "Medienzentrum"@de .
+
+<film> a skos:Concept ;
+    skos:broader <massenmedien> ;
+    skos:inScheme <> ;
+    skos:narrower <filmanalyse>,
+        <filmbildung>,
+        <filmgeschichte>,
+        <filmgestaltung>,
+        <filmherstellung>,
+        <kino> ;
+    skos:prefLabel "Film)"@de .
+
+<fernsehen> a skos:Concept ;
+    skos:broader <massenmedien> ;
+    skos:inScheme <> ;
+    skos:narrower <bluebox>,
+        <castingshow>,
+        <fernsehen_östliche_bundesländer>,
+        <fernsehfilm>,
+        <fernsehkonsum>,
+        <fernsehproduktion>,
+        <fernsehserie>,
+        <fernsehübertragung>,
+        <playback>,
+        <unterhaltungssendung> ;
+    skos:prefLabel "Fernsehen"@de .
+
+<medienpädagogik> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <fotografieren>,
+        <kulturtechnik>,
+        <massenmedien>,
+        <medienkonsum>,
+        <medienwirklichkeit>,
+        <medienwirkung>,
+        <medienzentrum>,
+        <montage_medien>,
+        <neue_medien>,
+        <printmedium>,
+        <tonstudio>,
+        <unterrichtsfilm> ;
+    skos:prefLabel "Medienpädagogik"@de ;
+    skos:topConceptOf <> .
+
+<> a skos:ConceptScheme ;
+    dct:creator "<https://creator.com>" ;
+    dct:description "medienpaedagogik_systematik"@de ;
+    dct:title "medienpaedagogik_systematik"@de ;
+    skos:hasTopConcept <bittorf__wilhelm>,
+        <everding__august>,
+        <medienpädagogik> .
+

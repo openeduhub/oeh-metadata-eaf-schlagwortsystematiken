@@ -1,0 +1,657 @@
+@base <https://w3id.org/openeduhub/vocabs/keyword_catalogue/verkehrserziehung_systematik/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<abbiegevorgang_verkehr> a skos:Concept ;
+    skos:broader <verkehrsverhalten> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Abbiegevorgang (Verkehr)"@de .
+
+<ampel> a skos:Concept ;
+    skos:broader <straßenverkehrsordnung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ampel"@de .
+
+<aquaplaning> a skos:Concept ;
+    skos:broader <konfliktsituation_verkehr> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Aquaplaning"@de .
+
+<autobahn> a skos:Concept ;
+    skos:broader <straße> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Autobahn"@de .
+
+<autoreifen> a skos:Concept ;
+    skos:broader <kraftfahrzeug> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Autoreifen"@de .
+
+<benz__carl> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Benz, Carl"@de ;
+    skos:topConceptOf <> .
+
+<benzineinspritzung> a skos:Concept ;
+    skos:broader <kraftfahrzeug> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Benzineinspritzung"@de .
+
+<benzinverbrauch> a skos:Concept ;
+    skos:broader <kraftfahrzeug> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Benzinverbrauch"@de .
+
+<beschleunigung> a skos:Concept ;
+    skos:broader <verkehrsverhalten> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Beschleunigung"@de .
+
+<blickkontakt_verkehrsverhalten> a skos:Concept ;
+    skos:broader <verkehrsverhalten> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Blickkontakt (Verkehrsverhalten)"@de .
+
+<bordstein> a skos:Concept ;
+    skos:broader <straße> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bordstein"@de .
+
+<bremse> a skos:Concept ;
+    skos:broader <kraftfahrzeug> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bremse"@de .
+
+<bremsweg> a skos:Concept ;
+    skos:broader <anhalteweg> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bremsweg"@de .
+
+<bundesbahnwerbung> a skos:Concept ;
+    skos:broader <deutsche_bundesbahn> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bundesbahnwerbung"@de .
+
+<container_transportbehälter> a skos:Concept ;
+    skos:broader <güterverkehr> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Container (Transportbehälter)"@de .
+
+<crashtest_> a skos:Concept ;
+    skos:broader <verkehrssicherheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Crashtest "@de .
+
+<daimler__gottlieb> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Daimler, Gottlieb"@de ;
+    skos:topConceptOf <> .
+
+<deutsche_lufthansa_ag> a skos:Concept ;
+    skos:broader <luftverkehr> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Deutsche Lufthansa AG"@de .
+
+<diebstahlsicherung> a skos:Concept ;
+    skos:broader <kraftfahrzeug> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Diebstahlsicherung"@de .
+
+<diesel__rudolf> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Diesel, Rudolf"@de ;
+    skos:topConceptOf <> .
+
+<draisine> a skos:Concept ;
+    skos:broader <fahrrad> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Draisine"@de .
+
+<drohne> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Drohne"@de ;
+    skos:topConceptOf <> .
+
+<eckener__hugo> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Eckener, Hugo"@de ;
+    skos:topConceptOf <> .
+
+<eisenbahn> a skos:Concept ;
+    skos:broader <transport> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Eisenbahn"@de .
+
+<elektroauto> a skos:Concept ;
+    skos:broader <kraftfahrzeug> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Elektroauto"@de .
+
+<fahrerflucht> a skos:Concept ;
+    skos:broader <verkehrsunfall> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fahrerflucht"@de .
+
+<fahrpraxis> a skos:Concept ;
+    skos:broader <fahrschule> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fahrpraxis"@de .
+
+<fahrradfahren> a skos:Concept ;
+    skos:broader <verkehrsverhalten> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fahrradfahren"@de .
+
+<flughafen> a skos:Concept ;
+    skos:broader <luftfahrt> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Flughafen"@de .
+
+<flugsicherung> a skos:Concept ;
+    skos:broader <luftfahrt> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Flugsicherung"@de .
+
+<flugvorbereitung> a skos:Concept ;
+    skos:broader <luftfahrt> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Flugvorbereitung"@de .
+
+<flugzeug> a skos:Concept ;
+    skos:broader <luftfahrt> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Flugzeug"@de .
+
+<fracht> a skos:Concept ;
+    skos:broader <transport> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fracht"@de .
+
+<fußgänger> a skos:Concept ;
+    skos:broader <verkehrsverhalten> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fußgänger"@de .
+
+<führerschein> a skos:Concept ;
+    skos:broader <fahrschule> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Führerschein"@de .
+
+<gefahrguttransport> a skos:Concept ;
+    skos:broader <transport> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gefahrguttransport"@de .
+
+<gehweg> a skos:Concept ;
+    skos:broader <straße> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gehweg"@de .
+
+<gps> a skos:Concept ;
+    skos:broader <navigation> ;
+    skos:inScheme <> ;
+    skos:prefLabel "GPS"@de .
+
+<heißluftballon> a skos:Concept ;
+    skos:broader <luftfahrt> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Heißluftballon"@de .
+
+<hubschrauber> a skos:Concept ;
+    skos:broader <luftfahrt> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hubschrauber"@de .
+
+<hybridantrieb> a skos:Concept ;
+    skos:broader <kraftfahrzeug> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hybridantrieb"@de .
+
+<induktionsschleife> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Induktionsschleife"@de ;
+    skos:topConceptOf <> .
+
+<kompass> a skos:Concept ;
+    skos:broader <navigation> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kompass"@de .
+
+<kraftfahrzeug_geschichte> a skos:Concept ;
+    skos:broader <kraftfahrzeug> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kraftfahrzeug (Geschichte)"@de .
+
+<lastkraftwagen> a skos:Concept ;
+    skos:broader <straßenverkehr> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lastkraftwagen"@de .
+
+<leichtkraftrad> a skos:Concept ;
+    skos:broader <straßenverkehr> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Leichtkraftrad"@de .
+
+<lokomotive> a skos:Concept ;
+    skos:broader <eisenbahn_geschichte> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lokomotive"@de .
+
+<luftkissenfahrzeug> a skos:Concept ;
+    skos:broader <luftfahrt> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Luftkissenfahrzeug"@de .
+
+<luftschiff> a skos:Concept ;
+    skos:broader <luftfahrt> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Luftschiff"@de .
+
+<magnetschwebebahn> a skos:Concept ;
+    skos:broader <öffentliches_verkehrsmittel> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Magnetschwebebahn"@de .
+
+<mofa> a skos:Concept ;
+    skos:broader <straßenverkehr> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mofa"@de .
+
+<moped> a skos:Concept ;
+    skos:broader <straßenverkehr> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Moped"@de .
+
+<motor> a skos:Concept ;
+    skos:broader <kraftfahrzeug> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Motor"@de .
+
+<motorrad> a skos:Concept ;
+    skos:broader <straßenverkehr> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Motorrad"@de .
+
+<otto__nikolaus_august> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Otto, Nikolaus August"@de ;
+    skos:topConceptOf <> .
+
+<piktogramm> a skos:Concept ;
+    skos:broader <straßenverkehrsordnung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Piktogramm"@de .
+
+<reaktionsfähigkeit_verkehr> a skos:Concept ;
+    skos:broader <verkehrssicherheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Reaktionsfähigkeit (Verkehr)"@de .
+
+<schulbus> a skos:Concept ;
+    skos:broader <straßenverkehr> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schulbus"@de .
+
+<schulweg> a skos:Concept ;
+    skos:broader <verkehrsverhalten> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schulweg"@de .
+
+<schutzhelm> a skos:Concept ;
+    skos:broader <verkehrssicherheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schutzhelm"@de .
+
+<schülerlotse> a skos:Concept ;
+    skos:broader <straßenverkehrsordnung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schülerlotse"@de .
+
+<sicherheitssystem_kfz> a skos:Concept ;
+    skos:broader <verkehrssicherheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sicherheitssystem (Kfz)"@de .
+
+<stoßdämpfer> a skos:Concept ;
+    skos:broader <kraftfahrzeug> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Stoßdämpfer"@de .
+
+<straßenbahn> a skos:Concept ;
+    skos:broader <öffentliches_verkehrsmittel> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Straßenbahn"@de .
+
+<straßenbau> a skos:Concept ;
+    skos:broader <straße> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Straßenbau"@de .
+
+<stuttgart_21> a skos:Concept ;
+    skos:broader <bahnhof> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Stuttgart 21"@de .
+
+<tankstelle> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tankstelle"@de ;
+    skos:topConceptOf <> .
+
+<teststrecke> a skos:Concept ;
+    skos:broader <straße> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Teststrecke"@de .
+
+<trampen> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Trampen"@de ;
+    skos:topConceptOf <> .
+
+<tretroller> a skos:Concept ;
+    skos:broader <straßenverkehr> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tretroller"@de .
+
+<ubahn> a skos:Concept ;
+    skos:broader <öffentliches_verkehrsmittel> ;
+    skos:inScheme <> ;
+    skos:prefLabel "U-Bahn"@de .
+
+<verkehrsberuhigung> a skos:Concept ;
+    skos:broader <straße> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Verkehrsberuhigung"@de .
+
+<verkehrserziehung_ampel> a skos:Concept ;
+    skos:broader <verkehrserziehung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Verkehrserziehung (Ampel)"@de .
+
+<verkehrserziehung_auto> a skos:Concept ;
+    skos:broader <verkehrserziehung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Verkehrserziehung (Auto)"@de .
+
+<verkehrserziehung_fahrrad> a skos:Concept ;
+    skos:broader <verkehrserziehung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Verkehrserziehung (Fahrrad)"@de .
+
+<verkehrserziehung_kraftrad> a skos:Concept ;
+    skos:broader <verkehrserziehung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Verkehrserziehung (Kraftrad)"@de .
+
+<verkehrserziehung_straße> a skos:Concept ;
+    skos:broader <verkehrserziehung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Verkehrserziehung (Straße)"@de .
+
+<verkehrsproblem> a skos:Concept ;
+    skos:broader <straße> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Verkehrsproblem"@de .
+
+<vorfahrt> a skos:Concept ;
+    skos:broader <straßenverkehrsordnung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Vorfahrt"@de .
+
+<wahrnehmungsvermögen_verkehr> a skos:Concept ;
+    skos:broader <verkehrsverhalten> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wahrnehmungsvermögen (Verkehr)"@de .
+
+<zebrastreifen_fußgängerüberweg> a skos:Concept ;
+    skos:broader <straßenverkehrsordnung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zebrastreifen (Fußgängerüberweg)"@de .
+
+<zeppelin__ferdinand_graf_von> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zeppelin, Ferdinand Graf von"@de ;
+    skos:topConceptOf <> .
+
+<anhalteweg> a skos:Concept ;
+    skos:broader <verkehrssicherheit> ;
+    skos:inScheme <> ;
+    skos:narrower <bremsweg> ;
+    skos:prefLabel "Anhalteweg"@de .
+
+<bahnhof> a skos:Concept ;
+    skos:broader <eisenbahn_geschichte> ;
+    skos:inScheme <> ;
+    skos:narrower <stuttgart_21> ;
+    skos:prefLabel "Bahnhof"@de .
+
+<deutsche_bahn_ag> a skos:Concept ;
+    skos:broader <transport> ;
+    skos:inScheme <> ;
+    skos:narrower <deutsche_bundesbahn> ;
+    skos:prefLabel "Deutsche Bahn AG"@de .
+
+<deutsche_bundesbahn> a skos:Concept ;
+    skos:broader <deutsche_bahn_ag> ;
+    skos:inScheme <> ;
+    skos:narrower <bundesbahnwerbung> ;
+    skos:prefLabel "Deutsche Bundesbahn"@de .
+
+<fahrrad> a skos:Concept ;
+    skos:broader <straßenverkehr> ;
+    skos:inScheme <> ;
+    skos:narrower <draisine> ;
+    skos:prefLabel "Fahrrad"@de .
+
+<güterverkehr> a skos:Concept ;
+    skos:broader <transport> ;
+    skos:inScheme <> ;
+    skos:narrower <container_transportbehälter> ;
+    skos:prefLabel "Güterverkehr"@de .
+
+<luftverkehr> a skos:Concept ;
+    skos:broader <luftfahrt> ;
+    skos:inScheme <> ;
+    skos:narrower <deutsche_lufthansa_ag> ;
+    skos:prefLabel "Luftverkehr"@de .
+
+<verkehrspolitik> a skos:Concept ;
+    skos:broader <verkehr> ;
+    skos:inScheme <> ;
+    skos:narrower <straße> ;
+    skos:prefLabel "Verkehrspolitik"@de .
+
+<verkehrsregel> a skos:Concept ;
+    skos:broader <verkehr> ;
+    skos:inScheme <> ;
+    skos:narrower <straßenverkehrsordnung> ;
+    skos:prefLabel "Verkehrsregel"@de .
+
+<verkehrsunfall> a skos:Concept ;
+    skos:broader <konfliktsituation_verkehr> ;
+    skos:inScheme <> ;
+    skos:narrower <fahrerflucht> ;
+    skos:prefLabel "Verkehrsunfall"@de .
+
+<öffentlicher_nahverkehr> a skos:Concept ;
+    skos:broader <transport> ;
+    skos:inScheme <> ;
+    skos:narrower <öffentliches_verkehrsmittel> ;
+    skos:prefLabel "Öffentlicher Nahverkehr"@de .
+
+<eisenbahn_geschichte> a skos:Concept ;
+    skos:broader <transport> ;
+    skos:inScheme <> ;
+    skos:narrower <bahnhof>,
+        <lokomotive> ;
+    skos:prefLabel "Eisenbahn (Geschichte)"@de .
+
+<fahrschule> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <fahrpraxis>,
+        <führerschein> ;
+    skos:prefLabel "Fahrschule"@de ;
+    skos:topConceptOf <> .
+
+<konfliktsituation_verkehr> a skos:Concept ;
+    skos:broader <verkehrsverhalten> ;
+    skos:inScheme <> ;
+    skos:narrower <aquaplaning>,
+        <verkehrsunfall> ;
+    skos:prefLabel "Konfliktsituation (Verkehr)"@de .
+
+<navigation> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <gps>,
+        <kompass> ;
+    skos:prefLabel "Navigation"@de ;
+    skos:topConceptOf <> .
+
+<öffentliches_verkehrsmittel> a skos:Concept ;
+    skos:broader <öffentlicher_nahverkehr> ;
+    skos:inScheme <> ;
+    skos:narrower <magnetschwebebahn>,
+        <straßenbahn>,
+        <ubahn> ;
+    skos:prefLabel "Öffentliches Verkehrsmittel"@de .
+
+<straßenverkehrsordnung> a skos:Concept ;
+    skos:broader <verkehrsregel> ;
+    skos:inScheme <> ;
+    skos:narrower <ampel>,
+        <piktogramm>,
+        <schülerlotse>,
+        <vorfahrt>,
+        <zebrastreifen_fußgängerüberweg> ;
+    skos:prefLabel "Straßenverkehrsordnung"@de .
+
+<verkehrserziehung> a skos:Concept ;
+    skos:broader <verkehr> ;
+    skos:inScheme <> ;
+    skos:narrower <verkehrserziehung_ampel>,
+        <verkehrserziehung_auto>,
+        <verkehrserziehung_fahrrad>,
+        <verkehrserziehung_kraftrad>,
+        <verkehrserziehung_straße> ;
+    skos:prefLabel "Verkehrserziehung"@de .
+
+<verkehrssicherheit> a skos:Concept ;
+    skos:broader <verkehr> ;
+    skos:inScheme <> ;
+    skos:narrower <anhalteweg>,
+        <crashtest_>,
+        <reaktionsfähigkeit_verkehr>,
+        <schutzhelm>,
+        <sicherheitssystem_kfz> ;
+    skos:prefLabel "Verkehrssicherheit"@de .
+
+<verkehr> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <transport>,
+        <verkehrserziehung>,
+        <verkehrspolitik>,
+        <verkehrsregel>,
+        <verkehrssicherheit>,
+        <verkehrsverhalten> ;
+    skos:prefLabel "Verkehr"@de ;
+    skos:topConceptOf <> .
+
+<straße> a skos:Concept ;
+    skos:broader <verkehrspolitik> ;
+    skos:inScheme <> ;
+    skos:narrower <autobahn>,
+        <bordstein>,
+        <gehweg>,
+        <straßenbau>,
+        <teststrecke>,
+        <verkehrsberuhigung>,
+        <verkehrsproblem> ;
+    skos:prefLabel "Straße"@de .
+
+<verkehrsverhalten> a skos:Concept ;
+    skos:broader <verkehr> ;
+    skos:inScheme <> ;
+    skos:narrower <abbiegevorgang_verkehr>,
+        <beschleunigung>,
+        <blickkontakt_verkehrsverhalten>,
+        <fahrradfahren>,
+        <fußgänger>,
+        <konfliktsituation_verkehr>,
+        <schulweg>,
+        <wahrnehmungsvermögen_verkehr> ;
+    skos:prefLabel "Verkehrsverhalten"@de .
+
+<luftfahrt> a skos:Concept ;
+    skos:broader <transport> ;
+    skos:inScheme <> ;
+    skos:narrower <flughafen>,
+        <flugsicherung>,
+        <flugvorbereitung>,
+        <flugzeug>,
+        <heißluftballon>,
+        <hubschrauber>,
+        <luftkissenfahrzeug>,
+        <luftschiff>,
+        <luftverkehr> ;
+    skos:prefLabel "Luftfahrt"@de .
+
+<straßenverkehr> a skos:Concept ;
+    skos:broader <transport> ;
+    skos:inScheme <> ;
+    skos:narrower <fahrrad>,
+        <kraftfahrzeug>,
+        <lastkraftwagen>,
+        <leichtkraftrad>,
+        <mofa>,
+        <moped>,
+        <motorrad>,
+        <schulbus>,
+        <tretroller> ;
+    skos:prefLabel "Straßenverkehr"@de .
+
+<transport> a skos:Concept ;
+    skos:broader <verkehr> ;
+    skos:inScheme <> ;
+    skos:narrower <deutsche_bahn_ag>,
+        <eisenbahn>,
+        <eisenbahn_geschichte>,
+        <fracht>,
+        <gefahrguttransport>,
+        <güterverkehr>,
+        <luftfahrt>,
+        <straßenverkehr>,
+        <öffentlicher_nahverkehr> ;
+    skos:prefLabel "Transport"@de .
+
+<kraftfahrzeug> a skos:Concept ;
+    skos:broader <straßenverkehr> ;
+    skos:inScheme <> ;
+    skos:narrower <autoreifen>,
+        <benzineinspritzung>,
+        <benzinverbrauch>,
+        <bremse>,
+        <diebstahlsicherung>,
+        <elektroauto>,
+        <hybridantrieb>,
+        <kraftfahrzeug_geschichte>,
+        <motor>,
+        <stoßdämpfer> ;
+    skos:prefLabel "Kraftfahrzeug"@de .
+
+<> a skos:ConceptScheme ;
+    dct:creator "<https://creator.com>" ;
+    dct:description "verkehrserziehung_systematik"@de ;
+    dct:title "verkehrserziehung_systematik"@de ;
+    skos:hasTopConcept <benz__carl>,
+        <daimler__gottlieb>,
+        <diesel__rudolf>,
+        <drohne>,
+        <eckener__hugo>,
+        <fahrschule>,
+        <induktionsschleife>,
+        <navigation>,
+        <otto__nikolaus_august>,
+        <tankstelle>,
+        <trampen>,
+        <verkehr>,
+        <zeppelin__ferdinand_graf_von> .
+

@@ -1,0 +1,1569 @@
+@base <https://w3id.org/openeduhub/vocabs/keyword_catalogue/musik_systematik/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<abren__josé_antonio> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Abren, José Antonio"@de ;
+    skos:topConceptOf <> .
+
+<adam__adolphe> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Adam, Adolphe"@de ;
+    skos:topConceptOf <> .
+
+<adams__john> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Adams, John"@de ;
+    skos:topConceptOf <> .
+
+<addinsell__richard> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Addinsell, Richard"@de ;
+    skos:topConceptOf <> .
+
+<albeniz__isaac> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Albeniz, Isaac"@de ;
+    skos:topConceptOf <> .
+
+<albinoni__tommaso> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Albinoni, Tommaso"@de ;
+    skos:topConceptOf <> .
+
+<allegri__gregorio> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Allegri, Gregorio"@de ;
+    skos:topConceptOf <> .
+
+<andré__maurice> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "André, Maurice"@de ;
+    skos:topConceptOf <> .
+
+<anka__paul> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Anka, Paul"@de ;
+    skos:topConceptOf <> .
+
+<arban__jean_babtiste> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Arban, Jean Babtiste"@de ;
+    skos:topConceptOf <> .
+
+<arenskij__anton> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Arenskij, Anton"@de ;
+    skos:topConceptOf <> .
+
+<armstrong__louis> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Armstrong, Louis"@de ;
+    skos:topConceptOf <> .
+
+<arne__thomas_augustine> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Arne, Thomas Augustine"@de ;
+    skos:topConceptOf <> .
+
+<ashkenazy__vladimir> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ashkenazy, Vladimir"@de ;
+    skos:topConceptOf <> .
+
+<avison__charles> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Avison, Charles"@de ;
+    skos:topConceptOf <> .
+
+<bach__carl_philipp_emanuel> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bach, Carl Philipp Emanuel"@de ;
+    skos:topConceptOf <> .
+
+<bach__johann_christian> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bach, Johann Christian"@de ;
+    skos:topConceptOf <> .
+
+<bach__johann_christoph_friedrich> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bach, Johann Christoph Friedrich"@de ;
+    skos:topConceptOf <> .
+
+<bach__johann_sebastian> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bach, Johann Sebastian"@de ;
+    skos:topConceptOf <> .
+
+<bach__wilhelm_friedemann> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bach, Wilhelm Friedemann"@de ;
+    skos:topConceptOf <> .
+
+<baez__joan> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Baez, Joan"@de ;
+    skos:topConceptOf <> .
+
+<ballade> a skos:Concept ;
+    skos:broader <lied> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ballade"@de .
+
+<band_musik> a skos:Concept ;
+    skos:broader <musik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Band (Musik)"@de .
+
+<barber__samuel> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Barber, Samuel"@de ;
+    skos:topConceptOf <> .
+
+<bartok__bela> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bartok, Bela"@de ;
+    skos:topConceptOf <> .
+
+<basie__count> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Basie, Count"@de ;
+    skos:topConceptOf <> .
+
+<beat> a skos:Concept ;
+    skos:broader <moderne_musik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Beat"@de .
+
+<beatles> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Beatles"@de ;
+    skos:topConceptOf <> .
+
+<bedford__david> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bedford, David"@de ;
+    skos:topConceptOf <> .
+
+<beethoven__ludwig_van> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Beethoven, Ludwig van"@de ;
+    skos:topConceptOf <> .
+
+<belafonte__harry> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Belafonte, Harry"@de ;
+    skos:topConceptOf <> .
+
+<benda__franz> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Benda, Franz"@de ;
+    skos:topConceptOf <> .
+
+<bennett__john> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bennett, John"@de ;
+    skos:topConceptOf <> .
+
+<bennett__william_sterndale> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bennett, William Sterndale"@de ;
+    skos:topConceptOf <> .
+
+<berg__alban> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Berg, Alban"@de ;
+    skos:topConceptOf <> .
+
+<berio__luciano> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Berio, Luciano"@de ;
+    skos:topConceptOf <> .
+
+<berlioz__hector> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Berlioz, Hector"@de ;
+    skos:topConceptOf <> .
+
+<bernstein__leonard> a skos:Concept ;
+    skos:broader <dirigent> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bernstein, Leonard"@de .
+
+<berry__chuck> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Berry, Chuck"@de ;
+    skos:topConceptOf <> .
+
+<biber__heinrich_ignaz_franz> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Biber, Heinrich Ignaz Franz"@de ;
+    skos:topConceptOf <> .
+
+<bingham__john> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bingham, John"@de ;
+    skos:topConceptOf <> .
+
+<birnstein__renate> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Birnstein, Renate"@de ;
+    skos:topConceptOf <> .
+
+<bizet__georges> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bizet, Georges"@de ;
+    skos:topConceptOf <> .
+
+<blacher__boris> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Blacher, Boris"@de ;
+    skos:topConceptOf <> .
+
+<blakey__art> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Blakey, Art"@de ;
+    skos:topConceptOf <> .
+
+<blank__boris> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Blank, Boris"@de ;
+    skos:topConceptOf <> .
+
+<bliss__arthur> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bliss, Arthur"@de ;
+    skos:topConceptOf <> .
+
+<boccherini__luigi> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Boccherini, Luigi"@de ;
+    skos:topConceptOf <> .
+
+<borodin__alexander> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Borodin, Alexander"@de ;
+    skos:topConceptOf <> .
+
+<borris__siegfried> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Borris, Siegfried"@de ;
+    skos:topConceptOf <> .
+
+<bose__hans_jürgen_von> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bose, Hans Jürgen von"@de ;
+    skos:topConceptOf <> .
+
+<bottesini__giovanni> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bottesini, Giovanni"@de ;
+    skos:topConceptOf <> .
+
+<boulez__pierre> a skos:Concept ;
+    skos:broader <dirigent> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Boulez, Pierre"@de .
+
+<brahms__johannes> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Brahms, Johannes"@de ;
+    skos:topConceptOf <> .
+
+<brassens__georges> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Brassens, Georges"@de ;
+    skos:topConceptOf <> .
+
+<bratsche> a skos:Concept ;
+    skos:broader <streichinstrument> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bratsche"@de .
+
+<brel__jacques> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Brel, Jacques"@de ;
+    skos:topConceptOf <> .
+
+<britten__benjamin> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Britten, Benjamin"@de ;
+    skos:topConceptOf <> .
+
+<brown__richard> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Brown, Richard"@de ;
+    skos:topConceptOf <> .
+
+<bruch__max> a skos:Concept ;
+    skos:broader <dirigent> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bruch, Max"@de .
+
+<bruckner__anton> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bruckner, Anton"@de ;
+    skos:topConceptOf <> .
+
+<brumel__antoine> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Brumel, Antoine"@de ;
+    skos:topConceptOf <> .
+
+<busoni__ferruccio> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Busoni, Ferruccio"@de ;
+    skos:topConceptOf <> .
+
+<buxtehude__dietrich> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Buxtehude, Dietrich"@de ;
+    skos:topConceptOf <> .
+
+<byrd__william> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Byrd, William"@de ;
+    skos:topConceptOf <> .
+
+<böhm__karl> a skos:Concept ;
+    skos:broader <dirigent> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Böhm, Karl"@de .
+
+<caballe__montserrat> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Caballe, Montserrat"@de ;
+    skos:topConceptOf <> .
+
+<cage__john> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Cage, John"@de ;
+    skos:topConceptOf <> .
+
+<campion__thomas> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Campion, Thomas"@de ;
+    skos:topConceptOf <> .
+
+<carreras__jose> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Carreras, Jose"@de ;
+    skos:topConceptOf <> .
+
+<caruso__enrico> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Caruso, Enrico"@de ;
+    skos:topConceptOf <> .
+
+<cash__johnny> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Cash, Johnny"@de ;
+    skos:topConceptOf <> .
+
+<cavalli__francesco> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Cavalli, Francesco"@de ;
+    skos:topConceptOf <> .
+
+<chabrier__alexis_emmanuel> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Chabrier, Alexis Emmanuel"@de ;
+    skos:topConceptOf <> .
+
+<chafe__chris> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Chafe, Chris"@de ;
+    skos:topConceptOf <> .
+
+<chanson> a skos:Concept ;
+    skos:broader <lied> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Chanson"@de .
+
+<chatschaturjan__aram> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Chatschaturjan, Aram"@de ;
+    skos:topConceptOf <> .
+
+<chausson__ernest> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Chausson, Ernest"@de ;
+    skos:topConceptOf <> .
+
+<chopin__frédéric_françois> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Chopin, Frédéric François"@de ;
+    skos:topConceptOf <> .
+
+<chor_musik> a skos:Concept ;
+    skos:broader <singen_musik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Chor (Musik)"@de .
+
+<choral_evangelisches_kirchenlied> a skos:Concept ;
+    skos:broader <lied> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Choral (evangelisches Kirchenlied)"@de .
+
+<cimarosa__domenico> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Cimarosa, Domenico"@de ;
+    skos:topConceptOf <> .
+
+<clarke__jeremiah> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Clarke, Jeremiah"@de ;
+    skos:topConceptOf <> .
+
+<coleman__edward> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Coleman, Edward"@de ;
+    skos:topConceptOf <> .
+
+<concerto_grosso> a skos:Concept ;
+    skos:broader <klassik_musik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Concerto grosso"@de .
+
+<copland__aaron> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Copland, Aaron"@de ;
+    skos:topConceptOf <> .
+
+<corbett__william> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Corbett, William"@de ;
+    skos:topConceptOf <> .
+
+<countrymusik> a skos:Concept ;
+    skos:broader <unterhaltungsmusik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Country-Musik"@de .
+
+<couperin__francois> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Couperin, Francois"@de ;
+    skos:topConceptOf <> .
+
+<crosby__bing> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Crosby, Bing"@de ;
+    skos:topConceptOf <> .
+
+<czerny__carl> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Czerny, Carl"@de ;
+    skos:topConceptOf <> .
+
+<danielsson__christer> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Danielsson, Christer"@de ;
+    skos:topConceptOf <> .
+
+<danzi__franz> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Danzi, Franz"@de ;
+    skos:topConceptOf <> .
+
+<dargomyschskij__alexandr> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Dargomyschskij, Alexandr"@de ;
+    skos:topConceptOf <> .
+
+<debussy__claude> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Debussy, Claude"@de ;
+    skos:topConceptOf <> .
+
+<delius__frederick> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Delius, Frederick"@de ;
+    skos:topConceptOf <> .
+
+<deodato__eumir> a skos:Concept ;
+    skos:broader <dirigent> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Deodato, Eumir"@de .
+
+<desprez__josquin> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Desprez, Josquin"@de ;
+    skos:topConceptOf <> .
+
+<dessau__paul> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Dessau, Paul"@de ;
+    skos:topConceptOf <> .
+
+<deutschlandlied> a skos:Concept ;
+    skos:broader <nationalhymne> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Deutschlandlied"@de .
+
+<devienne__françois> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Devienne, François"@de ;
+    skos:topConceptOf <> .
+
+<distler__hugo> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Distler, Hugo"@de ;
+    skos:topConceptOf <> .
+
+<ditters_von_dittersdorf__karl> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ditters von Dittersdorf, Karl"@de ;
+    skos:topConceptOf <> .
+
+<domingo__placido> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Domingo, Placido"@de ;
+    skos:topConceptOf <> .
+
+<donizetti__domenico_gaetano_maria> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Donizetti, Domenico Gaetano Maria"@de ;
+    skos:topConceptOf <> .
+
+<dowland__john> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Dowland, John"@de ;
+    skos:topConceptOf <> .
+
+<dukas__paul> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Dukas, Paul"@de ;
+    skos:topConceptOf <> .
+
+<dunhill__thomas> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Dunhill, Thomas"@de ;
+    skos:topConceptOf <> .
+
+<duo> a skos:Concept ;
+    skos:broader <ensemble> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Duo"@de .
+
+<duparc__marie_eugene_henri> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Duparc, Marie Eugene Henri"@de ;
+    skos:topConceptOf <> .
+
+<dvorak__antonin> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Dvorak, Antonin"@de ;
+    skos:topConceptOf <> .
+
+<egk__werner> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Egk, Werner"@de ;
+    skos:topConceptOf <> .
+
+<eisler__hanns> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Eisler, Hanns"@de ;
+    skos:topConceptOf <> .
+
+<elektroakustik> a skos:Concept ;
+    skos:broader <musik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Elektroakustik"@de .
+
+<elgar__edward_sir> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Elgar, Edward Sir"@de ;
+    skos:topConceptOf <> .
+
+<ellington__duke> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ellington, Duke"@de ;
+    skos:topConceptOf <> .
+
+<enescu__george> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Enescu, George"@de ;
+    skos:topConceptOf <> .
+
+<entartete_musik> a skos:Concept ;
+    skos:broader <musikgeschichte> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Entartete Musik"@de .
+
+<ernst__heinrich_wilhelm> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ernst, Heinrich Wilhelm"@de ;
+    skos:topConceptOf <> .
+
+<evers__franz> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Evers, Franz"@de ;
+    skos:topConceptOf <> .
+
+<falla__manuel_de> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Falla, Manuel de"@de ;
+    skos:topConceptOf <> .
+
+<farberman__harold> a skos:Concept ;
+    skos:broader <dirigent> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Farberman, Harold"@de .
+
+<fasch__johann_friedrich> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fasch, Johann Friedrich"@de ;
+    skos:topConceptOf <> .
+
+<faure__gabriel> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Faure, Gabriel"@de ;
+    skos:topConceptOf <> .
+
+<ferlendis__giuseppe> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ferlendis, Giuseppe"@de ;
+    skos:topConceptOf <> .
+
+<ferrat__jean> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ferrat, Jean"@de ;
+    skos:topConceptOf <> .
+
+<filmmusik> a skos:Concept ;
+    skos:broader <musikrichtung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Filmmusik"@de .
+
+<fitzgerald__ella> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fitzgerald, Ella"@de ;
+    skos:topConceptOf <> .
+
+<fortner__wolfgang> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fortner, Wolfgang"@de ;
+    skos:topConceptOf <> .
+
+<francesco_landini> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Francesco Landini"@de ;
+    skos:topConceptOf <> .
+
+<franz__robert> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Franz, Robert"@de ;
+    skos:topConceptOf <> .
+
+<frenck__cesar> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Frenck, Cesar"@de ;
+    skos:topConceptOf <> .
+
+<frescobaldi__girolamo> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Frescobaldi, Girolamo"@de ;
+    skos:topConceptOf <> .
+
+<fricsay__ferenc> a skos:Concept ;
+    skos:broader <dirigent> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fricsay, Ferenc"@de .
+
+<fuge_musik> a skos:Concept ;
+    skos:broader <komposition_musik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fuge (Musik)"@de .
+
+<gabrieli__andrea> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gabrieli, Andrea"@de ;
+    skos:topConceptOf <> .
+
+<gabrieli__giovanni> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gabrieli, Giovanni"@de ;
+    skos:topConceptOf <> .
+
+<gainsbourg__serge> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gainsbourg, Serge"@de ;
+    skos:topConceptOf <> .
+
+<galilei__vincenzo> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Galilei, Vincenzo"@de ;
+    skos:topConceptOf <> .
+
+<garner__erroll> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Garner, Erroll"@de ;
+    skos:topConceptOf <> .
+
+<gastoldi__giovanni_giacomo> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gastoldi, Giovanni Giacomo"@de ;
+    skos:topConceptOf <> .
+
+<genzmer__harald> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Genzmer, Harald"@de ;
+    skos:topConceptOf <> .
+
+<gershwin__george> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gershwin, George"@de ;
+    skos:topConceptOf <> .
+
+<giordano__umberto_menotti> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Giordano, Umberto Menotti"@de ;
+    skos:topConceptOf <> .
+
+<gitarrenkurs> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gitarrenkurs"@de ;
+    skos:topConceptOf <> .
+
+<glass__philip> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Glass, Philip"@de ;
+    skos:topConceptOf <> .
+
+<gospel> a skos:Concept ;
+    skos:broader <lied> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gospel"@de .
+
+<grafische_notation> a skos:Concept ;
+    skos:broader <aleatorik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Grafische Notation"@de .
+
+<gregorianik> a skos:Concept ;
+    skos:broader <kirchenmusik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gregorianik"@de .
+
+<hiphop> a skos:Concept ;
+    skos:broader <moderne_musik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hip-Hop"@de .
+
+<humoreske> a skos:Concept ;
+    skos:broader <musik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Humoreske"@de .
+
+<hörerziehung> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hörerziehung"@de ;
+    skos:topConceptOf <> .
+
+<improvisation> a skos:Concept ;
+    skos:broader <musik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Improvisation"@de .
+
+<jazz> a skos:Concept ;
+    skos:broader <moderne_musik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Jazz"@de .
+
+<kagel__mauricio> a skos:Concept ;
+    skos:broader <dirigent> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kagel, Mauricio"@de .
+
+<kanon_musik> a skos:Concept ;
+    skos:broader <singen_musik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kanon (Musik)"@de .
+
+<kantate> a skos:Concept ;
+    skos:broader <lied> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kantate"@de .
+
+<karajan__herbert_von> a skos:Concept ;
+    skos:broader <dirigent> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Karajan, Herbert von"@de .
+
+<kinderlied> a skos:Concept ;
+    skos:broader <lied> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kinderlied"@de .
+
+<klarinette> a skos:Concept ;
+    skos:broader <blasinstrument> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Klarinette"@de .
+
+<klavier> a skos:Concept ;
+    skos:broader <tasteninstrument> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Klavier"@de .
+
+<klaviermusik> a skos:Concept ;
+    skos:broader <musikrichtung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Klaviermusik"@de .
+
+<konzert> a skos:Concept ;
+    skos:broader <musik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Konzert"@de .
+
+<kunstlied> a skos:Concept ;
+    skos:broader <lied> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kunstlied"@de .
+
+<madrigal_musik> a skos:Concept ;
+    skos:broader <lied> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Madrigal (Musik)"@de .
+
+<mahler__gustav> a skos:Concept ;
+    skos:broader <dirigent> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mahler, Gustav"@de .
+
+<marsch_musik> a skos:Concept ;
+    skos:broader <komposition_musik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Marsch (Musik)"@de .
+
+<masur__kurt> a skos:Concept ;
+    skos:broader <dirigent> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Masur, Kurt"@de .
+
+<mehrstimmigkeit_mittelalter_musik> a skos:Concept ;
+    skos:broader <komposition_musik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mehrstimmigkeit (Mittelalter Musik)"@de .
+
+<meistersang> a skos:Concept ;
+    skos:broader <mittelalterliche_musik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Meistersang"@de .
+
+<messe_musik> a skos:Concept ;
+    skos:broader <komposition_musik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Messe (Musik)"@de .
+
+<motette> a skos:Concept ;
+    skos:broader <lied> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Motette"@de .
+
+<motown_> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Motown "@de ;
+    skos:topConceptOf <> .
+
+<musical> a skos:Concept ;
+    skos:broader <musikrichtung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Musical"@de .
+
+<musikalische_früherziehung> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Musikalische Früherziehung"@de ;
+    skos:topConceptOf <> .
+
+<musikautomat> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Musikautomat"@de ;
+    skos:topConceptOf <> .
+
+<musiker__sänger_etc.> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Musiker, Sänger etc.)"@de ;
+    skos:topConceptOf <> .
+
+<musiktheater> a skos:Concept ;
+    skos:broader <musikrichtung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Musiktheater"@de .
+
+<musiktheorie> a skos:Concept ;
+    skos:broader <musik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Musiktheorie"@de .
+
+<nagano__kent> a skos:Concept ;
+    skos:broader <dirigent> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Nagano, Kent"@de .
+
+<nummernoper> a skos:Concept ;
+    skos:broader <klassik_musik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Nummernoper"@de .
+
+<ochs__siegfried> a skos:Concept ;
+    skos:broader <dirigent> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ochs, Siegfried"@de .
+
+<oper> a skos:Concept ;
+    skos:broader <klassik_musik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Oper"@de .
+
+<operette> a skos:Concept ;
+    skos:broader <klassik_musik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Operette"@de .
+
+<oratorium> a skos:Concept ;
+    skos:broader <komposition_musik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Oratorium"@de .
+
+<orchester> a skos:Concept ;
+    skos:broader <musik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Orchester"@de .
+
+<orgel> a skos:Concept ;
+    skos:broader <tasteninstrument> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Orgel"@de .
+
+<orgelmusik> a skos:Concept ;
+    skos:broader <musikrichtung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Orgelmusik"@de .
+
+<ouvertüre> a skos:Concept ;
+    skos:broader <klassik_musik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ouvertüre"@de .
+
+<partitur> a skos:Concept ;
+    skos:broader <note_musik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Partitur"@de .
+
+<passionsmusik> a skos:Concept ;
+    skos:broader <kirchenmusik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Passionsmusik"@de .
+
+<pauke> a skos:Concept ;
+    skos:broader <schlaginstrument> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pauke"@de .
+
+<pentatonik> a skos:Concept ;
+    skos:broader <komposition_musik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pentatonik"@de .
+
+<popmusik> a skos:Concept ;
+    skos:broader <unterhaltungsmusik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Popmusik"@de .
+
+<programmmusik> a skos:Concept ;
+    skos:broader <musikrichtung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Programmmusik"@de .
+
+<präludium> a skos:Concept ;
+    skos:broader <musikrichtung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Präludium"@de .
+
+<quartett_musik> a skos:Concept ;
+    skos:broader <ensemble> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Quartett (Musik)"@de .
+
+<rapmusik> a skos:Concept ;
+    skos:broader <moderne_musik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Rap-Musik"@de .
+
+<rechtsrock> a skos:Concept ;
+    skos:broader <unterhaltungsmusik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Rechtsrock"@de .
+
+<requiem> a skos:Concept ;
+    skos:broader <kirchenmusik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Requiem"@de .
+
+<rezitativ> a skos:Concept ;
+    skos:broader <lied> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Rezitativ"@de .
+
+<rhythmus_musik> a skos:Concept ;
+    skos:broader <musik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Rhythmus (Musik)"@de .
+
+<rock_'n'roll> a skos:Concept ;
+    skos:broader <moderne_musik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Rock 'n'Roll"@de .
+
+<rockmusik> a skos:Concept ;
+    skos:broader <unterhaltungsmusik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Rockmusik"@de .
+
+<romantik_musik> a skos:Concept ;
+    skos:broader <musikrichtung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Romantik (Musik)"@de .
+
+<schall> a skos:Concept ;
+    skos:broader <geräusch> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schall"@de .
+
+<schallplatte> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schallplatte"@de ;
+    skos:topConceptOf <> .
+
+<schlager> a skos:Concept ;
+    skos:broader <lied> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schlager"@de .
+
+<schulmusik> a skos:Concept ;
+    skos:broader <musikrichtung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schulmusik"@de .
+
+<serenade> a skos:Concept ;
+    skos:broader <klassik_musik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Serenade"@de .
+
+<sonate> a skos:Concept ;
+    skos:broader <klassik_musik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sonate"@de .
+
+<sorti__georg_sir> a skos:Concept ;
+    skos:broader <dirigent> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sorti, Georg Sir"@de .
+
+<soul> a skos:Concept ;
+    skos:broader <moderne_musik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Soul"@de .
+
+<spiritual> a skos:Concept ;
+    skos:broader <kirchenmusik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Spiritual"@de .
+
+<stereophonie> a skos:Concept ;
+    skos:broader <geräusch> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Stereophonie"@de .
+
+<stimmung_akustik> a skos:Concept ;
+    skos:broader <klang> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Stimmung (Akustik)"@de .
+
+<suite_musik> a skos:Concept ;
+    skos:broader <komposition_musik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Suite (Musik)"@de .
+
+<symphonie> a skos:Concept ;
+    skos:broader <klassik_musik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Symphonie"@de .
+
+<synthesizer> a skos:Concept ;
+    skos:broader <tasteninstrument> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Synthesizer"@de .
+
+<takt_musik> a skos:Concept ;
+    skos:broader <musik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Takt (Musik)"@de .
+
+<techno_musik> a skos:Concept ;
+    skos:broader <moderne_musik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Techno (Musik)"@de .
+
+<tonband> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tonband"@de ;
+    skos:topConceptOf <> .
+
+<tonleiter> a skos:Concept ;
+    skos:broader <note_musik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tonleiter"@de .
+
+<transkription_musik> a skos:Concept ;
+    skos:broader <musik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Transkription (Musik)"@de .
+
+<trio> a skos:Concept ;
+    skos:broader <ensemble> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Trio"@de .
+
+<trompete> a skos:Concept ;
+    skos:broader <blasinstrument> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Trompete"@de .
+
+<variation_musik> a skos:Concept ;
+    skos:broader <musik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Variation (Musik)"@de .
+
+<violine> a skos:Concept ;
+    skos:broader <streichinstrument> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Violine"@de .
+
+<violoncello> a skos:Concept ;
+    skos:broader <streichinstrument> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Violoncello"@de .
+
+<volkslied> a skos:Concept ;
+    skos:broader <lied> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Volkslied"@de .
+
+<volksmusik> a skos:Concept ;
+    skos:broader <unterhaltungsmusik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Volksmusik"@de .
+
+<walzer> a skos:Concept ;
+    skos:broader <klassik_musik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Walzer"@de .
+
+<weihnachtsmusik> a skos:Concept ;
+    skos:broader <kirchenmusik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Weihnachtsmusik"@de .
+
+<wiener_klassik> a skos:Concept ;
+    skos:broader <klassik_musik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wiener Klassik"@de .
+
+<xylophon> a skos:Concept ;
+    skos:broader <schlaginstrument> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Xylophon"@de .
+
+<zupfinstrument> a skos:Concept ;
+    skos:broader <musikinstrument> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zupfinstrument"@de .
+
+<zwölftonmusik> a skos:Concept ;
+    skos:broader <komposition_musik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zwölftonmusik"@de .
+
+<aleatorik> a skos:Concept ;
+    skos:broader <komposition_musik> ;
+    skos:inScheme <> ;
+    skos:narrower <grafische_notation> ;
+    skos:prefLabel "Aleatorik"@de .
+
+<klang> a skos:Concept ;
+    skos:broader <geräusch> ;
+    skos:inScheme <> ;
+    skos:narrower <stimmung_akustik> ;
+    skos:prefLabel "Klang"@de .
+
+<mittelalterliche_musik> a skos:Concept ;
+    skos:broader <musikrichtung> ;
+    skos:inScheme <> ;
+    skos:narrower <meistersang> ;
+    skos:prefLabel "Mittelalterliche Musik"@de .
+
+<musikgeschichte> a skos:Concept ;
+    skos:broader <musik> ;
+    skos:inScheme <> ;
+    skos:narrower <entartete_musik> ;
+    skos:prefLabel "Musikgeschichte"@de .
+
+<nationalhymne> a skos:Concept ;
+    skos:broader <lied> ;
+    skos:inScheme <> ;
+    skos:narrower <deutschlandlied> ;
+    skos:prefLabel "Nationalhymne"@de .
+
+<blasinstrument> a skos:Concept ;
+    skos:broader <musikinstrument> ;
+    skos:inScheme <> ;
+    skos:narrower <klarinette>,
+        <trompete> ;
+    skos:prefLabel "Blasinstrument"@de .
+
+<note_musik> a skos:Concept ;
+    skos:broader <musik> ;
+    skos:inScheme <> ;
+    skos:narrower <partitur>,
+        <tonleiter> ;
+    skos:prefLabel "Note (Musik)"@de .
+
+<schlaginstrument> a skos:Concept ;
+    skos:broader <musikinstrument> ;
+    skos:inScheme <> ;
+    skos:narrower <pauke>,
+        <xylophon> ;
+    skos:prefLabel "Schlaginstrument"@de .
+
+<singen_musik> a skos:Concept ;
+    skos:broader <musik> ;
+    skos:inScheme <> ;
+    skos:narrower <chor_musik>,
+        <kanon_musik> ;
+    skos:prefLabel "Singen (Musik)"@de .
+
+<ensemble> a skos:Concept ;
+    skos:broader <musik> ;
+    skos:inScheme <> ;
+    skos:narrower <duo>,
+        <quartett_musik>,
+        <trio> ;
+    skos:prefLabel "Ensemble"@de .
+
+<geräusch> a skos:Concept ;
+    skos:broader <musik> ;
+    skos:inScheme <> ;
+    skos:narrower <klang>,
+        <schall>,
+        <stereophonie> ;
+    skos:prefLabel "Geräusch"@de .
+
+<streichinstrument> a skos:Concept ;
+    skos:broader <musikinstrument> ;
+    skos:inScheme <> ;
+    skos:narrower <bratsche>,
+        <violine>,
+        <violoncello> ;
+    skos:prefLabel "Streichinstrument"@de .
+
+<tasteninstrument> a skos:Concept ;
+    skos:broader <musikinstrument> ;
+    skos:inScheme <> ;
+    skos:narrower <klavier>,
+        <orgel>,
+        <synthesizer> ;
+    skos:prefLabel "Tasteninstrument"@de .
+
+<kirchenmusik> a skos:Concept ;
+    skos:broader <musikrichtung> ;
+    skos:inScheme <> ;
+    skos:narrower <gregorianik>,
+        <passionsmusik>,
+        <requiem>,
+        <spiritual>,
+        <weihnachtsmusik> ;
+    skos:prefLabel "Kirchenmusik"@de .
+
+<musikinstrument> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <blasinstrument>,
+        <schlaginstrument>,
+        <streichinstrument>,
+        <tasteninstrument>,
+        <zupfinstrument> ;
+    skos:prefLabel "Musikinstrument"@de ;
+    skos:topConceptOf <> .
+
+<unterhaltungsmusik> a skos:Concept ;
+    skos:broader <moderne_musik> ;
+    skos:inScheme <> ;
+    skos:narrower <countrymusik>,
+        <popmusik>,
+        <rechtsrock>,
+        <rockmusik>,
+        <volksmusik> ;
+    skos:prefLabel "Unterhaltungsmusik"@de .
+
+<moderne_musik> a skos:Concept ;
+    skos:broader <musikrichtung> ;
+    skos:inScheme <> ;
+    skos:narrower <beat>,
+        <hiphop>,
+        <jazz>,
+        <rapmusik>,
+        <rock_'n'roll>,
+        <soul>,
+        <techno_musik>,
+        <unterhaltungsmusik> ;
+    skos:prefLabel "Moderne Musik"@de .
+
+<komposition_musik> a skos:Concept ;
+    skos:broader <musik> ;
+    skos:inScheme <> ;
+    skos:narrower <aleatorik>,
+        <fuge_musik>,
+        <marsch_musik>,
+        <mehrstimmigkeit_mittelalter_musik>,
+        <messe_musik>,
+        <oratorium>,
+        <pentatonik>,
+        <suite_musik>,
+        <zwölftonmusik> ;
+    skos:prefLabel "Komposition (Musik)"@de .
+
+<klassik_musik> a skos:Concept ;
+    skos:broader <musikrichtung> ;
+    skos:inScheme <> ;
+    skos:narrower <concerto_grosso>,
+        <nummernoper>,
+        <oper>,
+        <operette>,
+        <ouvertüre>,
+        <serenade>,
+        <sonate>,
+        <symphonie>,
+        <walzer>,
+        <wiener_klassik> ;
+    skos:prefLabel "Klassik (Musik)"@de .
+
+<lied> a skos:Concept ;
+    skos:broader <musik> ;
+    skos:inScheme <> ;
+    skos:narrower <ballade>,
+        <chanson>,
+        <choral_evangelisches_kirchenlied>,
+        <gospel>,
+        <kantate>,
+        <kinderlied>,
+        <kunstlied>,
+        <madrigal_musik>,
+        <motette>,
+        <nationalhymne>,
+        <rezitativ>,
+        <schlager>,
+        <volkslied> ;
+    skos:prefLabel "Lied"@de .
+
+<musikrichtung> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <filmmusik>,
+        <kirchenmusik>,
+        <klassik_musik>,
+        <klaviermusik>,
+        <mittelalterliche_musik>,
+        <moderne_musik>,
+        <musical>,
+        <musiktheater>,
+        <orgelmusik>,
+        <programmmusik>,
+        <präludium>,
+        <romantik_musik>,
+        <schulmusik> ;
+    skos:prefLabel "Musikrichtung)"@de ;
+    skos:topConceptOf <> .
+
+<dirigent> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <bernstein__leonard>,
+        <boulez__pierre>,
+        <bruch__max>,
+        <böhm__karl>,
+        <deodato__eumir>,
+        <farberman__harold>,
+        <fricsay__ferenc>,
+        <kagel__mauricio>,
+        <karajan__herbert_von>,
+        <mahler__gustav>,
+        <masur__kurt>,
+        <nagano__kent>,
+        <ochs__siegfried>,
+        <sorti__georg_sir> ;
+    skos:prefLabel "Dirigent"@de ;
+    skos:topConceptOf <> .
+
+<musik> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <band_musik>,
+        <elektroakustik>,
+        <ensemble>,
+        <geräusch>,
+        <humoreske>,
+        <improvisation>,
+        <komposition_musik>,
+        <konzert>,
+        <lied>,
+        <musikgeschichte>,
+        <musiktheorie>,
+        <note_musik>,
+        <orchester>,
+        <rhythmus_musik>,
+        <singen_musik>,
+        <takt_musik>,
+        <transkription_musik>,
+        <variation_musik> ;
+    skos:prefLabel "Musik"@de ;
+    skos:topConceptOf <> .
+
+<> a skos:ConceptScheme ;
+    dct:creator "<https://creator.com>" ;
+    dct:description "musik_systematik"@de ;
+    dct:title "musik_systematik"@de ;
+    skos:hasTopConcept <abren__josé_antonio>,
+        <adam__adolphe>,
+        <adams__john>,
+        <addinsell__richard>,
+        <albeniz__isaac>,
+        <albinoni__tommaso>,
+        <allegri__gregorio>,
+        <andré__maurice>,
+        <anka__paul>,
+        <arban__jean_babtiste>,
+        <arenskij__anton>,
+        <armstrong__louis>,
+        <arne__thomas_augustine>,
+        <ashkenazy__vladimir>,
+        <avison__charles>,
+        <bach__carl_philipp_emanuel>,
+        <bach__johann_christian>,
+        <bach__johann_christoph_friedrich>,
+        <bach__johann_sebastian>,
+        <bach__wilhelm_friedemann>,
+        <baez__joan>,
+        <barber__samuel>,
+        <bartok__bela>,
+        <basie__count>,
+        <beatles>,
+        <bedford__david>,
+        <beethoven__ludwig_van>,
+        <belafonte__harry>,
+        <benda__franz>,
+        <bennett__john>,
+        <bennett__william_sterndale>,
+        <berg__alban>,
+        <berio__luciano>,
+        <berlioz__hector>,
+        <berry__chuck>,
+        <biber__heinrich_ignaz_franz>,
+        <bingham__john>,
+        <birnstein__renate>,
+        <bizet__georges>,
+        <blacher__boris>,
+        <blakey__art>,
+        <blank__boris>,
+        <bliss__arthur>,
+        <boccherini__luigi>,
+        <borodin__alexander>,
+        <borris__siegfried>,
+        <bose__hans_jürgen_von>,
+        <bottesini__giovanni>,
+        <brahms__johannes>,
+        <brassens__georges>,
+        <brel__jacques>,
+        <britten__benjamin>,
+        <brown__richard>,
+        <bruckner__anton>,
+        <brumel__antoine>,
+        <busoni__ferruccio>,
+        <buxtehude__dietrich>,
+        <byrd__william>,
+        <caballe__montserrat>,
+        <cage__john>,
+        <campion__thomas>,
+        <carreras__jose>,
+        <caruso__enrico>,
+        <cash__johnny>,
+        <cavalli__francesco>,
+        <chabrier__alexis_emmanuel>,
+        <chafe__chris>,
+        <chatschaturjan__aram>,
+        <chausson__ernest>,
+        <chopin__frédéric_françois>,
+        <cimarosa__domenico>,
+        <clarke__jeremiah>,
+        <coleman__edward>,
+        <copland__aaron>,
+        <corbett__william>,
+        <couperin__francois>,
+        <crosby__bing>,
+        <czerny__carl>,
+        <danielsson__christer>,
+        <danzi__franz>,
+        <dargomyschskij__alexandr>,
+        <debussy__claude>,
+        <delius__frederick>,
+        <desprez__josquin>,
+        <dessau__paul>,
+        <devienne__françois>,
+        <dirigent>,
+        <distler__hugo>,
+        <ditters_von_dittersdorf__karl>,
+        <domingo__placido>,
+        <donizetti__domenico_gaetano_maria>,
+        <dowland__john>,
+        <dukas__paul>,
+        <dunhill__thomas>,
+        <duparc__marie_eugene_henri>,
+        <dvorak__antonin>,
+        <egk__werner>,
+        <eisler__hanns>,
+        <elgar__edward_sir>,
+        <ellington__duke>,
+        <enescu__george>,
+        <ernst__heinrich_wilhelm>,
+        <evers__franz>,
+        <falla__manuel_de>,
+        <fasch__johann_friedrich>,
+        <faure__gabriel>,
+        <ferlendis__giuseppe>,
+        <ferrat__jean>,
+        <fitzgerald__ella>,
+        <fortner__wolfgang>,
+        <francesco_landini>,
+        <franz__robert>,
+        <frenck__cesar>,
+        <frescobaldi__girolamo>,
+        <gabrieli__andrea>,
+        <gabrieli__giovanni>,
+        <gainsbourg__serge>,
+        <galilei__vincenzo>,
+        <garner__erroll>,
+        <gastoldi__giovanni_giacomo>,
+        <genzmer__harald>,
+        <gershwin__george>,
+        <giordano__umberto_menotti>,
+        <gitarrenkurs>,
+        <glass__philip>,
+        <hörerziehung>,
+        <motown_>,
+        <musik>,
+        <musikalische_früherziehung>,
+        <musikautomat>,
+        <musiker__sänger_etc.>,
+        <musikinstrument>,
+        <musikrichtung>,
+        <schallplatte>,
+        <tonband> .
+

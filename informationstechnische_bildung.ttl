@@ -1,0 +1,519 @@
+@base <https://w3id.org/openeduhub/vocabs/keyword_catalogue/informationstechnische_bildung_systematik/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<abofalle> a skos:Concept ;
+    skos:broader <internet> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Abofalle"@de .
+
+<bernerslee__timothy> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Berners-Lee, Timothy"@de ;
+    skos:topConceptOf <> .
+
+<betriebssystem> a skos:Concept ;
+    skos:broader <software> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Betriebssystem"@de .
+
+<big_data> a skos:Concept ;
+    skos:broader <datenverarbeitung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Big data"@de .
+
+<bildschirmtext> a skos:Concept ;
+    skos:broader <telekommunikation> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bildschirmtext"@de .
+
+<blog> a skos:Concept ;
+    skos:broader <internet> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Blog"@de .
+
+<blogger> a skos:Concept ;
+    skos:broader <internet> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Blogger"@de .
+
+<braille__louis> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Braille, Louis"@de ;
+    skos:topConceptOf <> .
+
+<bürokommunikation> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bürokommunikation"@de ;
+    skos:topConceptOf <> .
+
+<cdrom> a skos:Concept ;
+    skos:broader <datenträger> ;
+    skos:inScheme <> ;
+    skos:prefLabel "CD-ROM"@de .
+
+<chip> a skos:Concept ;
+    skos:broader <datenträger> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Chip"@de .
+
+<codierung> a skos:Concept ;
+    skos:broader <computertechnik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Codierung"@de .
+
+<computer_aided_design> a skos:Concept ;
+    skos:broader <anwendersystem> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Computer Aided Design"@de .
+
+<computer_aided_manufacturing> a skos:Concept ;
+    skos:broader <anwendersystem> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Computer Aided Manufacturing"@de .
+
+<computereinsatz> a skos:Concept ;
+    skos:broader <computer> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Computereinsatz"@de .
+
+<computergrafik> a skos:Concept ;
+    skos:broader <grafikprogramm> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Computergrafik"@de .
+
+<computerized_numerical_control> a skos:Concept ;
+    skos:broader <anwendersystem> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Computerized Numerical Control"@de .
+
+<computerspiel_denkspiel> a skos:Concept ;
+    skos:broader <computerspiel> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Computerspiel (Denkspiel)"@de .
+
+<computerspiel_jumpandrun_> a skos:Concept ;
+    skos:broader <computerspiel> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Computerspiel (Jump-and-Run) "@de .
+
+<computerspiel_kampfspiel> a skos:Concept ;
+    skos:broader <computerspiel> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Computerspiel (Kampfspiel)"@de .
+
+<computerspiel_simulation> a skos:Concept ;
+    skos:broader <computerspiel> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Computerspiel (Simulation)"@de .
+
+<computerspiel_spielgeschichte> a skos:Concept ;
+    skos:broader <computerspiel> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Computerspiel (Spielgeschichte)"@de .
+
+<computervirus> a skos:Concept ;
+    skos:broader <software> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Computervirus"@de .
+
+<cybermobbing> a skos:Concept ;
+    skos:broader <internet> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Cybermobbing"@de .
+
+<darknet> a skos:Concept ;
+    skos:broader <internet> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Darknet"@de .
+
+<datei> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Datei"@de ;
+    skos:topConceptOf <> .
+
+<datenbank> a skos:Concept ;
+    skos:broader <anwendersystem> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Datenbank"@de .
+
+<datenfernübertragung> a skos:Concept ;
+    skos:broader <telekommunikation> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Datenfernübertragung"@de .
+
+<datenschutz> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Datenschutz"@de ;
+    skos:topConceptOf <> .
+
+<datensicherung> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Datensicherung"@de ;
+    skos:topConceptOf <> .
+
+<deep_web> a skos:Concept ;
+    skos:broader <internet> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Deep Web"@de .
+
+<desktoppublishing> a skos:Concept ;
+    skos:broader <anwendersystem> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Desktop-Publishing"@de .
+
+<didaktische_software> a skos:Concept ;
+    skos:broader <anwendersystem> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Didaktische Software"@de .
+
+<digitaltechnik> a skos:Concept ;
+    skos:broader <telekommunikation> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Digitaltechnik"@de .
+
+<drucker_edv> a skos:Concept ;
+    skos:broader <computertechnik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Drucker (EDV)"@de .
+
+<eansystem> a skos:Concept ;
+    skos:broader <anwendersystem> ;
+    skos:inScheme <> ;
+    skos:prefLabel "EAN-System"@de .
+
+<evaprinzip> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "EVA-Prinzip"@de ;
+    skos:topConceptOf <> .
+
+<gates__bill> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gates, Bill"@de ;
+    skos:topConceptOf <> .
+
+<geoinformationssystem> a skos:Concept ;
+    skos:broader <informationswesen> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Geoinformationssystem"@de .
+
+<hacker_computersicherheit> a skos:Concept ;
+    skos:broader <computer> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hacker (Computersicherheit)"@de .
+
+<influencer> a skos:Concept ;
+    skos:broader <internet> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Influencer"@de .
+
+<kybernetik> a skos:Concept ;
+    skos:broader <informatik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kybernetik"@de .
+
+<mikroelektronik> a skos:Concept ;
+    skos:broader <computertechnik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mikroelektronik"@de .
+
+<mikrofilm> a skos:Concept ;
+    skos:broader <informationswesen> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mikrofilm"@de .
+
+<morse__samuel> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Morse, Samuel"@de ;
+    skos:topConceptOf <> .
+
+<morsezeichen> a skos:Concept ;
+    skos:broader <telekommunikation> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Morsezeichen"@de .
+
+<motion_capture> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Motion Capture"@de ;
+    skos:topConceptOf <> .
+
+<multimedia> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Multimedia"@de ;
+    skos:topConceptOf <> .
+
+<netiquette> a skos:Concept ;
+    skos:broader <telekommunikation> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Netiquette"@de .
+
+<overlay> a skos:Concept ;
+    skos:broader <anwendersystem> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Overlay"@de .
+
+<phishing> a skos:Concept ;
+    skos:broader <internet> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Phishing"@de .
+
+<podcasting> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Podcasting"@de ;
+    skos:topConceptOf <> .
+
+<programmierung> a skos:Concept ;
+    skos:broader <informatik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Programmierung"@de .
+
+<schnittstelle> a skos:Concept ;
+    skos:broader <computertechnik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schnittstelle"@de .
+
+<soziales_netzwerk> a skos:Concept ;
+    skos:broader <internet> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Soziales Netzwerk"@de .
+
+<tablet> a skos:Concept ;
+    skos:broader <computertechnik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tablet"@de .
+
+<taschenrechner> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Taschenrechner"@de ;
+    skos:topConceptOf <> .
+
+<telefon> a skos:Concept ;
+    skos:broader <telekommunikation> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Telefon"@de .
+
+<textverarbeitung> a skos:Concept ;
+    skos:broader <anwendersystem> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Textverarbeitung"@de .
+
+<tutorielles_programm_> a skos:Concept ;
+    skos:broader <software> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tutorielles Programm "@de .
+
+<usbstick> a skos:Concept ;
+    skos:broader <datenträger> ;
+    skos:inScheme <> ;
+    skos:prefLabel "USB-Stick"@de .
+
+<verkabelung> a skos:Concept ;
+    skos:broader <telekommunikation> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Verkabelung"@de .
+
+<vernetzung_informationstechnik> a skos:Concept ;
+    skos:broader <computertechnik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Vernetzung (Informationstechnik)"@de .
+
+<videoportal> a skos:Concept ;
+    skos:broader <internet> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Videoportal"@de .
+
+<virtual_reality> a skos:Concept ;
+    skos:broader <computersimulation> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Virtual Reality"@de .
+
+<web_2.0> a skos:Concept ;
+    skos:broader <internet> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Web 2.0"@de .
+
+<webinar> a skos:Concept ;
+    skos:broader <telekommunikation> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Webinar"@de .
+
+<wikipedia> a skos:Concept ;
+    skos:broader <internet> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wikipedia"@de .
+
+<wlan> a skos:Concept ;
+    skos:broader <internet> ;
+    skos:inScheme <> ;
+    skos:prefLabel "WLAN"@de .
+
+<world_wide_web> a skos:Concept ;
+    skos:broader <internet> ;
+    skos:inScheme <> ;
+    skos:prefLabel "World Wide Web"@de .
+
+<zeichenerkennung> a skos:Concept ;
+    skos:broader <datenverarbeitung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zeichenerkennung"@de .
+
+<zuse__konrad> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zuse, Konrad"@de ;
+    skos:topConceptOf <> .
+
+<computersimulation> a skos:Concept ;
+    skos:broader <software> ;
+    skos:inScheme <> ;
+    skos:narrower <virtual_reality> ;
+    skos:prefLabel "Computersimulation"@de .
+
+<grafikprogramm> a skos:Concept ;
+    skos:broader <anwendersystem> ;
+    skos:inScheme <> ;
+    skos:narrower <computergrafik> ;
+    skos:prefLabel "Grafikprogramm"@de .
+
+<datenverarbeitung> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <big_data>,
+        <zeichenerkennung> ;
+    skos:prefLabel "Datenverarbeitung"@de ;
+    skos:topConceptOf <> .
+
+<informatik> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <kybernetik>,
+        <programmierung> ;
+    skos:prefLabel "Informatik"@de ;
+    skos:topConceptOf <> .
+
+<informationswesen> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <geoinformationssystem>,
+        <mikrofilm> ;
+    skos:prefLabel "Informationswesen"@de ;
+    skos:topConceptOf <> .
+
+<computer> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <computereinsatz>,
+        <computertechnik>,
+        <hacker_computersicherheit> ;
+    skos:prefLabel "Computer"@de ;
+    skos:topConceptOf <> .
+
+<datenträger> a skos:Concept ;
+    skos:broader <computertechnik> ;
+    skos:inScheme <> ;
+    skos:narrower <cdrom>,
+        <chip>,
+        <usbstick> ;
+    skos:prefLabel "Datenträger"@de .
+
+<computerspiel> a skos:Concept ;
+    skos:broader <software> ;
+    skos:inScheme <> ;
+    skos:narrower <computerspiel_denkspiel>,
+        <computerspiel_jumpandrun_>,
+        <computerspiel_kampfspiel>,
+        <computerspiel_simulation>,
+        <computerspiel_spielgeschichte> ;
+    skos:prefLabel "Computerspiel"@de .
+
+<software> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <anwendersystem>,
+        <betriebssystem>,
+        <computersimulation>,
+        <computerspiel>,
+        <computervirus>,
+        <tutorielles_programm_> ;
+    skos:prefLabel "Software"@de ;
+    skos:topConceptOf <> .
+
+<computertechnik> a skos:Concept ;
+    skos:broader <computer> ;
+    skos:inScheme <> ;
+    skos:narrower <codierung>,
+        <datenträger>,
+        <drucker_edv>,
+        <mikroelektronik>,
+        <schnittstelle>,
+        <tablet>,
+        <vernetzung_informationstechnik> ;
+    skos:prefLabel "Computertechnik"@de .
+
+<telekommunikation> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <bildschirmtext>,
+        <datenfernübertragung>,
+        <digitaltechnik>,
+        <internet>,
+        <morsezeichen>,
+        <netiquette>,
+        <telefon>,
+        <verkabelung>,
+        <webinar> ;
+    skos:prefLabel "Telekommunikation"@de ;
+    skos:topConceptOf <> .
+
+<anwendersystem> a skos:Concept ;
+    skos:broader <software> ;
+    skos:inScheme <> ;
+    skos:narrower <computer_aided_design>,
+        <computer_aided_manufacturing>,
+        <computerized_numerical_control>,
+        <datenbank>,
+        <desktoppublishing>,
+        <didaktische_software>,
+        <eansystem>,
+        <grafikprogramm>,
+        <overlay>,
+        <textverarbeitung> ;
+    skos:prefLabel "Anwendersystem"@de .
+
+<internet> a skos:Concept ;
+    skos:broader <telekommunikation> ;
+    skos:inScheme <> ;
+    skos:narrower <abofalle>,
+        <blog>,
+        <blogger>,
+        <cybermobbing>,
+        <darknet>,
+        <deep_web>,
+        <influencer>,
+        <phishing>,
+        <soziales_netzwerk>,
+        <videoportal>,
+        <web_2.0>,
+        <wikipedia>,
+        <wlan>,
+        <world_wide_web> ;
+    skos:prefLabel "Internet"@de .
+
+<> a skos:ConceptScheme ;
+    dct:creator "<https://creator.com>" ;
+    dct:description "informationstechnische_bildung_systematik"@de ;
+    dct:title "informationstechnische_bildung_systematik"@de ;
+    skos:hasTopConcept <bernerslee__timothy>,
+        <braille__louis>,
+        <bürokommunikation>,
+        <computer>,
+        <datei>,
+        <datenschutz>,
+        <datensicherung>,
+        <datenverarbeitung>,
+        <evaprinzip>,
+        <gates__bill>,
+        <informatik>,
+        <informationswesen>,
+        <morse__samuel>,
+        <motion_capture>,
+        <multimedia>,
+        <podcasting>,
+        <software>,
+        <taschenrechner>,
+        <telekommunikation>,
+        <zuse__konrad> .
+

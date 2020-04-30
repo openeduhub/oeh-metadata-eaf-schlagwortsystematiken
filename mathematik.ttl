@@ -1,0 +1,399 @@
+@base <https://w3id.org/openeduhub/vocabs/keyword_catalogue/mathematik_systematik/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<achsensymmetrie> a skos:Concept ;
+    skos:broader <symmetrie> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Achsensymmetrie"@de .
+
+<analysis> a skos:Concept ;
+    skos:broader <mathematik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Analysis"@de .
+
+<babbage__charles> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Babbage, Charles"@de ;
+    skos:topConceptOf <> .
+
+<barlow__peter> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Barlow, Peter"@de ;
+    skos:topConceptOf <> .
+
+<bernoulli__daniel> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bernoulli, Daniel"@de ;
+    skos:topConceptOf <> .
+
+<bruchrechnung> a skos:Concept ;
+    skos:broader <algorithmus> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bruchrechnung"@de .
+
+<bündelung_mathematik> a skos:Concept ;
+    skos:broader <zahlensystem> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bündelung (Mathematik)"@de .
+
+<cavalieri__bonaventura> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Cavalieri, Bonaventura"@de ;
+    skos:topConceptOf <> .
+
+<chaostheorie> a skos:Concept ;
+    skos:broader <mathematik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Chaostheorie"@de .
+
+<coriolis__gaspard_gustave_de> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Coriolis, Gaspard Gustave de"@de ;
+    skos:topConceptOf <> .
+
+<descartes__rené> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Descartes, René"@de ;
+    skos:topConceptOf <> .
+
+<diagramm> a skos:Concept ;
+    skos:broader <geometrie> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Diagramm"@de .
+
+<dreisatz> a skos:Concept ;
+    skos:broader <gleichung_mathematik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Dreisatz"@de .
+
+<dualsystem> a skos:Concept ;
+    skos:broader <zahlensystem> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Dualsystem"@de .
+
+<ellipse_gemetrie> a skos:Concept ;
+    skos:broader <geometrie> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ellipse (Gemetrie)"@de .
+
+<exponentialfunktion_> a skos:Concept ;
+    skos:broader <funktion_mathematik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Exponentialfunktion "@de .
+
+<flächeninhalt> a skos:Concept ;
+    skos:broader <geometrie> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Flächeninhalt"@de .
+
+<formel_mathematik> a skos:Concept ;
+    skos:broader <mathematik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Formel (Mathematik)"@de .
+
+<fraktalgeometrie> a skos:Concept ;
+    skos:broader <geometrie> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fraktalgeometrie"@de .
+
+<gauß__carl_friedrich> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gauß, Carl Friedrich"@de ;
+    skos:topConceptOf <> .
+
+<gerade_mathematik> a skos:Concept ;
+    skos:broader <geometrie> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gerade (Mathematik)"@de .
+
+<grundrechenart> a skos:Concept ;
+    skos:broader <algorithmus> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Grundrechenart"@de .
+
+<kegelschnitt> a skos:Concept ;
+    skos:broader <geometrie> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kegelschnitt"@de .
+
+<kommutativgesetz> a skos:Concept ;
+    skos:broader <algorithmus> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kommutativgesetz"@de .
+
+<koordinate> a skos:Concept ;
+    skos:broader <geometrie> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Koordinate"@de .
+
+<kopfrechnen> a skos:Concept ;
+    skos:broader <mathematik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kopfrechnen"@de .
+
+<mandelbrot__benoît> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mandelbrot, Benoît"@de ;
+    skos:topConceptOf <> .
+
+<menge_mathematik> a skos:Concept ;
+    skos:broader <mengenlehre> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Menge (Mathematik)"@de .
+
+<negative_zahlen> a skos:Concept ;
+    skos:broader <zahl> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Negative Zahlen"@de .
+
+<oberfläche_mathematik> a skos:Concept ;
+    skos:broader <geometrie> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Oberfläche (Mathematik)"@de .
+
+<parabel_mathematik> a skos:Concept ;
+    skos:broader <geometrie> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Parabel (Mathematik)"@de .
+
+<projektion_mathematik> a skos:Concept ;
+    skos:broader <geometrie> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Projektion (Mathematik)"@de .
+
+<proportion_mathematik> a skos:Concept ;
+    skos:broader <gleichung_mathematik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Proportion (Mathematik)"@de .
+
+<prozentrechnung> a skos:Concept ;
+    skos:broader <algorithmus> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Prozentrechnung"@de .
+
+<pythagoras> a skos:Concept ;
+    skos:broader <geometrie> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pythagoras"@de .
+
+<rechenstab> a skos:Concept ;
+    skos:broader <mathematik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Rechenstab"@de .
+
+<ries__adam> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ries, Adam"@de ;
+    skos:topConceptOf <> .
+
+<schaltalgebra> a skos:Concept ;
+    skos:broader <algebra> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schaltalgebra"@de .
+
+<senkrechte_mathematik> a skos:Concept ;
+    skos:broader <geometrie> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Senkrechte (Mathematik)"@de .
+
+<statistik> a skos:Concept ;
+    skos:broader <mathematik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Statistik"@de .
+
+<tabellenkalkulation> a skos:Concept ;
+    skos:broader <mathematik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tabellenkalkulation"@de .
+
+<ungleichung_mathematik> a skos:Concept ;
+    skos:broader <algebra> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ungleichung (Mathematik)"@de .
+
+<venndiagramm> a skos:Concept ;
+    skos:broader <mengenlehre> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Venn-Diagramm"@de .
+
+<viereck_geometrie> a skos:Concept ;
+    skos:broader <geometrische_figur_> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Viereck (Geometrie)"@de .
+
+<volumenberechnung> a skos:Concept ;
+    skos:broader <rauminhalt> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Volumenberechnung"@de .
+
+<wahrscheinlichkeit_mathematik> a skos:Concept ;
+    skos:broader <mathematik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wahrscheinlichkeit (Mathematik)"@de .
+
+<watt_einheit> a skos:Concept ;
+    skos:broader <größe_mathematik/physik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Watt (Einheit)"@de .
+
+<winkel_geometrie> a skos:Concept ;
+    skos:broader <geometrie> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Winkel (Geometrie)"@de .
+
+<winkelfunktion> a skos:Concept ;
+    skos:broader <funktion_mathematik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Winkelfunktion"@de .
+
+<winkelgeschwindigkeit> a skos:Concept ;
+    skos:broader <größe_mathematik/physik> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Winkelgeschwindigkeit"@de .
+
+<würfel_geometrie> a skos:Concept ;
+    skos:broader <geometrische_figur_> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Würfel (Geometrie)"@de .
+
+<analytische_geometrie> a skos:Concept ;
+    skos:broader <algebra> ;
+    skos:inScheme <> ;
+    skos:narrower <funktion_mathematik> ;
+    skos:prefLabel "Analytische Geometrie"@de .
+
+<rauminhalt> a skos:Concept ;
+    skos:broader <geometrie> ;
+    skos:inScheme <> ;
+    skos:narrower <volumenberechnung> ;
+    skos:prefLabel "Rauminhalt"@de .
+
+<symmetrie> a skos:Concept ;
+    skos:broader <geometrie> ;
+    skos:inScheme <> ;
+    skos:narrower <achsensymmetrie> ;
+    skos:prefLabel "Symmetrie"@de .
+
+<funktion_mathematik> a skos:Concept ;
+    skos:broader <analytische_geometrie> ;
+    skos:inScheme <> ;
+    skos:narrower <exponentialfunktion_>,
+        <winkelfunktion> ;
+    skos:prefLabel "Funktion (Mathematik)"@de .
+
+<geometrische_figur_> a skos:Concept ;
+    skos:broader <geometrie> ;
+    skos:inScheme <> ;
+    skos:narrower <viereck_geometrie>,
+        <würfel_geometrie> ;
+    skos:prefLabel "Geometrische Figur "@de .
+
+<gleichung_mathematik> a skos:Concept ;
+    skos:broader <algebra> ;
+    skos:inScheme <> ;
+    skos:narrower <dreisatz>,
+        <proportion_mathematik> ;
+    skos:prefLabel "Gleichung (Mathematik)"@de .
+
+<größe_mathematik/physik> a skos:Concept ;
+    skos:broader <mathematik> ;
+    skos:inScheme <> ;
+    skos:narrower <watt_einheit>,
+        <winkelgeschwindigkeit> ;
+    skos:prefLabel "Größe (Mathematik/Physik)"@de .
+
+<mengenlehre> a skos:Concept ;
+    skos:broader <algebra> ;
+    skos:inScheme <> ;
+    skos:narrower <menge_mathematik>,
+        <venndiagramm> ;
+    skos:prefLabel "Mengenlehre"@de .
+
+<zahl> a skos:Concept ;
+    skos:broader <mathematik> ;
+    skos:inScheme <> ;
+    skos:narrower <negative_zahlen>,
+        <zahlensystem> ;
+    skos:prefLabel "Zahl"@de .
+
+<zahlensystem> a skos:Concept ;
+    skos:broader <zahl> ;
+    skos:inScheme <> ;
+    skos:narrower <bündelung_mathematik>,
+        <dualsystem> ;
+    skos:prefLabel "Zahlensystem"@de .
+
+<algorithmus> a skos:Concept ;
+    skos:broader <mathematik> ;
+    skos:inScheme <> ;
+    skos:narrower <bruchrechnung>,
+        <grundrechenart>,
+        <kommutativgesetz>,
+        <prozentrechnung> ;
+    skos:prefLabel "Algorithmus"@de .
+
+<algebra> a skos:Concept ;
+    skos:broader <mathematik> ;
+    skos:inScheme <> ;
+    skos:narrower <analytische_geometrie>,
+        <gleichung_mathematik>,
+        <mengenlehre>,
+        <schaltalgebra>,
+        <ungleichung_mathematik> ;
+    skos:prefLabel "Algebra"@de .
+
+<mathematik> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <algebra>,
+        <algorithmus>,
+        <analysis>,
+        <chaostheorie>,
+        <formel_mathematik>,
+        <geometrie>,
+        <größe_mathematik/physik>,
+        <kopfrechnen>,
+        <rechenstab>,
+        <statistik>,
+        <tabellenkalkulation>,
+        <wahrscheinlichkeit_mathematik>,
+        <zahl> ;
+    skos:prefLabel "Mathematik"@de ;
+    skos:topConceptOf <> .
+
+<geometrie> a skos:Concept ;
+    skos:broader <mathematik> ;
+    skos:inScheme <> ;
+    skos:narrower <diagramm>,
+        <ellipse_gemetrie>,
+        <flächeninhalt>,
+        <fraktalgeometrie>,
+        <geometrische_figur_>,
+        <gerade_mathematik>,
+        <kegelschnitt>,
+        <koordinate>,
+        <oberfläche_mathematik>,
+        <parabel_mathematik>,
+        <projektion_mathematik>,
+        <pythagoras>,
+        <rauminhalt>,
+        <senkrechte_mathematik>,
+        <symmetrie>,
+        <winkel_geometrie> ;
+    skos:prefLabel "Geometrie"@de .
+
+<> a skos:ConceptScheme ;
+    dct:creator "<https://creator.com>" ;
+    dct:description "mathematik_systematik"@de ;
+    dct:title "mathematik_systematik"@de ;
+    skos:hasTopConcept <babbage__charles>,
+        <barlow__peter>,
+        <bernoulli__daniel>,
+        <cavalieri__bonaventura>,
+        <coriolis__gaspard_gustave_de>,
+        <descartes__rené>,
+        <gauß__carl_friedrich>,
+        <mandelbrot__benoît>,
+        <mathematik>,
+        <ries__adam> .
+

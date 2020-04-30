@@ -1,0 +1,1803 @@
+@base <https://w3id.org/openeduhub/vocabs/keyword_catalogue/leben_systematik/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<_lebensbedingung_afrika> a skos:Concept ;
+    skos:broader <lebensbedingung_allgemein> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lebensbedingung (Afrika)"@de .
+
+<adoption> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Adoption"@de .
+
+<aggression> a skos:Concept ;
+    skos:broader <gewaltallgemein> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Aggression"@de .
+
+<alleinerziehender> a skos:Concept ;
+    skos:broader <eltern> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Alleinerziehender"@de .
+
+<alleinstehender> a skos:Concept ;
+    skos:broader <zwischenmenschliche_beziehung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Alleinstehender"@de .
+
+<altenpflege> a skos:Concept ;
+    skos:broader <alter> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Altenpflege"@de .
+
+<altersheim> a skos:Concept ;
+    skos:broader <alter> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Altersheim"@de .
+
+<amok> a skos:Concept ;
+    skos:broader <gewaltallgemein> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Amok"@de .
+
+<analphabetentum> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Analphabetentum"@de .
+
+<angst> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Angst"@de .
+
+<angst_kind> a skos:Concept ;
+    skos:broader <kindliches_lernen> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Angst (Kind)"@de .
+
+<anonymität> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Anonymität"@de .
+
+<armut> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Armut"@de .
+
+<ausbeutung_mensch> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ausbeutung (Mensch)"@de .
+
+<ausbildung> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ausbildung"@de .
+
+<ausreißer> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ausreißer"@de .
+
+<aussteiger> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Aussteiger"@de .
+
+<außenseiter> a skos:Concept ;
+    skos:broader <randgruppe> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Außenseiter"@de .
+
+<befreiung> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Befreiung"@de .
+
+<behindertenwerkstatt> a skos:Concept ;
+    skos:broader <behindertenintegration> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Behindertenwerkstatt"@de .
+
+<berufstätige_frau_> a skos:Concept ;
+    skos:broader <gleichberechtigung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Berufstätige Frau "@de .
+
+<bestattung> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bestattung"@de .
+
+<demütigung> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Demütigung"@de .
+
+<diebstahl> a skos:Concept ;
+    skos:broader <kriminalität> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Diebstahl"@de .
+
+<disparität> a skos:Concept ;
+    skos:broader <lebensbedingung_allgemein> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Disparität"@de .
+
+<egoismus> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Egoismus"@de .
+
+<ehekonflikt> a skos:Concept ;
+    skos:broader <konflikt> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ehekonflikt"@de .
+
+<ehescheidung> a skos:Concept ;
+    skos:broader <ehe> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ehescheidung"@de .
+
+<ehrenamt> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ehrenamt"@de .
+
+<ehrgeiz> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ehrgeiz"@de .
+
+<ehrlichkeit> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ehrlichkeit"@de .
+
+<eifersucht> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Eifersucht"@de .
+
+<einsamkeit> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Einsamkeit"@de .
+
+<elterngeld> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Elterngeld"@de .
+
+<elternkindbeziehung> a skos:Concept ;
+    skos:broader <eltern> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Eltern-Kind-Beziehung"@de .
+
+<elternzeit> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Elternzeit"@de .
+
+<emanzipation> a skos:Concept ;
+    skos:broader <gleichberechtigung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Emanzipation"@de .
+
+<entscheidung> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Entscheidung"@de .
+
+<erfolg> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Erfolg"@de .
+
+<erholung> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Erholung"@de .
+
+<erinnerung_psychologie> a skos:Concept ;
+    skos:broader <gedächtnis> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Erinnerung (Psychologie)"@de .
+
+<erpressung> a skos:Concept ;
+    skos:broader <kriminalität> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Erpressung"@de .
+
+<erste_liebe> a skos:Concept ;
+    skos:broader <liebe> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Erste Liebe"@de .
+
+<erwachsenwerden> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Erwachsenwerden"@de .
+
+<familienkonflikt> a skos:Concept ;
+    skos:broader <konflikt> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Familienkonflikt"@de .
+
+<familienleben> a skos:Concept ;
+    skos:broader <familie_verwandtschaft> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Familienleben"@de .
+
+<fan> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fan"@de .
+
+<fantasie> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fantasie"@de .
+
+<fehlverhalten> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fehlverhalten"@de .
+
+<feiertag> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Feiertag"@de .
+
+<frauenquote> a skos:Concept ;
+    skos:broader <gleichberechtigung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Frauenquote"@de .
+
+<freude> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Freude"@de .
+
+<freundschaft> a skos:Concept ;
+    skos:broader <zwischenmenschliche_beziehung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Freundschaft"@de .
+
+<frustration> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Frustration"@de .
+
+<frühehe> a skos:Concept ;
+    skos:broader <ehe> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Frühehe"@de .
+
+<funktion_allgemein> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Funktion (allgemein)"@de .
+
+<gefahr> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gefahr"@de .
+
+<gefahrensituation> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gefahrensituation"@de .
+
+<gefühl> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gefühl"@de .
+
+<geheimnis> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Geheimnis"@de .
+
+<gehorsam> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gehorsam"@de .
+
+<gemeinschaft> a skos:Concept ;
+    skos:broader <zwischenmenschliche_beziehung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gemeinschaft"@de .
+
+<gender> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gender"@de .
+
+<genealogie> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Genealogie"@de .
+
+<generationenkonflikt> a skos:Concept ;
+    skos:broader <konflikt> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Generationenkonflikt"@de .
+
+<geschenk> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Geschenk"@de .
+
+<geschlechterrolle> a skos:Concept ;
+    skos:broader <gleichberechtigung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Geschlechterrolle"@de .
+
+<geschwister> a skos:Concept ;
+    skos:broader <familie_verwandtschaft> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Geschwister"@de .
+
+<geschwisterkonflikt> a skos:Concept ;
+    skos:broader <konflikt> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Geschwisterkonflikt"@de .
+
+<gesellschaftliche_norm> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gesellschaftliche Norm"@de .
+
+<gesellschaftskritik> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gesellschaftskritik"@de .
+
+<gewalt_familie> a skos:Concept ;
+    skos:broader <gewaltallgemein> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gewalt (Familie)"@de .
+
+<gewalt_jugendliche> a skos:Concept ;
+    skos:broader <gewaltallgemein> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gewalt (Jugendliche)"@de .
+
+<gewaltprävention> a skos:Concept ;
+    skos:broader <gewaltallgemein> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gewaltprävention"@de .
+
+<gewissen> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gewissen"@de .
+
+<glück> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Glück"@de .
+
+<graue_panther> a skos:Concept ;
+    skos:broader <alter> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Graue Panther"@de .
+
+<großfamilie> a skos:Concept ;
+    skos:broader <familie_verwandtschaft> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Großfamilie"@de .
+
+<grundbedürfnis> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Grundbedürfnis"@de .
+
+<gruppenverhalten> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gruppenverhalten"@de .
+
+<habgier> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Habgier"@de .
+
+<hausfrau> a skos:Concept ;
+    skos:broader <gleichberechtigung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hausfrau"@de .
+
+<hausmann> a skos:Concept ;
+    skos:broader <gleichberechtigung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hausmann"@de .
+
+<heimat> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Heimat"@de .
+
+<heimweh> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Heimweh"@de .
+
+<held> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Held"@de .
+
+<hilfsbedürftigkeit> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hilfsbedürftigkeit"@de .
+
+<hilfsbereitschaft> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hilfsbereitschaft"@de .
+
+<hoffnung> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hoffnung"@de .
+
+<hospiz> a skos:Concept ;
+    skos:broader <tod> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hospiz"@de .
+
+<humanität> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Humanität"@de .
+
+<humor> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Humor"@de .
+
+<hörigkeit> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hörigkeit"@de .
+
+<identität> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Identität"@de .
+
+<identitätsfindung> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Identitätsfindung"@de .
+
+<idol> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Idol"@de .
+
+<illusion> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Illusion"@de .
+
+<image> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Image"@de .
+
+<individualismus> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Individualismus"@de .
+
+<individuum> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Individuum"@de .
+
+<interaktion> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Interaktion"@de .
+
+<intoleranz> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Intoleranz"@de .
+
+<intrige> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Intrige"@de .
+
+<jugendfürsorge> a skos:Concept ;
+    skos:broader <jugendsozialarbeit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Jugendfürsorge"@de .
+
+<jugendgruppe> a skos:Concept ;
+    skos:broader <gruppe> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Jugendgruppe"@de .
+
+<jugendkriminalität> a skos:Concept ;
+    skos:broader <kriminalität> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Jugendkriminalität"@de .
+
+<karussell> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Karussell"@de .
+
+<katastrophe> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Katastrophe"@de .
+
+<kinderfeindlichkeit> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kinderfeindlichkeit"@de .
+
+<kinderlosigkeit> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kinderlosigkeit"@de .
+
+<kindersoldat> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kindersoldat"@de .
+
+<kindersterblichkeit> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kindersterblichkeit"@de .
+
+<kindesmisshandlung> a skos:Concept ;
+    skos:broader <kriminalität> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kindesmisshandlung"@de .
+
+<kindheitserfahrung> a skos:Concept ;
+    skos:broader <erfahrung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kindheitserfahrung"@de .
+
+<kindliches_verhalten_> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kindliches Verhalten "@de .
+
+<klasse_gesellschaft> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Klasse (Gesellschaft)"@de .
+
+<klischee> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Klischee"@de .
+
+<komik> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Komik"@de .
+
+<konformismus> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Konformismus"@de .
+
+<kooperation> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kooperation"@de .
+
+<kritik> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kritik"@de .
+
+<lebensbedingung_brasilien> a skos:Concept ;
+    skos:broader <lebensbedingung_allgemein> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lebensbedingung (Brasilien)"@de .
+
+<lebensbedingung_china> a skos:Concept ;
+    skos:broader <lebensbedingung_allgemein> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lebensbedingung (China)"@de .
+
+<lebensbedingung_deutschland> a skos:Concept ;
+    skos:broader <lebensbedingung_allgemein> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lebensbedingung (Deutschland)"@de .
+
+<lebensbedingung_frankreich> a skos:Concept ;
+    skos:broader <lebensbedingung_allgemein> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lebensbedingung (Frankreich)"@de .
+
+<lebensbedingung_großbritannien> a skos:Concept ;
+    skos:broader <lebensbedingung_allgemein> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lebensbedingung (Großbritannien)"@de .
+
+<lebensbedingung_indien> a skos:Concept ;
+    skos:broader <lebensbedingung_allgemein> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lebensbedingung (Indien)"@de .
+
+<lebensbedingung_japan> a skos:Concept ;
+    skos:broader <lebensbedingung_allgemein> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lebensbedingung (Japan)"@de .
+
+<lebensbedingung_mexiko> a skos:Concept ;
+    skos:broader <lebensbedingung_allgemein> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lebensbedingung (Mexiko)"@de .
+
+<lebensbedingung_sibirien> a skos:Concept ;
+    skos:broader <lebensbedingung_allgemein> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lebensbedingung (Sibirien)"@de .
+
+<lebensbedingung_türkei> a skos:Concept ;
+    skos:broader <lebensbedingung_allgemein> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lebensbedingung (Türkei)"@de .
+
+<lebensbedingung_usa> a skos:Concept ;
+    skos:broader <lebensbedingung_allgemein> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lebensbedingung (USA)"@de .
+
+<lebensbewältigung_allgemein> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lebensbewältigung (allgemein)"@de ;
+    skos:topConceptOf <> .
+
+<lebenseinstellung> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lebenseinstellung"@de .
+
+<lebenserfahrung> a skos:Concept ;
+    skos:broader <erfahrung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lebenserfahrung"@de .
+
+<lebensform_philosophie> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lebensform (Philosophie)"@de .
+
+<lebenssinn> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lebenssinn"@de .
+
+<lebensstandard> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lebensstandard"@de .
+
+<lebensweg> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lebensweg"@de ;
+    skos:topConceptOf <> .
+
+<leistung_psychologie> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Leistung (Psychologie)"@de .
+
+<lüge> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lüge"@de .
+
+<manipulation> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Manipulation"@de .
+
+<menschenbild> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Menschenbild"@de .
+
+<menschenrecht> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Menschenrecht"@de .
+
+<mikrokosmos_philosophie> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mikrokosmos (Philosophie)"@de .
+
+<misserfolg> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Misserfolg"@de .
+
+<misstrauen> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Misstrauen"@de .
+
+<mitläufertum> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mitläufertum"@de .
+
+<mobilität> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mobilität"@de .
+
+<mondkalender> a skos:Concept ;
+    skos:broader <astrologie> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mondkalender"@de .
+
+<motivation> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Motivation"@de .
+
+<mut> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mut"@de .
+
+<mutter_frau> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mutter (Frau)"@de .
+
+<muttersohnbeziehung> a skos:Concept ;
+    skos:broader <mutter> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mutter-Sohn-Beziehung"@de .
+
+<muttertochterbeziehung> a skos:Concept ;
+    skos:broader <mutter> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mutter-Tochter-Beziehung"@de .
+
+<mörder> a skos:Concept ;
+    skos:broader <kriminalität> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mörder"@de .
+
+<nachahmung> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Nachahmung"@de .
+
+<nachbarschaft> a skos:Concept ;
+    skos:broader <zwischenmenschliche_beziehung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Nachbarschaft"@de .
+
+<neid> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Neid"@de .
+
+<neugier> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Neugier"@de .
+
+<nichtraucher> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Nichtraucher"@de .
+
+<nächstenliebe> a skos:Concept ;
+    skos:broader <liebe> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Nächstenliebe"@de .
+
+<obdachlosgkeit> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Obdachlosgkeit"@de .
+
+<onlinedating> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "OnlineDating"@de .
+
+<opfer_person> a skos:Concept ;
+    skos:broader <kriminalität> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Opfer (Person)"@de .
+
+<opportunismus> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Opportunismus"@de .
+
+<ordnung> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ordnung"@de .
+
+<partnerkonflikt> a skos:Concept ;
+    skos:broader <konflikt> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Partnerkonflikt"@de .
+
+<partnerschaft> a skos:Concept ;
+    skos:broader <zwischenmenschliche_beziehung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Partnerschaft"@de .
+
+<peergroup> a skos:Concept ;
+    skos:broader <gruppe> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Peergroup"@de .
+
+<persönlichkeitsbild> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Persönlichkeitsbild"@de ;
+    skos:topConceptOf <> .
+
+<pflegekind> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pflegekind"@de .
+
+<popkultur> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Popkultur"@de .
+
+<punker> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Punker"@de .
+
+<pünktlichkeit> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pünktlichkeit"@de .
+
+<realität> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Realität"@de .
+
+<regenbogenfamilie> a skos:Concept ;
+    skos:broader <familie_verwandtschaft> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Regenbogenfamilie"@de .
+
+<resozialisierung> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Resozialisierung"@de .
+
+<risiko> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Risiko"@de .
+
+<rocker> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Rocker"@de .
+
+<rollenkonflikt> a skos:Concept ;
+    skos:broader <konflikt> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Rollenkonflikt"@de .
+
+<ruhestille> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ruhe(Stille)"@de .
+
+<schicksal> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schicksal"@de .
+
+<schulabschluss> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schulabschluss"@de .
+
+<schulalltag> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schulalltag"@de .
+
+<schuld> a skos:Concept ;
+    skos:broader <kriminalität> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schuld"@de .
+
+<schönheit> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schönheit"@de .
+
+<sciencefiction_zukunft> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "ScienceFiction (Zukunft)"@de .
+
+<selbstbewusstsein> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Selbstbewusstsein"@de .
+
+<selbstdarstellung> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Selbstdarstellung"@de .
+
+<selbsthilfe> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Selbsthilfe"@de .
+
+<selbstkenntnis_> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Selbstkenntnis "@de .
+
+<selbstmord> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Selbstmord"@de .
+
+<selbständigkeit_leben> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Selbständigkeit (Leben)"@de .
+
+<sensationslust> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sensationslust"@de .
+
+<sicherheit_allgemein> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sicherheit (allgemein)"@de .
+
+<sisyphos> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sisyphos"@de .
+
+<situationsbewältigung> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Situationsbewältigung"@de .
+
+<solidarität> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Solidarität"@de .
+
+<sonntag> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sonntag"@de .
+
+<sozialhilfe> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sozialhilfe"@de .
+
+<sozialisation> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sozialisation"@de .
+
+<sozialkontakt_> a skos:Concept ;
+    skos:broader <zwischenmenschliche_beziehung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sozialkontakt "@de .
+
+<speisegesetz> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Speisegesetz"@de .
+
+<stalking> a skos:Concept ;
+    skos:broader <kriminalität> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Stalking"@de .
+
+<statussymbol> a skos:Concept ;
+    skos:broader <symbol> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Statussymbol"@de .
+
+<sterbebegleitung> a skos:Concept ;
+    skos:broader <tod> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sterbebegleitung"@de .
+
+<sterbehilfe> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sterbehilfe"@de .
+
+<stereotyp> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Stereotyp"@de .
+
+<stieffamilie> a skos:Concept ;
+    skos:broader <bezugsperson> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Stieffamilie"@de .
+
+<straßenkind> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Straßenkind"@de .
+
+<stress> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Stress"@de .
+
+<teufelskreis> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Teufelskreis"@de .
+
+<tierheim> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tierheim"@de ;
+    skos:topConceptOf <> .
+
+<tierliebe> a skos:Concept ;
+    skos:broader <liebe> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tierliebe"@de .
+
+<tierquälerei> a skos:Concept ;
+    skos:broader <kriminalität> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tierquälerei"@de .
+
+<toleranz_gesellschaft> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Toleranz (Gesellschaft)"@de .
+
+<transsexualität> a skos:Concept ;
+    skos:broader <verhaltensstörung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Transsexualität"@de .
+
+<trauer> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Trauer"@de .
+
+<traum> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Traum"@de .
+
+<trennung> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Trennung"@de .
+
+<treue> a skos:Concept ;
+    skos:broader <tugend> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Treue"@de .
+
+<trost> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Trost"@de .
+
+<umwelt_allgemein> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Umwelt (allgemein)"@de .
+
+<umzug> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Umzug"@de .
+
+<unfallfolge> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Unfallfolge"@de .
+
+<unsicherheit> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Unsicherheit"@de .
+
+<unterdrückung> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Unterdrückung"@de .
+
+<unterscheidung> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Unterscheidung"@de .
+
+<vaterschaft> a skos:Concept ;
+    skos:broader <vater> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Vaterschaft"@de .
+
+<vatersohnbeziehung> a skos:Concept ;
+    skos:broader <vater> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Vater-Sohn-Beziehung"@de .
+
+<vatertochterbeziehung> a skos:Concept ;
+    skos:broader <vater> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Vater-Tochter-Beziehung"@de .
+
+<verabredung> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Verabredung"@de .
+
+<verantwortung> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Verantwortung"@de .
+
+<verantwortungsbewusstsein> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Verantwortungsbewusstsein"@de .
+
+<verbrechen> a skos:Concept ;
+    skos:broader <kriminalität> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Verbrechen"@de .
+
+<verdrängung_psychoanalyse> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Verdrängung (Psychoanalyse)"@de .
+
+<verein> a skos:Concept ;
+    skos:broader <gruppe> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Verein"@de .
+
+<vergangenheitsbewältigung> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Vergangenheitsbewältigung"@de .
+
+<verleumdung> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Verleumdung"@de .
+
+<vernunft> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Vernunft"@de .
+
+<verständigung> a skos:Concept ;
+    skos:broader <kommunikation> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Verständigung"@de .
+
+<verständnis> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Verständnis"@de .
+
+<versöhnung> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Versöhnung"@de .
+
+<vertrauen> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Vertrauen"@de .
+
+<verwahrlosung> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Verwahrlosung"@de .
+
+<verzweiflung> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Verzweiflung"@de .
+
+<volljährigkeit> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Volljährigkeit"@de .
+
+<vorbild> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Vorbild"@de .
+
+<vorsicht> a skos:Concept ;
+    skos:broader <tugend> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Vorsicht"@de .
+
+<vorurteil> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Vorurteil"@de .
+
+<völkerverständigung> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Völkerverständigung"@de .
+
+<waisenkind> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Waisenkind"@de .
+
+<walpurgisnacht> a skos:Concept ;
+    skos:broader <feier> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Walpurgisnacht"@de .
+
+<wandalismus> a skos:Concept ;
+    skos:broader <kriminalität> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wandalismus"@de .
+
+<welt_all_das__was_ist> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Welt (all das, was ist)"@de .
+
+<wertvorstellung> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wertvorstellung"@de .
+
+<wirkung_auswirkung> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wirkung (Auswirkung)"@de .
+
+<wohnen> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wohnen"@de .
+
+<wohngemeinschaft> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wohngemeinschaft"@de .
+
+<worklifebalance> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "WorkLifeBalance"@de .
+
+<wut> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wut"@de .
+
+<zeitmanagement> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zeitmanagement"@de .
+
+<zukunft> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zukunft"@de .
+
+<zusammenleben_beziehung> a skos:Concept ;
+    skos:broader <zwischenmenschliche_beziehung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zusammenleben (Beziehung)"@de .
+
+<zärtlichkeit> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zärtlichkeit"@de .
+
+<öffentlichkeit> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Öffentlichkeit"@de .
+
+<astrologie> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:narrower <mondkalender> ;
+    skos:prefLabel "Astrologie"@de .
+
+<behindertenintegration> a skos:Concept ;
+    skos:broader <integration> ;
+    skos:inScheme <> ;
+    skos:narrower <behindertenwerkstatt> ;
+    skos:prefLabel "Behindertenintegration"@de .
+
+<feier> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:narrower <walpurgisnacht> ;
+    skos:prefLabel "Feier"@de .
+
+<integration> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:narrower <behindertenintegration> ;
+    skos:prefLabel "Integration"@de .
+
+<jugendsozialarbeit> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:narrower <jugendfürsorge> ;
+    skos:prefLabel "Jugendsozialarbeit"@de .
+
+<kindliches_lernen> a skos:Concept ;
+    skos:broader <lernen> ;
+    skos:inScheme <> ;
+    skos:narrower <angst_kind> ;
+    skos:prefLabel "Kindliches Lernen"@de .
+
+<kommunikation> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:narrower <verständigung> ;
+    skos:prefLabel "Kommunikation"@de .
+
+<lernen> a skos:Concept ;
+    skos:broader <gedächtnis> ;
+    skos:inScheme <> ;
+    skos:narrower <kindliches_lernen> ;
+    skos:prefLabel "Lernen"@de .
+
+<randgruppe> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:narrower <außenseiter> ;
+    skos:prefLabel "Randgruppe"@de .
+
+<symbol> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:narrower <statussymbol> ;
+    skos:prefLabel "Symbol"@de .
+
+<verhaltensstörung> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:narrower <transsexualität> ;
+    skos:prefLabel "Verhaltensstörung"@de .
+
+<ehe> a skos:Concept ;
+    skos:broader <zwischenmenschliche_beziehung> ;
+    skos:inScheme <> ;
+    skos:narrower <ehescheidung>,
+        <frühehe> ;
+    skos:prefLabel "Ehe"@de .
+
+<eltern> a skos:Concept ;
+    skos:broader <bezugsperson> ;
+    skos:inScheme <> ;
+    skos:narrower <alleinerziehender>,
+        <elternkindbeziehung> ;
+    skos:prefLabel "Eltern"@de .
+
+<erfahrung> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:narrower <kindheitserfahrung>,
+        <lebenserfahrung> ;
+    skos:prefLabel "Erfahrung"@de .
+
+<gedächtnis> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:narrower <erinnerung_psychologie>,
+        <lernen> ;
+    skos:prefLabel "Gedächtnis"@de .
+
+<mutter> a skos:Concept ;
+    skos:broader <bezugsperson> ;
+    skos:inScheme <> ;
+    skos:narrower <muttersohnbeziehung>,
+        <muttertochterbeziehung> ;
+    skos:prefLabel "Mutter"@de .
+
+<tod> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:narrower <hospiz>,
+        <sterbebegleitung> ;
+    skos:prefLabel "Tod"@de .
+
+<tugend> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:narrower <treue>,
+        <vorsicht> ;
+    skos:prefLabel "Tugend"@de .
+
+<alter> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:narrower <altenpflege>,
+        <altersheim>,
+        <graue_panther> ;
+    skos:prefLabel "Alter"@de .
+
+<gruppe> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:narrower <jugendgruppe>,
+        <peergroup>,
+        <verein> ;
+    skos:prefLabel "Gruppe"@de .
+
+<liebe> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:narrower <erste_liebe>,
+        <nächstenliebe>,
+        <tierliebe> ;
+    skos:prefLabel "Liebe"@de .
+
+<vater> a skos:Concept ;
+    skos:broader <bezugsperson> ;
+    skos:inScheme <> ;
+    skos:narrower <vaterschaft>,
+        <vatersohnbeziehung>,
+        <vatertochterbeziehung> ;
+    skos:prefLabel "Vater"@de .
+
+<bezugsperson> a skos:Concept ;
+    skos:broader <zwischenmenschliche_beziehung> ;
+    skos:inScheme <> ;
+    skos:narrower <eltern>,
+        <mutter>,
+        <stieffamilie>,
+        <vater> ;
+    skos:prefLabel "Bezugsperson"@de .
+
+<familie_verwandtschaft> a skos:Concept ;
+    skos:broader <zwischenmenschliche_beziehung> ;
+    skos:inScheme <> ;
+    skos:narrower <familienleben>,
+        <geschwister>,
+        <großfamilie>,
+        <regenbogenfamilie> ;
+    skos:prefLabel "Familie (Verwandtschaft)"@de .
+
+<gewaltallgemein> a skos:Concept ;
+    skos:broader <kriminalität> ;
+    skos:inScheme <> ;
+    skos:narrower <aggression>,
+        <amok>,
+        <gewalt_familie>,
+        <gewalt_jugendliche>,
+        <gewaltprävention> ;
+    skos:prefLabel "Gewalt(allgemein)"@de .
+
+<gleichberechtigung> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:narrower <berufstätige_frau_>,
+        <emanzipation>,
+        <frauenquote>,
+        <geschlechterrolle>,
+        <hausfrau>,
+        <hausmann> ;
+    skos:prefLabel "Gleichberechtigung"@de .
+
+<konflikt> a skos:Concept ;
+    skos:broader <lebensbewältigung_kind> ;
+    skos:inScheme <> ;
+    skos:narrower <ehekonflikt>,
+        <familienkonflikt>,
+        <generationenkonflikt>,
+        <geschwisterkonflikt>,
+        <partnerkonflikt>,
+        <rollenkonflikt> ;
+    skos:prefLabel "Konflikt"@de .
+
+<zwischenmenschliche_beziehung> a skos:Concept ;
+    skos:broader <kultur> ;
+    skos:inScheme <> ;
+    skos:narrower <alleinstehender>,
+        <bezugsperson>,
+        <ehe>,
+        <familie_verwandtschaft>,
+        <freundschaft>,
+        <gemeinschaft>,
+        <nachbarschaft>,
+        <partnerschaft>,
+        <sozialkontakt_>,
+        <zusammenleben_beziehung> ;
+    skos:prefLabel "Zwischenmenschliche Beziehung"@de .
+
+<kriminalität> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <diebstahl>,
+        <erpressung>,
+        <gewaltallgemein>,
+        <jugendkriminalität>,
+        <kindesmisshandlung>,
+        <mörder>,
+        <opfer_person>,
+        <schuld>,
+        <stalking>,
+        <tierquälerei>,
+        <verbrechen>,
+        <wandalismus> ;
+    skos:prefLabel "Kriminalität"@de ;
+    skos:topConceptOf <> .
+
+<lebensbedingung_allgemein> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <_lebensbedingung_afrika>,
+        <disparität>,
+        <lebensbedingung_brasilien>,
+        <lebensbedingung_china>,
+        <lebensbedingung_deutschland>,
+        <lebensbedingung_frankreich>,
+        <lebensbedingung_großbritannien>,
+        <lebensbedingung_indien>,
+        <lebensbedingung_japan>,
+        <lebensbedingung_mexiko>,
+        <lebensbedingung_sibirien>,
+        <lebensbedingung_türkei>,
+        <lebensbedingung_usa> ;
+    skos:prefLabel "Lebensbedingung (allgemein)"@de ;
+    skos:topConceptOf <> .
+
+<lebensbewältigung_kind> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <adoption>,
+        <alter>,
+        <analphabetentum>,
+        <angst>,
+        <armut>,
+        <ausbeutung_mensch>,
+        <ausreißer>,
+        <aussteiger>,
+        <bestattung>,
+        <ehrenamt>,
+        <einsamkeit>,
+        <elterngeld>,
+        <erwachsenwerden>,
+        <gehorsam>,
+        <gesellschaftskritik>,
+        <heimweh>,
+        <hörigkeit>,
+        <jugendsozialarbeit>,
+        <karussell>,
+        <katastrophe>,
+        <kinderlosigkeit>,
+        <kindersoldat>,
+        <kindersterblichkeit>,
+        <konflikt>,
+        <mutter_frau>,
+        <obdachlosgkeit>,
+        <pflegekind>,
+        <punker>,
+        <randgruppe>,
+        <resozialisierung>,
+        <rocker>,
+        <schicksal>,
+        <selbsthilfe>,
+        <selbstmord>,
+        <sisyphos>,
+        <situationsbewältigung>,
+        <sozialhilfe>,
+        <sterbehilfe>,
+        <straßenkind>,
+        <stress>,
+        <teufelskreis>,
+        <tod>,
+        <trauer>,
+        <traum>,
+        <trennung>,
+        <trost>,
+        <unfallfolge>,
+        <unterdrückung>,
+        <verdrängung_psychoanalyse>,
+        <vergangenheitsbewältigung>,
+        <verwahrlosung>,
+        <waisenkind>,
+        <worklifebalance>,
+        <zeitmanagement> ;
+    skos:prefLabel "Lebensbewältigung (Kind)"@de ;
+    skos:topConceptOf <> .
+
+<kultur> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <anonymität>,
+        <astrologie>,
+        <ausbildung>,
+        <befreiung>,
+        <demütigung>,
+        <egoismus>,
+        <ehrgeiz>,
+        <ehrlichkeit>,
+        <eifersucht>,
+        <elternzeit>,
+        <entscheidung>,
+        <erfahrung>,
+        <erfolg>,
+        <erholung>,
+        <fan>,
+        <fantasie>,
+        <fehlverhalten>,
+        <feier>,
+        <feiertag>,
+        <freude>,
+        <frustration>,
+        <funktion_allgemein>,
+        <gedächtnis>,
+        <gefahr>,
+        <gefahrensituation>,
+        <gefühl>,
+        <geheimnis>,
+        <gender>,
+        <genealogie>,
+        <geschenk>,
+        <gesellschaftliche_norm>,
+        <gewissen>,
+        <gleichberechtigung>,
+        <glück>,
+        <grundbedürfnis>,
+        <gruppe>,
+        <gruppenverhalten>,
+        <habgier>,
+        <heimat>,
+        <held>,
+        <hilfsbedürftigkeit>,
+        <hilfsbereitschaft>,
+        <hoffnung>,
+        <humanität>,
+        <humor>,
+        <identität>,
+        <identitätsfindung>,
+        <idol>,
+        <illusion>,
+        <image>,
+        <individualismus>,
+        <individuum>,
+        <integration>,
+        <interaktion>,
+        <intoleranz>,
+        <intrige>,
+        <kinderfeindlichkeit>,
+        <kindliches_verhalten_>,
+        <klasse_gesellschaft>,
+        <klischee>,
+        <komik>,
+        <kommunikation>,
+        <konformismus>,
+        <kooperation>,
+        <kritik>,
+        <lebenseinstellung>,
+        <lebensform_philosophie>,
+        <lebenssinn>,
+        <lebensstandard>,
+        <leistung_psychologie>,
+        <liebe>,
+        <lüge>,
+        <manipulation>,
+        <menschenbild>,
+        <menschenrecht>,
+        <mikrokosmos_philosophie>,
+        <misserfolg>,
+        <misstrauen>,
+        <mitläufertum>,
+        <mobilität>,
+        <motivation>,
+        <mut>,
+        <nachahmung>,
+        <neid>,
+        <neugier>,
+        <nichtraucher>,
+        <onlinedating>,
+        <opportunismus>,
+        <ordnung>,
+        <popkultur>,
+        <pünktlichkeit>,
+        <realität>,
+        <risiko>,
+        <ruhestille>,
+        <schulabschluss>,
+        <schulalltag>,
+        <schönheit>,
+        <sciencefiction_zukunft>,
+        <selbstbewusstsein>,
+        <selbstdarstellung>,
+        <selbstkenntnis_>,
+        <selbständigkeit_leben>,
+        <sensationslust>,
+        <sicherheit_allgemein>,
+        <solidarität>,
+        <sonntag>,
+        <sozialisation>,
+        <speisegesetz>,
+        <stereotyp>,
+        <symbol>,
+        <toleranz_gesellschaft>,
+        <tugend>,
+        <umwelt_allgemein>,
+        <umzug>,
+        <unsicherheit>,
+        <unterscheidung>,
+        <verabredung>,
+        <verantwortung>,
+        <verantwortungsbewusstsein>,
+        <verhaltensstörung>,
+        <verleumdung>,
+        <vernunft>,
+        <verständnis>,
+        <versöhnung>,
+        <vertrauen>,
+        <verzweiflung>,
+        <volljährigkeit>,
+        <vorbild>,
+        <vorurteil>,
+        <völkerverständigung>,
+        <welt_all_das__was_ist>,
+        <wertvorstellung>,
+        <wirkung_auswirkung>,
+        <wohnen>,
+        <wohngemeinschaft>,
+        <wut>,
+        <zukunft>,
+        <zwischenmenschliche_beziehung>,
+        <zärtlichkeit>,
+        <öffentlichkeit> ;
+    skos:prefLabel "Kultur"@de ;
+    skos:topConceptOf <> .
+
+<> a skos:ConceptScheme ;
+    dct:creator "<https://creator.com>" ;
+    dct:description "leben_systematik"@de ;
+    dct:title "leben_systematik"@de ;
+    skos:hasTopConcept <kriminalität>,
+        <kultur>,
+        <lebensbedingung_allgemein>,
+        <lebensbewältigung_allgemein>,
+        <lebensbewältigung_kind>,
+        <lebensweg>,
+        <persönlichkeitsbild>,
+        <tierheim> .
+

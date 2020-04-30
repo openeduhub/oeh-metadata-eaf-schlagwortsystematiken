@@ -1,0 +1,1389 @@
+@base <https://w3id.org/openeduhub/vocabs/keyword_catalogue/gesundheit/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<abtreibung> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Abtreibung"@de .
+
+<ads_psychologie> a skos:Concept ;
+    skos:broader <psychische_krankheiten> ;
+    skos:inScheme <> ;
+    skos:prefLabel "ADS (Psychologie)"@de .
+
+<aids> a skos:Concept ;
+    skos:broader <infektionskrankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Aids"@de .
+
+<akne> a skos:Concept ;
+    skos:broader <krankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Akne"@de .
+
+<allergie> a skos:Concept ;
+    skos:broader <immunreaktion> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Allergie"@de .
+
+<alternativmedizin> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Alternativmedizin"@de .
+
+<antibiotika> a skos:Concept ;
+    skos:broader <arzneimittel> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Antibiotika"@de .
+
+<arteriosklerose> a skos:Concept ;
+    skos:broader <krankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Arteriosklerose"@de .
+
+<arztbesuch> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Arztbesuch"@de .
+
+<autismus> a skos:Concept ;
+    skos:broader <krankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Autismus"@de .
+
+<autogenes_training> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Autogenes Training"@de .
+
+<avitaminose> a skos:Concept ;
+    skos:broader <krankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Avitaminose"@de .
+
+<bach__edward> a skos:Concept ;
+    skos:broader <kindstod> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bach, Edward"@de .
+
+<backen> a skos:Concept ;
+    skos:broader <garmethode> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Backen"@de .
+
+<banting__frederick> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Banting, Frederick"@de .
+
+<bauer__karl_heinrich> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bauer, Karl Heinrich"@de .
+
+<best__charles> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Best, Charles"@de .
+
+<binge_eating> a skos:Concept ;
+    skos:broader <krankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Binge Eating"@de .
+
+<biomedizin> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Biomedizin"@de .
+
+<bionik> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bionik"@de .
+
+<bluterkrankheit> a skos:Concept ;
+    skos:broader <erbkrankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bluterkrankheit"@de .
+
+<blutzucker> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Blutzucker"@de .
+
+<borreliose> a skos:Concept ;
+    skos:broader <infektionskrankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Borreliose"@de .
+
+<brot> a skos:Concept ;
+    skos:broader <nahrungsmittel> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Brot"@de .
+
+<brunschig__hieronymus> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Brunschig, Hieronymus"@de .
+
+<bse> a skos:Concept ;
+    skos:broader <infektionskrankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "BSE"@de .
+
+<butter> a skos:Concept ;
+    skos:broader <milchprodukt> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Butter"@de .
+
+<carus__carl_gustav> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Carus, Carl Gustav"@de .
+
+<chemie_im_haushalt> a skos:Concept ;
+    skos:broader <hygiene> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Chemie im Haushalt"@de .
+
+<chemotherapie> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Chemotherapie"@de .
+
+<cholesterin> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Cholesterin"@de .
+
+<coca_cola> a skos:Concept ;
+    skos:broader <genussmittel> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Coca Cola"@de .
+
+<computertomographie> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Computertomographie"@de .
+
+<cortison> a skos:Concept ;
+    skos:broader <arzneimittel> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Cortison"@de .
+
+<defibrillator> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Defibrillator"@de .
+
+<demenz> a skos:Concept ;
+    skos:broader <krankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Demenz"@de .
+
+<deprivation> a skos:Concept ;
+    skos:broader <krankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Deprivation"@de .
+
+<diabetes> a skos:Concept ;
+    skos:broader <krankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Diabetes"@de .
+
+<dialyse> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Dialyse"@de .
+
+<diät> a skos:Concept ;
+    skos:broader <ernährung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Diät"@de .
+
+<downsyndrom> a skos:Concept ;
+    skos:broader <behinderung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Down-Syndrom"@de .
+
+<dyskalkulie> a skos:Concept ;
+    skos:broader <krankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Dyskalkulie"@de .
+
+<eccles__john> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Eccles, John"@de .
+
+<ehrlich__paul> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ehrlich, Paul"@de .
+
+<einthoven__willem> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Einthoven, Willem"@de .
+
+<ergometrie> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ergometrie"@de .
+
+<ernährungsfehler> a skos:Concept ;
+    skos:broader <ernährung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ernährungsfehler"@de .
+
+<essig> a skos:Concept ;
+    skos:broader <vorratshaltung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Essig"@de .
+
+<fast_food> a skos:Concept ;
+    skos:broader <ernährung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fast Food"@de .
+
+<fehlgeburt> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fehlgeburt"@de .
+
+<fieber> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fieber"@de .
+
+<fleisch> a skos:Concept ;
+    skos:broader <nahrungsmittel> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fleisch"@de .
+
+<fraktur_medizin> a skos:Concept ;
+    skos:broader <krankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fraktur (Medizin)"@de .
+
+<freud__sigmund> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Freud, Sigmund"@de .
+
+<frisur> a skos:Concept ;
+    skos:broader <körperpflege> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Frisur"@de .
+
+<frühgeburt> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Frühgeburt"@de .
+
+<fsme> a skos:Concept ;
+    skos:broader <infektionskrankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "FSME"@de .
+
+<fußdeformität> a skos:Concept ;
+    skos:broader <krankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fußdeformität"@de .
+
+<geburt> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Geburt"@de .
+
+<gehörlosigkeit> a skos:Concept ;
+    skos:broader <behinderung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gehörlosigkeit"@de .
+
+<gemeinschaftsverpflegung> a skos:Concept ;
+    skos:broader <ernährung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gemeinschaftsverpflegung"@de .
+
+<gemüse> a skos:Concept ;
+    skos:broader <nahrungsmittel> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gemüse"@de .
+
+<geriatrie> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Geriatrie"@de .
+
+<geschlechtskrankheit> a skos:Concept ;
+    skos:broader <infektionskrankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Geschlechtskrankheit"@de .
+
+<gesichtsblindheit> a skos:Concept ;
+    skos:broader <blindheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gesichtsblindheit"@de .
+
+<gesundheit> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gesundheit"@de .
+
+<gesundheitserziehung> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gesundheitserziehung"@de .
+
+<gipsverband> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gipsverband"@de .
+
+<grof__stanislav> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Grof, Stanislav"@de .
+
+<haltungsfehler> a skos:Concept ;
+    skos:broader <krankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Haltungsfehler"@de .
+
+<haushaltsgeschirr_> a skos:Concept ;
+    skos:broader <küche> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Haushaltsgeschirr "@de .
+
+<herd_haushaltstechnik> a skos:Concept ;
+    skos:broader <haushaltsgerät> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Herd (Haushaltstechnik)"@de .
+
+<herzinfarkt> a skos:Concept ;
+    skos:broader <krankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Herzinfarkt"@de .
+
+<hospitalismus> a skos:Concept ;
+    skos:broader <krankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hospitalismus"@de .
+
+<hunger> a skos:Concept ;
+    skos:broader <ernährung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hunger"@de .
+
+<hühnerei> a skos:Concept ;
+    skos:broader <nahrungsmittel> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hühnerei"@de .
+
+<impfung> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Impfung"@de .
+
+<implantat> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Implantat"@de .
+
+<injektion_medizin> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Injektion (Medizin)"@de .
+
+<jenner__edward> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Jenner, Edward"@de .
+
+<joghurt> a skos:Concept ;
+    skos:broader <milchprodukt> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Joghurt"@de .
+
+<kandel__eric_richard> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kandel, Eric Richard"@de .
+
+<karies> a skos:Concept ;
+    skos:broader <zahnpflege> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Karies"@de .
+
+<kindbettfieber> a skos:Concept ;
+    skos:broader <infektionskrankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kindbettfieber"@de .
+
+<kinderlähmung> a skos:Concept ;
+    skos:broader <infektionskrankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kinderlähmung"@de .
+
+<kneipp__sebastian> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kneipp, Sebastian"@de .
+
+<kognition> a skos:Concept ;
+    skos:broader <psychologie> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kognition"@de .
+
+<kohut__heinz> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kohut, Heinz"@de .
+
+<kopfschmerz> a skos:Concept ;
+    skos:broader <krankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kopfschmerz"@de .
+
+<kosmetik> a skos:Concept ;
+    skos:broader <körperpflege> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kosmetik"@de .
+
+<krampfader> a skos:Concept ;
+    skos:broader <krankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Krampfader"@de .
+
+<krankenhausaufenthalt> a skos:Concept ;
+    skos:broader <krankenhaus> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Krankenhausaufenthalt"@de .
+
+<krankenpflege> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Krankenpflege"@de .
+
+<krankheitsbild> a skos:Concept ;
+    skos:broader <krankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Krankheitsbild"@de .
+
+<krankheitserreger> a skos:Concept ;
+    skos:broader <krankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Krankheitserreger"@de .
+
+<krebs_krankheit> a skos:Concept ;
+    skos:broader <krankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Krebs (Krankheit)"@de .
+
+<käse> a skos:Concept ;
+    skos:broader <milchprodukt> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Käse"@de .
+
+<küblerross__elisabeth> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "KüblerRoss, Elisabeth"@de .
+
+<landsteiner__karl> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Landsteiner, Karl"@de .
+
+<lebensmittelkonservierung> a skos:Concept ;
+    skos:broader <ernährung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lebensmittelkonservierung"@de .
+
+<lebensmittelvergiftung> a skos:Concept ;
+    skos:broader <krankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lebensmittelvergiftung"@de .
+
+<leberzirrhose> a skos:Concept ;
+    skos:broader <krankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Leberzirrhose"@de .
+
+<legasthenie> a skos:Concept ;
+    skos:broader <krankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Legasthenie"@de .
+
+<leiden> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Leiden"@de .
+
+<leistung_physiologie> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Leistung (Physiologie)"@de .
+
+<lepra> a skos:Concept ;
+    skos:broader <infektionskrankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lepra"@de .
+
+<leukämie> a skos:Concept ;
+    skos:broader <krankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Leukämie"@de .
+
+<levitin__daniel> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Levitin, Daniel"@de .
+
+<lister__joseph> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lister, Joseph"@de .
+
+<logopädie> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Logopädie"@de .
+
+<lückert__heinzrudiolf> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lückert, HeinzRudiolf"@de .
+
+<magersucht> a skos:Concept ;
+    skos:broader <krankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Magersucht"@de .
+
+<magnetoenzophalographie> a skos:Concept ;
+    skos:broader <untersuchungsmethode_medizin> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Magnetoenzophalographie"@de .
+
+<margarine> a skos:Concept ;
+    skos:broader <nahrungsmittel> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Margarine"@de .
+
+<massage> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Massage"@de .
+
+<mayer__robert> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mayer, Robert"@de .
+
+<medizinethik> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Medizinethik"@de .
+
+<mehl> a skos:Concept ;
+    skos:broader <nahrungsmittel> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mehl"@de .
+
+<milch> a skos:Concept ;
+    skos:broader <milchprodukt> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Milch"@de .
+
+<mitscherlich__alexander> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mitscherlich, Alexander"@de .
+
+<montesquieu> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Montesquieu"@de .
+
+<morton__william> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Morton, William"@de .
+
+<motorik> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Motorik"@de .
+
+<multiple_sklerose> a skos:Concept ;
+    skos:broader <krankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Multiple Sklerose"@de .
+
+<muskelschwäche> a skos:Concept ;
+    skos:broader <krankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Muskelschwäche"@de .
+
+<nahrungsaufnahme_mensch> a skos:Concept ;
+    skos:broader <ernährung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Nahrungsaufnahme (Mensch)"@de .
+
+<nahrungsergänzungsmittel> a skos:Concept ;
+    skos:broader <ernährung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Nahrungsergänzungsmittel"@de .
+
+<narzissmus> a skos:Concept ;
+    skos:broader <krankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Narzissmus"@de .
+
+<nikotin> a skos:Concept ;
+    skos:broader <genussmittel> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Nikotin"@de .
+
+<nährwert> a skos:Concept ;
+    skos:broader <ernährung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Nährwert"@de .
+
+<organspende> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Organspende"@de .
+
+<paracelsus> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Paracelsus"@de .
+
+<parodontose> a skos:Concept ;
+    skos:broader <zahnpflege> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Parodontose"@de .
+
+<pausenfrühstück> a skos:Concept ;
+    skos:broader <frühstück> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pausenfrühstück"@de .
+
+<pawlow__iwan_petrowitsch> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pawlow, Iwan Petrowitsch"@de .
+
+<pettenkofer__max_von> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pettenkofer, Max von"@de .
+
+<pränataldiagnostik> a skos:Concept ;
+    skos:broader <vorsorgeuntersuchung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pränataldiagnostik"@de .
+
+<psychiatrie> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Psychiatrie"@de .
+
+<psychoanalyse> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Psychoanalyse"@de .
+
+<psychosomatik> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Psychosomatik"@de .
+
+<putzen> a skos:Concept ;
+    skos:broader <hygiene> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Putzen"@de .
+
+<putzmittel> a skos:Concept ;
+    skos:broader <hygiene> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Putzmittel"@de .
+
+<ramón_y_cajal__santiago_felipe> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ramón y Cajal, Santiago Felipe"@de .
+
+<rank__otto> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Rank, Otto"@de .
+
+<rehabilitation> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Rehabilitation"@de .
+
+<reich__wilhelm> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Reich, Wilhelm"@de .
+
+<röteln> a skos:Concept ;
+    skos:broader <infektionskrankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Röteln"@de .
+
+<sauberkeitserziehung> a skos:Concept ;
+    skos:broader <körperpflege> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sauberkeitserziehung"@de .
+
+<schlaf> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schlaf"@de .
+
+<schlaganfall> a skos:Concept ;
+    skos:broader <krankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schlaganfall"@de .
+
+<schmerz> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schmerz"@de .
+
+<schokolade> a skos:Concept ;
+    skos:broader <nahrungsmittel> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schokolade"@de .
+
+<schweitzer__albert> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schweitzer, Albert"@de .
+
+<semmelweis__ignaz_philipp> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Semmelweis, Ignaz Philipp"@de .
+
+<seuche> a skos:Concept ;
+    skos:broader <krankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Seuche"@de .
+
+<simpson__james> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Simpson, James"@de .
+
+<spastiker> a skos:Concept ;
+    skos:broader <behinderung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Spastiker"@de .
+
+<sprachstörung> a skos:Concept ;
+    skos:broader <behinderung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sprachstörung"@de .
+
+<spurenelement> a skos:Concept ;
+    skos:broader <lebensmittel> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Spurenelement"@de .
+
+<steinmann__fritz> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Steinmann, Fritz"@de .
+
+<sterilität_unfruchtbarkeit> a skos:Concept ;
+    skos:broader <krankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sterilität (Unfruchtbarkeit)"@de .
+
+<stillen> a skos:Concept ;
+    skos:broader <ernährung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Stillen"@de .
+
+<stoffwechselkrankheit> a skos:Concept ;
+    skos:broader <krankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Stoffwechselkrankheit"@de .
+
+<strahlenschaden> a skos:Concept ;
+    skos:broader <krankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Strahlenschaden"@de .
+
+<stummheit> a skos:Concept ;
+    skos:broader <behinderung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Stummheit"@de .
+
+<taubstummheit> a skos:Concept ;
+    skos:broader <behinderung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Taubstummheit"@de .
+
+<teig> a skos:Concept ;
+    skos:broader <nahrungsmittel> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Teig"@de .
+
+<therapie> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Therapie"@de .
+
+<tiefkühlkost> a skos:Concept ;
+    skos:broader <ernährung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tiefkühlkost"@de .
+
+<toilette> a skos:Concept ;
+    skos:broader <hygiene> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Toilette"@de .
+
+<tourettesyndrom> a skos:Concept ;
+    skos:broader <krankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tourette-Syndrom"@de .
+
+<toxikologie> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Toxikologie"@de .
+
+<trauma> a skos:Concept ;
+    skos:broader <psychologie> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Trauma"@de .
+
+<tropenkrankheit> a skos:Concept ;
+    skos:broader <infektionskrankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tropenkrankheit"@de .
+
+<trott_zu_solz__claritta_von> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Trott zu Solz, Claritta von"@de .
+
+<tuberkulose> a skos:Concept ;
+    skos:broader <infektionskrankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tuberkulose"@de .
+
+<ultraschalldiagnostik> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ultraschalldiagnostik"@de .
+
+<unterernährung> a skos:Concept ;
+    skos:broader <krankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Unterernährung"@de .
+
+<veganer> a skos:Concept ;
+    skos:broader <vegetarier> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Veganer"@de .
+
+<venenerkrankung> a skos:Concept ;
+    skos:broader <krankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Venenerkrankung"@de .
+
+<verbrennung_medizin> a skos:Concept ;
+    skos:broader <krankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Verbrennung (Medizin)"@de .
+
+<versorgung_medizin> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Versorgung (Medizin)"@de .
+
+<virchow__rudolf> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Virchow, Rudolf"@de .
+
+<viren_krankheitserreger> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Viren (Krankheitserreger)"@de .
+
+<vitamin> a skos:Concept ;
+    skos:broader <lebensmittel> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Vitamin"@de .
+
+<vollwertkost> a skos:Concept ;
+    skos:broader <ernährung> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Vollwertkost"@de .
+
+<waschmaschine> a skos:Concept ;
+    skos:broader <haushaltsgerät> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Waschmaschine"@de .
+
+<waschmittel> a skos:Concept ;
+    skos:broader <hygiene> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Waschmittel"@de .
+
+<weitsichtigkeit> a skos:Concept ;
+    skos:broader <sehfehler> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Weitsichtigkeit"@de .
+
+<wertheimer__max> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wertheimer, Max"@de .
+
+<windpocken> a skos:Concept ;
+    skos:broader <infektionskrankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Windpocken"@de .
+
+<wunde> a skos:Concept ;
+    skos:broader <krankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wunde"@de .
+
+<wurst> a skos:Concept ;
+    skos:broader <nahrungsmittel> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wurst"@de .
+
+<ylppó__arvo_henrik> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ylppó, Arvo Henrik"@de .
+
+<yoga> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Yoga"@de .
+
+<zivilisationskrankheit> a skos:Concept ;
+    skos:broader <krankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zivilisationskrankheit"@de .
+
+<zucker> a skos:Concept ;
+    skos:broader <nahrungsmittel> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zucker"@de .
+
+<zwangsstörung> a skos:Concept ;
+    skos:broader <psychische_krankheiten> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zwangsstörung"@de .
+
+<übergewicht> a skos:Concept ;
+    skos:broader <krankheit> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Übergewicht"@de .
+
+<blindheit> a skos:Concept ;
+    skos:broader <behinderung> ;
+    skos:inScheme <> ;
+    skos:narrower <gesichtsblindheit> ;
+    skos:prefLabel "Blindheit"@de .
+
+<erbkrankheit> a skos:Concept ;
+    skos:broader <krankheit> ;
+    skos:inScheme <> ;
+    skos:narrower <bluterkrankheit> ;
+    skos:prefLabel "Erbkrankheit"@de .
+
+<frühstück> a skos:Concept ;
+    skos:broader <ernährung> ;
+    skos:inScheme <> ;
+    skos:narrower <pausenfrühstück> ;
+    skos:prefLabel "Frühstück"@de .
+
+<garmethode> a skos:Concept ;
+    skos:broader <ernährung> ;
+    skos:inScheme <> ;
+    skos:narrower <backen> ;
+    skos:prefLabel "Garmethode"@de .
+
+<immunreaktion> a skos:Concept ;
+    skos:broader <krankheit> ;
+    skos:inScheme <> ;
+    skos:narrower <allergie> ;
+    skos:prefLabel "Immunreaktion"@de .
+
+<infektion> a skos:Concept ;
+    skos:broader <krankheit> ;
+    skos:inScheme <> ;
+    skos:narrower <infektionskrankheit> ;
+    skos:prefLabel "Infektion"@de .
+
+<kindstod> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:narrower <bach__edward> ;
+    skos:prefLabel "Kindstod"@de .
+
+<krankenhaus> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:narrower <krankenhausaufenthalt> ;
+    skos:prefLabel "Krankenhaus"@de .
+
+<pharmazie> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:narrower <arzneimittel> ;
+    skos:prefLabel "Pharmazie"@de .
+
+<sehfehler> a skos:Concept ;
+    skos:broader <krankheit> ;
+    skos:inScheme <> ;
+    skos:narrower <weitsichtigkeit> ;
+    skos:prefLabel "Sehfehler"@de .
+
+<untersuchungsmethode_medizin> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:narrower <magnetoenzophalographie> ;
+    skos:prefLabel "Untersuchungsmethode (Medizin)"@de .
+
+<vegetarier> a skos:Concept ;
+    skos:broader <ernährung> ;
+    skos:inScheme <> ;
+    skos:narrower <veganer> ;
+    skos:prefLabel "Vegetarier"@de .
+
+<vorratshaltung> a skos:Concept ;
+    skos:broader <ernährung> ;
+    skos:inScheme <> ;
+    skos:narrower <essig> ;
+    skos:prefLabel "Vorratshaltung"@de .
+
+<vorsorgeuntersuchung> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:narrower <pränataldiagnostik> ;
+    skos:prefLabel "Vorsorgeuntersuchung"@de .
+
+<arzneimittel> a skos:Concept ;
+    skos:broader <pharmazie> ;
+    skos:inScheme <> ;
+    skos:narrower <antibiotika>,
+        <cortison> ;
+    skos:prefLabel "Arzneimittel"@de .
+
+<genussmittel> a skos:Concept ;
+    skos:broader <lebensmittel> ;
+    skos:inScheme <> ;
+    skos:narrower <coca_cola>,
+        <nikotin> ;
+    skos:prefLabel "Genussmittel"@de .
+
+<haushaltsgerät> a skos:Concept ;
+    skos:broader <küche> ;
+    skos:inScheme <> ;
+    skos:narrower <herd_haushaltstechnik>,
+        <waschmaschine> ;
+    skos:prefLabel "Haushaltsgerät"@de .
+
+<küche> a skos:Concept ;
+    skos:broader <ernährung> ;
+    skos:inScheme <> ;
+    skos:narrower <haushaltsgerät>,
+        <haushaltsgeschirr_> ;
+    skos:prefLabel "Küche"@de .
+
+<psychische_krankheiten> a skos:Concept ;
+    skos:broader <krankheit> ;
+    skos:inScheme <> ;
+    skos:narrower <ads_psychologie>,
+        <zwangsstörung> ;
+    skos:prefLabel "Psychische Krankheiten"@de .
+
+<psychologie> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:narrower <kognition>,
+        <trauma> ;
+    skos:prefLabel "Psychologie"@de .
+
+<zahnpflege> a skos:Concept ;
+    skos:broader <krankheit> ;
+    skos:inScheme <> ;
+    skos:narrower <karies>,
+        <parodontose> ;
+    skos:prefLabel "Zahnpflege"@de .
+
+<körperpflege> a skos:Concept ;
+    skos:broader <hygiene> ;
+    skos:inScheme <> ;
+    skos:narrower <frisur>,
+        <kosmetik>,
+        <sauberkeitserziehung> ;
+    skos:prefLabel "Körperpflege)"@de .
+
+<lebensmittel> a skos:Concept ;
+    skos:broader <ernährung> ;
+    skos:inScheme <> ;
+    skos:narrower <genussmittel>,
+        <nahrungsmittel>,
+        <spurenelement>,
+        <vitamin> ;
+    skos:prefLabel "Lebensmittel"@de .
+
+<milchprodukt> a skos:Concept ;
+    skos:broader <nahrungsmittel> ;
+    skos:inScheme <> ;
+    skos:narrower <butter>,
+        <joghurt>,
+        <käse>,
+        <milch> ;
+    skos:prefLabel "Milchprodukt"@de .
+
+<hygiene> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <chemie_im_haushalt>,
+        <körperpflege>,
+        <putzen>,
+        <putzmittel>,
+        <toilette>,
+        <waschmittel> ;
+    skos:prefLabel "Hygiene"@de ;
+    skos:topConceptOf <> .
+
+<behinderung> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:narrower <blindheit>,
+        <downsyndrom>,
+        <gehörlosigkeit>,
+        <spastiker>,
+        <sprachstörung>,
+        <stummheit>,
+        <taubstummheit> ;
+    skos:prefLabel "Behinderung"@de .
+
+<nahrungsmittel> a skos:Concept ;
+    skos:broader <lebensmittel> ;
+    skos:inScheme <> ;
+    skos:narrower <brot>,
+        <fleisch>,
+        <gemüse>,
+        <hühnerei>,
+        <margarine>,
+        <mehl>,
+        <milchprodukt>,
+        <schokolade>,
+        <teig>,
+        <wurst>,
+        <zucker> ;
+    skos:prefLabel "Nahrungsmittel"@de .
+
+<infektionskrankheit> a skos:Concept ;
+    skos:broader <infektion> ;
+    skos:inScheme <> ;
+    skos:narrower <aids>,
+        <borreliose>,
+        <bse>,
+        <fsme>,
+        <geschlechtskrankheit>,
+        <kindbettfieber>,
+        <kinderlähmung>,
+        <lepra>,
+        <röteln>,
+        <tropenkrankheit>,
+        <tuberkulose>,
+        <windpocken> ;
+    skos:prefLabel "Infektionskrankheit"@de .
+
+<ernährung> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <diät>,
+        <ernährungsfehler>,
+        <fast_food>,
+        <frühstück>,
+        <garmethode>,
+        <gemeinschaftsverpflegung>,
+        <hunger>,
+        <küche>,
+        <lebensmittel>,
+        <lebensmittelkonservierung>,
+        <nahrungsaufnahme_mensch>,
+        <nahrungsergänzungsmittel>,
+        <nährwert>,
+        <stillen>,
+        <tiefkühlkost>,
+        <vegetarier>,
+        <vollwertkost>,
+        <vorratshaltung> ;
+    skos:prefLabel "Ernährung"@de ;
+    skos:topConceptOf <> .
+
+<krankheit> a skos:Concept ;
+    skos:broader <medizin_heilkunde> ;
+    skos:inScheme <> ;
+    skos:narrower <akne>,
+        <arteriosklerose>,
+        <autismus>,
+        <avitaminose>,
+        <binge_eating>,
+        <demenz>,
+        <deprivation>,
+        <diabetes>,
+        <dyskalkulie>,
+        <erbkrankheit>,
+        <fraktur_medizin>,
+        <fußdeformität>,
+        <haltungsfehler>,
+        <herzinfarkt>,
+        <hospitalismus>,
+        <immunreaktion>,
+        <infektion>,
+        <kopfschmerz>,
+        <krampfader>,
+        <krankheitsbild>,
+        <krankheitserreger>,
+        <krebs_krankheit>,
+        <lebensmittelvergiftung>,
+        <leberzirrhose>,
+        <legasthenie>,
+        <leukämie>,
+        <magersucht>,
+        <multiple_sklerose>,
+        <muskelschwäche>,
+        <narzissmus>,
+        <psychische_krankheiten>,
+        <schlaganfall>,
+        <sehfehler>,
+        <seuche>,
+        <sterilität_unfruchtbarkeit>,
+        <stoffwechselkrankheit>,
+        <strahlenschaden>,
+        <tourettesyndrom>,
+        <unterernährung>,
+        <venenerkrankung>,
+        <verbrennung_medizin>,
+        <wunde>,
+        <zahnpflege>,
+        <zivilisationskrankheit>,
+        <übergewicht> ;
+    skos:prefLabel "Krankheit"@de .
+
+<medizin_heilkunde> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <abtreibung>,
+        <alternativmedizin>,
+        <arztbesuch>,
+        <autogenes_training>,
+        <banting__frederick>,
+        <bauer__karl_heinrich>,
+        <behinderung>,
+        <best__charles>,
+        <biomedizin>,
+        <bionik>,
+        <blutzucker>,
+        <brunschig__hieronymus>,
+        <carus__carl_gustav>,
+        <chemotherapie>,
+        <cholesterin>,
+        <computertomographie>,
+        <defibrillator>,
+        <dialyse>,
+        <eccles__john>,
+        <ehrlich__paul>,
+        <einthoven__willem>,
+        <ergometrie>,
+        <fehlgeburt>,
+        <fieber>,
+        <freud__sigmund>,
+        <frühgeburt>,
+        <geburt>,
+        <geriatrie>,
+        <gesundheit>,
+        <gesundheitserziehung>,
+        <gipsverband>,
+        <grof__stanislav>,
+        <impfung>,
+        <implantat>,
+        <injektion_medizin>,
+        <jenner__edward>,
+        <kandel__eric_richard>,
+        <kindstod>,
+        <kneipp__sebastian>,
+        <kohut__heinz>,
+        <krankenhaus>,
+        <krankenpflege>,
+        <krankheit>,
+        <küblerross__elisabeth>,
+        <landsteiner__karl>,
+        <leiden>,
+        <leistung_physiologie>,
+        <levitin__daniel>,
+        <lister__joseph>,
+        <logopädie>,
+        <lückert__heinzrudiolf>,
+        <massage>,
+        <mayer__robert>,
+        <medizinethik>,
+        <mitscherlich__alexander>,
+        <montesquieu>,
+        <morton__william>,
+        <motorik>,
+        <organspende>,
+        <paracelsus>,
+        <pawlow__iwan_petrowitsch>,
+        <pettenkofer__max_von>,
+        <pharmazie>,
+        <psychiatrie>,
+        <psychoanalyse>,
+        <psychologie>,
+        <psychosomatik>,
+        <ramón_y_cajal__santiago_felipe>,
+        <rank__otto>,
+        <rehabilitation>,
+        <reich__wilhelm>,
+        <schlaf>,
+        <schmerz>,
+        <schweitzer__albert>,
+        <semmelweis__ignaz_philipp>,
+        <simpson__james>,
+        <steinmann__fritz>,
+        <therapie>,
+        <toxikologie>,
+        <trott_zu_solz__claritta_von>,
+        <ultraschalldiagnostik>,
+        <untersuchungsmethode_medizin>,
+        <versorgung_medizin>,
+        <virchow__rudolf>,
+        <viren_krankheitserreger>,
+        <vorsorgeuntersuchung>,
+        <wertheimer__max>,
+        <ylppó__arvo_henrik>,
+        <yoga> ;
+    skos:prefLabel "Medizin (Heilkunde)"@de ;
+    skos:topConceptOf <> .
+
+<> a skos:ConceptScheme ;
+    dct:creator "<https://creator.com>" ;
+    dct:description "gesundheit"@de ;
+    dct:title "gesundheit"@de ;
+    skos:hasTopConcept <ernährung>,
+        <hygiene>,
+        <medizin_heilkunde> .
+
