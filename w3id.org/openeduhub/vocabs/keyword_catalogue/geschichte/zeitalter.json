@@ -1,0 +1,142 @@
+{
+  "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/geschichte/zeitalter",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=%2Fskohub-vocabsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fgeschichte%2Fzeitalter",
+  "inbox": "https://test.skohub.io/inbox?target=%2Fskohub-vocabsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fgeschichte%2Fzeitalter",
+  "prefLabel": {
+    "de": "Zeitalter"
+  },
+  "narrower": [
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/geschichte/absolutismus",
+      "prefLabel": {
+        "de": "Absolutismus"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/geschichte/aufklärung_zeitalter",
+      "prefLabel": {
+        "de": "Aufklärung (Zeitalter)"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/geschichte/frühe_neuzeit",
+      "prefLabel": {
+        "de": "Frühe Neuzeit"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/geschichte/griechisches_altertum",
+      "prefLabel": {
+        "de": "Griechisches Altertum"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/geschichte/hochkultur_süd/mittelamerika",
+      "prefLabel": {
+        "de": "Hochkultur (Süd-/Mittelamerika)"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/geschichte/mittelalter",
+      "prefLabel": {
+        "de": "Mittelalter"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/geschichte/neuzeit",
+      "prefLabel": {
+        "de": "Neuzeit"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/geschichte/orientalisches_altertum",
+      "prefLabel": {
+        "de": "Orientalisches Altertum"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/geschichte/römisches_altertum",
+      "prefLabel": {
+        "de": "Römisches Altertum"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/geschichte/vorgeschichte_menschheit",
+      "prefLabel": {
+        "de": "Vorgeschichte (Menschheit)"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/geschichte/zeitrechnung",
+    "prefLabel": {
+      "de": "Zeitrechnung"
+    }
+  },
+  "inScheme": {
+    "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/geschichte/",
+    "title": {
+      "de": "geschichte"
+    }
+  },
+  "@context": {
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

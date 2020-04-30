@@ -1,0 +1,160 @@
+{
+  "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/politik_systematik/herrschaftsform",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=%2Fskohub-vocabsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fpolitik_systematik%2Fherrschaftsform",
+  "inbox": "https://test.skohub.io/inbox?target=%2Fskohub-vocabsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fpolitik_systematik%2Fherrschaftsform",
+  "prefLabel": {
+    "de": "Herrschaftsform"
+  },
+  "narrower": [
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/politik_systematik/demagogie",
+      "prefLabel": {
+        "de": "Demagogie"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/politik_systematik/demokratie",
+      "prefLabel": {
+        "de": "Demokratie"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/politik_systematik/diktatur",
+      "prefLabel": {
+        "de": "Diktatur"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/politik_systematik/föderalismus",
+      "prefLabel": {
+        "de": "Föderalismus"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/politik_systematik/gleichschaltung",
+      "prefLabel": {
+        "de": "Gleichschaltung"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/politik_systematik/kommunismus",
+      "prefLabel": {
+        "de": "Kommunismus"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/politik_systematik/liberalismus",
+      "prefLabel": {
+        "de": "Liberalismus"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/politik_systematik/marxismus",
+      "prefLabel": {
+        "de": "Marxismus"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/politik_systematik/militarismus",
+      "prefLabel": {
+        "de": "Militarismus"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/politik_systematik/monarchie",
+      "prefLabel": {
+        "de": "Monarchie"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/politik_systematik/parlamentarismus",
+      "prefLabel": {
+        "de": "Parlamentarismus"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/politik_systematik/rechtsstaat",
+      "prefLabel": {
+        "de": "Rechtsstaat"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/politik_systematik/totalitarismus",
+      "prefLabel": {
+        "de": "Totalitarismus"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/politik_systematik/politik",
+    "prefLabel": {
+      "de": "Politik"
+    }
+  },
+  "inScheme": {
+    "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/politik_systematik/",
+    "title": {
+      "de": "politik_systematik"
+    }
+  },
+  "@context": {
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

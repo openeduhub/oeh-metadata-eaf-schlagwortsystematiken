@@ -1,0 +1,106 @@
+{
+  "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/geographie_systematik/stausee_id",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=%2Fskohub-vocabsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fgeographie_systematik%2Fstausee_id",
+  "inbox": "https://test.skohub.io/inbox?target=%2Fskohub-vocabsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fgeographie_systematik%2Fstausee_id",
+  "prefLabel": {
+    "de": "Stausee"
+  },
+  "narrower": [
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/geographie_systematik/assuanstaudamm_id",
+      "prefLabel": {
+        "de": "Assuan-Staudamm"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/geographie_systematik/biggetalsperre_id",
+      "prefLabel": {
+        "de": "Biggetalsperre"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/geographie_systematik/edersee_id",
+      "prefLabel": {
+        "de": "Edersee"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/geographie_systematik/möhnetalsperre_id",
+      "prefLabel": {
+        "de": "Möhnetalsperre"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/geographie_systematik/see_binnengewässer_id",
+    "prefLabel": {
+      "de": "See (Binnengewässer)"
+    }
+  },
+  "inScheme": {
+    "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/geographie_systematik/",
+    "title": {
+      "de": "geographie_systematik"
+    }
+  },
+  "@context": {
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

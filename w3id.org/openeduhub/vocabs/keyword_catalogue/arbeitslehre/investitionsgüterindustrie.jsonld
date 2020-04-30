@@ -1,0 +1,169 @@
+{
+  "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/arbeitslehre/investitionsgüterindustrie",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=%2Fskohub-vocabsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Farbeitslehre%2Finvestitionsg%C3%BCterindustrie",
+  "inbox": "https://test.skohub.io/inbox?target=%2Fskohub-vocabsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Farbeitslehre%2Finvestitionsg%C3%BCterindustrie",
+  "prefLabel": {
+    "de": "Investitionsgüterindustrie"
+  },
+  "narrower": [
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/arbeitslehre/bauindustrie",
+      "prefLabel": {
+        "de": "Bauindustrie"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/arbeitslehre/flaschenzug",
+      "prefLabel": {
+        "de": "Flaschenzug"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/arbeitslehre/flugzeugbau",
+      "prefLabel": {
+        "de": "Flugzeugbau"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/arbeitslehre/gewinde",
+      "prefLabel": {
+        "de": "Gewinde"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/arbeitslehre/kraftfahrzeugindustrie",
+      "prefLabel": {
+        "de": "Kraftfahrzeugindustrie"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/arbeitslehre/maschinenbau",
+      "prefLabel": {
+        "de": "Maschinenbau"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/arbeitslehre/nagel_befestigungsmittel",
+      "prefLabel": {
+        "de": "Nagel (Befestigungsmittel)"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/arbeitslehre/niet",
+      "prefLabel": {
+        "de": "Niet"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/arbeitslehre/roboter",
+      "prefLabel": {
+        "de": "Roboter"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/arbeitslehre/schiffbau",
+      "prefLabel": {
+        "de": "Schiffbau"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/arbeitslehre/schraube_befestigungsmittel",
+      "prefLabel": {
+        "de": "Schraube (Befestigungsmittel)"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/arbeitslehre/schrott",
+      "prefLabel": {
+        "de": "Schrott"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/arbeitslehre/siemens_ag",
+      "prefLabel": {
+        "de": "Siemens AG"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/arbeitslehre/ventil",
+      "prefLabel": {
+        "de": "Ventil"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/arbeitslehre/waffenproduktion",
+      "prefLabel": {
+        "de": "Waffenproduktion"
+      }
+    }
+  ],
+  "inScheme": {
+    "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/arbeitslehre/",
+    "title": {
+      "de": "arbeitslehre"
+    }
+  },
+  "topConceptOf": {
+    "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/arbeitslehre/"
+  },
+  "@context": {
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

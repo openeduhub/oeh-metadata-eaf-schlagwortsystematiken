@@ -1,0 +1,118 @@
+{
+  "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/medienpaedagogik_systematik/film",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=%2Fskohub-vocabsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fmedienpaedagogik_systematik%2Ffilm",
+  "inbox": "https://test.skohub.io/inbox?target=%2Fskohub-vocabsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fmedienpaedagogik_systematik%2Ffilm",
+  "prefLabel": {
+    "de": "Film)"
+  },
+  "narrower": [
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/medienpaedagogik_systematik/filmanalyse",
+      "prefLabel": {
+        "de": "Filmanalyse"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/medienpaedagogik_systematik/filmbildung",
+      "prefLabel": {
+        "de": "Filmbildung"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/medienpaedagogik_systematik/filmgeschichte",
+      "prefLabel": {
+        "de": "Filmgeschichte"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/medienpaedagogik_systematik/filmgestaltung",
+      "prefLabel": {
+        "de": "Filmgestaltung"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/medienpaedagogik_systematik/filmherstellung",
+      "prefLabel": {
+        "de": "Filmherstellung"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/medienpaedagogik_systematik/kino",
+      "prefLabel": {
+        "de": "Kino"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/medienpaedagogik_systematik/massenmedien",
+    "prefLabel": {
+      "de": "Massenmedien"
+    }
+  },
+  "inScheme": {
+    "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/medienpaedagogik_systematik/",
+    "title": {
+      "de": "medienpaedagogik_systematik"
+    }
+  },
+  "@context": {
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

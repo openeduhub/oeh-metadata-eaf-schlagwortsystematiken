@@ -1,0 +1,184 @@
+{
+  "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/geographie_systematik/italien_id",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=%2Fskohub-vocabsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fgeographie_systematik%2Fitalien_id",
+  "inbox": "https://test.skohub.io/inbox?target=%2Fskohub-vocabsw3id.org%2Fopeneduhub%2Fvocabs%2Fkeyword_catalogue%2Fgeographie_systematik%2Fitalien_id",
+  "prefLabel": {
+    "de": "Italien"
+  },
+  "narrower": [
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/geographie_systematik/elba_id",
+      "prefLabel": {
+        "de": "Elba"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/geographie_systematik/ferrara_id",
+      "prefLabel": {
+        "de": "Ferrara"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/geographie_systematik/ischia_id",
+      "prefLabel": {
+        "de": "Ischia"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/geographie_systematik/landeskunde_italien_id",
+      "prefLabel": {
+        "de": "Landeskunde (Italien)"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/geographie_systematik/ligurien_id",
+      "prefLabel": {
+        "de": "Ligurien"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/geographie_systematik/liparische_inseln_id",
+      "prefLabel": {
+        "de": "Liparische Inseln"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/geographie_systematik/lombardei_id",
+      "prefLabel": {
+        "de": "Lombardei"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/geographie_systematik/ravenna_id",
+      "prefLabel": {
+        "de": "Ravenna"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/geographie_systematik/rom_stadt_id",
+      "prefLabel": {
+        "de": "Rom (Stadt)"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/geographie_systematik/sardinien_id",
+      "prefLabel": {
+        "de": "Sardinien"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/geographie_systematik/sizilien_id",
+      "prefLabel": {
+        "de": "Sizilien"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/geographie_systematik/südtirol_id",
+      "prefLabel": {
+        "de": "Südtirol"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/geographie_systematik/toskana_id",
+      "prefLabel": {
+        "de": "Toskana"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/geographie_systematik/treviso_id",
+      "prefLabel": {
+        "de": "Treviso"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/geographie_systematik/turin_id",
+      "prefLabel": {
+        "de": "Turin"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/geographie_systematik/venedig_id",
+      "prefLabel": {
+        "de": "Venedig"
+      }
+    },
+    {
+      "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/geographie_systematik/verona_id",
+      "prefLabel": {
+        "de": "Verona"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/geographie_systematik/südeuropa_id",
+    "prefLabel": {
+      "de": "Südeuropa"
+    }
+  },
+  "inScheme": {
+    "id": "https://w3id.org/openeduhub/vocabs/keyword_catalogue/geographie_systematik/",
+    "title": {
+      "de": "geographie_systematik"
+    }
+  },
+  "@context": {
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}
