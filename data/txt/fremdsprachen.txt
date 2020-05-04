@@ -1,0 +1,271 @@
+F R E M D S P R A C H E N							
+
+Fremdsprache
+-Alltagssituation (Sprachunterricht)
+-Detailverstehen
+-Dialog (fremdsprachlicher)
+-Chinesische Sprache
+	--Sprachunterricht (Chinesisch)
+-Dänische Sprache
+	--Sprachunterricht (Dänisch)
+-Englische Sprache 
+	--Englische Grammatik 
+	--Limerick
+	--Satzstruktur (Englisch)
+	--Sprachunterricht (Englisch)
+-Französische Sprache 
+	--Französische Grammatik 
+	--Satzstruktur (Französisch)
+	--Sprachunterricht (Französisch)
+-Futur (Sprache)
+-Geschäftssprache
+-Globalverstehen
+-Griechische Sprache 
+	--Sprachunterricht (Griechisch)
+-Hörspiel (fremdsprachliches)
+	--Hörtext (englischer)
+	--Hörtext (französischer)
+	--Hörtext (russischer)
+	--Hörtext (spanischer)
+-Italienische Sprache
+	--Sprachunterricht (Italienisch)
+-Japanische Sprache
+	--Sprachunterricht (Japanisch)
+-Lateinische Sprache 
+	--Lateinische Grammatik 
+	--Satzstruktur (Latein)
+	--Sprachunterricht (Latein)
+-Niederländische Sprache
+	--Sprachunterricht (Niederländisch)
+-Polnische Sprache
+	--Sprachunterricht (Polnisch)
+-Portugiesische Sprache
+	--Sprachunterricht (Portugiesisch)
+-Russische Sprache
+	--Adjektiv (Russisch)
+	--Satzstruktur (Russisch)
+	--Sprachunterricht (Russisch)
+-Sorbische Sprache 
+	--Sprachunterricht (Sorbisch)
+-Spanische Sprache 
+	--Satzstruktur (Spanisch)
+	--Sprachunterricht (Spanisch)
+-Tschechische Sprache
+--Sprachunterricht (Tschechisch)
+-Türkische Sprache
+--Sprachunterricht (Türkisch)
+-Vokabeltrainer
+-Wortfeld
+
+(Schriftsteller, etc.)
+Aiken, Joan
+Aitmatow, Tschingis
+Alain-Fournier, Henri
+Albee, Edward
+Aldiss, Brian
+Anderson, Sherwood
+Anouilh, Jean
+Apollinaire, Guillaume
+Arcy, Margaretta D'
+Arden, John
+Aubrac, Lucie
+Austen, Jane
+Baldwin, James
+Bart-Cisinski, Jakub
+Balzac, Honore de
+Barons, Krisjanis
+Barthes, Roland
+Baudelaire, Charles
+Beach, Sylvia
+Beaumarchais, Pierre Augustin Caron de
+Beckett, Samuel
+Beecher-Stowe, Harriet
+Begag, Azouz
+Bierce, Ambrose
+Blixen-Finecke, Karen
+Blyton, Enid
+Bonaviri, Giuseppe
+Brenton, Howard
+Brontë, Charlotte
+Brontë, Emily
+Burroughs, Edgar Rice
+Calderon de la Barca, Pedro
+Camus, Albert
+Cardinal, Marie
+Carrol, Lewis
+Carter, Angela
+Cervantes, Miguel de
+Chancel, Jacques
+Charef, Mehdi
+Chateaubriand, François René de
+Chomsky, Noam
+Christie, Agatha
+Claudel, Paul
+Cocteau, Jean
+Colette
+Courier, Paul-Louis
+Crane, Stephen
+Crozier, Michel
+Dante Alighieri
+Daudet, Alphonse
+Defoe, Daniel
+Dickens, Charles
+Dickinson, Emiliy
+Diderot, Denis
+Dostojewskij, Fjodor
+Doyle, Arthur Conan Sir
+Dreiser, Theodore
+Duffy, Carol Ann
+Duhamel, Georges
+Dumas, Alexandre
+Duras, Marguerite
+Eco, Umberto
+Edgar, David
+Eliot, Thomas Stearns
+Encina, Juan del
+Etiemble, Rene
+Euripides
+Faulkner, William
+Fitzgerald, Francis Scott
+Flaubert, Gustave
+Fontaine, Jean de la
+Foucault, Michel
+France, Anatole
+Francesco Tetrarca
+François Villon
+Fry, Christopher
+Furet, François
+Gaarder, Jostein
+Gautier, Theophile
+Gawrilow, Anatolij
+Gay, John
+Genet, Jean
+Gide, André
+Giraudoux, Jean
+Gogol, Nikolaj
+Golding, William Gerald
+Goldsmith, Oliver
+Goll, Ivan
+Gorkij, Maxim
+Goscinny, René
+Granin, Daniil
+Greene, Graham
+Guillaume de Machaut
+Haley, Alexander Palmer
+Hasek, Jaroslav
+Heller, Joseph
+Hemingway, Ernest
+Henry, O.
+Homer
+Horaz
+Hugo, Victor
+Ibsen, Henrik
+Ionesco, Eugène
+Joos, Louis
+Joyce, James
+Kazantzakis, Nikos
+Keats, John
+Keller, Helen
+Kesey, Ken
+Kessel, Joseph
+Kipling, Rudyard
+Kishon, Ephraim
+Lada, Josef
+La Fontaine, Jean de
+Lagerlöf, Selma
+Lampedusa, Guiseppe Tomasi di
+Lawrence, David Herbert
+Le Goff, Jacques
+Leokum, Arkady
+Le Roy Ladurie, Emmanuel
+Lermontow, Michail Jurijewitsch
+Lindgren, Astrid
+Lobel, Arnold
+Lope de Vega
+Machiavelli, Niccolo
+Mailer, Norman Kingsley
+Majakowskij, Wladimir
+Mansfield, Katherine
+Maugham, William Somerset
+Maupassant, Guy de
+Melville, Herman
+Merle, Robert
+Miller, Arthur
+Molière
+Montaigne, Michel de
+Monterroso, Augusto
+Morgan, Sally
+Morris, William
+Musset, Alfred de
+Neruda, Jan
+Neruda, Pablo
+Nerval, Gerard de
+Oram, Neil
+Orwell, George
+Osborne, John
+Passos, John Roderigo dos
+Peter, Gaston
+Plautus
+Plath, Sylvia
+Platon
+Poe, Edgar Allan
+Pound, Ezra
+Priestley, John Boynton
+Puschkin, Alexander
+Rahlens, Holly-Jane
+Reuter, Fritz
+Richart de Fournival
+Rimbaud, Jean-Arthur
+Roberts, Michèle
+Rousseau, Jean-Jacques
+Rushdie, Salman
+Ruskin, John
+Sadur, Nina
+Sagan, Françoise
+Saint-Exupery, Antoine de
+Sand, George
+Sarraute, Nathalie
+Sartre, Jean-Paul
+Schami, Rafik
+Scholochow, Michail		
+Scribe, Eugene							
+Shakespeare, William
+-Hamlet
+Shaw, George Bernhard
+Shelley, Mary
+Simenon, Georges
+Skarmeta, Antonio
+Sokrates
+Sophokles
+Stael, Anne Louise Germaine de
+Stap, Sophie van der
+Steele, Richard Sir
+Steinbeck, John Ernst
+Stendhal
+Stevenson, Robert Louis
+Stoker, Bram
+Strindberg, August
+Swift, Jonathan
+Tabucchi, Antonio
+Terenz
+Tolkien, John Ronald Reuel
+Tolstoi, Leo
+Tschechow, Anton Pawlowitsch
+Twain, Mark
+Vergil
+Verlaine, Paul
+Verne, Jules
+Voltaire
+Vrkljan, Irena
+Wallace, Edgar
+Waugh, Evelyn
+Wells, Herbert George
+Welsh, Irvine
+Wilde, Oscar
+Wilder, Thornton
+Williams, Tennessee
+Wolfe, Thomas
+Woolf, Virginia
+Wordsworth, William
+Wright, Richard
+Zola, Emile

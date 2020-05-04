@@ -1,0 +1,1365 @@
+@base <https://example-perma-id/fremdsprachen_systematik/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<adjektiv_russisch_id> a skos:Concept ;
+    skos:broader <russische_sprache_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Adjektiv (Russisch)"@de .
+
+<aiken__joan_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Aiken, Joan"@de ;
+    skos:topConceptOf <> .
+
+<aitmatow__tschingis_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Aitmatow, Tschingis"@de ;
+    skos:topConceptOf <> .
+
+<alainfournier__henri_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Alain-Fournier, Henri"@de ;
+    skos:topConceptOf <> .
+
+<albee__edward_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Albee, Edward"@de ;
+    skos:topConceptOf <> .
+
+<aldiss__brian_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Aldiss, Brian"@de ;
+    skos:topConceptOf <> .
+
+<alltagssituation_sprachunterricht_id> a skos:Concept ;
+    skos:broader <fremdsprache_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Alltagssituation (Sprachunterricht)"@de .
+
+<anderson__sherwood_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Anderson, Sherwood"@de ;
+    skos:topConceptOf <> .
+
+<anouilh__jean_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Anouilh, Jean"@de ;
+    skos:topConceptOf <> .
+
+<apollinaire__guillaume_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Apollinaire, Guillaume"@de ;
+    skos:topConceptOf <> .
+
+<arcy__margaretta_d'_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Arcy, Margaretta D'"@de ;
+    skos:topConceptOf <> .
+
+<arden__john_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Arden, John"@de ;
+    skos:topConceptOf <> .
+
+<aubrac__lucie_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Aubrac, Lucie"@de ;
+    skos:topConceptOf <> .
+
+<austen__jane_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Austen, Jane"@de ;
+    skos:topConceptOf <> .
+
+<baldwin__james_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Baldwin, James"@de ;
+    skos:topConceptOf <> .
+
+<balzac__honore_de_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Balzac, Honore de"@de ;
+    skos:topConceptOf <> .
+
+<barons__krisjanis_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Barons, Krisjanis"@de ;
+    skos:topConceptOf <> .
+
+<bartcisinski__jakub_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bart-Cisinski, Jakub"@de ;
+    skos:topConceptOf <> .
+
+<barthes__roland_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Barthes, Roland"@de ;
+    skos:topConceptOf <> .
+
+<baudelaire__charles_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Baudelaire, Charles"@de ;
+    skos:topConceptOf <> .
+
+<beach__sylvia_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Beach, Sylvia"@de ;
+    skos:topConceptOf <> .
+
+<beaumarchais__pierre_augustin_caron_de_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Beaumarchais, Pierre Augustin Caron de"@de ;
+    skos:topConceptOf <> .
+
+<beckett__samuel_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Beckett, Samuel"@de ;
+    skos:topConceptOf <> .
+
+<beecherstowe__harriet_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Beecher-Stowe, Harriet"@de ;
+    skos:topConceptOf <> .
+
+<begag__azouz_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Begag, Azouz"@de ;
+    skos:topConceptOf <> .
+
+<bierce__ambrose_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bierce, Ambrose"@de ;
+    skos:topConceptOf <> .
+
+<blixenfinecke__karen_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Blixen-Finecke, Karen"@de ;
+    skos:topConceptOf <> .
+
+<blyton__enid_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Blyton, Enid"@de ;
+    skos:topConceptOf <> .
+
+<bonaviri__giuseppe_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bonaviri, Giuseppe"@de ;
+    skos:topConceptOf <> .
+
+<brenton__howard_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Brenton, Howard"@de ;
+    skos:topConceptOf <> .
+
+<brontë__charlotte_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Brontë, Charlotte"@de ;
+    skos:topConceptOf <> .
+
+<brontë__emily_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Brontë, Emily"@de ;
+    skos:topConceptOf <> .
+
+<burroughs__edgar_rice_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Burroughs, Edgar Rice"@de ;
+    skos:topConceptOf <> .
+
+<calderon_de_la_barca__pedro_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Calderon de la Barca, Pedro"@de ;
+    skos:topConceptOf <> .
+
+<camus__albert_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Camus, Albert"@de ;
+    skos:topConceptOf <> .
+
+<cardinal__marie_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Cardinal, Marie"@de ;
+    skos:topConceptOf <> .
+
+<carrol__lewis_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Carrol, Lewis"@de ;
+    skos:topConceptOf <> .
+
+<carter__angela_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Carter, Angela"@de ;
+    skos:topConceptOf <> .
+
+<cervantes__miguel_de_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Cervantes, Miguel de"@de ;
+    skos:topConceptOf <> .
+
+<chancel__jacques_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Chancel, Jacques"@de ;
+    skos:topConceptOf <> .
+
+<charef__mehdi_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Charef, Mehdi"@de ;
+    skos:topConceptOf <> .
+
+<chateaubriand__françois_rené_de_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Chateaubriand, François René de"@de ;
+    skos:topConceptOf <> .
+
+<chomsky__noam_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Chomsky, Noam"@de ;
+    skos:topConceptOf <> .
+
+<christie__agatha_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Christie, Agatha"@de ;
+    skos:topConceptOf <> .
+
+<claudel__paul_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Claudel, Paul"@de ;
+    skos:topConceptOf <> .
+
+<cocteau__jean_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Cocteau, Jean"@de ;
+    skos:topConceptOf <> .
+
+<colette_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Colette"@de ;
+    skos:topConceptOf <> .
+
+<courier__paullouis_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Courier, Paul-Louis"@de ;
+    skos:topConceptOf <> .
+
+<crane__stephen_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Crane, Stephen"@de ;
+    skos:topConceptOf <> .
+
+<crozier__michel_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Crozier, Michel"@de ;
+    skos:topConceptOf <> .
+
+<dante_alighieri_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Dante Alighieri"@de ;
+    skos:topConceptOf <> .
+
+<daudet__alphonse_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Daudet, Alphonse"@de ;
+    skos:topConceptOf <> .
+
+<defoe__daniel_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Defoe, Daniel"@de ;
+    skos:topConceptOf <> .
+
+<detailverstehen_id> a skos:Concept ;
+    skos:broader <fremdsprache_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Detailverstehen"@de .
+
+<dialog_fremdsprachlicher_id> a skos:Concept ;
+    skos:broader <fremdsprache_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Dialog (fremdsprachlicher)"@de .
+
+<dickens__charles_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Dickens, Charles"@de ;
+    skos:topConceptOf <> .
+
+<dickinson__emiliy_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Dickinson, Emiliy"@de ;
+    skos:topConceptOf <> .
+
+<diderot__denis_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Diderot, Denis"@de ;
+    skos:topConceptOf <> .
+
+<dostojewskij__fjodor_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Dostojewskij, Fjodor"@de ;
+    skos:topConceptOf <> .
+
+<doyle__arthur_conan_sir_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Doyle, Arthur Conan Sir"@de ;
+    skos:topConceptOf <> .
+
+<dreiser__theodore_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Dreiser, Theodore"@de ;
+    skos:topConceptOf <> .
+
+<duffy__carol_ann_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Duffy, Carol Ann"@de ;
+    skos:topConceptOf <> .
+
+<duhamel__georges_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Duhamel, Georges"@de ;
+    skos:topConceptOf <> .
+
+<dumas__alexandre_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Dumas, Alexandre"@de ;
+    skos:topConceptOf <> .
+
+<duras__marguerite_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Duras, Marguerite"@de ;
+    skos:topConceptOf <> .
+
+<eco__umberto_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Eco, Umberto"@de ;
+    skos:topConceptOf <> .
+
+<edgar__david_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Edgar, David"@de ;
+    skos:topConceptOf <> .
+
+<eliot__thomas_stearns_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Eliot, Thomas Stearns"@de ;
+    skos:topConceptOf <> .
+
+<encina__juan_del_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Encina, Juan del"@de ;
+    skos:topConceptOf <> .
+
+<englische_grammatik__id> a skos:Concept ;
+    skos:broader <englische_sprache__id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Englische Grammatik "@de .
+
+<etiemble__rene_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Etiemble, Rene"@de ;
+    skos:topConceptOf <> .
+
+<euripides_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Euripides"@de ;
+    skos:topConceptOf <> .
+
+<faulkner__william_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Faulkner, William"@de ;
+    skos:topConceptOf <> .
+
+<fitzgerald__francis_scott_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fitzgerald, Francis Scott"@de ;
+    skos:topConceptOf <> .
+
+<flaubert__gustave_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Flaubert, Gustave"@de ;
+    skos:topConceptOf <> .
+
+<fontaine__jean_de_la_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fontaine, Jean de la"@de ;
+    skos:topConceptOf <> .
+
+<foucault__michel_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Foucault, Michel"@de ;
+    skos:topConceptOf <> .
+
+<france__anatole_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "France, Anatole"@de ;
+    skos:topConceptOf <> .
+
+<francesco_tetrarca_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Francesco Tetrarca"@de ;
+    skos:topConceptOf <> .
+
+<französische_grammatik__id> a skos:Concept ;
+    skos:broader <französische_sprache__id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Französische Grammatik "@de .
+
+<françois_villon_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "François Villon"@de ;
+    skos:topConceptOf <> .
+
+<fry__christopher_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fry, Christopher"@de ;
+    skos:topConceptOf <> .
+
+<furet__françois_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Furet, François"@de ;
+    skos:topConceptOf <> .
+
+<futur_sprache_id> a skos:Concept ;
+    skos:broader <fremdsprache_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Futur (Sprache)"@de .
+
+<gaarder__jostein_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gaarder, Jostein"@de ;
+    skos:topConceptOf <> .
+
+<gautier__theophile_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gautier, Theophile"@de ;
+    skos:topConceptOf <> .
+
+<gawrilow__anatolij_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gawrilow, Anatolij"@de ;
+    skos:topConceptOf <> .
+
+<gay__john_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gay, John"@de ;
+    skos:topConceptOf <> .
+
+<genet__jean_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Genet, Jean"@de ;
+    skos:topConceptOf <> .
+
+<geschäftssprache_id> a skos:Concept ;
+    skos:broader <fremdsprache_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Geschäftssprache"@de .
+
+<gide__andré_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gide, André"@de ;
+    skos:topConceptOf <> .
+
+<giraudoux__jean_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Giraudoux, Jean"@de ;
+    skos:topConceptOf <> .
+
+<globalverstehen_id> a skos:Concept ;
+    skos:broader <fremdsprache_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Globalverstehen"@de .
+
+<gogol__nikolaj_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gogol, Nikolaj"@de ;
+    skos:topConceptOf <> .
+
+<golding__william_gerald_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Golding, William Gerald"@de ;
+    skos:topConceptOf <> .
+
+<goldsmith__oliver_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Goldsmith, Oliver"@de ;
+    skos:topConceptOf <> .
+
+<goll__ivan_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Goll, Ivan"@de ;
+    skos:topConceptOf <> .
+
+<gorkij__maxim_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gorkij, Maxim"@de ;
+    skos:topConceptOf <> .
+
+<goscinny__rené_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Goscinny, René"@de ;
+    skos:topConceptOf <> .
+
+<granin__daniil_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Granin, Daniil"@de ;
+    skos:topConceptOf <> .
+
+<greene__graham_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Greene, Graham"@de ;
+    skos:topConceptOf <> .
+
+<guillaume_de_machaut_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Guillaume de Machaut"@de ;
+    skos:topConceptOf <> .
+
+<haley__alexander_palmer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Haley, Alexander Palmer"@de ;
+    skos:topConceptOf <> .
+
+<hasek__jaroslav_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hasek, Jaroslav"@de ;
+    skos:topConceptOf <> .
+
+<heller__joseph_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Heller, Joseph"@de ;
+    skos:topConceptOf <> .
+
+<hemingway__ernest_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hemingway, Ernest"@de ;
+    skos:topConceptOf <> .
+
+<henry__o._id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Henry, O."@de ;
+    skos:topConceptOf <> .
+
+<homer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Homer"@de ;
+    skos:topConceptOf <> .
+
+<horaz_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Horaz"@de ;
+    skos:topConceptOf <> .
+
+<hugo__victor_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hugo, Victor"@de ;
+    skos:topConceptOf <> .
+
+<hörtext_englischer_id> a skos:Concept ;
+    skos:broader <hörspiel_fremdsprachliches_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hörtext (englischer)"@de .
+
+<hörtext_französischer_id> a skos:Concept ;
+    skos:broader <hörspiel_fremdsprachliches_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hörtext (französischer)"@de .
+
+<hörtext_russischer_id> a skos:Concept ;
+    skos:broader <hörspiel_fremdsprachliches_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hörtext (russischer)"@de .
+
+<hörtext_spanischer_id> a skos:Concept ;
+    skos:broader <hörspiel_fremdsprachliches_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hörtext (spanischer)"@de .
+
+<ibsen__henrik_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ibsen, Henrik"@de ;
+    skos:topConceptOf <> .
+
+<ionesco__eugène_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ionesco, Eugène"@de ;
+    skos:topConceptOf <> .
+
+<joos__louis_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Joos, Louis"@de ;
+    skos:topConceptOf <> .
+
+<joyce__james_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Joyce, James"@de ;
+    skos:topConceptOf <> .
+
+<kazantzakis__nikos_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kazantzakis, Nikos"@de ;
+    skos:topConceptOf <> .
+
+<keats__john_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Keats, John"@de ;
+    skos:topConceptOf <> .
+
+<keller__helen_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Keller, Helen"@de ;
+    skos:topConceptOf <> .
+
+<kesey__ken_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kesey, Ken"@de ;
+    skos:topConceptOf <> .
+
+<kessel__joseph_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kessel, Joseph"@de ;
+    skos:topConceptOf <> .
+
+<kipling__rudyard_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kipling, Rudyard"@de ;
+    skos:topConceptOf <> .
+
+<kishon__ephraim_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kishon, Ephraim"@de ;
+    skos:topConceptOf <> .
+
+<la_fontaine__jean_de_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "La Fontaine, Jean de"@de ;
+    skos:topConceptOf <> .
+
+<lada__josef_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lada, Josef"@de ;
+    skos:topConceptOf <> .
+
+<lagerlöf__selma_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lagerlöf, Selma"@de ;
+    skos:topConceptOf <> .
+
+<lampedusa__guiseppe_tomasi_di_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lampedusa, Guiseppe Tomasi di"@de ;
+    skos:topConceptOf <> .
+
+<lateinische_grammatik__id> a skos:Concept ;
+    skos:broader <lateinische_sprache__id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lateinische Grammatik "@de .
+
+<lawrence__david_herbert_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lawrence, David Herbert"@de ;
+    skos:topConceptOf <> .
+
+<le_goff__jacques_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Le Goff, Jacques"@de ;
+    skos:topConceptOf <> .
+
+<le_roy_ladurie__emmanuel_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Le Roy Ladurie, Emmanuel"@de ;
+    skos:topConceptOf <> .
+
+<leokum__arkady_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Leokum, Arkady"@de ;
+    skos:topConceptOf <> .
+
+<lermontow__michail_jurijewitsch_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lermontow, Michail Jurijewitsch"@de ;
+    skos:topConceptOf <> .
+
+<limerick_id> a skos:Concept ;
+    skos:broader <englische_sprache__id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Limerick"@de .
+
+<lindgren__astrid_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lindgren, Astrid"@de ;
+    skos:topConceptOf <> .
+
+<lobel__arnold_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lobel, Arnold"@de ;
+    skos:topConceptOf <> .
+
+<lope_de_vega_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lope de Vega"@de ;
+    skos:topConceptOf <> .
+
+<machiavelli__niccolo_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Machiavelli, Niccolo"@de ;
+    skos:topConceptOf <> .
+
+<mailer__norman_kingsley_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mailer, Norman Kingsley"@de ;
+    skos:topConceptOf <> .
+
+<majakowskij__wladimir_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Majakowskij, Wladimir"@de ;
+    skos:topConceptOf <> .
+
+<mansfield__katherine_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mansfield, Katherine"@de ;
+    skos:topConceptOf <> .
+
+<maugham__william_somerset_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Maugham, William Somerset"@de ;
+    skos:topConceptOf <> .
+
+<maupassant__guy_de_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Maupassant, Guy de"@de ;
+    skos:topConceptOf <> .
+
+<melville__herman_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Melville, Herman"@de ;
+    skos:topConceptOf <> .
+
+<merle__robert_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Merle, Robert"@de ;
+    skos:topConceptOf <> .
+
+<miller__arthur_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Miller, Arthur"@de ;
+    skos:topConceptOf <> .
+
+<molière_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Molière"@de ;
+    skos:topConceptOf <> .
+
+<montaigne__michel_de_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Montaigne, Michel de"@de ;
+    skos:topConceptOf <> .
+
+<monterroso__augusto_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Monterroso, Augusto"@de ;
+    skos:topConceptOf <> .
+
+<morgan__sally_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Morgan, Sally"@de ;
+    skos:topConceptOf <> .
+
+<morris__william_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Morris, William"@de ;
+    skos:topConceptOf <> .
+
+<musset__alfred_de_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Musset, Alfred de"@de ;
+    skos:topConceptOf <> .
+
+<neruda__jan_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Neruda, Jan"@de ;
+    skos:topConceptOf <> .
+
+<neruda__pablo_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Neruda, Pablo"@de ;
+    skos:topConceptOf <> .
+
+<nerval__gerard_de_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Nerval, Gerard de"@de ;
+    skos:topConceptOf <> .
+
+<oram__neil_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Oram, Neil"@de ;
+    skos:topConceptOf <> .
+
+<orwell__george_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Orwell, George"@de ;
+    skos:topConceptOf <> .
+
+<osborne__john_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Osborne, John"@de ;
+    skos:topConceptOf <> .
+
+<passos__john_roderigo_dos_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Passos, John Roderigo dos"@de ;
+    skos:topConceptOf <> .
+
+<peter__gaston_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Peter, Gaston"@de ;
+    skos:topConceptOf <> .
+
+<plath__sylvia_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Plath, Sylvia"@de ;
+    skos:topConceptOf <> .
+
+<platon_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Platon"@de ;
+    skos:topConceptOf <> .
+
+<plautus_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Plautus"@de ;
+    skos:topConceptOf <> .
+
+<poe__edgar_allan_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Poe, Edgar Allan"@de ;
+    skos:topConceptOf <> .
+
+<pound__ezra_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pound, Ezra"@de ;
+    skos:topConceptOf <> .
+
+<priestley__john_boynton_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Priestley, John Boynton"@de ;
+    skos:topConceptOf <> .
+
+<puschkin__alexander_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Puschkin, Alexander"@de ;
+    skos:topConceptOf <> .
+
+<rahlens__hollyjane_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Rahlens, Holly-Jane"@de ;
+    skos:topConceptOf <> .
+
+<reuter__fritz_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Reuter, Fritz"@de ;
+    skos:topConceptOf <> .
+
+<richart_de_fournival_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Richart de Fournival"@de ;
+    skos:topConceptOf <> .
+
+<rimbaud__jeanarthur_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Rimbaud, Jean-Arthur"@de ;
+    skos:topConceptOf <> .
+
+<roberts__michèle_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Roberts, Michèle"@de ;
+    skos:topConceptOf <> .
+
+<rousseau__jeanjacques_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Rousseau, Jean-Jacques"@de ;
+    skos:topConceptOf <> .
+
+<rushdie__salman_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Rushdie, Salman"@de ;
+    skos:topConceptOf <> .
+
+<ruskin__john_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ruskin, John"@de ;
+    skos:topConceptOf <> .
+
+<sadur__nina_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sadur, Nina"@de ;
+    skos:topConceptOf <> .
+
+<sagan__françoise_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sagan, Françoise"@de ;
+    skos:topConceptOf <> .
+
+<saintexupery__antoine_de_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Saint-Exupery, Antoine de"@de ;
+    skos:topConceptOf <> .
+
+<sand__george_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sand, George"@de ;
+    skos:topConceptOf <> .
+
+<sarraute__nathalie_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sarraute, Nathalie"@de ;
+    skos:topConceptOf <> .
+
+<sartre__jeanpaul_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sartre, Jean-Paul"@de ;
+    skos:topConceptOf <> .
+
+<satzstruktur_englisch_id> a skos:Concept ;
+    skos:broader <englische_sprache__id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Satzstruktur (Englisch)"@de .
+
+<satzstruktur_französisch_id> a skos:Concept ;
+    skos:broader <französische_sprache__id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Satzstruktur (Französisch)"@de .
+
+<satzstruktur_latein_id> a skos:Concept ;
+    skos:broader <lateinische_sprache__id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Satzstruktur (Latein)"@de .
+
+<satzstruktur_russisch_id> a skos:Concept ;
+    skos:broader <russische_sprache_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Satzstruktur (Russisch)"@de .
+
+<satzstruktur_spanisch_id> a skos:Concept ;
+    skos:broader <spanische_sprache__id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Satzstruktur (Spanisch)"@de .
+
+<schami__rafik_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schami, Rafik"@de ;
+    skos:topConceptOf <> .
+
+<schriftsteller__etc._id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schriftsteller, etc.)"@de ;
+    skos:topConceptOf <> .
+
+<sprachunterricht_chinesisch_id> a skos:Concept ;
+    skos:broader <chinesische_sprache_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sprachunterricht (Chinesisch)"@de .
+
+<sprachunterricht_dänisch_id> a skos:Concept ;
+    skos:broader <dänische_sprache_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sprachunterricht (Dänisch)"@de .
+
+<sprachunterricht_englisch_id> a skos:Concept ;
+    skos:broader <englische_sprache__id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sprachunterricht (Englisch)"@de .
+
+<sprachunterricht_französisch_id> a skos:Concept ;
+    skos:broader <französische_sprache__id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sprachunterricht (Französisch)"@de .
+
+<sprachunterricht_griechisch_id> a skos:Concept ;
+    skos:broader <griechische_sprache__id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sprachunterricht (Griechisch)"@de .
+
+<sprachunterricht_italienisch_id> a skos:Concept ;
+    skos:broader <italienische_sprache_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sprachunterricht (Italienisch)"@de .
+
+<sprachunterricht_japanisch_id> a skos:Concept ;
+    skos:broader <japanische_sprache_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sprachunterricht (Japanisch)"@de .
+
+<sprachunterricht_latein_id> a skos:Concept ;
+    skos:broader <lateinische_sprache__id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sprachunterricht (Latein)"@de .
+
+<sprachunterricht_niederländisch_id> a skos:Concept ;
+    skos:broader <niederländische_sprache_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sprachunterricht (Niederländisch)"@de .
+
+<sprachunterricht_polnisch_id> a skos:Concept ;
+    skos:broader <polnische_sprache_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sprachunterricht (Polnisch)"@de .
+
+<sprachunterricht_portugiesisch_id> a skos:Concept ;
+    skos:broader <portugiesische_sprache_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sprachunterricht (Portugiesisch)"@de .
+
+<sprachunterricht_russisch_id> a skos:Concept ;
+    skos:broader <russische_sprache_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sprachunterricht (Russisch)"@de .
+
+<sprachunterricht_sorbisch_id> a skos:Concept ;
+    skos:broader <sorbische_sprache__id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sprachunterricht (Sorbisch)"@de .
+
+<sprachunterricht_spanisch_id> a skos:Concept ;
+    skos:broader <spanische_sprache__id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sprachunterricht (Spanisch)"@de .
+
+<sprachunterricht_tschechisch_id> a skos:Concept ;
+    skos:broader <tschechische_sprache_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sprachunterricht (Tschechisch)"@de .
+
+<sprachunterricht_türkisch_id> a skos:Concept ;
+    skos:broader <türkische_sprache_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sprachunterricht (Türkisch)"@de .
+
+<vokabeltrainer_id> a skos:Concept ;
+    skos:broader <fremdsprache_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Vokabeltrainer"@de .
+
+<wortfeld_id> a skos:Concept ;
+    skos:broader <fremdsprache_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wortfeld"@de .
+
+<chinesische_sprache_id> a skos:Concept ;
+    skos:broader <fremdsprache_id> ;
+    skos:inScheme <> ;
+    skos:narrower <sprachunterricht_chinesisch_id> ;
+    skos:prefLabel "Chinesische Sprache"@de .
+
+<dänische_sprache_id> a skos:Concept ;
+    skos:broader <fremdsprache_id> ;
+    skos:inScheme <> ;
+    skos:narrower <sprachunterricht_dänisch_id> ;
+    skos:prefLabel "Dänische Sprache"@de .
+
+<griechische_sprache__id> a skos:Concept ;
+    skos:broader <fremdsprache_id> ;
+    skos:inScheme <> ;
+    skos:narrower <sprachunterricht_griechisch_id> ;
+    skos:prefLabel "Griechische Sprache "@de .
+
+<italienische_sprache_id> a skos:Concept ;
+    skos:broader <fremdsprache_id> ;
+    skos:inScheme <> ;
+    skos:narrower <sprachunterricht_italienisch_id> ;
+    skos:prefLabel "Italienische Sprache"@de .
+
+<japanische_sprache_id> a skos:Concept ;
+    skos:broader <fremdsprache_id> ;
+    skos:inScheme <> ;
+    skos:narrower <sprachunterricht_japanisch_id> ;
+    skos:prefLabel "Japanische Sprache"@de .
+
+<niederländische_sprache_id> a skos:Concept ;
+    skos:broader <fremdsprache_id> ;
+    skos:inScheme <> ;
+    skos:narrower <sprachunterricht_niederländisch_id> ;
+    skos:prefLabel "Niederländische Sprache"@de .
+
+<polnische_sprache_id> a skos:Concept ;
+    skos:broader <fremdsprache_id> ;
+    skos:inScheme <> ;
+    skos:narrower <sprachunterricht_polnisch_id> ;
+    skos:prefLabel "Polnische Sprache"@de .
+
+<portugiesische_sprache_id> a skos:Concept ;
+    skos:broader <fremdsprache_id> ;
+    skos:inScheme <> ;
+    skos:narrower <sprachunterricht_portugiesisch_id> ;
+    skos:prefLabel "Portugiesische Sprache"@de .
+
+<sorbische_sprache__id> a skos:Concept ;
+    skos:broader <fremdsprache_id> ;
+    skos:inScheme <> ;
+    skos:narrower <sprachunterricht_sorbisch_id> ;
+    skos:prefLabel "Sorbische Sprache "@de .
+
+<tschechische_sprache_id> a skos:Concept ;
+    skos:broader <fremdsprache_id> ;
+    skos:inScheme <> ;
+    skos:narrower <sprachunterricht_tschechisch_id> ;
+    skos:prefLabel "Tschechische Sprache"@de .
+
+<türkische_sprache_id> a skos:Concept ;
+    skos:broader <fremdsprache_id> ;
+    skos:inScheme <> ;
+    skos:narrower <sprachunterricht_türkisch_id> ;
+    skos:prefLabel "Türkische Sprache"@de .
+
+<spanische_sprache__id> a skos:Concept ;
+    skos:broader <fremdsprache_id> ;
+    skos:inScheme <> ;
+    skos:narrower <satzstruktur_spanisch_id>,
+        <sprachunterricht_spanisch_id> ;
+    skos:prefLabel "Spanische Sprache "@de .
+
+<französische_sprache__id> a skos:Concept ;
+    skos:broader <fremdsprache_id> ;
+    skos:inScheme <> ;
+    skos:narrower <französische_grammatik__id>,
+        <satzstruktur_französisch_id>,
+        <sprachunterricht_französisch_id> ;
+    skos:prefLabel "Französische Sprache "@de .
+
+<lateinische_sprache__id> a skos:Concept ;
+    skos:broader <fremdsprache_id> ;
+    skos:inScheme <> ;
+    skos:narrower <lateinische_grammatik__id>,
+        <satzstruktur_latein_id>,
+        <sprachunterricht_latein_id> ;
+    skos:prefLabel "Lateinische Sprache "@de .
+
+<russische_sprache_id> a skos:Concept ;
+    skos:broader <fremdsprache_id> ;
+    skos:inScheme <> ;
+    skos:narrower <adjektiv_russisch_id>,
+        <satzstruktur_russisch_id>,
+        <sprachunterricht_russisch_id> ;
+    skos:prefLabel "Russische Sprache"@de .
+
+<englische_sprache__id> a skos:Concept ;
+    skos:broader <fremdsprache_id> ;
+    skos:inScheme <> ;
+    skos:narrower <englische_grammatik__id>,
+        <limerick_id>,
+        <satzstruktur_englisch_id>,
+        <sprachunterricht_englisch_id> ;
+    skos:prefLabel "Englische Sprache "@de .
+
+<hörspiel_fremdsprachliches_id> a skos:Concept ;
+    skos:broader <fremdsprache_id> ;
+    skos:inScheme <> ;
+    skos:narrower <hörtext_englischer_id>,
+        <hörtext_französischer_id>,
+        <hörtext_russischer_id>,
+        <hörtext_spanischer_id> ;
+    skos:prefLabel "Hörspiel (fremdsprachliches)"@de .
+
+<fremdsprache_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <alltagssituation_sprachunterricht_id>,
+        <chinesische_sprache_id>,
+        <detailverstehen_id>,
+        <dialog_fremdsprachlicher_id>,
+        <dänische_sprache_id>,
+        <englische_sprache__id>,
+        <französische_sprache__id>,
+        <futur_sprache_id>,
+        <geschäftssprache_id>,
+        <globalverstehen_id>,
+        <griechische_sprache__id>,
+        <hörspiel_fremdsprachliches_id>,
+        <italienische_sprache_id>,
+        <japanische_sprache_id>,
+        <lateinische_sprache__id>,
+        <niederländische_sprache_id>,
+        <polnische_sprache_id>,
+        <portugiesische_sprache_id>,
+        <russische_sprache_id>,
+        <sorbische_sprache__id>,
+        <spanische_sprache__id>,
+        <tschechische_sprache_id>,
+        <türkische_sprache_id>,
+        <vokabeltrainer_id>,
+        <wortfeld_id> ;
+    skos:prefLabel "Fremdsprache"@de ;
+    skos:topConceptOf <> .
+
+<> a skos:ConceptScheme ;
+    dct:creator "<https://creator.com>" ;
+    dct:description "fremdsprachen_systematik"@de ;
+    dct:title "fremdsprachen_systematik"@de ;
+    skos:hasTopConcept <aiken__joan_id>,
+        <aitmatow__tschingis_id>,
+        <alainfournier__henri_id>,
+        <albee__edward_id>,
+        <aldiss__brian_id>,
+        <anderson__sherwood_id>,
+        <anouilh__jean_id>,
+        <apollinaire__guillaume_id>,
+        <arcy__margaretta_d'_id>,
+        <arden__john_id>,
+        <aubrac__lucie_id>,
+        <austen__jane_id>,
+        <baldwin__james_id>,
+        <balzac__honore_de_id>,
+        <barons__krisjanis_id>,
+        <bartcisinski__jakub_id>,
+        <barthes__roland_id>,
+        <baudelaire__charles_id>,
+        <beach__sylvia_id>,
+        <beaumarchais__pierre_augustin_caron_de_id>,
+        <beckett__samuel_id>,
+        <beecherstowe__harriet_id>,
+        <begag__azouz_id>,
+        <bierce__ambrose_id>,
+        <blixenfinecke__karen_id>,
+        <blyton__enid_id>,
+        <bonaviri__giuseppe_id>,
+        <brenton__howard_id>,
+        <brontë__charlotte_id>,
+        <brontë__emily_id>,
+        <burroughs__edgar_rice_id>,
+        <calderon_de_la_barca__pedro_id>,
+        <camus__albert_id>,
+        <cardinal__marie_id>,
+        <carrol__lewis_id>,
+        <carter__angela_id>,
+        <cervantes__miguel_de_id>,
+        <chancel__jacques_id>,
+        <charef__mehdi_id>,
+        <chateaubriand__françois_rené_de_id>,
+        <chomsky__noam_id>,
+        <christie__agatha_id>,
+        <claudel__paul_id>,
+        <cocteau__jean_id>,
+        <colette_id>,
+        <courier__paullouis_id>,
+        <crane__stephen_id>,
+        <crozier__michel_id>,
+        <dante_alighieri_id>,
+        <daudet__alphonse_id>,
+        <defoe__daniel_id>,
+        <dickens__charles_id>,
+        <dickinson__emiliy_id>,
+        <diderot__denis_id>,
+        <dostojewskij__fjodor_id>,
+        <doyle__arthur_conan_sir_id>,
+        <dreiser__theodore_id>,
+        <duffy__carol_ann_id>,
+        <duhamel__georges_id>,
+        <dumas__alexandre_id>,
+        <duras__marguerite_id>,
+        <eco__umberto_id>,
+        <edgar__david_id>,
+        <eliot__thomas_stearns_id>,
+        <encina__juan_del_id>,
+        <etiemble__rene_id>,
+        <euripides_id>,
+        <faulkner__william_id>,
+        <fitzgerald__francis_scott_id>,
+        <flaubert__gustave_id>,
+        <fontaine__jean_de_la_id>,
+        <foucault__michel_id>,
+        <france__anatole_id>,
+        <francesco_tetrarca_id>,
+        <françois_villon_id>,
+        <fremdsprache_id>,
+        <fry__christopher_id>,
+        <furet__françois_id>,
+        <gaarder__jostein_id>,
+        <gautier__theophile_id>,
+        <gawrilow__anatolij_id>,
+        <gay__john_id>,
+        <genet__jean_id>,
+        <gide__andré_id>,
+        <giraudoux__jean_id>,
+        <gogol__nikolaj_id>,
+        <golding__william_gerald_id>,
+        <goldsmith__oliver_id>,
+        <goll__ivan_id>,
+        <gorkij__maxim_id>,
+        <goscinny__rené_id>,
+        <granin__daniil_id>,
+        <greene__graham_id>,
+        <guillaume_de_machaut_id>,
+        <haley__alexander_palmer_id>,
+        <hasek__jaroslav_id>,
+        <heller__joseph_id>,
+        <hemingway__ernest_id>,
+        <henry__o._id>,
+        <homer_id>,
+        <horaz_id>,
+        <hugo__victor_id>,
+        <ibsen__henrik_id>,
+        <ionesco__eugène_id>,
+        <joos__louis_id>,
+        <joyce__james_id>,
+        <kazantzakis__nikos_id>,
+        <keats__john_id>,
+        <keller__helen_id>,
+        <kesey__ken_id>,
+        <kessel__joseph_id>,
+        <kipling__rudyard_id>,
+        <kishon__ephraim_id>,
+        <la_fontaine__jean_de_id>,
+        <lada__josef_id>,
+        <lagerlöf__selma_id>,
+        <lampedusa__guiseppe_tomasi_di_id>,
+        <lawrence__david_herbert_id>,
+        <le_goff__jacques_id>,
+        <le_roy_ladurie__emmanuel_id>,
+        <leokum__arkady_id>,
+        <lermontow__michail_jurijewitsch_id>,
+        <lindgren__astrid_id>,
+        <lobel__arnold_id>,
+        <lope_de_vega_id>,
+        <machiavelli__niccolo_id>,
+        <mailer__norman_kingsley_id>,
+        <majakowskij__wladimir_id>,
+        <mansfield__katherine_id>,
+        <maugham__william_somerset_id>,
+        <maupassant__guy_de_id>,
+        <melville__herman_id>,
+        <merle__robert_id>,
+        <miller__arthur_id>,
+        <molière_id>,
+        <montaigne__michel_de_id>,
+        <monterroso__augusto_id>,
+        <morgan__sally_id>,
+        <morris__william_id>,
+        <musset__alfred_de_id>,
+        <neruda__jan_id>,
+        <neruda__pablo_id>,
+        <nerval__gerard_de_id>,
+        <oram__neil_id>,
+        <orwell__george_id>,
+        <osborne__john_id>,
+        <passos__john_roderigo_dos_id>,
+        <peter__gaston_id>,
+        <plath__sylvia_id>,
+        <platon_id>,
+        <plautus_id>,
+        <poe__edgar_allan_id>,
+        <pound__ezra_id>,
+        <priestley__john_boynton_id>,
+        <puschkin__alexander_id>,
+        <rahlens__hollyjane_id>,
+        <reuter__fritz_id>,
+        <richart_de_fournival_id>,
+        <rimbaud__jeanarthur_id>,
+        <roberts__michèle_id>,
+        <rousseau__jeanjacques_id>,
+        <rushdie__salman_id>,
+        <ruskin__john_id>,
+        <sadur__nina_id>,
+        <sagan__françoise_id>,
+        <saintexupery__antoine_de_id>,
+        <sand__george_id>,
+        <sarraute__nathalie_id>,
+        <sartre__jeanpaul_id>,
+        <schami__rafik_id>,
+        <schriftsteller__etc._id> .
+

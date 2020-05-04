@@ -1,0 +1,519 @@
+@base <https://example-perma-id/informationstechnische_bildung_systematik/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<abofalle_id> a skos:Concept ;
+    skos:broader <internet_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Abofalle"@de .
+
+<bernerslee__timothy_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Berners-Lee, Timothy"@de ;
+    skos:topConceptOf <> .
+
+<betriebssystem_id> a skos:Concept ;
+    skos:broader <software_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Betriebssystem"@de .
+
+<big_data_id> a skos:Concept ;
+    skos:broader <datenverarbeitung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Big data"@de .
+
+<bildschirmtext_id> a skos:Concept ;
+    skos:broader <telekommunikation_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bildschirmtext"@de .
+
+<blog_id> a skos:Concept ;
+    skos:broader <internet_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Blog"@de .
+
+<blogger_id> a skos:Concept ;
+    skos:broader <internet_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Blogger"@de .
+
+<braille__louis_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Braille, Louis"@de ;
+    skos:topConceptOf <> .
+
+<bürokommunikation_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bürokommunikation"@de ;
+    skos:topConceptOf <> .
+
+<cdrom_id> a skos:Concept ;
+    skos:broader <datenträger_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "CD-ROM"@de .
+
+<chip_id> a skos:Concept ;
+    skos:broader <datenträger_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Chip"@de .
+
+<codierung_id> a skos:Concept ;
+    skos:broader <computertechnik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Codierung"@de .
+
+<computer_aided_design_id> a skos:Concept ;
+    skos:broader <anwendersystem_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Computer Aided Design"@de .
+
+<computer_aided_manufacturing_id> a skos:Concept ;
+    skos:broader <anwendersystem_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Computer Aided Manufacturing"@de .
+
+<computereinsatz_id> a skos:Concept ;
+    skos:broader <computer_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Computereinsatz"@de .
+
+<computergrafik_id> a skos:Concept ;
+    skos:broader <grafikprogramm_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Computergrafik"@de .
+
+<computerized_numerical_control_id> a skos:Concept ;
+    skos:broader <anwendersystem_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Computerized Numerical Control"@de .
+
+<computerspiel_denkspiel_id> a skos:Concept ;
+    skos:broader <computerspiel_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Computerspiel (Denkspiel)"@de .
+
+<computerspiel_jumpandrun__id> a skos:Concept ;
+    skos:broader <computerspiel_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Computerspiel (Jump-and-Run) "@de .
+
+<computerspiel_kampfspiel_id> a skos:Concept ;
+    skos:broader <computerspiel_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Computerspiel (Kampfspiel)"@de .
+
+<computerspiel_simulation_id> a skos:Concept ;
+    skos:broader <computerspiel_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Computerspiel (Simulation)"@de .
+
+<computerspiel_spielgeschichte_id> a skos:Concept ;
+    skos:broader <computerspiel_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Computerspiel (Spielgeschichte)"@de .
+
+<computervirus_id> a skos:Concept ;
+    skos:broader <software_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Computervirus"@de .
+
+<cybermobbing_id> a skos:Concept ;
+    skos:broader <internet_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Cybermobbing"@de .
+
+<darknet_id> a skos:Concept ;
+    skos:broader <internet_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Darknet"@de .
+
+<datei_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Datei"@de ;
+    skos:topConceptOf <> .
+
+<datenbank_id> a skos:Concept ;
+    skos:broader <anwendersystem_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Datenbank"@de .
+
+<datenfernübertragung_id> a skos:Concept ;
+    skos:broader <telekommunikation_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Datenfernübertragung"@de .
+
+<datenschutz_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Datenschutz"@de ;
+    skos:topConceptOf <> .
+
+<datensicherung_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Datensicherung"@de ;
+    skos:topConceptOf <> .
+
+<deep_web_id> a skos:Concept ;
+    skos:broader <internet_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Deep Web"@de .
+
+<desktoppublishing_id> a skos:Concept ;
+    skos:broader <anwendersystem_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Desktop-Publishing"@de .
+
+<didaktische_software_id> a skos:Concept ;
+    skos:broader <anwendersystem_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Didaktische Software"@de .
+
+<digitaltechnik_id> a skos:Concept ;
+    skos:broader <telekommunikation_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Digitaltechnik"@de .
+
+<drucker_edv_id> a skos:Concept ;
+    skos:broader <computertechnik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Drucker (EDV)"@de .
+
+<eansystem_id> a skos:Concept ;
+    skos:broader <anwendersystem_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "EAN-System"@de .
+
+<evaprinzip_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "EVA-Prinzip"@de ;
+    skos:topConceptOf <> .
+
+<gates__bill_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gates, Bill"@de ;
+    skos:topConceptOf <> .
+
+<geoinformationssystem_id> a skos:Concept ;
+    skos:broader <informationswesen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Geoinformationssystem"@de .
+
+<hacker_computersicherheit_id> a skos:Concept ;
+    skos:broader <computer_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hacker (Computersicherheit)"@de .
+
+<influencer_id> a skos:Concept ;
+    skos:broader <internet_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Influencer"@de .
+
+<kybernetik_id> a skos:Concept ;
+    skos:broader <informatik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kybernetik"@de .
+
+<mikroelektronik_id> a skos:Concept ;
+    skos:broader <computertechnik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mikroelektronik"@de .
+
+<mikrofilm_id> a skos:Concept ;
+    skos:broader <informationswesen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mikrofilm"@de .
+
+<morse__samuel_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Morse, Samuel"@de ;
+    skos:topConceptOf <> .
+
+<morsezeichen_id> a skos:Concept ;
+    skos:broader <telekommunikation_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Morsezeichen"@de .
+
+<motion_capture_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Motion Capture"@de ;
+    skos:topConceptOf <> .
+
+<multimedia_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Multimedia"@de ;
+    skos:topConceptOf <> .
+
+<netiquette_id> a skos:Concept ;
+    skos:broader <telekommunikation_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Netiquette"@de .
+
+<overlay_id> a skos:Concept ;
+    skos:broader <anwendersystem_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Overlay"@de .
+
+<phishing_id> a skos:Concept ;
+    skos:broader <internet_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Phishing"@de .
+
+<podcasting_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Podcasting"@de ;
+    skos:topConceptOf <> .
+
+<programmierung_id> a skos:Concept ;
+    skos:broader <informatik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Programmierung"@de .
+
+<schnittstelle_id> a skos:Concept ;
+    skos:broader <computertechnik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schnittstelle"@de .
+
+<soziales_netzwerk_id> a skos:Concept ;
+    skos:broader <internet_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Soziales Netzwerk"@de .
+
+<tablet_id> a skos:Concept ;
+    skos:broader <computertechnik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tablet"@de .
+
+<taschenrechner_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Taschenrechner"@de ;
+    skos:topConceptOf <> .
+
+<telefon_id> a skos:Concept ;
+    skos:broader <telekommunikation_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Telefon"@de .
+
+<textverarbeitung_id> a skos:Concept ;
+    skos:broader <anwendersystem_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Textverarbeitung"@de .
+
+<tutorielles_programm__id> a skos:Concept ;
+    skos:broader <software_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tutorielles Programm "@de .
+
+<usbstick_id> a skos:Concept ;
+    skos:broader <datenträger_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "USB-Stick"@de .
+
+<verkabelung_id> a skos:Concept ;
+    skos:broader <telekommunikation_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Verkabelung"@de .
+
+<vernetzung_informationstechnik_id> a skos:Concept ;
+    skos:broader <computertechnik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Vernetzung (Informationstechnik)"@de .
+
+<videoportal_id> a skos:Concept ;
+    skos:broader <internet_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Videoportal"@de .
+
+<virtual_reality_id> a skos:Concept ;
+    skos:broader <computersimulation_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Virtual Reality"@de .
+
+<web_2.0_id> a skos:Concept ;
+    skos:broader <internet_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Web 2.0"@de .
+
+<webinar_id> a skos:Concept ;
+    skos:broader <telekommunikation_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Webinar"@de .
+
+<wikipedia_id> a skos:Concept ;
+    skos:broader <internet_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wikipedia"@de .
+
+<wlan_id> a skos:Concept ;
+    skos:broader <internet_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "WLAN"@de .
+
+<world_wide_web_id> a skos:Concept ;
+    skos:broader <internet_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "World Wide Web"@de .
+
+<zeichenerkennung_id> a skos:Concept ;
+    skos:broader <datenverarbeitung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zeichenerkennung"@de .
+
+<zuse__konrad_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zuse, Konrad"@de ;
+    skos:topConceptOf <> .
+
+<computersimulation_id> a skos:Concept ;
+    skos:broader <software_id> ;
+    skos:inScheme <> ;
+    skos:narrower <virtual_reality_id> ;
+    skos:prefLabel "Computersimulation"@de .
+
+<grafikprogramm_id> a skos:Concept ;
+    skos:broader <anwendersystem_id> ;
+    skos:inScheme <> ;
+    skos:narrower <computergrafik_id> ;
+    skos:prefLabel "Grafikprogramm"@de .
+
+<datenverarbeitung_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <big_data_id>,
+        <zeichenerkennung_id> ;
+    skos:prefLabel "Datenverarbeitung"@de ;
+    skos:topConceptOf <> .
+
+<informatik_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <kybernetik_id>,
+        <programmierung_id> ;
+    skos:prefLabel "Informatik"@de ;
+    skos:topConceptOf <> .
+
+<informationswesen_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <geoinformationssystem_id>,
+        <mikrofilm_id> ;
+    skos:prefLabel "Informationswesen"@de ;
+    skos:topConceptOf <> .
+
+<computer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <computereinsatz_id>,
+        <computertechnik_id>,
+        <hacker_computersicherheit_id> ;
+    skos:prefLabel "Computer"@de ;
+    skos:topConceptOf <> .
+
+<datenträger_id> a skos:Concept ;
+    skos:broader <computertechnik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <cdrom_id>,
+        <chip_id>,
+        <usbstick_id> ;
+    skos:prefLabel "Datenträger"@de .
+
+<computerspiel_id> a skos:Concept ;
+    skos:broader <software_id> ;
+    skos:inScheme <> ;
+    skos:narrower <computerspiel_denkspiel_id>,
+        <computerspiel_jumpandrun__id>,
+        <computerspiel_kampfspiel_id>,
+        <computerspiel_simulation_id>,
+        <computerspiel_spielgeschichte_id> ;
+    skos:prefLabel "Computerspiel"@de .
+
+<software_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <anwendersystem_id>,
+        <betriebssystem_id>,
+        <computersimulation_id>,
+        <computerspiel_id>,
+        <computervirus_id>,
+        <tutorielles_programm__id> ;
+    skos:prefLabel "Software"@de ;
+    skos:topConceptOf <> .
+
+<computertechnik_id> a skos:Concept ;
+    skos:broader <computer_id> ;
+    skos:inScheme <> ;
+    skos:narrower <codierung_id>,
+        <datenträger_id>,
+        <drucker_edv_id>,
+        <mikroelektronik_id>,
+        <schnittstelle_id>,
+        <tablet_id>,
+        <vernetzung_informationstechnik_id> ;
+    skos:prefLabel "Computertechnik"@de .
+
+<telekommunikation_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <bildschirmtext_id>,
+        <datenfernübertragung_id>,
+        <digitaltechnik_id>,
+        <internet_id>,
+        <morsezeichen_id>,
+        <netiquette_id>,
+        <telefon_id>,
+        <verkabelung_id>,
+        <webinar_id> ;
+    skos:prefLabel "Telekommunikation"@de ;
+    skos:topConceptOf <> .
+
+<anwendersystem_id> a skos:Concept ;
+    skos:broader <software_id> ;
+    skos:inScheme <> ;
+    skos:narrower <computer_aided_design_id>,
+        <computer_aided_manufacturing_id>,
+        <computerized_numerical_control_id>,
+        <datenbank_id>,
+        <desktoppublishing_id>,
+        <didaktische_software_id>,
+        <eansystem_id>,
+        <grafikprogramm_id>,
+        <overlay_id>,
+        <textverarbeitung_id> ;
+    skos:prefLabel "Anwendersystem"@de .
+
+<internet_id> a skos:Concept ;
+    skos:broader <telekommunikation_id> ;
+    skos:inScheme <> ;
+    skos:narrower <abofalle_id>,
+        <blog_id>,
+        <blogger_id>,
+        <cybermobbing_id>,
+        <darknet_id>,
+        <deep_web_id>,
+        <influencer_id>,
+        <phishing_id>,
+        <soziales_netzwerk_id>,
+        <videoportal_id>,
+        <web_2.0_id>,
+        <wikipedia_id>,
+        <wlan_id>,
+        <world_wide_web_id> ;
+    skos:prefLabel "Internet"@de .
+
+<> a skos:ConceptScheme ;
+    dct:creator "<https://creator.com>" ;
+    dct:description "informationstechnische_bildung_systematik"@de ;
+    dct:title "informationstechnische_bildung_systematik"@de ;
+    skos:hasTopConcept <bernerslee__timothy_id>,
+        <braille__louis_id>,
+        <bürokommunikation_id>,
+        <computer_id>,
+        <datei_id>,
+        <datenschutz_id>,
+        <datensicherung_id>,
+        <datenverarbeitung_id>,
+        <evaprinzip_id>,
+        <gates__bill_id>,
+        <informatik_id>,
+        <informationswesen_id>,
+        <morse__samuel_id>,
+        <motion_capture_id>,
+        <multimedia_id>,
+        <podcasting_id>,
+        <software_id>,
+        <taschenrechner_id>,
+        <telekommunikation_id>,
+        <zuse__konrad_id> .
+

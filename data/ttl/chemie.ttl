@@ -1,0 +1,507 @@
+@base <https://example-perma-id/chemie_systematik/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<alkalimetalle_id> a skos:Concept ;
+    skos:broader <leichtmetalle_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Alkalimetalle"@de .
+
+<aluminium_id> a skos:Concept ;
+    skos:broader <leichtmetalle_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Aluminium"@de .
+
+<anorganische_chemie_id> a skos:Concept ;
+    skos:broader <chemie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Anorganische Chemie"@de .
+
+<base_chemie_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Base (Chemie)"@de ;
+    skos:topConceptOf <> .
+
+<calcium_id> a skos:Concept ;
+    skos:broader <erdalkalimetalle_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Calcium"@de .
+
+<chemieforschung_id> a skos:Concept ;
+    skos:broader <chemie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Chemieforschung"@de .
+
+<chemische_aktivierungsenergie_id> a skos:Concept ;
+    skos:broader <chemie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Chemische Aktivierungsenergie"@de .
+
+<chemische_elemente_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Chemische Elemente"@de ;
+    skos:topConceptOf <> .
+
+<chemische_reduktion_id> a skos:Concept ;
+    skos:broader <chemische_reaktion_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Chemische Reduktion"@de .
+
+<chemischer_versuch_id> a skos:Concept ;
+    skos:broader <chemie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Chemischer Versuch"@de .
+
+<chemisches_gleichgewicht_id> a skos:Concept ;
+    skos:broader <chemische_reaktion_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Chemisches Gleichgewicht"@de .
+
+<chlor_id> a skos:Concept ;
+    skos:broader <halogen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Chlor"@de .
+
+<denitrifikation_id> a skos:Concept ;
+    skos:broader <stickstoff_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Denitrifikation"@de .
+
+<destillation_id> a skos:Concept ;
+    skos:broader <chemische_reaktion_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Destillation"@de .
+
+<dipeptid_id> a skos:Concept ;
+    skos:broader <chemische_verbindung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Dipeptid"@de .
+
+<edelgase_id> a skos:Concept ;
+    skos:broader <nichtmetalle_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Edelgase"@de .
+
+<eisen_id> a skos:Concept ;
+    skos:broader <schwermetalle_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Eisen"@de .
+
+<elektrochemie_id> a skos:Concept ;
+    skos:broader <chemie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Elektrochemie"@de .
+
+<elektrolyse_id> a skos:Concept ;
+    skos:broader <chemische_reaktion_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Elektrolyse"@de .
+
+<elektrolyt_id> a skos:Concept ;
+    skos:broader <chemische_verbindung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Elektrolyt"@de .
+
+<funktionelle_gruppe_id> a skos:Concept ;
+    skos:broader <chemie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Funktionelle Gruppe"@de .
+
+<gold_id> a skos:Concept ;
+    skos:broader <edelmetalle_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gold"@de .
+
+<gärung_id> a skos:Concept ;
+    skos:broader <chemische_reaktion_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gärung"@de .
+
+<halbmetalle_id> a skos:Concept ;
+    skos:broader <periodensystem_der_elemente_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Halbmetalle"@de .
+
+<iod_id> a skos:Concept ;
+    skos:broader <halogen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Iod"@de .
+
+<iodkaliumiodidlösung_id> a skos:Concept ;
+    skos:broader <chemische_analyse_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Iod-Kaliumiodid-Lösung"@de .
+
+<ionenbindung_id> a skos:Concept ;
+    skos:broader <chemische_reaktion_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ionenbindung"@de .
+
+<isotop_id> a skos:Concept ;
+    skos:broader <atomkern_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Isotop"@de .
+
+<katalysator_chemie_id> a skos:Concept ;
+    skos:broader <chemische_reaktion_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Katalysator (Chemie)"@de .
+
+<kohlenmonoxid_id> a skos:Concept ;
+    skos:broader <nichtmetalle_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kohlenmonoxid"@de .
+
+<kohlenstoff_id> a skos:Concept ;
+    skos:broader <halogen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kohlenstoff"@de .
+
+<kohäsion_id> a skos:Concept ;
+    skos:broader <chemie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kohäsion"@de .
+
+<konzentration_chemie_id> a skos:Concept ;
+    skos:broader <chemische_verbindung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Konzentration (Chemie)"@de .
+
+<korrosion_id> a skos:Concept ;
+    skos:broader <chemische_reaktion_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Korrosion"@de .
+
+<kupfer_id> a skos:Concept ;
+    skos:broader <schwermetalle_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kupfer"@de .
+
+<legierung_id> a skos:Concept ;
+    skos:broader <chemische_verbindung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Legierung"@de .
+
+<organische_chemie_id> a skos:Concept ;
+    skos:broader <chemie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Organische Chemie"@de .
+
+<oxidation_id> a skos:Concept ;
+    skos:broader <chemische_reaktion_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Oxidation"@de .
+
+<phasenübergang_id> a skos:Concept ;
+    skos:broader <aggregatzustand_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Phasenübergang"@de .
+
+<reaktionsgleichung_id> a skos:Concept ;
+    skos:broader <chemische_reaktion_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Reaktionsgleichung"@de .
+
+<salz_chemische_verbindung_id> a skos:Concept ;
+    skos:broader <chemische_verbindung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Salz (chemische Verbindung)"@de .
+
+<sauerstoff_id> a skos:Concept ;
+    skos:broader <nichtmetalle_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sauerstoff"@de .
+
+<sequenzanalyse_chemie_id> a skos:Concept ;
+    skos:broader <chemische_reaktion_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sequenzanalyse (Chemie)"@de .
+
+<silber_id> a skos:Concept ;
+    skos:broader <edelmetalle_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Silber"@de .
+
+<silicium_id> a skos:Concept ;
+    skos:broader <nichtmetalle_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Silicium"@de .
+
+<spektroskopie_id> a skos:Concept ;
+    skos:broader <chemie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Spektroskopie"@de .
+
+<sprengstoff_id> a skos:Concept ;
+    skos:broader <chemische_verbindung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sprengstoff"@de .
+
+<titan_id> a skos:Concept ;
+    skos:broader <leichtmetalle_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Titan"@de .
+
+<uran_id> a skos:Concept ;
+    skos:broader <schwermetalle_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Uran"@de .
+
+<valenzelektron_id> a skos:Concept ;
+    skos:broader <elektron_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Valenzelektron"@de .
+
+<verbrennungsvorgang_id> a skos:Concept ;
+    skos:broader <chemische_reaktion_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Verbrennungsvorgang"@de .
+
+<verdampfen_id> a skos:Concept ;
+    skos:broader <chemische_reaktion_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Verdampfen"@de .
+
+<verdunstung_id> a skos:Concept ;
+    skos:broader <chemische_reaktion_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Verdunstung"@de .
+
+<veresterung_id> a skos:Concept ;
+    skos:broader <chemische_reaktion_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Veresterung"@de .
+
+<verkokung_id> a skos:Concept ;
+    skos:broader <pyrolyse_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Verkokung"@de .
+
+<verseifung_id> a skos:Concept ;
+    skos:broader <hydrolyse_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Verseifung"@de .
+
+<wasserstoff_id> a skos:Concept ;
+    skos:broader <nichtmetalle_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wasserstoff"@de .
+
+<wasserstoffbrückenbindung_id> a skos:Concept ;
+    skos:broader <chemische_verbindung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wasserstoffbrückenbindung"@de .
+
+<wolfram_id> a skos:Concept ;
+    skos:broader <übergangsmetalle_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wolfram"@de .
+
+<zinn_id> a skos:Concept ;
+    skos:broader <schwermetalle_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zinn"@de .
+
+<ätzende_stoffe_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ätzende Stoffe"@de ;
+    skos:topConceptOf <> .
+
+<aggregatzustand_id> a skos:Concept ;
+    skos:broader <chemie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <phasenübergang_id> ;
+    skos:prefLabel "Aggregatzustand"@de .
+
+<atomkern_id> a skos:Concept ;
+    skos:broader <atom_id> ;
+    skos:inScheme <> ;
+    skos:narrower <isotop_id> ;
+    skos:prefLabel "Atomkern)"@de .
+
+<chemische_analyse_id> a skos:Concept ;
+    skos:broader <chemische_reaktion_id> ;
+    skos:inScheme <> ;
+    skos:narrower <iodkaliumiodidlösung_id> ;
+    skos:prefLabel "Chemische Analyse"@de .
+
+<elektron_id> a skos:Concept ;
+    skos:broader <atom_id> ;
+    skos:inScheme <> ;
+    skos:narrower <valenzelektron_id> ;
+    skos:prefLabel "Elektron)"@de .
+
+<erdalkalimetalle_id> a skos:Concept ;
+    skos:broader <leichtmetalle_id> ;
+    skos:inScheme <> ;
+    skos:narrower <calcium_id> ;
+    skos:prefLabel "Erdalkalimetalle"@de .
+
+<hydrolyse_id> a skos:Concept ;
+    skos:broader <chemische_reaktion_id> ;
+    skos:inScheme <> ;
+    skos:narrower <verseifung_id> ;
+    skos:prefLabel "Hydrolyse"@de .
+
+<molekül_id> a skos:Concept ;
+    skos:broader <teilchen_id> ;
+    skos:inScheme <> ;
+    skos:narrower <atom_id> ;
+    skos:prefLabel "Molekül"@de .
+
+<pyrolyse_id> a skos:Concept ;
+    skos:broader <chemische_reaktion_id> ;
+    skos:inScheme <> ;
+    skos:narrower <verkokung_id> ;
+    skos:prefLabel "Pyrolyse"@de .
+
+<stickstoff_id> a skos:Concept ;
+    skos:broader <nichtmetalle_id> ;
+    skos:inScheme <> ;
+    skos:narrower <denitrifikation_id> ;
+    skos:prefLabel "Stickstoff"@de .
+
+<teilchen_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <molekül_id> ;
+    skos:prefLabel "Teilchen"@de ;
+    skos:topConceptOf <> .
+
+<übergangsmetalle_id> a skos:Concept ;
+    skos:broader <metalle_id> ;
+    skos:inScheme <> ;
+    skos:narrower <wolfram_id> ;
+    skos:prefLabel "Übergangsmetalle)"@de .
+
+<atom_id> a skos:Concept ;
+    skos:broader <molekül_id> ;
+    skos:inScheme <> ;
+    skos:narrower <atomkern_id>,
+        <elektron_id> ;
+    skos:prefLabel "Atom"@de .
+
+<edelmetalle_id> a skos:Concept ;
+    skos:broader <metalle_id> ;
+    skos:inScheme <> ;
+    skos:narrower <gold_id>,
+        <silber_id> ;
+    skos:prefLabel "Edelmetalle"@de .
+
+<halogen_id> a skos:Concept ;
+    skos:broader <nichtmetalle_id> ;
+    skos:inScheme <> ;
+    skos:narrower <chlor_id>,
+        <iod_id>,
+        <kohlenstoff_id> ;
+    skos:prefLabel "Halogen"@de .
+
+<periodensystem_der_elemente_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <halbmetalle_id>,
+        <metalle_id>,
+        <nichtmetalle_id> ;
+    skos:prefLabel "Periodensystem der Elemente"@de ;
+    skos:topConceptOf <> .
+
+<leichtmetalle_id> a skos:Concept ;
+    skos:broader <metalle_id> ;
+    skos:inScheme <> ;
+    skos:narrower <alkalimetalle_id>,
+        <aluminium_id>,
+        <erdalkalimetalle_id>,
+        <titan_id> ;
+    skos:prefLabel "Leichtmetalle)"@de .
+
+<metalle_id> a skos:Concept ;
+    skos:broader <periodensystem_der_elemente_id> ;
+    skos:inScheme <> ;
+    skos:narrower <edelmetalle_id>,
+        <leichtmetalle_id>,
+        <schwermetalle_id>,
+        <übergangsmetalle_id> ;
+    skos:prefLabel "Metalle"@de .
+
+<schwermetalle_id> a skos:Concept ;
+    skos:broader <metalle_id> ;
+    skos:inScheme <> ;
+    skos:narrower <eisen_id>,
+        <kupfer_id>,
+        <uran_id>,
+        <zinn_id> ;
+    skos:prefLabel "Schwermetalle"@de .
+
+<chemische_verbindung_id> a skos:Concept ;
+    skos:broader <chemie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <dipeptid_id>,
+        <elektrolyt_id>,
+        <konzentration_chemie_id>,
+        <legierung_id>,
+        <salz_chemische_verbindung_id>,
+        <sprengstoff_id>,
+        <wasserstoffbrückenbindung_id> ;
+    skos:prefLabel "Chemische Verbindung"@de .
+
+<nichtmetalle_id> a skos:Concept ;
+    skos:broader <periodensystem_der_elemente_id> ;
+    skos:inScheme <> ;
+    skos:narrower <edelgase_id>,
+        <halogen_id>,
+        <kohlenmonoxid_id>,
+        <sauerstoff_id>,
+        <silicium_id>,
+        <stickstoff_id>,
+        <wasserstoff_id> ;
+    skos:prefLabel "Nichtmetalle"@de .
+
+<chemie_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <aggregatzustand_id>,
+        <anorganische_chemie_id>,
+        <chemieforschung_id>,
+        <chemische_aktivierungsenergie_id>,
+        <chemische_reaktion_id>,
+        <chemische_verbindung_id>,
+        <chemischer_versuch_id>,
+        <elektrochemie_id>,
+        <funktionelle_gruppe_id>,
+        <kohäsion_id>,
+        <organische_chemie_id>,
+        <spektroskopie_id> ;
+    skos:prefLabel "Chemie"@de ;
+    skos:topConceptOf <> .
+
+<chemische_reaktion_id> a skos:Concept ;
+    skos:broader <chemie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <chemische_analyse_id>,
+        <chemische_reduktion_id>,
+        <chemisches_gleichgewicht_id>,
+        <destillation_id>,
+        <elektrolyse_id>,
+        <gärung_id>,
+        <hydrolyse_id>,
+        <ionenbindung_id>,
+        <katalysator_chemie_id>,
+        <korrosion_id>,
+        <oxidation_id>,
+        <pyrolyse_id>,
+        <reaktionsgleichung_id>,
+        <sequenzanalyse_chemie_id>,
+        <verbrennungsvorgang_id>,
+        <verdampfen_id>,
+        <verdunstung_id>,
+        <veresterung_id> ;
+    skos:prefLabel "Chemische Reaktion"@de .
+
+<> a skos:ConceptScheme ;
+    dct:creator "<https://creator.com>" ;
+    dct:description "chemie_systematik"@de ;
+    dct:title "chemie_systematik"@de ;
+    skos:hasTopConcept <base_chemie_id>,
+        <chemie_id>,
+        <chemische_elemente_id>,
+        <periodensystem_der_elemente_id>,
+        <teilchen_id>,
+        <ätzende_stoffe_id> .
+

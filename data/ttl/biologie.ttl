@@ -1,0 +1,4125 @@
+@base <https://example-perma-id/biologie_systematik/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<aasfresser_id> a skos:Concept ;
+    skos:broader <tier_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Aasfresser"@de .
+
+<adler_biologie_id> a skos:Concept ;
+    skos:broader <greifvögel_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Adler (Biologie)"@de .
+
+<adrenalin_id> a skos:Concept ;
+    skos:broader <hormon_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Adrenalin"@de .
+
+<akazien_id> a skos:Concept ;
+    skos:broader <blütenpflanzen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Akazien"@de .
+
+<ameisen_id> a skos:Concept ;
+    skos:broader <insekten_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ameisen"@de .
+
+<amsel_id> a skos:Concept ;
+    skos:broader <singvögel_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Amsel"@de .
+
+<amöben_id> a skos:Concept ;
+    skos:broader <einzeller_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Amöben"@de .
+
+<ananas_id> a skos:Concept ;
+    skos:broader <südfrucht_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ananas"@de .
+
+<anatomie_mensch_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Anatomie (Mensch)"@de ;
+    skos:topConceptOf <> .
+
+<antilopen_id> a skos:Concept ;
+    skos:broader <wiederkäuer_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Antilopen"@de .
+
+<aposematismus_id> a skos:Concept ;
+    skos:broader <instinkt_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Aposematismus"@de .
+
+<archaeopteryx_id> a skos:Concept ;
+    skos:broader <fossil_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Archaeopteryx"@de .
+
+<aronstab_id> a skos:Concept ;
+    skos:broader <blütenpflanzen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Aronstab"@de .
+
+<artenvielfalt_id> a skos:Concept ;
+    skos:broader <evolution_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Artenvielfalt"@de .
+
+<atmung_id> a skos:Concept ;
+    skos:broader <atmungsorgan_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Atmung"@de .
+
+<attrappenversuch_id> a skos:Concept ;
+    skos:broader <instinkt_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Attrappenversuch"@de .
+
+<ausgestorbene_tierart_id> a skos:Concept ;
+    skos:broader <bedrohte_tierart_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ausgestorbene Tierart"@de .
+
+<australopithecus_id> a skos:Concept ;
+    skos:broader <evolution_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Australopithecus"@de .
+
+<autochorie__id> a skos:Concept ;
+    skos:broader <samenverbreitung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Autochorie "@de .
+
+<automatismus_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Automatismus"@de ;
+    skos:topConceptOf <> .
+
+<bakteriophage_id> a skos:Concept ;
+    skos:broader <bakterien_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bakteriophage"@de .
+
+<bananen_id> a skos:Concept ;
+    skos:broader <obst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bananen"@de .
+
+<baobab_id> a skos:Concept ;
+    skos:broader <blütenpflanzen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Baobab"@de .
+
+<baumwolle_id> a skos:Concept ;
+    skos:broader <nutzpflanze_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Baumwolle"@de .
+
+<bedrohte_pflanzenart_id> a skos:Concept ;
+    skos:broader <artenschutz_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bedrohte Pflanzenart"@de .
+
+<beere_id> a skos:Concept ;
+    skos:broader <obst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Beere"@de .
+
+<beringung_id> a skos:Concept ;
+    skos:broader <vogelzug_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Beringung"@de .
+
+<bestimmungsschlüssel_id> a skos:Concept ;
+    skos:broader <leben_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bestimmungsschlüssel"@de .
+
+<beutefang_id> a skos:Concept ;
+    skos:broader <verhalten_tier_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Beutefang"@de .
+
+<biber_id> a skos:Concept ;
+    skos:broader <nagetiere_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Biber"@de .
+
+<bienensterben_id> a skos:Concept ;
+    skos:broader <bienen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bienensterben"@de .
+
+<bilche_id> a skos:Concept ;
+    skos:broader <nagetiere_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bilche"@de .
+
+<biodiversität_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Biodiversität"@de ;
+    skos:topConceptOf <> .
+
+<biologie_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Biologie"@de ;
+    skos:topConceptOf <> .
+
+<biomechanik_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Biomechanik"@de ;
+    skos:topConceptOf <> .
+
+<biotechnologie_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Biotechnologie"@de ;
+    skos:topConceptOf <> .
+
+<biozönose_id> a skos:Concept ;
+    skos:broader <lebensraum_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Biozönose"@de .
+
+<birkhühner_id> a skos:Concept ;
+    skos:broader <hühnervögel_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Birkhühner"@de .
+
+<blatt_pflanze_id> a skos:Concept ;
+    skos:broader <pflanzenmorphologie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Blatt (Pflanze)"@de .
+
+<blattläuse_id> a skos:Concept ;
+    skos:broader <insekten_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Blattläuse"@de .
+
+<blutdruck_id> a skos:Concept ;
+    skos:broader <blutkreislauf_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Blutdruck"@de .
+
+<blutgerinnung_id> a skos:Concept ;
+    skos:broader <blut_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Blutgerinnung"@de .
+
+<blutgruppe_id> a skos:Concept ;
+    skos:broader <blut_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Blutgruppe"@de .
+
+<blutzelle_id> a skos:Concept ;
+    skos:broader <blut_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Blutzelle"@de .
+
+<borkenkäfer_id> a skos:Concept ;
+    skos:broader <käfer_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Borkenkäfer"@de .
+
+<brachse_id> a skos:Concept ;
+    skos:broader <fische_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Brachse"@de .
+
+<brutfürsorge_id> a skos:Concept ;
+    skos:broader <verhalten_tier_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Brutfürsorge"@de .
+
+<brutschmarotzer_id> a skos:Concept ;
+    skos:broader <brutpflege_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Brutschmarotzer"@de .
+
+<buchen_id> a skos:Concept ;
+    skos:broader <blütenpflanzen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Buchen"@de .
+
+<butterbaum_id> a skos:Concept ;
+    skos:broader <nutzpflanze_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Butterbaum"@de .
+
+<bären_id> a skos:Concept ;
+    skos:broader <raubtiere_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bären"@de .
+
+<büffel_id> a skos:Concept ;
+    skos:broader <rinder_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Büffel"@de .
+
+<cashewnuss_id> a skos:Concept ;
+    skos:broader <nutzpflanze_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Cashewnuss"@de .
+
+<chamäleons_id> a skos:Concept ;
+    skos:broader <eidechsen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Chamäleons"@de .
+
+<chimäre_mischwesen_id> a skos:Concept ;
+    skos:broader <fortpflanzung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Chimäre (Mischwesen)"@de .
+
+<chorda_id> a skos:Concept ;
+    skos:broader <skelett_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Chorda"@de .
+
+<chromosomenaberration_id> a skos:Concept ;
+    skos:broader <chromosom_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Chromosomenaberration"@de .
+
+<cromagnonmensch_id> a skos:Concept ;
+    skos:broader <homo_sapiens_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Cro-Magnon-Mensch"@de .
+
+<crossingover_genetik_id> a skos:Concept ;
+    skos:broader <gen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Crossing-over (Genetik)"@de .
+
+<darm_id> a skos:Concept ;
+    skos:broader <ausscheidungsorgan_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Darm"@de .
+
+<dattelpalmen_id> a skos:Concept ;
+    skos:broader <palme_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Dattelpalmen"@de .
+
+<delfine_id> a skos:Concept ;
+    skos:broader <wale_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Delfine"@de .
+
+<denken_id> a skos:Concept ;
+    skos:broader <mensch_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Denken"@de .
+
+<desoxyribonukleinsäure_id> a skos:Concept ;
+    skos:broader <gen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Desoxyribonukleinsäure"@de .
+
+<destruent_id> a skos:Concept ;
+    skos:broader <ökologie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Destruent"@de .
+
+<diffusion_id> a skos:Concept ;
+    skos:broader <biochemie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Diffusion"@de .
+
+<dingo_id> a skos:Concept ;
+    skos:broader <hunde_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Dingo"@de .
+
+<dinosaurier_id> a skos:Concept ;
+    skos:broader <saurier_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Dinosaurier"@de .
+
+<doldenblütler_id> a skos:Concept ;
+    skos:broader <blütenpflanzen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Doldenblütler"@de .
+
+<drüse_id> a skos:Concept ;
+    skos:broader <blutkreislauf_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Drüse"@de .
+
+<duftstoff_id> a skos:Concept ;
+    skos:broader <verhalten_tier_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Duftstoff"@de .
+
+<eiablage_id> a skos:Concept ;
+    skos:broader <ei_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Eiablage"@de .
+
+<eichen_id> a skos:Concept ;
+    skos:broader <blütenpflanzen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Eichen"@de .
+
+<eichhörnchen_id> a skos:Concept ;
+    skos:broader <nagetiere_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Eichhörnchen"@de .
+
+<eisvögel_id> a skos:Concept ;
+    skos:broader <singvögel_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Eisvögel"@de .
+
+<elektrophysiologie_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Elektrophysiologie"@de ;
+    skos:topConceptOf <> .
+
+<elfenbein_id> a skos:Concept ;
+    skos:broader <elefanten_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Elfenbein"@de .
+
+<embryonalentwicklung_id> a skos:Concept ;
+    skos:broader <fortpflanzung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Embryonalentwicklung"@de .
+
+<endorphine_id> a skos:Concept ;
+    skos:broader <eiweiß_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Endorphine"@de .
+
+<entenvögel_id> a skos:Concept ;
+    skos:broader <vögel_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Entenvögel"@de .
+
+<enzym_id> a skos:Concept ;
+    skos:broader <eiweiß_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Enzym"@de .
+
+<erbsen_id> a skos:Concept ;
+    skos:broader <hülsenfrüchte_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Erbsen"@de .
+
+<eugenik_id> a skos:Concept ;
+    skos:broader <humangenetik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Eugenik"@de .
+
+<evolutionstheorie_id> a skos:Concept ;
+    skos:broader <evolution_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Evolutionstheorie"@de .
+
+<facettenauge_id> a skos:Concept ;
+    skos:broader <auge_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Facettenauge"@de .
+
+<fadenwürmer_id> a skos:Concept ;
+    skos:broader <rundwürmer_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fadenwürmer"@de .
+
+<farnpflanzen_id> a skos:Concept ;
+    skos:broader <blütenpflanzen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Farnpflanzen"@de .
+
+<fauna_id> a skos:Concept ;
+    skos:broader <biosphäre_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fauna"@de .
+
+<feder_gefieder_id> a skos:Concept ;
+    skos:broader <anatomie_tier_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Feder (Gefieder)"@de .
+
+<fell_id> a skos:Concept ;
+    skos:broader <anatomie_tier_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fell"@de .
+
+<fette_id> a skos:Concept ;
+    skos:broader <biochemie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fette"@de .
+
+<flachs_id> a skos:Concept ;
+    skos:broader <blütenpflanzen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Flachs"@de .
+
+<flamingos_id> a skos:Concept ;
+    skos:broader <stelzvögel_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Flamingos"@de .
+
+<flechten_id> a skos:Concept ;
+    skos:broader <blütenlose_pflanzen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Flechten"@de .
+
+<fledermäuse_id> a skos:Concept ;
+    skos:broader <flattertiere_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fledermäuse"@de .
+
+<flora_id> a skos:Concept ;
+    skos:broader <biosphäre_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Flora"@de .
+
+<florfliegen_id> a skos:Concept ;
+    skos:broader <insekten_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Florfliegen"@de .
+
+<flusspferde_id> a skos:Concept ;
+    skos:broader <nichtwiederkäuer_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Flusspferde"@de .
+
+<flöhe_id> a skos:Concept ;
+    skos:broader <insekten_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Flöhe"@de .
+
+<forellen_id> a skos:Concept ;
+    skos:broader <fische_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Forellen"@de .
+
+<forscher__biologen_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Forscher, Biologen"@de ;
+    skos:topConceptOf <> .
+
+<frau_id> a skos:Concept ;
+    skos:broader <mensch_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Frau"@de .
+
+<fressfeind_id> a skos:Concept ;
+    skos:broader <nahrungskette_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fressfeind"@de .
+
+<frucht_id> a skos:Concept ;
+    skos:broader <pflanzenmorphologie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Frucht"@de .
+
+<fruchtbarkeit_id> a skos:Concept ;
+    skos:broader <fortpflanzung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fruchtbarkeit"@de .
+
+<frühblüher_id> a skos:Concept ;
+    skos:broader <botanik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Frühblüher"@de .
+
+<fuß_id> a skos:Concept ;
+    skos:broader <bewegungssystem_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fuß"@de .
+
+<galle_körperflüssigkeit_id> a skos:Concept ;
+    skos:broader <leber_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Galle (Körperflüssigkeit)"@de .
+
+<gebirgspflanzen_id> a skos:Concept ;
+    skos:broader <botanik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gebirgspflanzen"@de .
+
+<gehör_id> a skos:Concept ;
+    skos:broader <ohr_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gehör"@de .
+
+<gelbkörper_id> a skos:Concept ;
+    skos:broader <hormon_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gelbkörper"@de .
+
+<gelbrandkäfer_id> a skos:Concept ;
+    skos:broader <käfer_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gelbrandkäfer"@de .
+
+<gelenk_id> a skos:Concept ;
+    skos:broader <bewegungssystem_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gelenk"@de .
+
+<generationswechsel_fortpflanzung_id> a skos:Concept ;
+    skos:broader <fortpflanzung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Generationswechsel (Fortpflanzung)"@de .
+
+<genetischer_fingerabdruck_id> a skos:Concept ;
+    skos:broader <genetik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Genetischer Fingerabdruck"@de .
+
+<gerste_id> a skos:Concept ;
+    skos:broader <getreide_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gerste"@de .
+
+<geruchssinn_id> a skos:Concept ;
+    skos:broader <nase_sinnesorgan_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Geruchssinn"@de .
+
+<geschlechtshormon_id> a skos:Concept ;
+    skos:broader <hormon_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Geschlechtshormon"@de .
+
+<geschmackssinn_id> a skos:Concept ;
+    skos:broader <sinnesorgan_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Geschmackssinn"@de .
+
+<gesicht_id> a skos:Concept ;
+    skos:broader <mensch_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gesicht"@de .
+
+<gestüt_id> a skos:Concept ;
+    skos:broader <züchtung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gestüt"@de .
+
+<geweih_id> a skos:Concept ;
+    skos:broader <hirsche_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Geweih"@de .
+
+<gewürzpflanze_id> a skos:Concept ;
+    skos:broader <nutzpflanze_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gewürzpflanze"@de .
+
+<gift_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gift"@de ;
+    skos:topConceptOf <> .
+
+<giftpflanzen_id> a skos:Concept ;
+    skos:broader <botanik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Giftpflanzen"@de .
+
+<giftpilze_id> a skos:Concept ;
+    skos:broader <pilze_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Giftpilze"@de .
+
+<ginkgogewächse_id> a skos:Concept ;
+    skos:broader <blütenpflanzen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ginkgogewächse"@de .
+
+<giraffe_id> a skos:Concept ;
+    skos:broader <wiederkäuer_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Giraffe"@de .
+
+<gleichgewichtsorgan_id> a skos:Concept ;
+    skos:broader <gleichgewichtssinn_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gleichgewichtsorgan"@de .
+
+<glühwürmchen_id> a skos:Concept ;
+    skos:broader <käfer_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Glühwürmchen"@de .
+
+<gorillas_id> a skos:Concept ;
+    skos:broader <menschenaffen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gorillas"@de .
+
+<gottesanbeterinnen_id> a skos:Concept ;
+    skos:broader <insekten_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gottesanbeterinnen"@de .
+
+<gräser_id> a skos:Concept ;
+    skos:broader <blütenpflanzen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gräser"@de .
+
+<gämsen_id> a skos:Concept ;
+    skos:broader <ziegen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gämsen"@de .
+
+<gürteltiere_id> a skos:Concept ;
+    skos:broader <säugetiere_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gürteltiere"@de .
+
+<haar_id> a skos:Concept ;
+    skos:broader <organ_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Haar"@de .
+
+<hafer_id> a skos:Concept ;
+    skos:broader <getreide_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hafer"@de .
+
+<hahnenfußgewächse_id> a skos:Concept ;
+    skos:broader <blütenpflanzen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hahnenfußgewächse"@de .
+
+<haifische_id> a skos:Concept ;
+    skos:broader <knorpelfische_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Haifische"@de .
+
+<halbaffen_id> a skos:Concept ;
+    skos:broader <affen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Halbaffen"@de .
+
+<haselnussgewächse_id> a skos:Concept ;
+    skos:broader <blütenpflanzen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Haselnussgewächse"@de .
+
+<hautfarbe_id> a skos:Concept ;
+    skos:broader <haut_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hautfarbe"@de .
+
+<hechte_id> a skos:Concept ;
+    skos:broader <fische_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hechte"@de .
+
+<hecke_id> a skos:Concept ;
+    skos:broader <strauch_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hecke"@de .
+
+<hefe_id> a skos:Concept ;
+    skos:broader <einzeller_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hefe"@de .
+
+<helixstruktur_id> a skos:Concept ;
+    skos:broader <sekundärstruktur_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Helixstruktur"@de .
+
+<herde_id> a skos:Concept ;
+    skos:broader <tier_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Herde"@de .
+
+<herz_id> a skos:Concept ;
+    skos:broader <muskel_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Herz"@de .
+
+<heuschrecken_id> a skos:Concept ;
+    skos:broader <insekten_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Heuschrecken"@de .
+
+<hirnanhangdrüse_id> a skos:Concept ;
+    skos:broader <blutkreislauf_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hirnanhangdrüse"@de .
+
+<hirschkäfer_id> a skos:Concept ;
+    skos:broader <käfer_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hirschkäfer"@de .
+
+<hirse_id> a skos:Concept ;
+    skos:broader <getreide_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hirse"@de .
+
+<holunder_id> a skos:Concept ;
+    skos:broader <nutzpflanze_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Holunder"@de .
+
+<homo_erectus_id> a skos:Concept ;
+    skos:broader <evolution_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Homo erectus"@de .
+
+<homo_ergaster_id> a skos:Concept ;
+    skos:broader <evolution_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Homo ergaster"@de .
+
+<homo_habilis_id> a skos:Concept ;
+    skos:broader <evolution_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Homo habilis"@de .
+
+<homologie_biologie_id> a skos:Concept ;
+    skos:broader <evolution_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Homologie (Biologie)"@de .
+
+<hopfen_id> a skos:Concept ;
+    skos:broader <nutzpflanze_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hopfen"@de .
+
+<hummeln_id> a skos:Concept ;
+    skos:broader <hautflügler_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hummeln"@de .
+
+<häutung_id> a skos:Concept ;
+    skos:broader <tier_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Häutung"@de .
+
+<igel_id> a skos:Concept ;
+    skos:broader <insektenfresser_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Igel"@de .
+
+<immunsystem_id> a skos:Concept ;
+    skos:broader <anatomie_tier_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Immunsystem"@de .
+
+<imponiergehabe_id> a skos:Concept ;
+    skos:broader <verhalten_tier_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Imponiergehabe"@de .
+
+<insektenstaat_id> a skos:Concept ;
+    skos:broader <verhalten_tier_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Insektenstaat"@de .
+
+<insulin_id> a skos:Concept ;
+    skos:broader <hormon_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Insulin"@de .
+
+<intelligenz_id> a skos:Concept ;
+    skos:broader <mensch_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Intelligenz"@de .
+
+<jahresring_id> a skos:Concept ;
+    skos:broader <baum_pflanze_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Jahresring"@de .
+
+<jugendlicher_id> a skos:Concept ;
+    skos:broader <mensch_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Jugendlicher"@de .
+
+<junge_id> a skos:Concept ;
+    skos:broader <mensch_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Junge"@de .
+
+<jäger_und_sammler_id> a skos:Concept ;
+    skos:broader <evolution_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Jäger und Sammler"@de .
+
+<kaffee_id> a skos:Concept ;
+    skos:broader <nutzpflanze_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kaffee"@de .
+
+<kakao_id> a skos:Concept ;
+    skos:broader <nutzpflanze_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kakao"@de .
+
+<kakteen_id> a skos:Concept ;
+    skos:broader <blütenpflanzen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kakteen"@de .
+
+<kamele_id> a skos:Concept ;
+    skos:broader <wiederkäuer_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kamele"@de .
+
+<kaninchen_id> a skos:Concept ;
+    skos:broader <hasen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kaninchen"@de .
+
+<karpfen_id> a skos:Concept ;
+    skos:broader <fische_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Karpfen"@de .
+
+<kartoffel_id> a skos:Concept ;
+    skos:broader <nutzpflanze_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kartoffel"@de .
+
+<kartoffelkäfer_id> a skos:Concept ;
+    skos:broader <käfer_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kartoffelkäfer"@de .
+
+<karyogramm_id> a skos:Concept ;
+    skos:broader <humangenetik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Karyogramm"@de .
+
+<kasparhauserversuch_id> a skos:Concept ;
+    skos:broader <instinkt_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kaspar-Hauser-Versuch"@de .
+
+<kautschuk_id> a skos:Concept ;
+    skos:broader <nutzpflanze_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kautschuk"@de .
+
+<keimesentwicklung_id> a skos:Concept ;
+    skos:broader <fortpflanzung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Keimesentwicklung"@de .
+
+<keimung_id> a skos:Concept ;
+    skos:broader <fortpflanzung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Keimung"@de .
+
+<kernteilung_zelle_id> a skos:Concept ;
+    skos:broader <zelle_biologie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kernteilung (Zelle)"@de .
+
+<kiefern_id> a skos:Concept ;
+    skos:broader <blütenpflanzen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kiefern"@de .
+
+<kiemen_id> a skos:Concept ;
+    skos:broader <atmungsorgan_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kiemen"@de .
+
+<kirsche_id> a skos:Concept ;
+    skos:broader <obst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kirsche"@de .
+
+<kleinkind_id> a skos:Concept ;
+    skos:broader <kind_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kleinkind"@de .
+
+<kletterpflanze_id> a skos:Concept ;
+    skos:broader <botanik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kletterpflanze"@de .
+
+<klon_id> a skos:Concept ;
+    skos:broader <gentechnologie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Klon"@de .
+
+<knochen_id> a skos:Concept ;
+    skos:broader <skelett_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Knochen"@de .
+
+<knolle_id> a skos:Concept ;
+    skos:broader <pflanzenmorphologie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Knolle"@de .
+
+<knorpel_id> a skos:Concept ;
+    skos:broader <bindegewebe_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Knorpel"@de .
+
+<knöllchenbakterien_id> a skos:Concept ;
+    skos:broader <bakterien_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Knöllchenbakterien"@de .
+
+<koalas_id> a skos:Concept ;
+    skos:broader <beuteltiere_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Koalas"@de .
+
+<kognitionswissenschaft_id> a skos:Concept ;
+    skos:broader <gehirn_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kognitionswissenschaft"@de .
+
+<kohl_id> a skos:Concept ;
+    skos:broader <nutzpflanze_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kohl"@de .
+
+<kohlenhydrate_id> a skos:Concept ;
+    skos:broader <biochemie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kohlenhydrate"@de .
+
+<kokon_id> a skos:Concept ;
+    skos:broader <ei_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kokon"@de .
+
+<konditionierung_id> a skos:Concept ;
+    skos:broader <instinkt_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Konditionierung"@de .
+
+<koniferen_id> a skos:Concept ;
+    skos:broader <baum_pflanze_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Koniferen"@de .
+
+<konsument_ökologie_id> a skos:Concept ;
+    skos:broader <ökologie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Konsument (Ökologie)"@de .
+
+<konvergenz_bio_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Konvergenz (Bio)"@de ;
+    skos:topConceptOf <> .
+
+<korallentiere_id> a skos:Concept ;
+    skos:broader <hohltiere_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Korallentiere"@de .
+
+<kormorane_id> a skos:Concept ;
+    skos:broader <ruderfüßer_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kormorane"@de .
+
+<kraniche_id> a skos:Concept ;
+    skos:broader <zugvogel_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kraniche"@de .
+
+<kreuzblütler_id> a skos:Concept ;
+    skos:broader <blütenpflanzen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kreuzblütler"@de .
+
+<kreuzotter_id> a skos:Concept ;
+    skos:broader <schlangen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kreuzotter"@de .
+
+<kreuzspinnen_id> a skos:Concept ;
+    skos:broader <spinnentiere_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kreuzspinnen"@de .
+
+<kreuzung_biologie_id> a skos:Concept ;
+    skos:broader <züchtung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kreuzung (Biologie)"@de .
+
+<krokodile_id> a skos:Concept ;
+    skos:broader <reptilien_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Krokodile"@de .
+
+<kuckucke_id> a skos:Concept ;
+    skos:broader <vögel_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kuckucke"@de .
+
+<kulturfolger_id> a skos:Concept ;
+    skos:broader <leben_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kulturfolger"@de .
+
+<kängurus_id> a skos:Concept ;
+    skos:broader <beuteltiere_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kängurus"@de .
+
+<kätzchen_id> a skos:Concept ;
+    skos:broader <blüte_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kätzchen"@de .
+
+<körperbau_mensch_id> a skos:Concept ;
+    skos:broader <kind_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Körperbau (Mensch)"@de .
+
+<körperbau_tier_id> a skos:Concept ;
+    skos:broader <tier_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Körperbau (Tier)"@de .
+
+<körpertemperatur_id> a skos:Concept ;
+    skos:broader <regelkreis_biologie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Körpertemperatur"@de .
+
+<künstliche_befruchtung_id> a skos:Concept ;
+    skos:broader <fortpflanzung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Künstliche Befruchtung"@de .
+
+<kürbis_id> a skos:Concept ;
+    skos:broader <nutzpflanze_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kürbis"@de .
+
+<lachse_id> a skos:Concept ;
+    skos:broader <fische_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lachse"@de .
+
+<laichverhalten_id> a skos:Concept ;
+    skos:broader <paarungsverhalten_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Laichverhalten"@de .
+
+<lamas_id> a skos:Concept ;
+    skos:broader <wiederkäuer_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lamas"@de .
+
+<lanzettfischchen_id> a skos:Concept ;
+    skos:broader <chordatiere_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lanzettfischchen"@de .
+
+<lappentaucher_id> a skos:Concept ;
+    skos:broader <wasservogel_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lappentaucher"@de .
+
+<laubbaum_id> a skos:Concept ;
+    skos:broader <baum_pflanze_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Laubbaum"@de .
+
+<laufvögel_id> a skos:Concept ;
+    skos:broader <vögel_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Laufvögel"@de .
+
+<lebendes_fossil_id> a skos:Concept ;
+    skos:broader <paläonthologie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lebendes Fossil"@de .
+
+<lebenserwartung_id> a skos:Concept ;
+    skos:broader <leben_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lebenserwartung"@de .
+
+<lebewesen_id> a skos:Concept ;
+    skos:broader <leben_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lebewesen"@de .
+
+<leitgewebe_id> a skos:Concept ;
+    skos:broader <pflanzenmorphologie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Leitgewebe"@de .
+
+<libellen_id> a skos:Concept ;
+    skos:broader <insekten_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Libellen"@de .
+
+<luchse_id> a skos:Concept ;
+    skos:broader <katzen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Luchse"@de .
+
+<lungenfische_id> a skos:Concept ;
+    skos:broader <fische_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lungenfische"@de .
+
+<lupinen_id> a skos:Concept ;
+    skos:broader <schmetterlingsblütler_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lupinen"@de .
+
+<lymphsystem_id> a skos:Concept ;
+    skos:broader <anatomie_tier_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lymphsystem"@de .
+
+<läuse_id> a skos:Concept ;
+    skos:broader <insekten_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Läuse"@de .
+
+<löwen_id> a skos:Concept ;
+    skos:broader <katzen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Löwen"@de .
+
+<löwenzahn_id> a skos:Concept ;
+    skos:broader <korbblütler_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Löwenzahn"@de .
+
+<magen_id> a skos:Concept ;
+    skos:broader <verdauungsorgan_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Magen"@de .
+
+<maikäfer_id> a skos:Concept ;
+    skos:broader <käfer_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Maikäfer"@de .
+
+<mais_id> a skos:Concept ;
+    skos:broader <getreide_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mais"@de .
+
+<mammuts_id> a skos:Concept ;
+    skos:broader <fossil_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mammuts"@de .
+
+<mangrove_ökosystem_id> a skos:Concept ;
+    skos:broader <ökosystem_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mangrove (Ökosystem)"@de .
+
+<maniok_id> a skos:Concept ;
+    skos:broader <nutzpflanze_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Maniok"@de .
+
+<mann_id> a skos:Concept ;
+    skos:broader <mensch_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mann"@de .
+
+<manteltiere_id> a skos:Concept ;
+    skos:broader <chordatiere_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Manteltiere"@de .
+
+<marder_id> a skos:Concept ;
+    skos:broader <raubtiere_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Marder"@de .
+
+<marienkäfer_id> a skos:Concept ;
+    skos:broader <käfer_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Marienkäfer"@de .
+
+<maulwürfe_id> a skos:Concept ;
+    skos:broader <insektenfresser_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Maulwürfe"@de .
+
+<mendelsche_regeln_id> a skos:Concept ;
+    skos:broader <genetik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mendelsche Regeln"@de .
+
+<menstruation_id> a skos:Concept ;
+    skos:broader <ei_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Menstruation"@de .
+
+<miesmuscheln_id> a skos:Concept ;
+    skos:broader <muscheln_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Miesmuscheln"@de .
+
+<milchsäurebakterien_id> a skos:Concept ;
+    skos:broader <bakterien_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Milchsäurebakterien"@de .
+
+<mimese_id> a skos:Concept ;
+    skos:broader <tarnung_tiere_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mimese"@de .
+
+<mimikry_id> a skos:Concept ;
+    skos:broader <tarnung_tiere_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mimikry"@de .
+
+<misteln_id> a skos:Concept ;
+    skos:broader <blütenpflanzen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Misteln"@de .
+
+<modifikation_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Modifikation"@de ;
+    skos:topConceptOf <> .
+
+<moose_id> a skos:Concept ;
+    skos:broader <blütenlose_pflanzen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Moose"@de .
+
+<moschusochse_id> a skos:Concept ;
+    skos:broader <wiederkäuer_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Moschusochse"@de .
+
+<mund_id> a skos:Concept ;
+    skos:broader <verdauungsorgan_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mund"@de .
+
+<mundwerkzeug_id> a skos:Concept ;
+    skos:broader <gebiss_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mundwerkzeug"@de .
+
+<murmeltiere_id> a skos:Concept ;
+    skos:broader <nagetiere_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Murmeltiere"@de .
+
+<muschelzucht_id> a skos:Concept ;
+    skos:broader <züchtung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Muschelzucht"@de .
+
+<mutation_id> a skos:Concept ;
+    skos:broader <genetik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mutation"@de .
+
+<mädchen_id> a skos:Concept ;
+    skos:broader <mensch_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mädchen"@de .
+
+<möwen_id> a skos:Concept ;
+    skos:broader <wasservogel_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Möwen"@de .
+
+<mücken_id> a skos:Concept ;
+    skos:broader <insekten_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mücken"@de .
+
+<nagel_anatomie_id> a skos:Concept ;
+    skos:broader <anatomie_tier_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Nagel (Anatomie)"@de .
+
+<nahrung_tier_pflanze_id> a skos:Concept ;
+    skos:broader <tier_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Nahrung (Tier Pflanze)"@de .
+
+<nahrungsaufnahme_tiere_pflanzen_id> a skos:Concept ;
+    skos:broader <tier_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Nahrungsaufnahme (Tiere Pflanzen)"@de .
+
+<nashörner_id> a skos:Concept ;
+    skos:broader <unpaarhufer_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Nashörner"@de .
+
+<natur_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Natur"@de ;
+    skos:topConceptOf <> .
+
+<neandertaler_id> a skos:Concept ;
+    skos:broader <homo_sapiens_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Neandertaler"@de .
+
+<neobiota_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Neobiota"@de ;
+    skos:topConceptOf <> .
+
+<nervenzelle_id> a skos:Concept ;
+    skos:broader <nervensystem_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Nervenzelle"@de .
+
+<nest_id> a skos:Concept ;
+    skos:broader <brutpflege_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Nest"@de .
+
+<nestflüchter_id> a skos:Concept ;
+    skos:broader <brutpflege_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Nestflüchter"@de .
+
+<nesthocker_id> a skos:Concept ;
+    skos:broader <brutpflege_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Nesthocker"@de .
+
+<neuronale_plastizität_id> a skos:Concept ;
+    skos:broader <nervensystem_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Neuronale Plastizität"@de .
+
+<neurotransmitter_id> a skos:Concept ;
+    skos:broader <nervensystem_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Neurotransmitter"@de .
+
+<niere_id> a skos:Concept ;
+    skos:broader <ausscheidungsorgan_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Niere"@de .
+
+<nisthilfe_id> a skos:Concept ;
+    skos:broader <tierschutz_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Nisthilfe"@de .
+
+<nährstoffkreislauf_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Nährstoffkreislauf"@de ;
+    skos:topConceptOf <> .
+
+<ohrwürmer_id> a skos:Concept ;
+    skos:broader <insekten_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ohrwürmer"@de .
+
+<ontogenese_id> a skos:Concept ;
+    skos:broader <leben_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ontogenese"@de .
+
+<orangutans_id> a skos:Concept ;
+    skos:broader <menschenaffen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Orang-Utans"@de .
+
+<orchideen_id> a skos:Concept ;
+    skos:broader <blütenpflanzen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Orchideen"@de .
+
+<organismus_id> a skos:Concept ;
+    skos:broader <leben_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Organismus"@de .
+
+<orientierung_tiere_id> a skos:Concept ;
+    skos:broader <tier_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Orientierung (Tiere)"@de .
+
+<osmose_id> a skos:Concept ;
+    skos:broader <biochemie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Osmose"@de .
+
+<ovulation_id> a skos:Concept ;
+    skos:broader <ei_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ovulation"@de .
+
+<panaschierung_id> a skos:Concept ;
+    skos:broader <chlorophyll_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Panaschierung"@de .
+
+<papageien_id> a skos:Concept ;
+    skos:broader <vögel_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Papageien"@de .
+
+<paviane_id> a skos:Concept ;
+    skos:broader <menschenaffen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Paviane"@de .
+
+<pflanzenbewegung_id> a skos:Concept ;
+    skos:broader <pflanzen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pflanzenbewegung"@de .
+
+<pflanzengallen_id> a skos:Concept ;
+    skos:broader <parasit_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pflanzengallen"@de .
+
+<pflanzengesellschaft_id> a skos:Concept ;
+    skos:broader <pflanzen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pflanzengesellschaft"@de .
+
+<pflanzenkrankheit_id> a skos:Concept ;
+    skos:broader <pflanzen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pflanzenkrankheit"@de .
+
+<pflanzenschnitt_id> a skos:Concept ;
+    skos:broader <pflanzen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pflanzenschnitt"@de .
+
+<pflanzenschutz_gegen_krankheiten_id> a skos:Concept ;
+    skos:broader <pflanzen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pflanzenschutz (gegen Krankheiten)"@de .
+
+<pflanzenzüchtung_id> a skos:Concept ;
+    skos:broader <züchtung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pflanzenzüchtung"@de .
+
+<pflanzliche_anpassung_id> a skos:Concept ;
+    skos:broader <pflanzen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pflanzliche Anpassung"@de .
+
+<physiologie_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Physiologie"@de ;
+    skos:topConceptOf <> .
+
+<pinguine_id> a skos:Concept ;
+    skos:broader <wasservogel_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pinguine"@de .
+
+<pionierpflanze_id> a skos:Concept ;
+    skos:broader <botanik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pionierpflanze"@de .
+
+<plankton_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Plankton"@de ;
+    skos:topConceptOf <> .
+
+<plasma_zelle_id> a skos:Concept ;
+    skos:broader <zelle_biologie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Plasma (Zelle)"@de .
+
+<plasmid_id> a skos:Concept ;
+    skos:broader <bakterien_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Plasmid"@de .
+
+<plattwürmer_id> a skos:Concept ;
+    skos:broader <würmer_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Plattwürmer"@de .
+
+<populationsdynamik_id> a skos:Concept ;
+    skos:broader <leben_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Populationsdynamik"@de .
+
+<primeln_id> a skos:Concept ;
+    skos:broader <blütenpflanzen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Primeln"@de .
+
+<primärstruktur_id> a skos:Concept ;
+    skos:broader <biochemie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Primärstruktur"@de .
+
+<produzent_ökologie_id> a skos:Concept ;
+    skos:broader <ökologie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Produzent (Ökologie)"@de .
+
+<proteinsynthese_id> a skos:Concept ;
+    skos:broader <biosynthese_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Proteinsynthese"@de .
+
+<puppe_biologie_id> a skos:Concept ;
+    skos:broader <metamorphose_zoologie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Puppe (Biologie)"@de .
+
+<quallen_id> a skos:Concept ;
+    skos:broader <hohltiere_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Quallen"@de .
+
+<quastenflosser_id> a skos:Concept ;
+    skos:broader <fische_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Quastenflosser"@de .
+
+<queller_id> a skos:Concept ;
+    skos:broader <blütenlose_pflanzen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Queller"@de .
+
+<rabenvögel_id> a skos:Concept ;
+    skos:broader <singvögel_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Rabenvögel"@de .
+
+<rangordnung_id> a skos:Concept ;
+    skos:broader <verhalten_tier_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Rangordnung"@de .
+
+<reflex_id> a skos:Concept ;
+    skos:broader <organ_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Reflex"@de .
+
+<regeneration_biologie_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Regeneration (Biologie)"@de ;
+    skos:topConceptOf <> .
+
+<regenwürmer_id> a skos:Concept ;
+    skos:broader <ringelwürmer_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Regenwürmer"@de .
+
+<reifungsprozess_mensch_id> a skos:Concept ;
+    skos:broader <mensch_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Reifungsprozess (Mensch)"@de .
+
+<reifungsprozess_tier_id> a skos:Concept ;
+    skos:broader <tier_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Reifungsprozess (Tier)"@de .
+
+<reis_id> a skos:Concept ;
+    skos:broader <getreide_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Reis"@de .
+
+<reizaufnahme_id> a skos:Concept ;
+    skos:broader <biochemie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Reizaufnahme"@de .
+
+<rentiere_id> a skos:Concept ;
+    skos:broader <hirsche_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Rentiere"@de .
+
+<replikation_id> a skos:Concept ;
+    skos:broader <genetik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Replikation"@de .
+
+<resistenz_id> a skos:Concept ;
+    skos:broader <biochemie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Resistenz"@de .
+
+<resorption_id> a skos:Concept ;
+    skos:broader <biochemie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Resorption"@de .
+
+<revier_tier_id> a skos:Concept ;
+    skos:broader <verhalten_tier_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Revier (Tier)"@de .
+
+<ribonukleinsäure_id> a skos:Concept ;
+    skos:broader <zelle_biologie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ribonukleinsäure"@de .
+
+<ribosom_id> a skos:Concept ;
+    skos:broader <zelle_biologie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ribosom"@de .
+
+<ringelnattern_id> a skos:Concept ;
+    skos:broader <schlangen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ringelnattern"@de .
+
+<rochen_id> a skos:Concept ;
+    skos:broader <knorpelfische_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Rochen"@de .
+
+<roggen_id> a skos:Concept ;
+    skos:broader <getreide_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Roggen"@de .
+
+<rosen_id> a skos:Concept ;
+    skos:broader <blütenpflanzen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Rosen"@de .
+
+<rote_liste_id> a skos:Concept ;
+    skos:broader <artenschutz_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Rote Liste"@de .
+
+<rudiment_id> a skos:Concept ;
+    skos:broader <anatomie_tier_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Rudiment"@de .
+
+<räuberbeuteprinzip_id> a skos:Concept ;
+    skos:broader <nahrungskette_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "RäuberBeutePrinzip"@de .
+
+<rücken_id> a skos:Concept ;
+    skos:broader <wirbelsäule_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Rücken"@de .
+
+<rückenmark_id> a skos:Concept ;
+    skos:broader <nervensystem_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Rückenmark"@de .
+
+<schaben_id> a skos:Concept ;
+    skos:broader <insekten_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schaben"@de .
+
+<schafe_id> a skos:Concept ;
+    skos:broader <wiederkäuer_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schafe"@de .
+
+<schildkröten_id> a skos:Concept ;
+    skos:broader <reptilien_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schildkröten"@de .
+
+<schimmelpilze_id> a skos:Concept ;
+    skos:broader <mikroorganismus_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schimmelpilze"@de .
+
+<schimpansen_id> a skos:Concept ;
+    skos:broader <menschenaffen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schimpansen"@de .
+
+<schleimhaut_id> a skos:Concept ;
+    skos:broader <anatomie_tier_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schleimhaut"@de .
+
+<schleimpilze_id> a skos:Concept ;
+    skos:broader <pilze_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schleimpilze"@de .
+
+<schlupfwespen_id> a skos:Concept ;
+    skos:broader <hautflügler_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schlupfwespen"@de .
+
+<schlüpfen_id> a skos:Concept ;
+    skos:broader <fortpflanzung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schlüpfen"@de .
+
+<schlüsselreiz_id> a skos:Concept ;
+    skos:broader <verhalten_tier_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schlüsselreiz"@de .
+
+<schmetterlinge_id> a skos:Concept ;
+    skos:broader <insekten_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schmetterlinge"@de .
+
+<schnabeltiere_id> a skos:Concept ;
+    skos:broader <säugetiere_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schnabeltiere"@de .
+
+<schwangerschaft_id> a skos:Concept ;
+    skos:broader <fortpflanzung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schwangerschaft"@de .
+
+<schwarmvögel_id> a skos:Concept ;
+    skos:broader <vögel_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schwarmvögel"@de .
+
+<schweine_id> a skos:Concept ;
+    skos:broader <nichtwiederkäuer_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schweine"@de .
+
+<schwertliliengewächse_id> a skos:Concept ;
+    skos:broader <blütenpflanzen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schwertliliengewächse"@de .
+
+<schwämme_id> a skos:Concept ;
+    skos:broader <wirbellose_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schwämme"@de .
+
+<schädel_id> a skos:Concept ;
+    skos:broader <skelett_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schädel"@de .
+
+<schädlingsbekämpfung_id> a skos:Concept ;
+    skos:broader <schädling_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schädlingsbekämpfung"@de .
+
+<segler_vögel_id> a skos:Concept ;
+    skos:broader <vögel_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Segler (Vögel)"@de .
+
+<sehen_id> a skos:Concept ;
+    skos:broader <auge_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sehen"@de .
+
+<selbstreinigung_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Selbstreinigung"@de ;
+    skos:topConceptOf <> .
+
+<selektion_id> a skos:Concept ;
+    skos:broader <tier_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Selektion"@de .
+
+<sexualität_id> a skos:Concept ;
+    skos:broader <mensch_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sexualität"@de .
+
+<skunks_id> a skos:Concept ;
+    skos:broader <raubtiere_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Skunks"@de .
+
+<sohlengänger_id> a skos:Concept ;
+    skos:broader <säugetiere_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sohlengänger"@de .
+
+<sommerblume_id> a skos:Concept ;
+    skos:broader <zierpflanze_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sommerblume"@de .
+
+<spechte_id> a skos:Concept ;
+    skos:broader <vögel_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Spechte"@de .
+
+<sperma_id> a skos:Concept ;
+    skos:broader <befruchtung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sperma"@de .
+
+<spitzmäuse_id> a skos:Concept ;
+    skos:broader <insektenfresser_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Spitzmäuse"@de .
+
+<spore_id> a skos:Concept ;
+    skos:broader <mikroorganismus_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Spore"@de .
+
+<sprachentwicklung_kind_id> a skos:Concept ;
+    skos:broader <mensch_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sprachentwicklung (Kind)"@de .
+
+<springkräuter_id> a skos:Concept ;
+    skos:broader <blütenpflanzen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Springkräuter"@de .
+
+<stachelhäuter_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Stachelhäuter"@de ;
+    skos:topConceptOf <> .
+
+<stammzelle_id> a skos:Concept ;
+    skos:broader <gentechnologie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Stammzelle"@de .
+
+<steinbock_id> a skos:Concept ;
+    skos:broader <ziegen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Steinbock"@de .
+
+<sterilität_keimfreiheit_id> a skos:Concept ;
+    skos:broader <mikrobiologie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sterilität (Keimfreiheit)"@de .
+
+<stichlinge_id> a skos:Concept ;
+    skos:broader <fische_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Stichlinge"@de .
+
+<stickstoffkreislauf_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Stickstoffkreislauf"@de ;
+    skos:topConceptOf <> .
+
+<stimme_mensch_id> a skos:Concept ;
+    skos:broader <kehlkopf_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Stimme (Mensch)"@de .
+
+<stoffwechsel_id> a skos:Concept ;
+    skos:broader <biochemie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Stoffwechsel"@de .
+
+<stratifikation_id> a skos:Concept ;
+    skos:broader <vegetation_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Stratifikation"@de .
+
+<sumpfpflanze_id> a skos:Concept ;
+    skos:broader <botanik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sumpfpflanze"@de .
+
+<symbiose_id> a skos:Concept ;
+    skos:broader <leben_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Symbiose"@de .
+
+<synapse_id> a skos:Concept ;
+    skos:broader <nervensystem_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Synapse"@de .
+
+<säugling_id> a skos:Concept ;
+    skos:broader <kind_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Säugling"@de .
+
+<tabak_id> a skos:Concept ;
+    skos:broader <nutzpflanze_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tabak"@de .
+
+<tannen_id> a skos:Concept ;
+    skos:broader <blütenpflanzen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tannen"@de .
+
+<tastkörperchen_id> a skos:Concept ;
+    skos:broader <tastsinn_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tastkörperchen"@de .
+
+<taubnesseln_id> a skos:Concept ;
+    skos:broader <lippenblütler_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Taubnesseln"@de .
+
+<tee_id> a skos:Concept ;
+    skos:broader <nutzpflanze_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tee"@de .
+
+<termiten_id> a skos:Concept ;
+    skos:broader <insekten_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Termiten"@de .
+
+<tertiärstruktur_id> a skos:Concept ;
+    skos:broader <biochemie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tertiärstruktur"@de .
+
+<tiersprache_id> a skos:Concept ;
+    skos:broader <tier_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tiersprache"@de .
+
+<tierversuche_id> a skos:Concept ;
+    skos:broader <tierschutz_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tierversuche"@de .
+
+<tierwanderung_id> a skos:Concept ;
+    skos:broader <tier_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tierwanderung"@de .
+
+<tintenfische_id> a skos:Concept ;
+    skos:broader <weichtiere_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tintenfische"@de .
+
+<tomaten_id> a skos:Concept ;
+    skos:broader <nutzpflanze_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tomaten"@de .
+
+<totholz_id> a skos:Concept ;
+    skos:broader <artenschutz_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Totholz"@de .
+
+<tragfähigkeit_ökologie_id> a skos:Concept ;
+    skos:broader <ökologie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tragfähigkeit (Ökologie)"@de .
+
+<trichoplax_id> a skos:Concept ;
+    skos:broader <mikroorganismus_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Trichoplax"@de .
+
+<trockenrasen_id> a skos:Concept ;
+    skos:broader <botanik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Trockenrasen"@de .
+
+<trypanosomen_id> a skos:Concept ;
+    skos:broader <einzeller_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Trypanosomen"@de .
+
+<tsetsefliegen_id> a skos:Concept ;
+    skos:broader <fliegen_insekten_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tsetsefliegen"@de .
+
+<tulpen_id> a skos:Concept ;
+    skos:broader <liliengewächse_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tulpen"@de .
+
+<uferschwalbe_id> a skos:Concept ;
+    skos:broader <singvögel_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Uferschwalbe"@de .
+
+<unken_id> a skos:Concept ;
+    skos:broader <froschlurche_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Unken"@de .
+
+<unkraut_id> a skos:Concept ;
+    skos:broader <stauden_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Unkraut"@de .
+
+<unterhaut_id> a skos:Concept ;
+    skos:broader <haut_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Unterhaut"@de .
+
+<urin_id> a skos:Concept ;
+    skos:broader <harnorgan_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Urin"@de .
+
+<vagina_id> a skos:Concept ;
+    skos:broader <geschlechtsorgan_mensch_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Vagina"@de .
+
+<vakuole_id> a skos:Concept ;
+    skos:broader <zelle_biologie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Vakuole"@de .
+
+<valin_id> a skos:Concept ;
+    skos:broader <aminosäuren_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Valin"@de .
+
+<variabilität_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Variabilität"@de ;
+    skos:topConceptOf <> .
+
+<vegetationskegel_id> a skos:Concept ;
+    skos:broader <pflanzen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Vegetationskegel"@de .
+
+<vegetationsstufe_id> a skos:Concept ;
+    skos:broader <vegetation_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Vegetationsstufe"@de .
+
+<vegetationszonen_id> a skos:Concept ;
+    skos:broader <vegetation_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Vegetationszonen"@de .
+
+<vene_id> a skos:Concept ;
+    skos:broader <blutgefäß_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Vene"@de .
+
+<venusfliegenfalle_id> a skos:Concept ;
+    skos:broader <fleisch_fressende_pflanzen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Venusfliegenfalle"@de .
+
+<verdauung_id> a skos:Concept ;
+    skos:broader <verdauungsorgan_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Verdauung"@de .
+
+<vererbung_id> a skos:Concept ;
+    skos:broader <genetik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Vererbung"@de .
+
+<vielzeller_id> a skos:Concept ;
+    skos:broader <mikroorganismus_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Vielzeller"@de .
+
+<vipern_id> a skos:Concept ;
+    skos:broader <schlangen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Vipern"@de .
+
+<vitalkapazität_id> a skos:Concept ;
+    skos:broader <lunge_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Vitalkapazität"@de .
+
+<vogel_des_jahres_id> a skos:Concept ;
+    skos:broader <vogelschutz_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Vogel des Jahres"@de .
+
+<vogelflug_id> a skos:Concept ;
+    skos:broader <tier_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Vogelflug"@de .
+
+<vollblüter_id> a skos:Concept ;
+    skos:broader <pferde_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Vollblüter"@de .
+
+<volvox_id> a skos:Concept ;
+    skos:broader <algen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Volvox"@de .
+
+<vorhaut_id> a skos:Concept ;
+    skos:broader <geschlechtsorgan_mensch_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Vorhaut"@de .
+
+<wachstum_biologie_id> a skos:Concept ;
+    skos:broader <leben_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wachstum (Biologie)"@de .
+
+<wahrnehmung_sinnesorgan_id> a skos:Concept ;
+    skos:broader <mensch_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wahrnehmung (Sinnesorgan)"@de .
+
+<waldfunktion_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Waldfunktion"@de ;
+    skos:topConceptOf <> .
+
+<waldkauz_id> a skos:Concept ;
+    skos:broader <eulenvögel_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Waldkauz"@de .
+
+<waldmaus_id> a skos:Concept ;
+    skos:broader <mäuse_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Waldmaus"@de .
+
+<waldpflanze_id> a skos:Concept ;
+    skos:broader <botanik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Waldpflanze"@de .
+
+<wallacea_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wallacea"@de ;
+    skos:topConceptOf <> .
+
+<walross_id> a skos:Concept ;
+    skos:broader <robben_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Walross"@de .
+
+<wanderfalke_id> a skos:Concept ;
+    skos:broader <falken_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wanderfalke"@de .
+
+<warane_id> a skos:Concept ;
+    skos:broader <schuppenkriechtiere_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Warane"@de .
+
+<warmblüter_id> a skos:Concept ;
+    skos:broader <pferde_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Warmblüter"@de .
+
+<wasserflöhe_id> a skos:Concept ;
+    skos:broader <krebstiere_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wasserflöhe"@de .
+
+<wasserinsekten_id> a skos:Concept ;
+    skos:broader <insekten_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wasserinsekten"@de .
+
+<wasserläufer_schnepfenvögel_id> a skos:Concept ;
+    skos:broader <watvögel_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wasserläufer (Schnepfenvögel)"@de .
+
+<wasserläufer_wanzen_id> a skos:Concept ;
+    skos:broader <wanzen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wasserläufer (Wanzen)"@de .
+
+<wasserpflanzen_id> a skos:Concept ;
+    skos:broader <botanik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wasserpflanzen"@de .
+
+<wattwurm_id> a skos:Concept ;
+    skos:broader <ringelwürmer_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wattwurm"@de .
+
+<wechseljahre_id> a skos:Concept ;
+    skos:broader <fortpflanzung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wechseljahre"@de .
+
+<weichholzaue_id> a skos:Concept ;
+    skos:broader <feuchtgebiet_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Weichholzaue"@de .
+
+<weiden_gattung_id> a skos:Concept ;
+    skos:broader <blütenpflanzen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Weiden (Gattung)"@de .
+
+<weihen_gattung_id> a skos:Concept ;
+    skos:broader <greifvögel_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Weihen (Gattung)"@de .
+
+<weinbergschnecke_id> a skos:Concept ;
+    skos:broader <schnecken_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Weinbergschnecke"@de .
+
+<weizen_id> a skos:Concept ;
+    skos:broader <getreide_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Weizen"@de .
+
+<weißstorch_id> a skos:Concept ;
+    skos:broader <störche_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Weißstorch"@de .
+
+<welpe_id> a skos:Concept ;
+    skos:broader <jungtier_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Welpe"@de .
+
+<welse_id> a skos:Concept ;
+    skos:broader <fische_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Welse"@de .
+
+<wespen_id> a skos:Concept ;
+    skos:broader <hautflügler_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wespen"@de .
+
+<wildkatze_id> a skos:Concept ;
+    skos:broader <katzen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wildkatze"@de .
+
+<wildpferd_id> a skos:Concept ;
+    skos:broader <pferde_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wildpferd"@de .
+
+<wildpflanze_id> a skos:Concept ;
+    skos:broader <botanik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wildpflanze"@de .
+
+<wildschweine_id> a skos:Concept ;
+    skos:broader <nichtwiederkäuer_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wildschweine"@de .
+
+<wildtiermanagement_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wildtiermanagement"@de ;
+    skos:topConceptOf <> .
+
+<wimpernlarve_id> a skos:Concept ;
+    skos:broader <larve_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wimpernlarve"@de .
+
+<wimpertierchen_id> a skos:Concept ;
+    skos:broader <einzeller_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wimpertierchen"@de .
+
+<windblütigkeit_id> a skos:Concept ;
+    skos:broader <samen_pflanzen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Windblütigkeit"@de .
+
+<windverbreitung_id> a skos:Concept ;
+    skos:broader <nektar_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Windverbreitung"@de .
+
+<winterschlaf_id> a skos:Concept ;
+    skos:broader <tier_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Winterschlaf"@de .
+
+<winterstarre_id> a skos:Concept ;
+    skos:broader <tier_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Winterstarre"@de .
+
+<wisent_id> a skos:Concept ;
+    skos:broader <rinder_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wisent"@de .
+
+<wolf_id> a skos:Concept ;
+    skos:broader <hundeartige_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wolf"@de .
+
+<wurzel_biologie_id> a skos:Concept ;
+    skos:broader <pflanzenmorphologie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wurzel (Biologie)"@de .
+
+<wühlmäuse_id> a skos:Concept ;
+    skos:broader <mäuse_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wühlmäuse"@de .
+
+<wüstenfuchs_id> a skos:Concept ;
+    skos:broader <füchse_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wüstenfuchs"@de .
+
+<xerophyten_id> a skos:Concept ;
+    skos:broader <botanik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Xerophyten"@de .
+
+<yams_id> a skos:Concept ;
+    skos:broader <blütenpflanzen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Yams"@de .
+
+<zahn_id> a skos:Concept ;
+    skos:broader <gebiss_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zahn"@de .
+
+<zahnarme_id> a skos:Concept ;
+    skos:broader <säugetiere_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zahnarme"@de .
+
+<zecken_id> a skos:Concept ;
+    skos:broader <milben_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zecken"@de .
+
+<zeigerpflanze_id> a skos:Concept ;
+    skos:broader <botanik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zeigerpflanze"@de .
+
+<zellkolonie_id> a skos:Concept ;
+    skos:broader <einzeller_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zellkolonie"@de .
+
+<zellteilung_id> a skos:Concept ;
+    skos:broader <zelle_biologie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zellteilung"@de .
+
+<ziegenmelker_id> a skos:Concept ;
+    skos:broader <vögel_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ziegenmelker"@de .
+
+<zitrusfrüchte_id> a skos:Concept ;
+    skos:broader <südfrucht_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zitrusfrüchte"@de .
+
+<zuckerrohr_id> a skos:Concept ;
+    skos:broader <nutzpflanze_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zuckerrohr"@de .
+
+<zuckerrübe_id> a skos:Concept ;
+    skos:broader <nutzpflanze_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zuckerrübe"@de .
+
+<zunge_biologie_id> a skos:Concept ;
+    skos:broader <organ_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zunge (Biologie)"@de .
+
+<zwiebelpflanzen_id> a skos:Concept ;
+    skos:broader <botanik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zwiebelpflanzen"@de .
+
+<zwillinge_biologie_id> a skos:Concept ;
+    skos:broader <mensch_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zwillinge (Biologie)"@de .
+
+<zwitter_id> a skos:Concept ;
+    skos:broader <fortpflanzung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zwitter"@de .
+
+<äpfel_id> a skos:Concept ;
+    skos:broader <obst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Äpfel"@de .
+
+<äschen_id> a skos:Concept ;
+    skos:broader <fische_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Äschen"@de .
+
+<äskulapnatter_id> a skos:Concept ;
+    skos:broader <schlangen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Äskulapnatter"@de .
+
+<ökologische_nische_id> a skos:Concept ;
+    skos:broader <ökologie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ökologische Nische"@de .
+
+<ölpflanze_id> a skos:Concept ;
+    skos:broader <nutzpflanze_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ölpflanze"@de .
+
+<überwinterung_id> a skos:Concept ;
+    skos:broader <tier_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Überwinterung"@de .
+
+<algen_id> a skos:Concept ;
+    skos:broader <blütenlose_pflanzen_id> ;
+    skos:inScheme <> ;
+    skos:narrower <volvox_id> ;
+    skos:prefLabel "Algen"@de .
+
+<aminosäuren_id> a skos:Concept ;
+    skos:broader <biochemie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <valin_id> ;
+    skos:prefLabel "Aminosäuren"@de .
+
+<bedrohte_tierart_id> a skos:Concept ;
+    skos:broader <artenschutz_id> ;
+    skos:inScheme <> ;
+    skos:narrower <ausgestorbene_tierart_id> ;
+    skos:prefLabel "Bedrohte Tierart"@de .
+
+<bestäubung_id> a skos:Concept ;
+    skos:broader <befruchtung_id> ;
+    skos:inScheme <> ;
+    skos:narrower <samen_pflanzen_id> ;
+    skos:prefLabel "Bestäubung"@de .
+
+<bienen_id> a skos:Concept ;
+    skos:broader <hautflügler_id> ;
+    skos:inScheme <> ;
+    skos:narrower <bienensterben_id> ;
+    skos:prefLabel "Bienen"@de .
+
+<bindegewebe_id> a skos:Concept ;
+    skos:broader <gewebe_histologie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <knorpel_id> ;
+    skos:prefLabel "Bindegewebe"@de .
+
+<biomasse_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <biosphäre_id> ;
+    skos:prefLabel "Biomasse"@de ;
+    skos:topConceptOf <> .
+
+<biosynthese_id> a skos:Concept ;
+    skos:broader <biochemie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <proteinsynthese_id> ;
+    skos:prefLabel "Biosynthese"@de .
+
+<blutgefäß_id> a skos:Concept ;
+    skos:broader <blutkreislauf_id> ;
+    skos:inScheme <> ;
+    skos:narrower <vene_id> ;
+    skos:prefLabel "Blutgefäß"@de .
+
+<blüte_id> a skos:Concept ;
+    skos:broader <pflanzenmorphologie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <kätzchen_id> ;
+    skos:prefLabel "Blüte"@de .
+
+<chlorophyll_id> a skos:Concept ;
+    skos:broader <photosynthese_id> ;
+    skos:inScheme <> ;
+    skos:narrower <panaschierung_id> ;
+    skos:prefLabel "Chlorophyll"@de .
+
+<eidechsen_id> a skos:Concept ;
+    skos:broader <reptilien_id> ;
+    skos:inScheme <> ;
+    skos:narrower <chamäleons_id> ;
+    skos:prefLabel "Eidechsen"@de .
+
+<elefanten_id> a skos:Concept ;
+    skos:broader <rüsseltiere_id> ;
+    skos:inScheme <> ;
+    skos:narrower <elfenbein_id> ;
+    skos:prefLabel "Elefanten"@de .
+
+<eulenvögel_id> a skos:Concept ;
+    skos:broader <vögel_id> ;
+    skos:inScheme <> ;
+    skos:narrower <waldkauz_id> ;
+    skos:prefLabel "Eulenvögel"@de .
+
+<falken_id> a skos:Concept ;
+    skos:broader <greifvögel_id> ;
+    skos:inScheme <> ;
+    skos:narrower <wanderfalke_id> ;
+    skos:prefLabel "Falken"@de .
+
+<feuchtgebiet_id> a skos:Concept ;
+    skos:broader <ökosystem_id> ;
+    skos:inScheme <> ;
+    skos:narrower <weichholzaue_id> ;
+    skos:prefLabel "Feuchtgebiet"@de .
+
+<flattertiere_id> a skos:Concept ;
+    skos:broader <säugetiere_id> ;
+    skos:inScheme <> ;
+    skos:narrower <fledermäuse_id> ;
+    skos:prefLabel "Flattertiere)"@de .
+
+<fleisch_fressende_pflanzen_id> a skos:Concept ;
+    skos:broader <botanik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <venusfliegenfalle_id> ;
+    skos:prefLabel "Fleisch fressende Pflanzen"@de .
+
+<fliegen_insekten_id> a skos:Concept ;
+    skos:broader <insekten_id> ;
+    skos:inScheme <> ;
+    skos:narrower <tsetsefliegen_id> ;
+    skos:prefLabel "Fliegen (Insekten)"@de .
+
+<froschlurche_id> a skos:Concept ;
+    skos:broader <lurche_id> ;
+    skos:inScheme <> ;
+    skos:narrower <unken_id> ;
+    skos:prefLabel "Froschlurche"@de .
+
+<füchse_id> a skos:Concept ;
+    skos:broader <hundeartige_id> ;
+    skos:inScheme <> ;
+    skos:narrower <wüstenfuchs_id> ;
+    skos:prefLabel "Füchse"@de .
+
+<gehirn_id> a skos:Concept ;
+    skos:broader <nervensystem_id> ;
+    skos:inScheme <> ;
+    skos:narrower <kognitionswissenschaft_id> ;
+    skos:prefLabel "Gehirn"@de .
+
+<gewebe_histologie_id> a skos:Concept ;
+    skos:broader <histologie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <bindegewebe_id> ;
+    skos:prefLabel "Gewebe (Histologie)"@de .
+
+<gleichgewichtssinn_id> a skos:Concept ;
+    skos:broader <ohr_id> ;
+    skos:inScheme <> ;
+    skos:narrower <gleichgewichtsorgan_id> ;
+    skos:prefLabel "Gleichgewichtssinn"@de .
+
+<harnorgan_id> a skos:Concept ;
+    skos:broader <ausscheidungsorgan_id> ;
+    skos:inScheme <> ;
+    skos:narrower <urin_id> ;
+    skos:prefLabel "Harnorgan"@de .
+
+<hasen_id> a skos:Concept ;
+    skos:broader <hasenartige_id> ;
+    skos:inScheme <> ;
+    skos:narrower <kaninchen_id> ;
+    skos:prefLabel "Hasen"@de .
+
+<hasenartige_id> a skos:Concept ;
+    skos:broader <säugetiere_id> ;
+    skos:inScheme <> ;
+    skos:narrower <hasen_id> ;
+    skos:prefLabel "Hasenartige)"@de .
+
+<histologie_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <gewebe_histologie_id> ;
+    skos:prefLabel "Histologie"@de ;
+    skos:topConceptOf <> .
+
+<hunde_id> a skos:Concept ;
+    skos:broader <hundeartige_id> ;
+    skos:inScheme <> ;
+    skos:narrower <dingo_id> ;
+    skos:prefLabel "Hunde"@de .
+
+<hühnervögel_id> a skos:Concept ;
+    skos:broader <vögel_id> ;
+    skos:inScheme <> ;
+    skos:narrower <birkhühner_id> ;
+    skos:prefLabel "Hühnervögel"@de .
+
+<hülsenfrüchte_id> a skos:Concept ;
+    skos:broader <nutzpflanze_id> ;
+    skos:inScheme <> ;
+    skos:narrower <erbsen_id> ;
+    skos:prefLabel "Hülsenfrüchte"@de .
+
+<jungtier_id> a skos:Concept ;
+    skos:broader <tier_id> ;
+    skos:inScheme <> ;
+    skos:narrower <welpe_id> ;
+    skos:prefLabel "Jungtier"@de .
+
+<kehlkopf_id> a skos:Concept ;
+    skos:broader <anatomie_tier_id> ;
+    skos:inScheme <> ;
+    skos:narrower <stimme_mensch_id> ;
+    skos:prefLabel "Kehlkopf"@de .
+
+<korbblütler_id> a skos:Concept ;
+    skos:broader <blütenpflanzen_id> ;
+    skos:inScheme <> ;
+    skos:narrower <löwenzahn_id> ;
+    skos:prefLabel "Korbblütler"@de .
+
+<krebstiere_id> a skos:Concept ;
+    skos:broader <gliederfüßer_id> ;
+    skos:inScheme <> ;
+    skos:narrower <wasserflöhe_id> ;
+    skos:prefLabel "Krebstiere"@de .
+
+<larve_id> a skos:Concept ;
+    skos:broader <metamorphose_zoologie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <wimpernlarve_id> ;
+    skos:prefLabel "Larve"@de .
+
+<lebensraum_id> a skos:Concept ;
+    skos:broader <ökologie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <biozönose_id> ;
+    skos:prefLabel "Lebensraum"@de .
+
+<leber_id> a skos:Concept ;
+    skos:broader <blutkreislauf_id> ;
+    skos:inScheme <> ;
+    skos:narrower <galle_körperflüssigkeit_id> ;
+    skos:prefLabel "Leber"@de .
+
+<lichtsinnesorgan_id> a skos:Concept ;
+    skos:broader <sinnesorgan_id> ;
+    skos:inScheme <> ;
+    skos:narrower <auge_id> ;
+    skos:prefLabel "Lichtsinnesorgan"@de .
+
+<liliengewächse_id> a skos:Concept ;
+    skos:broader <blütenpflanzen_id> ;
+    skos:inScheme <> ;
+    skos:narrower <tulpen_id> ;
+    skos:prefLabel "Liliengewächse"@de .
+
+<lippenblütler_id> a skos:Concept ;
+    skos:broader <blütenpflanzen_id> ;
+    skos:inScheme <> ;
+    skos:narrower <taubnesseln_id> ;
+    skos:prefLabel "Lippenblütler)"@de .
+
+<lunge_id> a skos:Concept ;
+    skos:broader <atmungsorgan_id> ;
+    skos:inScheme <> ;
+    skos:narrower <vitalkapazität_id> ;
+    skos:prefLabel "Lunge"@de .
+
+<lurche_id> a skos:Concept ;
+    skos:broader <wirbeltiere_id> ;
+    skos:inScheme <> ;
+    skos:narrower <froschlurche_id> ;
+    skos:prefLabel "Lurche"@de .
+
+<meeressäuger_id> a skos:Concept ;
+    skos:broader <säugetiere_id> ;
+    skos:inScheme <> ;
+    skos:narrower <wale_id> ;
+    skos:prefLabel "Meeressäuger"@de .
+
+<milben_id> a skos:Concept ;
+    skos:broader <spinnentiere_id> ;
+    skos:inScheme <> ;
+    skos:narrower <zecken_id> ;
+    skos:prefLabel "Milben"@de .
+
+<muscheln_id> a skos:Concept ;
+    skos:broader <weichtiere_id> ;
+    skos:inScheme <> ;
+    skos:narrower <miesmuscheln_id> ;
+    skos:prefLabel "Muscheln"@de .
+
+<muskel_id> a skos:Concept ;
+    skos:broader <bewegungssystem_id> ;
+    skos:inScheme <> ;
+    skos:narrower <herz_id> ;
+    skos:prefLabel "Muskel"@de .
+
+<nase_sinnesorgan_id> a skos:Concept ;
+    skos:broader <sinnesorgan_id> ;
+    skos:inScheme <> ;
+    skos:narrower <geruchssinn_id> ;
+    skos:prefLabel "Nase (Sinnesorgan)"@de .
+
+<nektar_id> a skos:Concept ;
+    skos:broader <samen_pflanzen_id> ;
+    skos:inScheme <> ;
+    skos:narrower <windverbreitung_id> ;
+    skos:prefLabel "Nektar"@de .
+
+<neurobiologie_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <nervensystem_id> ;
+    skos:prefLabel "Neurobiologie"@de ;
+    skos:topConceptOf <> .
+
+<paarungsverhalten_id> a skos:Concept ;
+    skos:broader <verhalten_tier_id> ;
+    skos:inScheme <> ;
+    skos:narrower <laichverhalten_id> ;
+    skos:prefLabel "Paarungsverhalten"@de .
+
+<palme_id> a skos:Concept ;
+    skos:broader <blütenpflanzen_id> ;
+    skos:inScheme <> ;
+    skos:narrower <dattelpalmen_id> ;
+    skos:prefLabel "Palme"@de .
+
+<parasit_id> a skos:Concept ;
+    skos:broader <parasitismus_id> ;
+    skos:inScheme <> ;
+    skos:narrower <pflanzengallen_id> ;
+    skos:prefLabel "Parasit"@de .
+
+<photosynthese_id> a skos:Concept ;
+    skos:broader <pflanzen_id> ;
+    skos:inScheme <> ;
+    skos:narrower <chlorophyll_id> ;
+    skos:prefLabel "Photosynthese"@de .
+
+<primaten_id> a skos:Concept ;
+    skos:broader <säugetiere_id> ;
+    skos:inScheme <> ;
+    skos:narrower <affen_id> ;
+    skos:prefLabel "Primaten"@de .
+
+<regelkreis_biologie_id> a skos:Concept ;
+    skos:broader <biochemie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <körpertemperatur_id> ;
+    skos:prefLabel "Regelkreis (Biologie)"@de .
+
+<robben_id> a skos:Concept ;
+    skos:broader <raubtiere_id> ;
+    skos:inScheme <> ;
+    skos:narrower <walross_id> ;
+    skos:prefLabel "Robben"@de .
+
+<ruderfüßer_id> a skos:Concept ;
+    skos:broader <wasservogel_id> ;
+    skos:inScheme <> ;
+    skos:narrower <kormorane_id> ;
+    skos:prefLabel "Ruderfüßer"@de .
+
+<rundwürmer_id> a skos:Concept ;
+    skos:broader <würmer_id> ;
+    skos:inScheme <> ;
+    skos:narrower <fadenwürmer_id> ;
+    skos:prefLabel "Rundwürmer"@de .
+
+<rüsseltiere_id> a skos:Concept ;
+    skos:broader <säugetiere_id> ;
+    skos:inScheme <> ;
+    skos:narrower <elefanten_id> ;
+    skos:prefLabel "Rüsseltiere)"@de .
+
+<samenverbreitung_id> a skos:Concept ;
+    skos:broader <samen_pflanzen_id> ;
+    skos:inScheme <> ;
+    skos:narrower <autochorie__id> ;
+    skos:prefLabel "Samenverbreitung"@de .
+
+<saurier_id> a skos:Concept ;
+    skos:broader <fossil_id> ;
+    skos:inScheme <> ;
+    skos:narrower <dinosaurier_id> ;
+    skos:prefLabel "Saurier"@de .
+
+<schmetterlingsblütler_id> a skos:Concept ;
+    skos:broader <blütenpflanzen_id> ;
+    skos:inScheme <> ;
+    skos:narrower <lupinen_id> ;
+    skos:prefLabel "Schmetterlingsblütler)"@de .
+
+<schnecken_id> a skos:Concept ;
+    skos:broader <weichtiere_id> ;
+    skos:inScheme <> ;
+    skos:narrower <weinbergschnecke_id> ;
+    skos:prefLabel "Schnecken"@de .
+
+<schuppenkriechtiere_id> a skos:Concept ;
+    skos:broader <reptilien_id> ;
+    skos:inScheme <> ;
+    skos:narrower <warane_id> ;
+    skos:prefLabel "Schuppenkriechtiere)"@de .
+
+<schädling_id> a skos:Concept ;
+    skos:broader <parasitismus_id> ;
+    skos:inScheme <> ;
+    skos:narrower <schädlingsbekämpfung_id> ;
+    skos:prefLabel "Schädling"@de .
+
+<sekundärstruktur_id> a skos:Concept ;
+    skos:broader <biochemie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <helixstruktur_id> ;
+    skos:prefLabel "Sekundärstruktur"@de .
+
+<stauden_id> a skos:Concept ;
+    skos:broader <botanik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <unkraut_id> ;
+    skos:prefLabel "Stauden"@de .
+
+<strauch_id> a skos:Concept ;
+    skos:broader <botanik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <hecke_id> ;
+    skos:prefLabel "Strauch"@de .
+
+<störche_id> a skos:Concept ;
+    skos:broader <stelzvögel_id> ;
+    skos:inScheme <> ;
+    skos:narrower <weißstorch_id> ;
+    skos:prefLabel "Störche"@de .
+
+<tastsinn_id> a skos:Concept ;
+    skos:broader <sinnesorgan_id> ;
+    skos:inScheme <> ;
+    skos:narrower <tastkörperchen_id> ;
+    skos:prefLabel "Tastsinn"@de .
+
+<vogelschutz_id> a skos:Concept ;
+    skos:broader <artenschutz_id> ;
+    skos:inScheme <> ;
+    skos:narrower <vogel_des_jahres_id> ;
+    skos:prefLabel "Vogelschutz"@de .
+
+<vogelzug_id> a skos:Concept ;
+    skos:broader <zugvogel_id> ;
+    skos:inScheme <> ;
+    skos:narrower <beringung_id> ;
+    skos:prefLabel "Vogelzug"@de .
+
+<wale_id> a skos:Concept ;
+    skos:broader <meeressäuger_id> ;
+    skos:inScheme <> ;
+    skos:narrower <delfine_id> ;
+    skos:prefLabel "Wale"@de .
+
+<wanzen_id> a skos:Concept ;
+    skos:broader <insekten_id> ;
+    skos:inScheme <> ;
+    skos:narrower <wasserläufer_wanzen_id> ;
+    skos:prefLabel "Wanzen"@de .
+
+<watvögel_id> a skos:Concept ;
+    skos:broader <vögel_id> ;
+    skos:inScheme <> ;
+    skos:narrower <wasserläufer_schnepfenvögel_id> ;
+    skos:prefLabel "Watvögel"@de .
+
+<wirbelsäule_id> a skos:Concept ;
+    skos:broader <skelett_id> ;
+    skos:inScheme <> ;
+    skos:narrower <rücken_id> ;
+    skos:prefLabel "Wirbelsäule"@de .
+
+<wirt_biologie_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <parasitismus_id> ;
+    skos:prefLabel "Wirt (Biologie)"@de ;
+    skos:topConceptOf <> .
+
+<zierpflanze_id> a skos:Concept ;
+    skos:broader <botanik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <sommerblume_id> ;
+    skos:prefLabel "Zierpflanze"@de .
+
+<zytologie_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <zelle_biologie_id> ;
+    skos:prefLabel "Zytologie"@de ;
+    skos:topConceptOf <> .
+
+<affen_id> a skos:Concept ;
+    skos:broader <primaten_id> ;
+    skos:inScheme <> ;
+    skos:narrower <halbaffen_id>,
+        <menschenaffen_id> ;
+    skos:prefLabel "Affen"@de .
+
+<auge_id> a skos:Concept ;
+    skos:broader <lichtsinnesorgan_id> ;
+    skos:inScheme <> ;
+    skos:narrower <facettenauge_id>,
+        <sehen_id> ;
+    skos:prefLabel "Auge"@de .
+
+<beuteltiere_id> a skos:Concept ;
+    skos:broader <säugetiere_id> ;
+    skos:inScheme <> ;
+    skos:narrower <koalas_id>,
+        <kängurus_id> ;
+    skos:prefLabel "Beuteltiere"@de .
+
+<chromosom_id> a skos:Concept ;
+    skos:broader <humangenetik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <chromosomenaberration_id>,
+        <gen_id> ;
+    skos:prefLabel "Chromosom"@de .
+
+<eiweiß_id> a skos:Concept ;
+    skos:broader <biochemie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <endorphine_id>,
+        <enzym_id> ;
+    skos:prefLabel "Eiweiß"@de .
+
+<gebiss_id> a skos:Concept ;
+    skos:broader <anatomie_tier_id> ;
+    skos:inScheme <> ;
+    skos:narrower <mundwerkzeug_id>,
+        <zahn_id> ;
+    skos:prefLabel "Gebiss"@de .
+
+<gen_id> a skos:Concept ;
+    skos:broader <chromosom_id> ;
+    skos:inScheme <> ;
+    skos:narrower <crossingover_genetik_id>,
+        <desoxyribonukleinsäure_id> ;
+    skos:prefLabel "Gen"@de .
+
+<gentechnologie_id> a skos:Concept ;
+    skos:broader <genetik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <klon_id>,
+        <stammzelle_id> ;
+    skos:prefLabel "Gentechnologie"@de .
+
+<geschlechtsorgan_mensch_id> a skos:Concept ;
+    skos:broader <organ_id> ;
+    skos:inScheme <> ;
+    skos:narrower <vagina_id>,
+        <vorhaut_id> ;
+    skos:prefLabel "Geschlechtsorgan (Mensch)"@de .
+
+<haut_id> a skos:Concept ;
+    skos:broader <sinnesorgan_id> ;
+    skos:inScheme <> ;
+    skos:narrower <hautfarbe_id>,
+        <unterhaut_id> ;
+    skos:prefLabel "Haut"@de .
+
+<hirsche_id> a skos:Concept ;
+    skos:broader <wiederkäuer_id> ;
+    skos:inScheme <> ;
+    skos:narrower <geweih_id>,
+        <rentiere_id> ;
+    skos:prefLabel "Hirsche"@de .
+
+<hohltiere_id> a skos:Concept ;
+    skos:broader <wirbellose_id> ;
+    skos:inScheme <> ;
+    skos:narrower <korallentiere_id>,
+        <quallen_id> ;
+    skos:prefLabel "Hohltiere"@de .
+
+<homo_sapiens_id> a skos:Concept ;
+    skos:broader <evolution_id> ;
+    skos:inScheme <> ;
+    skos:narrower <cromagnonmensch_id>,
+        <neandertaler_id> ;
+    skos:prefLabel "Homo sapiens"@de .
+
+<huftiere_id> a skos:Concept ;
+    skos:broader <säugetiere_id> ;
+    skos:inScheme <> ;
+    skos:narrower <paarhufer_id>,
+        <unpaarhufer_id> ;
+    skos:prefLabel "Huftiere"@de .
+
+<knorpelfische_id> a skos:Concept ;
+    skos:broader <fische_id> ;
+    skos:inScheme <> ;
+    skos:narrower <haifische_id>,
+        <rochen_id> ;
+    skos:prefLabel "Knorpelfische)"@de .
+
+<metamorphose_zoologie_id> a skos:Concept ;
+    skos:broader <fortpflanzung_id> ;
+    skos:inScheme <> ;
+    skos:narrower <larve_id>,
+        <puppe_biologie_id> ;
+    skos:prefLabel "Metamorphose (Zoologie)"@de .
+
+<mikrobiologie_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <mikroorganismus_id>,
+        <sterilität_keimfreiheit_id> ;
+    skos:prefLabel "Mikrobiologie"@de ;
+    skos:topConceptOf <> .
+
+<mäuse_id> a skos:Concept ;
+    skos:broader <nagetiere_id> ;
+    skos:inScheme <> ;
+    skos:narrower <waldmaus_id>,
+        <wühlmäuse_id> ;
+    skos:prefLabel "Mäuse"@de .
+
+<nahrungskette_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <fressfeind_id>,
+        <räuberbeuteprinzip_id> ;
+    skos:prefLabel "Nahrungskette"@de ;
+    skos:topConceptOf <> .
+
+<ohr_id> a skos:Concept ;
+    skos:broader <sinnesorgan_id> ;
+    skos:inScheme <> ;
+    skos:narrower <gehör_id>,
+        <gleichgewichtssinn_id> ;
+    skos:prefLabel "Ohr"@de .
+
+<paarhufer_id> a skos:Concept ;
+    skos:broader <huftiere_id> ;
+    skos:inScheme <> ;
+    skos:narrower <nichtwiederkäuer_id>,
+        <wiederkäuer_id> ;
+    skos:prefLabel "Paarhufer)"@de .
+
+<paläonthologie_id> a skos:Concept ;
+    skos:broader <evolution_id> ;
+    skos:inScheme <> ;
+    skos:narrower <fossil_id>,
+        <lebendes_fossil_id> ;
+    skos:prefLabel "Paläonthologie"@de .
+
+<parasitismus_id> a skos:Concept ;
+    skos:broader <wirt_biologie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <parasit_id>,
+        <schädling_id> ;
+    skos:prefLabel "Parasitismus"@de .
+
+<pilze_id> a skos:Concept ;
+    skos:broader <blütenlose_pflanzen_id> ;
+    skos:inScheme <> ;
+    skos:narrower <giftpilze_id>,
+        <schleimpilze_id> ;
+    skos:prefLabel "Pilze"@de .
+
+<rinder_id> a skos:Concept ;
+    skos:broader <wiederkäuer_id> ;
+    skos:inScheme <> ;
+    skos:narrower <büffel_id>,
+        <wisent_id> ;
+    skos:prefLabel "Rinder"@de .
+
+<ringelwürmer_id> a skos:Concept ;
+    skos:broader <würmer_id> ;
+    skos:inScheme <> ;
+    skos:narrower <regenwürmer_id>,
+        <wattwurm_id> ;
+    skos:prefLabel "Ringelwürmer"@de .
+
+<spinnentiere_id> a skos:Concept ;
+    skos:broader <gliederfüßer_id> ;
+    skos:inScheme <> ;
+    skos:narrower <kreuzspinnen_id>,
+        <milben_id> ;
+    skos:prefLabel "Spinnentiere"@de .
+
+<stelzvögel_id> a skos:Concept ;
+    skos:broader <vögel_id> ;
+    skos:inScheme <> ;
+    skos:narrower <flamingos_id>,
+        <störche_id> ;
+    skos:prefLabel "Stelzvögel"@de .
+
+<südfrucht_id> a skos:Concept ;
+    skos:broader <obst_id> ;
+    skos:inScheme <> ;
+    skos:narrower <ananas_id>,
+        <zitrusfrüchte_id> ;
+    skos:prefLabel "Südfrucht"@de .
+
+<tarnung_tiere_id> a skos:Concept ;
+    skos:broader <tier_id> ;
+    skos:inScheme <> ;
+    skos:narrower <mimese_id>,
+        <mimikry_id> ;
+    skos:prefLabel "Tarnung (Tiere)"@de .
+
+<tierschutz_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <nisthilfe_id>,
+        <tierversuche_id> ;
+    skos:prefLabel "Tierschutz"@de ;
+    skos:topConceptOf <> .
+
+<unpaarhufer_id> a skos:Concept ;
+    skos:broader <huftiere_id> ;
+    skos:inScheme <> ;
+    skos:narrower <nashörner_id>,
+        <pferde_id> ;
+    skos:prefLabel "Unpaarhufer"@de .
+
+<verhaltensforschung_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <mensch_id>,
+        <tier_id> ;
+    skos:prefLabel "Verhaltensforschung"@de ;
+    skos:topConceptOf <> .
+
+<ziegen_id> a skos:Concept ;
+    skos:broader <wiederkäuer_id> ;
+    skos:inScheme <> ;
+    skos:narrower <gämsen_id>,
+        <steinbock_id> ;
+    skos:prefLabel "Ziegen"@de .
+
+<zugvogel_id> a skos:Concept ;
+    skos:broader <vögel_id> ;
+    skos:inScheme <> ;
+    skos:narrower <kraniche_id>,
+        <vogelzug_id> ;
+    skos:prefLabel "Zugvogel"@de .
+
+<ökosystem_id> a skos:Concept ;
+    skos:broader <ökologie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <feuchtgebiet_id>,
+        <mangrove_ökosystem_id> ;
+    skos:prefLabel "Ökosystem"@de .
+
+<atmungsorgan_id> a skos:Concept ;
+    skos:broader <organ_id> ;
+    skos:inScheme <> ;
+    skos:narrower <atmung_id>,
+        <kiemen_id>,
+        <lunge_id> ;
+    skos:prefLabel "Atmungsorgan"@de .
+
+<ausscheidungsorgan_id> a skos:Concept ;
+    skos:broader <organ_id> ;
+    skos:inScheme <> ;
+    skos:narrower <darm_id>,
+        <harnorgan_id>,
+        <niere_id> ;
+    skos:prefLabel "Ausscheidungsorgan"@de .
+
+<baum_pflanze_id> a skos:Concept ;
+    skos:broader <botanik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <jahresring_id>,
+        <koniferen_id>,
+        <laubbaum_id> ;
+    skos:prefLabel "Baum (Pflanze)"@de .
+
+<befruchtung_id> a skos:Concept ;
+    skos:broader <fortpflanzung_id> ;
+    skos:inScheme <> ;
+    skos:narrower <bestäubung_id>,
+        <ei_id>,
+        <sperma_id> ;
+    skos:prefLabel "Befruchtung"@de .
+
+<bewegungssystem_id> a skos:Concept ;
+    skos:broader <anatomie_tier_id> ;
+    skos:inScheme <> ;
+    skos:narrower <fuß_id>,
+        <gelenk_id>,
+        <muskel_id> ;
+    skos:prefLabel "Bewegungssystem"@de .
+
+<biosphäre_id> a skos:Concept ;
+    skos:broader <biomasse_id> ;
+    skos:inScheme <> ;
+    skos:narrower <fauna_id>,
+        <flora_id>,
+        <ökologie_id> ;
+    skos:prefLabel "Biosphäre"@de .
+
+<blut_id> a skos:Concept ;
+    skos:broader <blutkreislauf_id> ;
+    skos:inScheme <> ;
+    skos:narrower <blutgerinnung_id>,
+        <blutgruppe_id>,
+        <blutzelle_id> ;
+    skos:prefLabel "Blut"@de .
+
+<chordatiere_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <lanzettfischchen_id>,
+        <manteltiere_id>,
+        <wirbeltiere_id> ;
+    skos:prefLabel "Chordatiere)"@de ;
+    skos:topConceptOf <> .
+
+<fossil_id> a skos:Concept ;
+    skos:broader <paläonthologie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <archaeopteryx_id>,
+        <mammuts_id>,
+        <saurier_id> ;
+    skos:prefLabel "Fossil"@de .
+
+<gliederfüßer_id> a skos:Concept ;
+    skos:broader <wirbellose_id> ;
+    skos:inScheme <> ;
+    skos:narrower <insekten_id>,
+        <krebstiere_id>,
+        <spinnentiere_id> ;
+    skos:prefLabel "Gliederfüßer"@de .
+
+<greifvögel_id> a skos:Concept ;
+    skos:broader <vögel_id> ;
+    skos:inScheme <> ;
+    skos:narrower <adler_biologie_id>,
+        <falken_id>,
+        <weihen_gattung_id> ;
+    skos:prefLabel "Greifvögel"@de .
+
+<humangenetik_id> a skos:Concept ;
+    skos:broader <genetik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <chromosom_id>,
+        <eugenik_id>,
+        <karyogramm_id> ;
+    skos:prefLabel "Humangenetik"@de .
+
+<hundeartige_id> a skos:Concept ;
+    skos:broader <raubtiere_id> ;
+    skos:inScheme <> ;
+    skos:narrower <füchse_id>,
+        <hunde_id>,
+        <wolf_id> ;
+    skos:prefLabel "Hundeartige)"@de .
+
+<insektenfresser_id> a skos:Concept ;
+    skos:broader <säugetiere_id> ;
+    skos:inScheme <> ;
+    skos:narrower <igel_id>,
+        <maulwürfe_id>,
+        <spitzmäuse_id> ;
+    skos:prefLabel "Insektenfresser"@de .
+
+<katzen_id> a skos:Concept ;
+    skos:broader <raubtiere_id> ;
+    skos:inScheme <> ;
+    skos:narrower <luchse_id>,
+        <löwen_id>,
+        <wildkatze_id> ;
+    skos:prefLabel "Katzen"@de .
+
+<kind_id> a skos:Concept ;
+    skos:broader <mensch_id> ;
+    skos:inScheme <> ;
+    skos:narrower <kleinkind_id>,
+        <körperbau_mensch_id>,
+        <säugling_id> ;
+    skos:prefLabel "Kind"@de .
+
+<nichtwiederkäuer_id> a skos:Concept ;
+    skos:broader <paarhufer_id> ;
+    skos:inScheme <> ;
+    skos:narrower <flusspferde_id>,
+        <schweine_id>,
+        <wildschweine_id> ;
+    skos:prefLabel "Nichtwiederkäuer)"@de .
+
+<pferde_id> a skos:Concept ;
+    skos:broader <unpaarhufer_id> ;
+    skos:inScheme <> ;
+    skos:narrower <vollblüter_id>,
+        <warmblüter_id>,
+        <wildpferd_id> ;
+    skos:prefLabel "Pferde"@de .
+
+<samen_pflanzen_id> a skos:Concept ;
+    skos:broader <bestäubung_id> ;
+    skos:inScheme <> ;
+    skos:narrower <nektar_id>,
+        <samenverbreitung_id>,
+        <windblütigkeit_id> ;
+    skos:prefLabel "Samen (Pflanzen)"@de .
+
+<vegetation_id> a skos:Concept ;
+    skos:broader <botanik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <stratifikation_id>,
+        <vegetationsstufe_id>,
+        <vegetationszonen_id> ;
+    skos:prefLabel "Vegetation"@de .
+
+<verdauungsorgan_id> a skos:Concept ;
+    skos:broader <organ_id> ;
+    skos:inScheme <> ;
+    skos:narrower <magen_id>,
+        <mund_id>,
+        <verdauung_id> ;
+    skos:prefLabel "Verdauungsorgan"@de .
+
+<weichtiere_id> a skos:Concept ;
+    skos:broader <wirbellose_id> ;
+    skos:inScheme <> ;
+    skos:narrower <muscheln_id>,
+        <schnecken_id>,
+        <tintenfische_id> ;
+    skos:prefLabel "Weichtiere"@de .
+
+<würmer_id> a skos:Concept ;
+    skos:broader <wirbellose_id> ;
+    skos:inScheme <> ;
+    skos:narrower <plattwürmer_id>,
+        <ringelwürmer_id>,
+        <rundwürmer_id> ;
+    skos:prefLabel "Würmer"@de .
+
+<bakterien_id> a skos:Concept ;
+    skos:broader <einzeller_id> ;
+    skos:inScheme <> ;
+    skos:narrower <bakteriophage_id>,
+        <knöllchenbakterien_id>,
+        <milchsäurebakterien_id>,
+        <plasmid_id> ;
+    skos:prefLabel "Bakterien"@de .
+
+<brutpflege_id> a skos:Concept ;
+    skos:broader <verhalten_tier_id> ;
+    skos:inScheme <> ;
+    skos:narrower <brutschmarotzer_id>,
+        <nest_id>,
+        <nestflüchter_id>,
+        <nesthocker_id> ;
+    skos:prefLabel "Brutpflege"@de .
+
+<ei_id> a skos:Concept ;
+    skos:broader <befruchtung_id> ;
+    skos:inScheme <> ;
+    skos:narrower <eiablage_id>,
+        <kokon_id>,
+        <menstruation_id>,
+        <ovulation_id> ;
+    skos:prefLabel "Ei"@de .
+
+<hautflügler_id> a skos:Concept ;
+    skos:broader <insekten_id> ;
+    skos:inScheme <> ;
+    skos:narrower <bienen_id>,
+        <hummeln_id>,
+        <schlupfwespen_id>,
+        <wespen_id> ;
+    skos:prefLabel "Hautflügler)"@de .
+
+<hormon_id> a skos:Concept ;
+    skos:broader <biochemie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <adrenalin_id>,
+        <gelbkörper_id>,
+        <geschlechtshormon_id>,
+        <insulin_id> ;
+    skos:prefLabel "Hormon"@de .
+
+<menschenaffen_id> a skos:Concept ;
+    skos:broader <affen_id> ;
+    skos:inScheme <> ;
+    skos:narrower <gorillas_id>,
+        <orangutans_id>,
+        <paviane_id>,
+        <schimpansen_id> ;
+    skos:prefLabel "Menschenaffen"@de .
+
+<schlangen_id> a skos:Concept ;
+    skos:broader <reptilien_id> ;
+    skos:inScheme <> ;
+    skos:narrower <kreuzotter_id>,
+        <ringelnattern_id>,
+        <vipern_id>,
+        <äskulapnatter_id> ;
+    skos:prefLabel "Schlangen"@de .
+
+<singvögel_id> a skos:Concept ;
+    skos:broader <vögel_id> ;
+    skos:inScheme <> ;
+    skos:narrower <amsel_id>,
+        <eisvögel_id>,
+        <rabenvögel_id>,
+        <uferschwalbe_id> ;
+    skos:prefLabel "Singvögel"@de .
+
+<skelett_id> a skos:Concept ;
+    skos:broader <anatomie_tier_id> ;
+    skos:inScheme <> ;
+    skos:narrower <chorda_id>,
+        <knochen_id>,
+        <schädel_id>,
+        <wirbelsäule_id> ;
+    skos:prefLabel "Skelett"@de .
+
+<wasservogel_id> a skos:Concept ;
+    skos:broader <vögel_id> ;
+    skos:inScheme <> ;
+    skos:narrower <lappentaucher_id>,
+        <möwen_id>,
+        <pinguine_id>,
+        <ruderfüßer_id> ;
+    skos:prefLabel "Wasservogel"@de .
+
+<züchtung_id> a skos:Concept ;
+    skos:broader <genetik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <gestüt_id>,
+        <kreuzung_biologie_id>,
+        <muschelzucht_id>,
+        <pflanzenzüchtung_id> ;
+    skos:prefLabel "Züchtung"@de .
+
+<artenschutz_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <bedrohte_pflanzenart_id>,
+        <bedrohte_tierart_id>,
+        <rote_liste_id>,
+        <totholz_id>,
+        <vogelschutz_id> ;
+    skos:prefLabel "Artenschutz"@de ;
+    skos:topConceptOf <> .
+
+<blütenlose_pflanzen_id> a skos:Concept ;
+    skos:broader <botanik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <algen_id>,
+        <flechten_id>,
+        <moose_id>,
+        <pilze_id>,
+        <queller_id> ;
+    skos:prefLabel "Blütenlose Pflanzen"@de .
+
+<instinkt_id> a skos:Concept ;
+    skos:broader <tier_id> ;
+    skos:inScheme <> ;
+    skos:narrower <aposematismus_id>,
+        <attrappenversuch_id>,
+        <kasparhauserversuch_id>,
+        <konditionierung_id>,
+        <verhalten_tier_id> ;
+    skos:prefLabel "Instinkt"@de .
+
+<mikroorganismus_id> a skos:Concept ;
+    skos:broader <mikrobiologie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <einzeller_id>,
+        <schimmelpilze_id>,
+        <spore_id>,
+        <trichoplax_id>,
+        <vielzeller_id> ;
+    skos:prefLabel "Mikroorganismus"@de .
+
+<nagetiere_id> a skos:Concept ;
+    skos:broader <säugetiere_id> ;
+    skos:inScheme <> ;
+    skos:narrower <biber_id>,
+        <bilche_id>,
+        <eichhörnchen_id>,
+        <murmeltiere_id>,
+        <mäuse_id> ;
+    skos:prefLabel "Nagetiere"@de .
+
+<obst_id> a skos:Concept ;
+    skos:broader <botanik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <bananen_id>,
+        <beere_id>,
+        <kirsche_id>,
+        <südfrucht_id>,
+        <äpfel_id> ;
+    skos:prefLabel "Obst"@de .
+
+<reptilien_id> a skos:Concept ;
+    skos:broader <wirbeltiere_id> ;
+    skos:inScheme <> ;
+    skos:narrower <eidechsen_id>,
+        <krokodile_id>,
+        <schildkröten_id>,
+        <schlangen_id>,
+        <schuppenkriechtiere_id> ;
+    skos:prefLabel "Reptilien"@de .
+
+<wirbellose_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <gliederfüßer_id>,
+        <hohltiere_id>,
+        <schwämme_id>,
+        <weichtiere_id>,
+        <würmer_id> ;
+    skos:prefLabel "Wirbellose"@de ;
+    skos:topConceptOf <> .
+
+<wirbeltiere_id> a skos:Concept ;
+    skos:broader <chordatiere_id> ;
+    skos:inScheme <> ;
+    skos:narrower <fische_id>,
+        <lurche_id>,
+        <reptilien_id>,
+        <säugetiere_id>,
+        <vögel_id> ;
+    skos:prefLabel "Wirbeltiere"@de .
+
+<blutkreislauf_id> a skos:Concept ;
+    skos:broader <anatomie_tier_id> ;
+    skos:inScheme <> ;
+    skos:narrower <blut_id>,
+        <blutdruck_id>,
+        <blutgefäß_id>,
+        <drüse_id>,
+        <hirnanhangdrüse_id>,
+        <leber_id> ;
+    skos:prefLabel "Blutkreislauf"@de .
+
+<einzeller_id> a skos:Concept ;
+    skos:broader <mikroorganismus_id> ;
+    skos:inScheme <> ;
+    skos:narrower <amöben_id>,
+        <bakterien_id>,
+        <hefe_id>,
+        <trypanosomen_id>,
+        <wimpertierchen_id>,
+        <zellkolonie_id> ;
+    skos:prefLabel "Einzeller"@de .
+
+<nervensystem_id> a skos:Concept ;
+    skos:broader <neurobiologie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <gehirn_id>,
+        <nervenzelle_id>,
+        <neuronale_plastizität_id>,
+        <neurotransmitter_id>,
+        <rückenmark_id>,
+        <synapse_id> ;
+    skos:prefLabel "Nervensystem"@de .
+
+<pflanzenmorphologie_id> a skos:Concept ;
+    skos:broader <pflanzen_id> ;
+    skos:inScheme <> ;
+    skos:narrower <blatt_pflanze_id>,
+        <blüte_id>,
+        <frucht_id>,
+        <knolle_id>,
+        <leitgewebe_id>,
+        <wurzel_biologie_id> ;
+    skos:prefLabel "Pflanzenmorphologie"@de .
+
+<raubtiere_id> a skos:Concept ;
+    skos:broader <säugetiere_id> ;
+    skos:inScheme <> ;
+    skos:narrower <bären_id>,
+        <hundeartige_id>,
+        <katzen_id>,
+        <marder_id>,
+        <robben_id>,
+        <skunks_id> ;
+    skos:prefLabel "Raubtiere"@de .
+
+<sinnesorgan_id> a skos:Concept ;
+    skos:broader <organ_id> ;
+    skos:inScheme <> ;
+    skos:narrower <geschmackssinn_id>,
+        <haut_id>,
+        <lichtsinnesorgan_id>,
+        <nase_sinnesorgan_id>,
+        <ohr_id>,
+        <tastsinn_id> ;
+    skos:prefLabel "Sinnesorgan"@de .
+
+<zelle_biologie_id> a skos:Concept ;
+    skos:broader <zytologie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <kernteilung_zelle_id>,
+        <plasma_zelle_id>,
+        <ribonukleinsäure_id>,
+        <ribosom_id>,
+        <vakuole_id>,
+        <zellteilung_id> ;
+    skos:prefLabel "Zelle (Biologie)"@de .
+
+<getreide_id> a skos:Concept ;
+    skos:broader <nutzpflanze_id> ;
+    skos:inScheme <> ;
+    skos:narrower <gerste_id>,
+        <hafer_id>,
+        <hirse_id>,
+        <mais_id>,
+        <reis_id>,
+        <roggen_id>,
+        <weizen_id> ;
+    skos:prefLabel "Getreide"@de .
+
+<käfer_id> a skos:Concept ;
+    skos:broader <insekten_id> ;
+    skos:inScheme <> ;
+    skos:narrower <borkenkäfer_id>,
+        <gelbrandkäfer_id>,
+        <glühwürmchen_id>,
+        <hirschkäfer_id>,
+        <kartoffelkäfer_id>,
+        <maikäfer_id>,
+        <marienkäfer_id> ;
+    skos:prefLabel "Käfer"@de .
+
+<ökologie_id> a skos:Concept ;
+    skos:broader <biosphäre_id> ;
+    skos:inScheme <> ;
+    skos:narrower <destruent_id>,
+        <konsument_ökologie_id>,
+        <lebensraum_id>,
+        <produzent_ökologie_id>,
+        <tragfähigkeit_ökologie_id>,
+        <ökologische_nische_id>,
+        <ökosystem_id> ;
+    skos:prefLabel "Ökologie"@de .
+
+<genetik_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <genetischer_fingerabdruck_id>,
+        <gentechnologie_id>,
+        <humangenetik_id>,
+        <mendelsche_regeln_id>,
+        <mutation_id>,
+        <replikation_id>,
+        <vererbung_id>,
+        <züchtung_id> ;
+    skos:prefLabel "Genetik"@de ;
+    skos:topConceptOf <> .
+
+<organ_id> a skos:Concept ;
+    skos:broader <anatomie_tier_id> ;
+    skos:inScheme <> ;
+    skos:narrower <atmungsorgan_id>,
+        <ausscheidungsorgan_id>,
+        <geschlechtsorgan_mensch_id>,
+        <haar_id>,
+        <reflex_id>,
+        <sinnesorgan_id>,
+        <verdauungsorgan_id>,
+        <zunge_biologie_id> ;
+    skos:prefLabel "Organ"@de .
+
+<leben_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <bestimmungsschlüssel_id>,
+        <kulturfolger_id>,
+        <lebenserwartung_id>,
+        <lebewesen_id>,
+        <ontogenese_id>,
+        <organismus_id>,
+        <populationsdynamik_id>,
+        <symbiose_id>,
+        <wachstum_biologie_id> ;
+    skos:prefLabel "Leben"@de ;
+    skos:topConceptOf <> .
+
+<pflanzen_id> a skos:Concept ;
+    skos:broader <botanik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <pflanzenbewegung_id>,
+        <pflanzengesellschaft_id>,
+        <pflanzenkrankheit_id>,
+        <pflanzenmorphologie_id>,
+        <pflanzenschnitt_id>,
+        <pflanzenschutz_gegen_krankheiten_id>,
+        <pflanzliche_anpassung_id>,
+        <photosynthese_id>,
+        <vegetationskegel_id> ;
+    skos:prefLabel "Pflanzen"@de .
+
+<wiederkäuer_id> a skos:Concept ;
+    skos:broader <paarhufer_id> ;
+    skos:inScheme <> ;
+    skos:narrower <antilopen_id>,
+        <giraffe_id>,
+        <hirsche_id>,
+        <kamele_id>,
+        <lamas_id>,
+        <moschusochse_id>,
+        <rinder_id>,
+        <schafe_id>,
+        <ziegen_id> ;
+    skos:prefLabel "Wiederkäuer"@de .
+
+<evolution_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <artenvielfalt_id>,
+        <australopithecus_id>,
+        <evolutionstheorie_id>,
+        <homo_erectus_id>,
+        <homo_ergaster_id>,
+        <homo_habilis_id>,
+        <homo_sapiens_id>,
+        <homologie_biologie_id>,
+        <jäger_und_sammler_id>,
+        <paläonthologie_id> ;
+    skos:prefLabel "Evolution"@de ;
+    skos:topConceptOf <> .
+
+<verhalten_tier_id> a skos:Concept ;
+    skos:broader <instinkt_id> ;
+    skos:inScheme <> ;
+    skos:narrower <beutefang_id>,
+        <brutfürsorge_id>,
+        <brutpflege_id>,
+        <duftstoff_id>,
+        <imponiergehabe_id>,
+        <insektenstaat_id>,
+        <paarungsverhalten_id>,
+        <rangordnung_id>,
+        <revier_tier_id>,
+        <schlüsselreiz_id> ;
+    skos:prefLabel "Verhalten (Tier)"@de .
+
+<fische_id> a skos:Concept ;
+    skos:broader <wirbeltiere_id> ;
+    skos:inScheme <> ;
+    skos:narrower <brachse_id>,
+        <forellen_id>,
+        <hechte_id>,
+        <karpfen_id>,
+        <knorpelfische_id>,
+        <lachse_id>,
+        <lungenfische_id>,
+        <quastenflosser_id>,
+        <stichlinge_id>,
+        <welse_id>,
+        <äschen_id> ;
+    skos:prefLabel "Fische"@de .
+
+<anatomie_tier_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <bewegungssystem_id>,
+        <blutkreislauf_id>,
+        <feder_gefieder_id>,
+        <fell_id>,
+        <gebiss_id>,
+        <immunsystem_id>,
+        <kehlkopf_id>,
+        <lymphsystem_id>,
+        <nagel_anatomie_id>,
+        <organ_id>,
+        <rudiment_id>,
+        <schleimhaut_id>,
+        <skelett_id> ;
+    skos:prefLabel "Anatomie (Tier)"@de ;
+    skos:topConceptOf <> .
+
+<fortpflanzung_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <befruchtung_id>,
+        <chimäre_mischwesen_id>,
+        <embryonalentwicklung_id>,
+        <fruchtbarkeit_id>,
+        <generationswechsel_fortpflanzung_id>,
+        <keimesentwicklung_id>,
+        <keimung_id>,
+        <künstliche_befruchtung_id>,
+        <metamorphose_zoologie_id>,
+        <schlüpfen_id>,
+        <schwangerschaft_id>,
+        <wechseljahre_id>,
+        <zwitter_id> ;
+    skos:prefLabel "Fortpflanzung"@de ;
+    skos:topConceptOf <> .
+
+<mensch_id> a skos:Concept ;
+    skos:broader <verhaltensforschung_id> ;
+    skos:inScheme <> ;
+    skos:narrower <denken_id>,
+        <frau_id>,
+        <gesicht_id>,
+        <intelligenz_id>,
+        <jugendlicher_id>,
+        <junge_id>,
+        <kind_id>,
+        <mann_id>,
+        <mädchen_id>,
+        <reifungsprozess_mensch_id>,
+        <sexualität_id>,
+        <sprachentwicklung_kind_id>,
+        <wahrnehmung_sinnesorgan_id>,
+        <zwillinge_biologie_id> ;
+    skos:prefLabel "Mensch"@de .
+
+<säugetiere_id> a skos:Concept ;
+    skos:broader <wirbeltiere_id> ;
+    skos:inScheme <> ;
+    skos:narrower <beuteltiere_id>,
+        <flattertiere_id>,
+        <gürteltiere_id>,
+        <hasenartige_id>,
+        <huftiere_id>,
+        <insektenfresser_id>,
+        <meeressäuger_id>,
+        <nagetiere_id>,
+        <primaten_id>,
+        <raubtiere_id>,
+        <rüsseltiere_id>,
+        <schnabeltiere_id>,
+        <sohlengänger_id>,
+        <zahnarme_id> ;
+    skos:prefLabel "Säugetiere"@de .
+
+<biochemie_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <aminosäuren_id>,
+        <biosynthese_id>,
+        <diffusion_id>,
+        <eiweiß_id>,
+        <fette_id>,
+        <hormon_id>,
+        <kohlenhydrate_id>,
+        <osmose_id>,
+        <primärstruktur_id>,
+        <regelkreis_biologie_id>,
+        <reizaufnahme_id>,
+        <resistenz_id>,
+        <resorption_id>,
+        <sekundärstruktur_id>,
+        <stoffwechsel_id>,
+        <tertiärstruktur_id> ;
+    skos:prefLabel "Biochemie"@de ;
+    skos:topConceptOf <> .
+
+<vögel_id> a skos:Concept ;
+    skos:broader <wirbeltiere_id> ;
+    skos:inScheme <> ;
+    skos:narrower <entenvögel_id>,
+        <eulenvögel_id>,
+        <greifvögel_id>,
+        <hühnervögel_id>,
+        <kuckucke_id>,
+        <laufvögel_id>,
+        <papageien_id>,
+        <schwarmvögel_id>,
+        <segler_vögel_id>,
+        <singvögel_id>,
+        <spechte_id>,
+        <stelzvögel_id>,
+        <wasservogel_id>,
+        <watvögel_id>,
+        <ziegenmelker_id>,
+        <zugvogel_id> ;
+    skos:prefLabel "Vögel"@de .
+
+<insekten_id> a skos:Concept ;
+    skos:broader <gliederfüßer_id> ;
+    skos:inScheme <> ;
+    skos:narrower <ameisen_id>,
+        <blattläuse_id>,
+        <fliegen_insekten_id>,
+        <florfliegen_id>,
+        <flöhe_id>,
+        <gottesanbeterinnen_id>,
+        <hautflügler_id>,
+        <heuschrecken_id>,
+        <käfer_id>,
+        <libellen_id>,
+        <läuse_id>,
+        <mücken_id>,
+        <ohrwürmer_id>,
+        <schaben_id>,
+        <schmetterlinge_id>,
+        <termiten_id>,
+        <wanzen_id>,
+        <wasserinsekten_id> ;
+    skos:prefLabel "Insekten"@de .
+
+<tier_id> a skos:Concept ;
+    skos:broader <verhaltensforschung_id> ;
+    skos:inScheme <> ;
+    skos:narrower <aasfresser_id>,
+        <herde_id>,
+        <häutung_id>,
+        <instinkt_id>,
+        <jungtier_id>,
+        <körperbau_tier_id>,
+        <nahrung_tier_pflanze_id>,
+        <nahrungsaufnahme_tiere_pflanzen_id>,
+        <orientierung_tiere_id>,
+        <reifungsprozess_tier_id>,
+        <selektion_id>,
+        <tarnung_tiere_id>,
+        <tiersprache_id>,
+        <tierwanderung_id>,
+        <vogelflug_id>,
+        <winterschlaf_id>,
+        <winterstarre_id>,
+        <überwinterung_id> ;
+    skos:prefLabel "Tier"@de .
+
+<nutzpflanze_id> a skos:Concept ;
+    skos:broader <botanik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <baumwolle_id>,
+        <butterbaum_id>,
+        <cashewnuss_id>,
+        <getreide_id>,
+        <gewürzpflanze_id>,
+        <holunder_id>,
+        <hopfen_id>,
+        <hülsenfrüchte_id>,
+        <kaffee_id>,
+        <kakao_id>,
+        <kartoffel_id>,
+        <kautschuk_id>,
+        <kohl_id>,
+        <kürbis_id>,
+        <maniok_id>,
+        <tabak_id>,
+        <tee_id>,
+        <tomaten_id>,
+        <zuckerrohr_id>,
+        <zuckerrübe_id>,
+        <ölpflanze_id> ;
+    skos:prefLabel "Nutzpflanze"@de .
+
+<botanik_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <baum_pflanze_id>,
+        <blütenlose_pflanzen_id>,
+        <blütenpflanzen_id>,
+        <fleisch_fressende_pflanzen_id>,
+        <frühblüher_id>,
+        <gebirgspflanzen_id>,
+        <giftpflanzen_id>,
+        <kletterpflanze_id>,
+        <nutzpflanze_id>,
+        <obst_id>,
+        <pflanzen_id>,
+        <pionierpflanze_id>,
+        <stauden_id>,
+        <strauch_id>,
+        <sumpfpflanze_id>,
+        <trockenrasen_id>,
+        <vegetation_id>,
+        <waldpflanze_id>,
+        <wasserpflanzen_id>,
+        <wildpflanze_id>,
+        <xerophyten_id>,
+        <zeigerpflanze_id>,
+        <zierpflanze_id>,
+        <zwiebelpflanzen_id> ;
+    skos:prefLabel "Botanik"@de ;
+    skos:topConceptOf <> .
+
+<blütenpflanzen_id> a skos:Concept ;
+    skos:broader <botanik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <akazien_id>,
+        <aronstab_id>,
+        <baobab_id>,
+        <buchen_id>,
+        <doldenblütler_id>,
+        <eichen_id>,
+        <farnpflanzen_id>,
+        <flachs_id>,
+        <ginkgogewächse_id>,
+        <gräser_id>,
+        <hahnenfußgewächse_id>,
+        <haselnussgewächse_id>,
+        <kakteen_id>,
+        <kiefern_id>,
+        <korbblütler_id>,
+        <kreuzblütler_id>,
+        <liliengewächse_id>,
+        <lippenblütler_id>,
+        <misteln_id>,
+        <orchideen_id>,
+        <palme_id>,
+        <primeln_id>,
+        <rosen_id>,
+        <schmetterlingsblütler_id>,
+        <schwertliliengewächse_id>,
+        <springkräuter_id>,
+        <tannen_id>,
+        <weiden_gattung_id>,
+        <yams_id> ;
+    skos:prefLabel "Blütenpflanzen"@de .
+
+<> a skos:ConceptScheme ;
+    dct:creator "<https://creator.com>" ;
+    dct:description "biologie_systematik"@de ;
+    dct:title "biologie_systematik"@de ;
+    skos:hasTopConcept <anatomie_mensch_id>,
+        <anatomie_tier_id>,
+        <artenschutz_id>,
+        <automatismus_id>,
+        <biochemie_id>,
+        <biodiversität_id>,
+        <biologie_id>,
+        <biomasse_id>,
+        <biomechanik_id>,
+        <biotechnologie_id>,
+        <botanik_id>,
+        <chordatiere_id>,
+        <elektrophysiologie_id>,
+        <evolution_id>,
+        <forscher__biologen_id>,
+        <fortpflanzung_id>,
+        <genetik_id>,
+        <gift_id>,
+        <histologie_id>,
+        <konvergenz_bio_id>,
+        <leben_id>,
+        <mikrobiologie_id>,
+        <modifikation_id>,
+        <nahrungskette_id>,
+        <natur_id>,
+        <neobiota_id>,
+        <neurobiologie_id>,
+        <nährstoffkreislauf_id>,
+        <physiologie_id>,
+        <plankton_id>,
+        <regeneration_biologie_id>,
+        <selbstreinigung_id>,
+        <stachelhäuter_id>,
+        <stickstoffkreislauf_id>,
+        <tierschutz_id>,
+        <variabilität_id>,
+        <verhaltensforschung_id>,
+        <waldfunktion_id>,
+        <wallacea_id>,
+        <wildtiermanagement_id>,
+        <wirbellose_id>,
+        <wirt_biologie_id>,
+        <zytologie_id> .
+

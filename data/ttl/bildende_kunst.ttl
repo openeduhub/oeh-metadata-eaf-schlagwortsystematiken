@@ -1,0 +1,369 @@
+@base <https://example-perma-id/bildende_kunst_systematik/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<afrikanische_kunst_id> a skos:Concept ;
+    skos:broader <kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Afrikanische Kunst"@de .
+
+<aktionskunst_id> a skos:Concept ;
+    skos:broader <moderne_kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Aktionskunst"@de .
+
+<allegorie_id> a skos:Concept ;
+    skos:broader <kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Allegorie"@de .
+
+<barock_id> a skos:Concept ;
+    skos:broader <kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Barock"@de .
+
+<biedermeier_id> a skos:Concept ;
+    skos:broader <kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Biedermeier"@de .
+
+<bildbeschreibung_id> a skos:Concept ;
+    skos:broader <kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bildbeschreibung"@de .
+
+<bilderrahmen_id> a skos:Concept ;
+    skos:broader <kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bilderrahmen"@de .
+
+<byzantinische_kunst_id> a skos:Concept ;
+    skos:broader <kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Byzantinische Kunst"@de .
+
+<chinesische_kunst_id> a skos:Concept ;
+    skos:broader <kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Chinesische Kunst"@de .
+
+<christliche_kunst_id> a skos:Concept ;
+    skos:broader <kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Christliche Kunst"@de .
+
+<collage_id> a skos:Concept ;
+    skos:broader <kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Collage"@de .
+
+<dadaismus_id> a skos:Concept ;
+    skos:broader <moderne_kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Dadaismus"@de .
+
+<dekor_id> a skos:Concept ;
+    skos:broader <kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Dekor"@de .
+
+<design_id> a skos:Concept ;
+    skos:broader <kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Design"@de .
+
+<deutsche_kunst_id> a skos:Concept ;
+    skos:broader <kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Deutsche Kunst"@de .
+
+<entartete_kunst_id> a skos:Concept ;
+    skos:broader <moderne_kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Entartete Kunst"@de .
+
+<farbmittel_id> a skos:Concept ;
+    skos:broader <kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Farbmittel"@de .
+
+<farbwirkung_id> a skos:Concept ;
+    skos:broader <kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Farbwirkung"@de .
+
+<frauenkunst_id> a skos:Concept ;
+    skos:broader <kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Frauenkunst"@de .
+
+<frühchristliche_kunst_id> a skos:Concept ;
+    skos:broader <kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Frühchristliche Kunst"@de .
+
+<futurismus_id> a skos:Concept ;
+    skos:broader <moderne_kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Futurismus"@de .
+
+<gegenwartskunst_id> a skos:Concept ;
+    skos:broader <moderne_kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gegenwartskunst"@de .
+
+<goldschmiedekunst_id> a skos:Concept ;
+    skos:broader <angewandte_kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Goldschmiedekunst"@de .
+
+<gotik_id> a skos:Concept ;
+    skos:broader <kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gotik"@de .
+
+<griechische_kunst_id> a skos:Concept ;
+    skos:broader <kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Griechische Kunst"@de .
+
+<historismus_stilrichtung_id> a skos:Concept ;
+    skos:broader <kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Historismus (Stilrichtung)"@de .
+
+<ikonographie_id> a skos:Concept ;
+    skos:broader <kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ikonographie"@de .
+
+<illustration_id> a skos:Concept ;
+    skos:broader <kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Illustration"@de .
+
+<jugendstil_id> a skos:Concept ;
+    skos:broader <kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Jugendstil"@de .
+
+<kitsch_id> a skos:Concept ;
+    skos:broader <kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kitsch"@de .
+
+<klassizismus_id> a skos:Concept ;
+    skos:broader <kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Klassizismus"@de .
+
+<komposition_bildende_kunst_id> a skos:Concept ;
+    skos:broader <kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Komposition (Bildende Kunst)"@de .
+
+<konstruktivismus_id> a skos:Concept ;
+    skos:broader <moderne_kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Konstruktivismus"@de .
+
+<kreativität_id> a skos:Concept ;
+    skos:broader <kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kreativität"@de .
+
+<lichtwirkung_id> a skos:Concept ;
+    skos:broader <kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lichtwirkung"@de .
+
+<manierismus_id> a skos:Concept ;
+    skos:broader <renaissance_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Manierismus"@de .
+
+<minimal_art_id> a skos:Concept ;
+    skos:broader <moderne_kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Minimal Art"@de .
+
+<motiv_kunst_id> a skos:Concept ;
+    skos:broader <kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Motiv (Kunst)"@de .
+
+<naturalismus_id> a skos:Concept ;
+    skos:broader <kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Naturalismus"@de .
+
+<neoimpressionismus_id> a skos:Concept ;
+    skos:broader <kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Neoimpressionismus"@de .
+
+<objektkunst_id> a skos:Concept ;
+    skos:broader <moderne_kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Objektkunst"@de .
+
+<op_art_id> a skos:Concept ;
+    skos:broader <moderne_kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Op Art"@de .
+
+<perspektive_kunst_id> a skos:Concept ;
+    skos:broader <kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Perspektive (Kunst)"@de .
+
+<pop_art_id> a skos:Concept ;
+    skos:broader <moderne_kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pop Art"@de .
+
+<prähistorische_kunst_id> a skos:Concept ;
+    skos:broader <kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Prähistorische Kunst"@de .
+
+<realismus_bildende_kunst_id> a skos:Concept ;
+    skos:broader <kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Realismus (Bildende Kunst)"@de .
+
+<rokoko_id> a skos:Concept ;
+    skos:broader <kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Rokoko"@de .
+
+<romanik_id> a skos:Concept ;
+    skos:broader <kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Romanik"@de .
+
+<romantik_bildende_kunst_id> a skos:Concept ;
+    skos:broader <kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Romantik (Bildende Kunst)"@de .
+
+<römische_kunst_id> a skos:Concept ;
+    skos:broader <kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Römische Kunst"@de .
+
+<symbolismus_id> a skos:Concept ;
+    skos:broader <kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Symbolismus"@de .
+
+<tachismus_id> a skos:Concept ;
+    skos:broader <moderne_kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tachismus"@de .
+
+<textilkunst_id> a skos:Concept ;
+    skos:broader <angewandte_kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Textilkunst"@de .
+
+<usamerikanische_kunst_id> a skos:Concept ;
+    skos:broader <kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "USamerikanische Kunst"@de .
+
+<viedeokunst_id> a skos:Concept ;
+    skos:broader <moderne_kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Viedeokunst"@de .
+
+<ägyptische_kunst_id> a skos:Concept ;
+    skos:broader <kunst_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ägyptische Kunst"@de .
+
+<renaissance_id> a skos:Concept ;
+    skos:broader <kunst_id> ;
+    skos:inScheme <> ;
+    skos:narrower <manierismus_id> ;
+    skos:prefLabel "Renaissance"@de .
+
+<angewandte_kunst_id> a skos:Concept ;
+    skos:broader <kunst_id> ;
+    skos:inScheme <> ;
+    skos:narrower <goldschmiedekunst_id>,
+        <textilkunst_id> ;
+    skos:prefLabel "Angewandte Kunst"@de .
+
+<moderne_kunst_id> a skos:Concept ;
+    skos:broader <kunst_id> ;
+    skos:inScheme <> ;
+    skos:narrower <aktionskunst_id>,
+        <dadaismus_id>,
+        <entartete_kunst_id>,
+        <futurismus_id>,
+        <gegenwartskunst_id>,
+        <konstruktivismus_id>,
+        <minimal_art_id>,
+        <objektkunst_id>,
+        <op_art_id>,
+        <pop_art_id>,
+        <tachismus_id>,
+        <viedeokunst_id> ;
+    skos:prefLabel "Moderne Kunst"@de .
+
+<kunst_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <afrikanische_kunst_id>,
+        <allegorie_id>,
+        <angewandte_kunst_id>,
+        <barock_id>,
+        <biedermeier_id>,
+        <bildbeschreibung_id>,
+        <bilderrahmen_id>,
+        <byzantinische_kunst_id>,
+        <chinesische_kunst_id>,
+        <christliche_kunst_id>,
+        <collage_id>,
+        <dekor_id>,
+        <design_id>,
+        <deutsche_kunst_id>,
+        <farbmittel_id>,
+        <farbwirkung_id>,
+        <frauenkunst_id>,
+        <frühchristliche_kunst_id>,
+        <gotik_id>,
+        <griechische_kunst_id>,
+        <historismus_stilrichtung_id>,
+        <ikonographie_id>,
+        <illustration_id>,
+        <jugendstil_id>,
+        <kitsch_id>,
+        <klassizismus_id>,
+        <komposition_bildende_kunst_id>,
+        <kreativität_id>,
+        <lichtwirkung_id>,
+        <moderne_kunst_id>,
+        <motiv_kunst_id>,
+        <naturalismus_id>,
+        <neoimpressionismus_id>,
+        <perspektive_kunst_id>,
+        <prähistorische_kunst_id>,
+        <realismus_bildende_kunst_id>,
+        <renaissance_id>,
+        <rokoko_id>,
+        <romanik_id>,
+        <romantik_bildende_kunst_id>,
+        <römische_kunst_id>,
+        <symbolismus_id>,
+        <usamerikanische_kunst_id>,
+        <ägyptische_kunst_id> ;
+    skos:prefLabel "Kunst"@de ;
+    skos:topConceptOf <> .
+
+<> a skos:ConceptScheme ;
+    dct:creator "<https://creator.com>" ;
+    dct:description "bildende_kunst_systematik"@de ;
+    dct:title "bildende_kunst_systematik"@de ;
+    skos:hasTopConcept <kunst_id> .
+

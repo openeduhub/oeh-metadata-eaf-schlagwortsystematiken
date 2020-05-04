@@ -1,0 +1,999 @@
+@base <https://example-perma-id/spieldok_systematik/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<abenteuerfilm_für_erwachsene_id> a skos:Concept ;
+    skos:broader <spielfilm_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Abenteuerfilm (für Erwachsene)"@de .
+
+<abenteuerfilm_für_jugendliche_id> a skos:Concept ;
+    skos:broader <spielfilm_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Abenteuerfilm (für Jugendliche)"@de .
+
+<abenteuerfilm_für_kinder_id> a skos:Concept ;
+    skos:broader <spielfilm_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Abenteuerfilm (für Kinder)"@de .
+
+<actionfilm_id> a skos:Concept ;
+    skos:broader <spielfilm_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Actionfilm"@de .
+
+<agentenfilm_id> a skos:Concept ;
+    skos:broader <spielfilm_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Agentenfilm"@de .
+
+<albers__hans_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Albers, Hans"@de ;
+    skos:topConceptOf <> .
+
+<allen__woody_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Allen, Woody"@de ;
+    skos:topConceptOf <> .
+
+<almodóvar__pedro_id> a skos:Concept ;
+    skos:broader <regie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Almodóvar, Pedro"@de .
+
+<antikriegsfilm_id> a skos:Concept ;
+    skos:broader <spielfilm_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Antikriegsfilm"@de .
+
+<arbuckle__fatty_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Arbuckle, Fatty"@de ;
+    skos:topConceptOf <> .
+
+<asterix_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Asterix"@de ;
+    skos:topConceptOf <> .
+
+<attenborough__richard_id> a skos:Concept ;
+    skos:broader <regie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Attenborough, Richard"@de .
+
+<avantgardefilm_id> a skos:Concept ;
+    skos:broader <spielfilm_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Avantgardefilm"@de .
+
+<barrault__jeanlouis_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Barrault, Jean-Louis"@de ;
+    skos:topConceptOf <> .
+
+<bartosch__brthold_id> a skos:Concept ;
+    skos:broader <regie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bartosch, Brthold"@de .
+
+<belmonde__jeanpaul_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Belmonde, Jean-Paul"@de ;
+    skos:topConceptOf <> .
+
+<bergfilm_id> a skos:Concept ;
+    skos:broader <dokumentarfilm_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bergfilm"@de .
+
+<bergman__ingmar_id> a skos:Concept ;
+    skos:broader <regie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bergman, Ingmar"@de .
+
+<bergman__ingrid_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bergman, Ingrid"@de ;
+    skos:topConceptOf <> .
+
+<bilderbuchverfilmung_id> a skos:Concept ;
+    skos:broader <literaturverfilmung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bilderbuchverfilmung"@de .
+
+<bogart__humphrey_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bogart, Humphrey"@de ;
+    skos:topConceptOf <> .
+
+<burton__richard_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Burton, Richard"@de ;
+    skos:topConceptOf <> .
+
+<busch__ernst_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Busch, Ernst"@de ;
+    skos:topConceptOf <> .
+
+<chaplin__charlie_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Chaplin, Charlie"@de ;
+    skos:topConceptOf <> .
+
+<cleve__bastian_id> a skos:Concept ;
+    skos:broader <regie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Cleve, Bastian"@de .
+
+<connery__sean_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Connery, Sean"@de ;
+    skos:topConceptOf <> .
+
+<cooper__gary_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Cooper, Gary"@de ;
+    skos:topConceptOf <> .
+
+<costner__kevin_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Costner, Kevin"@de ;
+    skos:topConceptOf <> .
+
+<courteline__georges_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Courteline, Georges"@de ;
+    skos:topConceptOf <> .
+
+<cürlis__hans__id> a skos:Concept ;
+    skos:broader <regie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Cürlis, Hans "@de .
+
+<dean__james_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Dean, James"@de ;
+    skos:topConceptOf <> .
+
+<deutsch__ernst_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Deutsch, Ernst"@de ;
+    skos:topConceptOf <> .
+
+<dietrich__marlene_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Dietrich, Marlene"@de ;
+    skos:topConceptOf <> .
+
+<disney__walt_id> a skos:Concept ;
+    skos:broader <regie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Disney, Walt"@de .
+
+<drama_spielfilm_id> a skos:Concept ;
+    skos:broader <spielfilm_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Drama (Spielfilm)"@de .
+
+<eisenstein__sergej_id> a skos:Concept ;
+    skos:broader <regie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Eisenstein, Sergej"@de .
+
+<erhardt__heinz_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Erhardt, Heinz"@de ;
+    skos:topConceptOf <> .
+
+<erotik_id> a skos:Concept ;
+    skos:broader <spielfilm_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Erotik"@de .
+
+<familienfilm_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Familienfilm"@de ;
+    skos:topConceptOf <> .
+
+<fantasyfilm_id> a skos:Concept ;
+    skos:broader <spielfilm_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "FantasyFilm"@de .
+
+<fellini__federico_id> a skos:Concept ;
+    skos:broader <regie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fellini, Federico"@de .
+
+<filmdokument_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Filmdokument"@de ;
+    skos:topConceptOf <> .
+
+<filmklassiker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Filmklassiker"@de ;
+    skos:topConceptOf <> .
+
+<filmlexikon_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Filmlexikon"@de ;
+    skos:topConceptOf <> .
+
+<finck__werner_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Finck, Werner"@de ;
+    skos:topConceptOf <> .
+
+<ford__john_id> a skos:Concept ;
+    skos:broader <regie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ford, John"@de .
+
+<funès__louis_de_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Funès, Louis de"@de ;
+    skos:topConceptOf <> .
+
+<george__heinrich_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "George, Heinrich"@de ;
+    skos:topConceptOf <> .
+
+<giehse__therese_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Giehse, Therese"@de ;
+    skos:topConceptOf <> .
+
+<godard__jeanluc_id> a skos:Concept ;
+    skos:broader <regie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Godard, JeanLuc"@de .
+
+<gottschlak__joachim_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gottschlak, Joachim"@de ;
+    skos:topConceptOf <> .
+
+<gründgens__gustaf_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gründgens, Gustaf"@de ;
+    skos:topConceptOf <> .
+
+<guiness__alec_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Guiness, Alec"@de ;
+    skos:topConceptOf <> .
+
+<görner__lutz_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Görner, Lutz"@de ;
+    skos:topConceptOf <> .
+
+<haanstra__bert_id> a skos:Concept ;
+    skos:broader <regie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Haanstra, Bert"@de .
+
+<hanks__tom_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hanks, Tom"@de ;
+    skos:topConceptOf <> .
+
+<hardy__oliver_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hardy, Oliver"@de ;
+    skos:topConceptOf <> .
+
+<heimatfilm_id> a skos:Concept ;
+    skos:broader <spielfilm_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Heimatfilm"@de .
+
+<hepburn__katharine_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hepburn, Katharine"@de ;
+    skos:topConceptOf <> .
+
+<hermann__oliver_id> a skos:Concept ;
+    skos:broader <regie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hermann, Oliver"@de .
+
+<herzog__werner_regisseur_id> a skos:Concept ;
+    skos:broader <regie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Herzog, Werner (Regisseur)"@de .
+
+<historienfilm_id> a skos:Concept ;
+    skos:broader <spielfilm_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Historienfilm"@de .
+
+<hitchcock__alfred_id> a skos:Concept ;
+    skos:broader <regie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hitchcock, Alfred"@de .
+
+<hoffman__dustin_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hoffman, Dustin"@de ;
+    skos:topConceptOf <> .
+
+<horrorfilm_id> a skos:Concept ;
+    skos:broader <spielfilm_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Horrorfilm"@de .
+
+<hörbiger__paul_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hörbiger, Paul"@de ;
+    skos:topConceptOf <> .
+
+<james_bond_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "James Bond"@de ;
+    skos:topConceptOf <> .
+
+<jannings__emil_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Jannings, Emil"@de ;
+    skos:topConceptOf <> .
+
+<jugendfilm_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Jugendfilm"@de ;
+    skos:topConceptOf <> .
+
+<karstadt__liesl_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Karstadt, Liesl"@de ;
+    skos:topConceptOf <> .
+
+<katastrophenfilm_id> a skos:Concept ;
+    skos:broader <spielfilm_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Katastrophenfilm"@de .
+
+<keaton__buster_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Keaton, Buster"@de ;
+    skos:topConceptOf <> .
+
+<kelly__grace_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kelly, Grace"@de ;
+    skos:topConceptOf <> .
+
+<kinderbuchverfilmung_id> a skos:Concept ;
+    skos:broader <literaturverfilmung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kinderbuchverfilmung"@de .
+
+<kinderfilm_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kinderfilm"@de ;
+    skos:topConceptOf <> .
+
+<knettrickfilm_id> a skos:Concept ;
+    skos:broader <trickfilm_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Knettrickfilm"@de .
+
+<koepp__volker_id> a skos:Concept ;
+    skos:broader <regie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Koepp, Volker"@de .
+
+<kortner__fritz_id> a skos:Concept ;
+    skos:broader <regie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kortner, Fritz"@de .
+
+<krauß__werner_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Krauß, Werner"@de ;
+    skos:topConceptOf <> .
+
+<kriegsfilm_id> a skos:Concept ;
+    skos:broader <spielfilm_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kriegsfilm"@de .
+
+<kriminalfilm_für_erwachsene_id> a skos:Concept ;
+    skos:broader <spielfilm_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kriminalfilm (für Erwachsene)"@de .
+
+<kriminalfilm_für_jugendliche_id> a skos:Concept ;
+    skos:broader <spielfilm_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kriminalfilm (für Jugendliche)"@de .
+
+<kriminalfilm_für_kinder_id> a skos:Concept ;
+    skos:broader <spielfilm_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kriminalfilm (für Kinder)"@de .
+
+<kurzspielfilm_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kurzspielfilm"@de ;
+    skos:topConceptOf <> .
+
+<käutner__helmut_id> a skos:Concept ;
+    skos:broader <regie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Käutner, Helmut"@de .
+
+<lang__fritz_id> a skos:Concept ;
+    skos:broader <regie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lang, Fritz"@de .
+
+<laughton__charles_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Laughton, Charles"@de ;
+    skos:topConceptOf <> .
+
+<laurel__stan_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Laurel, Stan"@de ;
+    skos:topConceptOf <> .
+
+<lewis__jerry_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lewis, Jerry"@de ;
+    skos:topConceptOf <> .
+
+<liebesfilm_id> a skos:Concept ;
+    skos:broader <spielfilm_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Liebesfilm"@de .
+
+<lloyd__harold_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lloyd, Harold"@de ;
+    skos:topConceptOf <> .
+
+<luft__friedrich_id> a skos:Concept ;
+    skos:broader <regie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Luft, Friedrich"@de .
+
+<malle__louis_id> a skos:Concept ;
+    skos:broader <regie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Malle, Louis"@de .
+
+<manger__jürgen_von_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Manger, Jürgen von"@de ;
+    skos:topConceptOf <> .
+
+<mclaren__norman_id> a skos:Concept ;
+    skos:broader <regie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "McLaren, Norman"@de .
+
+<melodrama_id> a skos:Concept ;
+    skos:broader <spielfilm_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Melodrama"@de .
+
+<meysel__inge_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Meysel, Inge"@de ;
+    skos:topConceptOf <> .
+
+<meßter__oskar_id> a skos:Concept ;
+    skos:broader <regie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Meßter, Oskar"@de .
+
+<mickey_mouse_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mickey Mouse"@de ;
+    skos:topConceptOf <> .
+
+<monroe__marilyn_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Monroe, Marilyn"@de ;
+    skos:topConceptOf <> .
+
+<montand__yves_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Montand, Yves"@de ;
+    skos:topConceptOf <> .
+
+<monumentalfilm_id> a skos:Concept ;
+    skos:broader <spielfilm_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Monumentalfilm"@de .
+
+<musikfilm_id> a skos:Concept ;
+    skos:broader <spielfilm_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Musikfilm"@de .
+
+<märchenfilm_id> a skos:Concept ;
+    skos:broader <literaturverfilmung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Märchenfilm"@de .
+
+<nekes__werner_id> a skos:Concept ;
+    skos:broader <regie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Nekes, Werner"@de .
+
+<neuss__wolfgang_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Neuss, Wolfgang"@de ;
+    skos:topConceptOf <> .
+
+<pan_tau_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pan Tau"@de ;
+    skos:topConceptOf <> .
+
+<pasolini__pier_paolo_id> a skos:Concept ;
+    skos:broader <regie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pasolini, Pier Paolo"@de .
+
+<penn__sean_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Penn, Sean"@de ;
+    skos:topConceptOf <> .
+
+<pfeiffer__michelle_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pfeiffer, Michelle"@de ;
+    skos:topConceptOf <> .
+
+<polanski__roman_id> a skos:Concept ;
+    skos:broader <regie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Polanski, Roman"@de .
+
+<politthriller_id> a skos:Concept ;
+    skos:broader <thriller_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Politthriller"@de .
+
+<polt__gerhard_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Polt, Gerhard"@de ;
+    skos:topConceptOf <> .
+
+<propagandafilm_id> a skos:Concept ;
+    skos:broader <spielfilm_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Propagandafilm"@de .
+
+<puppentrickfilm_id> a skos:Concept ;
+    skos:broader <trickfilm_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Puppentrickfilm"@de .
+
+<quadflieg__will_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Quadflieg, Will"@de ;
+    skos:topConceptOf <> .
+
+<raimund__ferdinand_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Raimund, Ferdinand"@de ;
+    skos:topConceptOf <> .
+
+<reichert__willy_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Reichert, Willy"@de ;
+    skos:topConceptOf <> .
+
+<reininger__lotte_id> a skos:Concept ;
+    skos:broader <regie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Reininger, Lotte"@de .
+
+<riefenstahl__leni_id> a skos:Concept ;
+    skos:broader <regie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Riefenstahl, Leni"@de .
+
+<roadmovie_id> a skos:Concept ;
+    skos:broader <spielfilm_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Roadmovie"@de .
+
+<rolle_theater_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Rolle (Theater)"@de ;
+    skos:topConceptOf <> .
+
+<rühmann__heinz_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Rühmann, Heinz"@de ;
+    skos:topConceptOf <> .
+
+<schall__ekkehard_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schall, Ekkehard"@de ;
+    skos:topConceptOf <> .
+
+<scherenschnittfilm_id> a skos:Concept ;
+    skos:broader <schattenspiel_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Scherenschnittfilm"@de .
+
+<schlöndorff__volker_id> a skos:Concept ;
+    skos:broader <regie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schlöndorff, Volker"@de .
+
+<schneider__romy_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schneider, Romy"@de ;
+    skos:topConceptOf <> .
+
+<schröder__ernst_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schröder, Ernst"@de ;
+    skos:topConceptOf <> .
+
+<sciencefiction_für_erwachsene_id> a skos:Concept ;
+    skos:broader <spielfilm_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "ScienceFiction (für Erwachsene)"@de .
+
+<sciencefiction_für_jugendliche_id> a skos:Concept ;
+    skos:broader <spielfilm_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "ScienceFiction (für Jugendliche)"@de .
+
+<sciencefiction_für_kinder_id> a skos:Concept ;
+    skos:broader <spielfilm_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "ScienceFiction (für Kinder)"@de .
+
+<slapstick_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Slapstick"@de ;
+    skos:topConceptOf <> .
+
+<sozialkritischer_film_id> a skos:Concept ;
+    skos:broader <spielfilm_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sozialkritischer Film"@de .
+
+<staudte__wolfgang_id> a skos:Concept ;
+    skos:broader <regie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Staudte, Wolfgang"@de .
+
+<stein__peter_id> a skos:Concept ;
+    skos:broader <regie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Stein, Peter"@de .
+
+<streisand__barbra_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Streisand, Barbra"@de ;
+    skos:topConceptOf <> .
+
+<stummfilm_id> a skos:Concept ;
+    skos:broader <spielfilm_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Stummfilm"@de .
+
+<szene_theater_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Szene (Theater)"@de ;
+    skos:topConceptOf <> .
+
+<tarzan_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tarzan"@de ;
+    skos:topConceptOf <> .
+
+<tati__jacques_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tati, Jacques"@de ;
+    skos:topConceptOf <> .
+
+<taylor__elisabeth_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Taylor, Elisabeth"@de ;
+    skos:topConceptOf <> .
+
+<thate__hilmar_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Thate, Hilmar"@de ;
+    skos:topConceptOf <> .
+
+<theaterverfilmung_id> a skos:Concept ;
+    skos:broader <literaturverfilmung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Theaterverfilmung"@de .
+
+<tierfilm_id> a skos:Concept ;
+    skos:broader <spielfilm_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tierfilm"@de .
+
+<trenker__luis_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Trenker, Luis"@de ;
+    skos:topConceptOf <> .
+
+<truffaut__françois_id> a skos:Concept ;
+    skos:broader <regie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Truffaut, François"@de .
+
+<valentin__karl_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Valentin, Karl"@de ;
+    skos:topConceptOf <> .
+
+<visconti__luchino_id> a skos:Concept ;
+    skos:broader <regie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Visconti, Luchino"@de .
+
+<wajda__andrzej_id> a skos:Concept ;
+    skos:broader <regie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wajda, Andrzej"@de .
+
+<waldoff__claire_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Waldoff, Claire"@de ;
+    skos:topConceptOf <> .
+
+<weigel__helene_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Weigel, Helene"@de ;
+    skos:topConceptOf <> .
+
+<welles__orson_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Welles, Orson"@de ;
+    skos:topConceptOf <> .
+
+<werbefilm_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Werbefilm"@de ;
+    skos:topConceptOf <> .
+
+<western_id> a skos:Concept ;
+    skos:broader <spielfilm_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Western"@de .
+
+<westernpersiflage_id> a skos:Concept ;
+    skos:broader <spielfilm_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Westernpersiflage"@de .
+
+<wortmann__sönke_id> a skos:Concept ;
+    skos:broader <regie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wortmann, Sönke"@de .
+
+<zeichentrickfilm_disney_id> a skos:Concept ;
+    skos:broader <zeichentrickfilm_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zeichentrickfilm (Disney)"@de .
+
+<dokumentarfilm_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <bergfilm_id> ;
+    skos:prefLabel "Dokumentarfilm"@de ;
+    skos:topConceptOf <> .
+
+<schattenspiel_id> a skos:Concept ;
+    skos:broader <trickfilm_id> ;
+    skos:inScheme <> ;
+    skos:narrower <scherenschnittfilm_id> ;
+    skos:prefLabel "Schattenspiel"@de .
+
+<thriller_id> a skos:Concept ;
+    skos:broader <spielfilm_id> ;
+    skos:inScheme <> ;
+    skos:narrower <politthriller_id> ;
+    skos:prefLabel "Thriller"@de .
+
+<zeichentrickfilm_id> a skos:Concept ;
+    skos:broader <trickfilm_id> ;
+    skos:inScheme <> ;
+    skos:narrower <zeichentrickfilm_disney_id> ;
+    skos:prefLabel "Zeichentrickfilm"@de .
+
+<literaturverfilmung_id> a skos:Concept ;
+    skos:broader <spielfilm_id> ;
+    skos:inScheme <> ;
+    skos:narrower <bilderbuchverfilmung_id>,
+        <kinderbuchverfilmung_id>,
+        <märchenfilm_id>,
+        <theaterverfilmung_id> ;
+    skos:prefLabel "Literaturverfilmung"@de .
+
+<trickfilm_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <knettrickfilm_id>,
+        <puppentrickfilm_id>,
+        <schattenspiel_id>,
+        <zeichentrickfilm_id> ;
+    skos:prefLabel "Trickfilm"@de ;
+    skos:topConceptOf <> .
+
+<spielfilm_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <abenteuerfilm_für_erwachsene_id>,
+        <abenteuerfilm_für_jugendliche_id>,
+        <abenteuerfilm_für_kinder_id>,
+        <actionfilm_id>,
+        <agentenfilm_id>,
+        <antikriegsfilm_id>,
+        <avantgardefilm_id>,
+        <drama_spielfilm_id>,
+        <erotik_id>,
+        <fantasyfilm_id>,
+        <heimatfilm_id>,
+        <historienfilm_id>,
+        <horrorfilm_id>,
+        <katastrophenfilm_id>,
+        <kriegsfilm_id>,
+        <kriminalfilm_für_erwachsene_id>,
+        <kriminalfilm_für_jugendliche_id>,
+        <kriminalfilm_für_kinder_id>,
+        <liebesfilm_id>,
+        <literaturverfilmung_id>,
+        <melodrama_id>,
+        <monumentalfilm_id>,
+        <musikfilm_id>,
+        <propagandafilm_id>,
+        <roadmovie_id>,
+        <sciencefiction_für_erwachsene_id>,
+        <sciencefiction_für_jugendliche_id>,
+        <sciencefiction_für_kinder_id>,
+        <sozialkritischer_film_id>,
+        <stummfilm_id>,
+        <thriller_id>,
+        <tierfilm_id>,
+        <western_id>,
+        <westernpersiflage_id> ;
+    skos:prefLabel "Spielfilm)"@de ;
+    skos:topConceptOf <> .
+
+<regie_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <almodóvar__pedro_id>,
+        <attenborough__richard_id>,
+        <bartosch__brthold_id>,
+        <bergman__ingmar_id>,
+        <cleve__bastian_id>,
+        <cürlis__hans__id>,
+        <disney__walt_id>,
+        <eisenstein__sergej_id>,
+        <fellini__federico_id>,
+        <ford__john_id>,
+        <godard__jeanluc_id>,
+        <haanstra__bert_id>,
+        <hermann__oliver_id>,
+        <herzog__werner_regisseur_id>,
+        <hitchcock__alfred_id>,
+        <koepp__volker_id>,
+        <kortner__fritz_id>,
+        <käutner__helmut_id>,
+        <lang__fritz_id>,
+        <luft__friedrich_id>,
+        <malle__louis_id>,
+        <mclaren__norman_id>,
+        <meßter__oskar_id>,
+        <nekes__werner_id>,
+        <pasolini__pier_paolo_id>,
+        <polanski__roman_id>,
+        <reininger__lotte_id>,
+        <riefenstahl__leni_id>,
+        <schlöndorff__volker_id>,
+        <staudte__wolfgang_id>,
+        <stein__peter_id>,
+        <truffaut__françois_id>,
+        <visconti__luchino_id>,
+        <wajda__andrzej_id>,
+        <wortmann__sönke_id> ;
+    skos:prefLabel "Regie"@de ;
+    skos:topConceptOf <> .
+
+<> a skos:ConceptScheme ;
+    dct:creator "<https://creator.com>" ;
+    dct:description "spieldok_systematik"@de ;
+    dct:title "spieldok_systematik"@de ;
+    skos:hasTopConcept <albers__hans_id>,
+        <allen__woody_id>,
+        <arbuckle__fatty_id>,
+        <asterix_id>,
+        <barrault__jeanlouis_id>,
+        <belmonde__jeanpaul_id>,
+        <bergman__ingrid_id>,
+        <bogart__humphrey_id>,
+        <burton__richard_id>,
+        <busch__ernst_id>,
+        <chaplin__charlie_id>,
+        <connery__sean_id>,
+        <cooper__gary_id>,
+        <costner__kevin_id>,
+        <courteline__georges_id>,
+        <dean__james_id>,
+        <deutsch__ernst_id>,
+        <dietrich__marlene_id>,
+        <dokumentarfilm_id>,
+        <erhardt__heinz_id>,
+        <familienfilm_id>,
+        <filmdokument_id>,
+        <filmklassiker_id>,
+        <filmlexikon_id>,
+        <finck__werner_id>,
+        <funès__louis_de_id>,
+        <george__heinrich_id>,
+        <giehse__therese_id>,
+        <gottschlak__joachim_id>,
+        <gründgens__gustaf_id>,
+        <guiness__alec_id>,
+        <görner__lutz_id>,
+        <hanks__tom_id>,
+        <hardy__oliver_id>,
+        <hepburn__katharine_id>,
+        <hoffman__dustin_id>,
+        <hörbiger__paul_id>,
+        <james_bond_id>,
+        <jannings__emil_id>,
+        <jugendfilm_id>,
+        <karstadt__liesl_id>,
+        <keaton__buster_id>,
+        <kelly__grace_id>,
+        <kinderfilm_id>,
+        <krauß__werner_id>,
+        <kurzspielfilm_id>,
+        <laughton__charles_id>,
+        <laurel__stan_id>,
+        <lewis__jerry_id>,
+        <lloyd__harold_id>,
+        <manger__jürgen_von_id>,
+        <meysel__inge_id>,
+        <mickey_mouse_id>,
+        <monroe__marilyn_id>,
+        <montand__yves_id>,
+        <neuss__wolfgang_id>,
+        <pan_tau_id>,
+        <penn__sean_id>,
+        <pfeiffer__michelle_id>,
+        <polt__gerhard_id>,
+        <quadflieg__will_id>,
+        <raimund__ferdinand_id>,
+        <regie_id>,
+        <reichert__willy_id>,
+        <rolle_theater_id>,
+        <rühmann__heinz_id>,
+        <schall__ekkehard_id>,
+        <schneider__romy_id>,
+        <schröder__ernst_id>,
+        <slapstick_id>,
+        <spielfilm_id>,
+        <streisand__barbra_id>,
+        <szene_theater_id>,
+        <tarzan_id>,
+        <tati__jacques_id>,
+        <taylor__elisabeth_id>,
+        <thate__hilmar_id>,
+        <trenker__luis_id>,
+        <trickfilm_id>,
+        <valentin__karl_id>,
+        <waldoff__claire_id>,
+        <weigel__helene_id>,
+        <welles__orson_id>,
+        <werbefilm_id> .
+

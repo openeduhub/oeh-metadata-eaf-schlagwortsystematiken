@@ -1,0 +1,88 @@
+I N F O R M T I O N S T E C H N I S C H E   B I L D U N G	
+
+Bürokommunikation
+Computer
+-Computereinsatz
+-Computertechnik
+	--Codierung
+	--Datenträger
+		---CD-ROM
+		---Chip
+		---USB-Stick
+	--Drucker (EDV)
+	--Mikroelektronik
+	--Tablet
+	--Schnittstelle
+	--Vernetzung (Informationstechnik)
+-Hacker (Computersicherheit)
+Datei
+Datenschutz
+Datensicherung
+Datenverarbeitung
+-Big data
+-Zeichenerkennung
+EVA-Prinzip
+Informatik
+-Kybernetik
+-Programmierung
+Informationswesen
+-Geoinformationssystem
+-Mikrofilm
+Motion Capture
+Multimedia
+Podcasting
+Software
+-Anwendersystem
+	--Computer Aided Design
+	--Computer Aided Manufacturing
+	--Computerized Numerical Control
+	--Datenbank
+	--Desktop-Publishing
+	--Didaktische Software
+	--EAN-System
+	--Grafikprogramm
+		---Computergrafik
+	--Overlay
+	--Textverarbeitung
+-Betriebssystem
+-Computersimulation
+	--Virtual Reality
+-Computerspiel
+	--Computerspiel (Denkspiel)
+	--Computerspiel (Jump-and-Run) 
+	--Computerspiel (Kampfspiel)
+	--Computerspiel (Simulation)
+	--Computerspiel (Spielgeschichte)
+-Computervirus
+-Tutorielles Programm 
+Taschenrechner
+Telekommunikation
+-Bildschirmtext
+-Datenfernübertragung
+-Digitaltechnik
+-Internet
+	--Abofalle
+	--Blog
+	--Blogger
+	--Cybermobbing
+	--Darknet
+	--Deep Web
+	--Influencer
+	--Soziales Netzwerk
+	--Phishing
+	--Videoportal
+	--Web 2.0
+	--Wikipedia
+	--WLAN
+	--World Wide Web
+-Morsezeichen
+-Netiquette
+-Telefon
+-Verkabelung
+-Webinar
+
+Berners-Lee, Timothy
+Braille, Louis
+Gates, Bill
+Morse, Samuel
+Zuse, Konrad

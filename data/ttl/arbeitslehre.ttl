@@ -1,0 +1,1443 @@
+@base <https://example-perma-id/arbeitslehre_systematik/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<_betriebsorganisation_id> a skos:Concept ;
+    skos:broader <arbeitswelt_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Betriebsorganisation"@de .
+
+<akkordarbeit_id> a skos:Concept ;
+    skos:broader <arbeitswelt_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Akkordarbeit"@de .
+
+<arbeitsplatzsuche_id> a skos:Concept ;
+    skos:broader <arbeitswelt_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Arbeitsplatzsuche"@de .
+
+<arbeitssicherheit_id> a skos:Concept ;
+    skos:broader <sicherheitstechnik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Arbeitssicherheit"@de .
+
+<automation_id> a skos:Concept ;
+    skos:broader <produktionsverfahren_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Automation"@de .
+
+<bauchemie_id> a skos:Concept ;
+    skos:broader <bauindustrie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bauchemie"@de .
+
+<baumaschine_id> a skos:Concept ;
+    skos:broader <bauindustrie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Baumaschine"@de .
+
+<bautenschutz_id> a skos:Concept ;
+    skos:broader <bautechnik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bautenschutz"@de .
+
+<bergbau_id> a skos:Concept ;
+    skos:broader <schwerindustrie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bergbau"@de .
+
+<betriebserkundung_id> a skos:Concept ;
+    skos:broader <arbeitswelt_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Betriebserkundung"@de .
+
+<betriebsrat_id> a skos:Concept ;
+    skos:broader <arbeitswelt_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Betriebsrat"@de .
+
+<betriebsverfassungsgesetz_id> a skos:Concept ;
+    skos:broader <arbeitswelt_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Betriebsverfassungsgesetz"@de .
+
+<bewehrung_bauwesen_id> a skos:Concept ;
+    skos:broader <stahlbeton_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bewehrung (Bauwesen)"@de .
+
+<bewerbung_id> a skos:Concept ;
+    skos:broader <arbeitswelt_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bewerbung"@de .
+
+<biegefestigkeit_id> a skos:Concept ;
+    skos:broader <werkstoffprüfung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Biegefestigkeit"@de .
+
+<blechbearbeitung_id> a skos:Concept ;
+    skos:broader <schwerindustrie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Blechbearbeitung"@de .
+
+<blumenbinderei_id> a skos:Concept ;
+    skos:broader <handwerk_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Blumenbinderei"@de .
+
+<bohren_id> a skos:Concept ;
+    skos:broader <werkzeug_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bohren"@de .
+
+<brennofen_id> a skos:Concept ;
+    skos:broader <manufaktur_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Brennofen"@de .
+
+<buch_id> a skos:Concept ;
+    skos:broader <buchdruck_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Buch"@de .
+
+<bäckerei_id> a skos:Concept ;
+    skos:broader <nahrungsmittelindustrie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bäckerei"@de .
+
+<computerarbeitsplatz_id> a skos:Concept ;
+    skos:broader <arbeitswelt_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Computerarbeitsplatz"@de .
+
+<dach_id> a skos:Concept ;
+    skos:broader <hausbau_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Dach"@de .
+
+<draht_id> a skos:Concept ;
+    skos:broader <metallurgie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Draht"@de .
+
+<drehmaschine_id> a skos:Concept ;
+    skos:broader <spanen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Drehmaschine"@de .
+
+<dreschen_id> a skos:Concept ;
+    skos:broader <landmaschine_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Dreschen"@de .
+
+<dünger_id> a skos:Concept ;
+    skos:broader <nahrungsmittelindustrie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Dünger"@de .
+
+<fachwerk_id> a skos:Concept ;
+    skos:broader <bautechnik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fachwerk"@de .
+
+<falknerei_id> a skos:Concept ;
+    skos:broader <jagd_weidwerk_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Falknerei"@de .
+
+<faser_id> a skos:Concept ;
+    skos:broader <spinnerei_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Faser"@de .
+
+<fassade_id> a skos:Concept ;
+    skos:broader <hausbau_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fassade"@de .
+
+<fenster_id> a skos:Concept ;
+    skos:broader <hausbau_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fenster"@de .
+
+<flasche_id> a skos:Concept ;
+    skos:broader <glas_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Flasche"@de .
+
+<flaschenzug_id> a skos:Concept ;
+    skos:broader <investitionsgüterindustrie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Flaschenzug"@de .
+
+<fliesen_plattenlegen_id> a skos:Concept ;
+    skos:broader <handwerk_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fliesen (Plattenlegen)"@de .
+
+<fließarbeit_id> a skos:Concept ;
+    skos:broader <arbeitswelt_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fließarbeit"@de .
+
+<flugzeugbau_id> a skos:Concept ;
+    skos:broader <investitionsgüterindustrie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Flugzeugbau"@de .
+
+<flößerei_id> a skos:Concept ;
+    skos:broader <handwerk_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Flößerei"@de .
+
+<frauenarbeit_id> a skos:Concept ;
+    skos:broader <arbeitswelt_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Frauenarbeit"@de .
+
+<fräsen_id> a skos:Concept ;
+    skos:broader <spanen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fräsen"@de .
+
+<fundbüro_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fundbüro"@de ;
+    skos:topConceptOf <> .
+
+<furnier_id> a skos:Concept ;
+    skos:broader <holz_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Furnier"@de .
+
+<fügen_fertigungstechnik_id> a skos:Concept ;
+    skos:broader <produktionsverfahren_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fügen (Fertigungstechnik)"@de .
+
+<garten_id> a skos:Concept ;
+    skos:broader <gartenbau_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Garten"@de .
+
+<gastronomie_id> a skos:Concept ;
+    skos:broader <nahrungsmittelindustrie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gastronomie"@de .
+
+<gelenk_technik_id> a skos:Concept ;
+    skos:broader <verbindungstechnik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gelenk (Technik)"@de .
+
+<gewinde_id> a skos:Concept ;
+    skos:broader <investitionsgüterindustrie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gewinde"@de .
+
+<glasur_id> a skos:Concept ;
+    skos:broader <porzellan_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Glasur"@de .
+
+<glockengießerei_id> a skos:Concept ;
+    skos:broader <gießerei_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Glockengießerei"@de .
+
+<handwerk_geschichte_id> a skos:Concept ;
+    skos:broader <handwerk_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Handwerk (Geschichte)"@de .
+
+<hausschlachtung_id> a skos:Concept ;
+    skos:broader <schlachthof_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hausschlachtung"@de .
+
+<hobeln_id> a skos:Concept ;
+    skos:broader <spanen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hobeln"@de .
+
+<hochhaus_id> a skos:Concept ;
+    skos:broader <bautechnik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hochhaus"@de .
+
+<hochofen_id> a skos:Concept ;
+    skos:broader <hüttenwerk_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hochofen"@de .
+
+<honen_id> a skos:Concept ;
+    skos:broader <schleifen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Honen"@de .
+
+<härten_metall_id> a skos:Concept ;
+    skos:broader <werkstoffprüfung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Härten (Metall)"@de .
+
+<hühnerhaltung_id> a skos:Concept ;
+    skos:broader <tierhaltung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hühnerhaltung"@de .
+
+<imkerei_id> a skos:Concept ;
+    skos:broader <nahrungsmittelindustrie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Imkerei"@de .
+
+<journalismus_id> a skos:Concept ;
+    skos:broader <druck_papier_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Journalismus"@de .
+
+<kanalbau_id> a skos:Concept ;
+    skos:broader <tiefbautechnik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kanalbau"@de .
+
+<klebstoff_id> a skos:Concept ;
+    skos:broader <chemische_industrie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Klebstoff"@de .
+
+<kopfbedeckung_id> a skos:Concept ;
+    skos:broader <mode_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kopfbedeckung"@de .
+
+<korpusverbindung_id> a skos:Concept ;
+    skos:broader <holz_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Korpusverbindung"@de .
+
+<kraftfahrzeugbau_id> a skos:Concept ;
+    skos:broader <kraftfahrzeugindustrie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kraftfahrzeugbau"@de .
+
+<kran_id> a skos:Concept ;
+    skos:broader <bautechnik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kran"@de .
+
+<kupplung_id> a skos:Concept ;
+    skos:broader <maschine_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kupplung"@de .
+
+<köhlerei_id> a skos:Concept ;
+    skos:broader <schwerindustrie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Köhlerei"@de .
+
+<kündigung_id> a skos:Concept ;
+    skos:broader <arbeitswelt_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kündigung"@de .
+
+<kürschnerei_id> a skos:Concept ;
+    skos:broader <handwerk_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kürschnerei"@de .
+
+<lack_id> a skos:Concept ;
+    skos:broader <chemische_industrie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lack"@de .
+
+<lager_maschinenteil_id> a skos:Concept ;
+    skos:broader <maschine_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lager (Maschinenteil)"@de .
+
+<layout_id> a skos:Concept ;
+    skos:broader <druck_papier_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Layout"@de .
+
+<lebensmittelchemie_id> a skos:Concept ;
+    skos:broader <nahrungsmittelindustrie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lebensmittelchemie"@de .
+
+<lebensmittelqualität_id> a skos:Concept ;
+    skos:broader <nahrungsmittelindustrie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lebensmittelqualität"@de .
+
+<leder_id> a skos:Concept ;
+    skos:broader <gerberei_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Leder"@de .
+
+<lehmbau_id> a skos:Concept ;
+    skos:broader <baustoff_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lehmbau"@de .
+
+<leichtbeton_id> a skos:Concept ;
+    skos:broader <beton_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Leichtbeton"@de .
+
+<läppen_id> a skos:Concept ;
+    skos:broader <schleifen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Läppen"@de .
+
+<lärm_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lärm"@de ;
+    skos:topConceptOf <> .
+
+<löten_id> a skos:Concept ;
+    skos:broader <werkzeug_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Löten"@de .
+
+<massenproduktion_id> a skos:Concept ;
+    skos:broader <produktionsverfahren_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Massenproduktion"@de .
+
+<massentierhaltung_id> a skos:Concept ;
+    skos:broader <tierhaltung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Massentierhaltung"@de .
+
+<melken_id> a skos:Concept ;
+    skos:broader <nahrungsmittelindustrie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Melken"@de .
+
+<messer_id> a skos:Concept ;
+    skos:broader <gebrauchsgegenstand_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Messer"@de .
+
+<mine_waffe_id> a skos:Concept ;
+    skos:broader <waffe_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mine (Waffe)"@de .
+
+<mischbatterie_id> a skos:Concept ;
+    skos:broader <regelungstechnik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mischbatterie"@de .
+
+<modell_id> a skos:Concept ;
+    skos:broader <konsumgüterindustrie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Modell"@de .
+
+<mühle_zerkleinerungsmaschine_id> a skos:Concept ;
+    skos:broader <nahrungsmittelindustrie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mühle (Zerkleinerungsmaschine)"@de .
+
+<nagel_befestigungsmittel_id> a skos:Concept ;
+    skos:broader <investitionsgüterindustrie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Nagel (Befestigungsmittel)"@de .
+
+<nanotechnologie_id> a skos:Concept ;
+    skos:broader <technologie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Nanotechnologie"@de .
+
+<naturwissenschaft_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Naturwissenschaft"@de ;
+    skos:topConceptOf <> .
+
+<niet_id> a skos:Concept ;
+    skos:broader <investitionsgüterindustrie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Niet"@de .
+
+<offsetdruck_id> a skos:Concept ;
+    skos:broader <druck_papier_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Offsetdruck"@de .
+
+<papier_id> a skos:Concept ;
+    skos:broader <papierherstellung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Papier"@de .
+
+<pflug_ackergerät_id> a skos:Concept ;
+    skos:broader <landmaschine_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pflug (Ackergerät)"@de .
+
+<plantin__christophe_id> a skos:Concept ;
+    skos:broader <druck_papier_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Plantin, Christophe"@de .
+
+<pressen_druckausübung_id> a skos:Concept ;
+    skos:broader <werkzeug_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pressen (Druckausübung)"@de .
+
+<qualität_produkt_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Qualität (Produkt)"@de ;
+    skos:topConceptOf <> .
+
+<reiben_id> a skos:Concept ;
+    skos:broader <werkzeug_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Reiben"@de .
+
+<renovierung_id> a skos:Concept ;
+    skos:broader <bautechnik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Renovierung"@de .
+
+<reprographie_id> a skos:Concept ;
+    skos:broader <druck_papier_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Reprographie"@de .
+
+<restaurierung_id> a skos:Concept ;
+    skos:broader <bautechnik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Restaurierung"@de .
+
+<rinderhaltung_id> a skos:Concept ;
+    skos:broader <tierhaltung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Rinderhaltung"@de .
+
+<roboter_id> a skos:Concept ;
+    skos:broader <investitionsgüterindustrie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Roboter"@de .
+
+<schichtarbeit_id> a skos:Concept ;
+    skos:broader <arbeitswelt_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schichtarbeit"@de .
+
+<schmiede_id> a skos:Concept ;
+    skos:broader <handwerk_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schmiede"@de .
+
+<schneidengeometrie_id> a skos:Concept ;
+    skos:broader <werkstoffprüfung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schneidengeometrie"@de .
+
+<schraube_befestigungsmittel_id> a skos:Concept ;
+    skos:broader <investitionsgüterindustrie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schraube (Befestigungsmittel)"@de .
+
+<schreibmaschine_id> a skos:Concept ;
+    skos:broader <gebrauchsgegenstand_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schreibmaschine"@de .
+
+<schreibmaterial_id> a skos:Concept ;
+    skos:broader <konsumgüterindustrie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schreibmaterial"@de .
+
+<schrott_id> a skos:Concept ;
+    skos:broader <investitionsgüterindustrie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schrott"@de .
+
+<schuh_id> a skos:Concept ;
+    skos:broader <mode_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schuh"@de .
+
+<schwarzarbeit_id> a skos:Concept ;
+    skos:broader <arbeitswelt_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schwarzarbeit"@de .
+
+<schweißen_id> a skos:Concept ;
+    skos:broader <werkzeug_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schweißen"@de .
+
+<segelschulschiff_id> a skos:Concept ;
+    skos:broader <marine_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Segelschulschiff"@de .
+
+<seide_id> a skos:Concept ;
+    skos:broader <weberei_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Seide"@de .
+
+<seil_element_zur_übertragung_von_zugkräften_id> a skos:Concept ;
+    skos:broader <spinnerei_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Seil (Element zur Übertragung von Zugkräften)"@de .
+
+<sekt_id> a skos:Concept ;
+    skos:broader <nahrungsmittelindustrie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sekt"@de .
+
+<siebdruck_id> a skos:Concept ;
+    skos:broader <druck_papier_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Siebdruck"@de .
+
+<siemens_ag_id> a skos:Concept ;
+    skos:broader <investitionsgüterindustrie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Siemens AG"@de .
+
+<sintern_id> a skos:Concept ;
+    skos:broader <metallurgie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sintern"@de .
+
+<sozialarbeit_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sozialarbeit"@de ;
+    skos:topConceptOf <> .
+
+<spannen_id> a skos:Concept ;
+    skos:broader <werkzeug_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Spannen"@de .
+
+<spanplatte_id> a skos:Concept ;
+    skos:broader <holz_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Spanplatte"@de .
+
+<stanzen_id> a skos:Concept ;
+    skos:broader <werkzeug_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Stanzen"@de .
+
+<stoffdruck_id> a skos:Concept ;
+    skos:broader <konsumgüterindustrie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Stoffdruck"@de .
+
+<streik_id> a skos:Concept ;
+    skos:broader <arbeitswelt_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Streik"@de .
+
+<sägen_id> a skos:Concept ;
+    skos:broader <werkzeug_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sägen"@de .
+
+<tapete_id> a skos:Concept ;
+    skos:broader <konsumgüterindustrie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tapete"@de .
+
+<tarifvertrag_id> a skos:Concept ;
+    skos:broader <arbeitswelt_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tarifvertrag"@de .
+
+<technikgeschichte_id> a skos:Concept ;
+    skos:broader <technik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Technikgeschichte"@de .
+
+<technisches_zeichnen_id> a skos:Concept ;
+    skos:broader <konstruktion_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Technisches Zeichnen"@de .
+
+<teilzeitarbeit_id> a skos:Concept ;
+    skos:broader <arbeitswelt_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Teilzeitarbeit"@de .
+
+<textilie_id> a skos:Concept ;
+    skos:broader <weberei_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Textilie"@de .
+
+<toleranzsystem_id> a skos:Concept ;
+    skos:broader <steuerung_steuerungstechnik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Toleranzsystem"@de .
+
+<turbine_id> a skos:Concept ;
+    skos:broader <maschine_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Turbine"@de .
+
+<töpferei_id> a skos:Concept ;
+    skos:broader <konsumgüterindustrie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Töpferei"@de .
+
+<tür_id> a skos:Concept ;
+    skos:broader <hausbau_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tür"@de .
+
+<uhr_id> a skos:Concept ;
+    skos:broader <gebrauchsgegenstand_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Uhr"@de .
+
+<umbruch_text_id> a skos:Concept ;
+    skos:broader <druck_papier_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Umbruch (Text)"@de .
+
+<ventil_id> a skos:Concept ;
+    skos:broader <investitionsgüterindustrie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ventil"@de .
+
+<vergaser_id> a skos:Concept ;
+    skos:broader <verbrennungsmotor_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Vergaser"@de .
+
+<verlag_id> a skos:Concept ;
+    skos:broader <druck_papier_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Verlag"@de .
+
+<verpackung_id> a skos:Concept ;
+    skos:broader <nahrungsmittelindustrie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Verpackung"@de .
+
+<vorschub_werkzeugmaschine_id> a skos:Concept ;
+    skos:broader <werkzeugmaschine_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Vorschub (Werkzeugmaschine)"@de .
+
+<wagnerei_id> a skos:Concept ;
+    skos:broader <handwerk_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wagnerei"@de .
+
+<wahrheit_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wahrheit"@de ;
+    skos:topConceptOf <> .
+
+<walzwerk_id> a skos:Concept ;
+    skos:broader <walzen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Walzwerk"@de .
+
+<wandaufbau_id> a skos:Concept ;
+    skos:broader <hausbau_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wandaufbau"@de .
+
+<wandputz_id> a skos:Concept ;
+    skos:broader <baustoff_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wandputz"@de .
+
+<wandteppich_id> a skos:Concept ;
+    skos:broader <teppich_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wandteppich"@de .
+
+<wankelmotor_id> a skos:Concept ;
+    skos:broader <verbrennungsmotor_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wankelmotor"@de .
+
+<waschen_textilie_id> a skos:Concept ;
+    skos:broader <konsumgüterindustrie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Waschen (Textilie)"@de .
+
+<webstuhl_id> a skos:Concept ;
+    skos:broader <weberei_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Webstuhl"@de .
+
+<weltausstellung_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Weltausstellung"@de ;
+    skos:topConceptOf <> .
+
+<werbefotografie_id> a skos:Concept ;
+    skos:broader <werbeagentur_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Werbefotografie"@de .
+
+<werft_id> a skos:Concept ;
+    skos:broader <schiffbau_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Werft"@de .
+
+<werkstoffkunde_id> a skos:Concept ;
+    skos:broader <werkstoff_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Werkstoffkunde"@de .
+
+<werkstück_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Werkstück"@de ;
+    skos:topConceptOf <> .
+
+<wetterdienst_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wetterdienst"@de ;
+    skos:topConceptOf <> .
+
+<wissenschaft_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wissenschaft"@de ;
+    skos:topConceptOf <> .
+
+<wissensmanagement_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wissensmanagement"@de ;
+    skos:topConceptOf <> .
+
+<wolle_id> a skos:Concept ;
+    skos:broader <spinnerei_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wolle"@de .
+
+<wrack_id> a skos:Concept ;
+    skos:broader <schiffbau_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wrack"@de .
+
+<wärmedämmung_id> a skos:Concept ;
+    skos:broader <bautechnik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wärmedämmung"@de .
+
+<wärmepumpe_id> a skos:Concept ;
+    skos:broader <klimatechnik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wärmepumpe"@de .
+
+<zement_id> a skos:Concept ;
+    skos:broader <baustoff_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zement"@de .
+
+<zerspanung_id> a skos:Concept ;
+    skos:broader <spanen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zerspanung"@de .
+
+<ziegel_id> a skos:Concept ;
+    skos:broader <baustoff_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ziegel"@de .
+
+<ziehen_id> a skos:Concept ;
+    skos:broader <werkzeug_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ziehen"@de .
+
+<zunft_id> a skos:Concept ;
+    skos:broader <handwerk_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zunft"@de .
+
+<zündung_verbrennungsmotor_id> a skos:Concept ;
+    skos:broader <verbrennungsmotor_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zündung (Verbrennungsmotor)"@de .
+
+<ökologischer_hausbau__id> a skos:Concept ;
+    skos:broader <bautechnik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ökologischer Hausbau "@de .
+
+<buchdruck_id> a skos:Concept ;
+    skos:broader <druck_papier_id> ;
+    skos:inScheme <> ;
+    skos:narrower <buch_id> ;
+    skos:prefLabel "Buchdruck"@de .
+
+<gartenbau_id> a skos:Concept ;
+    skos:broader <nahrungsmittelindustrie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <garten_id> ;
+    skos:prefLabel "Gartenbau"@de .
+
+<gerberei_id> a skos:Concept ;
+    skos:broader <konsumgüterindustrie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <leder_id> ;
+    skos:prefLabel "Gerberei"@de .
+
+<gießerei_id> a skos:Concept ;
+    skos:broader <schwerindustrie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <glockengießerei_id> ;
+    skos:prefLabel "Gießerei"@de .
+
+<glas_id> a skos:Concept ;
+    skos:broader <glasherstellung_id> ;
+    skos:inScheme <> ;
+    skos:narrower <flasche_id> ;
+    skos:prefLabel "Glas"@de .
+
+<glasherstellung_id> a skos:Concept ;
+    skos:broader <konsumgüterindustrie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <glas_id> ;
+    skos:prefLabel "Glasherstellung"@de .
+
+<holzverarbeitung_id> a skos:Concept ;
+    skos:broader <holzwirtschaft_id> ;
+    skos:inScheme <> ;
+    skos:narrower <holz_id> ;
+    skos:prefLabel "Holzverarbeitung"@de .
+
+<holzwirtschaft_id> a skos:Concept ;
+    skos:broader <grundstoffindustrie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <holzverarbeitung_id> ;
+    skos:prefLabel "Holzwirtschaft"@de .
+
+<hüttenwerk_id> a skos:Concept ;
+    skos:broader <metallurgie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <hochofen_id> ;
+    skos:prefLabel "Hüttenwerk"@de .
+
+<jagd_weidwerk_id> a skos:Concept ;
+    skos:broader <nahrungsmittelindustrie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <falknerei_id> ;
+    skos:prefLabel "Jagd (Weidwerk)"@de .
+
+<klimatechnik_id> a skos:Concept ;
+    skos:broader <bautechnik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <wärmepumpe_id> ;
+    skos:prefLabel "Klimatechnik"@de .
+
+<konstruktion_id> a skos:Concept ;
+    skos:broader <bauindustrie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <technisches_zeichnen_id> ;
+    skos:prefLabel "Konstruktion"@de .
+
+<kraftfahrzeugtechnik_id> a skos:Concept ;
+    skos:broader <kraftfahrzeugindustrie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <verbrennungsmotor_id> ;
+    skos:prefLabel "Kraftfahrzeugtechnik"@de .
+
+<marine_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <segelschulschiff_id> ;
+    skos:prefLabel "Marine"@de ;
+    skos:topConceptOf <> .
+
+<maschinenbau_id> a skos:Concept ;
+    skos:broader <investitionsgüterindustrie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <maschine_id> ;
+    skos:prefLabel "Maschinenbau"@de .
+
+<papierherstellung_id> a skos:Concept ;
+    skos:broader <grundstoffindustrie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <papier_id> ;
+    skos:prefLabel "Papierherstellung"@de .
+
+<porzellan_id> a skos:Concept ;
+    skos:broader <manufaktur_id> ;
+    skos:inScheme <> ;
+    skos:narrower <glasur_id> ;
+    skos:prefLabel "Porzellan"@de .
+
+<regelungstechnik_id> a skos:Concept ;
+    skos:broader <steuerung_steuerungstechnik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <mischbatterie_id> ;
+    skos:prefLabel "Regelungstechnik"@de .
+
+<schlachthof_id> a skos:Concept ;
+    skos:broader <nahrungsmittelindustrie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <hausschlachtung_id> ;
+    skos:prefLabel "Schlachthof"@de .
+
+<sicherheitstechnik_id> a skos:Concept ;
+    skos:broader <arbeitswelt_id> ;
+    skos:inScheme <> ;
+    skos:narrower <arbeitssicherheit_id> ;
+    skos:prefLabel "Sicherheitstechnik"@de .
+
+<stahlbeton_id> a skos:Concept ;
+    skos:broader <beton_id> ;
+    skos:inScheme <> ;
+    skos:narrower <bewehrung_bauwesen_id> ;
+    skos:prefLabel "Stahlbeton"@de .
+
+<technologie_id> a skos:Concept ;
+    skos:broader <technik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <nanotechnologie_id> ;
+    skos:prefLabel "Technologie"@de .
+
+<teppich_id> a skos:Concept ;
+    skos:broader <weberei_id> ;
+    skos:inScheme <> ;
+    skos:narrower <wandteppich_id> ;
+    skos:prefLabel "Teppich"@de .
+
+<tiefbautechnik_id> a skos:Concept ;
+    skos:broader <bautechnik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <kanalbau_id> ;
+    skos:prefLabel "Tiefbautechnik"@de .
+
+<verbindungstechnik_id> a skos:Concept ;
+    skos:broader <produktionsverfahren_id> ;
+    skos:inScheme <> ;
+    skos:narrower <gelenk_technik_id> ;
+    skos:prefLabel "Verbindungstechnik"@de .
+
+<verfahrenstechnik_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <produktionsverfahren_id> ;
+    skos:prefLabel "Verfahrenstechnik"@de ;
+    skos:topConceptOf <> .
+
+<waffe_id> a skos:Concept ;
+    skos:broader <waffenproduktion_id> ;
+    skos:inScheme <> ;
+    skos:narrower <mine_waffe_id> ;
+    skos:prefLabel "Waffe"@de .
+
+<waffenproduktion_id> a skos:Concept ;
+    skos:broader <investitionsgüterindustrie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <waffe_id> ;
+    skos:prefLabel "Waffenproduktion"@de .
+
+<walzen_id> a skos:Concept ;
+    skos:broader <werkzeug_id> ;
+    skos:inScheme <> ;
+    skos:narrower <walzwerk_id> ;
+    skos:prefLabel "Walzen"@de .
+
+<werbeagentur_id> a skos:Concept ;
+    skos:broader <druck_papier_id> ;
+    skos:inScheme <> ;
+    skos:narrower <werbefotografie_id> ;
+    skos:prefLabel "Werbeagentur"@de .
+
+<werkzeugmaschine_id> a skos:Concept ;
+    skos:broader <maschine_id> ;
+    skos:inScheme <> ;
+    skos:narrower <vorschub_werkzeugmaschine_id> ;
+    skos:prefLabel "Werkzeugmaschine"@de .
+
+<beton_id> a skos:Concept ;
+    skos:broader <baustoff_id> ;
+    skos:inScheme <> ;
+    skos:narrower <leichtbeton_id>,
+        <stahlbeton_id> ;
+    skos:prefLabel "Beton"@de .
+
+<chemische_industrie_id> a skos:Concept ;
+    skos:broader <grundstoffindustrie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <klebstoff_id>,
+        <lack_id> ;
+    skos:prefLabel "Chemische Industrie"@de .
+
+<kraftfahrzeugindustrie_id> a skos:Concept ;
+    skos:broader <investitionsgüterindustrie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <kraftfahrzeugbau_id>,
+        <kraftfahrzeugtechnik_id> ;
+    skos:prefLabel "Kraftfahrzeugindustrie"@de .
+
+<landmaschine_id> a skos:Concept ;
+    skos:broader <nahrungsmittelindustrie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <dreschen_id>,
+        <pflug_ackergerät_id> ;
+    skos:prefLabel "Landmaschine"@de .
+
+<manufaktur_id> a skos:Concept ;
+    skos:broader <konsumgüterindustrie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <brennofen_id>,
+        <porzellan_id> ;
+    skos:prefLabel "Manufaktur"@de .
+
+<mode_id> a skos:Concept ;
+    skos:broader <konsumgüterindustrie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <kopfbedeckung_id>,
+        <schuh_id> ;
+    skos:prefLabel "Mode"@de .
+
+<schiffbau_id> a skos:Concept ;
+    skos:broader <investitionsgüterindustrie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <werft_id>,
+        <wrack_id> ;
+    skos:prefLabel "Schiffbau"@de .
+
+<schleifen_id> a skos:Concept ;
+    skos:broader <spanen_id> ;
+    skos:inScheme <> ;
+    skos:narrower <honen_id>,
+        <läppen_id> ;
+    skos:prefLabel "Schleifen"@de .
+
+<steuerung_steuerungstechnik_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <regelungstechnik_id>,
+        <toleranzsystem_id> ;
+    skos:prefLabel "Steuerung (Steuerungstechnik)"@de ;
+    skos:topConceptOf <> .
+
+<technik_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <technikgeschichte_id>,
+        <technologie_id> ;
+    skos:prefLabel "Technik"@de ;
+    skos:topConceptOf <> .
+
+<werkstoff_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <werkstoffkunde_id>,
+        <werkstoffprüfung_id> ;
+    skos:prefLabel "Werkstoff"@de ;
+    skos:topConceptOf <> .
+
+<gebrauchsgegenstand_id> a skos:Concept ;
+    skos:broader <konsumgüterindustrie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <messer_id>,
+        <schreibmaschine_id>,
+        <uhr_id> ;
+    skos:prefLabel "Gebrauchsgegenstand"@de .
+
+<holz_id> a skos:Concept ;
+    skos:broader <holzverarbeitung_id> ;
+    skos:inScheme <> ;
+    skos:narrower <furnier_id>,
+        <korpusverbindung_id>,
+        <spanplatte_id> ;
+    skos:prefLabel "Holz"@de .
+
+<metallurgie_id> a skos:Concept ;
+    skos:broader <schwerindustrie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <draht_id>,
+        <hüttenwerk_id>,
+        <sintern_id> ;
+    skos:prefLabel "Metallurgie"@de .
+
+<spinnerei_id> a skos:Concept ;
+    skos:broader <konsumgüterindustrie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <faser_id>,
+        <seil_element_zur_übertragung_von_zugkräften_id>,
+        <wolle_id> ;
+    skos:prefLabel "Spinnerei"@de .
+
+<tierhaltung_id> a skos:Concept ;
+    skos:broader <nahrungsmittelindustrie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <hühnerhaltung_id>,
+        <massentierhaltung_id>,
+        <rinderhaltung_id> ;
+    skos:prefLabel "Tierhaltung"@de .
+
+<verbrennungsmotor_id> a skos:Concept ;
+    skos:broader <kraftfahrzeugtechnik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <vergaser_id>,
+        <wankelmotor_id>,
+        <zündung_verbrennungsmotor_id> ;
+    skos:prefLabel "Verbrennungsmotor"@de .
+
+<werkstoffprüfung_id> a skos:Concept ;
+    skos:broader <werkstoff_id> ;
+    skos:inScheme <> ;
+    skos:narrower <biegefestigkeit_id>,
+        <härten_metall_id>,
+        <schneidengeometrie_id> ;
+    skos:prefLabel "Werkstoffprüfung"@de .
+
+<grundstoffindustrie_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <chemische_industrie_id>,
+        <holzwirtschaft_id>,
+        <papierherstellung_id>,
+        <schwerindustrie_id> ;
+    skos:prefLabel "Grundstoffindustrie"@de ;
+    skos:topConceptOf <> .
+
+<maschine_id> a skos:Concept ;
+    skos:broader <maschinenbau_id> ;
+    skos:inScheme <> ;
+    skos:narrower <kupplung_id>,
+        <lager_maschinenteil_id>,
+        <turbine_id>,
+        <werkzeugmaschine_id> ;
+    skos:prefLabel "Maschine"@de .
+
+<produktionsverfahren_id> a skos:Concept ;
+    skos:broader <verfahrenstechnik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <automation_id>,
+        <fügen_fertigungstechnik_id>,
+        <massenproduktion_id>,
+        <verbindungstechnik_id> ;
+    skos:prefLabel "Produktionsverfahren"@de .
+
+<weberei_id> a skos:Concept ;
+    skos:broader <konsumgüterindustrie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <seide_id>,
+        <teppich_id>,
+        <textilie_id>,
+        <webstuhl_id> ;
+    skos:prefLabel "Weberei"@de .
+
+<bauindustrie_id> a skos:Concept ;
+    skos:broader <investitionsgüterindustrie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <bauchemie_id>,
+        <baumaschine_id>,
+        <baustoff_id>,
+        <bautechnik_id>,
+        <konstruktion_id> ;
+    skos:prefLabel "Bauindustrie"@de .
+
+<baustoff_id> a skos:Concept ;
+    skos:broader <bauindustrie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <beton_id>,
+        <lehmbau_id>,
+        <wandputz_id>,
+        <zement_id>,
+        <ziegel_id> ;
+    skos:prefLabel "Baustoff"@de .
+
+<hausbau_id> a skos:Concept ;
+    skos:broader <bautechnik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <dach_id>,
+        <fassade_id>,
+        <fenster_id>,
+        <tür_id>,
+        <wandaufbau_id> ;
+    skos:prefLabel "Hausbau"@de .
+
+<schwerindustrie_id> a skos:Concept ;
+    skos:broader <grundstoffindustrie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <bergbau_id>,
+        <blechbearbeitung_id>,
+        <gießerei_id>,
+        <köhlerei_id>,
+        <metallurgie_id> ;
+    skos:prefLabel "Schwerindustrie"@de .
+
+<spanen_id> a skos:Concept ;
+    skos:broader <werkzeug_id> ;
+    skos:inScheme <> ;
+    skos:narrower <drehmaschine_id>,
+        <fräsen_id>,
+        <hobeln_id>,
+        <schleifen_id>,
+        <zerspanung_id> ;
+    skos:prefLabel "Spanen"@de .
+
+<handwerk_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <blumenbinderei_id>,
+        <fliesen_plattenlegen_id>,
+        <flößerei_id>,
+        <handwerk_geschichte_id>,
+        <kürschnerei_id>,
+        <schmiede_id>,
+        <wagnerei_id>,
+        <zunft_id> ;
+    skos:prefLabel "Handwerk"@de ;
+    skos:topConceptOf <> .
+
+<druck_papier_id> a skos:Concept ;
+    skos:broader <konsumgüterindustrie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <buchdruck_id>,
+        <journalismus_id>,
+        <layout_id>,
+        <offsetdruck_id>,
+        <plantin__christophe_id>,
+        <reprographie_id>,
+        <siebdruck_id>,
+        <umbruch_text_id>,
+        <verlag_id>,
+        <werbeagentur_id> ;
+    skos:prefLabel "Druck (Papier)"@de .
+
+<bautechnik_id> a skos:Concept ;
+    skos:broader <bauindustrie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <bautenschutz_id>,
+        <fachwerk_id>,
+        <hausbau_id>,
+        <hochhaus_id>,
+        <klimatechnik_id>,
+        <kran_id>,
+        <renovierung_id>,
+        <restaurierung_id>,
+        <tiefbautechnik_id>,
+        <wärmedämmung_id>,
+        <ökologischer_hausbau__id> ;
+    skos:prefLabel "Bautechnik"@de .
+
+<werkzeug_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <bohren_id>,
+        <löten_id>,
+        <pressen_druckausübung_id>,
+        <reiben_id>,
+        <schweißen_id>,
+        <spanen_id>,
+        <spannen_id>,
+        <stanzen_id>,
+        <sägen_id>,
+        <walzen_id>,
+        <ziehen_id> ;
+    skos:prefLabel "Werkzeug"@de ;
+    skos:topConceptOf <> .
+
+<konsumgüterindustrie_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <druck_papier_id>,
+        <gebrauchsgegenstand_id>,
+        <gerberei_id>,
+        <glasherstellung_id>,
+        <manufaktur_id>,
+        <mode_id>,
+        <modell_id>,
+        <schreibmaterial_id>,
+        <spinnerei_id>,
+        <stoffdruck_id>,
+        <tapete_id>,
+        <töpferei_id>,
+        <waschen_textilie_id>,
+        <weberei_id> ;
+    skos:prefLabel "Konsumgüterindustrie"@de ;
+    skos:topConceptOf <> .
+
+<investitionsgüterindustrie_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <bauindustrie_id>,
+        <flaschenzug_id>,
+        <flugzeugbau_id>,
+        <gewinde_id>,
+        <kraftfahrzeugindustrie_id>,
+        <maschinenbau_id>,
+        <nagel_befestigungsmittel_id>,
+        <niet_id>,
+        <roboter_id>,
+        <schiffbau_id>,
+        <schraube_befestigungsmittel_id>,
+        <schrott_id>,
+        <siemens_ag_id>,
+        <ventil_id>,
+        <waffenproduktion_id> ;
+    skos:prefLabel "Investitionsgüterindustrie"@de ;
+    skos:topConceptOf <> .
+
+<nahrungsmittelindustrie_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <bäckerei_id>,
+        <dünger_id>,
+        <gartenbau_id>,
+        <gastronomie_id>,
+        <imkerei_id>,
+        <jagd_weidwerk_id>,
+        <landmaschine_id>,
+        <lebensmittelchemie_id>,
+        <lebensmittelqualität_id>,
+        <melken_id>,
+        <mühle_zerkleinerungsmaschine_id>,
+        <schlachthof_id>,
+        <sekt_id>,
+        <tierhaltung_id>,
+        <verpackung_id> ;
+    skos:prefLabel "Nahrungsmittelindustrie"@de ;
+    skos:topConceptOf <> .
+
+<arbeitswelt_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <_betriebsorganisation_id>,
+        <akkordarbeit_id>,
+        <arbeitsplatzsuche_id>,
+        <betriebserkundung_id>,
+        <betriebsrat_id>,
+        <betriebsverfassungsgesetz_id>,
+        <bewerbung_id>,
+        <computerarbeitsplatz_id>,
+        <fließarbeit_id>,
+        <frauenarbeit_id>,
+        <kündigung_id>,
+        <schichtarbeit_id>,
+        <schwarzarbeit_id>,
+        <sicherheitstechnik_id>,
+        <streik_id>,
+        <tarifvertrag_id>,
+        <teilzeitarbeit_id> ;
+    skos:prefLabel "Arbeitswelt"@de ;
+    skos:topConceptOf <> .
+
+<> a skos:ConceptScheme ;
+    dct:creator "<https://creator.com>" ;
+    dct:description "arbeitslehre_systematik"@de ;
+    dct:title "arbeitslehre_systematik"@de ;
+    skos:hasTopConcept <arbeitswelt_id>,
+        <fundbüro_id>,
+        <grundstoffindustrie_id>,
+        <handwerk_id>,
+        <investitionsgüterindustrie_id>,
+        <konsumgüterindustrie_id>,
+        <lärm_id>,
+        <marine_id>,
+        <nahrungsmittelindustrie_id>,
+        <naturwissenschaft_id>,
+        <qualität_produkt_id>,
+        <sozialarbeit_id>,
+        <steuerung_steuerungstechnik_id>,
+        <technik_id>,
+        <verfahrenstechnik_id>,
+        <wahrheit_id>,
+        <weltausstellung_id>,
+        <werkstoff_id>,
+        <werkstück_id>,
+        <werkzeug_id>,
+        <wetterdienst_id>,
+        <wissenschaft_id>,
+        <wissensmanagement_id> .
+

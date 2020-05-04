@@ -1,0 +1,375 @@
+@base <https://example-perma-id/medienpaedagogik_systematik/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<beleuchtung_film/theater_id> a skos:Concept ;
+    skos:broader <filmgestaltung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Beleuchtung (Film/Theater)"@de .
+
+<belichtung_id> a skos:Concept ;
+    skos:broader <fotografieren_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Belichtung"@de .
+
+<bildsprache_id> a skos:Concept ;
+    skos:broader <fotografieren_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bildsprache"@de .
+
+<bildtonzuordnung_id> a skos:Concept ;
+    skos:broader <filmgestaltung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bild-Ton-Zuordnung"@de .
+
+<bittorf__wilhelm_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bittorf, Wilhelm"@de ;
+    skos:topConceptOf <> .
+
+<bluebox_id> a skos:Concept ;
+    skos:broader <fernsehen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bluebox"@de .
+
+<boulevardpresse_id> a skos:Concept ;
+    skos:broader <presse_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Boulevardpresse"@de .
+
+<castingshow_id> a skos:Concept ;
+    skos:broader <fernsehen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Castingshow"@de .
+
+<comedy_id> a skos:Concept ;
+    skos:broader <fernsehfilm_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Comedy"@de .
+
+<computerspiel_pädagogik_id> a skos:Concept ;
+    skos:broader <medienwirkung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Computerspiel (Pädagogik)"@de .
+
+<everding__august_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Everding, August"@de ;
+    skos:topConceptOf <> .
+
+<fake_news_id> a skos:Concept ;
+    skos:broader <nachricht_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fake News"@de .
+
+<fernsehen_östliche_bundesländer_id> a skos:Concept ;
+    skos:broader <fernsehen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fernsehen (östliche Bundesländer)"@de .
+
+<fernsehkonsum_id> a skos:Concept ;
+    skos:broader <fernsehen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fernsehkonsum"@de .
+
+<fernsehproduktion_id> a skos:Concept ;
+    skos:broader <fernsehen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fernsehproduktion"@de .
+
+<fernsehserie_id> a skos:Concept ;
+    skos:broader <fernsehen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fernsehserie"@de .
+
+<fernsehübertragung_id> a skos:Concept ;
+    skos:broader <fernsehen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fernsehübertragung"@de .
+
+<filmanalyse_id> a skos:Concept ;
+    skos:broader <film_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Filmanalyse"@de .
+
+<filmbildung_id> a skos:Concept ;
+    skos:broader <film_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Filmbildung"@de .
+
+<filmgeschichte_id> a skos:Concept ;
+    skos:broader <film_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Filmgeschichte"@de .
+
+<filmmontage_id> a skos:Concept ;
+    skos:broader <filmgestaltung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Filmmontage"@de .
+
+<filmsprache_id> a skos:Concept ;
+    skos:broader <filmgestaltung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Filmsprache"@de .
+
+<fotomontage_id> a skos:Concept ;
+    skos:broader <fotografieren_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fotomontage"@de .
+
+<kinderkino_id> a skos:Concept ;
+    skos:broader <medienzentrum_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kinderkino"@de .
+
+<kino_id> a skos:Concept ;
+    skos:broader <film_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kino"@de .
+
+<kulturtechnik_id> a skos:Concept ;
+    skos:broader <medienpädagogik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kulturtechnik"@de .
+
+<medienerziehung_id> a skos:Concept ;
+    skos:broader <medienzentrum_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Medienerziehung"@de .
+
+<medienkonsum_id> a skos:Concept ;
+    skos:broader <medienpädagogik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Medienkonsum"@de .
+
+<medienkunde_id> a skos:Concept ;
+    skos:broader <medienzentrum_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Medienkunde"@de .
+
+<medienwirklichkeit_id> a skos:Concept ;
+    skos:broader <medienpädagogik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Medienwirklichkeit"@de .
+
+<montage_medien_id> a skos:Concept ;
+    skos:broader <medienpädagogik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Montage (Medien)"@de .
+
+<neue_medien_id> a skos:Concept ;
+    skos:broader <medienpädagogik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Neue Medien"@de .
+
+<playback_id> a skos:Concept ;
+    skos:broader <fernsehen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Play-back"@de .
+
+<pressekodex_id> a skos:Concept ;
+    skos:broader <presse_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pressekodex"@de .
+
+<rundfunk_id> a skos:Concept ;
+    skos:broader <massenmedien_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Rundfunk"@de .
+
+<seifenoper_id> a skos:Concept ;
+    skos:broader <fernsehfilm_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Seifenoper"@de .
+
+<sensibilisierung_fotografie_id> a skos:Concept ;
+    skos:broader <fotografieren_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sensibilisierung (Fotografie)"@de .
+
+<tonstudio_id> a skos:Concept ;
+    skos:broader <medienpädagogik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tonstudio"@de .
+
+<trickfilmherstellung_id> a skos:Concept ;
+    skos:broader <filmherstellung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Trickfilmherstellung"@de .
+
+<unterhaltungssendung_id> a skos:Concept ;
+    skos:broader <fernsehen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Unterhaltungssendung"@de .
+
+<unterrichtsfilm_id> a skos:Concept ;
+    skos:broader <medienpädagogik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Unterrichtsfilm"@de .
+
+<vertonung_id> a skos:Concept ;
+    skos:broader <filmherstellung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Vertonung"@de .
+
+<videoclip_id> a skos:Concept ;
+    skos:broader <video_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Videoclip"@de .
+
+<videoproduktion_id> a skos:Concept ;
+    skos:broader <aktive_medienarbeit__id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Videoproduktion"@de .
+
+<weitwinkelobjektiv_id> a skos:Concept ;
+    skos:broader <fotografieren_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Weitwinkelobjektiv"@de .
+
+<zeitung_id> a skos:Concept ;
+    skos:broader <presse_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zeitung"@de .
+
+<aktive_medienarbeit__id> a skos:Concept ;
+    skos:broader <medienzentrum_id> ;
+    skos:inScheme <> ;
+    skos:narrower <videoproduktion_id> ;
+    skos:prefLabel "Aktive Medienarbeit "@de .
+
+<medienwirkung_id> a skos:Concept ;
+    skos:broader <medienpädagogik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <computerspiel_pädagogik_id> ;
+    skos:prefLabel "Medienwirkung"@de .
+
+<nachricht_id> a skos:Concept ;
+    skos:broader <presse_id> ;
+    skos:inScheme <> ;
+    skos:narrower <fake_news_id> ;
+    skos:prefLabel "Nachricht"@de .
+
+<printmedium_id> a skos:Concept ;
+    skos:broader <medienpädagogik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <presse_id> ;
+    skos:prefLabel "Printmedium"@de .
+
+<video_id> a skos:Concept ;
+    skos:broader <medienzentrum_id> ;
+    skos:inScheme <> ;
+    skos:narrower <videoclip_id> ;
+    skos:prefLabel "Video"@de .
+
+<fernsehfilm_id> a skos:Concept ;
+    skos:broader <fernsehen_id> ;
+    skos:inScheme <> ;
+    skos:narrower <comedy_id>,
+        <seifenoper_id> ;
+    skos:prefLabel "Fernsehfilm"@de .
+
+<filmherstellung_id> a skos:Concept ;
+    skos:broader <film_id> ;
+    skos:inScheme <> ;
+    skos:narrower <trickfilmherstellung_id>,
+        <vertonung_id> ;
+    skos:prefLabel "Filmherstellung"@de .
+
+<massenmedien_id> a skos:Concept ;
+    skos:broader <medienpädagogik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <fernsehen_id>,
+        <film_id>,
+        <rundfunk_id> ;
+    skos:prefLabel "Massenmedien"@de .
+
+<filmgestaltung_id> a skos:Concept ;
+    skos:broader <film_id> ;
+    skos:inScheme <> ;
+    skos:narrower <beleuchtung_film/theater_id>,
+        <bildtonzuordnung_id>,
+        <filmmontage_id>,
+        <filmsprache_id> ;
+    skos:prefLabel "Filmgestaltung"@de .
+
+<presse_id> a skos:Concept ;
+    skos:broader <printmedium_id> ;
+    skos:inScheme <> ;
+    skos:narrower <boulevardpresse_id>,
+        <nachricht_id>,
+        <pressekodex_id>,
+        <zeitung_id> ;
+    skos:prefLabel "Presse"@de .
+
+<fotografieren_id> a skos:Concept ;
+    skos:broader <medienpädagogik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <belichtung_id>,
+        <bildsprache_id>,
+        <fotomontage_id>,
+        <sensibilisierung_fotografie_id>,
+        <weitwinkelobjektiv_id> ;
+    skos:prefLabel "Fotografieren"@de .
+
+<medienzentrum_id> a skos:Concept ;
+    skos:broader <medienpädagogik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <aktive_medienarbeit__id>,
+        <kinderkino_id>,
+        <medienerziehung_id>,
+        <medienkunde_id>,
+        <video_id> ;
+    skos:prefLabel "Medienzentrum"@de .
+
+<film_id> a skos:Concept ;
+    skos:broader <massenmedien_id> ;
+    skos:inScheme <> ;
+    skos:narrower <filmanalyse_id>,
+        <filmbildung_id>,
+        <filmgeschichte_id>,
+        <filmgestaltung_id>,
+        <filmherstellung_id>,
+        <kino_id> ;
+    skos:prefLabel "Film)"@de .
+
+<fernsehen_id> a skos:Concept ;
+    skos:broader <massenmedien_id> ;
+    skos:inScheme <> ;
+    skos:narrower <bluebox_id>,
+        <castingshow_id>,
+        <fernsehen_östliche_bundesländer_id>,
+        <fernsehfilm_id>,
+        <fernsehkonsum_id>,
+        <fernsehproduktion_id>,
+        <fernsehserie_id>,
+        <fernsehübertragung_id>,
+        <playback_id>,
+        <unterhaltungssendung_id> ;
+    skos:prefLabel "Fernsehen"@de .
+
+<medienpädagogik_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <fotografieren_id>,
+        <kulturtechnik_id>,
+        <massenmedien_id>,
+        <medienkonsum_id>,
+        <medienwirklichkeit_id>,
+        <medienwirkung_id>,
+        <medienzentrum_id>,
+        <montage_medien_id>,
+        <neue_medien_id>,
+        <printmedium_id>,
+        <tonstudio_id>,
+        <unterrichtsfilm_id> ;
+    skos:prefLabel "Medienpädagogik"@de ;
+    skos:topConceptOf <> .
+
+<> a skos:ConceptScheme ;
+    dct:creator "<https://creator.com>" ;
+    dct:description "medienpaedagogik_systematik"@de ;
+    dct:title "medienpaedagogik_systematik"@de ;
+    skos:hasTopConcept <bittorf__wilhelm_id>,
+        <everding__august_id>,
+        <medienpädagogik_id> .
+

@@ -1,0 +1,68 @@
+M A T H E M A T I K 								
+
+Mathematik
+-Algebra
+	--Analytische Geometrie
+		---Funktion (Mathematik)
+			----Exponentialfunktion 
+			----Winkelfunktion
+	--Gleichung (Mathematik)
+		---Dreisatz
+		---Proportion (Mathematik)
+	--Mengenlehre
+		---Menge (Mathematik)
+		---Venn-Diagramm
+	--Schaltalgebra
+	--Ungleichung (Mathematik)
+-Algorithmus
+	--Bruchrechnung
+	--Grundrechenart
+	--Kommutativgesetz
+	--Prozentrechnung
+-Analysis
+-Chaostheorie
+-Formel (Mathematik)
+-Geometrie
+	--Diagramm
+	--Ellipse (Gemetrie)
+	--Flächeninhalt
+	--Fraktalgeometrie
+	--Geometrische Figur 
+		---Viereck (Geometrie)
+		---Würfel (Geometrie)
+	--Gerade (Mathematik)
+	--Kegelschnitt
+	--Koordinate
+	--Oberfläche (Mathematik)
+	--Parabel (Mathematik)
+	--Projektion (Mathematik)
+	--Pythagoras
+	--Rauminhalt
+		---Volumenberechnung
+	--Senkrechte (Mathematik)
+	--Symmetrie
+		---Achsensymmetrie
+	--Winkel (Geometrie)
+-Größe (Mathematik/Physik)
+	--Watt (Einheit)
+	--Winkelgeschwindigkeit
+-Kopfrechnen
+-Rechenstab
+-Statistik
+-Tabellenkalkulation
+-Wahrscheinlichkeit (Mathematik)
+-Zahl
+	--Negative Zahlen
+	--Zahlensystem
+		---Bündelung (Mathematik)
+		---Dualsystem
+
+Babbage, Charles
+Barlow, Peter
+Bernoulli, Daniel
+Cavalieri, Bonaventura
+Coriolis, Gaspard Gustave de
+Descartes, René
+Gauß, Carl Friedrich
+Mandelbrot, Benoît
+Ries, Adam

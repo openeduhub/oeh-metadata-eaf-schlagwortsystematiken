@@ -1,0 +1,265 @@
+A R B E I T S L E H R E								
+
+Arbeitswelt
+-Akkordarbeit
+-Betriebserkundung
+- Betriebsorganisation
+-Computerarbeitsplatz
+-Frauenarbeit
+-Fließarbeit
+-Schichtarbeit
+-Schwarzarbeit
+-Sicherheitstechnik
+	--Arbeitssicherheit
+-Teilzeitarbeit
+
+-Betriebsrat
+-Betriebsverfassungsgesetz
+-Streik
+-Tarifvertrag
+
+-Arbeitsplatzsuche
+-Bewerbung
+-Kündigung
+
+Verfahrenstechnik
+-Produktionsverfahren
+	--Automation
+	--Fügen (Fertigungstechnik)
+	--Massenproduktion
+	--Verbindungstechnik
+		---Gelenk (Technik)
+
+Fundbüro
+
+Grundstoffindustrie
+-Chemische Industrie
+	--Klebstoff
+	--Lack
+-Holzwirtschaft
+	--Holzverarbeitung
+		---Holz
+			----Furnier
+			----Korpusverbindung
+			----Spanplatte
+-Papierherstellung
+	--Papier
+-Schwerindustrie
+	--Bergbau
+	--Blechbearbeitung
+	--Gießerei
+		---Glockengießerei
+	--Köhlerei
+	--Metallurgie
+		---Draht
+		---Hüttenwerk
+			----Hochofen
+		---Sintern
+
+Handwerk
+-Blumenbinderei
+-Fliesen (Plattenlegen)
+-Flößerei
+-Handwerk (Geschichte)
+-Kürschnerei
+-Schmiede
+-Wagnerei
+-Zunft
+
+Investitionsgüterindustrie
+-Bauindustrie
+	--Bauchemie
+	--Baumaschine
+	--Bautechnik
+		---Bautenschutz
+		---Fachwerk
+		---Hausbau
+			----Dach
+			----Fassade
+			----Fenster
+			----Tür
+			----Wandaufbau
+		---Hochhaus
+		---Klimatechnik
+			----Wärmepumpe
+		---Kran
+		---Ökologischer Hausbau 
+---Renovierung
+		---Restaurierung
+		---Tiefbautechnik
+			----Kanalbau
+		---Wärmedämmung
+	--Baustoff
+		---Beton
+			----Stahlbeton
+				-----Bewehrung (Bauwesen)
+			----Leichtbeton
+		---Lehmbau
+		---Wandputz
+		---Ziegel
+		---Zement
+	--Konstruktion
+		---Technisches Zeichnen
+-Flaschenzug
+-Flugzeugbau
+-Gewinde
+-Kraftfahrzeugindustrie
+	--Kraftfahrzeugbau
+	--Kraftfahrzeugtechnik
+		---Verbrennungsmotor
+			----Vergaser
+			----Wankelmotor
+			----Zündung (Verbrennungsmotor)
+-Maschinenbau
+	--Maschine
+		---Kupplung
+		---Lager (Maschinenteil)
+		---Werkzeugmaschine
+			----Vorschub (Werkzeugmaschine)
+		---Turbine
+-Nagel (Befestigungsmittel)
+-Niet
+-Roboter
+-Schiffbau
+	--Werft
+	--Wrack
+-Schraube (Befestigungsmittel)
+-Schrott
+-Siemens AG
+-Ventil
+-Waffenproduktion
+	--Waffe
+		---Mine (Waffe)
+
+Konsumgüterindustrie
+-Druck (Papier)
+	--Buchdruck
+		---Buch
+	--Journalismus
+	--Layout
+	--Offsetdruck
+	--Plantin, Christophe
+	--Reprographie
+	--Siebdruck
+	--Umbruch (Text)
+	--Verlag
+	--Werbeagentur
+		---Werbefotografie
+-Gebrauchsgegenstand
+	--Messer
+	--Schreibmaschine
+	--Uhr
+-Gerberei
+	--Leder
+-Glasherstellung
+	--Glas
+		---Flasche
+-Manufaktur
+	--Brennofen
+	--Porzellan
+		---Glasur
+-Mode
+	--Kopfbedeckung
+	--Schuh
+-Modell
+-Schreibmaterial
+-Spinnerei
+	--Faser
+	--Seil (Element zur Übertragung von Zugkräften)
+	--Wolle
+-Stoffdruck
+-Tapete
+-Töpferei
+-Waschen (Textilie)
+-Weberei
+	--Textilie
+	--Seide
+	--Teppich
+		---Wandteppich
+	--Webstuhl
+
+Lärm
+
+Marine
+-Segelschulschiff
+
+Nahrungsmittelindustrie
+-Bäckerei
+-Dünger
+-Gartenbau
+	--Garten
+-Gastronomie
+-Imkerei
+-Jagd (Weidwerk)
+	--Falknerei
+-Landmaschine
+	--Dreschen
+	--Pflug (Ackergerät)
+-Lebensmittelchemie
+-Lebensmittelqualität
+-Melken
+-Mühle (Zerkleinerungsmaschine)
+-Schlachthof
+	--Hausschlachtung
+-Sekt
+-Tierhaltung
+	--Hühnerhaltung
+	--Massentierhaltung
+	--Rinderhaltung
+-Verpackung
+
+Naturwissenschaft
+
+Qualität (Produkt)
+
+Sozialarbeit
+
+Steuerung (Steuerungstechnik)
+-Regelungstechnik
+	--Mischbatterie
+-Toleranzsystem
+
+Technik
+-Technikgeschichte
+-Technologie
+	--Nanotechnologie
+
+Wahrheit
+
+Weltausstellung
+
+Werkstoff
+-Werkstoffkunde
+-Werkstoffprüfung
+	--Härten (Metall)
+	--Biegefestigkeit
+	--Schneidengeometrie
+
+Werkstück
+
+Werkzeug
+-Bohren
+-Löten
+-Pressen (Druckausübung)
+-Reiben
+-Sägen
+-Schweißen
+-Spanen
+	--Drehmaschine
+	--Fräsen
+	--Hobeln
+	--Schleifen
+		---Honen
+		---Läppen
+	--Zerspanung
+-Spannen
+-Stanzen
+-Walzen
+	--Walzwerk
+-Ziehen
+
+Wetterdienst
+
+Wissenschaft
+
+Wissensmanagement

@@ -1,0 +1,316 @@
+P H Y S I K										
+
+Physik
+-Astronomie
+	--Weltall
+		---Keplersche Gesetze
+			----Ekliptik
+		---Komet
+			----Halleyscher Komet
+		---Meteor
+		---Planet
+			----Erde
+				-----Mond
+					------Mondfinsternis
+					------Mondphase
+						-------Vollmond
+				-----Wendekreis (Breitenkreis)
+				-----Van-Allen-Gürtel
+			----Jupiter (Planat)
+			----Mars (Planet)
+			----Merkur (Planet)
+			----Neptun (Planet)
+			----Pluto (PLanat)
+			----Saturn (Planet)
+			----Uranus (Planet)
+			----Venus (Planet)
+		---Polarlicht
+		---Sonne
+			----Sonnenfinsternis
+		---Weltbild
+			----Epizykletheorie
+			----Gravitation
+				-----Auftrieb (Physik)
+			----Magnetismus
+				-----Magnetometer
+			----Urknall
+		---Weltraum
+			----Weltraumforschung
+				-----Weltraumfahrt
+					------Apollo-Programm
+					------Mondlandung
+					------Rakete
+					------Satellit
+-Bewegung (Physik)
+	--Rotation (Physik)
+	--Trägheit (Physik)
+-Elementarteilchen
+-Energie
+	--Elektrische Leitung
+	--Elektrizität
+		---Elektrodynamik
+		---Elektronik
+			----Bipolare Ansteuerung
+			----Dipol
+			----Dotierung
+			----Elektrode
+			----Gasentladung
+				-----Lichtbogen
+			----Halbleiter
+			----Induktion (Elektrizität)
+			----Kondensator (Elektrizität)
+			----Kurzschluss
+			----Millikanversuch
+			----Nebelkammer
+			----Operationsverstärker
+			----Stromkreis
+			----Synchroton
+			----Transformator
+			----Transistor
+			----Unipolare Ansteuerung
+			----Verstärker (Elektrotechnik)
+			----Widerstand (Physik)
+		---Elektrotechnik
+			----Batterie
+			----Generator
+			----Gleichrichter
+			----Gleichstrom
+			----Isolator (Elektrotechnik)
+			----Klingel
+			----Relais
+			----Schutzmaßnahme (Elektrik)
+				-----Überstromschutzeinrichtung
+			----Ultraschall
+			----Wechselstrom
+		---Feldlinie
+		---Lampe
+			----Glühlampe
+		---Volt
+	--Energieträger
+	--Feuerwerk
+	--Leiter (Physik)
+	--Nichtleiter
+	--Solarenergie
+	--Supraleiter
+	--Wärmeenergie
+	--Wirkungsgrad
+-Funktechnik
+	--Fernsehtechnik
+		---Braunsche Röhre
+	--Frequenz (physikalische Größe)
+	--Modulation
+	--Radar
+	--RFID
+	--Signal (Elektrik)
+	--Telefon
+-Heizung
+	-Wärmeleistung (Heiztechnik)
+-Kernphysik
+	--CERN
+	--Halbwertszeit
+	--Kernbrennstoff
+	--Kernfusion
+	--Kernkraftwerk
+	--Kernspaltung
+	--Kernwaffe
+--Plasmaphysik
+--Teilchenbeschleuniger
+	--Wiederaufarbeitung
+-Mechanik
+	--Adhäsion
+	--Aerodynamik
+	--Ausdehnung
+	--Brownsche Bewegung
+	--Brücke (Bauwerk)
+	--Drehachse
+	--Drehmoment
+	--Druck (Physik)
+		---Hydrostatischer Druck
+		---Vakuum
+	--Geschwindigkeit
+		---Inertialsystem
+		---Lichtgeschwindigkeit
+	--Getriebe
+	--Hooksches Gesetz
+	--Hydraulik
+	--Kondensation (Physik)
+	--Kraft
+		---Lorentzkraft
+		---Zentrifugalkraft
+	--Kristall
+	--Leistung (Physik)
+	--Lotuseffekt
+	--Masse (Physik)
+	--Newtonsche Gesetze
+	--Oberflächenspannung
+	--Pneumatik
+	--Pumpe
+	--Rad (Maschinenteil)
+	--Reibung
+	--Schmiermittel
+	--Struktur (allgemein)
+	--Turm
+	--Vortrieb
+	--Wärme
+		---Feuer
+			----Rauch
+		---Wärmeausdehnung
+		---Wärmeübertragung
+			----Konvektion
+			----Wärmeleitung
+			----Wärmetauscher
+	--Wärmekraftmaschine
+		---Dampfmaschine
+	--Welle (Physik)
+		---Doppler-Effekt
+		---Elektromagnetische Wellen
+		---Interferenz
+		---Reflexion (Physik)
+		---Schallmauer
+		---Wellenlänge
+	--Wurf (Physik)
+	--Zahnrad
+	--Zeit
+	--Zug (Festigkeitslehre)
+-Messtechnik
+	--Barometer
+	--Temperatur (allgemein)
+	--Thermometer
+	--Thermostat
+	--Windmesser
+-Optik
+	--Abbildungsfehler
+	--Fotografie
+		---Bildbearbeitung
+		---Daguerreotypie
+		---Digitale Fotografie
+		---Sofortbildfotografie
+	--Kamera
+	--Laser
+	--Linse (Optik)
+		---Objektiv (Optik)
+	--Lupe
+	--Mikroskop
+		---Dünnschliff
+		---Elektronenmikroskop
+		---Mikroskopie
+	--Optische Täuschung
+	--Oszillograf
+	--Röntgenkunde
+	--Schatten
+	--Strahlung (allgemein)
+		---Farbe
+			----Farbenlehre
+		---Freie-Elektronen-Laser
+		---Einfallswinkel
+		---Licht
+			----Kerze
+			----Lichtbrechung
+			----Photoeffekt
+			----Regenbogen
+			----Spektrum (Physik)
+		---Ultraviolett-Katastrophe
+		---Ultraviolettstrahlung
+	--Teleskop
+	--Vergrößerung (Optik)
+	--Virtuelles Bild
+	--Wölbspiegel
+-Orbitalmodell
+-Quantentheorie
+-Prüfverfahren
+-Relativitätstheorie
+	--Weltlinie
+-Wechselwirkung (fundamentale)
+
+UFO
+
+Abbe, Ernst
+Ampère, André-Marie
+Ardenne, Manfred von
+Avogadro, Amedeo
+Baird, John Logie
+Bardeen, John
+Becquerel, Antoine Henri
+Bell, Alexander Graham
+Bethe, Hans
+Binning, Gerd
+Bohr, Niels
+Brahe, Tycho
+Brattain, Walter
+Braun, Karl Friedrich
+Braun, Wernher von
+Celsius, Anders
+Daguerre, Louis
+Diesel, Rudolf
+Drais, Carl-Friedrich
+Edison, Thomas Alva
+Einstein, Albert
+Eyth, Max
+Faraday, Michael
+Fermi, Enrico
+Foucault, Jean Bernard Léon
+Fraunhofer, Joseph
+Gilbert, William
+Grove, William Robert
+Guericke, Otto von
+Halley, Edmond
+Hawking, Stephen William
+Heisenberg, Werner
+Hertz, Heinrich
+Hertz, Gustav
+Hubble, Edwin Powell
+Jenny, Hans
+Joliot, Frederic
+Joule, James Prescott
+Kammerlingh-Onnes, Heike
+Kepler, Johannes
+Knoll, Max
+Koroljow, Sergej Pawlowitsch
+Lumière, Gebrüder
+Laplace, Pierre Simon de
+Lilienthal, Otto
+Linde, Carl von
+MacCready, Paul
+Maimann, Theodore
+Marconi, Guglielmo
+Maxwell, James Clark
+Mayer, Tobias
+Meißner, Walther
+Messerschmitt, Willy
+Montgolfier (Gebrüder)
+Newcomen, Thomas	
+Newton, Isaac	
+Nipkow, Paul Julius Gottlieb
+Nostradamus
+Oberth, Hermann
+Ohm, Georg Simon
+Papin, Denis
+Pacal, Blaise
+Piccard, Auguste
+Planck, Max
+Röntgen, Wilhelm Conrad
+Ruska, Ernst
+Rutherford, Ernest
+Schawlow, Arthur Leonard
+Schrödinger, Erwin 
+Shckley, William Bradford
+Siemens, Werner von
+Sikorsky, Igor Iwanowitsch
+Skladanowsky, Max
+Stephenson, George
+Stauss, Joseph Baermann
+Tesla, Nikola
+Townes, Charles Hard
+Volta, Alessandro Graf
+Thomson, William
+Wankel, Felix
+Watson-Watt, Robert
+Watt, James
+Weizenbaum, Joseph
+Weizsäcker, Carl Friedrich
+Westinghouse, George
+Wiechert, Emil
+Whittle, Frank
+Wright (Gebrüder)
+Zeiss, Carl
+Zworykin, Vladimir Kosma

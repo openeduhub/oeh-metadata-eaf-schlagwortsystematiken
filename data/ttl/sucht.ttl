@@ -1,0 +1,75 @@
+@base <https://example-perma-id/sucht_systematik/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<alkoholismus_id> a skos:Concept ;
+    skos:broader <sucht_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Alkoholismus"@de .
+
+<arzneimittelmissbrauch_id> a skos:Concept ;
+    skos:broader <sucht_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Arzneimittelmissbrauch"@de .
+
+<drogenberatung_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Drogenberatung"@de ;
+    skos:topConceptOf <> .
+
+<drogenhandel_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Drogenhandel"@de ;
+    skos:topConceptOf <> .
+
+<ecstasy_id> a skos:Concept ;
+    skos:broader <rauschgift_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ecstasy"@de .
+
+<heroin_id> a skos:Concept ;
+    skos:broader <rauschgift_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Heroin"@de .
+
+<rauchen_id> a skos:Concept ;
+    skos:broader <sucht_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Rauchen"@de .
+
+<suchtgefahr_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Suchtgefahr"@de ;
+    skos:topConceptOf <> .
+
+<suchtprävention_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Suchtprävention"@de ;
+    skos:topConceptOf <> .
+
+<rauschgift_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <ecstasy_id>,
+        <heroin_id> ;
+    skos:prefLabel "Rauschgift"@de ;
+    skos:topConceptOf <> .
+
+<sucht_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <alkoholismus_id>,
+        <arzneimittelmissbrauch_id>,
+        <rauchen_id> ;
+    skos:prefLabel "Sucht"@de ;
+    skos:topConceptOf <> .
+
+<> a skos:ConceptScheme ;
+    dct:creator "<https://creator.com>" ;
+    dct:description "sucht_systematik"@de ;
+    dct:title "sucht_systematik"@de ;
+    skos:hasTopConcept <drogenberatung_id>,
+        <drogenhandel_id>,
+        <rauschgift_id>,
+        <sucht_id>,
+        <suchtgefahr_id>,
+        <suchtprävention_id> .
+

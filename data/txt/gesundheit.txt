@@ -1,0 +1,244 @@
+G E S U N D H E I T (ERNÄHRUNG, HYGIENE, MEDIZIN)			
+
+Ernährung
+-Diät
+-Ernährungsfehler
+-Fast Food
+-Gemeinschaftsverpflegung
+-Hunger
+-Nahrungsaufnahme (Mensch)
+-Nährwert
+-Nahrungsergänzungsmittel
+-Stillen
+-Tiefkühlkost
+-Vegetarier
+	--Veganer
+-Vollwertkost
+
+-Frühstück
+	--Pausenfrühstück
+
+-Lebensmittel
+	--Genussmittel
+		---Coca Cola
+		---Nikotin
+	--Nahrungsmittel
+		---Brot
+		---Fleisch
+		---Gemüse
+		---Hühnerei
+		---Margarine
+		---Mehl
+		---Milchprodukt
+			----Butter
+			----Joghurt
+			----Käse
+			----Milch
+		---Schokolade
+		---Teig
+		---Wurst
+		---Zucker
+	--Spurenelement
+	--Vitamin
+
+-Garmethode
+	--Backen
+-Küche
+	--Haushaltsgerät
+		---Herd (Haushaltstechnik)
+		---Waschmaschine
+	--Haushaltsgeschirr 
+
+-Lebensmittelkonservierung
+-Vorratshaltung
+	--Essig
+
+Hygiene
+-Chemie im Haushalt
+-Putzen
+-Putzmittel
+-Toilette
+-Waschmittel
+
+-(Körperpflege)
+	--Frisur
+	--Kosmetik
+	--Sauberkeitserziehung
+
+Medizin (Heilkunde)
+-Arztbesuch
+-Gesundheit
+-Gesundheitserziehung
+-Krankenhaus
+	--Krankenhausaufenthalt
+-Leiden
+-Schmerz
+
+-Behinderung
+	--Blindheit
+		---Gesichtsblindheit
+	--Down-Syndrom
+	--Gehörlosigkeit
+	--Spastiker
+	--Sprachstörung
+	--Stummheit
+	--Taubstummheit
+
+-Krankheit
+	--Akne
+	--Arteriosklerose
+	--Autismus
+	--Avitaminose
+	--Binge Eating
+	--Demenz
+	--Deprivation
+	--Diabetes
+	--Dyskalkulie
+	--Erbkrankheit
+		---Bluterkrankheit
+	--Fraktur (Medizin)
+	--Fußdeformität
+	--Haltungsfehler
+	--Herzinfarkt
+	--Hospitalismus
+	--Immunreaktion
+		---Allergie
+	--Infektion
+		---Infektionskrankheit
+			----Aids
+			----Borreliose
+			----BSE
+			----FSME
+			----Geschlechtskrankheit
+			----Kindbettfieber
+			----Kinderlähmung
+			----Lepra
+			----Röteln
+			----Tropenkrankheit
+			----Tuberkulose
+			----Windpocken
+	--Kopfschmerz
+	--Krampfader
+	--Krankheitsbild
+	--Krankheitserreger
+	--Krebs (Krankheit)
+	--Lebensmittelvergiftung
+	--Leberzirrhose
+	--Legasthenie
+	--Leukämie
+	--Magersucht
+	--Muskelschwäche
+	--Multiple Sklerose
+	--Narzissmus
+	--Psychische Krankheiten
+		---ADS (Psychologie)
+		---Zwangsstörung
+	--Schlaganfall
+	--Sehfehler
+		---Weitsichtigkeit
+	--Seuche
+	--Sterilität (Unfruchtbarkeit)
+	--Stoffwechselkrankheit
+	--Strahlenschaden
+	--Tourette-Syndrom
+	--Übergewicht
+	--Unterernährung
+	--Venenerkrankung
+	--Verbrennung (Medizin)
+	--Wunde
+	--Zahnpflege
+		---Karies
+		---Parodontose
+	--Zivilisationskrankheit
+
+-Alternativmedizin
+-Autogenes Training
+-Biomedizin
+-Bionik
+-Blutzucker
+-Chemotherapie
+-Cholesterin
+-Computertomographie
+-Defibrillator
+-Dialyse
+-Ergometrie
+-Fieber
+-Geriatrie
+-Gipsverband
+-Impfung
+-Implantat
+-Injektion (Medizin)
+-Yoga
+-Krankenpflege
+-Leistung (Physiologie)
+-Logopädie
+-Massage
+-Medizinethik
+-Motorik
+-Organspende
+-Pharmazie
+	--Arzneimittel
+		---Antibiotika
+		---Cortison
+-Psychoanalyse
+-Psychologie
+	--Kognition
+	--Trauma
+-Psychosomatik
+-Psychiatrie
+-Rehabilitation
+-Schlaf
+-Therapie
+-Toxikologie
+-Ultraschalldiagnostik
+-Untersuchungsmethode (Medizin)
+	--Magnetoenzophalographie
+-Versorgung (Medizin)
+-Viren (Krankheitserreger)
+-Vorsorgeuntersuchung
+	--Pränataldiagnostik
+
+-Abtreibung
+-Fehlgeburt
+-Frühgeburt
+-Geburt
+-Kindstod
+
+-Bach, Edward	
+-Banting, Frederick
+-Bauer, Karl Heinrich
+-Best, Charles
+-Brunschig, Hieronymus
+-Carus, Carl Gustav
+-Eccles, John
+-Ehrlich, Paul
+-Einthoven, Willem
+-Freud, Sigmund
+-Jenner, Edward
+-Grof, Stanislav
+-Kandel, Eric Richard
+-Kneipp, Sebastian
+-Kohut, Heinz
+-Kübler-Ross, Elisabeth
+-Landsteiner, Karl
+-Levitin, Daniel
+-Lister, Joseph
+-Lückert, Heinz-Rudiolf
+-Mayer, Robert
+-Mitscherlich, Alexander
+-Montesquieu
+-Morton, William
+-Paracelsus
+-Pawlow, Iwan Petrowitsch
+-Pettenkofer, Max von
+-Ramón y Cajal, Santiago Felipe
+-Rank, Otto
+-Reich, Wilhelm
+-Schweitzer, Albert
+-Semmelweis, Ignaz Philipp
+-Simpson, James
+-Steinmann, Fritz
+-Trott zu Solz, Claritta von
+-Virchow, Rudolf
+-Wertheimer, Max
+-Ylppó, Arvo Henrik

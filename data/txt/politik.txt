@@ -1,0 +1,286 @@
+P O L I T I K 										
+
+Politik
+-Arbeitsmarktpolitik
+-Außenpolitik
+	--USA (Außenpolitik)
+	--Isolationismus
+	--Krieg
+		---Atomkrieg
+		---Bürgerkrieg
+		---Gewalt (Krieg)
+		---Invasion
+		---Luftkrieg
+		---Okkupation
+		---Verteidigung (Politik)
+--Entspannungspolitik
+		---Abrüstung
+--Entwicklungshilfe
+		---Entwicklungsland
+		---Schwellenländer
+
+-Arbeitsagentur
+-Ausweis
+-Bundesfreiwilligendienst
+-Bundesregierung
+	--Bundeskanzler
+	--Bundespräsident
+	--Bundesrat
+	--Bundestag
+		---Abgeordneter
+	--Vermittlungsausschuss
+-Bundeswehr
+	--Kriegsdienstverweigerung
+	--Wehrdienst
+	--Wehrpflicht
+	--Zivildienst
+-Bürokratie
+-Deutscher Gewerkschaftsbund
+-Deutsch-französische Beziehungen
+-DIN
+-Diplomatie
+-Dissident
+-Domino-Theorie
+-E-Government
+-Gericht (Recht)
+	--Bundesverfassungsgericht
+-Gesetz
+	--Gesetzgebung
+		---Gesetzgebungsverfahren
+	--Grundgesetz
+-Interesse (Politikwissenschaft)
+-Jugendfreiwilligendienst
+-Jugendschutz
+	--Jugendmedienschutz
+	--Kinderarbeit
+-Kriegsgräberfürsorge
+-Mitbestimmung
+-Müllabfuhr
+-Öffentlicher Haushalt
+-Partei (Politik)
+	--Christlich Demokratische Union
+	--Freie Demokratische Partei
+	--Große Koalition 
+	--Grüne
+	--Sozialdemokratische Partei Deutschlands
+	--Sozialliberale Koalition 
+	--Volkspartei
+-Petition
+-Polizei
+-Postleitzahl
+-Recht
+	--Rechtsprechung
+	--Staatsanwaltschaft
+	--Strafrecht
+	--Unrecht
+	--Urheberrecht
+		---Nutzungsrecht
+	--Verband (Recht)
+	--Völkerrecht
+	--Zivilrecht
+-Sozialstaat
+	--Sozialstruktur
+	--Wohnungsbau
+-Statistisches Bundesamt
+-Strafvollzug
+	--Jugendstrafvollzug
+-Tag der Arbeit
+-Treuhandanstalt
+-Verwaltung
+	--Kreis (Verwaltungsbezirk)
+		---Gemeinde (Politik)
+			----Kommunalpolitik
+	--Landtag
+	--Selbstverwaltung
+-Verbrechensbekämpfung
+-Verfassung (Politik)
+	--Verfassungsschutz
+-Volksdeutsche
+-Vollstreckung
+	--Zwangsvollstreckung
+-Wahl
+	--Wahlkampf
+	--Wahlrechtsgrundsatz
+		---Wahlrecht
+	--Wahlsystem
+		---Überhangmandat
+		---Verhältniswahl
+
+-Ausländer (weltweit)
+-Auslanddeutsche
+-Aussiedler
+-Befreiungsbewegung
+-Bündnis
+-Bürgerbeteiligung
+-Bürgerinitiative
+-Demokratisierung
+-Demonstration
+-Demoskopie
+-Dienstleistung
+-Diskriminierung
+-Dschandschawid
+-Einwanderungspolitik
+	--Illegale Einwanderung
+-Exil
+-Fanatismus
+-Feindbild
+-Flüchtlinge
+-Freiheit
+-Frieden
+	--Friedensbewegung
+	--Friedenserziehung
+-Gesellschaft
+-Gewaltfreie Aktion
+-Golfstaaten
+-Grundrechte
+-Hauptstadt
+-Herrschaftsform
+	--Demagogie
+	--Demokratie
+		---Parteiendemokratie
+	--Diktatur
+	--Föderalismus
+	--Gleichschaltung
+	--Kommunismus
+	--Liberalismus
+	--Marxismus
+	--Militarismus
+	--Monarchie
+	--Parlamentarismus
+	--Rechtsstaat
+	--Totalitarismus
+-Herrscher
+-Ideologie
+-Imperialismus
+-Jugendkultur
+-Kinderrechte
+-Kollektivierung
+-Konferenz
+-Kriegsfolge
+-Kriegsgefangenschaft
+-Kriegsverbrechen
+-KSZE
+-Materialismus
+-Meinungsfreiheit
+	--Pressefreiheit
+-Migrationsursache
+-Militär
+	--Militäreinsatz
+-Minderheit
+	--Sorben
+-Modellversuch
+-MST
+-Nationalversammlung
+-Nichtregierungsorganisation
+	--Amnesty International
+--Brot für die Welt
+-Nordatlantikpakt
+-Neofaschismus
+-Nobelpreis
+-Oder-Neiße-Grenze
+-Opposition
+-Parlament
+-Patriotismus
+-Politikverdrossenheit
+-Politische Grenze
+	--Grenzschutz
+-Politische Verfolgung 
+-Politischer Konflikt
+-Politischer Widerstand 
+-Populismus
+-Propaganda
+-Protest
+-Putsch
+-Rassenfrage
+-Rassismus
+	--Rassismus (Deutschland)
+	--Rassismus (Frankreich)
+	--Rassismus (Republik Südafrika)
+	--Rassismus (USA)
+-Rationalismus
+-Reform
+-Revolution (allgemein)
+-Rüstung (Politik)
+	--Wettrüsten
+-Selbstbestimmung
+-Sozialdemokratie
+-Sozialismus
+-Spätaussiedler
+-Spionage
+	--Whistleblower
+-Staat (Land)
+	--Nation
+	--Nationalflagge
+	--Nationalismus
+	--Staatsbürgerschaft
+	--Weltmacht
+-Terror
+	--RAF
+	--Terrorismus
+-Todesstrafe
+-Verband (Soziologie)
+-Vereinte Nationen
+	--UNESCO
+	--Weltgesundheitsorganisation
+-Vertreibung
+-Völkermord
+-Vorwahlen (USA)
+-Zensur (Überwachung)
+
+Mafia
+
+Glasnost
+Nahostkonflikt
+Russifizierung
+
+Europäische Gemeinschaften
+-Europäische Einigungsbewegung
+-Europäischer Binnenmarkt
+-Europäisches Parlament
+-Europarat
+Europäische Union
+
+GUS
+
+Avnery, Uri
+Balladur, Edouard
+Biedenkopf, Kurt
+Brugioni, Dino
+Bush, George W.
+Castro, Fidel
+Chamorro, Violeta
+Charles (Prinz Wales)
+Cheney, Richard
+Chirac, Jacques
+Chruschtschow, Sergej
+Clement, Wolfgang
+Elisabeth II. (Königin England)
+Eppelmann, Rainer
+Farhat-Naser, Sumaya
+Guttenberg, Karl Theodor zu
+Giscard d'Estaing, Valéry
+Gysi, Gregor 
+Hamm-Brücher, Hildegard
+Hänsch, Klaus
+Höllenreiner, Hugo
+Keller, Ska
+Klarsfeld, Beate
+Kohl, Helmut
+Kraft, Hannelore
+Le Pen, Jean-MArie
+McNamara, Robert
+Menchu, Rigoberta
+Merkel, Angela
+Modrow, Hans
+Mugabe, Robert
+Neudeck, Rupert
+Obama, Barack
+Rüttgers, Jürgen
+Schäuble, Wolfgang
+Schmidt, Helmut
+Schorlemmer, Friedrich
+Schröder, Gerhard
+Steinbrück, Peer
+Trump, Donald
+Veil, Simone
+Yousafzai, Malala

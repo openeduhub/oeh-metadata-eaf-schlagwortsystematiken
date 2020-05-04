@@ -1,0 +1,153 @@
+@base <https://example-perma-id/interkulturelle_bildung_systematik/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<abschiebung_recht_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Abschiebung (Recht)"@de ;
+    skos:topConceptOf <> .
+
+<antisemitismus_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Antisemitismus"@de ;
+    skos:topConceptOf <> .
+
+<asyl_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Asyl"@de ;
+    skos:topConceptOf <> .
+
+<ausländerin_id> a skos:Concept ;
+    skos:broader <ausländer_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ausländerin"@de .
+
+<ausländerintegration_id> a skos:Concept ;
+    skos:broader <ausländerproblematik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ausländerintegration"@de .
+
+<ausländerkind_id> a skos:Concept ;
+    skos:broader <ausländer_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ausländerkind"@de .
+
+<ausländische_arbeitnehmer_id> a skos:Concept ;
+    skos:broader <ausländer_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ausländische Arbeitnehmer"@de .
+
+<ausländischer_jugendlicher__id> a skos:Concept ;
+    skos:broader <ausländer_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ausländischer Jugendlicher "@de .
+
+<deutsch_für_ausländer_id> a skos:Concept ;
+    skos:broader <bilinguales_material_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Deutsch für Ausländer"@de .
+
+<deutsch_für_ausländerkinder_id> a skos:Concept ;
+    skos:broader <bilinguales_material_kinder_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Deutsch für Ausländerkinder"@de .
+
+<deutsch_für_ausländische_azubis_id> a skos:Concept ;
+    skos:broader <bilinguales_material_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Deutsch für ausländische Azubis"@de .
+
+<fremdenfeindlichkeit_id> a skos:Concept ;
+    skos:broader <ausländerproblematik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fremdenfeindlichkeit"@de .
+
+<kulturbegegnung_id> a skos:Concept ;
+    skos:broader <interkulturelle_begegnung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kulturbegegnung"@de .
+
+<kulturelle_identität_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kulturelle Identität"@de ;
+    skos:topConceptOf <> .
+
+<migrationshintergrund_id> a skos:Concept ;
+    skos:broader <migration_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Migrationshintergrund"@de .
+
+<remigration_id> a skos:Concept ;
+    skos:broader <migration_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Remigration"@de .
+
+<städtepartnerschaft_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Städtepartnerschaft"@de ;
+    skos:topConceptOf <> .
+
+<türken_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Türken"@de ;
+    skos:topConceptOf <> .
+
+<bilinguales_material_kinder_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <deutsch_für_ausländerkinder_id> ;
+    skos:prefLabel "Bilinguales Material (Kinder)"@de ;
+    skos:topConceptOf <> .
+
+<interkulturelle_begegnung_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <kulturbegegnung_id> ;
+    skos:prefLabel "Interkulturelle Begegnung"@de ;
+    skos:topConceptOf <> .
+
+<ausländerproblematik_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <ausländerintegration_id>,
+        <fremdenfeindlichkeit_id> ;
+    skos:prefLabel "Ausländerproblematik"@de ;
+    skos:topConceptOf <> .
+
+<bilinguales_material_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <deutsch_für_ausländer_id>,
+        <deutsch_für_ausländische_azubis_id> ;
+    skos:prefLabel "Bilinguales Material"@de ;
+    skos:topConceptOf <> .
+
+<migration_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <migrationshintergrund_id>,
+        <remigration_id> ;
+    skos:prefLabel "Migration"@de ;
+    skos:topConceptOf <> .
+
+<ausländer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <ausländerin_id>,
+        <ausländerkind_id>,
+        <ausländische_arbeitnehmer_id>,
+        <ausländischer_jugendlicher__id> ;
+    skos:prefLabel "Ausländer"@de ;
+    skos:topConceptOf <> .
+
+<> a skos:ConceptScheme ;
+    dct:creator "<https://creator.com>" ;
+    dct:description "interkulturelle_bildung_systematik"@de ;
+    dct:title "interkulturelle_bildung_systematik"@de ;
+    skos:hasTopConcept <abschiebung_recht_id>,
+        <antisemitismus_id>,
+        <asyl_id>,
+        <ausländer_id>,
+        <ausländerproblematik_id>,
+        <bilinguales_material_id>,
+        <bilinguales_material_kinder_id>,
+        <interkulturelle_begegnung_id>,
+        <kulturelle_identität_id>,
+        <migration_id>,
+        <städtepartnerschaft_id>,
+        <türken_id> .
+

@@ -1,0 +1,2907 @@
+@base <https://example-perma-id/beruf_systematik/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<agraringenieur_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Agraringenieur"@de ;
+    skos:topConceptOf <> .
+
+<aktenverwalter_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Aktenverwalter"@de ;
+    skos:topConceptOf <> .
+
+<animateur_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Animateur"@de ;
+    skos:topConceptOf <> .
+
+<anlagenmechaniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Anlagenmechaniker"@de ;
+    skos:topConceptOf <> .
+
+<anwaltsgehilfe_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Anwaltsgehilfe"@de ;
+    skos:topConceptOf <> .
+
+<apothekenhelfer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Apothekenhelfer"@de ;
+    skos:topConceptOf <> .
+
+<apotheker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Apotheker"@de ;
+    skos:topConceptOf <> .
+
+<arbeitsberater_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Arbeitsberater"@de ;
+    skos:topConceptOf <> .
+
+<arbeitstherapeut_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Arbeitstherapeut"@de ;
+    skos:topConceptOf <> .
+
+<architekt_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Architekt"@de ;
+    skos:topConceptOf <> .
+
+<archivar_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Archivar"@de ;
+    skos:topConceptOf <> .
+
+<arzt_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Arzt"@de ;
+    skos:topConceptOf <> .
+
+<arzthelfer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Arzthelfer"@de ;
+    skos:topConceptOf <> .
+
+<asphaltbauer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Asphaltbauer"@de ;
+    skos:topConceptOf <> .
+
+<audiometrieassistent_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Audiometrieassistent"@de ;
+    skos:topConceptOf <> .
+
+<aufbereitungsmechaniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Aufbereitungsmechaniker"@de ;
+    skos:topConceptOf <> .
+
+<aufbereitungssteiger_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Aufbereitungssteiger"@de ;
+    skos:topConceptOf <> .
+
+<aufnahmeleiter_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Aufnahmeleiter"@de ;
+    skos:topConceptOf <> .
+
+<auktionator_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Auktionator"@de ;
+    skos:topConceptOf <> .
+
+<ausbildungsplatzsuche_id> a skos:Concept ;
+    skos:broader <beruf_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ausbildungsplatzsuche"@de .
+
+<automateneinrichter_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Automateneinrichter"@de ;
+    skos:topConceptOf <> .
+
+<außendienstmitarbeiter_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Außendienstmitarbeiter"@de ;
+    skos:topConceptOf <> .
+
+<bandagist_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bandagist"@de ;
+    skos:topConceptOf <> .
+
+<bankkaufmann_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bankkaufmann"@de ;
+    skos:topConceptOf <> .
+
+<baugeräteführer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Baugeräteführer"@de ;
+    skos:topConceptOf <> .
+
+<bauingenieur_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bauingenieur"@de ;
+    skos:topConceptOf <> .
+
+<baumaschinenführer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Baumaschinenführer"@de ;
+    skos:topConceptOf <> .
+
+<bauschlosser_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bauschlosser"@de ;
+    skos:topConceptOf <> .
+
+<baustoffprüfer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Baustoffprüfer"@de ;
+    skos:topConceptOf <> .
+
+<bautechnischer_assistent_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bautechnischer Assistent"@de ;
+    skos:topConceptOf <> .
+
+<bauwerksabdichter_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bauwerksabdichter"@de ;
+    skos:topConceptOf <> .
+
+<bauzeichner_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bauzeichner"@de ;
+    skos:topConceptOf <> .
+
+<bekleidungsfertiger_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bekleidungsfertiger"@de ;
+    skos:topConceptOf <> .
+
+<bekleidungsingenieur_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bekleidungsingenieur"@de ;
+    skos:topConceptOf <> .
+
+<bekleidungstechniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bekleidungstechniker"@de ;
+    skos:topConceptOf <> .
+
+<beleuchter_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Beleuchter"@de ;
+    skos:topConceptOf <> .
+
+<bergbautechniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bergbautechniker"@de ;
+    skos:topConceptOf <> .
+
+<bergmechaniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bergmechaniker"@de ;
+    skos:topConceptOf <> .
+
+<berufsberater_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Berufsberater"@de ;
+    skos:topConceptOf <> .
+
+<berufsbildungsgesetz_id> a skos:Concept ;
+    skos:broader <beruf_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Berufsbildungsgesetz"@de .
+
+<berufserkundung_id> a skos:Concept ;
+    skos:broader <beruf_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Berufserkundung"@de .
+
+<berufsgrundbildungsjahr_id> a skos:Concept ;
+    skos:broader <beruf_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Berufsgrundbildungsjahr"@de .
+
+<berufskraftfahrer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Berufskraftfahrer"@de ;
+    skos:topConceptOf <> .
+
+<berufsvorbereitung_id> a skos:Concept ;
+    skos:broader <beruf_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Berufsvorbereitung"@de .
+
+<berufswandel_id> a skos:Concept ;
+    skos:broader <berufsbild_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Berufswandel"@de .
+
+<beschäftigungstherapeut_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Beschäftigungstherapeut"@de ;
+    skos:topConceptOf <> .
+
+<betonbauer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Betonbauer"@de ;
+    skos:topConceptOf <> .
+
+<betonsteinhersteller_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Betonsteinhersteller"@de ;
+    skos:topConceptOf <> .
+
+<betonwerker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Betonwerker"@de ;
+    skos:topConceptOf <> .
+
+<betriebsassistent_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Betriebsassistent"@de ;
+    skos:topConceptOf <> .
+
+<betriebsschlosser_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Betriebsschlosser"@de ;
+    skos:topConceptOf <> .
+
+<betriebswirt_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Betriebswirt"@de ;
+    skos:topConceptOf <> .
+
+<bibliothekar_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bibliothekar"@de ;
+    skos:topConceptOf <> .
+
+<bibliotheksassistent_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bibliotheksassistent"@de ;
+    skos:topConceptOf <> .
+
+<bilanzbuchhalter_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bilanzbuchhalter"@de ;
+    skos:topConceptOf <> .
+
+<bildmischer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bildmischer"@de ;
+    skos:topConceptOf <> .
+
+<binnenschiffer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Binnenschiffer"@de ;
+    skos:topConceptOf <> .
+
+<biochemikern_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Biochemikern"@de ;
+    skos:topConceptOf <> .
+
+<biologe_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Biologe"@de ;
+    skos:topConceptOf <> .
+
+<biologielaborant_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Biologielaborant"@de ;
+    skos:topConceptOf <> .
+
+<biologischtechnischer_assistent_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Biologisch-technischer Assistent"@de ;
+    skos:topConceptOf <> .
+
+<biomedizinischer_techniker__id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Biomedizinischer Techniker "@de ;
+    skos:topConceptOf <> .
+
+<blechschlosser_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Blechschlosser"@de ;
+    skos:topConceptOf <> .
+
+<bootsbauer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bootsbauer"@de ;
+    skos:topConceptOf <> .
+
+<bootsmann_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bootsmann"@de ;
+    skos:topConceptOf <> .
+
+<brauer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Brauer"@de ;
+    skos:topConceptOf <> .
+
+<brunnenbauer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Brunnenbauer"@de ;
+    skos:topConceptOf <> .
+
+<buchbinder_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Buchbinder"@de ;
+    skos:topConceptOf <> .
+
+<buchhändler_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Buchhändler"@de ;
+    skos:topConceptOf <> .
+
+<bundesgrenzschutz_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bundesgrenzschutz"@de ;
+    skos:topConceptOf <> .
+
+<bäcker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bäcker"@de ;
+    skos:topConceptOf <> .
+
+<börsenhändler_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Börsenhändler"@de ;
+    skos:topConceptOf <> .
+
+<böttcher_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Böttcher"@de ;
+    skos:topConceptOf <> .
+
+<büchsenmacher_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Büchsenmacher"@de ;
+    skos:topConceptOf <> .
+
+<bühnenbildner_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bühnenbildner"@de ;
+    skos:topConceptOf <> .
+
+<bühnenmaler_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bühnenmaler"@de ;
+    skos:topConceptOf <> .
+
+<bühnenplastiker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bühnenplastiker"@de ;
+    skos:topConceptOf <> .
+
+<bürogehilfe_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bürogehilfe"@de ;
+    skos:topConceptOf <> .
+
+<büroinformationselektroniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Büroinformationselektroniker"@de ;
+    skos:topConceptOf <> .
+
+<büroinformationstechniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Büroinformationstechniker"@de ;
+    skos:topConceptOf <> .
+
+<bürokaufmann_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bürokaufmann"@de ;
+    skos:topConceptOf <> .
+
+<büromaschinenmechaniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Büromaschinenmechaniker"@de ;
+    skos:topConceptOf <> .
+
+<bürstenmacher_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bürstenmacher"@de ;
+    skos:topConceptOf <> .
+
+<chemiefacharbeiter_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Chemiefacharbeiter"@de ;
+    skos:topConceptOf <> .
+
+<chemielaborant_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Chemielaborant"@de ;
+    skos:topConceptOf <> .
+
+<chemietechniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Chemietechniker"@de ;
+    skos:topConceptOf <> .
+
+<chemikant_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Chemikant"@de ;
+    skos:topConceptOf <> .
+
+<chemischtechnischer_assistent_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Chemisch-technischer Assistent"@de ;
+    skos:topConceptOf <> .
+
+<chemotechniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Chemotechniker"@de ;
+    skos:topConceptOf <> .
+
+<chirurgiemechaniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Chirurgiemechaniker"@de ;
+    skos:topConceptOf <> .
+
+<controller_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Controller"@de ;
+    skos:topConceptOf <> .
+
+<cowboy_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Cowboy"@de ;
+    skos:topConceptOf <> .
+
+<croupier_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Croupier"@de ;
+    skos:topConceptOf <> .
+
+<cutter_beruf_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Cutter (Beruf)"@de ;
+    skos:topConceptOf <> .
+
+<dachdecker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Dachdecker"@de ;
+    skos:topConceptOf <> .
+
+<damenschneider_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Damenschneider"@de ;
+    skos:topConceptOf <> .
+
+<datenverarbeitungskaufmann_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Datenverarbeitungskaufmann"@de ;
+    skos:topConceptOf <> .
+
+<dekorationsnäher_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Dekorationsnäher"@de ;
+    skos:topConceptOf <> .
+
+<denkmalpfleger_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Denkmalpfleger"@de ;
+    skos:topConceptOf <> .
+
+<designer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Designer"@de ;
+    skos:topConceptOf <> .
+
+<diakon_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Diakon"@de ;
+    skos:topConceptOf <> .
+
+<diplomingenieur_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Diplom-Ingenieur"@de ;
+    skos:topConceptOf <> .
+
+<diätassistent_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Diätassistent"@de ;
+    skos:topConceptOf <> .
+
+<dokumentar_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Dokumentar"@de ;
+    skos:topConceptOf <> .
+
+<dokumentar_medizin_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Dokumentar (Medizin)"@de ;
+    skos:topConceptOf <> .
+
+<dokumentationsassistent_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Dokumentationsassistent"@de ;
+    skos:topConceptOf <> .
+
+<dolmetscher_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Dolmetscher"@de ;
+    skos:topConceptOf <> .
+
+<dorfhelfer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Dorfhelfer"@de ;
+    skos:topConceptOf <> .
+
+<dramaturg_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Dramaturg"@de ;
+    skos:topConceptOf <> .
+
+<drechsler_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Drechsler"@de ;
+    skos:topConceptOf <> .
+
+<dreher_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Dreher"@de ;
+    skos:topConceptOf <> .
+
+<drogist_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Drogist"@de ;
+    skos:topConceptOf <> .
+
+<drucker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Drucker"@de ;
+    skos:topConceptOf <> .
+
+<druckereitechniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Druckereitechniker"@de ;
+    skos:topConceptOf <> .
+
+<drucktechniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Drucktechniker"@de ;
+    skos:topConceptOf <> .
+
+<druckvorlagenhersteller_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Druckvorlagenhersteller"@de ;
+    skos:topConceptOf <> .
+
+<edelmetallprüfer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Edelmetallprüfer"@de ;
+    skos:topConceptOf <> .
+
+<edelsteinfasser_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Edelsteinfasser"@de ;
+    skos:topConceptOf <> .
+
+<edelsteinschleifer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Edelsteinschleifer"@de ;
+    skos:topConceptOf <> .
+
+<edvorganisator_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "EDV-Organisator"@de ;
+    skos:topConceptOf <> .
+
+<einzelhandelskaufmann_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Einzelhandelskaufmann"@de ;
+    skos:topConceptOf <> .
+
+<eisenbahner_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Eisenbahner"@de ;
+    skos:topConceptOf <> .
+
+<elektriker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Elektriker"@de ;
+    skos:topConceptOf <> .
+
+<elektroanlagenmonteur_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Elektroanlagenmonteur"@de ;
+    skos:topConceptOf <> .
+
+<elektroberuf_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Elektroberuf"@de ;
+    skos:topConceptOf <> .
+
+<elektromaschinenbauer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Elektromaschinenbauer"@de ;
+    skos:topConceptOf <> .
+
+<elektromaschinenmonteur_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Elektromaschinenmonteur"@de ;
+    skos:topConceptOf <> .
+
+<elektromechaniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Elektromechaniker"@de ;
+    skos:topConceptOf <> .
+
+<elektroniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Elektroniker"@de ;
+    skos:topConceptOf <> .
+
+<elektrotechnischer_assistent_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Elektrotechnischer Assistent"@de ;
+    skos:topConceptOf <> .
+
+<energieanlagenelektroniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Energieanlagenelektroniker"@de ;
+    skos:topConceptOf <> .
+
+<energieberater_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Energieberater"@de ;
+    skos:topConceptOf <> .
+
+<energieelektroniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Energieelektroniker"@de ;
+    skos:topConceptOf <> .
+
+<entsorger_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Entsorger"@de ;
+    skos:topConceptOf <> .
+
+<entwicklungshelfer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Entwicklungshelfer"@de ;
+    skos:topConceptOf <> .
+
+<ergotherapeut_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ergotherapeut"@de ;
+    skos:topConceptOf <> .
+
+<ernährungsmedizinischer_berater__id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ernährungsmedizinischer Berater "@de ;
+    skos:topConceptOf <> .
+
+<erzieher_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Erzieher"@de ;
+    skos:topConceptOf <> .
+
+<estrichleger_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Estrichleger"@de ;
+    skos:topConceptOf <> .
+
+<fachangestellter_für_arbeitsförderung_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fachangestellter für Arbeitsförderung"@de ;
+    skos:topConceptOf <> .
+
+<fachangestellter_für_arbeitsmarktdienstleistungen_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fachangestellter für Arbeitsmarktdienstleistungen"@de ;
+    skos:topConceptOf <> .
+
+<fachangestellter_für_bäderbetriebe_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fachangestellter für Bäderbetriebe"@de ;
+    skos:topConceptOf <> .
+
+<fachangestellter_für_bürokommunikation_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fachangestellter für Bürokommunikation"@de ;
+    skos:topConceptOf <> .
+
+<fachangestellter_für_markt_und_sozialforschung_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fachangestellter für Markt- und Sozialforschung"@de ;
+    skos:topConceptOf <> .
+
+<facharbeiter_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Facharbeiter"@de ;
+    skos:topConceptOf <> .
+
+<fachgehilfe_gastgewerbe_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fachgehilfe (Gastgewerbe)"@de ;
+    skos:topConceptOf <> .
+
+<fachinformatiker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fachinformatiker"@de ;
+    skos:topConceptOf <> .
+
+<fachkraft_für_abwassertechnik_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fachkraft für Abwassertechnik"@de ;
+    skos:topConceptOf <> .
+
+<fachkraft_für_hygieneüberwachung_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fachkraft für Hygieneüberwachung"@de ;
+    skos:topConceptOf <> .
+
+<fachkraft_für_lagerlogistik_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fachkraft für Lagerlogistik"@de ;
+    skos:topConceptOf <> .
+
+<fachkraft_für_lebensmitteltechnik_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fachkraft für Lebensmitteltechnik"@de ;
+    skos:topConceptOf <> .
+
+<fachkraft_für_metalltechnikmontagetechnik_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fachkraft für Metalltechnik-Montagetechnik"@de ;
+    skos:topConceptOf <> .
+
+<fachkraft_für_süßwarentechnik_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fachkraft für Süßwarentechnik"@de ;
+    skos:topConceptOf <> .
+
+<fachkraft_für_veranstaltungstechnik_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fachkraft für Veranstaltungstechnik"@de ;
+    skos:topConceptOf <> .
+
+<fachkraft_für_wasserversorgungstechnik_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fachkraft für Wasserversorgungstechnik"@de ;
+    skos:topConceptOf <> .
+
+<fachmann_für_systemgastronomie_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fachmann für Systemgastronomie"@de ;
+    skos:topConceptOf <> .
+
+<fachpraktiker_id> a skos:Concept ;
+    skos:broader <berufsausbildung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fachpraktiker"@de .
+
+<fachverkäufer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fachverkäufer"@de ;
+    skos:topConceptOf <> .
+
+<fahrlehrer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fahrlehrer"@de ;
+    skos:topConceptOf <> .
+
+<fahrzeugbauer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fahrzeugbauer"@de ;
+    skos:topConceptOf <> .
+
+<fahrzeuginnenausstatter_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fahrzeuginnenausstatter"@de ;
+    skos:topConceptOf <> .
+
+<fahrzeugpolsterer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fahrzeugpolsterer"@de ;
+    skos:topConceptOf <> .
+
+<familienpfleger_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Familienpfleger"@de ;
+    skos:topConceptOf <> .
+
+<fassadenmonteur_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fassadenmonteur"@de ;
+    skos:topConceptOf <> .
+
+<feinmechaniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Feinmechaniker"@de ;
+    skos:topConceptOf <> .
+
+<feinpolierer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Feinpolierer"@de ;
+    skos:topConceptOf <> .
+
+<feintäschner_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Feintäschner"@de ;
+    skos:topConceptOf <> .
+
+<fernmeldeelektroniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fernmeldeelektroniker"@de ;
+    skos:topConceptOf <> .
+
+<fertigungsmechaniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fertigungsmechaniker"@de ;
+    skos:topConceptOf <> .
+
+<feuerwehrbeamter_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Feuerwehrbeamter"@de ;
+    skos:topConceptOf <> .
+
+<filmeditor_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Filmeditor"@de ;
+    skos:topConceptOf <> .
+
+<filmlaborant_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Filmlaborant"@de ;
+    skos:topConceptOf <> .
+
+<fischwirt_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fischwirt"@de ;
+    skos:topConceptOf <> .
+
+<flachglasmechaniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Flachglasmechaniker"@de ;
+    skos:topConceptOf <> .
+
+<fleischer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fleischer"@de ;
+    skos:topConceptOf <> .
+
+<fliesenleger_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fliesenleger"@de ;
+    skos:topConceptOf <> .
+
+<florist_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Florist"@de ;
+    skos:topConceptOf <> .
+
+<flugbegleiter_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Flugbegleiter"@de ;
+    skos:topConceptOf <> .
+
+<flugdienstberater_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Flugdienstberater"@de ;
+    skos:topConceptOf <> .
+
+<fluggeräteelektroniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fluggeräteelektroniker"@de ;
+    skos:topConceptOf <> .
+
+<fluggerätemechaniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fluggerätemechaniker"@de ;
+    skos:topConceptOf <> .
+
+<fluglehrer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fluglehrer"@de ;
+    skos:topConceptOf <> .
+
+<fluglotse_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fluglotse"@de ;
+    skos:topConceptOf <> .
+
+<flugtriebwerkmechaniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Flugtriebwerkmechaniker"@de ;
+    skos:topConceptOf <> .
+
+<flugzeugbauer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Flugzeugbauer"@de ;
+    skos:topConceptOf <> .
+
+<forstwirt_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Forstwirt"@de ;
+    skos:topConceptOf <> .
+
+<fotograf_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fotograf"@de ;
+    skos:topConceptOf <> .
+
+<fotogravurzeichner_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fotogravurzeichner"@de ;
+    skos:topConceptOf <> .
+
+<fotolaborant_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fotolaborant"@de ;
+    skos:topConceptOf <> .
+
+<fotomedienlaborant_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fotomedienlaborant"@de ;
+    skos:topConceptOf <> .
+
+<fremdsprachenkorrespondent_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fremdsprachenkorrespondent"@de ;
+    skos:topConceptOf <> .
+
+<friseur_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Friseur"@de ;
+    skos:topConceptOf <> .
+
+<fräser_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fräser"@de ;
+    skos:topConceptOf <> .
+
+<fußpfleger_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fußpfleger"@de ;
+    skos:topConceptOf <> .
+
+<galvaniseur_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Galvaniseur"@de ;
+    skos:topConceptOf <> .
+
+<gartenbautechniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gartenbautechniker"@de ;
+    skos:topConceptOf <> .
+
+<gebäudereiniger_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gebäudereiniger"@de ;
+    skos:topConceptOf <> .
+
+<geograph_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Geograph"@de ;
+    skos:topConceptOf <> .
+
+<geologe_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Geologe"@de ;
+    skos:topConceptOf <> .
+
+<gerber_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gerber"@de ;
+    skos:topConceptOf <> .
+
+<geräuschemacher_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Geräuschemacher"@de ;
+    skos:topConceptOf <> .
+
+<gerüstbauer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gerüstbauer"@de ;
+    skos:topConceptOf <> .
+
+<gestaltungstechnischer_assistent_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gestaltungstechnischer Assistent"@de ;
+    skos:topConceptOf <> .
+
+<gesundheitsberater_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gesundheitsberater"@de ;
+    skos:topConceptOf <> .
+
+<gewandmeister_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gewandmeister"@de ;
+    skos:topConceptOf <> .
+
+<gewerbelehrer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gewerbelehrer"@de ;
+    skos:topConceptOf <> .
+
+<gießereimechaniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gießereimechaniker"@de ;
+    skos:topConceptOf <> .
+
+<glas_und_kerammaler_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Glas- und Kerammaler"@de ;
+    skos:topConceptOf <> .
+
+<glasapparatebauer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Glasapparatebauer"@de ;
+    skos:topConceptOf <> .
+
+<glasapparatebläser_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Glasapparatebläser"@de ;
+    skos:topConceptOf <> .
+
+<glasbläser_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Glasbläser"@de ;
+    skos:topConceptOf <> .
+
+<glaser_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Glaser"@de ;
+    skos:topConceptOf <> .
+
+<glasinstrumentemacher_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Glasinstrumentemacher"@de ;
+    skos:topConceptOf <> .
+
+<glasmacher_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Glasmacher"@de ;
+    skos:topConceptOf <> .
+
+<glasveredler_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Glasveredler"@de ;
+    skos:topConceptOf <> .
+
+<gleisbauer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gleisbauer"@de ;
+    skos:topConceptOf <> .
+
+<goldschmied_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Goldschmied"@de ;
+    skos:topConceptOf <> .
+
+<grafikdesigner_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Grafikdesigner"@de ;
+    skos:topConceptOf <> .
+
+<graveur_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Graveur"@de ;
+    skos:topConceptOf <> .
+
+<groß/außenhandelskaufmann__id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Groß-/Außenhandelskaufmann "@de ;
+    skos:topConceptOf <> .
+
+<grubenelektriker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Grubenelektriker"@de ;
+    skos:topConceptOf <> .
+
+<gymnastiklehrer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gymnastiklehrer"@de ;
+    skos:topConceptOf <> .
+
+<gärtner_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gärtner"@de ;
+    skos:topConceptOf <> .
+
+<gürtler_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gürtler"@de ;
+    skos:topConceptOf <> .
+
+<hafenschiffer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hafenschiffer"@de ;
+    skos:topConceptOf <> .
+
+<handelsfachpacker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Handelsfachpacker"@de ;
+    skos:topConceptOf <> .
+
+<handelsschullehrer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Handelsschullehrer"@de ;
+    skos:topConceptOf <> .
+
+<handelsvertreter_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Handelsvertreter"@de ;
+    skos:topConceptOf <> .
+
+<handzuginstrumentenmacher_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Handzuginstrumentenmacher"@de ;
+    skos:topConceptOf <> .
+
+<hausdame_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hausdame"@de ;
+    skos:topConceptOf <> .
+
+<hausmeister_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hausmeister"@de ;
+    skos:topConceptOf <> .
+
+<hauspfleger_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hauspfleger"@de ;
+    skos:topConceptOf <> .
+
+<hauswirtschaftler_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hauswirtschaftler"@de ;
+    skos:topConceptOf <> .
+
+<hebamme_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hebamme"@de ;
+    skos:topConceptOf <> .
+
+<heilerziehungshelfer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Heilerziehungshelfer"@de ;
+    skos:topConceptOf <> .
+
+<heilerziehungspfleger_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Heilerziehungspfleger"@de ;
+    skos:topConceptOf <> .
+
+<heilpraktiker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Heilpraktiker"@de ;
+    skos:topConceptOf <> .
+
+<heilpädagoge_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Heilpädagoge"@de ;
+    skos:topConceptOf <> .
+
+<heizungsbauer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Heizungsbauer"@de ;
+    skos:topConceptOf <> .
+
+<herrenschneider_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Herrenschneider"@de ;
+    skos:topConceptOf <> .
+
+<holzmechaniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Holzmechaniker"@de ;
+    skos:topConceptOf <> .
+
+<holzspielzeugmacher_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Holzspielzeugmacher"@de ;
+    skos:topConceptOf <> .
+
+<hotelfachmann_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hotelfachmann"@de ;
+    skos:topConceptOf <> .
+
+<hotelgewerbe_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hotelgewerbe"@de ;
+    skos:topConceptOf <> .
+
+<hotelkaufmann_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hotelkaufmann"@de ;
+    skos:topConceptOf <> .
+
+<hörgeräteakustiker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hörgeräteakustiker"@de ;
+    skos:topConceptOf <> .
+
+<hörgerätemechaniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hörgerätemechaniker"@de ;
+    skos:topConceptOf <> .
+
+<hüttentechniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hüttentechniker"@de ;
+    skos:topConceptOf <> .
+
+<immobilienfachwirt_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Immobilienfachwirt"@de ;
+    skos:topConceptOf <> .
+
+<industrieelektroniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Industrieelektroniker"@de ;
+    skos:topConceptOf <> .
+
+<industrieglasfertiger_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Industrieglasfertiger"@de ;
+    skos:topConceptOf <> .
+
+<industriekaufmann_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Industriekaufmann"@de ;
+    skos:topConceptOf <> .
+
+<industriekeramiker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Industriekeramiker"@de ;
+    skos:topConceptOf <> .
+
+<industriemechaniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Industriemechaniker"@de ;
+    skos:topConceptOf <> .
+
+<industriemeister__id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Industriemeister "@de ;
+    skos:topConceptOf <> .
+
+<informatik_assistent_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Informatik Assistent"@de ;
+    skos:topConceptOf <> .
+
+<informatikkaufmann_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Informatikkaufmann"@de ;
+    skos:topConceptOf <> .
+
+<informationselektroniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Informationselektroniker"@de ;
+    skos:topConceptOf <> .
+
+<ingenieur_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ingenieur"@de ;
+    skos:topConceptOf <> .
+
+<innenarchitekt_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Innenarchitekt"@de ;
+    skos:topConceptOf <> .
+
+<installateur_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Installateur"@de ;
+    skos:topConceptOf <> .
+
+<intarsientischler_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Intarsientischler"@de ;
+    skos:topConceptOf <> .
+
+<isolierer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Isolierer"@de ;
+    skos:topConceptOf <> .
+
+<isolierfacharbeiter_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Isolierfacharbeiter"@de ;
+    skos:topConceptOf <> .
+
+<isoliermonteur_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Isoliermonteur"@de ;
+    skos:topConceptOf <> .
+
+<itsystemelektroniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "IT-System-Elektroniker"@de ;
+    skos:topConceptOf <> .
+
+<jalousiebauer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Jalousiebauer"@de ;
+    skos:topConceptOf <> .
+
+<journalist_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Journalist"@de ;
+    skos:topConceptOf <> .
+
+<jugendrichter_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Jugendrichter"@de ;
+    skos:topConceptOf <> .
+
+<jurist_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Jurist"@de ;
+    skos:topConceptOf <> .
+
+<justizangestellter_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Justizangestellter"@de ;
+    skos:topConceptOf <> .
+
+<justizverwaltungsbeamter_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Justizverwaltungsbeamter"@de ;
+    skos:topConceptOf <> .
+
+<kabeljungwerker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kabeljungwerker"@de ;
+    skos:topConceptOf <> .
+
+<kachelofenbauer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kachelofenbauer"@de ;
+    skos:topConceptOf <> .
+
+<kalkbrenner_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kalkbrenner"@de ;
+    skos:topConceptOf <> .
+
+<kameraassistent_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kameraassistent"@de ;
+    skos:topConceptOf <> .
+
+<kameramann_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kameramann"@de ;
+    skos:topConceptOf <> .
+
+<kanalbauer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kanalbauer"@de ;
+    skos:topConceptOf <> .
+
+<karosseriebauer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Karosseriebauer"@de ;
+    skos:topConceptOf <> .
+
+<karriere_id> a skos:Concept ;
+    skos:broader <beruf_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Karriere"@de .
+
+<karthograph_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Karthograph"@de ;
+    skos:topConceptOf <> .
+
+<kassierer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kassierer"@de ;
+    skos:topConceptOf <> .
+
+<kaufmann_für_audiovisuelle_medien_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kaufmann für audiovisuelle Medien"@de ;
+    skos:topConceptOf <> .
+
+<kaufmann_für_bürokommunikation_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kaufmann für Bürokommunikation"@de ;
+    skos:topConceptOf <> .
+
+<kaufmann_für_marketingkommunikation_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kaufmann für Marketingkommunikation"@de ;
+    skos:topConceptOf <> .
+
+<kaufmann_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kaufmann"@de ;
+    skos:topConceptOf <> .
+
+<kaufmannsgehilfe_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kaufmannsgehilfe"@de ;
+    skos:topConceptOf <> .
+
+<kellner_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kellner"@de ;
+    skos:topConceptOf <> .
+
+<keramiker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Keramiker"@de ;
+    skos:topConceptOf <> .
+
+<kerammodelleur_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kerammodelleur"@de ;
+    skos:topConceptOf <> .
+
+<klimatechniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Klimatechniker"@de ;
+    skos:topConceptOf <> .
+
+<koch_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Koch"@de ;
+    skos:topConceptOf <> .
+
+<kommunikationselektroniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kommunikationselektroniker"@de ;
+    skos:topConceptOf <> .
+
+<komponist_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Komponist"@de ;
+    skos:topConceptOf <> .
+
+<konditor_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Konditor"@de ;
+    skos:topConceptOf <> .
+
+<konstruktionsmechaniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Konstruktionsmechaniker"@de ;
+    skos:topConceptOf <> .
+
+<korbmacher_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Korbmacher"@de ;
+    skos:topConceptOf <> .
+
+<kostümbildner_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kostümbildner"@de ;
+    skos:topConceptOf <> .
+
+<kraftfahrzeugelektriker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kraftfahrzeugelektriker"@de ;
+    skos:topConceptOf <> .
+
+<kraftfahrzeuglackierer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kraftfahrzeuglackierer"@de ;
+    skos:topConceptOf <> .
+
+<kraftfahrzeugmechaniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kraftfahrzeugmechaniker"@de ;
+    skos:topConceptOf <> .
+
+<krankenhausbetriebstechniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Krankenhausbetriebstechniker"@de ;
+    skos:topConceptOf <> .
+
+<kriminalbeamter_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kriminalbeamter"@de ;
+    skos:topConceptOf <> .
+
+<kriminalobermeister_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kriminalobermeister"@de ;
+    skos:topConceptOf <> .
+
+<kunsthistoriker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kunsthistoriker"@de ;
+    skos:topConceptOf <> .
+
+<kunststoffformgeber_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kunststoffformgeber"@de ;
+    skos:topConceptOf <> .
+
+<kunststoffkonfektionär_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kunststoffkonfektionär"@de ;
+    skos:topConceptOf <> .
+
+<kunststoffschlosser_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kunststoffschlosser"@de ;
+    skos:topConceptOf <> .
+
+<kunsttherapeut_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kunsttherapeut"@de ;
+    skos:topConceptOf <> .
+
+<kupferschmied_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kupferschmied"@de ;
+    skos:topConceptOf <> .
+
+<kupferstecher_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kupferstecher"@de ;
+    skos:topConceptOf <> .
+
+<kälteanlagenbauer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kälteanlagenbauer"@de ;
+    skos:topConceptOf <> .
+
+<kältetechniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kältetechniker"@de ;
+    skos:topConceptOf <> .
+
+<küchenhelfer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Küchenhelfer"@de ;
+    skos:topConceptOf <> .
+
+<kürschner_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kürschner"@de ;
+    skos:topConceptOf <> .
+
+<laborant_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Laborant"@de ;
+    skos:topConceptOf <> .
+
+<laboratoriumsassistent_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Laboratoriumsassistent"@de ;
+    skos:topConceptOf <> .
+
+<lackierer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lackierer"@de ;
+    skos:topConceptOf <> .
+
+<lacklaborant_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lacklaborant"@de ;
+    skos:topConceptOf <> .
+
+<landmaschinenmechaniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Landmaschinenmechaniker"@de ;
+    skos:topConceptOf <> .
+
+<landwirtschaftstechnischer_assistent_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Landwirtschafts-technischer Assistent"@de ;
+    skos:topConceptOf <> .
+
+<lebensmittelchemiker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lebensmittelchemiker"@de ;
+    skos:topConceptOf <> .
+
+<lebensmitteltechniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lebensmitteltechniker"@de ;
+    skos:topConceptOf <> .
+
+<lederwarenstepper_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lederwarenstepper"@de ;
+    skos:topConceptOf <> .
+
+<lehrer_berufsfeld_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lehrer (Berufsfeld)"@de ;
+    skos:topConceptOf <> .
+
+<leichtflugzeugbauer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Leichtflugzeugbauer"@de ;
+    skos:topConceptOf <> .
+
+<lektor_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lektor"@de ;
+    skos:topConceptOf <> .
+
+<lichtreklamehersteller_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lichtreklamehersteller"@de ;
+    skos:topConceptOf <> .
+
+<lichttechniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lichttechniker"@de ;
+    skos:topConceptOf <> .
+
+<logopäde_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Logopäde"@de ;
+    skos:topConceptOf <> .
+
+<lokomotivführer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lokomotivführer"@de ;
+    skos:topConceptOf <> .
+
+<lotse_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lotse"@de ;
+    skos:topConceptOf <> .
+
+<luftverkehrskaufmann_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Luftverkehrskaufmann"@de ;
+    skos:topConceptOf <> .
+
+<maler_berufsbild_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Maler (Berufsbild)"@de ;
+    skos:topConceptOf <> .
+
+<maschinenbauer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Maschinenbauer"@de ;
+    skos:topConceptOf <> .
+
+<maschinenbaumechaniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Maschinenbaumechaniker"@de ;
+    skos:topConceptOf <> .
+
+<maschinenführer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Maschinenführer"@de ;
+    skos:topConceptOf <> .
+
+<maschinenschlosser_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Maschinenschlosser"@de ;
+    skos:topConceptOf <> .
+
+<maskenbildner_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Maskenbildner"@de ;
+    skos:topConceptOf <> .
+
+<masseur_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Masseur"@de ;
+    skos:topConceptOf <> .
+
+<mathematischtechnischer_assistent_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mathematisch-technischer Assistent"@de ;
+    skos:topConceptOf <> .
+
+<maurer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Maurer"@de ;
+    skos:topConceptOf <> .
+
+<mechaniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mechaniker"@de ;
+    skos:topConceptOf <> .
+
+<mechatroniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mechatroniker"@de ;
+    skos:topConceptOf <> .
+
+<mediasachbearbeiter_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Media-Sachbearbeiter"@de ;
+    skos:topConceptOf <> .
+
+<mediengestalter_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mediengestalter"@de ;
+    skos:topConceptOf <> .
+
+<medienpädagoge_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Medienpädagoge"@de ;
+    skos:topConceptOf <> .
+
+<medientechniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Medientechniker"@de ;
+    skos:topConceptOf <> .
+
+<medientechnologe_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Medientechnologe"@de ;
+    skos:topConceptOf <> .
+
+<medizinischer_fachangestellter_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Medizinischer Fachangestellter"@de ;
+    skos:topConceptOf <> .
+
+<medizinischtechnischer_assistent__id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Medizinisch-technischer Assistent "@de ;
+    skos:topConceptOf <> .
+
+<medizintechniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Medizintechniker"@de ;
+    skos:topConceptOf <> .
+
+<mess_und_regelmechaniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mess- und Regelmechaniker"@de ;
+    skos:topConceptOf <> .
+
+<metallberuf_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Metallberuf"@de ;
+    skos:topConceptOf <> .
+
+<meteorologe_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Meteorologe"@de ;
+    skos:topConceptOf <> .
+
+<mikrotechnologe_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mikrotechnologe"@de ;
+    skos:topConceptOf <> .
+
+<modedesigner_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Modedesigner"@de ;
+    skos:topConceptOf <> .
+
+<model_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Model"@de ;
+    skos:topConceptOf <> .
+
+<modellbauer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Modellbauer"@de ;
+    skos:topConceptOf <> .
+
+<modellbaumechaniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Modellbaumechaniker"@de ;
+    skos:topConceptOf <> .
+
+<moderator_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Moderator"@de ;
+    skos:topConceptOf <> .
+
+<modist_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Modist"@de ;
+    skos:topConceptOf <> .
+
+<molkereifacharbeiter_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Molkereifacharbeiter"@de ;
+    skos:topConceptOf <> .
+
+<molkereifachmann_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Molkereifachmann"@de ;
+    skos:topConceptOf <> .
+
+<morphologieassistent_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Morphologieassistent"@de ;
+    skos:topConceptOf <> .
+
+<motologe_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Motologe"@de ;
+    skos:topConceptOf <> .
+
+<motopäde_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Motopäde"@de ;
+    skos:topConceptOf <> .
+
+<museumspädagoge_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Museumspädagoge"@de ;
+    skos:topConceptOf <> .
+
+<musiker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Musiker"@de ;
+    skos:topConceptOf <> .
+
+<musikinstrumentenbauer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Musikinstrumentenbauer"@de ;
+    skos:topConceptOf <> .
+
+<musiklehrer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Musiklehrer"@de ;
+    skos:topConceptOf <> .
+
+<musikredakteur_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Musikredakteur"@de ;
+    skos:topConceptOf <> .
+
+<musiktherapeut_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Musiktherapeut"@de ;
+    skos:topConceptOf <> .
+
+<mälzer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mälzer"@de ;
+    skos:topConceptOf <> .
+
+<müller_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Müller"@de ;
+    skos:topConceptOf <> .
+
+<müllereitechniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Müllereitechniker"@de ;
+    skos:topConceptOf <> .
+
+<nachrichtengerätemechaniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Nachrichtengerätemechaniker"@de ;
+    skos:topConceptOf <> .
+
+<nagelschmied_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Nagelschmied"@de ;
+    skos:topConceptOf <> .
+
+<nahrungsmittelberuf_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Nahrungsmittelberuf"@de ;
+    skos:topConceptOf <> .
+
+<natursteinmechaniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Natursteinmechaniker"@de ;
+    skos:topConceptOf <> .
+
+<nautischer_wachoffizier_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Nautischer Wachoffizier"@de ;
+    skos:topConceptOf <> .
+
+<neurologe_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Neurologe"@de ;
+    skos:topConceptOf <> .
+
+<notargehilfe_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Notargehilfe"@de ;
+    skos:topConceptOf <> .
+
+<offizier_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Offizier"@de ;
+    skos:topConceptOf <> .
+
+<offsetdrucker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Offsetdrucker"@de ;
+    skos:topConceptOf <> .
+
+<optiker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Optiker"@de ;
+    skos:topConceptOf <> .
+
+<orchestermusiker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Orchestermusiker"@de ;
+    skos:topConceptOf <> .
+
+<orthoptist_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Orthoptist"@de ;
+    skos:topConceptOf <> .
+
+<orthopädiemechaniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Orthopädiemechaniker"@de ;
+    skos:topConceptOf <> .
+
+<orthopädieschuhmacher_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Orthopädieschuhmacher"@de ;
+    skos:topConceptOf <> .
+
+<papiermacher_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Papiermacher"@de ;
+    skos:topConceptOf <> .
+
+<papiertechnologe_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Papiertechnologe"@de ;
+    skos:topConceptOf <> .
+
+<parkettleger_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Parkettleger"@de ;
+    skos:topConceptOf <> .
+
+<peitschenmacher_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Peitschenmacher"@de ;
+    skos:topConceptOf <> .
+
+<personalfachkaufmann_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Personalfachkaufmann"@de ;
+    skos:topConceptOf <> .
+
+<pferdewirt_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pferdewirt"@de ;
+    skos:topConceptOf <> .
+
+<pflegeberuf_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pflegeberuf"@de ;
+    skos:topConceptOf <> .
+
+<pförtner_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pförtner"@de ;
+    skos:topConceptOf <> .
+
+<pharmakant_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pharmakant"@de ;
+    skos:topConceptOf <> .
+
+<pharmakologe_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pharmakologe"@de ;
+    skos:topConceptOf <> .
+
+<pharmareferent_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pharmareferent"@de ;
+    skos:topConceptOf <> .
+
+<pharmazeutischkaufmännischer_angestellter_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pharmazeutisch-kaufmännischer Angestellter"@de ;
+    skos:topConceptOf <> .
+
+<pharmazeutischtechnischer_assistent_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pharmazeutisch-technischer Assistent"@de ;
+    skos:topConceptOf <> .
+
+<physikalischtechnischer_assistent_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Physikalisch-technischer Assistent"@de ;
+    skos:topConceptOf <> .
+
+<physiker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Physiker"@de ;
+    skos:topConceptOf <> .
+
+<physiklaborant_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Physiklaborant"@de ;
+    skos:topConceptOf <> .
+
+<physiotherapeut_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Physiotherapeut"@de ;
+    skos:topConceptOf <> .
+
+<pianist_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pianist"@de ;
+    skos:topConceptOf <> .
+
+<pilot_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pilot"@de ;
+    skos:topConceptOf <> .
+
+<pinselmacher_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pinselmacher"@de ;
+    skos:topConceptOf <> .
+
+<plastiker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Plastiker"@de ;
+    skos:topConceptOf <> .
+
+<plattner_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Plattner"@de ;
+    skos:topConceptOf <> .
+
+<podologe_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Podologe"@de ;
+    skos:topConceptOf <> .
+
+<polier_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Polier"@de ;
+    skos:topConceptOf <> .
+
+<politiker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Politiker"@de ;
+    skos:topConceptOf <> .
+
+<polizeibeamter_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Polizeibeamter"@de ;
+    skos:topConceptOf <> .
+
+<polsterer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Polsterer"@de ;
+    skos:topConceptOf <> .
+
+<polsternäher_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Polsternäher"@de ;
+    skos:topConceptOf <> .
+
+<postverkehrskaufmann_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Postverkehrskaufmann"@de ;
+    skos:topConceptOf <> .
+
+<praktikum_id> a skos:Concept ;
+    skos:broader <beruf_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Praktikum"@de .
+
+<produktionstechnologe_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Produktionstechnologe"@de ;
+    skos:topConceptOf <> .
+
+<programmierer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Programmierer"@de ;
+    skos:topConceptOf <> .
+
+<prostitution_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Prostitution"@de ;
+    skos:topConceptOf <> .
+
+<prozessleitelektroniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Prozessleitelektroniker"@de ;
+    skos:topConceptOf <> .
+
+<prozessleiterelektroniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Prozessleiterelektroniker"@de ;
+    skos:topConceptOf <> .
+
+<präparationstechnischer_assistent__id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Präparationstechnischer Assistent "@de ;
+    skos:topConceptOf <> .
+
+<psychologe_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Psychologe"@de ;
+    skos:topConceptOf <> .
+
+<psychotherapeut_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Psychotherapeut"@de ;
+    skos:topConceptOf <> .
+
+<qualitätsmanager_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Qualitätsmanager"@de ;
+    skos:topConceptOf <> .
+
+<radio_und_fernsehtechniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Radio- und Fernsehtechniker"@de ;
+    skos:topConceptOf <> .
+
+<radiologieassistent_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Radiologieassistent"@de ;
+    skos:topConceptOf <> .
+
+<raumausstatter_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Raumausstatter"@de ;
+    skos:topConceptOf <> .
+
+<rechtsanwaltsgehilfe_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Rechtsanwaltsgehilfe"@de ;
+    skos:topConceptOf <> .
+
+<rechtspfleger_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Rechtspfleger"@de ;
+    skos:topConceptOf <> .
+
+<redakteur_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Redakteur"@de ;
+    skos:topConceptOf <> .
+
+<regieassistent_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Regieassistent"@de ;
+    skos:topConceptOf <> .
+
+<registrator_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Registrator"@de ;
+    skos:topConceptOf <> .
+
+<reifenmechaniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Reifenmechaniker"@de ;
+    skos:topConceptOf <> .
+
+<reiseleiter_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Reiseleiter"@de ;
+    skos:topConceptOf <> .
+
+<reiseverkehrskaufmann_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Reiseverkehrskaufmann"@de ;
+    skos:topConceptOf <> .
+
+<rennmechaniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Rennmechaniker"@de ;
+    skos:topConceptOf <> .
+
+<reporter_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Reporter"@de ;
+    skos:topConceptOf <> .
+
+<reprograph_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Reprograph"@de ;
+    skos:topConceptOf <> .
+
+<requisiteur_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Requisiteur"@de ;
+    skos:topConceptOf <> .
+
+<restaurantfachmann_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Restaurantfachmann"@de ;
+    skos:topConceptOf <> .
+
+<restaurator_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Restaurator"@de ;
+    skos:topConceptOf <> .
+
+<rettungsassistent_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Rettungsassistent"@de ;
+    skos:topConceptOf <> .
+
+<rhythmuslehrer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Rhythmuslehrer"@de ;
+    skos:topConceptOf <> .
+
+<rohrleitungsbauer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Rohrleitungsbauer"@de ;
+    skos:topConceptOf <> .
+
+<rollladen/sonnenschutzmechatroniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Rollladen-/Sonnenschutzmechatroniker"@de ;
+    skos:topConceptOf <> .
+
+<rollladenbauer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Rollladenbauer"@de ;
+    skos:topConceptOf <> .
+
+<sachverständiger_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sachverständiger"@de ;
+    skos:topConceptOf <> .
+
+<sanitärtechniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sanitärtechniker"@de ;
+    skos:topConceptOf <> .
+
+<sattler_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sattler"@de ;
+    skos:topConceptOf <> .
+
+<schaufenstergestalter_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schaufenstergestalter"@de ;
+    skos:topConceptOf <> .
+
+<schauspieler_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schauspieler"@de ;
+    skos:topConceptOf <> .
+
+<schauwerbegestalter_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schauwerbegestalter"@de ;
+    skos:topConceptOf <> .
+
+<schienenfahrzeugführer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schienenfahrzeugführer"@de ;
+    skos:topConceptOf <> .
+
+<schiffbetriebsoffizier_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schiffbetriebsoffizier"@de ;
+    skos:topConceptOf <> .
+
+<schifffahrtskaufmann_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schifffahrtskaufmann"@de ;
+    skos:topConceptOf <> .
+
+<schiffsmechaniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schiffsmechaniker"@de ;
+    skos:topConceptOf <> .
+
+<schilderhersteller_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schilderhersteller"@de ;
+    skos:topConceptOf <> .
+
+<schleifer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schleifer"@de ;
+    skos:topConceptOf <> .
+
+<schlosser_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schlosser"@de ;
+    skos:topConceptOf <> .
+
+<schmied_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schmied"@de ;
+    skos:topConceptOf <> .
+
+<schmucktextilienhersteller_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schmucktextilienhersteller"@de ;
+    skos:topConceptOf <> .
+
+<schneider_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schneider"@de ;
+    skos:topConceptOf <> .
+
+<schornsteinbauer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schornsteinbauer"@de ;
+    skos:topConceptOf <> .
+
+<schornsteinfeger_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schornsteinfeger"@de ;
+    skos:topConceptOf <> .
+
+<schriftsetzer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schriftsetzer"@de ;
+    skos:topConceptOf <> .
+
+<schriftsteller_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schriftsteller"@de ;
+    skos:topConceptOf <> .
+
+<schuhfertiger_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schuhfertiger"@de ;
+    skos:topConceptOf <> .
+
+<schuhmacher_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schuhmacher"@de ;
+    skos:topConceptOf <> .
+
+<schuhtechniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schuhtechniker"@de ;
+    skos:topConceptOf <> .
+
+<schuhwarenstepper_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schuhwarenstepper"@de ;
+    skos:topConceptOf <> .
+
+<schweißer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schweißer"@de ;
+    skos:topConceptOf <> .
+
+<schädlingsbekämpfer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schädlingsbekämpfer"@de ;
+    skos:topConceptOf <> .
+
+<schäfer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schäfer"@de ;
+    skos:topConceptOf <> .
+
+<umschulung_id> a skos:Concept ;
+    skos:broader <beruf_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Umschulung"@de .
+
+<ökotrophologe_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ökotrophologe"@de ;
+    skos:topConceptOf <> .
+
+<berufsausbildung_id> a skos:Concept ;
+    skos:broader <beruf_id> ;
+    skos:inScheme <> ;
+    skos:narrower <fachpraktiker_id> ;
+    skos:prefLabel "Berufsausbildung"@de .
+
+<berufsbild_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <berufswandel_id> ;
+    skos:prefLabel "Berufsbild"@de ;
+    skos:topConceptOf <> .
+
+<beruf_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <ausbildungsplatzsuche_id>,
+        <berufsausbildung_id>,
+        <berufsbildungsgesetz_id>,
+        <berufserkundung_id>,
+        <berufsgrundbildungsjahr_id>,
+        <berufsvorbereitung_id>,
+        <karriere_id>,
+        <praktikum_id>,
+        <umschulung_id> ;
+    skos:prefLabel "Beruf"@de ;
+    skos:topConceptOf <> .
+
+<> a skos:ConceptScheme ;
+    dct:creator "<https://creator.com>" ;
+    dct:description "beruf_systematik"@de ;
+    dct:title "beruf_systematik"@de ;
+    skos:hasTopConcept <agraringenieur_id>,
+        <aktenverwalter_id>,
+        <animateur_id>,
+        <anlagenmechaniker_id>,
+        <anwaltsgehilfe_id>,
+        <apothekenhelfer_id>,
+        <apotheker_id>,
+        <arbeitsberater_id>,
+        <arbeitstherapeut_id>,
+        <architekt_id>,
+        <archivar_id>,
+        <arzt_id>,
+        <arzthelfer_id>,
+        <asphaltbauer_id>,
+        <audiometrieassistent_id>,
+        <aufbereitungsmechaniker_id>,
+        <aufbereitungssteiger_id>,
+        <aufnahmeleiter_id>,
+        <auktionator_id>,
+        <automateneinrichter_id>,
+        <außendienstmitarbeiter_id>,
+        <bandagist_id>,
+        <bankkaufmann_id>,
+        <baugeräteführer_id>,
+        <bauingenieur_id>,
+        <baumaschinenführer_id>,
+        <bauschlosser_id>,
+        <baustoffprüfer_id>,
+        <bautechnischer_assistent_id>,
+        <bauwerksabdichter_id>,
+        <bauzeichner_id>,
+        <bekleidungsfertiger_id>,
+        <bekleidungsingenieur_id>,
+        <bekleidungstechniker_id>,
+        <beleuchter_id>,
+        <bergbautechniker_id>,
+        <bergmechaniker_id>,
+        <beruf_id>,
+        <berufsberater_id>,
+        <berufsbild_id>,
+        <berufskraftfahrer_id>,
+        <beschäftigungstherapeut_id>,
+        <betonbauer_id>,
+        <betonsteinhersteller_id>,
+        <betonwerker_id>,
+        <betriebsassistent_id>,
+        <betriebsschlosser_id>,
+        <betriebswirt_id>,
+        <bibliothekar_id>,
+        <bibliotheksassistent_id>,
+        <bilanzbuchhalter_id>,
+        <bildmischer_id>,
+        <binnenschiffer_id>,
+        <biochemikern_id>,
+        <biologe_id>,
+        <biologielaborant_id>,
+        <biologischtechnischer_assistent_id>,
+        <biomedizinischer_techniker__id>,
+        <blechschlosser_id>,
+        <bootsbauer_id>,
+        <bootsmann_id>,
+        <brauer_id>,
+        <brunnenbauer_id>,
+        <buchbinder_id>,
+        <buchhändler_id>,
+        <bundesgrenzschutz_id>,
+        <bäcker_id>,
+        <börsenhändler_id>,
+        <böttcher_id>,
+        <büchsenmacher_id>,
+        <bühnenbildner_id>,
+        <bühnenmaler_id>,
+        <bühnenplastiker_id>,
+        <bürogehilfe_id>,
+        <büroinformationselektroniker_id>,
+        <büroinformationstechniker_id>,
+        <bürokaufmann_id>,
+        <büromaschinenmechaniker_id>,
+        <bürstenmacher_id>,
+        <chemiefacharbeiter_id>,
+        <chemielaborant_id>,
+        <chemietechniker_id>,
+        <chemikant_id>,
+        <chemischtechnischer_assistent_id>,
+        <chemotechniker_id>,
+        <chirurgiemechaniker_id>,
+        <controller_id>,
+        <cowboy_id>,
+        <croupier_id>,
+        <cutter_beruf_id>,
+        <dachdecker_id>,
+        <damenschneider_id>,
+        <datenverarbeitungskaufmann_id>,
+        <dekorationsnäher_id>,
+        <denkmalpfleger_id>,
+        <designer_id>,
+        <diakon_id>,
+        <diplomingenieur_id>,
+        <diätassistent_id>,
+        <dokumentar_id>,
+        <dokumentar_medizin_id>,
+        <dokumentationsassistent_id>,
+        <dolmetscher_id>,
+        <dorfhelfer_id>,
+        <dramaturg_id>,
+        <drechsler_id>,
+        <dreher_id>,
+        <drogist_id>,
+        <drucker_id>,
+        <druckereitechniker_id>,
+        <drucktechniker_id>,
+        <druckvorlagenhersteller_id>,
+        <edelmetallprüfer_id>,
+        <edelsteinfasser_id>,
+        <edelsteinschleifer_id>,
+        <edvorganisator_id>,
+        <einzelhandelskaufmann_id>,
+        <eisenbahner_id>,
+        <elektriker_id>,
+        <elektroanlagenmonteur_id>,
+        <elektroberuf_id>,
+        <elektromaschinenbauer_id>,
+        <elektromaschinenmonteur_id>,
+        <elektromechaniker_id>,
+        <elektroniker_id>,
+        <elektrotechnischer_assistent_id>,
+        <energieanlagenelektroniker_id>,
+        <energieberater_id>,
+        <energieelektroniker_id>,
+        <entsorger_id>,
+        <entwicklungshelfer_id>,
+        <ergotherapeut_id>,
+        <ernährungsmedizinischer_berater__id>,
+        <erzieher_id>,
+        <estrichleger_id>,
+        <fachangestellter_für_arbeitsförderung_id>,
+        <fachangestellter_für_arbeitsmarktdienstleistungen_id>,
+        <fachangestellter_für_bäderbetriebe_id>,
+        <fachangestellter_für_bürokommunikation_id>,
+        <fachangestellter_für_markt_und_sozialforschung_id>,
+        <facharbeiter_id>,
+        <fachgehilfe_gastgewerbe_id>,
+        <fachinformatiker_id>,
+        <fachkraft_für_abwassertechnik_id>,
+        <fachkraft_für_hygieneüberwachung_id>,
+        <fachkraft_für_lagerlogistik_id>,
+        <fachkraft_für_lebensmitteltechnik_id>,
+        <fachkraft_für_metalltechnikmontagetechnik_id>,
+        <fachkraft_für_süßwarentechnik_id>,
+        <fachkraft_für_veranstaltungstechnik_id>,
+        <fachkraft_für_wasserversorgungstechnik_id>,
+        <fachmann_für_systemgastronomie_id>,
+        <fachverkäufer_id>,
+        <fahrlehrer_id>,
+        <fahrzeugbauer_id>,
+        <fahrzeuginnenausstatter_id>,
+        <fahrzeugpolsterer_id>,
+        <familienpfleger_id>,
+        <fassadenmonteur_id>,
+        <feinmechaniker_id>,
+        <feinpolierer_id>,
+        <feintäschner_id>,
+        <fernmeldeelektroniker_id>,
+        <fertigungsmechaniker_id>,
+        <feuerwehrbeamter_id>,
+        <filmeditor_id>,
+        <filmlaborant_id>,
+        <fischwirt_id>,
+        <flachglasmechaniker_id>,
+        <fleischer_id>,
+        <fliesenleger_id>,
+        <florist_id>,
+        <flugbegleiter_id>,
+        <flugdienstberater_id>,
+        <fluggeräteelektroniker_id>,
+        <fluggerätemechaniker_id>,
+        <fluglehrer_id>,
+        <fluglotse_id>,
+        <flugtriebwerkmechaniker_id>,
+        <flugzeugbauer_id>,
+        <forstwirt_id>,
+        <fotograf_id>,
+        <fotogravurzeichner_id>,
+        <fotolaborant_id>,
+        <fotomedienlaborant_id>,
+        <fremdsprachenkorrespondent_id>,
+        <friseur_id>,
+        <fräser_id>,
+        <fußpfleger_id>,
+        <galvaniseur_id>,
+        <gartenbautechniker_id>,
+        <gebäudereiniger_id>,
+        <geograph_id>,
+        <geologe_id>,
+        <gerber_id>,
+        <geräuschemacher_id>,
+        <gerüstbauer_id>,
+        <gestaltungstechnischer_assistent_id>,
+        <gesundheitsberater_id>,
+        <gewandmeister_id>,
+        <gewerbelehrer_id>,
+        <gießereimechaniker_id>,
+        <glas_und_kerammaler_id>,
+        <glasapparatebauer_id>,
+        <glasapparatebläser_id>,
+        <glasbläser_id>,
+        <glaser_id>,
+        <glasinstrumentemacher_id>,
+        <glasmacher_id>,
+        <glasveredler_id>,
+        <gleisbauer_id>,
+        <goldschmied_id>,
+        <grafikdesigner_id>,
+        <graveur_id>,
+        <groß/außenhandelskaufmann__id>,
+        <grubenelektriker_id>,
+        <gymnastiklehrer_id>,
+        <gärtner_id>,
+        <gürtler_id>,
+        <hafenschiffer_id>,
+        <handelsfachpacker_id>,
+        <handelsschullehrer_id>,
+        <handelsvertreter_id>,
+        <handzuginstrumentenmacher_id>,
+        <hausdame_id>,
+        <hausmeister_id>,
+        <hauspfleger_id>,
+        <hauswirtschaftler_id>,
+        <hebamme_id>,
+        <heilerziehungshelfer_id>,
+        <heilerziehungspfleger_id>,
+        <heilpraktiker_id>,
+        <heilpädagoge_id>,
+        <heizungsbauer_id>,
+        <herrenschneider_id>,
+        <holzmechaniker_id>,
+        <holzspielzeugmacher_id>,
+        <hotelfachmann_id>,
+        <hotelgewerbe_id>,
+        <hotelkaufmann_id>,
+        <hörgeräteakustiker_id>,
+        <hörgerätemechaniker_id>,
+        <hüttentechniker_id>,
+        <immobilienfachwirt_id>,
+        <industrieelektroniker_id>,
+        <industrieglasfertiger_id>,
+        <industriekaufmann_id>,
+        <industriekeramiker_id>,
+        <industriemechaniker_id>,
+        <industriemeister__id>,
+        <informatik_assistent_id>,
+        <informatikkaufmann_id>,
+        <informationselektroniker_id>,
+        <ingenieur_id>,
+        <innenarchitekt_id>,
+        <installateur_id>,
+        <intarsientischler_id>,
+        <isolierer_id>,
+        <isolierfacharbeiter_id>,
+        <isoliermonteur_id>,
+        <itsystemelektroniker_id>,
+        <jalousiebauer_id>,
+        <journalist_id>,
+        <jugendrichter_id>,
+        <jurist_id>,
+        <justizangestellter_id>,
+        <justizverwaltungsbeamter_id>,
+        <kabeljungwerker_id>,
+        <kachelofenbauer_id>,
+        <kalkbrenner_id>,
+        <kameraassistent_id>,
+        <kameramann_id>,
+        <kanalbauer_id>,
+        <karosseriebauer_id>,
+        <karthograph_id>,
+        <kassierer_id>,
+        <kaufmann_für_audiovisuelle_medien_id>,
+        <kaufmann_für_bürokommunikation_id>,
+        <kaufmann_für_marketingkommunikation_id>,
+        <kaufmann_id>,
+        <kaufmannsgehilfe_id>,
+        <kellner_id>,
+        <keramiker_id>,
+        <kerammodelleur_id>,
+        <klimatechniker_id>,
+        <koch_id>,
+        <kommunikationselektroniker_id>,
+        <komponist_id>,
+        <konditor_id>,
+        <konstruktionsmechaniker_id>,
+        <korbmacher_id>,
+        <kostümbildner_id>,
+        <kraftfahrzeugelektriker_id>,
+        <kraftfahrzeuglackierer_id>,
+        <kraftfahrzeugmechaniker_id>,
+        <krankenhausbetriebstechniker_id>,
+        <kriminalbeamter_id>,
+        <kriminalobermeister_id>,
+        <kunsthistoriker_id>,
+        <kunststoffformgeber_id>,
+        <kunststoffkonfektionär_id>,
+        <kunststoffschlosser_id>,
+        <kunsttherapeut_id>,
+        <kupferschmied_id>,
+        <kupferstecher_id>,
+        <kälteanlagenbauer_id>,
+        <kältetechniker_id>,
+        <küchenhelfer_id>,
+        <kürschner_id>,
+        <laborant_id>,
+        <laboratoriumsassistent_id>,
+        <lackierer_id>,
+        <lacklaborant_id>,
+        <landmaschinenmechaniker_id>,
+        <landwirtschaftstechnischer_assistent_id>,
+        <lebensmittelchemiker_id>,
+        <lebensmitteltechniker_id>,
+        <lederwarenstepper_id>,
+        <lehrer_berufsfeld_id>,
+        <leichtflugzeugbauer_id>,
+        <lektor_id>,
+        <lichtreklamehersteller_id>,
+        <lichttechniker_id>,
+        <logopäde_id>,
+        <lokomotivführer_id>,
+        <lotse_id>,
+        <luftverkehrskaufmann_id>,
+        <maler_berufsbild_id>,
+        <maschinenbauer_id>,
+        <maschinenbaumechaniker_id>,
+        <maschinenführer_id>,
+        <maschinenschlosser_id>,
+        <maskenbildner_id>,
+        <masseur_id>,
+        <mathematischtechnischer_assistent_id>,
+        <maurer_id>,
+        <mechaniker_id>,
+        <mechatroniker_id>,
+        <mediasachbearbeiter_id>,
+        <mediengestalter_id>,
+        <medienpädagoge_id>,
+        <medientechniker_id>,
+        <medientechnologe_id>,
+        <medizinischer_fachangestellter_id>,
+        <medizinischtechnischer_assistent__id>,
+        <medizintechniker_id>,
+        <mess_und_regelmechaniker_id>,
+        <metallberuf_id>,
+        <meteorologe_id>,
+        <mikrotechnologe_id>,
+        <modedesigner_id>,
+        <model_id>,
+        <modellbauer_id>,
+        <modellbaumechaniker_id>,
+        <moderator_id>,
+        <modist_id>,
+        <molkereifacharbeiter_id>,
+        <molkereifachmann_id>,
+        <morphologieassistent_id>,
+        <motologe_id>,
+        <motopäde_id>,
+        <museumspädagoge_id>,
+        <musiker_id>,
+        <musikinstrumentenbauer_id>,
+        <musiklehrer_id>,
+        <musikredakteur_id>,
+        <musiktherapeut_id>,
+        <mälzer_id>,
+        <müller_id>,
+        <müllereitechniker_id>,
+        <nachrichtengerätemechaniker_id>,
+        <nagelschmied_id>,
+        <nahrungsmittelberuf_id>,
+        <natursteinmechaniker_id>,
+        <nautischer_wachoffizier_id>,
+        <neurologe_id>,
+        <notargehilfe_id>,
+        <offizier_id>,
+        <offsetdrucker_id>,
+        <optiker_id>,
+        <orchestermusiker_id>,
+        <orthoptist_id>,
+        <orthopädiemechaniker_id>,
+        <orthopädieschuhmacher_id>,
+        <papiermacher_id>,
+        <papiertechnologe_id>,
+        <parkettleger_id>,
+        <peitschenmacher_id>,
+        <personalfachkaufmann_id>,
+        <pferdewirt_id>,
+        <pflegeberuf_id>,
+        <pförtner_id>,
+        <pharmakant_id>,
+        <pharmakologe_id>,
+        <pharmareferent_id>,
+        <pharmazeutischkaufmännischer_angestellter_id>,
+        <pharmazeutischtechnischer_assistent_id>,
+        <physikalischtechnischer_assistent_id>,
+        <physiker_id>,
+        <physiklaborant_id>,
+        <physiotherapeut_id>,
+        <pianist_id>,
+        <pilot_id>,
+        <pinselmacher_id>,
+        <plastiker_id>,
+        <plattner_id>,
+        <podologe_id>,
+        <polier_id>,
+        <politiker_id>,
+        <polizeibeamter_id>,
+        <polsterer_id>,
+        <polsternäher_id>,
+        <postverkehrskaufmann_id>,
+        <produktionstechnologe_id>,
+        <programmierer_id>,
+        <prostitution_id>,
+        <prozessleitelektroniker_id>,
+        <prozessleiterelektroniker_id>,
+        <präparationstechnischer_assistent__id>,
+        <psychologe_id>,
+        <psychotherapeut_id>,
+        <qualitätsmanager_id>,
+        <radio_und_fernsehtechniker_id>,
+        <radiologieassistent_id>,
+        <raumausstatter_id>,
+        <rechtsanwaltsgehilfe_id>,
+        <rechtspfleger_id>,
+        <redakteur_id>,
+        <regieassistent_id>,
+        <registrator_id>,
+        <reifenmechaniker_id>,
+        <reiseleiter_id>,
+        <reiseverkehrskaufmann_id>,
+        <rennmechaniker_id>,
+        <reporter_id>,
+        <reprograph_id>,
+        <requisiteur_id>,
+        <restaurantfachmann_id>,
+        <restaurator_id>,
+        <rettungsassistent_id>,
+        <rhythmuslehrer_id>,
+        <rohrleitungsbauer_id>,
+        <rollladen/sonnenschutzmechatroniker_id>,
+        <rollladenbauer_id>,
+        <sachverständiger_id>,
+        <sanitärtechniker_id>,
+        <sattler_id>,
+        <schaufenstergestalter_id>,
+        <schauspieler_id>,
+        <schauwerbegestalter_id>,
+        <schienenfahrzeugführer_id>,
+        <schiffbetriebsoffizier_id>,
+        <schifffahrtskaufmann_id>,
+        <schiffsmechaniker_id>,
+        <schilderhersteller_id>,
+        <schleifer_id>,
+        <schlosser_id>,
+        <schmied_id>,
+        <schmucktextilienhersteller_id>,
+        <schneider_id>,
+        <schornsteinbauer_id>,
+        <schornsteinfeger_id>,
+        <schriftsetzer_id>,
+        <schriftsteller_id>,
+        <schuhfertiger_id>,
+        <schuhmacher_id>,
+        <schuhtechniker_id>,
+        <schuhwarenstepper_id>,
+        <schweißer_id>,
+        <schädlingsbekämpfer_id>,
+        <schäfer_id>,
+        <ökotrophologe_id> .
+

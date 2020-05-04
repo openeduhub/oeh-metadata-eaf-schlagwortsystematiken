@@ -1,0 +1,165 @@
+@base <https://example-perma-id/ethik_systematik/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<autosuggestion_id> a skos:Concept ;
+    skos:broader <ethik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Autosuggestion"@de .
+
+<brune__paul_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Brune, Paul"@de ;
+    skos:topConceptOf <> .
+
+<gerechtigkeit_id> a skos:Concept ;
+    skos:broader <ethik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gerechtigkeit"@de .
+
+<habermas__jürgen_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Habermas, Jürgen"@de ;
+    skos:topConceptOf <> .
+
+<heidegger__martin_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Heidegger, Martin"@de ;
+    skos:topConceptOf <> .
+
+<kant__immanuel_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kant, Immanuel"@de ;
+    skos:topConceptOf <> .
+
+<kaste_id> a skos:Concept ;
+    skos:broader <ethik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kaste"@de .
+
+<laotse_id> a skos:Concept ;
+    skos:broader <ethik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "LaoTse"@de .
+
+<lebensphilosophie_id> a skos:Concept ;
+    skos:broader <philosophie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lebensphilosophie"@de .
+
+<leibniz__gottfried_wilhelm_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Leibniz, Gottfried Wilhelm"@de ;
+    skos:topConceptOf <> .
+
+<leid_id> a skos:Concept ;
+    skos:broader <ethik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Leid"@de .
+
+<marcuse__herbert_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Marcuse, Herbert"@de ;
+    skos:topConceptOf <> .
+
+<menschenwürde_id> a skos:Concept ;
+    skos:broader <ethik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Menschenwürde"@de .
+
+<menschlichkeit_id> a skos:Concept ;
+    skos:broader <ethik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Menschlichkeit"@de .
+
+<moral_id> a skos:Concept ;
+    skos:broader <ethik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Moral"@de .
+
+<pflicht_id> a skos:Concept ;
+    skos:broader <ethik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pflicht"@de .
+
+<qualität_werthaltung_id> a skos:Concept ;
+    skos:broader <ethik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Qualität (Werthaltung)"@de .
+
+<schopenhauer__arthur_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schopenhauer, Arthur"@de ;
+    skos:topConceptOf <> .
+
+<seele_id> a skos:Concept ;
+    skos:broader <ethik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Seele"@de .
+
+<thales_von_milet_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Thales von Milet"@de ;
+    skos:topConceptOf <> .
+
+<verkafferung_id> a skos:Concept ;
+    skos:broader <ethik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Verkafferung"@de .
+
+<weltanschauung_id> a skos:Concept ;
+    skos:broader <ethik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Weltanschauung"@de .
+
+<weltschmerz_id> a skos:Concept ;
+    skos:broader <ethik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Weltschmerz"@de .
+
+<wertphilosophie_id> a skos:Concept ;
+    skos:broader <philosophie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wertphilosophie"@de .
+
+<philosophie_id> a skos:Concept ;
+    skos:broader <ethik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <lebensphilosophie_id>,
+        <wertphilosophie_id> ;
+    skos:prefLabel "Philosophie"@de .
+
+<ethik_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <autosuggestion_id>,
+        <gerechtigkeit_id>,
+        <kaste_id>,
+        <laotse_id>,
+        <leid_id>,
+        <menschenwürde_id>,
+        <menschlichkeit_id>,
+        <moral_id>,
+        <pflicht_id>,
+        <philosophie_id>,
+        <qualität_werthaltung_id>,
+        <seele_id>,
+        <verkafferung_id>,
+        <weltanschauung_id>,
+        <weltschmerz_id> ;
+    skos:prefLabel "Ethik"@de ;
+    skos:topConceptOf <> .
+
+<> a skos:ConceptScheme ;
+    dct:creator "<https://creator.com>" ;
+    dct:description "ethik_systematik"@de ;
+    dct:title "ethik_systematik"@de ;
+    skos:hasTopConcept <brune__paul_id>,
+        <ethik_id>,
+        <habermas__jürgen_id>,
+        <heidegger__martin_id>,
+        <kant__immanuel_id>,
+        <leibniz__gottfried_wilhelm_id>,
+        <marcuse__herbert_id>,
+        <schopenhauer__arthur_id>,
+        <thales_von_milet_id> .
+

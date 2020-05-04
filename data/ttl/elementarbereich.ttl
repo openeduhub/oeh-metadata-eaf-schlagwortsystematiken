@@ -1,0 +1,45 @@
+@base <https://example-perma-id/elementarbereich_systematik/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<begriffsbildung_id> a skos:Concept ;
+    skos:broader <vorschulerziehung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Begriffsbildung"@de .
+
+<bilderbuch_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bilderbuch"@de ;
+    skos:topConceptOf <> .
+
+<kommunikationsförderung_id> a skos:Concept ;
+    skos:broader <vorschulerziehung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kommunikationsförderung"@de .
+
+<krankheit_vorschule_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Krankheit (Vorschule)"@de ;
+    skos:topConceptOf <> .
+
+<sesamstraße_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sesamstraße"@de ;
+    skos:topConceptOf <> .
+
+<vorschulerziehung_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <begriffsbildung_id>,
+        <kommunikationsförderung_id> ;
+    skos:prefLabel "Vorschulerziehung"@de ;
+    skos:topConceptOf <> .
+
+<> a skos:ConceptScheme ;
+    dct:creator "<https://creator.com>" ;
+    dct:description "elementarbereich_systematik"@de ;
+    dct:title "elementarbereich_systematik"@de ;
+    skos:hasTopConcept <bilderbuch_id>,
+        <krankheit_vorschule_id>,
+        <sesamstraße_id>,
+        <vorschulerziehung_id> .
+

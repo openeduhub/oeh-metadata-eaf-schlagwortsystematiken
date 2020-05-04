@@ -1,0 +1,327 @@
+@base <https://example-perma-id/freizeit_systematik/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<basteln_id> a skos:Concept ;
+    skos:broader <freizeitgestaltung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Basteln"@de .
+
+<boulespiel_id> a skos:Concept ;
+    skos:broader <freizeitgestaltung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Boulespiel"@de .
+
+<camping_id> a skos:Concept ;
+    skos:broader <freizeitgestaltung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Camping"@de .
+
+<clown_id> a skos:Concept ;
+    skos:broader <freizeit_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Clown"@de .
+
+<drachen_spielzeug_id> a skos:Concept ;
+    skos:broader <freizeitgestaltung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Drachen (Spielzeug)"@de .
+
+<fahrbibliothek_id> a skos:Concept ;
+    skos:broader <bibliothek_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fahrbibliothek"@de .
+
+<filmen_id> a skos:Concept ;
+    skos:broader <freizeitgestaltung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Filmen"@de .
+
+<freizeitverhalten_id> a skos:Concept ;
+    skos:broader <freizeit_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Freizeitverhalten"@de .
+
+<gartenarbeit_id> a skos:Concept ;
+    skos:broader <freizeitgestaltung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gartenarbeit"@de .
+
+<glücksspiel_id> a skos:Concept ;
+    skos:broader <freizeitgestaltung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Glücksspiel"@de .
+
+<halloween_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Halloween"@de ;
+    skos:topConceptOf <> .
+
+<handarbeiten_id> a skos:Concept ;
+    skos:broader <freizeitgestaltung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Handarbeiten"@de .
+
+<jugendlager_id> a skos:Concept ;
+    skos:broader <freizeitgestaltung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Jugendlager"@de .
+
+<jugendzentrum_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Jugendzentrum"@de ;
+    skos:topConceptOf <> .
+
+<karneval_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Karneval"@de ;
+    skos:topConceptOf <> .
+
+<kochen_gerichte_id> a skos:Concept ;
+    skos:broader <freizeitgestaltung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kochen (Gerichte)"@de .
+
+<modellbau_id> a skos:Concept ;
+    skos:broader <freizeitgestaltung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Modellbau"@de .
+
+<reisen_australien_id> a skos:Concept ;
+    skos:broader <freizeitgestaltung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Reisen (Australien)"@de .
+
+<reisen_brasilien_id> a skos:Concept ;
+    skos:broader <reisen_amerika_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Reisen (Brasilien)"@de .
+
+<reisen_china_id> a skos:Concept ;
+    skos:broader <reisen_asien_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Reisen (China)"@de .
+
+<reisen_deutschland_id> a skos:Concept ;
+    skos:broader <reisen_britische_inseln_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Reisen (Deutschland)"@de .
+
+<reisen_europa_id> a skos:Concept ;
+    skos:broader <freizeitgestaltung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Reisen (Europa)"@de .
+
+<reisen_griechenland_id> a skos:Concept ;
+    skos:broader <freizeitgestaltung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Reisen (Griechenland)"@de .
+
+<reisen_indien_id> a skos:Concept ;
+    skos:broader <reisen_asien_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Reisen (Indien)"@de .
+
+<reisen_israel_id> a skos:Concept ;
+    skos:broader <reisen_asien_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Reisen (Israel)"@de .
+
+<reisen_japan_id> a skos:Concept ;
+    skos:broader <reisen_asien_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Reisen (Japan)"@de .
+
+<reisen_paris_id> a skos:Concept ;
+    skos:broader <reisen_frankreich_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Reisen (Paris)"@de .
+
+<reisen_schweiz_id> a skos:Concept ;
+    skos:broader <reisen_italien_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Reisen (Schweiz)"@de .
+
+<reisen_skandinavien_id> a skos:Concept ;
+    skos:broader <reisen_italien_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Reisen (Skandinavien)"@de .
+
+<reisen_spanien_id> a skos:Concept ;
+    skos:broader <reisen_italien_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Reisen (Spanien)"@de .
+
+<reisen_thailand_id> a skos:Concept ;
+    skos:broader <reisen_asien_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Reisen (Thailand)"@de .
+
+<reisen_türkei_id> a skos:Concept ;
+    skos:broader <freizeitgestaltung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Reisen (Türkei)"@de .
+
+<reisen_usa_id> a skos:Concept ;
+    skos:broader <freizeitgestaltung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Reisen (USA)"@de .
+
+<reisen_ägypten_id> a skos:Concept ;
+    skos:broader <reisen_afrika_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Reisen (Ägypten)"@de .
+
+<reisen_österreich_id> a skos:Concept ;
+    skos:broader <reisen_italien_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Reisen (Österreich)"@de .
+
+<rätsel_id> a skos:Concept ;
+    skos:broader <freizeitgestaltung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Rätsel"@de .
+
+<safari_id> a skos:Concept ;
+    skos:broader <freizeitgestaltung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Safari"@de .
+
+<schwimmbad_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schwimmbad"@de ;
+    skos:topConceptOf <> .
+
+<spiel_unterhaltung_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Spiel (Unterhaltung)"@de ;
+    skos:topConceptOf <> .
+
+<spielen_id> a skos:Concept ;
+    skos:broader <freizeitgestaltung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Spielen"@de .
+
+<spielplatz_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Spielplatz"@de ;
+    skos:topConceptOf <> .
+
+<stadtbesichtigung_id> a skos:Concept ;
+    skos:broader <freizeitgestaltung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Stadtbesichtigung"@de .
+
+<tierbeobachtung_naturerlebnis_id> a skos:Concept ;
+    skos:broader <freizeitgestaltung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tierbeobachtung (Naturerlebnis)"@de .
+
+<urlaub_id> a skos:Concept ;
+    skos:broader <freizeitgestaltung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Urlaub"@de .
+
+<bibliothek_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <fahrbibliothek_id> ;
+    skos:prefLabel "Bibliothek"@de ;
+    skos:topConceptOf <> .
+
+<reisen_afrika_id> a skos:Concept ;
+    skos:broader <freizeitgestaltung_id> ;
+    skos:inScheme <> ;
+    skos:narrower <reisen_ägypten_id> ;
+    skos:prefLabel "Reisen (Afrika)"@de .
+
+<reisen_amerika_id> a skos:Concept ;
+    skos:broader <freizeitgestaltung_id> ;
+    skos:inScheme <> ;
+    skos:narrower <reisen_brasilien_id> ;
+    skos:prefLabel "Reisen (Amerika)"@de .
+
+<reisen_britische_inseln_id> a skos:Concept ;
+    skos:broader <freizeitgestaltung_id> ;
+    skos:inScheme <> ;
+    skos:narrower <reisen_deutschland_id> ;
+    skos:prefLabel "Reisen (Britische Inseln)"@de .
+
+<reisen_frankreich_id> a skos:Concept ;
+    skos:broader <freizeitgestaltung_id> ;
+    skos:inScheme <> ;
+    skos:narrower <reisen_paris_id> ;
+    skos:prefLabel "Reisen (Frankreich)"@de .
+
+<freizeit_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <clown_id>,
+        <freizeitgestaltung_id>,
+        <freizeitverhalten_id> ;
+    skos:prefLabel "Freizeit"@de ;
+    skos:topConceptOf <> .
+
+<reisen_italien_id> a skos:Concept ;
+    skos:broader <freizeitgestaltung_id> ;
+    skos:inScheme <> ;
+    skos:narrower <reisen_schweiz_id>,
+        <reisen_skandinavien_id>,
+        <reisen_spanien_id>,
+        <reisen_österreich_id> ;
+    skos:prefLabel "Reisen (Italien)"@de .
+
+<reisen_asien_id> a skos:Concept ;
+    skos:broader <freizeitgestaltung_id> ;
+    skos:inScheme <> ;
+    skos:narrower <reisen_china_id>,
+        <reisen_indien_id>,
+        <reisen_israel_id>,
+        <reisen_japan_id>,
+        <reisen_thailand_id> ;
+    skos:prefLabel "Reisen (Asien)"@de .
+
+<freizeitgestaltung_id> a skos:Concept ;
+    skos:broader <freizeit_id> ;
+    skos:inScheme <> ;
+    skos:narrower <basteln_id>,
+        <boulespiel_id>,
+        <camping_id>,
+        <drachen_spielzeug_id>,
+        <filmen_id>,
+        <gartenarbeit_id>,
+        <glücksspiel_id>,
+        <handarbeiten_id>,
+        <jugendlager_id>,
+        <kochen_gerichte_id>,
+        <modellbau_id>,
+        <reisen_afrika_id>,
+        <reisen_amerika_id>,
+        <reisen_asien_id>,
+        <reisen_australien_id>,
+        <reisen_britische_inseln_id>,
+        <reisen_europa_id>,
+        <reisen_frankreich_id>,
+        <reisen_griechenland_id>,
+        <reisen_italien_id>,
+        <reisen_türkei_id>,
+        <reisen_usa_id>,
+        <rätsel_id>,
+        <safari_id>,
+        <spielen_id>,
+        <stadtbesichtigung_id>,
+        <tierbeobachtung_naturerlebnis_id>,
+        <urlaub_id> ;
+    skos:prefLabel "Freizeitgestaltung"@de .
+
+<> a skos:ConceptScheme ;
+    dct:creator "<https://creator.com>" ;
+    dct:description "freizeit_systematik"@de ;
+    dct:title "freizeit_systematik"@de ;
+    skos:hasTopConcept <bibliothek_id>,
+        <freizeit_id>,
+        <halloween_id>,
+        <jugendzentrum_id>,
+        <karneval_id>,
+        <schwimmbad_id>,
+        <spiel_unterhaltung_id>,
+        <spielplatz_id> .
+

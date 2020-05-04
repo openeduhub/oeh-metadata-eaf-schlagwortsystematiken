@@ -1,0 +1,1475 @@
+G E O G R A P H I E									
+
+Afrika
+-Nordafrika
+	--Ägypten
+		---Abu Simbel
+		---Kairo
+		---Sinai
+	--Algerien
+	--Libyen
+	--Mali
+	--Marokko
+		---Fes (Stadt)
+	--Sudan
+	--Tunesien
+-Ostafrika
+	--Äthiopien
+	--Kenia
+		---Nairobi
+	--Ruanda
+	--Tansania
+	--Uganda
+-Südafrika (Erdteil)
+	--Angola
+	--Botswana
+	--Madagaskar
+	--Mauritius
+	--Mosambik
+		
+	--Namibia
+	--Republik Südafrika
+		---Johannesburg
+	--Sambia
+	--Simbabwe
+	--Swasiland
+-Westafrika
+	--Burkina Faso
+	--Elfenbeinküste
+	--Gabun
+		---Lambarene
+	--Ghana
+	--Guinea
+	--Kamerun
+	--Kap Verde (Insel)
+	--Kongo (Republik)
+	--Liberia
+	--Nigeria
+	--Senegal
+	--Togo
+-Zentralafrika
+	--Kamerun
+	--Kongo (Demokratische Republik)
+	--Niger (Saat)
+	--Republik Zentralafrika
+	--Tschad
+	
+Amerika
+-Lateinamerika
+	--Landeskunde (Lateinamerika)
+	--Mittelamerika
+		---Mexiko
+		---Westindien
+			----Antillen
+				-----Dominikanische Republik
+				-----Haiti
+				-----Kuba
+			----Bahamas
+		---Zentralamerika
+			----Costa Rica
+				----El Salvador
+				----Guatemala
+				----Honduras
+				----Nicaragua
+				----Panama
+	--Südamerika
+		---Argentinien
+		---Bolivien
+		---Brasilien
+			----Brasilia
+			----Rio de Janeiro
+			----São Paulo
+		---Chile
+		---Ecuador
+			----Galápagosinseln
+			----Quito
+		---Feuerland
+		---Kolumbien
+		---Paraguay
+		---Peru
+			----Cuzco
+			----Lima
+		---Uruguay
+		---Venezuela
+
+-Nordamerika
+	--Grönland
+	--Kanada
+		---Landeskunde (Kanada)
+		---Quebec (Provinz)
+		---Toronto
+	--USA (Staat)
+		---Alabama (USA - Staat)
+		---Alaska
+		---Arizona
+			----Grand Canyon
+		---Cleveland
+		---Colorado (USA - Staat)
+		---Florida
+		---Georgia
+		---Hawaii
+			----Pearl Harbor
+		---Illinois (USA - Staat)
+			----Chicago
+		---Iowa
+		---Kalifornien
+			----Los Angeles
+			----San Francisco
+		---Kansas
+---Kentucky
+---Landeskunde (USA)
+	----Wilder Westen
+		---Lousiana
+			----New Orleans
+		---Maine
+		---Massachusetts
+			----Boston
+		---Michigan
+			----Detroit
+		---Mississippi (USA - Staat)
+		---Missouri (USA - Staat)
+		---Nevada
+			----Las Vegas
+		---New York
+			----Woodstock
+		---North Carolina
+		---(Ohio)
+			----Cleveland
+		---Oklahoma
+		---Pennsylvania
+		---South Carolina
+		---Texas
+			----Houston
+		---Utah
+		---Wisconsin (USA – Staat)
+		---Washington (USA - Staat)
+		---Washington D.C.
+
+Asien
+-Nordasien
+	--Russland (Föderation)
+		---Jakutien
+		---Königsberg
+		---Landeskunde (Russland)
+		---Moskau
+			----Kreml
+		---Sankt Petersburg
+		---Sibirien
+			----Baikalsee
+			----Bratsk
+			----Irkutsk
+		---Wolgograd
+-Ostasien
+	--China (Volksrepublik)
+		---Chinesische Mauer
+		---Hongkong
+		---Peking
+		---Shanghai
+		---Tibet
+		---Xinjiang Uygur
+	--Japan
+		---Hiroshima
+		---Japan (Wirtschaft)
+		---Tokio
+	--Korea (Halbinsel)
+		---Korea (Nordkorea)
+		---Korea (Südkorea)
+	--Taiwan
+-Südasien
+	--Bangladesh
+	--Bhutan
+	--Indien
+		---Mumbai
+		---Goa
+		---Kalkutta
+		---Varanasi
+	--Malediven
+	--Nepal
+	--Pakistan
+	--Seychellen
+	--Sri Lanka
+-Südostasien
+	--Birma
+	--Borneo
+	--Indonesien
+		---Bali
+	--Kambodscha
+	--Laos
+	--Malaysia
+	--Philippinen
+	--Singapur
+	--Thailand
+		---Bangkok
+	--Vietnam
+-Vorderasien
+	--Afghanistan
+	--Arabische Halbinsel
+		---Jemen
+		---Kuwait
+		---Oman
+		---Saudi-Arabien
+		---Vereinigte Arabische Emirate
+	(--Georgien)
+		---Tiflis
+	--Irak
+	--Iran
+		---Isfahan
+	--Israel (Republik)
+		---Jerusalem
+	--Jordanien
+		---Bethlehem
+		---Jericho
+	--Libanon
+		---Baalbek
+	--Palästina
+	--Syrien
+	--Türkei
+		---Anatolien
+		---Istanbul
+	--Zypern
+-Zentralasien
+	--Kasachstan
+		---Aralsee
+	--Mongolei
+	--Tadschikistan
+	--Turkmenistan
+	--Usbekistan
+		---Samarkand
+Australien (Kontinent)
+-Australien (Bundesstaat)
+	--Melbourne
+	--Sydney
+Europa
+-Mitteleuropa
+	--Bundesrepublik Deutschland (nach 3.10.90)
+		---Deutschland (Geographie/Wirtschaft)
+		---Deutschland (Kultur/Gesellschaft)
+		---Baden-Württemberg
+			----Baden (Landesteil)
+				-----Baden-Baden (Kreis)
+				-----Breisgau-Hochschwarzwald (Kreis)
+					------Breisach
+					------Kaiserstuhl
+				-----Calw (Kreis)
+				-----Emmendingen (Kreis)
+				-----Enzkreis
+					------Maulbronn
+				-----Freiburg im Breisgau (Kreis)
+					------Freiburg im Briesgau (Stadt)
+				-----Freudenstadt (Kreis)
+				-----Heidelberg (Kreis)
+					-------Heidelberg (Stadt)
+				-----Karlsruhe (Kreis)
+					------Bretten
+					------Bruchsal
+					------Ettlingen
+					------Karlsruhe (Stadt)
+				-----Konstanz (Kreis)
+					------Reichenau
+				-----Lörrach (Kreis)
+					------Dreiländereck
+				-----Mainau
+				-----Mannheim (Kreis)
+					------Mannheim (Stadt)
+				-----Neckar-Odenwald-Kreis
+				-----Ortenaukreis
+					------Lahr
+				-----Pforzheim (Kreis)
+				-----Rastatt (Kreis)
+				-----Rhein-Neckar-Kreis
+					------Ladenburg
+					------Schwetzingen
+				-----Rottweil (Kreis)
+				-----Schwarzwald-Baar-Kreis
+					------Donaueschingen
+					------Hüfingen
+					------Sankt Georgen	
+					------Villingen-Schwenningen
+				-----Tuttlingen (Kreis)
+				-----Waldshut (Kreis)
+					------Säckingen
+			----Landeskunde (Baden-Württemberg)
+				-----Marbach (Gestüt)
+				-----Schäferlauf
+			----Württemberg
+				-----Alb-Donau-Kreis
+					------Blaubeuren
+				-----Biberach (Kreis)
+					------Biberach an der Riß
+				-----Bodenseekreis
+					------Meersburg
+					------Salem
+					------Überlingen
+				-----Böblingen (Kreis)
+				-----Esslingen (Kreis)
+					------Esslingen (Stadt)
+				------Filder
+				------Plochingen
+				-----Göppingen (Kreis)
+					------Göppingen (Stadt)
+				-----Heidenheim (Kreis)
+					------Heidenheim (Stadt)
+				-----Heilbronn (Kreis)
+					------Heilbronn (Stadt)
+					------Wimpfen
+				-----Hohenlohekreis
+				-----Ludwigsburg (Kreis)
+				-----Main-Tauber-Kreis
+				------Mergentheim
+				-----Ostalbkreis
+					------Aalen
+					------Ellwangen (Jagst)
+				------Neresheim
+				------Schwäbisch Gmünd
+				-----Ravensburg (Kreis)
+					------Weingarten
+				-----Rems-Murr-Kreis
+				-----Reutlingen (Kreis)
+					------Zwiefalten
+				-----Schwäbisch Hall (Kreis)
+					------Comburg
+				-----Sigmaringen (Kreis)
+				-----Stuttgart (Kreis)
+					------Stuttgart
+				-----Tübingen (Kreis)
+					------Rottenburg
+					------Tübingen (Stadt)
+				-----Ulm (Kreis)
+					------Ulm (Stadt)
+				-----Zollernalbkreis
+					------Hohenzollern (Burg)
+		---Bayern
+			----Landeskunde (Bayern)
+			----Mittelfranken (Regierungsbezirk)
+				-----Ansbach (Kreis)
+					------Ansbach (Stadt)
+					------Rothenburg ob der Tauber
+				-----Erlangen-Höchstadt (Kreis)
+					------Erlangen (Stadt)
+				-----Fürth (Kreis)
+					------Fürth (Stadt)
+				-----Neustadt an der Aisch/Windsheim (Kreis)
+				-----Nürnberger Land (Kreis)
+					------Nürnberg
+				-----Roth (Kreis)
+				-----Schwabach (Kreis)
+				-----Weißenburg-Gunzenhausen (Kreis)
+					------Solnhofen
+			----Niederbayern (Regierungsbezirk)
+				-----Deggendorf (Kreis)
+				-----Dingolfing-Landau (Kreis)
+				-----Freyung-Grafenau (Kreis)
+				-----Kelheim (Kreis)
+				-----Landshut (Kreis)
+					------Landshut (Stadt)
+				-----Passau (Kreis)
+					------Passau (Stadt)
+				-----Regen (Kreis)
+				-----Rottal-Inn (Kreis)
+				-----Straubing-Bogen (Kreis)
+					------Straubing (Stadt)
+			----Oberbayern (Regierungsbezirk)
+				-----Altötting (Kreis)
+				-----Tölz-Wolfratshausen (Kreis)
+				-----Berchtesgadener Land (Kreis)
+					------Watzmann
+				-----Dachau (Kreis)
+				-----Ebersberg (Kreis)
+				-----Eichstätt (Kreis)
+				-----Erding (Kreis)
+				-----Freising (Kreis)
+				-----Fürstenfeldbruck (Kreis)
+				-----Garmisch-Partenkirchen (Kreis)
+				-----Ingolstadt (Kreis)
+				-----Landsberg am Lech (Kreis)
+				-----Miesbach (Kreis)
+				-----Mühldorf am Inn (Kreis)
+				-----München (Kreis)
+					------München (Stadt)
+				-----Neuburg-Schrobenhausen (Kreis)
+				-----Pfaffenhofen an der Ilm (Kreis)
+				-----Rosenheim (Kreis)
+					------Rosenheim (Stadt)
+					------Wasserburg am Inn
+				-----Starnberg (Kreis)
+				-----Traunstein (Kreis)
+				-----Weilheim-Schongau (Kreis)
+			----Oberfranken (Regierungsbezirk)
+				-----Bamberg (Kreis)
+					------Bamberg (Stadt)
+				-----Bayreuth (Kreis)
+					------Bayreuth (Stadt)
+				-----Coburg (Kreis)
+					------Coburg (Stadt)
+				-----Forchheim (Kreis)
+				-----Hof (Kreis)
+					------Hof (Stadt)
+				-----Kronach (Kreis)
+				-----Kulmbach (Kreis)
+				-----Lichtenfels (Kreis)
+			-----Wunsiedel im Fichtelgebirge (Kreis)
+			----Oberpfalz (Regierungsbezirk)
+				-----Amberg-Sulzbach (Kreis)
+					------Amberg (Stadt)
+				-----Cham (Kreis)
+				-----Neumarkt in der Oberpfalz (Kreis)
+				-----Neustadt an der Waldnaab (Kreis)
+				-----Regensburg (Kreis)
+					------Regensburg (Stadt)
+				-----Schwandorf (Kreis)
+				-----Tirschenreuth (Kreis)
+				-----Weiden in der Oberpfalz (Kreis)
+			----Schwaben (Regierungsbezirk)
+				-----Allgäu
+					------Kempten (Allgäu) (Kreis)
+					------Oberallgäu (Kreis)
+					------Ostallgäu (Kreis)
+					------Unterallgäu (Kreis)
+				-----Aichach-Friedberg (Kreis)
+				-----Augsburg (Kreis)
+					------Augsburg (Stadt)
+				-----Dillingen an der Donau (Kreis)
+				-----Donau-Ries (Kreis)
+					------Nördlingen
+				-----Günzburg (Kreis)
+				-----Kaufbeuren (Kreis)
+				-----Memmingen (Kreis)
+				-----Neu-Ulm (Kreis)
+			----Unterfranken (Regierundbezirk)
+				-----Aschaffenburg (Kreis)
+					------Aschaffenburg (Stadt)
+				-----Hasberge (Kreis)
+				-----Kissingen (Bad) (Kreis)
+				-----Kitzingen (Kreis)
+				-----Main-Spessart (Kreis)
+				-----Miltenberg (Kreis)
+				-----Rhön-Grabfeld (Kreis)
+				-----Schweinfurt (Kreis)
+					------Schweinfurt (Stadt)
+				-----Würzburg (Kreis)
+					------Würzburg (Stadt)
+		---Berlin (allgemein)
+		---Brandenburg (Land)
+			----Barnim (Kreis)
+			----Eisenhüttenstadt
+			----Frankfurt an der Oder
+			----Landeskunde (Brandenburg)
+			----Potsdam
+		---Bremen
+			----Landeskunde (Bremen)
+		---Hamburg
+			----Landeskunde (Hamburg)
+		---Hessen
+			----Biblis
+			----Frankfurt am Main
+			----Kassel
+			----Korbach
+			----Landeskunde (Hessen)
+			----Lorsch
+			----Marburg
+			----Wetzlar
+			----Wiesbaden
+		---Mecklenburg-Vorpommern
+			----Landeskunde (Mecklenburg-Vorpommern)
+			----Pommern
+			----Neubrandenburg
+			----Rostock
+			----Rügen
+			----Schwerin
+			----Stralsund
+			----Usedom
+			----Wismar
+		---Niedersachsen
+			----Celle
+			----Emden
+			----Emsland
+			----Gorleben
+			----Hameln
+			----Hannover
+			----Hildesheim
+			----Landeskunde (Niedersachsen)
+			----Lüchow-Dannenberg (Kreis)
+			----Lüneburg
+			----Wilhelmshaven
+			----Wolfenbüttel
+			----Wolfburg
+			----Worpswede
+		---Norddeutschland
+		---Nordrhein-Westfalen
+			----Aachen
+			----Bonn
+			----Brühl
+			----Essen (Stadt)
+			----Duisburg
+			----Düsseldorf
+			----Köln
+			----Landeskunde (Nordrhein-Westfalen)
+			----Oberhausen
+			----Westfalen
+				-----Dortmund
+				-----Gütersloh (Kreis)
+				-----Münster (Stadt)
+				-----Paderborn
+				-----Soest
+				-----Wuppertal
+				-----Xanten
+				-----Zons
+		---Östliche Bundesländer 
+		---Rheinland-Pfalz
+			----Koblenz
+			----Landau in der Pfalz
+			----Landeskunde (Rheinland-Pfalz)
+			----Loreley
+			----Ludwigshafen
+			----Mainz
+			----Nürburgring
+			----Oberwesel
+			----Speyer
+			----Trier
+			----Worms
+		---Saarland
+			----Landeskunde (Saarland)
+			----Saarbrücken
+		---Sachsen (Freistaat)
+			----Annaberg (Kreis)
+			----Aue-Schwarzenberg (Kreis)
+			----Chemnitz
+			----Chemnitzer Land (Kreis)
+			----Delitzsch (Kreis)
+			----Döbeln (Kreis)
+			----Dresden
+			----Görlitz
+			----Hoyerswerda
+			----Landeskunde (Sachsen)
+			----Leipzig
+			----Leipziger Land (Kreis)
+			----Löbau-Zittau (Kreis)
+			----Meißen (Kreis)
+				-----Meißen
+			----Mittlerer Erzgebirgskreis
+			----Mittweida (Kreis)
+			----Muldentalkreis
+				-----Freiberg
+			----Niederschlesischer Oberlausitzkreis
+				-----Bautzen
+			----Plauen
+			----Riesa-Großenhain (Kreis)
+			----Sächsische Schweiz (Kreis)
+				-----Pirna
+			----Stollberg im Harz(Kreis)
+			----Torgau-Oschatz (Kreis)
+			----Vogtlandkreis
+			----Weißeritzkreis
+			----Westlausitzkreis
+			----Zwickau
+			----Zwickauer Land (Kreis)
+		---Sachsen-Anhalt
+			----Halle-Neustadt
+			----Landeskunde (Sachsen-Anhalt)
+			----Magdeburg
+			----Merseburg
+			----Naumburg (Saale)
+			----Quedlinburg
+			----Stolberg
+			----Wittenberg
+		---Schleswig-Holstein
+			----Helgoland
+			----Kiel
+			----Landeskunde (Schleswig-Holstein)
+			----Lübeck
+			----Sylt
+		---Süddeutschland
+		---Thüringen
+			----Eisenach
+				-----Wartburg
+			----Erfurt
+			----Landeskunde (Thüringen)
+			----Weimar
+	--Liechtenstein (Fürstentum)
+	--Luxemburg
+	--Österreich
+		---Burgenland
+		---Kärnten
+		---Niederösterreich
+			----Wien
+		---Oberösterreich
+		---Salzburg
+		---Steiermark
+		---Tirol
+		---Vorarlberg
+	--Schweiz
+		---Basel
+		---Berner Oberland
+		---Graubünden
+			----Zillis
+		---Jura (Kanton)
+		---Sankt Gotthard
+		---Wallis
+			----Zermatt
+			----Matterhorn
+	--Ungarn
+		---Budapest
+-Nordeuropa
+	--Baltikum
+		---Estland
+		---Lettland
+			----Riga
+		---Litauen
+			----Vilnius
+	--Dänemark
+	--Großbritannien
+		---England
+			----Cornwall
+			----Lake District
+			----Liverpool
+			----London
+			----Norwich
+			----Stonehenge
+			----Wales
+			----Yorkshire
+		---Landeskunde (Großbritannien)
+		---Nordirland
+		---Schottland
+			----Glasgow
+		---Überseegebiet (Großbritannien)
+	--Irland (Republik)
+	--Island
+	--Skandinavien
+		---Finnland
+		---Norwegen
+		---Schweden
+			----Kiruna
+			----Stockholm
+-Osteuropa
+	--Polen
+		---Danzig
+		---Breslau
+		---Kolberg
+		---Marienburg
+		---Ostpreußen
+			----Trakehnen
+		---Stettin
+		---Warschau
+		---Westpreußen
+	--Tschechische Republik
+		---Prag
+	--Slowakische Republik
+	--Ukraine
+		---Jalta
+		---Kiew
+	--Weißrussland
+-Südeuropa
+	--Albanien
+	--Bosnien und Herzegowina
+		---Sarajevo
+	--Bulgarien
+	--Griechenland
+		---Athen
+		---Athos
+		---Korfu
+		---Korinth
+		---Kreta
+		---Kykladen
+		---Rhodos
+	--Italien
+		---Elba
+		---Ferrara
+		---Ischia
+		---Landeskunde (Italien)
+		---Ligurien
+			----Genua
+		---Liparische Inseln
+		---Lombardei
+			----Bergamo
+			----Mailand
+		---Ravenna
+		---Rom (Stadt)
+		---Sardinien
+		---Sizilien
+		---Südtirol
+		---Toskana
+			----Florenz
+			----Lucca
+		---Treviso
+		---Turin
+		---Venedig
+		---Verona
+	--Kroatien
+		---Split (Stadt)
+	--Makedonien (Republik)
+	--Malta
+	--Montenegro (Republik)
+	--Portugal
+		---Azoren
+		---Madeira (Portugal)
+	--Rumänien
+	--Serbien (Republik)
+		---Kosovo
+	--Slowenien
+	--Spanien
+		---Andalusien
+			----Cordoba
+			----Granada
+			----Sevilla
+			----Valencia
+		---Balearen
+		---Gibraltar
+		---Kanarische Inseln
+		---Kastilien
+			----Madrid
+		---Katalonien
+			----Barcelona
+		---Landeskunde (Spanien)
+		---Santiago de Compostela
+-Westeuropa
+	--Belgien
+		---Gent
+		---Waterloo
+	--Niederlande
+		---Amsterdam
+		---Rotterdam
+	--Frankreich
+		---Aquitanien
+			----Bordeaux
+			----Lascaux
+		---Auvergne
+		---Bretagne
+		---Burgund
+			----Cluny
+			----Dijon
+		---Centre (Region Frankreich)
+			----Chartres
+		---Champagne-Ardenne
+			----Reims
+		---Elsass
+			----Colmar
+			----Mühlhausen
+			----Straßburg
+		---Franche-Comte
+			----Besançon
+		---Île-de-France
+			----Paris
+				-----Eiffelturm
+		---Korsika
+		---Landeskunde (Frankreich)
+		---Languedoc-Roussillon
+		---Limousin
+			----Aubusson
+		---Lothringen
+			----Nancy
+			----Verdun
+		---Midi-Pyrénées
+			----Lourdes
+			----Toulouse
+		---Nord-Pas-de-Calais
+			----Dünkirchen
+			----Lille
+		---Normandie
+		---Pays-de-la-Loire
+			----Nantes
+		---Picardie
+		---Poitou-Charente
+		---Provence-Alpes-Cote d‘Azur
+			----Aix-en-Provence
+			----Avignon
+			----Camargue
+			----Marseille
+			----Nizza
+		---Rhône-Alpes
+			----Lyon
+		---Überseedépartement
+			----Reunion (Insel)
+		---Überseegebiet (Frankreich)
+
+Ozeanien
+-Fidschi
+-Neuseeland
+-Papua-Neuguinea
+-Polynesien
+
+(Polargebiete)
+-Antarktis
+	--Rossmeer
+-Arktis
+-Polarforschung
+
+Geographie
+
+-(Agrargeographie)
+	--Landwirtschaft
+		---Agrarproduktion
+		---Agroforstwirtschaft
+		---Almwirtschaft
+			----Bergbauer
+		---Ernte
+		---Fischwirtschaft
+			----Fischerei
+				-----Flussfischerei
+					------Fischtreppe
+				-----Hochseefischerei
+				-----Küstenfischerei
+				-----Überfischung
+		---Forstwirtschaft
+			----Aufforstung
+			----Rodung
+		---Grüne Revolution
+		---Grünlandwirtschaft
+		---Industrielle Landwirtschaft
+		---Landwirtschaftliche Entwicklung 
+		---Landwirtschaftsstruktur
+			----Bodenreform
+			----Kibbuz
+			----Kolchose
+			----Mechanisierung
+			----Mischkultur
+			----Monokultur
+			----Nebenerwerbswirtschaft
+			----Parzelle
+			----Plantage
+			----Stockwerkanbau
+			----Terrassenkultur
+		---Ökologische Landwirtschaft
+		---Pflanzenbau
+			----Ackerbau
+				-----Brandrodungsfeldbau
+				-----Wanderfeldbau
+			----Intensivkultur
+				-----Gemüsebau
+				-----Gewächshaus
+				-----Weinbau
+		---Saat
+		---Sozialbrache
+		---Viehwirtschaft
+			----Milchwirtschaft
+			----Nomadismus
+			----Weide (Grünland)
+		
+		
+		
+
+-(Bevölkerungsgeographie)
+	--Weltbevölkerung
+		---Alterspyramide
+		---Bevölkerungsdichte
+		---Bevölkerungsentwicklung
+			----Demographie
+		---Bevölkerungswanderung
+			----Bergflucht
+			----Binnenwanderung
+			----Emigration
+			----Immigration
+			----Landflucht
+			----Stadtflucht
+			----Umsiedlung
+		---Brauchtum
+			----Brauchtum (Welt)
+			----Osterbrauchtum
+		---Ethnische Gruppe
+			----Farbige
+			----Indigenes Volk
+				-----Aborigines 
+				-----Indianer
+					------Indianer (Mittel-/Südamerika)
+					------Indianer (Nordamerika)
+				-----Maori
+				-----Samen (Volk)
+				-----Yanomami
+			----Kulturstufe
+				-----Zivilisation
+			----Kurden
+			----Mauren
+			----Naturvolk
+				-----Beduinen
+				-----Buschmänner
+				-----Dayak
+				-----Inuit
+				-----Massai
+				-----San (Volk)
+				-----Sherpa
+				-----Tuareg
+			----Roma (ethnische Minderheit)
+			----Sippe
+			----Tamilen
+		---Reservat (Kultur)
+
+
+-(Fremdenverkehrsgeographie)
+	--Fremdenverkehr
+		---Fremdenverkehrsgebiet
+		---Hotel
+		---Jugendherberge
+		---Kurort
+		---Massentourismus
+		---Naherholung
+
+-(Kulturgeographie)
+	--Kulturhauptstadt
+
+-Landschaft
+	--Kulturlandschaft
+		---Banat
+		---Batschka
+		---Böhmen
+		---Friesland
+			----Ostfriesland
+		---Hegau
+			----Hohentwiel
+		---Lappland
+		---Lausitz
+			----Spreewald
+		---Mähren
+		---Markgräfler Land
+		---Mesopotamien
+		---Münsterland
+		---Neckarraum
+		---Niederrheinische Bucht
+		---Oberrheinische Tiefebene
+		---Oberschwaben
+		---Ortenau
+		---Patagonien
+		---Pfalz (Landschaft)
+		---Poebene
+		---Rheinland
+			----Ville
+		---Rhein-Main-Gebiet
+		---Rhein-Neckar-Raum
+		---Ruhrgebiet
+		---Schlesien
+		---Sahel
+		---Siebenbürgen
+		---Siegerland
+		---Vogtland
+		---Wetterau
+		---Zentralmassiv
+	--Naturlandschaft
+		---Wiese
+		---Wald
+			----Bannwald
+			----Bruchwald
+			----Galeriewald
+			----Laubwald
+			----Mischwald
+			----Nadelwald
+			----Urwald
+			----Waldgeschichte
+			----Waldrand
+
+-(Siedlungsgeographie)
+	--Anökumene
+	--Besiedlung
+	--Kolonie
+	--Kolonisation
+	--Landgewinnung
+	--Wohnhaus
+		---Wohnung
+	--Bauernhaus
+
+-(Stadtgeographie)
+	--Siedlung
+		---Ballungsraum
+		---Dorf
+		---Einzelsiedlung
+		---Großstadt
+		---Hafenstadt
+		---Kleinstadt
+		---Megastadt
+		---Metropole
+		---Millionenstadt
+		---Pfahlbau
+		---Residenzstadt
+		---Stadt (Siedlungstyp)
+		---Weltstadt
+	--Siedlungsstruktur
+		---Dorfentwicklung
+		---Stadtbild
+			----Altstadt
+			----City
+			----Elendsviertel
+			----Stadt (USA)
+			----Vorort
+			----Wohnviertel
+		---Stadtentwicklung
+			----Reurbanisierung
+			----Stadtplanung
+				----Ville nouvelle
+			----Stadtsanierung
+			----Umland
+			----Verstädterung
+			----Zersiedelung
+	--Stadtverfall
+	--Urbanisierung
+
+-Verkehrsgeographie
+	--Bergbahn
+	--Berufsverkehr
+		---Pendler
+	--Eisenbahnstrecke (bekannte)
+		---Transsibirisches Eisenbahnsystem
+	--Karawane
+	--Schifffahrt
+		---Binnenschifffahrt
+		---Hafen
+			----Binnenhafen
+			----Seehafen
+		---Piraterie
+		---Schiffshebewerk
+		---Seeschifffahrt
+		---Siel
+		---Tanker (Schiff)
+	--Verkehrsraum
+		---Verkehrsnetz
+			----Verkehrsknotenpunkt
+			----Verkehrsweg
+				-----Pass (Straße)
+					------Brenner (Alpenpass)
+				-----Schifffahrtsweg
+					------Binnenwasserstraße
+						-------Kanal (Geographie)
+							--------Nord-Ostsee-Kanal
+							--------Panamakanal
+							--------Rhein-Main-Donau-Kanal
+							--------Suezkanal
+				-----Transamazonica
+
+-(Wirtschaftsgeographie)
+	--Einzugsbereich
+	--Großgrundbesitzer
+	--Handelsweg
+	--Industrie
+		---Industriegebiet
+		---Industriegesellschaft
+		---Industriestaat
+		---Industriestandort
+			----Rust Belt
+		---Standortfaktor (Industrie)
+	--Kraftwerk
+		---Wasserkraftwerk
+			----Wellenkraftwerk
+		---Windpark
+			----Windkraftwerk
+	--Raumordnung (Geographie)
+		---Infrastruktur
+		---Raumplanung
+	--Regionalentwicklung
+	--Rohstoff
+		---Erdgas
+		---Erdöl
+			----Erdölverarbeitung
+			----Ölsand
+		---Kohle
+			----Braunkohle
+			----Holzkohle
+			----Steinkohle
+		---Nachwachsender Rohstoff
+		---Prospektion (Geologie)
+		---Rohstoffabbau
+			----Bergbau
+				-----Braunkohlenbergbau
+				-----Steinkohlenbergbau
+					------Koks (Kohleprodukt)
+				-----Untertagebau
+			----Erdölgewinnung
+				-----Ekofisk
+				-----Fracking
+			----Salzgewinnung
+		---Speichergestein
+	--Selbstversorgungswirtschaft
+	--Strukturwandel
+	--Transportgut
+	--Umschlagplatz
+		---Umschlag (Logistik)
+	--Versorgung (Grunddaseinsfunktion)
+	--Welternährung
+	--Wirtschaftliche Entwicklung 
+		---Tigerstaaten
+--Wirtschaftsstruktur
+		---Wirtschaftsraum
+
+
+(Physische Geographie)
+
+-Geologie
+	--Bernstein
+	--Boden (Bodenkunde)
+		---Bodenkunde
+		---Permafrostboden
+		---Sand
+		---Torf
+		---Versalzung
+	--Erdgeschichte
+		---Präkambrium
+		---Paläozoikum
+		---Mesozoikum
+		---Känozoikum
+		----Tertiär
+		----Quartär
+			-----Eiszeitalter
+				------Warmzeit
+				------Würmeiszeit
+	--Gestein
+		---Bauxit
+		---Bimsstein
+		---Edelstein
+		---Erz
+		---Kalkstein
+			----Marmor
+			----Tropfstein
+		---Löss
+		---Mineral
+		---Quarz
+		---Schiefer
+		---Sedimentgestein
+		---Sinter
+		---Ton (Rohstoff)
+	--Paläogeographie
+	--Pollenanalyse
+	--Radiokarbonmethode
+	--Schalenbau der Erde 
+--Verwitterung
+	--Vulkanismus
+		---Geysir
+		---Maar
+		---Mittelozeanischer Rücken
+		---Pyroklastisches Gestein
+		---Vulkan
+			----Ätna
+			----Kilimandjaro
+			----Paricutin
+			----Vesuv
+
+-Geomorphologie
+	--Akkumulation
+	--Bergrutsch
+	--Erdoberfläche
+		---Kontinent
+		---Relief (Geographie)
+	--Erosion
+		---Abrasion (Geologie)
+		---Bodenerosion
+	--Gebirge
+		---Hochgebirge
+			----Alpen
+				-----(Kalkalpen)
+					------Bayerische Alpen
+						-------Zugspitze
+					------Berchtesgadener Land
+						-------Watzmann
+					------Dachstein
+					------Dolomiten
+				-----Montblanc
+				-----Tauern
+			----Anden
+			----Atlasgebirge
+			----Dinariden
+			----Himalaja
+			----Kaukasus
+			----Pyrenäen
+			----Rocky Mountains
+			----Sierra Nevada (USA)
+			----Sierra Nevada (Spanien)
+		---Mittelgebirge
+			----Bayerischer Wald
+			----Elbsandsteingebirge
+			----Erzgebirge
+			----Fichtelgebirge
+			----Frankenwald
+			----Harz (Gebirge)
+			----Jura (Gebirge)
+				-----Fränkische Alb
+				-----Schwäbische Alb
+					------Albvorland
+					------Baar
+					------Härtsfeld
+					------Ries
+			----Knüll
+			----Odenwald
+			----Rheinisches Schiefergebirge
+				-----Bergisches Land
+			----Rhön
+			----Riesengebirge
+			----Schwarzwald
+			----Spessart
+			----Thüringer Wald
+			----Ural
+			----Vogesen
+			----Weserbergland
+	--Glazialmorphologie
+		---Gletscher
+		---Moräne
+		---Urstromtal
+	--(Landschaftstyp/form)
+		---Börde
+		---Gäu
+		---Geest
+			----Heidelandschaft
+		---Glaziallandschaft
+		---Great Plains
+		---Halbwüste
+		---Höhle
+			----Aachhöhle
+		---Insel
+		---Karst
+		---Küste
+			----Deich
+			----Dünen
+			----Küstenform
+				-----Fjord
+			----Lahnung
+			----Nordseeküste
+			----Ostseeküste
+			----Riviera
+			----Strand
+			----Wattenmeer
+				-----Watt
+		---Marsch (Landschaftstyp)
+			----Hallig
+			----Warft
+		---Korallenriff
+			----Atoll
+		---Moor
+			----Hochmoor
+		---Oase
+		---Rumpffläche
+		---Schichtstufenlandschaft
+		---Steppe
+		---Sumpf
+		---Taiga
+		---Talform
+			----Trogtal
+			----Wadi
+		---Tiefebene
+		---Tundra
+		---Wüste
+			----Negev
+			----Sahara
+	--Tektogenese
+		---Bruchscholle
+		---Erdbeben
+		---Faltengebirge
+		---Plattentektonik
+		---Verwerfung
+---San-Andreas-Verwerfung
+
+-Klimageographie
+	--Atmosphäre
+		---Luft
+	--Corioliskraft
+	--Erdmagnetismus
+	--Erdrotation
+		---Gezeiten
+		----Sturmflut
+	--Jahr
+		---Jahreszeit
+			----Frühling
+			----Herbst
+			----Regenzeit
+			----Sommer
+			----Trockenzeit
+			----Winter
+				-----Frost
+		---Monat
+			----Woche
+				-----Tag (Zeitspanne)
+					------Neujahr
+					------Polarnacht
+					------Polartag
+		---Zeitzone
+			----Ortszeit
+	--Klima
+		---Globale Erwärmung
+		---Klimadiagramm
+		---Klimafaktor
+		---Klimaschwankung
+		---Klimaveränderung
+		---Klimazone
+			----Borreales Klima
+			----Kontinentalklima
+			----Ozeanisches Klima
+			----Polarklima
+			----Trockengebiet
+			----Tropen
+				-----Regenwald
+					------Regenwald (Afrika)
+					------Regenwald (Amerika)
+					------Regenwald (Asien)
+					------Regenwald (Australien)
+				-----Wechselfeuchte Tropen
+					------Savanne
+			----Subtropen
+				-----Mittelmeerklima
+			----Wüstenklima
+		---Kohlenstoffkreislauf
+		---Sonnenstrahlung
+			----Strahlungshaushalt
+	--Wetter
+		---Gewitter
+		---Niederschlag
+			----Nebel
+			----Regen (Niederschlag)
+			----Schnee
+		---(Tiefdruckgebiet)
+			----Warmfront
+		---Wetterkunde
+			----Luftdruck
+			----Luftfeuchtigkeit
+			----Wetterbeobachtung
+			----Wetterkarte
+			----Wettervorhersage
+			----Wolke
+		---Windsystem
+			----Westwindzone
+			----Wind
+				-----Föhn
+				-----Monsun
+				-----Windrichtung
+				-----Wirbelsturm
+				-----Zyklon
+					------Windrose
+			
+
+-Naturkatastrophe
+	--Lawine
+
+-Gewässerkunde
+	--Gewässer
+		---Fließgewässer
+			----Alpenfluss
+			----Bach
+			----Fluss
+				-----Amazonas
+				-----Brenz
+				-----Colorado (Fluss)
+				-----Donau
+				-----Elbe
+				-----Ganges
+				-----Garonne (Fluss)
+				-----Isar
+				-----Isère (Fluss)
+				-----Jagst
+				-----Jangtsekiang
+				-----Jordan
+				-----Kinzig
+				-----Kocher (Fluss)
+				-----Kongo (Fluss)
+				-----Lahn
+				-----Lech (Fluss)
+				-----Lippe (Fluss)
+				-----Loire (Fluss)
+				-----Main
+				-----Mekong
+				-----Mississippi (Fluss)
+				-----Mosel
+				-----Nagold (Fluss)
+				-----Nahe
+				-----Neckar
+				-----Niger (Fluss)
+				-----Nil
+				-----Oder
+				-----Rhein
+				-----Rhône (Fluss)
+				-----Saar
+				-----Saône (Fluss)
+				-----Save (Fluss Balkan)
+				-----Tauber (Fluss)
+				-----Themse
+				-----Volta
+				-----Weichsel
+				-----Weser
+				-----Wolga
+				-----Wutach
+			----Flusslauf
+				-----Aue
+				-----Delta (Fluss)
+				-----Flussregulierung
+				-----Unterlauf
+			----Wasserscheide
+		---Grundwasser
+			----Quelle (Grundwasser)
+		---Meer
+			----Atlantik
+				-----Golf von Mexiko
+				-----Mittelmeer
+					------Schwarzes Meer
+				-----Nordsee
+				-----Ostsee
+			----Indischer Ozean
+			----Meerenge
+				------Bosporus
+			----Meeresströmung
+				-----Golfstrom
+			----Pazifik
+			----Schelf
+			----Tangwald
+		---Salinität
+		---Schmelzwasser
+		(---Stillgewässer)
+			----See (Binnengewässer)
+				-----Bodensee
+				-----Gardasee
+				-----Ijsselmeer
+				-----Kaspisches Meer
+				-----Stausee
+					------Assuan-Staudamm
+					------Biggetalsperre
+					------Edersee
+					------Möhnetalsperre
+				-----Titicacasee
+				-----Victoriasee
+			----Weiher (Gewässer)
+		---Hochwasser (Fluss)
+		---Wasserfall
+			----Victoriafälle
+		---Wasserhaushalt (Hydrologie)
+		---Wasserkreislauf
+			----Versickerung
+		---Wasserwirtschaft
+			----Wasserbau
+			----Wassergewinnung
+			----Wasserversorgung
+				-----Bewässerung
+				-----Brunnen
+				-----Dürre
+				-----Entwässerung (Landtechnik)
+				-----Wasseraufbereitung
+				-----Wasserqualität
+				-----Wasserverfügbarkeit
+				-----Wasserwerk
+					------Trinkwasser
+						-------Mineralwasser
+
+-Vermessungskunde
+	--Gradnetz
+		---Äquator
+		---Polarkreis
+	--Himmelsrichtung
+	--Kartenkunde
+		---Karte (Geographie)
+		---Topographie
+	--Luftbild
+	--Satellitenbild
+	--Theodolit
+-Wegbeschreibung
+
+-Expedition
+
+Barth, Heinrich
+Claudius Ptolemäus
+Cook, James
+Cordier, Pierre
+Galilei, Galileo
+Hansen, Fridtjof
+Humbolt, Alexander von
+Kolumbus, Christoph
+Kopernikus, Nikolaus
+Livingstone, David
+Magellan, Fernao de
+Marco Polo
+Pizarro, Francisco
+Richter, Charles
+Smith, John
+Teisserence de Bort, Léon-Phillippe
+Vasco da Gama
+Vespucci, Amerigo
+Wegener, Alfred
+
+Schwarzwalduhr

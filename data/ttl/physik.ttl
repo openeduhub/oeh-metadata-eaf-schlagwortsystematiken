@@ -1,0 +1,1665 @@
+@base <https://example-perma-id/physik_systematik/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<abbe__ernst_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Abbe, Ernst"@de ;
+    skos:topConceptOf <> .
+
+<abbildungsfehler_id> a skos:Concept ;
+    skos:broader <optik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Abbildungsfehler"@de .
+
+<adhäsion_id> a skos:Concept ;
+    skos:broader <mechanik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Adhäsion"@de .
+
+<aerodynamik_id> a skos:Concept ;
+    skos:broader <mechanik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Aerodynamik"@de .
+
+<ampère__andrémarie_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ampère, André-Marie"@de ;
+    skos:topConceptOf <> .
+
+<apolloprogramm_id> a skos:Concept ;
+    skos:broader <weltraumfahrt_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Apollo-Programm"@de .
+
+<ardenne__manfred_von_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ardenne, Manfred von"@de ;
+    skos:topConceptOf <> .
+
+<auftrieb_physik_id> a skos:Concept ;
+    skos:broader <gravitation_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Auftrieb (Physik)"@de .
+
+<ausdehnung_id> a skos:Concept ;
+    skos:broader <mechanik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ausdehnung"@de .
+
+<avogadro__amedeo_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Avogadro, Amedeo"@de ;
+    skos:topConceptOf <> .
+
+<baird__john_logie_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Baird, John Logie"@de ;
+    skos:topConceptOf <> .
+
+<bardeen__john_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bardeen, John"@de ;
+    skos:topConceptOf <> .
+
+<barometer_id> a skos:Concept ;
+    skos:broader <messtechnik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Barometer"@de .
+
+<batterie_id> a skos:Concept ;
+    skos:broader <elektrotechnik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Batterie"@de .
+
+<becquerel__antoine_henri_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Becquerel, Antoine Henri"@de ;
+    skos:topConceptOf <> .
+
+<bell__alexander_graham_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bell, Alexander Graham"@de ;
+    skos:topConceptOf <> .
+
+<bethe__hans_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bethe, Hans"@de ;
+    skos:topConceptOf <> .
+
+<bildbearbeitung_id> a skos:Concept ;
+    skos:broader <fotografie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bildbearbeitung"@de .
+
+<binning__gerd_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Binning, Gerd"@de ;
+    skos:topConceptOf <> .
+
+<bipolare_ansteuerung_id> a skos:Concept ;
+    skos:broader <elektronik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bipolare Ansteuerung"@de .
+
+<bohr__niels_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bohr, Niels"@de ;
+    skos:topConceptOf <> .
+
+<brahe__tycho_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Brahe, Tycho"@de ;
+    skos:topConceptOf <> .
+
+<brattain__walter_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Brattain, Walter"@de ;
+    skos:topConceptOf <> .
+
+<braun__karl_friedrich_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Braun, Karl Friedrich"@de ;
+    skos:topConceptOf <> .
+
+<braun__wernher_von_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Braun, Wernher von"@de ;
+    skos:topConceptOf <> .
+
+<braunsche_röhre_id> a skos:Concept ;
+    skos:broader <fernsehtechnik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Braunsche Röhre"@de .
+
+<brownsche_bewegung_id> a skos:Concept ;
+    skos:broader <mechanik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Brownsche Bewegung"@de .
+
+<brücke_bauwerk_id> a skos:Concept ;
+    skos:broader <mechanik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Brücke (Bauwerk)"@de .
+
+<celsius__anders_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Celsius, Anders"@de ;
+    skos:topConceptOf <> .
+
+<cern_id> a skos:Concept ;
+    skos:broader <kernphysik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "CERN"@de .
+
+<daguerre__louis_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Daguerre, Louis"@de ;
+    skos:topConceptOf <> .
+
+<daguerreotypie_id> a skos:Concept ;
+    skos:broader <fotografie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Daguerreotypie"@de .
+
+<dampfmaschine_id> a skos:Concept ;
+    skos:broader <wärmekraftmaschine_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Dampfmaschine"@de .
+
+<diesel__rudolf_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Diesel, Rudolf"@de ;
+    skos:topConceptOf <> .
+
+<digitale_fotografie_id> a skos:Concept ;
+    skos:broader <fotografie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Digitale Fotografie"@de .
+
+<dipol_id> a skos:Concept ;
+    skos:broader <elektronik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Dipol"@de .
+
+<dopplereffekt_id> a skos:Concept ;
+    skos:broader <welle_physik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Doppler-Effekt"@de .
+
+<dotierung_id> a skos:Concept ;
+    skos:broader <elektronik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Dotierung"@de .
+
+<drais__carlfriedrich_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Drais, Carl-Friedrich"@de ;
+    skos:topConceptOf <> .
+
+<drehachse_id> a skos:Concept ;
+    skos:broader <mechanik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Drehachse"@de .
+
+<drehmoment_id> a skos:Concept ;
+    skos:broader <mechanik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Drehmoment"@de .
+
+<dünnschliff_id> a skos:Concept ;
+    skos:broader <mikroskop_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Dünnschliff"@de .
+
+<edison__thomas_alva_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Edison, Thomas Alva"@de ;
+    skos:topConceptOf <> .
+
+<einfallswinkel_id> a skos:Concept ;
+    skos:broader <strahlung_allgemein_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Einfallswinkel"@de .
+
+<einstein__albert_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Einstein, Albert"@de ;
+    skos:topConceptOf <> .
+
+<ekliptik_id> a skos:Concept ;
+    skos:broader <keplersche_gesetze_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ekliptik"@de .
+
+<elektrische_leitung_id> a skos:Concept ;
+    skos:broader <energie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Elektrische Leitung"@de .
+
+<elektrode_id> a skos:Concept ;
+    skos:broader <elektronik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Elektrode"@de .
+
+<elektrodynamik_id> a skos:Concept ;
+    skos:broader <elektrizität_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Elektrodynamik"@de .
+
+<elektromagnetische_wellen_id> a skos:Concept ;
+    skos:broader <welle_physik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Elektromagnetische Wellen"@de .
+
+<elektronenmikroskop_id> a skos:Concept ;
+    skos:broader <mikroskop_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Elektronenmikroskop"@de .
+
+<elementarteilchen_id> a skos:Concept ;
+    skos:broader <physik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Elementarteilchen"@de .
+
+<energieträger_id> a skos:Concept ;
+    skos:broader <energie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Energieträger"@de .
+
+<epizykletheorie_id> a skos:Concept ;
+    skos:broader <weltbild_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Epizykletheorie"@de .
+
+<eyth__max_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Eyth, Max"@de ;
+    skos:topConceptOf <> .
+
+<faraday__michael_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Faraday, Michael"@de ;
+    skos:topConceptOf <> .
+
+<farbenlehre_id> a skos:Concept ;
+    skos:broader <farbe_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Farbenlehre"@de .
+
+<feldlinie_id> a skos:Concept ;
+    skos:broader <elektrizität_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Feldlinie"@de .
+
+<fermi__enrico_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fermi, Enrico"@de ;
+    skos:topConceptOf <> .
+
+<feuerwerk_id> a skos:Concept ;
+    skos:broader <energie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Feuerwerk"@de .
+
+<foucault__jean_bernard_léon_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Foucault, Jean Bernard Léon"@de ;
+    skos:topConceptOf <> .
+
+<fraunhofer__joseph_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fraunhofer, Joseph"@de ;
+    skos:topConceptOf <> .
+
+<freieelektronenlaser_id> a skos:Concept ;
+    skos:broader <strahlung_allgemein_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Freie-Elektronen-Laser"@de .
+
+<frequenz_physikalische_größe_id> a skos:Concept ;
+    skos:broader <funktechnik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Frequenz (physikalische Größe)"@de .
+
+<generator_id> a skos:Concept ;
+    skos:broader <elektrotechnik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Generator"@de .
+
+<getriebe_id> a skos:Concept ;
+    skos:broader <mechanik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Getriebe"@de .
+
+<gilbert__william_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gilbert, William"@de ;
+    skos:topConceptOf <> .
+
+<gleichrichter_id> a skos:Concept ;
+    skos:broader <elektrotechnik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gleichrichter"@de .
+
+<gleichstrom_id> a skos:Concept ;
+    skos:broader <elektrotechnik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gleichstrom"@de .
+
+<glühlampe_id> a skos:Concept ;
+    skos:broader <lampe_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Glühlampe"@de .
+
+<grove__william_robert_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Grove, William Robert"@de ;
+    skos:topConceptOf <> .
+
+<guericke__otto_von_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Guericke, Otto von"@de ;
+    skos:topConceptOf <> .
+
+<halbleiter_id> a skos:Concept ;
+    skos:broader <elektronik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Halbleiter"@de .
+
+<halbwertszeit_id> a skos:Concept ;
+    skos:broader <kernphysik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Halbwertszeit"@de .
+
+<halley__edmond_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Halley, Edmond"@de ;
+    skos:topConceptOf <> .
+
+<halleyscher_komet_id> a skos:Concept ;
+    skos:broader <komet_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Halleyscher Komet"@de .
+
+<hawking__stephen_william_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hawking, Stephen William"@de ;
+    skos:topConceptOf <> .
+
+<heisenberg__werner_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Heisenberg, Werner"@de ;
+    skos:topConceptOf <> .
+
+<hertz__gustav_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hertz, Gustav"@de ;
+    skos:topConceptOf <> .
+
+<hertz__heinrich_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hertz, Heinrich"@de ;
+    skos:topConceptOf <> .
+
+<hooksches_gesetz_id> a skos:Concept ;
+    skos:broader <mechanik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hooksches Gesetz"@de .
+
+<hubble__edwin_powell_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hubble, Edwin Powell"@de ;
+    skos:topConceptOf <> .
+
+<hydraulik_id> a skos:Concept ;
+    skos:broader <mechanik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hydraulik"@de .
+
+<hydrostatischer_druck_id> a skos:Concept ;
+    skos:broader <druck_physik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hydrostatischer Druck"@de .
+
+<induktion_elektrizität_id> a skos:Concept ;
+    skos:broader <elektronik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Induktion (Elektrizität)"@de .
+
+<inertialsystem_id> a skos:Concept ;
+    skos:broader <geschwindigkeit_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Inertialsystem"@de .
+
+<interferenz_id> a skos:Concept ;
+    skos:broader <welle_physik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Interferenz"@de .
+
+<isolator_elektrotechnik_id> a skos:Concept ;
+    skos:broader <elektrotechnik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Isolator (Elektrotechnik)"@de .
+
+<jenny__hans_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Jenny, Hans"@de ;
+    skos:topConceptOf <> .
+
+<joliot__frederic_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Joliot, Frederic"@de ;
+    skos:topConceptOf <> .
+
+<joule__james_prescott_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Joule, James Prescott"@de ;
+    skos:topConceptOf <> .
+
+<jupiter_planat_id> a skos:Concept ;
+    skos:broader <planet_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Jupiter (Planat)"@de .
+
+<kamera_id> a skos:Concept ;
+    skos:broader <optik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kamera"@de .
+
+<kammerlinghonnes__heike_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kammerlingh-Onnes, Heike"@de ;
+    skos:topConceptOf <> .
+
+<kepler__johannes_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kepler, Johannes"@de ;
+    skos:topConceptOf <> .
+
+<kernbrennstoff_id> a skos:Concept ;
+    skos:broader <kernphysik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kernbrennstoff"@de .
+
+<kernfusion_id> a skos:Concept ;
+    skos:broader <kernphysik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kernfusion"@de .
+
+<kernkraftwerk_id> a skos:Concept ;
+    skos:broader <kernphysik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kernkraftwerk"@de .
+
+<kernspaltung_id> a skos:Concept ;
+    skos:broader <kernphysik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kernspaltung"@de .
+
+<kernwaffe_id> a skos:Concept ;
+    skos:broader <kernphysik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kernwaffe"@de .
+
+<kerze_id> a skos:Concept ;
+    skos:broader <licht_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kerze"@de .
+
+<klingel_id> a skos:Concept ;
+    skos:broader <elektrotechnik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Klingel"@de .
+
+<knoll__max_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Knoll, Max"@de ;
+    skos:topConceptOf <> .
+
+<kondensation_physik_id> a skos:Concept ;
+    skos:broader <mechanik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kondensation (Physik)"@de .
+
+<kondensator_elektrizität_id> a skos:Concept ;
+    skos:broader <elektronik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kondensator (Elektrizität)"@de .
+
+<konvektion_id> a skos:Concept ;
+    skos:broader <wärmeübertragung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Konvektion"@de .
+
+<koroljow__sergej_pawlowitsch_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Koroljow, Sergej Pawlowitsch"@de ;
+    skos:topConceptOf <> .
+
+<kristall_id> a skos:Concept ;
+    skos:broader <mechanik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kristall"@de .
+
+<kurzschluss_id> a skos:Concept ;
+    skos:broader <elektronik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kurzschluss"@de .
+
+<laplace__pierre_simon_de_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Laplace, Pierre Simon de"@de ;
+    skos:topConceptOf <> .
+
+<laser_id> a skos:Concept ;
+    skos:broader <optik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Laser"@de .
+
+<leistung_physik_id> a skos:Concept ;
+    skos:broader <mechanik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Leistung (Physik)"@de .
+
+<leiter_physik_id> a skos:Concept ;
+    skos:broader <energie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Leiter (Physik)"@de .
+
+<lichtbogen_id> a skos:Concept ;
+    skos:broader <gasentladung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lichtbogen"@de .
+
+<lichtbrechung_id> a skos:Concept ;
+    skos:broader <licht_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lichtbrechung"@de .
+
+<lichtgeschwindigkeit_id> a skos:Concept ;
+    skos:broader <geschwindigkeit_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lichtgeschwindigkeit"@de .
+
+<lilienthal__otto_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lilienthal, Otto"@de ;
+    skos:topConceptOf <> .
+
+<linde__carl_von_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Linde, Carl von"@de ;
+    skos:topConceptOf <> .
+
+<lorentzkraft_id> a skos:Concept ;
+    skos:broader <kraft_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lorentzkraft"@de .
+
+<lotuseffekt_id> a skos:Concept ;
+    skos:broader <mechanik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lotuseffekt"@de .
+
+<lumière__gebrüder_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lumière, Gebrüder"@de ;
+    skos:topConceptOf <> .
+
+<lupe_id> a skos:Concept ;
+    skos:broader <optik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lupe"@de .
+
+<maccready__paul_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "MacCready, Paul"@de ;
+    skos:topConceptOf <> .
+
+<magnetometer_id> a skos:Concept ;
+    skos:broader <magnetismus_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Magnetometer"@de .
+
+<maimann__theodore_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Maimann, Theodore"@de ;
+    skos:topConceptOf <> .
+
+<marconi__guglielmo_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Marconi, Guglielmo"@de ;
+    skos:topConceptOf <> .
+
+<mars_planet_id> a skos:Concept ;
+    skos:broader <planet_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mars (Planet)"@de .
+
+<masse_physik_id> a skos:Concept ;
+    skos:broader <mechanik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Masse (Physik)"@de .
+
+<maxwell__james_clark_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Maxwell, James Clark"@de ;
+    skos:topConceptOf <> .
+
+<mayer__tobias_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mayer, Tobias"@de ;
+    skos:topConceptOf <> .
+
+<meißner__walther_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Meißner, Walther"@de ;
+    skos:topConceptOf <> .
+
+<merkur_planet_id> a skos:Concept ;
+    skos:broader <planet_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Merkur (Planet)"@de .
+
+<messerschmitt__willy_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Messerschmitt, Willy"@de ;
+    skos:topConceptOf <> .
+
+<meteor_id> a skos:Concept ;
+    skos:broader <weltall_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Meteor"@de .
+
+<mikroskopie_id> a skos:Concept ;
+    skos:broader <mikroskop_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mikroskopie"@de .
+
+<millikanversuch_id> a skos:Concept ;
+    skos:broader <elektronik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Millikanversuch"@de .
+
+<modulation_id> a skos:Concept ;
+    skos:broader <funktechnik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Modulation"@de .
+
+<mondfinsternis_id> a skos:Concept ;
+    skos:broader <mond_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mondfinsternis"@de .
+
+<mondlandung_id> a skos:Concept ;
+    skos:broader <weltraumfahrt_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mondlandung"@de .
+
+<montgolfier_gebrüder_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Montgolfier (Gebrüder)"@de ;
+    skos:topConceptOf <> .
+
+<nebelkammer_id> a skos:Concept ;
+    skos:broader <elektronik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Nebelkammer"@de .
+
+<neptun_planet_id> a skos:Concept ;
+    skos:broader <planet_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Neptun (Planet)"@de .
+
+<newtonsche_gesetze_id> a skos:Concept ;
+    skos:broader <mechanik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Newtonsche Gesetze"@de .
+
+<nichtleiter_id> a skos:Concept ;
+    skos:broader <energie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Nichtleiter"@de .
+
+<oberflächenspannung_id> a skos:Concept ;
+    skos:broader <mechanik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Oberflächenspannung"@de .
+
+<objektiv_optik_id> a skos:Concept ;
+    skos:broader <linse_optik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Objektiv (Optik)"@de .
+
+<operationsverstärker_id> a skos:Concept ;
+    skos:broader <elektronik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Operationsverstärker"@de .
+
+<optische_täuschung_id> a skos:Concept ;
+    skos:broader <optik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Optische Täuschung"@de .
+
+<orbitalmodell_id> a skos:Concept ;
+    skos:broader <physik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Orbitalmodell"@de .
+
+<oszillograf_id> a skos:Concept ;
+    skos:broader <optik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Oszillograf"@de .
+
+<photoeffekt_id> a skos:Concept ;
+    skos:broader <licht_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Photoeffekt"@de .
+
+<plasmaphysik_id> a skos:Concept ;
+    skos:broader <kernphysik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Plasmaphysik"@de .
+
+<pluto_planat_id> a skos:Concept ;
+    skos:broader <planet_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pluto (PLanat)"@de .
+
+<pneumatik_id> a skos:Concept ;
+    skos:broader <mechanik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pneumatik"@de .
+
+<polarlicht_id> a skos:Concept ;
+    skos:broader <weltall_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Polarlicht"@de .
+
+<prüfverfahren_id> a skos:Concept ;
+    skos:broader <physik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Prüfverfahren"@de .
+
+<pumpe_id> a skos:Concept ;
+    skos:broader <mechanik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pumpe"@de .
+
+<quantentheorie_id> a skos:Concept ;
+    skos:broader <physik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Quantentheorie"@de .
+
+<rad_maschinenteil_id> a skos:Concept ;
+    skos:broader <mechanik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Rad (Maschinenteil)"@de .
+
+<radar_id> a skos:Concept ;
+    skos:broader <funktechnik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Radar"@de .
+
+<rakete_id> a skos:Concept ;
+    skos:broader <weltraumfahrt_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Rakete"@de .
+
+<rauch_id> a skos:Concept ;
+    skos:broader <feuer_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Rauch"@de .
+
+<reflexion_physik_id> a skos:Concept ;
+    skos:broader <welle_physik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Reflexion (Physik)"@de .
+
+<regenbogen_id> a skos:Concept ;
+    skos:broader <licht_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Regenbogen"@de .
+
+<reibung_id> a skos:Concept ;
+    skos:broader <mechanik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Reibung"@de .
+
+<relais_id> a skos:Concept ;
+    skos:broader <elektrotechnik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Relais"@de .
+
+<rfid_id> a skos:Concept ;
+    skos:broader <funktechnik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "RFID"@de .
+
+<rotation_physik_id> a skos:Concept ;
+    skos:broader <bewegung_physik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Rotation (Physik)"@de .
+
+<röntgenkunde_id> a skos:Concept ;
+    skos:broader <optik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Röntgenkunde"@de .
+
+<satellit_id> a skos:Concept ;
+    skos:broader <weltraumfahrt_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Satellit"@de .
+
+<saturn_planet_id> a skos:Concept ;
+    skos:broader <planet_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Saturn (Planet)"@de .
+
+<schallmauer_id> a skos:Concept ;
+    skos:broader <welle_physik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schallmauer"@de .
+
+<schatten_id> a skos:Concept ;
+    skos:broader <optik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schatten"@de .
+
+<schmiermittel_id> a skos:Concept ;
+    skos:broader <mechanik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schmiermittel"@de .
+
+<signal_elektrik_id> a skos:Concept ;
+    skos:broader <funktechnik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Signal (Elektrik)"@de .
+
+<sofortbildfotografie_id> a skos:Concept ;
+    skos:broader <fotografie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sofortbildfotografie"@de .
+
+<solarenergie_id> a skos:Concept ;
+    skos:broader <energie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Solarenergie"@de .
+
+<sonnenfinsternis_id> a skos:Concept ;
+    skos:broader <sonne_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sonnenfinsternis"@de .
+
+<spektrum_physik_id> a skos:Concept ;
+    skos:broader <licht_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Spektrum (Physik)"@de .
+
+<stromkreis_id> a skos:Concept ;
+    skos:broader <elektronik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Stromkreis"@de .
+
+<struktur_allgemein_id> a skos:Concept ;
+    skos:broader <mechanik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Struktur (allgemein)"@de .
+
+<supraleiter_id> a skos:Concept ;
+    skos:broader <energie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Supraleiter"@de .
+
+<synchroton_id> a skos:Concept ;
+    skos:broader <elektronik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Synchroton"@de .
+
+<teilchenbeschleuniger_id> a skos:Concept ;
+    skos:broader <kernphysik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Teilchenbeschleuniger"@de .
+
+<telefon_id> a skos:Concept ;
+    skos:broader <funktechnik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Telefon"@de .
+
+<teleskop_id> a skos:Concept ;
+    skos:broader <optik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Teleskop"@de .
+
+<temperatur_allgemein_id> a skos:Concept ;
+    skos:broader <messtechnik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Temperatur (allgemein)"@de .
+
+<thermometer_id> a skos:Concept ;
+    skos:broader <messtechnik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Thermometer"@de .
+
+<thermostat_id> a skos:Concept ;
+    skos:broader <messtechnik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Thermostat"@de .
+
+<transformator_id> a skos:Concept ;
+    skos:broader <elektronik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Transformator"@de .
+
+<transistor_id> a skos:Concept ;
+    skos:broader <elektronik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Transistor"@de .
+
+<trägheit_physik_id> a skos:Concept ;
+    skos:broader <bewegung_physik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Trägheit (Physik)"@de .
+
+<turm_id> a skos:Concept ;
+    skos:broader <mechanik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Turm"@de .
+
+<ufo_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "UFO"@de ;
+    skos:topConceptOf <> .
+
+<ultraschall_id> a skos:Concept ;
+    skos:broader <elektrotechnik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ultraschall"@de .
+
+<ultraviolettkatastrophe_id> a skos:Concept ;
+    skos:broader <strahlung_allgemein_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ultraviolett-Katastrophe"@de .
+
+<ultraviolettstrahlung_id> a skos:Concept ;
+    skos:broader <strahlung_allgemein_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ultraviolettstrahlung"@de .
+
+<unipolare_ansteuerung_id> a skos:Concept ;
+    skos:broader <elektronik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Unipolare Ansteuerung"@de .
+
+<uranus_planet_id> a skos:Concept ;
+    skos:broader <planet_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Uranus (Planet)"@de .
+
+<urknall_id> a skos:Concept ;
+    skos:broader <weltbild_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Urknall"@de .
+
+<vakuum_id> a skos:Concept ;
+    skos:broader <druck_physik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Vakuum"@de .
+
+<vanallengürtel_id> a skos:Concept ;
+    skos:broader <erde_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Van-Allen-Gürtel"@de .
+
+<venus_planet_id> a skos:Concept ;
+    skos:broader <planet_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Venus (Planet)"@de .
+
+<vergrößerung_optik_id> a skos:Concept ;
+    skos:broader <optik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Vergrößerung (Optik)"@de .
+
+<verstärker_elektrotechnik_id> a skos:Concept ;
+    skos:broader <elektronik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Verstärker (Elektrotechnik)"@de .
+
+<virtuelles_bild_id> a skos:Concept ;
+    skos:broader <optik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Virtuelles Bild"@de .
+
+<vollmond_id> a skos:Concept ;
+    skos:broader <mondphase_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Vollmond"@de .
+
+<volt_id> a skos:Concept ;
+    skos:broader <elektrizität_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Volt"@de .
+
+<vortrieb_id> a skos:Concept ;
+    skos:broader <mechanik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Vortrieb"@de .
+
+<wechselstrom_id> a skos:Concept ;
+    skos:broader <elektrotechnik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wechselstrom"@de .
+
+<wechselwirkung_fundamentale_id> a skos:Concept ;
+    skos:broader <physik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wechselwirkung (fundamentale)"@de .
+
+<wellenlänge_id> a skos:Concept ;
+    skos:broader <welle_physik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wellenlänge"@de .
+
+<weltlinie_id> a skos:Concept ;
+    skos:broader <relativitätstheorie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Weltlinie"@de .
+
+<wendekreis_breitenkreis_id> a skos:Concept ;
+    skos:broader <erde_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wendekreis (Breitenkreis)"@de .
+
+<widerstand_physik_id> a skos:Concept ;
+    skos:broader <elektronik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Widerstand (Physik)"@de .
+
+<wiederaufarbeitung_id> a skos:Concept ;
+    skos:broader <kernphysik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wiederaufarbeitung"@de .
+
+<windmesser_id> a skos:Concept ;
+    skos:broader <messtechnik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Windmesser"@de .
+
+<wirkungsgrad_id> a skos:Concept ;
+    skos:broader <energie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wirkungsgrad"@de .
+
+<wurf_physik_id> a skos:Concept ;
+    skos:broader <mechanik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wurf (Physik)"@de .
+
+<wärmeausdehnung_id> a skos:Concept ;
+    skos:broader <wärme_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wärmeausdehnung"@de .
+
+<wärmeenergie_id> a skos:Concept ;
+    skos:broader <energie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wärmeenergie"@de .
+
+<wärmeleistung_heiztechnik_id> a skos:Concept ;
+    skos:broader <heizung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wärmeleistung (Heiztechnik)"@de .
+
+<wärmeleitung_id> a skos:Concept ;
+    skos:broader <wärmeübertragung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wärmeleitung"@de .
+
+<wärmetauscher_id> a skos:Concept ;
+    skos:broader <wärmeübertragung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wärmetauscher"@de .
+
+<wölbspiegel_id> a skos:Concept ;
+    skos:broader <optik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wölbspiegel"@de .
+
+<zahnrad_id> a skos:Concept ;
+    skos:broader <mechanik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zahnrad"@de .
+
+<zeit_id> a skos:Concept ;
+    skos:broader <mechanik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zeit"@de .
+
+<zentrifugalkraft_id> a skos:Concept ;
+    skos:broader <kraft_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zentrifugalkraft"@de .
+
+<zug_festigkeitslehre_id> a skos:Concept ;
+    skos:broader <mechanik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zug (Festigkeitslehre)"@de .
+
+<überstromschutzeinrichtung_id> a skos:Concept ;
+    skos:broader <schutzmaßnahme_elektrik_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Überstromschutzeinrichtung"@de .
+
+<astronomie_id> a skos:Concept ;
+    skos:broader <physik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <weltall_id> ;
+    skos:prefLabel "Astronomie"@de .
+
+<farbe_id> a skos:Concept ;
+    skos:broader <strahlung_allgemein_id> ;
+    skos:inScheme <> ;
+    skos:narrower <farbenlehre_id> ;
+    skos:prefLabel "Farbe"@de .
+
+<fernsehtechnik_id> a skos:Concept ;
+    skos:broader <funktechnik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <braunsche_röhre_id> ;
+    skos:prefLabel "Fernsehtechnik"@de .
+
+<feuer_id> a skos:Concept ;
+    skos:broader <wärme_id> ;
+    skos:inScheme <> ;
+    skos:narrower <rauch_id> ;
+    skos:prefLabel "Feuer"@de .
+
+<gasentladung_id> a skos:Concept ;
+    skos:broader <elektronik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <lichtbogen_id> ;
+    skos:prefLabel "Gasentladung"@de .
+
+<gravitation_id> a skos:Concept ;
+    skos:broader <weltbild_id> ;
+    skos:inScheme <> ;
+    skos:narrower <auftrieb_physik_id> ;
+    skos:prefLabel "Gravitation"@de .
+
+<heizung_id> a skos:Concept ;
+    skos:broader <physik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <wärmeleistung_heiztechnik_id> ;
+    skos:prefLabel "Heizung"@de .
+
+<keplersche_gesetze_id> a skos:Concept ;
+    skos:broader <weltall_id> ;
+    skos:inScheme <> ;
+    skos:narrower <ekliptik_id> ;
+    skos:prefLabel "Keplersche Gesetze"@de .
+
+<komet_id> a skos:Concept ;
+    skos:broader <weltall_id> ;
+    skos:inScheme <> ;
+    skos:narrower <halleyscher_komet_id> ;
+    skos:prefLabel "Komet"@de .
+
+<lampe_id> a skos:Concept ;
+    skos:broader <elektrizität_id> ;
+    skos:inScheme <> ;
+    skos:narrower <glühlampe_id> ;
+    skos:prefLabel "Lampe"@de .
+
+<linse_optik_id> a skos:Concept ;
+    skos:broader <optik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <objektiv_optik_id> ;
+    skos:prefLabel "Linse (Optik)"@de .
+
+<magnetismus_id> a skos:Concept ;
+    skos:broader <weltbild_id> ;
+    skos:inScheme <> ;
+    skos:narrower <magnetometer_id> ;
+    skos:prefLabel "Magnetismus"@de .
+
+<mondphase_id> a skos:Concept ;
+    skos:broader <mond_id> ;
+    skos:inScheme <> ;
+    skos:narrower <vollmond_id> ;
+    skos:prefLabel "Mondphase"@de .
+
+<relativitätstheorie_id> a skos:Concept ;
+    skos:broader <physik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <weltlinie_id> ;
+    skos:prefLabel "Relativitätstheorie"@de .
+
+<schutzmaßnahme_elektrik_id> a skos:Concept ;
+    skos:broader <elektrotechnik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <überstromschutzeinrichtung_id> ;
+    skos:prefLabel "Schutzmaßnahme (Elektrik)"@de .
+
+<sonne_id> a skos:Concept ;
+    skos:broader <weltall_id> ;
+    skos:inScheme <> ;
+    skos:narrower <sonnenfinsternis_id> ;
+    skos:prefLabel "Sonne"@de .
+
+<weltraum_id> a skos:Concept ;
+    skos:broader <weltall_id> ;
+    skos:inScheme <> ;
+    skos:narrower <weltraumforschung_id> ;
+    skos:prefLabel "Weltraum"@de .
+
+<weltraumforschung_id> a skos:Concept ;
+    skos:broader <weltraum_id> ;
+    skos:inScheme <> ;
+    skos:narrower <weltraumfahrt_id> ;
+    skos:prefLabel "Weltraumforschung"@de .
+
+<wärmekraftmaschine_id> a skos:Concept ;
+    skos:broader <mechanik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <dampfmaschine_id> ;
+    skos:prefLabel "Wärmekraftmaschine"@de .
+
+<bewegung_physik_id> a skos:Concept ;
+    skos:broader <physik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <rotation_physik_id>,
+        <trägheit_physik_id> ;
+    skos:prefLabel "Bewegung (Physik)"@de .
+
+<druck_physik_id> a skos:Concept ;
+    skos:broader <mechanik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <hydrostatischer_druck_id>,
+        <vakuum_id> ;
+    skos:prefLabel "Druck (Physik)"@de .
+
+<geschwindigkeit_id> a skos:Concept ;
+    skos:broader <mechanik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <inertialsystem_id>,
+        <lichtgeschwindigkeit_id> ;
+    skos:prefLabel "Geschwindigkeit"@de .
+
+<kraft_id> a skos:Concept ;
+    skos:broader <mechanik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <lorentzkraft_id>,
+        <zentrifugalkraft_id> ;
+    skos:prefLabel "Kraft"@de .
+
+<mond_id> a skos:Concept ;
+    skos:broader <erde_id> ;
+    skos:inScheme <> ;
+    skos:narrower <mondfinsternis_id>,
+        <mondphase_id> ;
+    skos:prefLabel "Mond"@de .
+
+<erde_id> a skos:Concept ;
+    skos:broader <planet_id> ;
+    skos:inScheme <> ;
+    skos:narrower <mond_id>,
+        <vanallengürtel_id>,
+        <wendekreis_breitenkreis_id> ;
+    skos:prefLabel "Erde"@de .
+
+<mikroskop_id> a skos:Concept ;
+    skos:broader <optik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <dünnschliff_id>,
+        <elektronenmikroskop_id>,
+        <mikroskopie_id> ;
+    skos:prefLabel "Mikroskop"@de .
+
+<wärme_id> a skos:Concept ;
+    skos:broader <mechanik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <feuer_id>,
+        <wärmeausdehnung_id>,
+        <wärmeübertragung_id> ;
+    skos:prefLabel "Wärme"@de .
+
+<wärmeübertragung_id> a skos:Concept ;
+    skos:broader <wärme_id> ;
+    skos:inScheme <> ;
+    skos:narrower <konvektion_id>,
+        <wärmeleitung_id>,
+        <wärmetauscher_id> ;
+    skos:prefLabel "Wärmeübertragung"@de .
+
+<fotografie_id> a skos:Concept ;
+    skos:broader <optik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <bildbearbeitung_id>,
+        <daguerreotypie_id>,
+        <digitale_fotografie_id>,
+        <sofortbildfotografie_id> ;
+    skos:prefLabel "Fotografie"@de .
+
+<weltbild_id> a skos:Concept ;
+    skos:broader <weltall_id> ;
+    skos:inScheme <> ;
+    skos:narrower <epizykletheorie_id>,
+        <gravitation_id>,
+        <magnetismus_id>,
+        <urknall_id> ;
+    skos:prefLabel "Weltbild"@de .
+
+<weltraumfahrt_id> a skos:Concept ;
+    skos:broader <weltraumforschung_id> ;
+    skos:inScheme <> ;
+    skos:narrower <apolloprogramm_id>,
+        <mondlandung_id>,
+        <rakete_id>,
+        <satellit_id> ;
+    skos:prefLabel "Weltraumfahrt"@de .
+
+<licht_id> a skos:Concept ;
+    skos:broader <strahlung_allgemein_id> ;
+    skos:inScheme <> ;
+    skos:narrower <kerze_id>,
+        <lichtbrechung_id>,
+        <photoeffekt_id>,
+        <regenbogen_id>,
+        <spektrum_physik_id> ;
+    skos:prefLabel "Licht"@de .
+
+<messtechnik_id> a skos:Concept ;
+    skos:broader <physik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <barometer_id>,
+        <temperatur_allgemein_id>,
+        <thermometer_id>,
+        <thermostat_id>,
+        <windmesser_id> ;
+    skos:prefLabel "Messtechnik"@de .
+
+<elektrizität_id> a skos:Concept ;
+    skos:broader <energie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <elektrodynamik_id>,
+        <elektronik_id>,
+        <elektrotechnik_id>,
+        <feldlinie_id>,
+        <lampe_id>,
+        <volt_id> ;
+    skos:prefLabel "Elektrizität"@de .
+
+<strahlung_allgemein_id> a skos:Concept ;
+    skos:broader <optik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <einfallswinkel_id>,
+        <farbe_id>,
+        <freieelektronenlaser_id>,
+        <licht_id>,
+        <ultraviolettkatastrophe_id>,
+        <ultraviolettstrahlung_id> ;
+    skos:prefLabel "Strahlung (allgemein)"@de .
+
+<welle_physik_id> a skos:Concept ;
+    skos:broader <mechanik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <dopplereffekt_id>,
+        <elektromagnetische_wellen_id>,
+        <interferenz_id>,
+        <reflexion_physik_id>,
+        <schallmauer_id>,
+        <wellenlänge_id> ;
+    skos:prefLabel "Welle (Physik)"@de .
+
+<funktechnik_id> a skos:Concept ;
+    skos:broader <physik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <fernsehtechnik_id>,
+        <frequenz_physikalische_größe_id>,
+        <modulation_id>,
+        <radar_id>,
+        <rfid_id>,
+        <signal_elektrik_id>,
+        <telefon_id> ;
+    skos:prefLabel "Funktechnik"@de .
+
+<weltall_id> a skos:Concept ;
+    skos:broader <astronomie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <keplersche_gesetze_id>,
+        <komet_id>,
+        <meteor_id>,
+        <planet_id>,
+        <polarlicht_id>,
+        <sonne_id>,
+        <weltbild_id>,
+        <weltraum_id> ;
+    skos:prefLabel "Weltall"@de .
+
+<planet_id> a skos:Concept ;
+    skos:broader <weltall_id> ;
+    skos:inScheme <> ;
+    skos:narrower <erde_id>,
+        <jupiter_planat_id>,
+        <mars_planet_id>,
+        <merkur_planet_id>,
+        <neptun_planet_id>,
+        <pluto_planat_id>,
+        <saturn_planet_id>,
+        <uranus_planet_id>,
+        <venus_planet_id> ;
+    skos:prefLabel "Planet"@de .
+
+<elektrotechnik_id> a skos:Concept ;
+    skos:broader <elektrizität_id> ;
+    skos:inScheme <> ;
+    skos:narrower <batterie_id>,
+        <generator_id>,
+        <gleichrichter_id>,
+        <gleichstrom_id>,
+        <isolator_elektrotechnik_id>,
+        <klingel_id>,
+        <relais_id>,
+        <schutzmaßnahme_elektrik_id>,
+        <ultraschall_id>,
+        <wechselstrom_id> ;
+    skos:prefLabel "Elektrotechnik"@de .
+
+<energie_id> a skos:Concept ;
+    skos:broader <physik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <elektrische_leitung_id>,
+        <elektrizität_id>,
+        <energieträger_id>,
+        <feuerwerk_id>,
+        <leiter_physik_id>,
+        <nichtleiter_id>,
+        <solarenergie_id>,
+        <supraleiter_id>,
+        <wirkungsgrad_id>,
+        <wärmeenergie_id> ;
+    skos:prefLabel "Energie"@de .
+
+<kernphysik_id> a skos:Concept ;
+    skos:broader <physik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <cern_id>,
+        <halbwertszeit_id>,
+        <kernbrennstoff_id>,
+        <kernfusion_id>,
+        <kernkraftwerk_id>,
+        <kernspaltung_id>,
+        <kernwaffe_id>,
+        <plasmaphysik_id>,
+        <teilchenbeschleuniger_id>,
+        <wiederaufarbeitung_id> ;
+    skos:prefLabel "Kernphysik"@de .
+
+<physik_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <astronomie_id>,
+        <bewegung_physik_id>,
+        <elementarteilchen_id>,
+        <energie_id>,
+        <funktechnik_id>,
+        <heizung_id>,
+        <kernphysik_id>,
+        <mechanik_id>,
+        <messtechnik_id>,
+        <optik_id>,
+        <orbitalmodell_id>,
+        <prüfverfahren_id>,
+        <quantentheorie_id>,
+        <relativitätstheorie_id>,
+        <wechselwirkung_fundamentale_id> ;
+    skos:prefLabel "Physik"@de ;
+    skos:topConceptOf <> .
+
+<optik_id> a skos:Concept ;
+    skos:broader <physik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <abbildungsfehler_id>,
+        <fotografie_id>,
+        <kamera_id>,
+        <laser_id>,
+        <linse_optik_id>,
+        <lupe_id>,
+        <mikroskop_id>,
+        <optische_täuschung_id>,
+        <oszillograf_id>,
+        <röntgenkunde_id>,
+        <schatten_id>,
+        <strahlung_allgemein_id>,
+        <teleskop_id>,
+        <vergrößerung_optik_id>,
+        <virtuelles_bild_id>,
+        <wölbspiegel_id> ;
+    skos:prefLabel "Optik"@de .
+
+<elektronik_id> a skos:Concept ;
+    skos:broader <elektrizität_id> ;
+    skos:inScheme <> ;
+    skos:narrower <bipolare_ansteuerung_id>,
+        <dipol_id>,
+        <dotierung_id>,
+        <elektrode_id>,
+        <gasentladung_id>,
+        <halbleiter_id>,
+        <induktion_elektrizität_id>,
+        <kondensator_elektrizität_id>,
+        <kurzschluss_id>,
+        <millikanversuch_id>,
+        <nebelkammer_id>,
+        <operationsverstärker_id>,
+        <stromkreis_id>,
+        <synchroton_id>,
+        <transformator_id>,
+        <transistor_id>,
+        <unipolare_ansteuerung_id>,
+        <verstärker_elektrotechnik_id>,
+        <widerstand_physik_id> ;
+    skos:prefLabel "Elektronik"@de .
+
+<mechanik_id> a skos:Concept ;
+    skos:broader <physik_id> ;
+    skos:inScheme <> ;
+    skos:narrower <adhäsion_id>,
+        <aerodynamik_id>,
+        <ausdehnung_id>,
+        <brownsche_bewegung_id>,
+        <brücke_bauwerk_id>,
+        <drehachse_id>,
+        <drehmoment_id>,
+        <druck_physik_id>,
+        <geschwindigkeit_id>,
+        <getriebe_id>,
+        <hooksches_gesetz_id>,
+        <hydraulik_id>,
+        <kondensation_physik_id>,
+        <kraft_id>,
+        <kristall_id>,
+        <leistung_physik_id>,
+        <lotuseffekt_id>,
+        <masse_physik_id>,
+        <newtonsche_gesetze_id>,
+        <oberflächenspannung_id>,
+        <pneumatik_id>,
+        <pumpe_id>,
+        <rad_maschinenteil_id>,
+        <reibung_id>,
+        <schmiermittel_id>,
+        <struktur_allgemein_id>,
+        <turm_id>,
+        <vortrieb_id>,
+        <welle_physik_id>,
+        <wurf_physik_id>,
+        <wärme_id>,
+        <wärmekraftmaschine_id>,
+        <zahnrad_id>,
+        <zeit_id>,
+        <zug_festigkeitslehre_id> ;
+    skos:prefLabel "Mechanik"@de .
+
+<> a skos:ConceptScheme ;
+    dct:creator "<https://creator.com>" ;
+    dct:description "physik_systematik"@de ;
+    dct:title "physik_systematik"@de ;
+    skos:hasTopConcept <abbe__ernst_id>,
+        <ampère__andrémarie_id>,
+        <ardenne__manfred_von_id>,
+        <avogadro__amedeo_id>,
+        <baird__john_logie_id>,
+        <bardeen__john_id>,
+        <becquerel__antoine_henri_id>,
+        <bell__alexander_graham_id>,
+        <bethe__hans_id>,
+        <binning__gerd_id>,
+        <bohr__niels_id>,
+        <brahe__tycho_id>,
+        <brattain__walter_id>,
+        <braun__karl_friedrich_id>,
+        <braun__wernher_von_id>,
+        <celsius__anders_id>,
+        <daguerre__louis_id>,
+        <diesel__rudolf_id>,
+        <drais__carlfriedrich_id>,
+        <edison__thomas_alva_id>,
+        <einstein__albert_id>,
+        <eyth__max_id>,
+        <faraday__michael_id>,
+        <fermi__enrico_id>,
+        <foucault__jean_bernard_léon_id>,
+        <fraunhofer__joseph_id>,
+        <gilbert__william_id>,
+        <grove__william_robert_id>,
+        <guericke__otto_von_id>,
+        <halley__edmond_id>,
+        <hawking__stephen_william_id>,
+        <heisenberg__werner_id>,
+        <hertz__gustav_id>,
+        <hertz__heinrich_id>,
+        <hubble__edwin_powell_id>,
+        <jenny__hans_id>,
+        <joliot__frederic_id>,
+        <joule__james_prescott_id>,
+        <kammerlinghonnes__heike_id>,
+        <kepler__johannes_id>,
+        <knoll__max_id>,
+        <koroljow__sergej_pawlowitsch_id>,
+        <laplace__pierre_simon_de_id>,
+        <lilienthal__otto_id>,
+        <linde__carl_von_id>,
+        <lumière__gebrüder_id>,
+        <maccready__paul_id>,
+        <maimann__theodore_id>,
+        <marconi__guglielmo_id>,
+        <maxwell__james_clark_id>,
+        <mayer__tobias_id>,
+        <meißner__walther_id>,
+        <messerschmitt__willy_id>,
+        <montgolfier_gebrüder_id>,
+        <physik_id>,
+        <ufo_id> .
+

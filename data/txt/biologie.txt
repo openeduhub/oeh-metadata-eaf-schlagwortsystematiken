@@ -1,0 +1,768 @@
+B I O L O G I E
+
+Biodiversität
+Biologie
+Biomasse
+-Biosphäre
+	--Fauna
+	--Flora
+	--Ökologie
+		----Destruent
+		----Konsument (Ökologie)
+		----Ökosystem
+			-----Mangrove (Ökosystem)
+			-----Feuchtgebiet
+				-----Weichholzaue
+		----Lebensraum
+			-----Biozönose
+		----Ökologische Nische
+		----Produzent (Ökologie)
+		----Tragfähigkeit (Ökologie)
+Leben
+-Bestimmungsschlüssel
+-Kulturfolger
+-Lebenserwartung
+-Lebewesen
+-Ontogenese
+-Organismus
+-Populationsdynamik
+-Symbiose
+-Wachstum (Biologie)
+Nährstoffkreislauf
+Nahrungskette
+-Fressfeind
+-Räuber-Beute-Prinzip
+Natur
+Neobiota
+Stickstoffkreislauf
+Selbstreinigung
+Waldfunktion
+Wallacea
+
+Artenschutz
+-Bedrohte Pflanzenart
+-Bedrohte Tierart
+	--Ausgestorbene Tierart
+-Rote Liste
+-Totholz
+-Vogelschutz
+	--Vogel des Jahres
+Tierschutz
+-Nisthilfe
+-Tierversuche
+Wildtiermanagement
+
+Evolution
+-Artenvielfalt
+-Australopithecus
+-Evolutionstheorie
+-Homo erectus
+-Homo ergaster
+-Homo habilis
+-Homo sapiens
+	--Cro-Magnon-Mensch
+	--Neandertaler
+-Homologie (Biologie)
+-Jäger und Sammler
+-Paläonthologie
+	--Fossil
+		---Archaeopteryx
+		---Mammuts
+		---Saurier
+			----Dinosaurier
+	--Lebendes Fossil
+
+Mikrobiologie
+-Mikroorganismus
+	--Einzeller
+		---Amöben
+		---Bakterien
+			----Bakteriophage
+			----Knöllchenbakterien
+			----Milchsäurebakterien
+			----Plasmid
+		---Hefe
+		---Trypanosomen
+		---Wimpertierchen
+		---Zellkolonie
+	--Schimmelpilze
+	--Spore
+	--Trichoplax
+	--Vielzeller
+-Sterilität (Keimfreiheit)
+
+Botanik
+-Vegetation
+	--Stratifikation
+	--Vegetationszonen
+	--Vegetationsstufe
+-Pflanzen
+	--Pflanzenbewegung
+	--Pflanzenkrankheit
+	--Pflanzengesellschaft
+	--Pflanzenmorphologie
+		---Blatt (Pflanze)
+		---Blüte
+			----Kätzchen
+		---Frucht
+		---Knolle
+		---Leitgewebe
+		---Wurzel (Biologie)
+	--Pflanzenschnitt
+	--Pflanzenschutz (gegen Krankheiten)
+	--Pflanzliche Anpassung
+	--Photosynthese
+		---Chlorophyll
+			----Panaschierung
+	--Vegetationskegel
+
+-Baum (Pflanze)
+	--Jahresring
+	--Koniferen
+	--Laubbaum
+-Obst
+	--Äpfel
+	--Bananen
+	--Beere
+	--Kirsche
+	--Südfrucht
+		---Ananas
+		---Zitrusfrüchte
+-Trockenrasen
+-Strauch
+	--Hecke
+
+-Blütenlose Pflanzen
+	--Algen
+		---Volvox
+	--Flechten
+	--Moose
+	--Pilze
+		---Giftpilze
+		---Schleimpilze
+	--Queller
+
+-Blütenpflanzen
+	--Akazien
+	--Aronstab
+	--Baobab
+	--Buchen
+	--Doldenblütler
+	--Eichen
+	--Farnpflanzen
+	--Flachs
+	--Ginkgogewächse
+	--Gräser
+	--Hahnenfußgewächse
+	--Haselnussgewächse
+	--Kakteen
+	--Kiefern
+	--Korbblütler
+		---Löwenzahn
+	--Kreuzblütler
+	--Liliengewächse
+		---Tulpen
+	--(Lippenblütler)
+		---Taubnesseln
+	--Misteln
+	--Orchideen
+	--Palme
+		---Dattelpalmen
+	--Primeln
+	--Rosen
+	--(Schmetterlingsblütler)
+		---Lupinen
+	--Schwertliliengewächse
+	--Springkräuter
+	--Tannen
+	--Weiden (Gattung)
+	--Yams
+
+-Frühblüher
+-Fleisch fressende Pflanzen
+	--Venusfliegenfalle
+-Gebirgspflanzen
+-Giftpflanzen
+-Kletterpflanze
+-Nutzpflanze
+	--Baumwolle
+	--Butterbaum
+	--Cashewnuss
+	--Getreide
+		---Gerste
+		---Hirse
+		---Weizen
+		---Hafer
+		---Mais
+		---Reis
+		---Roggen
+	--Gewürzpflanze
+	--Holunder
+	--Hopfen
+	--Hülsenfrüchte
+		---Erbsen
+	--Kaffee
+	--Kakao
+	--Kartoffel
+	--Kautschuk
+	--Kohl
+	--Kürbis
+	--Maniok
+	--Ölpflanze
+	--Tabak
+	--Tee
+	--Tomaten
+	--Zuckerrohr
+	--Zuckerrübe
+-Pionierpflanze
+-Stauden
+	--Unkraut
+-Sumpfpflanze
+-Waldpflanze
+-Wasserpflanzen
+-Wildpflanze
+-Xerophyten
+-Zeigerpflanze
+-Zierpflanze
+	--Sommerblume
+-Zwiebelpflanzen
+
+Wirt (Biologie)
+-Parasitismus
+--Parasit
+---Pflanzengallen
+--Schädling
+		---Schädlingsbekämpfung
+
+(Chordatiere)
+-Lanzettfischchen
+-Manteltiere
+-Wirbeltiere
+	--Fische
+		---Äschen
+		---Brachse
+		---Forellen
+		---Hechte
+		---Karpfen
+		---(Knorpelfische)
+			----Haifische
+			----Rochen
+		---Lachse
+		---Lungenfische
+		---Stichlinge
+		---Quastenflosser
+		---Welse
+	--Lurche
+		---Froschlurche
+			----Unken
+	--Reptilien
+		---Eidechsen
+			----Chamäleons
+		---Krokodile
+		---Schildkröten
+		---Schlangen
+			----Äskulapnatter
+			----Kreuzotter
+			----Ringelnattern
+			----Vipern
+		(---Schuppenkriechtiere)
+			----Warane
+	--Säugetiere
+		---Beuteltiere
+			----Kängurus
+			----Koalas
+		---(Flattertiere)
+			----Fledermäuse
+		---Gürteltiere
+		---(Hasenartige)
+			----Hasen
+				-----Kaninchen
+		---Huftiere
+			----(Paarhufer)
+				-----(Nichtwiederkäuer)
+					------Flusspferde
+					------Schweine
+					-------Wildschweine
+				-----Wiederkäuer
+					------Antilopen
+					------Giraffe
+					------Hirsche
+						-------Geweih
+						-------Rentiere
+					------Kamele
+					-------Lamas
+					------Moschusochse
+					------Rinder
+						-------Büffel
+						-------Wisent
+					------Schafe
+					------Ziegen
+						-------Gämsen
+						-------Steinbock
+			----Unpaarhufer
+				-----Nashörner
+				-----Pferde
+					------Vollblüter
+					------Warmblüter
+					------Wildpferd
+		---Insektenfresser
+			----Igel
+			----Maulwürfe
+			----Spitzmäuse
+		---Meeressäuger
+			----Wale
+				-----Delfine
+		---Nagetiere
+			----Biber
+			----Bilche
+			----Eichhörnchen
+			----Mäuse
+				-----Waldmaus
+				-----Wühlmäuse
+			----Murmeltiere
+		---Primaten
+			----Affen
+				-----Halbaffen
+				-----Menschenaffen
+					------Gorillas
+					------Orang-Utans
+					------Schimpansen
+					-----Paviane
+		---Raubtiere
+			----Bären
+			----(Hundeartige)
+				-----Füchse
+					------Wüstenfuchs
+				-----Hunde
+					------Dingo
+				-----Wolf
+			----Katzen
+				-----Löwen
+				-----Luchse
+				-----Wildkatze
+			----Marder
+			----Robben
+				-----Walross
+			----Skunks
+		---(Rüsseltiere)
+			----Elefanten
+				-----Elfenbein
+		---Schnabeltiere
+		---Sohlengänger
+		---Zahnarme
+	--Vögel
+		---Entenvögel
+		---Eulenvögel
+			----Waldkauz
+		---Greifvögel
+			----Adler (Biologie)
+			----Falken
+				-----Wanderfalke
+			----Weihen (Gattung)
+		---Hühnervögel
+			----Birkhühner
+		---Kuckucke
+		---Laufvögel
+		---Papageien
+		---Schwarmvögel
+		---Segler (Vögel)
+		---Singvögel
+			----Amsel
+			----Eisvögel
+			----Rabenvögel
+			----Uferschwalbe
+		---Spechte
+		---Stelzvögel
+			----Flamingos
+			----Störche
+				-----Weißstorch
+		---Wasservogel
+			----Lappentaucher
+			----Möwen
+			----Pinguine
+			----Ruderfüßer
+				-----Kormorane
+		---Watvögel
+			----Wasserläufer (Schnepfenvögel)
+		---Ziegenmelker
+		---Zugvogel
+			----Kraniche
+			----Vogelzug
+				-----Beringung
+Stachelhäuter
+Wirbellose
+-Gliederfüßer
+	--Insekten
+		---Ameisen
+		---Blattläuse
+		---Fliegen (Insekten)
+			----Tsetsefliegen
+		---Flöhe
+		---Florfliegen
+		---Gottesanbeterinnen
+		---(Hautflügler)
+			----Bienen
+				-----Bienensterben
+			----Hummeln
+			----Schlupfwespen
+			----Wespen
+		---Heuschrecken
+		---Käfer
+			----Borkenkäfer
+			----Gelbrandkäfer
+			----Glühwürmchen
+			----Hirschkäfer
+			----Kartoffelkäfer
+			----Maikäfer
+			----Marienkäfer
+		---Läuse
+		---Libellen
+		---Mücken
+		---Ohrwürmer
+		---Schaben
+		---Schmetterlinge
+		---Termiten
+		---Wanzen
+			----Wasserläufer (Wanzen)
+		---Wasserinsekten
+	--Krebstiere
+		---Wasserflöhe
+	--Spinnentiere
+		---Kreuzspinnen
+		---Milben
+			----Zecken
+-Hohltiere
+	--Korallentiere
+	--Quallen
+-Schwämme
+-Weichtiere
+	--Muscheln
+		---Miesmuscheln
+	--Schnecken
+		---Weinbergschnecke
+	--Tintenfische
+-Würmer
+	--Plattwürmer
+	--Ringelwürmer
+		---Regenwürmer
+		---Wattwurm
+	--Rundwürmer
+		---Fadenwürmer
+
+Plankton
+
+Verhaltensforschung
+-Tier
+	--Aasfresser
+	--Herde
+	--Häutung
+	--Instinkt
+		---Aposematismus
+		---Attrappenversuch
+		---Kaspar-Hauser-Versuch
+		---Konditionierung
+		---Verhalten (Tier)
+			----Beutefang
+			----Brutfürsorge
+			----Brutpflege
+				-----Brutschmarotzer
+				-----Nest
+				-----Nestflüchter
+				-----Nesthocker
+			----Duftstoff
+			----Imponiergehabe
+			----Insektenstaat
+			----Paarungsverhalten
+				-----Laichverhalten
+			----Rangordnung
+			----Revier (Tier)
+			----Schlüsselreiz
+	--Jungtier
+		---Welpe
+	--Körperbau (Tier)
+	--Nahrung (Tier Pflanze)
+	--Nahrungsaufnahme (Tiere Pflanzen)
+	--Reifungsprozess (Tier)
+	--Orientierung (Tiere)
+	--Selektion
+	--Tarnung (Tiere)
+		---Mimese
+		---Mimikry
+	--Tiersprache
+	--Tierwanderung
+	--Überwinterung
+	--Vogelflug
+	--Winterschlaf
+	--Winterstarre
+
+-Mensch
+	--Denken
+	--Frau
+	--Gesicht
+	--Intelligenz
+	--Jugendlicher
+	--Junge
+	--Kind
+		---Kleinkind
+		---Säugling
+	--Körperbau (Mensch)	
+	--Mädchen
+	--Mann
+	--Reifungsprozess (Mensch)
+	--Sprachentwicklung (Kind)
+	--Sexualität
+	--Wahrnehmung (Sinnesorgan)
+	--Zwillinge (Biologie)
+
+Biochemie
+-Biosynthese
+	--Proteinsynthese
+-Diffusion
+-Fette
+-Hormon
+	--Adrenalin
+	--Gelbkörper
+	--Geschlechtshormon
+	--Insulin
+-Aminosäuren
+	--Valin
+-Eiweiß
+	--Enzym
+	--Endorphine
+-Kohlenhydrate
+-Osmose
+-Primärstruktur
+-Regelkreis (Biologie)
+	--Körpertemperatur
+-Reizaufnahme
+-Resistenz
+-Resorption
+-Sekundärstruktur
+	--Helixstruktur
+-Stoffwechsel
+-Tertiärstruktur
+Biotechnologie
+Elektrophysiologie
+Gift
+
+Biomechanik
+
+Automatismus
+Konvergenz (Bio)
+Modifikation
+Regeneration (Biologie)
+Variabilität
+
+Zytologie
+-Zelle (Biologie)
+	--Kernteilung (Zelle)
+	--Plasma (Zelle)
+	--Ribonukleinsäure
+	--Ribosom
+	--Vakuole
+	--Zellteilung
+
+Anatomie (Mensch)
+Anatomie (Tier)
+-Bewegungssystem
+	--Fuß
+	--Gelenk
+	--Muskel
+		---Herz
+-Blutkreislauf
+	--Blut
+		---Blutgerinnung
+		---Blutgruppe
+		---Blutzelle
+	--Blutdruck
+	--Blutgefäß
+		---Vene
+-Drüse	
+	--Hirnanhangdrüse
+	--Leber
+		---Galle (Körperflüssigkeit)
+-Feder (Gefieder)
+-Fell
+-Gebiss
+	--Mundwerkzeug
+	--Zahn
+-Immunsystem
+-Kehlkopf
+	--Stimme (Mensch)
+-Lymphsystem
+-Nagel (Anatomie)
+-Organ
+	--Atmungsorgan
+		---Atmung
+		---Kiemen
+		---Lunge
+			----Vitalkapazität
+	--Ausscheidungsorgan
+		---Darm
+		---Harnorgan
+			----Urin
+		---Niere
+	--Geschlechtsorgan (Mensch)
+		---Vagina
+		---Vorhaut
+	--Haar
+	--Sinnesorgan
+		---Haut
+			----Hautfarbe
+			----Unterhaut
+		---Lichtsinnesorgan
+			----Auge
+				-----Facettenauge
+				-----Sehen
+		---Ohr
+			----Gehör
+			----Gleichgewichtssinn
+				-----Gleichgewichtsorgan
+		---Geschmackssinn
+		---Nase (Sinnesorgan)
+			----Geruchssinn
+		---Tastsinn
+			----Tastkörperchen
+	--Verdauungsorgan
+		---Magen
+		---Mund
+		---Verdauung
+	--Zunge (Biologie)
+	--Reflex
+-Rudiment
+-Schleimhaut
+-Skelett
+	--Chorda
+	--Knochen
+	--Schädel
+	--Wirbelsäule
+		---Rücken
+
+Histologie
+-Gewebe (Histologie)
+	--Bindegewebe
+		---Knorpel
+
+Fortpflanzung
+-Befruchtung
+	--Bestäubung
+		---Samen (Pflanzen)
+			----Samenverbreitung
+				-----Autochorie 
+			-----Nektar
+				-----Windverbreitung
+			---Windblütigkeit
+	--Ei
+		---Eiablage
+		---Kokon
+		---Ovulation
+		---Menstruation
+	--Sperma
+-Chimäre (Mischwesen)
+-Embryonalentwicklung
+-Fruchtbarkeit
+-Generationswechsel (Fortpflanzung)
+-Keimesentwicklung
+-Keimung
+-Metamorphose (Zoologie)
+	--Larve
+		---Wimpernlarve
+	--Puppe (Biologie)
+-Künstliche Befruchtung
+-Schlüpfen
+-Schwangerschaft
+-Wechseljahre
+-Zwitter
+Genetik
+-Genetischer Fingerabdruck
+-Gentechnologie
+	--Klon
+	--Stammzelle
+-Humangenetik
+	--Chromosom
+		---Chromosomenaberration
+		---Gen
+			----Crossing-over (Genetik)
+			----Desoxyribonukleinsäure
+	--Eugenik
+	--Karyogramm
+-Mendelsche Regeln
+-Mutation
+-Replikation
+-Vererbung
+-Züchtung
+	--Gestüt
+	--Kreuzung (Biologie)
+	--Muschelzucht
+	--Pflanzenzüchtung
+
+Neurobiologie
+-Nervensystem
+	--Gehirn
+		---Kognitionswissenschaft
+	--Nervenzelle
+	--Neuronale Plastizität
+	--Neurotransmitter
+	--Rückenmark
+	--Synapse
+
+Physiologie
+
+Forscher, Biologen
+	Behring, Emil von
+	Chain, Ernst Boris
+	Correns, Carl
+	Cousteau, Jacques Yves
+	Crick, Francis
+	Darwin, Charles
+	Eliava, George
+	Fleming, Alexander
+	Florey, Howard
+	Frisch, Karl von
+	Goodall, Jane
+	Grzimek, Bernhard
+	Haeckel, Ernst
+	Hagenbeck, Carl
+	Hérelle, Felix d’
+	Koch, Robert
+	Lamarck, Jean-Baptiste de
+	Leeuwenhoek, Antoni van
+	Linné, Carl von
+	Lorenz, Konrad
+	Mendel, Gregor
+	Sielmann, Heinz
+	Sprengel, Christian Konrad
+	Watson, James
+	Watson, Paul
+
+Aquarium
+Haustier
+-Domestikation
+-Wellensittiche
+Nutztier
+-Nutzinsekt
+Wildtier
+
+Experiment
+
+Fährte
+Fütterung
+-Viehfütterung
+-Winterfütterung
+Hege
+Wild
+
+Naturbeobachtung
+-Unterwasseraufnahme
+-Vogelstimme
+-Werkzeuggebrauch (Tier)
+Zoo
+
+Präparieren
+Rekonstruktion (Tier)
+Rekonstruktion (Mensch)
+
+Tierheilkunde
+
+Tollwut
+

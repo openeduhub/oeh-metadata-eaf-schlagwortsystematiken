@@ -19,12 +19,13 @@ jobs:
 
       - run: mkdir public
 
-      - run: mkdir data
+      - run: git clone https://github.com/openeduhub/oeh-metadata-eaf-schlagwortsystematiken
 
-      - run: git clone https://github.com/openeduhub/oeh-metadata-systematics.git data/
+      # bildende Kunst is corrupt
+      - run: rm data/ttl/bildende_kunst.ttl
 
       - name: build public dir with docker image
-        run: docker run -v $(pwd)/public:/app/public -v $(pwd)/data:/app/data laocoon667/skohub-vocabs:oeh-metadata-systematics
+        run: docker run -v $(pwd)/public:/app/public -v $(pwd)/data/ttl:/app/data laocoon667/skohub-vocabs:oeh-metadata-eaf-schlagwortsystematiken
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3

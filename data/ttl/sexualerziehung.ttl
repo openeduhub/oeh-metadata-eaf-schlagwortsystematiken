@@ -1,0 +1,87 @@
+@base <https://example-perma-id/sexualerziehung_systematik/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<fortpflanzung_mensch_id> a skos:Concept ;
+    skos:broader <sexualerziehung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fortpflanzung (Mensch)"@de .
+
+<homosexualität_id> a skos:Concept ;
+    skos:broader <sexualerziehung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Homosexualität"@de .
+
+<intersexualität_id> a skos:Concept ;
+    skos:broader <sexualerziehung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Intersexualität"@de .
+
+<inzest_id> a skos:Concept ;
+    skos:broader <sexualdelikt_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Inzest"@de .
+
+<pornographie_id> a skos:Concept ;
+    skos:broader <sexualerziehung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pornographie"@de .
+
+<pubertät_id> a skos:Concept ;
+    skos:broader <sexualerziehung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pubertät"@de .
+
+<sexting_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sexting"@de ;
+    skos:topConceptOf <> .
+
+<sexueller_missbrauch__id> a skos:Concept ;
+    skos:broader <sexualdelikt_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sexueller Missbrauch "@de .
+
+<transgender_id> a skos:Concept ;
+    skos:broader <sexualerziehung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Transgender"@de .
+
+<verhütungsring_id> a skos:Concept ;
+    skos:broader <empfängnisverhütung_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Verhütungsring"@de .
+
+<empfängnisverhütung_id> a skos:Concept ;
+    skos:broader <sexualerziehung_id> ;
+    skos:inScheme <> ;
+    skos:narrower <verhütungsring_id> ;
+    skos:prefLabel "Empfängnisverhütung"@de .
+
+<sexualdelikt_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <inzest_id>,
+        <sexueller_missbrauch__id> ;
+    skos:prefLabel "Sexualdelikt"@de ;
+    skos:topConceptOf <> .
+
+<sexualerziehung_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <empfängnisverhütung_id>,
+        <fortpflanzung_mensch_id>,
+        <homosexualität_id>,
+        <intersexualität_id>,
+        <pornographie_id>,
+        <pubertät_id>,
+        <transgender_id> ;
+    skos:prefLabel "Sexualerziehung"@de ;
+    skos:topConceptOf <> .
+
+<> a skos:ConceptScheme ;
+    dct:creator "<https://creator.com>" ;
+    dct:description "sexualerziehung_systematik"@de ;
+    dct:title "sexualerziehung_systematik"@de ;
+    skos:hasTopConcept <sexting_id>,
+        <sexualdelikt_id>,
+        <sexualerziehung_id> .
+

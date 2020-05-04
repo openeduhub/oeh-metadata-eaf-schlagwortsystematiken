@@ -1,0 +1,218 @@
+W I R T S C H A F T
+												
+Wirtschaft
+-Außenwirtschaft
+	--Außenhandel
+-Kapitalismus
+-Konzentration (Wirtschaft)
+-Korruption
+-Marktwirtschaft
+-Monopol
+-Oligopol
+-Planwirtschaft
+-Protektionismus
+-Schmuggel
+-Sonderwirtschaftszone
+-Weltmarkt
+-Weltwirtschaft
+-Wirtschaftliche Abhängigkeit
+-Wirtschaftswachstum
+
+Wirtschaftpolitik
+-Alterspyramide
+-Bank (Geldinstitut)
+	--Bankenkrise
+	--Deutsche Bundesbank
+	--Eurocheque
+	--Finanzierung
+		---Leasing
+	--Geld
+		---Devisen
+		---Münze
+		---Währung
+			----Euro
+				-----Euro-Rettungsschirm
+			----Währungsreform
+			----Währungsunion
+-----Euro
+					------Euro-Rettungsschirm
+		---Wechselkurs
+	--Girokonto
+	--Kredit
+		---Zins
+	--Mindestreserve
+	--Zahlungsverkehr
+-Behördliche Lebensmittelüberwachung
+-Billiglohnland
+-Börse
+	--Aktie
+	--Wertpapier
+-Bürgschaft
+-Bruttonationaleinkommen
+	--Konsum
+	--Volkseinkommen
+-E-Commerce
+-Eigentum
+-Entschädigung
+-Erbschaft
+-Finanzausgleich
+-Finanzzentrum
+-Generationenvertrag
+-Globalisierung
+-Haushaltsplan (Wirtschaft)
+	--Familienhaushaltsplan
+-Inflation
+-Investition
+-Kalkulation
+-Kapital
+	--Humankapital
+-Kauf
+-Kaufkraft
+-Konjunktur
+-Konkursverfahren
+-Lebenshaltung
+-Patentamt
+-Preis
+-Produktivität
+-Reklamation
+-Rente
+-Rezession
+-Schulden
+	--Staatsverschuldung
+-Sparen
+-Spende
+-Steuer (Staat)
+-Subvention
+-Verbraucher
+	--Konsumverhalten
+	--Verbraucherbildung
+	--Verbraucherschutz
+-Verkauf
+	--Auktion
+-Vermögensbildung
+-Volkswirtschaft
+	--Bruttoinlandsprodukt
+-Ware
+-Wertschöpfung
+-Wettbewerb
+	--Unlauterer Wettbewerb
+-Wirtschaftlichkeit
+-Wirtschaftskriminalität
+-Wirtschaftskrise
+-Wirtschaftsmacht
+-Wohlstand
+-Zahlungsbilanz
+
+Gewerbe
+-Fabrik
+-Gewerbeaufsicht
+-Handel
+	--Einzelhandel
+		---Supermarkt
+		---Versandhandel
+	--Fairer Handel
+	--Messe (Wirtschaft)
+	--Straßenhandel
+	--Tauschhandel
+-Outsourcing
+-Produktion
+	--Agrobusiness
+	--Lagerhaltung
+	--Produktionsfaktor
+	--Rationalisierung
+	--Serienfertigung
+	--Überproduktion
+-Verarbeitung (Verfahrenstechnik)
+-Warenwirtschaft
+
+Unternehmen
+-Betriebswirtschaft
+	--Personalwesen
+-Bilanz
+	--Gewinn
+-Führungskraft (Wirtschaft)
+-Führungsstil
+-Global Player
+-Handelsregister
+-Kostenmanagement
+-Logistik
+-Marke (Recht)
+-Marketing
+-Organisationsentwicklung
+-Planspiel
+-Planung
+-Selbständiger
+-Unternehmensform
+	--Aktiengesellschaft
+	--GbR
+	--Genossenschaft
+	--GmbH
+	--Kartell
+	--Kombinat
+	--Konzern
+-Unternehmensgründung
+-Unternehmensleitbild
+-Unternehmensstrategie
+-Unternehmer
+-Vorstand
+-Werbung
+	--Werbekampagne
+
+Arbeitgeber
+Arbeitskonflikt
+Arbeitsteilung
+Arbeitnehmer
+-Saisonarbeiter
+-Wanderarbeiter
+Arbeitszeit
+-Kurzarbeit
+Beamter
+Ergonomie
+Gehalt
+Gewerkschaft
+
+Arbeitslosigkeit
+Arbeitsplatzsuche
+
+Forschung
+Fortschritt
+Innovation
+Optimierung
+
+Einkaufen
+
+Versorgung (öffentliche)
+-Energieversorgung
+	--Energieerzeugung
+	--Energieverbrauch
+
+Haftpflichtversicherung
+Sozialversicherung
+-Krankenversicherung
+-Rentenversicherung
+
+Wohnungsmarkt
+-Miete
+
+Möbel
+
+Deutsche Bundespost
+-Briefbeförderung
+-Deutsche Post AG
+-Deutsche Postbank AG
+-Deutsche Telekom AG
+-Post
+
+Adam Opel AG
+BASF AG
+Philips (Unternehmen)
+Volkswagenwerk AG
+
+Club of Rome
+
+Chodorkowski, Michail
+Christians, Friedrich Wilhelm
+List, Friedrich
+Mohn, Richard
+Philips, Anton
+Philips, Gerard
