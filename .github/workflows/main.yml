@@ -23,9 +23,10 @@ jobs:
 
       # bildende Kunst is corrupt
       - run: rm data/ttl/bildende_kunst.ttl
+        workdir: oeh-metadata-eaf-schlagwortsystematiken
 
       - name: build public dir with docker image
-        run: docker run -v $(pwd)/public:/app/public -v $(pwd)/data/ttl:/app/data laocoon667/skohub-vocabs:oeh-metadata-eaf-schlagwortsystematiken
+        run: docker run -v $(pwd)/public:/app/public -v $(pwd)/oeh-metadata-eaf-schlagwortsystematiken/data/ttl:/app/data laocoon667/skohub-vocabs:oeh-metadata-eaf-schlagwortsystematiken
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
