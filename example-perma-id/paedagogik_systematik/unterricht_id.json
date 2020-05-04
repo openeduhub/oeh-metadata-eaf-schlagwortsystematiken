@@ -1,0 +1,148 @@
+{
+  "id": "https://example-perma-id/paedagogik_systematik/unterricht_id",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fpaedagogik_systematik%2Funterricht_id",
+  "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fpaedagogik_systematik%2Funterricht_id",
+  "prefLabel": {
+    "de": "Unterricht"
+  },
+  "narrower": [
+    {
+      "id": "https://example-perma-id/paedagogik_systematik/analyse_unterrichtsmethode_id",
+      "prefLabel": {
+        "de": "Analyse (Unterrichtsmethode)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/paedagogik_systematik/bilingualer_unterricht_id",
+      "prefLabel": {
+        "de": "Bilingualer Unterricht"
+      }
+    },
+    {
+      "id": "https://example-perma-id/paedagogik_systematik/deutschunterricht_id",
+      "prefLabel": {
+        "de": "Deutschunterricht"
+      }
+    },
+    {
+      "id": "https://example-perma-id/paedagogik_systematik/kunstunterricht_id",
+      "prefLabel": {
+        "de": "Kunstunterricht"
+      }
+    },
+    {
+      "id": "https://example-perma-id/paedagogik_systematik/lehrverfahren_id",
+      "prefLabel": {
+        "de": "Lehrverfahren"
+      }
+    },
+    {
+      "id": "https://example-perma-id/paedagogik_systematik/sportdidaktik_id",
+      "prefLabel": {
+        "de": "Sportdidaktik"
+      }
+    },
+    {
+      "id": "https://example-perma-id/paedagogik_systematik/sprachunterricht_pädagogik_id",
+      "prefLabel": {
+        "de": "Sprachunterricht (Pädagogik)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/paedagogik_systematik/unterrichtsmaterial_id",
+      "prefLabel": {
+        "de": "Unterrichtsmaterial"
+      }
+    },
+    {
+      "id": "https://example-perma-id/paedagogik_systematik/unterrichtsmethode_id",
+      "prefLabel": {
+        "de": "Unterrichtsmethode"
+      }
+    },
+    {
+      "id": "https://example-perma-id/paedagogik_systematik/unterrichtsmodul_id",
+      "prefLabel": {
+        "de": "Unterrichtsmodul"
+      }
+    },
+    {
+      "id": "https://example-perma-id/paedagogik_systematik/unterrichtsplanung_id",
+      "prefLabel": {
+        "de": "Unterrichtsplanung"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://example-perma-id/paedagogik_systematik/bildungssystem_id",
+    "prefLabel": {
+      "de": "Bildungssystem"
+    }
+  },
+  "inScheme": {
+    "id": "https://example-perma-id/paedagogik_systematik/",
+    "title": {
+      "de": "paedagogik_systematik"
+    }
+  },
+  "@context": {
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

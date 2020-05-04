@@ -1,0 +1,196 @@
+{
+  "id": "https://example-perma-id/physik_systematik/elektronik_id",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fphysik_systematik%2Felektronik_id",
+  "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fphysik_systematik%2Felektronik_id",
+  "prefLabel": {
+    "de": "Elektronik"
+  },
+  "narrower": [
+    {
+      "id": "https://example-perma-id/physik_systematik/bipolare_ansteuerung_id",
+      "prefLabel": {
+        "de": "Bipolare Ansteuerung"
+      }
+    },
+    {
+      "id": "https://example-perma-id/physik_systematik/dipol_id",
+      "prefLabel": {
+        "de": "Dipol"
+      }
+    },
+    {
+      "id": "https://example-perma-id/physik_systematik/dotierung_id",
+      "prefLabel": {
+        "de": "Dotierung"
+      }
+    },
+    {
+      "id": "https://example-perma-id/physik_systematik/elektrode_id",
+      "prefLabel": {
+        "de": "Elektrode"
+      }
+    },
+    {
+      "id": "https://example-perma-id/physik_systematik/gasentladung_id",
+      "prefLabel": {
+        "de": "Gasentladung"
+      }
+    },
+    {
+      "id": "https://example-perma-id/physik_systematik/halbleiter_id",
+      "prefLabel": {
+        "de": "Halbleiter"
+      }
+    },
+    {
+      "id": "https://example-perma-id/physik_systematik/induktion_elektrizität_id",
+      "prefLabel": {
+        "de": "Induktion (Elektrizität)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/physik_systematik/kondensator_elektrizität_id",
+      "prefLabel": {
+        "de": "Kondensator (Elektrizität)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/physik_systematik/kurzschluss_id",
+      "prefLabel": {
+        "de": "Kurzschluss"
+      }
+    },
+    {
+      "id": "https://example-perma-id/physik_systematik/millikanversuch_id",
+      "prefLabel": {
+        "de": "Millikanversuch"
+      }
+    },
+    {
+      "id": "https://example-perma-id/physik_systematik/nebelkammer_id",
+      "prefLabel": {
+        "de": "Nebelkammer"
+      }
+    },
+    {
+      "id": "https://example-perma-id/physik_systematik/operationsverstärker_id",
+      "prefLabel": {
+        "de": "Operationsverstärker"
+      }
+    },
+    {
+      "id": "https://example-perma-id/physik_systematik/stromkreis_id",
+      "prefLabel": {
+        "de": "Stromkreis"
+      }
+    },
+    {
+      "id": "https://example-perma-id/physik_systematik/synchroton_id",
+      "prefLabel": {
+        "de": "Synchroton"
+      }
+    },
+    {
+      "id": "https://example-perma-id/physik_systematik/transformator_id",
+      "prefLabel": {
+        "de": "Transformator"
+      }
+    },
+    {
+      "id": "https://example-perma-id/physik_systematik/transistor_id",
+      "prefLabel": {
+        "de": "Transistor"
+      }
+    },
+    {
+      "id": "https://example-perma-id/physik_systematik/unipolare_ansteuerung_id",
+      "prefLabel": {
+        "de": "Unipolare Ansteuerung"
+      }
+    },
+    {
+      "id": "https://example-perma-id/physik_systematik/verstärker_elektrotechnik_id",
+      "prefLabel": {
+        "de": "Verstärker (Elektrotechnik)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/physik_systematik/widerstand_physik_id",
+      "prefLabel": {
+        "de": "Widerstand (Physik)"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://example-perma-id/physik_systematik/elektrizität_id",
+    "prefLabel": {
+      "de": "Elektrizität"
+    }
+  },
+  "inScheme": {
+    "id": "https://example-perma-id/physik_systematik/",
+    "title": {
+      "de": "physik_systematik"
+    }
+  },
+  "@context": {
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

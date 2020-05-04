@@ -1,0 +1,190 @@
+{
+  "id": "https://example-perma-id/biologie_systematik/insekten_id",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fbiologie_systematik%2Finsekten_id",
+  "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fbiologie_systematik%2Finsekten_id",
+  "prefLabel": {
+    "de": "Insekten"
+  },
+  "narrower": [
+    {
+      "id": "https://example-perma-id/biologie_systematik/ameisen_id",
+      "prefLabel": {
+        "de": "Ameisen"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/blattläuse_id",
+      "prefLabel": {
+        "de": "Blattläuse"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/fliegen_insekten_id",
+      "prefLabel": {
+        "de": "Fliegen (Insekten)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/florfliegen_id",
+      "prefLabel": {
+        "de": "Florfliegen"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/flöhe_id",
+      "prefLabel": {
+        "de": "Flöhe"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/gottesanbeterinnen_id",
+      "prefLabel": {
+        "de": "Gottesanbeterinnen"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/hautflügler_id",
+      "prefLabel": {
+        "de": "Hautflügler)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/heuschrecken_id",
+      "prefLabel": {
+        "de": "Heuschrecken"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/käfer_id",
+      "prefLabel": {
+        "de": "Käfer"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/libellen_id",
+      "prefLabel": {
+        "de": "Libellen"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/läuse_id",
+      "prefLabel": {
+        "de": "Läuse"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/mücken_id",
+      "prefLabel": {
+        "de": "Mücken"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/ohrwürmer_id",
+      "prefLabel": {
+        "de": "Ohrwürmer"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/schaben_id",
+      "prefLabel": {
+        "de": "Schaben"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/schmetterlinge_id",
+      "prefLabel": {
+        "de": "Schmetterlinge"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/termiten_id",
+      "prefLabel": {
+        "de": "Termiten"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/wanzen_id",
+      "prefLabel": {
+        "de": "Wanzen"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/wasserinsekten_id",
+      "prefLabel": {
+        "de": "Wasserinsekten"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://example-perma-id/biologie_systematik/gliederfüßer_id",
+    "prefLabel": {
+      "de": "Gliederfüßer"
+    }
+  },
+  "inScheme": {
+    "id": "https://example-perma-id/biologie_systematik/",
+    "title": {
+      "de": "biologie_systematik"
+    }
+  },
+  "@context": {
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

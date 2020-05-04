@@ -1,0 +1,283 @@
+{
+  "id": "https://example-perma-id/spieldok_systematik/spielfilm_id",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fspieldok_systematik%2Fspielfilm_id",
+  "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fspieldok_systematik%2Fspielfilm_id",
+  "prefLabel": {
+    "de": "Spielfilm)"
+  },
+  "narrower": [
+    {
+      "id": "https://example-perma-id/spieldok_systematik/abenteuerfilm_für_erwachsene_id",
+      "prefLabel": {
+        "de": "Abenteuerfilm (für Erwachsene)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/abenteuerfilm_für_jugendliche_id",
+      "prefLabel": {
+        "de": "Abenteuerfilm (für Jugendliche)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/abenteuerfilm_für_kinder_id",
+      "prefLabel": {
+        "de": "Abenteuerfilm (für Kinder)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/actionfilm_id",
+      "prefLabel": {
+        "de": "Actionfilm"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/agentenfilm_id",
+      "prefLabel": {
+        "de": "Agentenfilm"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/antikriegsfilm_id",
+      "prefLabel": {
+        "de": "Antikriegsfilm"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/avantgardefilm_id",
+      "prefLabel": {
+        "de": "Avantgardefilm"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/drama_spielfilm_id",
+      "prefLabel": {
+        "de": "Drama (Spielfilm)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/erotik_id",
+      "prefLabel": {
+        "de": "Erotik"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/fantasyfilm_id",
+      "prefLabel": {
+        "de": "FantasyFilm"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/heimatfilm_id",
+      "prefLabel": {
+        "de": "Heimatfilm"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/historienfilm_id",
+      "prefLabel": {
+        "de": "Historienfilm"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/horrorfilm_id",
+      "prefLabel": {
+        "de": "Horrorfilm"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/katastrophenfilm_id",
+      "prefLabel": {
+        "de": "Katastrophenfilm"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/kriegsfilm_id",
+      "prefLabel": {
+        "de": "Kriegsfilm"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/kriminalfilm_für_erwachsene_id",
+      "prefLabel": {
+        "de": "Kriminalfilm (für Erwachsene)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/kriminalfilm_für_jugendliche_id",
+      "prefLabel": {
+        "de": "Kriminalfilm (für Jugendliche)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/kriminalfilm_für_kinder_id",
+      "prefLabel": {
+        "de": "Kriminalfilm (für Kinder)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/liebesfilm_id",
+      "prefLabel": {
+        "de": "Liebesfilm"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/literaturverfilmung_id",
+      "prefLabel": {
+        "de": "Literaturverfilmung"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/melodrama_id",
+      "prefLabel": {
+        "de": "Melodrama"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/monumentalfilm_id",
+      "prefLabel": {
+        "de": "Monumentalfilm"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/musikfilm_id",
+      "prefLabel": {
+        "de": "Musikfilm"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/propagandafilm_id",
+      "prefLabel": {
+        "de": "Propagandafilm"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/roadmovie_id",
+      "prefLabel": {
+        "de": "Roadmovie"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/sciencefiction_für_erwachsene_id",
+      "prefLabel": {
+        "de": "ScienceFiction (für Erwachsene)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/sciencefiction_für_jugendliche_id",
+      "prefLabel": {
+        "de": "ScienceFiction (für Jugendliche)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/sciencefiction_für_kinder_id",
+      "prefLabel": {
+        "de": "ScienceFiction (für Kinder)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/sozialkritischer_film_id",
+      "prefLabel": {
+        "de": "Sozialkritischer Film"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/stummfilm_id",
+      "prefLabel": {
+        "de": "Stummfilm"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/thriller_id",
+      "prefLabel": {
+        "de": "Thriller"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/tierfilm_id",
+      "prefLabel": {
+        "de": "Tierfilm"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/western_id",
+      "prefLabel": {
+        "de": "Western"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/westernpersiflage_id",
+      "prefLabel": {
+        "de": "Westernpersiflage"
+      }
+    }
+  ],
+  "inScheme": {
+    "id": "https://example-perma-id/spieldok_systematik/",
+    "title": {
+      "de": "spieldok_systematik"
+    }
+  },
+  "topConceptOf": {
+    "id": "https://example-perma-id/spieldok_systematik/"
+  },
+  "@context": {
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

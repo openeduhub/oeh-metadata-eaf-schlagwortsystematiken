@@ -1,0 +1,145 @@
+{
+  "id": "https://example-perma-id/arbeitslehre_systematik/werkzeug_id",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Farbeitslehre_systematik%2Fwerkzeug_id",
+  "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Farbeitslehre_systematik%2Fwerkzeug_id",
+  "prefLabel": {
+    "de": "Werkzeug"
+  },
+  "narrower": [
+    {
+      "id": "https://example-perma-id/arbeitslehre_systematik/bohren_id",
+      "prefLabel": {
+        "de": "Bohren"
+      }
+    },
+    {
+      "id": "https://example-perma-id/arbeitslehre_systematik/löten_id",
+      "prefLabel": {
+        "de": "Löten"
+      }
+    },
+    {
+      "id": "https://example-perma-id/arbeitslehre_systematik/pressen_druckausübung_id",
+      "prefLabel": {
+        "de": "Pressen (Druckausübung)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/arbeitslehre_systematik/reiben_id",
+      "prefLabel": {
+        "de": "Reiben"
+      }
+    },
+    {
+      "id": "https://example-perma-id/arbeitslehre_systematik/schweißen_id",
+      "prefLabel": {
+        "de": "Schweißen"
+      }
+    },
+    {
+      "id": "https://example-perma-id/arbeitslehre_systematik/spanen_id",
+      "prefLabel": {
+        "de": "Spanen"
+      }
+    },
+    {
+      "id": "https://example-perma-id/arbeitslehre_systematik/spannen_id",
+      "prefLabel": {
+        "de": "Spannen"
+      }
+    },
+    {
+      "id": "https://example-perma-id/arbeitslehre_systematik/stanzen_id",
+      "prefLabel": {
+        "de": "Stanzen"
+      }
+    },
+    {
+      "id": "https://example-perma-id/arbeitslehre_systematik/sägen_id",
+      "prefLabel": {
+        "de": "Sägen"
+      }
+    },
+    {
+      "id": "https://example-perma-id/arbeitslehre_systematik/walzen_id",
+      "prefLabel": {
+        "de": "Walzen"
+      }
+    },
+    {
+      "id": "https://example-perma-id/arbeitslehre_systematik/ziehen_id",
+      "prefLabel": {
+        "de": "Ziehen"
+      }
+    }
+  ],
+  "inScheme": {
+    "id": "https://example-perma-id/arbeitslehre_systematik/",
+    "title": {
+      "de": "arbeitslehre_systematik"
+    }
+  },
+  "topConceptOf": {
+    "id": "https://example-perma-id/arbeitslehre_systematik/"
+  },
+  "@context": {
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

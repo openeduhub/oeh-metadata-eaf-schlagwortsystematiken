@@ -1,0 +1,214 @@
+{
+  "id": "https://example-perma-id/geographie_systematik/baden_landesteil_id",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fgeographie_systematik%2Fbaden_landesteil_id",
+  "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fgeographie_systematik%2Fbaden_landesteil_id",
+  "prefLabel": {
+    "de": "Baden (Landesteil)"
+  },
+  "narrower": [
+    {
+      "id": "https://example-perma-id/geographie_systematik/badenbaden_kreis_id",
+      "prefLabel": {
+        "de": "Baden-Baden (Kreis)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/breisgauhochschwarzwald_kreis_id",
+      "prefLabel": {
+        "de": "Breisgau-Hochschwarzwald (Kreis)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/calw_kreis_id",
+      "prefLabel": {
+        "de": "Calw (Kreis)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/emmendingen_kreis_id",
+      "prefLabel": {
+        "de": "Emmendingen (Kreis)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/enzkreis_id",
+      "prefLabel": {
+        "de": "Enzkreis"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/freiburg_im_breisgau_kreis_id",
+      "prefLabel": {
+        "de": "Freiburg im Breisgau (Kreis)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/freudenstadt_kreis_id",
+      "prefLabel": {
+        "de": "Freudenstadt (Kreis)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/heidelberg_kreis_id",
+      "prefLabel": {
+        "de": "Heidelberg (Kreis)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/karlsruhe_kreis_id",
+      "prefLabel": {
+        "de": "Karlsruhe (Kreis)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/konstanz_kreis_id",
+      "prefLabel": {
+        "de": "Konstanz (Kreis)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/lörrach_kreis_id",
+      "prefLabel": {
+        "de": "Lörrach (Kreis)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/mainau_id",
+      "prefLabel": {
+        "de": "Mainau"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/mannheim_kreis_id",
+      "prefLabel": {
+        "de": "Mannheim (Kreis)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/neckarodenwaldkreis_id",
+      "prefLabel": {
+        "de": "Neckar-Odenwald-Kreis"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/ortenaukreis_id",
+      "prefLabel": {
+        "de": "Ortenaukreis"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/pforzheim_kreis_id",
+      "prefLabel": {
+        "de": "Pforzheim (Kreis)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/rastatt_kreis_id",
+      "prefLabel": {
+        "de": "Rastatt (Kreis)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/rheinneckarkreis_id",
+      "prefLabel": {
+        "de": "Rhein-Neckar-Kreis"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/rottweil_kreis_id",
+      "prefLabel": {
+        "de": "Rottweil (Kreis)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/schwarzwaldbaarkreis_id",
+      "prefLabel": {
+        "de": "Schwarzwald-Baar-Kreis"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/tuttlingen_kreis_id",
+      "prefLabel": {
+        "de": "Tuttlingen (Kreis)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/waldshut_kreis_id",
+      "prefLabel": {
+        "de": "Waldshut (Kreis)"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://example-perma-id/geographie_systematik/badenwürttemberg_id",
+    "prefLabel": {
+      "de": "Baden-Württemberg"
+    }
+  },
+  "inScheme": {
+    "id": "https://example-perma-id/geographie_systematik/",
+    "title": {
+      "de": "geographie_systematik"
+    }
+  },
+  "@context": {
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

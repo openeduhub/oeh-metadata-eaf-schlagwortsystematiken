@@ -1,0 +1,157 @@
+{
+  "id": "https://example-perma-id/biologie_systematik/fortpflanzung_id",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fbiologie_systematik%2Ffortpflanzung_id",
+  "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fbiologie_systematik%2Ffortpflanzung_id",
+  "prefLabel": {
+    "de": "Fortpflanzung"
+  },
+  "narrower": [
+    {
+      "id": "https://example-perma-id/biologie_systematik/befruchtung_id",
+      "prefLabel": {
+        "de": "Befruchtung"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/chimäre_mischwesen_id",
+      "prefLabel": {
+        "de": "Chimäre (Mischwesen)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/embryonalentwicklung_id",
+      "prefLabel": {
+        "de": "Embryonalentwicklung"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/fruchtbarkeit_id",
+      "prefLabel": {
+        "de": "Fruchtbarkeit"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/generationswechsel_fortpflanzung_id",
+      "prefLabel": {
+        "de": "Generationswechsel (Fortpflanzung)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/keimesentwicklung_id",
+      "prefLabel": {
+        "de": "Keimesentwicklung"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/keimung_id",
+      "prefLabel": {
+        "de": "Keimung"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/künstliche_befruchtung_id",
+      "prefLabel": {
+        "de": "Künstliche Befruchtung"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/metamorphose_zoologie_id",
+      "prefLabel": {
+        "de": "Metamorphose (Zoologie)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/schlüpfen_id",
+      "prefLabel": {
+        "de": "Schlüpfen"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/schwangerschaft_id",
+      "prefLabel": {
+        "de": "Schwangerschaft"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/wechseljahre_id",
+      "prefLabel": {
+        "de": "Wechseljahre"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/zwitter_id",
+      "prefLabel": {
+        "de": "Zwitter"
+      }
+    }
+  ],
+  "inScheme": {
+    "id": "https://example-perma-id/biologie_systematik/",
+    "title": {
+      "de": "biologie_systematik"
+    }
+  },
+  "topConceptOf": {
+    "id": "https://example-perma-id/biologie_systematik/"
+  },
+  "@context": {
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

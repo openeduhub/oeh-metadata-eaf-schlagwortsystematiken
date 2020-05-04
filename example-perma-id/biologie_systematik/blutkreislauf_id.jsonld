@@ -1,0 +1,118 @@
+{
+  "id": "https://example-perma-id/biologie_systematik/blutkreislauf_id",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fbiologie_systematik%2Fblutkreislauf_id",
+  "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fbiologie_systematik%2Fblutkreislauf_id",
+  "prefLabel": {
+    "de": "Blutkreislauf"
+  },
+  "narrower": [
+    {
+      "id": "https://example-perma-id/biologie_systematik/blut_id",
+      "prefLabel": {
+        "de": "Blut"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/blutdruck_id",
+      "prefLabel": {
+        "de": "Blutdruck"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/blutgefäß_id",
+      "prefLabel": {
+        "de": "Blutgefäß"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/drüse_id",
+      "prefLabel": {
+        "de": "Drüse"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/hirnanhangdrüse_id",
+      "prefLabel": {
+        "de": "Hirnanhangdrüse"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/leber_id",
+      "prefLabel": {
+        "de": "Leber"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://example-perma-id/biologie_systematik/anatomie_tier_id",
+    "prefLabel": {
+      "de": "Anatomie (Tier)"
+    }
+  },
+  "inScheme": {
+    "id": "https://example-perma-id/biologie_systematik/",
+    "title": {
+      "de": "biologie_systematik"
+    }
+  },
+  "@context": {
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

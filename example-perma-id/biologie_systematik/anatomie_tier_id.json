@@ -1,0 +1,157 @@
+{
+  "id": "https://example-perma-id/biologie_systematik/anatomie_tier_id",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fbiologie_systematik%2Fanatomie_tier_id",
+  "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fbiologie_systematik%2Fanatomie_tier_id",
+  "prefLabel": {
+    "de": "Anatomie (Tier)"
+  },
+  "narrower": [
+    {
+      "id": "https://example-perma-id/biologie_systematik/bewegungssystem_id",
+      "prefLabel": {
+        "de": "Bewegungssystem"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/blutkreislauf_id",
+      "prefLabel": {
+        "de": "Blutkreislauf"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/feder_gefieder_id",
+      "prefLabel": {
+        "de": "Feder (Gefieder)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/fell_id",
+      "prefLabel": {
+        "de": "Fell"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/gebiss_id",
+      "prefLabel": {
+        "de": "Gebiss"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/immunsystem_id",
+      "prefLabel": {
+        "de": "Immunsystem"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/kehlkopf_id",
+      "prefLabel": {
+        "de": "Kehlkopf"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/lymphsystem_id",
+      "prefLabel": {
+        "de": "Lymphsystem"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/nagel_anatomie_id",
+      "prefLabel": {
+        "de": "Nagel (Anatomie)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/organ_id",
+      "prefLabel": {
+        "de": "Organ"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/rudiment_id",
+      "prefLabel": {
+        "de": "Rudiment"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/schleimhaut_id",
+      "prefLabel": {
+        "de": "Schleimhaut"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/skelett_id",
+      "prefLabel": {
+        "de": "Skelett"
+      }
+    }
+  ],
+  "inScheme": {
+    "id": "https://example-perma-id/biologie_systematik/",
+    "title": {
+      "de": "biologie_systematik"
+    }
+  },
+  "topConceptOf": {
+    "id": "https://example-perma-id/biologie_systematik/"
+  },
+  "@context": {
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

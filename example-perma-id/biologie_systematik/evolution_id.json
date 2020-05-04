@@ -1,0 +1,139 @@
+{
+  "id": "https://example-perma-id/biologie_systematik/evolution_id",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fbiologie_systematik%2Fevolution_id",
+  "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fbiologie_systematik%2Fevolution_id",
+  "prefLabel": {
+    "de": "Evolution"
+  },
+  "narrower": [
+    {
+      "id": "https://example-perma-id/biologie_systematik/artenvielfalt_id",
+      "prefLabel": {
+        "de": "Artenvielfalt"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/australopithecus_id",
+      "prefLabel": {
+        "de": "Australopithecus"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/evolutionstheorie_id",
+      "prefLabel": {
+        "de": "Evolutionstheorie"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/homo_erectus_id",
+      "prefLabel": {
+        "de": "Homo erectus"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/homo_ergaster_id",
+      "prefLabel": {
+        "de": "Homo ergaster"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/homo_habilis_id",
+      "prefLabel": {
+        "de": "Homo habilis"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/homo_sapiens_id",
+      "prefLabel": {
+        "de": "Homo sapiens"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/homologie_biologie_id",
+      "prefLabel": {
+        "de": "Homologie (Biologie)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/jäger_und_sammler_id",
+      "prefLabel": {
+        "de": "Jäger und Sammler"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/paläonthologie_id",
+      "prefLabel": {
+        "de": "Paläonthologie"
+      }
+    }
+  ],
+  "inScheme": {
+    "id": "https://example-perma-id/biologie_systematik/",
+    "title": {
+      "de": "biologie_systematik"
+    }
+  },
+  "topConceptOf": {
+    "id": "https://example-perma-id/biologie_systematik/"
+  },
+  "@context": {
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

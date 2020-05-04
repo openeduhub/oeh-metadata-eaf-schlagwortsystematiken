@@ -1,0 +1,124 @@
+{
+  "id": "https://example-perma-id/physik_systematik/funktechnik_id",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fphysik_systematik%2Ffunktechnik_id",
+  "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fphysik_systematik%2Ffunktechnik_id",
+  "prefLabel": {
+    "de": "Funktechnik"
+  },
+  "narrower": [
+    {
+      "id": "https://example-perma-id/physik_systematik/fernsehtechnik_id",
+      "prefLabel": {
+        "de": "Fernsehtechnik"
+      }
+    },
+    {
+      "id": "https://example-perma-id/physik_systematik/frequenz_physikalische_größe_id",
+      "prefLabel": {
+        "de": "Frequenz (physikalische Größe)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/physik_systematik/modulation_id",
+      "prefLabel": {
+        "de": "Modulation"
+      }
+    },
+    {
+      "id": "https://example-perma-id/physik_systematik/radar_id",
+      "prefLabel": {
+        "de": "Radar"
+      }
+    },
+    {
+      "id": "https://example-perma-id/physik_systematik/rfid_id",
+      "prefLabel": {
+        "de": "RFID"
+      }
+    },
+    {
+      "id": "https://example-perma-id/physik_systematik/signal_elektrik_id",
+      "prefLabel": {
+        "de": "Signal (Elektrik)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/physik_systematik/telefon_id",
+      "prefLabel": {
+        "de": "Telefon"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://example-perma-id/physik_systematik/physik_id",
+    "prefLabel": {
+      "de": "Physik"
+    }
+  },
+  "inScheme": {
+    "id": "https://example-perma-id/physik_systematik/",
+    "title": {
+      "de": "physik_systematik"
+    }
+  },
+  "@context": {
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

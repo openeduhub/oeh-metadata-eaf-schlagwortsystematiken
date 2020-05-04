@@ -1,0 +1,157 @@
+{
+  "id": "https://example-perma-id/leben_systematik/lebensbedingung_allgemein_id",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fleben_systematik%2Flebensbedingung_allgemein_id",
+  "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fleben_systematik%2Flebensbedingung_allgemein_id",
+  "prefLabel": {
+    "de": "Lebensbedingung (allgemein)"
+  },
+  "narrower": [
+    {
+      "id": "https://example-perma-id/leben_systematik/_lebensbedingung_afrika_id",
+      "prefLabel": {
+        "de": "Lebensbedingung (Afrika)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/leben_systematik/disparität_id",
+      "prefLabel": {
+        "de": "Disparität"
+      }
+    },
+    {
+      "id": "https://example-perma-id/leben_systematik/lebensbedingung_brasilien_id",
+      "prefLabel": {
+        "de": "Lebensbedingung (Brasilien)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/leben_systematik/lebensbedingung_china_id",
+      "prefLabel": {
+        "de": "Lebensbedingung (China)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/leben_systematik/lebensbedingung_deutschland_id",
+      "prefLabel": {
+        "de": "Lebensbedingung (Deutschland)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/leben_systematik/lebensbedingung_frankreich_id",
+      "prefLabel": {
+        "de": "Lebensbedingung (Frankreich)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/leben_systematik/lebensbedingung_großbritannien_id",
+      "prefLabel": {
+        "de": "Lebensbedingung (Großbritannien)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/leben_systematik/lebensbedingung_indien_id",
+      "prefLabel": {
+        "de": "Lebensbedingung (Indien)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/leben_systematik/lebensbedingung_japan_id",
+      "prefLabel": {
+        "de": "Lebensbedingung (Japan)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/leben_systematik/lebensbedingung_mexiko_id",
+      "prefLabel": {
+        "de": "Lebensbedingung (Mexiko)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/leben_systematik/lebensbedingung_sibirien_id",
+      "prefLabel": {
+        "de": "Lebensbedingung (Sibirien)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/leben_systematik/lebensbedingung_türkei_id",
+      "prefLabel": {
+        "de": "Lebensbedingung (Türkei)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/leben_systematik/lebensbedingung_usa_id",
+      "prefLabel": {
+        "de": "Lebensbedingung (USA)"
+      }
+    }
+  ],
+  "inScheme": {
+    "id": "https://example-perma-id/leben_systematik/",
+    "title": {
+      "de": "leben_systematik"
+    }
+  },
+  "topConceptOf": {
+    "id": "https://example-perma-id/leben_systematik/"
+  },
+  "@context": {
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

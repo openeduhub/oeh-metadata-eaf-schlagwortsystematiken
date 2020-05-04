@@ -1,0 +1,166 @@
+{
+  "id": "https://example-perma-id/geographie_systematik/usa_staat_id",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fgeographie_systematik%2Fusa_staat_id",
+  "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fgeographie_systematik%2Fusa_staat_id",
+  "prefLabel": {
+    "de": "USA (Staat)"
+  },
+  "narrower": [
+    {
+      "id": "https://example-perma-id/geographie_systematik/alabama_usa__staat_id",
+      "prefLabel": {
+        "de": "Alabama (USA - Staat)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/alaska_id",
+      "prefLabel": {
+        "de": "Alaska"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/arizona_id",
+      "prefLabel": {
+        "de": "Arizona"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/cleveland_id",
+      "prefLabel": {
+        "de": "Cleveland"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/colorado_usa__staat_id",
+      "prefLabel": {
+        "de": "Colorado (USA - Staat)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/florida_id",
+      "prefLabel": {
+        "de": "Florida"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/georgia_id",
+      "prefLabel": {
+        "de": "Georgia"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/hawaii_id",
+      "prefLabel": {
+        "de": "Hawaii"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/illinois_usa__staat_id",
+      "prefLabel": {
+        "de": "Illinois (USA - Staat)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/iowa_id",
+      "prefLabel": {
+        "de": "Iowa"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/kalifornien_id",
+      "prefLabel": {
+        "de": "Kalifornien"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/kansas_id",
+      "prefLabel": {
+        "de": "Kansas"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/kentucky_id",
+      "prefLabel": {
+        "de": "Kentucky"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/landeskunde_usa_id",
+      "prefLabel": {
+        "de": "Landeskunde (USA)"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://example-perma-id/geographie_systematik/nordamerika_id",
+    "prefLabel": {
+      "de": "Nordamerika"
+    }
+  },
+  "inScheme": {
+    "id": "https://example-perma-id/geographie_systematik/",
+    "title": {
+      "de": "geographie_systematik"
+    }
+  },
+  "@context": {
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

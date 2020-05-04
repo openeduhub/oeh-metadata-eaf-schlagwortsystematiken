@@ -1,0 +1,352 @@
+{
+  "id": "https://example-perma-id/gesundheit_systematik/krankheit_id",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fgesundheit_systematik%2Fkrankheit_id",
+  "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fgesundheit_systematik%2Fkrankheit_id",
+  "prefLabel": {
+    "de": "Krankheit"
+  },
+  "narrower": [
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/akne_id",
+      "prefLabel": {
+        "de": "Akne"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/arteriosklerose_id",
+      "prefLabel": {
+        "de": "Arteriosklerose"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/autismus_id",
+      "prefLabel": {
+        "de": "Autismus"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/avitaminose_id",
+      "prefLabel": {
+        "de": "Avitaminose"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/binge_eating_id",
+      "prefLabel": {
+        "de": "Binge Eating"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/demenz_id",
+      "prefLabel": {
+        "de": "Demenz"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/deprivation_id",
+      "prefLabel": {
+        "de": "Deprivation"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/diabetes_id",
+      "prefLabel": {
+        "de": "Diabetes"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/dyskalkulie_id",
+      "prefLabel": {
+        "de": "Dyskalkulie"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/erbkrankheit_id",
+      "prefLabel": {
+        "de": "Erbkrankheit"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/fraktur_medizin_id",
+      "prefLabel": {
+        "de": "Fraktur (Medizin)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/fußdeformität_id",
+      "prefLabel": {
+        "de": "Fußdeformität"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/haltungsfehler_id",
+      "prefLabel": {
+        "de": "Haltungsfehler"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/herzinfarkt_id",
+      "prefLabel": {
+        "de": "Herzinfarkt"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/hospitalismus_id",
+      "prefLabel": {
+        "de": "Hospitalismus"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/immunreaktion_id",
+      "prefLabel": {
+        "de": "Immunreaktion"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/infektion_id",
+      "prefLabel": {
+        "de": "Infektion"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/kopfschmerz_id",
+      "prefLabel": {
+        "de": "Kopfschmerz"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/krampfader_id",
+      "prefLabel": {
+        "de": "Krampfader"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/krankheitsbild_id",
+      "prefLabel": {
+        "de": "Krankheitsbild"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/krankheitserreger_id",
+      "prefLabel": {
+        "de": "Krankheitserreger"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/krebs_krankheit_id",
+      "prefLabel": {
+        "de": "Krebs (Krankheit)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/lebensmittelvergiftung_id",
+      "prefLabel": {
+        "de": "Lebensmittelvergiftung"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/leberzirrhose_id",
+      "prefLabel": {
+        "de": "Leberzirrhose"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/legasthenie_id",
+      "prefLabel": {
+        "de": "Legasthenie"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/leukämie_id",
+      "prefLabel": {
+        "de": "Leukämie"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/magersucht_id",
+      "prefLabel": {
+        "de": "Magersucht"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/multiple_sklerose_id",
+      "prefLabel": {
+        "de": "Multiple Sklerose"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/muskelschwäche_id",
+      "prefLabel": {
+        "de": "Muskelschwäche"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/narzissmus_id",
+      "prefLabel": {
+        "de": "Narzissmus"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/psychische_krankheiten_id",
+      "prefLabel": {
+        "de": "Psychische Krankheiten"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/schlaganfall_id",
+      "prefLabel": {
+        "de": "Schlaganfall"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/sehfehler_id",
+      "prefLabel": {
+        "de": "Sehfehler"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/seuche_id",
+      "prefLabel": {
+        "de": "Seuche"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/sterilität_unfruchtbarkeit_id",
+      "prefLabel": {
+        "de": "Sterilität (Unfruchtbarkeit)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/stoffwechselkrankheit_id",
+      "prefLabel": {
+        "de": "Stoffwechselkrankheit"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/strahlenschaden_id",
+      "prefLabel": {
+        "de": "Strahlenschaden"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/tourettesyndrom_id",
+      "prefLabel": {
+        "de": "Tourette-Syndrom"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/unterernährung_id",
+      "prefLabel": {
+        "de": "Unterernährung"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/venenerkrankung_id",
+      "prefLabel": {
+        "de": "Venenerkrankung"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/verbrennung_medizin_id",
+      "prefLabel": {
+        "de": "Verbrennung (Medizin)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/wunde_id",
+      "prefLabel": {
+        "de": "Wunde"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/zahnpflege_id",
+      "prefLabel": {
+        "de": "Zahnpflege"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/zivilisationskrankheit_id",
+      "prefLabel": {
+        "de": "Zivilisationskrankheit"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/übergewicht_id",
+      "prefLabel": {
+        "de": "Übergewicht"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://example-perma-id/gesundheit_systematik/medizin_heilkunde_id",
+    "prefLabel": {
+      "de": "Medizin (Heilkunde)"
+    }
+  },
+  "inScheme": {
+    "id": "https://example-perma-id/gesundheit_systematik/",
+    "title": {
+      "de": "gesundheit_systematik"
+    }
+  },
+  "@context": {
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

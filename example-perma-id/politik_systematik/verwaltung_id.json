@@ -1,0 +1,100 @@
+{
+  "id": "https://example-perma-id/politik_systematik/verwaltung_id",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fpolitik_systematik%2Fverwaltung_id",
+  "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fpolitik_systematik%2Fverwaltung_id",
+  "prefLabel": {
+    "de": "Verwaltung"
+  },
+  "narrower": [
+    {
+      "id": "https://example-perma-id/politik_systematik/kreis_verwaltungsbezirk_id",
+      "prefLabel": {
+        "de": "Kreis (Verwaltungsbezirk)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/politik_systematik/landtag_id",
+      "prefLabel": {
+        "de": "Landtag"
+      }
+    },
+    {
+      "id": "https://example-perma-id/politik_systematik/selbstverwaltung_id",
+      "prefLabel": {
+        "de": "Selbstverwaltung"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://example-perma-id/politik_systematik/politik_id",
+    "prefLabel": {
+      "de": "Politik"
+    }
+  },
+  "inScheme": {
+    "id": "https://example-perma-id/politik_systematik/",
+    "title": {
+      "de": "politik_systematik"
+    }
+  },
+  "@context": {
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

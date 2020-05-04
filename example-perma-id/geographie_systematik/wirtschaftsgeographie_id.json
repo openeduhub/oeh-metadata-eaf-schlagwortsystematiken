@@ -1,0 +1,178 @@
+{
+  "id": "https://example-perma-id/geographie_systematik/wirtschaftsgeographie_id",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fgeographie_systematik%2Fwirtschaftsgeographie_id",
+  "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fgeographie_systematik%2Fwirtschaftsgeographie_id",
+  "prefLabel": {
+    "de": "Wirtschaftsgeographie)"
+  },
+  "narrower": [
+    {
+      "id": "https://example-perma-id/geographie_systematik/einzugsbereich_id",
+      "prefLabel": {
+        "de": "Einzugsbereich"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/großgrundbesitzer_id",
+      "prefLabel": {
+        "de": "Großgrundbesitzer"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/handelsweg_id",
+      "prefLabel": {
+        "de": "Handelsweg"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/industrie_id",
+      "prefLabel": {
+        "de": "Industrie"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/kraftwerk_id",
+      "prefLabel": {
+        "de": "Kraftwerk"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/raumordnung_geographie_id",
+      "prefLabel": {
+        "de": "Raumordnung (Geographie)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/regionalentwicklung_id",
+      "prefLabel": {
+        "de": "Regionalentwicklung"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/rohstoff_id",
+      "prefLabel": {
+        "de": "Rohstoff"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/selbstversorgungswirtschaft_id",
+      "prefLabel": {
+        "de": "Selbstversorgungswirtschaft"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/strukturwandel_id",
+      "prefLabel": {
+        "de": "Strukturwandel"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/transportgut_id",
+      "prefLabel": {
+        "de": "Transportgut"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/umschlagplatz_id",
+      "prefLabel": {
+        "de": "Umschlagplatz"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/versorgung_grunddaseinsfunktion_id",
+      "prefLabel": {
+        "de": "Versorgung (Grunddaseinsfunktion)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/welternährung_id",
+      "prefLabel": {
+        "de": "Welternährung"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/wirtschaftliche_entwicklung__id",
+      "prefLabel": {
+        "de": "Wirtschaftliche Entwicklung "
+      }
+    },
+    {
+      "id": "https://example-perma-id/geographie_systematik/wirtschaftsstruktur_id",
+      "prefLabel": {
+        "de": "Wirtschaftsstruktur"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://example-perma-id/geographie_systematik/geographie_id",
+    "prefLabel": {
+      "de": "Geographie"
+    }
+  },
+  "inScheme": {
+    "id": "https://example-perma-id/geographie_systematik/",
+    "title": {
+      "de": "geographie_systematik"
+    }
+  },
+  "@context": {
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "id": "https://example-perma-id/physik_systematik/planet_id",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fphysik_systematik%2Fplanet_id",
+  "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fphysik_systematik%2Fplanet_id",
+  "prefLabel": {
+    "de": "Planet"
+  },
+  "narrower": [
+    {
+      "id": "https://example-perma-id/physik_systematik/erde_id",
+      "prefLabel": {
+        "de": "Erde"
+      }
+    },
+    {
+      "id": "https://example-perma-id/physik_systematik/jupiter_planat_id",
+      "prefLabel": {
+        "de": "Jupiter (Planat)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/physik_systematik/mars_planet_id",
+      "prefLabel": {
+        "de": "Mars (Planet)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/physik_systematik/merkur_planet_id",
+      "prefLabel": {
+        "de": "Merkur (Planet)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/physik_systematik/neptun_planet_id",
+      "prefLabel": {
+        "de": "Neptun (Planet)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/physik_systematik/pluto_planat_id",
+      "prefLabel": {
+        "de": "Pluto (PLanat)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/physik_systematik/saturn_planet_id",
+      "prefLabel": {
+        "de": "Saturn (Planet)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/physik_systematik/uranus_planet_id",
+      "prefLabel": {
+        "de": "Uranus (Planet)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/physik_systematik/venus_planet_id",
+      "prefLabel": {
+        "de": "Venus (Planet)"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://example-perma-id/physik_systematik/weltall_id",
+    "prefLabel": {
+      "de": "Weltall"
+    }
+  },
+  "inScheme": {
+    "id": "https://example-perma-id/physik_systematik/",
+    "title": {
+      "de": "physik_systematik"
+    }
+  },
+  "@context": {
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

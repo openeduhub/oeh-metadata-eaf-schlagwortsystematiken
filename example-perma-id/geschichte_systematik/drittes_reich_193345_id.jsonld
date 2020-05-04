@@ -1,0 +1,181 @@
+{
+  "id": "https://example-perma-id/geschichte_systematik/drittes_reich_193345_id",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fgeschichte_systematik%2Fdrittes_reich_193345_id",
+  "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fgeschichte_systematik%2Fdrittes_reich_193345_id",
+  "prefLabel": {
+    "de": "Drittes Reich (1933-45)"
+  },
+  "narrower": [
+    {
+      "id": "https://example-perma-id/geschichte_systematik/berlin_193345_id",
+      "prefLabel": {
+        "de": "Berlin (193345)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/ermächtigungsgesetz_id",
+      "prefLabel": {
+        "de": "Ermächtigungsgesetz"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/hitlerjugend_id",
+      "prefLabel": {
+        "de": "Hitlerjugend"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/judenverfolgung_id",
+      "prefLabel": {
+        "de": "Judenverfolgung"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/konzentrationslager_id",
+      "prefLabel": {
+        "de": "Konzentrationslager"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/machtergreifung_id",
+      "prefLabel": {
+        "de": "Machtergreifung"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/nationalsozialismus_id",
+      "prefLabel": {
+        "de": "Nationalsozialismus"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/nationalsozialistische_rassenhygiene_id",
+      "prefLabel": {
+        "de": "Nationalsozialistische Rassenhygiene"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/reichskristallnacht_id",
+      "prefLabel": {
+        "de": "Reichskristallnacht"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/reichstagsbrand_id",
+      "prefLabel": {
+        "de": "Reichstagsbrand"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/saarabstimmung_1935_id",
+      "prefLabel": {
+        "de": "Saarabstimmung 1935"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/sudetenland_id",
+      "prefLabel": {
+        "de": "Sudetenland"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/todesmarsch_id",
+      "prefLabel": {
+        "de": "Todesmarsch"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/volksgerichtshof_id",
+      "prefLabel": {
+        "de": "Volksgerichtshof"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/wehrmacht_id",
+      "prefLabel": {
+        "de": "Wehrmacht"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/widerstand_gegen_hitler_id",
+      "prefLabel": {
+        "de": "Widerstand gegen Hitler"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/zweiter_weltkrieg_id",
+      "prefLabel": {
+        "de": "Zweiter Weltkrieg"
+      }
+    }
+  ],
+  "inScheme": {
+    "id": "https://example-perma-id/geschichte_systematik/",
+    "title": {
+      "de": "geschichte_systematik"
+    }
+  },
+  "topConceptOf": {
+    "id": "https://example-perma-id/geschichte_systematik/"
+  },
+  "@context": {
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

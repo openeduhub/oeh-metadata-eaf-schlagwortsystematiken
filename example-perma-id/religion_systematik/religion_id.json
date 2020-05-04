@@ -1,0 +1,445 @@
+{
+  "id": "https://example-perma-id/religion_systematik/religion_id",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Freligion_systematik%2Freligion_id",
+  "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Freligion_systematik%2Freligion_id",
+  "prefLabel": {
+    "de": "Religion"
+  },
+  "narrower": [
+    {
+      "id": "https://example-perma-id/religion_systematik/altar_id",
+      "prefLabel": {
+        "de": "Altar"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/atheismus_id",
+      "prefLabel": {
+        "de": "Atheismus"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/beschneidung_genitalien_id",
+      "prefLabel": {
+        "de": "Beschneidung (Genitalien)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/christliche_lebensgestaltung_id",
+      "prefLabel": {
+        "de": "Christliche Lebensgestaltung"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/christlicher_fundamentalismus_id",
+      "prefLabel": {
+        "de": "Christlicher Fundamentalismus"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/erntedankfest_id",
+      "prefLabel": {
+        "de": "Erntedankfest"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/ersatzreligion_id",
+      "prefLabel": {
+        "de": "Ersatzreligion"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/fastenzeit_id",
+      "prefLabel": {
+        "de": "Fastenzeit"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/frömmigkeit_id",
+      "prefLabel": {
+        "de": "Frömmigkeit"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/gebet_id",
+      "prefLabel": {
+        "de": "Gebet"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/glaube_id",
+      "prefLabel": {
+        "de": "Glaube"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/gott_id",
+      "prefLabel": {
+        "de": "Gott"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/gottesdienst_id",
+      "prefLabel": {
+        "de": "Gottesdienst"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/heiligenlegende_id",
+      "prefLabel": {
+        "de": "Heiligenlegende"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/hölle_id",
+      "prefLabel": {
+        "de": "Hölle"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/intelligent_design_id",
+      "prefLabel": {
+        "de": "Intelligent Design"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/interreligiöser_dialog_id",
+      "prefLabel": {
+        "de": "Interreligiöser Dialog"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/islamisierung_id",
+      "prefLabel": {
+        "de": "Islamisierung"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/jenseits_id",
+      "prefLabel": {
+        "de": "Jenseits"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/jesus_people_id",
+      "prefLabel": {
+        "de": "Jesus People"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/judenmission_id",
+      "prefLabel": {
+        "de": "Judenmission"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/kirchengemeinde_id",
+      "prefLabel": {
+        "de": "Kirchengemeinde"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/kirchenjahr_id",
+      "prefLabel": {
+        "de": "Kirchenjahr"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/klerus_id",
+      "prefLabel": {
+        "de": "Klerus"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/kollekte_id",
+      "prefLabel": {
+        "de": "Kollekte"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/konfuzianismus_id",
+      "prefLabel": {
+        "de": "Konfuzianismus"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/kreationismus_id",
+      "prefLabel": {
+        "de": "Kreationismus"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/kreuz_id",
+      "prefLabel": {
+        "de": "Kreuz"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/krippe_weihnachten_id",
+      "prefLabel": {
+        "de": "Krippe (Weihnachten)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/kult_id",
+      "prefLabel": {
+        "de": "Kult"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/meditation_id",
+      "prefLabel": {
+        "de": "Meditation"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/mysterienspiel_id",
+      "prefLabel": {
+        "de": "Mysterienspiel"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/mystik_id",
+      "prefLabel": {
+        "de": "Mystik"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/nachfolge_jesus_christus_id",
+      "prefLabel": {
+        "de": "Nachfolge Jesus Christus"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/new_age_id",
+      "prefLabel": {
+        "de": "New Age"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/okkultismus_id",
+      "prefLabel": {
+        "de": "Okkultismus"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/pagode_id",
+      "prefLabel": {
+        "de": "Pagode"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/paradies_id",
+      "prefLabel": {
+        "de": "Paradies"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/pastoralreferent_id",
+      "prefLabel": {
+        "de": "Pastoralreferent"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/pfarrer_id",
+      "prefLabel": {
+        "de": "Pfarrer"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/religionsgemeinschaft_id",
+      "prefLabel": {
+        "de": "Religionsgemeinschaft"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/religiöse_tradition_id",
+      "prefLabel": {
+        "de": "Religiöse Tradition"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/sakrament_id",
+      "prefLabel": {
+        "de": "Sakrament"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/segen_id",
+      "prefLabel": {
+        "de": "Segen"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/sekte_id",
+      "prefLabel": {
+        "de": "Sekte"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/shintoismus_id",
+      "prefLabel": {
+        "de": "Shintoismus"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/spiritualität_id",
+      "prefLabel": {
+        "de": "Spiritualität"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/stammesreligion_id",
+      "prefLabel": {
+        "de": "Stammesreligion"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/säkularisierung_id",
+      "prefLabel": {
+        "de": "Säkularisierung"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/sünde_id",
+      "prefLabel": {
+        "de": "Sünde"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/taizé_id",
+      "prefLabel": {
+        "de": "Taizé"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/tempel_id",
+      "prefLabel": {
+        "de": "Tempel"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/umbanda_id",
+      "prefLabel": {
+        "de": "Umbanda"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/vergebung_id",
+      "prefLabel": {
+        "de": "Vergebung"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/waldenser_id",
+      "prefLabel": {
+        "de": "Waldenser"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/wallfahrt_id",
+      "prefLabel": {
+        "de": "Wallfahrt"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/weihe_religion_id",
+      "prefLabel": {
+        "de": "Weihe (Religion)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/weihnachtsmann_id",
+      "prefLabel": {
+        "de": "Weihnachtsmann"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/weltreligion_id",
+      "prefLabel": {
+        "de": "Weltreligion"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/wiedergeburt_id",
+      "prefLabel": {
+        "de": "Wiedergeburt"
+      }
+    },
+    {
+      "id": "https://example-perma-id/religion_systematik/wunder_id",
+      "prefLabel": {
+        "de": "Wunder"
+      }
+    }
+  ],
+  "inScheme": {
+    "id": "https://example-perma-id/religion_systematik/",
+    "title": {
+      "de": "religion_systematik"
+    }
+  },
+  "topConceptOf": {
+    "id": "https://example-perma-id/religion_systematik/"
+  },
+  "@context": {
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

@@ -1,0 +1,613 @@
+{
+  "id": "https://example-perma-id/gesundheit_systematik/medizin_heilkunde_id",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fgesundheit_systematik%2Fmedizin_heilkunde_id",
+  "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fgesundheit_systematik%2Fmedizin_heilkunde_id",
+  "prefLabel": {
+    "de": "Medizin (Heilkunde)"
+  },
+  "narrower": [
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/abtreibung_id",
+      "prefLabel": {
+        "de": "Abtreibung"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/alternativmedizin_id",
+      "prefLabel": {
+        "de": "Alternativmedizin"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/arztbesuch_id",
+      "prefLabel": {
+        "de": "Arztbesuch"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/autogenes_training_id",
+      "prefLabel": {
+        "de": "Autogenes Training"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/banting__frederick_id",
+      "prefLabel": {
+        "de": "Banting, Frederick"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/bauer__karl_heinrich_id",
+      "prefLabel": {
+        "de": "Bauer, Karl Heinrich"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/behinderung_id",
+      "prefLabel": {
+        "de": "Behinderung"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/best__charles_id",
+      "prefLabel": {
+        "de": "Best, Charles"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/biomedizin_id",
+      "prefLabel": {
+        "de": "Biomedizin"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/bionik_id",
+      "prefLabel": {
+        "de": "Bionik"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/blutzucker_id",
+      "prefLabel": {
+        "de": "Blutzucker"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/brunschig__hieronymus_id",
+      "prefLabel": {
+        "de": "Brunschig, Hieronymus"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/carus__carl_gustav_id",
+      "prefLabel": {
+        "de": "Carus, Carl Gustav"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/chemotherapie_id",
+      "prefLabel": {
+        "de": "Chemotherapie"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/cholesterin_id",
+      "prefLabel": {
+        "de": "Cholesterin"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/computertomographie_id",
+      "prefLabel": {
+        "de": "Computertomographie"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/defibrillator_id",
+      "prefLabel": {
+        "de": "Defibrillator"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/dialyse_id",
+      "prefLabel": {
+        "de": "Dialyse"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/eccles__john_id",
+      "prefLabel": {
+        "de": "Eccles, John"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/ehrlich__paul_id",
+      "prefLabel": {
+        "de": "Ehrlich, Paul"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/einthoven__willem_id",
+      "prefLabel": {
+        "de": "Einthoven, Willem"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/ergometrie_id",
+      "prefLabel": {
+        "de": "Ergometrie"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/fehlgeburt_id",
+      "prefLabel": {
+        "de": "Fehlgeburt"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/fieber_id",
+      "prefLabel": {
+        "de": "Fieber"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/freud__sigmund_id",
+      "prefLabel": {
+        "de": "Freud, Sigmund"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/frühgeburt_id",
+      "prefLabel": {
+        "de": "Frühgeburt"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/geburt_id",
+      "prefLabel": {
+        "de": "Geburt"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/geriatrie_id",
+      "prefLabel": {
+        "de": "Geriatrie"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/gesundheit_id",
+      "prefLabel": {
+        "de": "Gesundheit"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/gesundheitserziehung_id",
+      "prefLabel": {
+        "de": "Gesundheitserziehung"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/gipsverband_id",
+      "prefLabel": {
+        "de": "Gipsverband"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/grof__stanislav_id",
+      "prefLabel": {
+        "de": "Grof, Stanislav"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/impfung_id",
+      "prefLabel": {
+        "de": "Impfung"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/implantat_id",
+      "prefLabel": {
+        "de": "Implantat"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/injektion_medizin_id",
+      "prefLabel": {
+        "de": "Injektion (Medizin)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/jenner__edward_id",
+      "prefLabel": {
+        "de": "Jenner, Edward"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/kandel__eric_richard_id",
+      "prefLabel": {
+        "de": "Kandel, Eric Richard"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/kindstod_id",
+      "prefLabel": {
+        "de": "Kindstod"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/kneipp__sebastian_id",
+      "prefLabel": {
+        "de": "Kneipp, Sebastian"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/kohut__heinz_id",
+      "prefLabel": {
+        "de": "Kohut, Heinz"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/krankenhaus_id",
+      "prefLabel": {
+        "de": "Krankenhaus"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/krankenpflege_id",
+      "prefLabel": {
+        "de": "Krankenpflege"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/krankheit_id",
+      "prefLabel": {
+        "de": "Krankheit"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/küblerross__elisabeth_id",
+      "prefLabel": {
+        "de": "KüblerRoss, Elisabeth"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/landsteiner__karl_id",
+      "prefLabel": {
+        "de": "Landsteiner, Karl"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/leiden_id",
+      "prefLabel": {
+        "de": "Leiden"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/leistung_physiologie_id",
+      "prefLabel": {
+        "de": "Leistung (Physiologie)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/levitin__daniel_id",
+      "prefLabel": {
+        "de": "Levitin, Daniel"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/lister__joseph_id",
+      "prefLabel": {
+        "de": "Lister, Joseph"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/logopädie_id",
+      "prefLabel": {
+        "de": "Logopädie"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/lückert__heinzrudiolf_id",
+      "prefLabel": {
+        "de": "Lückert, HeinzRudiolf"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/massage_id",
+      "prefLabel": {
+        "de": "Massage"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/mayer__robert_id",
+      "prefLabel": {
+        "de": "Mayer, Robert"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/medizinethik_id",
+      "prefLabel": {
+        "de": "Medizinethik"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/mitscherlich__alexander_id",
+      "prefLabel": {
+        "de": "Mitscherlich, Alexander"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/montesquieu_id",
+      "prefLabel": {
+        "de": "Montesquieu"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/morton__william_id",
+      "prefLabel": {
+        "de": "Morton, William"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/motorik_id",
+      "prefLabel": {
+        "de": "Motorik"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/organspende_id",
+      "prefLabel": {
+        "de": "Organspende"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/paracelsus_id",
+      "prefLabel": {
+        "de": "Paracelsus"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/pawlow__iwan_petrowitsch_id",
+      "prefLabel": {
+        "de": "Pawlow, Iwan Petrowitsch"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/pettenkofer__max_von_id",
+      "prefLabel": {
+        "de": "Pettenkofer, Max von"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/pharmazie_id",
+      "prefLabel": {
+        "de": "Pharmazie"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/psychiatrie_id",
+      "prefLabel": {
+        "de": "Psychiatrie"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/psychoanalyse_id",
+      "prefLabel": {
+        "de": "Psychoanalyse"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/psychologie_id",
+      "prefLabel": {
+        "de": "Psychologie"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/psychosomatik_id",
+      "prefLabel": {
+        "de": "Psychosomatik"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/ramón_y_cajal__santiago_felipe_id",
+      "prefLabel": {
+        "de": "Ramón y Cajal, Santiago Felipe"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/rank__otto_id",
+      "prefLabel": {
+        "de": "Rank, Otto"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/rehabilitation_id",
+      "prefLabel": {
+        "de": "Rehabilitation"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/reich__wilhelm_id",
+      "prefLabel": {
+        "de": "Reich, Wilhelm"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/schlaf_id",
+      "prefLabel": {
+        "de": "Schlaf"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/schmerz_id",
+      "prefLabel": {
+        "de": "Schmerz"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/schweitzer__albert_id",
+      "prefLabel": {
+        "de": "Schweitzer, Albert"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/semmelweis__ignaz_philipp_id",
+      "prefLabel": {
+        "de": "Semmelweis, Ignaz Philipp"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/simpson__james_id",
+      "prefLabel": {
+        "de": "Simpson, James"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/steinmann__fritz_id",
+      "prefLabel": {
+        "de": "Steinmann, Fritz"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/therapie_id",
+      "prefLabel": {
+        "de": "Therapie"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/toxikologie_id",
+      "prefLabel": {
+        "de": "Toxikologie"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/trott_zu_solz__claritta_von_id",
+      "prefLabel": {
+        "de": "Trott zu Solz, Claritta von"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/ultraschalldiagnostik_id",
+      "prefLabel": {
+        "de": "Ultraschalldiagnostik"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/untersuchungsmethode_medizin_id",
+      "prefLabel": {
+        "de": "Untersuchungsmethode (Medizin)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/versorgung_medizin_id",
+      "prefLabel": {
+        "de": "Versorgung (Medizin)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/virchow__rudolf_id",
+      "prefLabel": {
+        "de": "Virchow, Rudolf"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/viren_krankheitserreger_id",
+      "prefLabel": {
+        "de": "Viren (Krankheitserreger)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/vorsorgeuntersuchung_id",
+      "prefLabel": {
+        "de": "Vorsorgeuntersuchung"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/wertheimer__max_id",
+      "prefLabel": {
+        "de": "Wertheimer, Max"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/ylppó__arvo_henrik_id",
+      "prefLabel": {
+        "de": "Ylppó, Arvo Henrik"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/yoga_id",
+      "prefLabel": {
+        "de": "Yoga"
+      }
+    }
+  ],
+  "inScheme": {
+    "id": "https://example-perma-id/gesundheit_systematik/",
+    "title": {
+      "de": "gesundheit_systematik"
+    }
+  },
+  "topConceptOf": {
+    "id": "https://example-perma-id/gesundheit_systematik/"
+  },
+  "@context": {
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "id": "https://example-perma-id/umwelt_systematik/umweltschutz_id",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fumwelt_systematik%2Fumweltschutz_id",
+  "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fumwelt_systematik%2Fumweltschutz_id",
+  "prefLabel": {
+    "de": "Umweltschutz"
+  },
+  "narrower": [
+    {
+      "id": "https://example-perma-id/umwelt_systematik/atomausstieg_id",
+      "prefLabel": {
+        "de": "Atomausstieg"
+      }
+    },
+    {
+      "id": "https://example-perma-id/umwelt_systematik/biokunststoff_id",
+      "prefLabel": {
+        "de": "Biokunststoff"
+      }
+    },
+    {
+      "id": "https://example-perma-id/umwelt_systematik/biotop_id",
+      "prefLabel": {
+        "de": "Biotop"
+      }
+    },
+    {
+      "id": "https://example-perma-id/umwelt_systematik/energieeffizienz_id",
+      "prefLabel": {
+        "de": "Energieeffizienz"
+      }
+    },
+    {
+      "id": "https://example-perma-id/umwelt_systematik/energiesparen_id",
+      "prefLabel": {
+        "de": "Energiesparen"
+      }
+    },
+    {
+      "id": "https://example-perma-id/umwelt_systematik/erneuerbare_energie_id",
+      "prefLabel": {
+        "de": "Erneuerbare Energie"
+      }
+    },
+    {
+      "id": "https://example-perma-id/umwelt_systematik/gewässerschutz_id",
+      "prefLabel": {
+        "de": "Gewässerschutz"
+      }
+    },
+    {
+      "id": "https://example-perma-id/umwelt_systematik/greenpeace_id",
+      "prefLabel": {
+        "de": "Greenpeace"
+      }
+    },
+    {
+      "id": "https://example-perma-id/umwelt_systematik/kompost_id",
+      "prefLabel": {
+        "de": "Kompost"
+      }
+    },
+    {
+      "id": "https://example-perma-id/umwelt_systematik/küstenschutz_id",
+      "prefLabel": {
+        "de": "Küstenschutz"
+      }
+    },
+    {
+      "id": "https://example-perma-id/umwelt_systematik/landschaftspflege_id",
+      "prefLabel": {
+        "de": "Landschaftspflege"
+      }
+    },
+    {
+      "id": "https://example-perma-id/umwelt_systematik/landschaftsschutz_id",
+      "prefLabel": {
+        "de": "Landschaftsschutz"
+      }
+    },
+    {
+      "id": "https://example-perma-id/umwelt_systematik/luftreinhaltung_id",
+      "prefLabel": {
+        "de": "Luftreinhaltung"
+      }
+    },
+    {
+      "id": "https://example-perma-id/umwelt_systematik/lärmschutz_id",
+      "prefLabel": {
+        "de": "Lärmschutz"
+      }
+    },
+    {
+      "id": "https://example-perma-id/umwelt_systematik/nachhaltige_entwicklung_id",
+      "prefLabel": {
+        "de": "Nachhaltige Entwicklung"
+      }
+    },
+    {
+      "id": "https://example-perma-id/umwelt_systematik/umwelttechnologie_id",
+      "prefLabel": {
+        "de": "Umwelttechnologie"
+      }
+    },
+    {
+      "id": "https://example-perma-id/umwelt_systematik/wasserverbrauch_id",
+      "prefLabel": {
+        "de": "Wasserverbrauch"
+      }
+    }
+  ],
+  "inScheme": {
+    "id": "https://example-perma-id/umwelt_systematik/",
+    "title": {
+      "de": "umwelt_systematik"
+    }
+  },
+  "topConceptOf": {
+    "id": "https://example-perma-id/umwelt_systematik/"
+  },
+  "@context": {
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

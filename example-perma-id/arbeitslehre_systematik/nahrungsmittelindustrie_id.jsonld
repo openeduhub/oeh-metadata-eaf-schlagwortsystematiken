@@ -1,0 +1,169 @@
+{
+  "id": "https://example-perma-id/arbeitslehre_systematik/nahrungsmittelindustrie_id",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Farbeitslehre_systematik%2Fnahrungsmittelindustrie_id",
+  "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Farbeitslehre_systematik%2Fnahrungsmittelindustrie_id",
+  "prefLabel": {
+    "de": "Nahrungsmittelindustrie"
+  },
+  "narrower": [
+    {
+      "id": "https://example-perma-id/arbeitslehre_systematik/bäckerei_id",
+      "prefLabel": {
+        "de": "Bäckerei"
+      }
+    },
+    {
+      "id": "https://example-perma-id/arbeitslehre_systematik/dünger_id",
+      "prefLabel": {
+        "de": "Dünger"
+      }
+    },
+    {
+      "id": "https://example-perma-id/arbeitslehre_systematik/gartenbau_id",
+      "prefLabel": {
+        "de": "Gartenbau"
+      }
+    },
+    {
+      "id": "https://example-perma-id/arbeitslehre_systematik/gastronomie_id",
+      "prefLabel": {
+        "de": "Gastronomie"
+      }
+    },
+    {
+      "id": "https://example-perma-id/arbeitslehre_systematik/imkerei_id",
+      "prefLabel": {
+        "de": "Imkerei"
+      }
+    },
+    {
+      "id": "https://example-perma-id/arbeitslehre_systematik/jagd_weidwerk_id",
+      "prefLabel": {
+        "de": "Jagd (Weidwerk)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/arbeitslehre_systematik/landmaschine_id",
+      "prefLabel": {
+        "de": "Landmaschine"
+      }
+    },
+    {
+      "id": "https://example-perma-id/arbeitslehre_systematik/lebensmittelchemie_id",
+      "prefLabel": {
+        "de": "Lebensmittelchemie"
+      }
+    },
+    {
+      "id": "https://example-perma-id/arbeitslehre_systematik/lebensmittelqualität_id",
+      "prefLabel": {
+        "de": "Lebensmittelqualität"
+      }
+    },
+    {
+      "id": "https://example-perma-id/arbeitslehre_systematik/melken_id",
+      "prefLabel": {
+        "de": "Melken"
+      }
+    },
+    {
+      "id": "https://example-perma-id/arbeitslehre_systematik/mühle_zerkleinerungsmaschine_id",
+      "prefLabel": {
+        "de": "Mühle (Zerkleinerungsmaschine)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/arbeitslehre_systematik/schlachthof_id",
+      "prefLabel": {
+        "de": "Schlachthof"
+      }
+    },
+    {
+      "id": "https://example-perma-id/arbeitslehre_systematik/sekt_id",
+      "prefLabel": {
+        "de": "Sekt"
+      }
+    },
+    {
+      "id": "https://example-perma-id/arbeitslehre_systematik/tierhaltung_id",
+      "prefLabel": {
+        "de": "Tierhaltung"
+      }
+    },
+    {
+      "id": "https://example-perma-id/arbeitslehre_systematik/verpackung_id",
+      "prefLabel": {
+        "de": "Verpackung"
+      }
+    }
+  ],
+  "inScheme": {
+    "id": "https://example-perma-id/arbeitslehre_systematik/",
+    "title": {
+      "de": "arbeitslehre_systematik"
+    }
+  },
+  "topConceptOf": {
+    "id": "https://example-perma-id/arbeitslehre_systematik/"
+  },
+  "@context": {
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}
