@@ -2,6 +2,166 @@
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
+<_bader__alfred_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bader, Alfred"@de .
+
+<_baekeland__leo_hendrik_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Baekeland, Leo Hendrik"@de .
+
+<_bosch__carl_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bosch, Carl"@de .
+
+<_butenandt__adolf_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Butenandt, Adolf"@de .
+
+<_böttger__johann_friedrich_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Böttger, Johann Friedrich"@de .
+
+<_curie__marie_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Curie, Marie"@de .
+
+<_dalton__john_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Dalton, John"@de .
+
+<_djerassi__carl_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Djerassi, Carl"@de .
+
+<_feigl__friedrich_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Feigl, Friedrich"@de .
+
+<_fischer__emil_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fischer, Emil"@de .
+
+<_goodyear__charles_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Goodyear, Charles"@de .
+
+<_haber__fritz_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Haber, Fritz"@de .
+
+<_hahn__otto_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hahn, Otto"@de .
+
+<_havemann__robert_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Havemann, Robert"@de .
+
+<_hofmann__fritz_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hofmann, Fritz"@de .
+
+<_klatte__fritz_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Klatte, Fritz"@de .
+
+<_kohn__walter_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kohn, Walter"@de .
+
+<_lavoisier__antoine_laurent_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lavoisier, Antoine Laurent"@de .
+
+<_liebig__justus_von_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Liebig, Justus von"@de .
+
+<_mendelejew__dimitrij_iwanowitsch_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mendelejew, Dimitrij Iwanowitsch"@de .
+
+<_meyer__lothar_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Meyer, Lothar"@de .
+
+<_nobel__alfred_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Nobel, Alfred"@de .
+
+<_ostwald__wilhelm_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ostwald, Wilhelm"@de .
+
+<_pasteur__louis_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pasteur, Louis"@de .
+
+<_pauling__linus_carl_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pauling, Linus Carl"@de .
+
+<_perkin__william_henry_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Perkin, William Henry"@de .
+
+<_pfeiffer__paul_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pfeiffer, Paul"@de .
+
+<_priestley__joseph_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Priestley, Joseph"@de .
+
+<_staudinger__hermann_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Staudinger, Hermann"@de .
+
+<_straßmann__fritz_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Straßmann, Fritz"@de .
+
+<_thomas__sidney_gilchrist_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Thomas, Sidney Gilchrist"@de .
+
+<_wöhler__friedrich_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wöhler, Friedrich"@de .
+
 <alkalimetalle_id> a skos:Concept ;
     skos:broader <leichtmetalle_id> ;
     skos:inScheme <> ;
@@ -12,20 +172,50 @@
     skos:inScheme <> ;
     skos:prefLabel "Aluminium"@de .
 
+<ammoniak_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ammoniak"@de ;
+    skos:topConceptOf <> .
+
 <anorganische_chemie_id> a skos:Concept ;
     skos:broader <chemie_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Anorganische Chemie"@de .
+
+<austenit_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Austenit"@de ;
+    skos:topConceptOf <> .
 
 <base_chemie_id> a skos:Concept ;
     skos:inScheme <> ;
     skos:prefLabel "Base (Chemie)"@de ;
     skos:topConceptOf <> .
 
+<benzin_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Benzin"@de ;
+    skos:topConceptOf <> .
+
+<bier_id> a skos:Concept ;
+    skos:broader <alkohol_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bier"@de .
+
 <calcium_id> a skos:Concept ;
     skos:broader <erdalkalimetalle_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Calcium"@de .
+
+<cellulose_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Cellulose"@de ;
+    skos:topConceptOf <> .
+
+<chemiefaser_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Chemiefaser"@de ;
+    skos:topConceptOf <> .
 
 <chemieforschung_id> a skos:Concept ;
     skos:broader <chemie_id> ;
@@ -62,6 +252,11 @@
     skos:inScheme <> ;
     skos:prefLabel "Chlor"@de .
 
+<damaszenerstahl_id> a skos:Concept ;
+    skos:broader <stahl_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Damaszenerstahl"@de .
+
 <denitrifikation_id> a skos:Concept ;
     skos:broader <stickstoff_id> ;
     skos:inScheme <> ;
@@ -72,10 +267,25 @@
     skos:inScheme <> ;
     skos:prefLabel "Destillation"@de .
 
+<diamant_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Diamant"@de ;
+    skos:topConceptOf <> .
+
+<dioxin_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Dioxin"@de ;
+    skos:topConceptOf <> .
+
 <dipeptid_id> a skos:Concept ;
     skos:broader <chemische_verbindung_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Dipeptid"@de .
+
+<duroplast_id> a skos:Concept ;
+    skos:broader <kunststoff_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Duroplast"@de .
 
 <edelgase_id> a skos:Concept ;
     skos:broader <nichtmetalle_id> ;
@@ -102,10 +312,40 @@
     skos:inScheme <> ;
     skos:prefLabel "Elektrolyt"@de .
 
+<emulsion_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Emulsion"@de ;
+    skos:topConceptOf <> .
+
+<fettsäure_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fettsäure"@de ;
+    skos:topConceptOf <> .
+
+<fluorchlorkohlenwasserstoffe_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fluorchlorkohlenwasserstoffe"@de ;
+    skos:topConceptOf <> .
+
 <funktionelle_gruppe_id> a skos:Concept ;
     skos:broader <chemie_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Funktionelle Gruppe"@de .
+
+<gefahrstoff_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gefahrstoff"@de ;
+    skos:topConceptOf <> .
+
+<gips_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gips"@de ;
+    skos:topConceptOf <> .
+
+<glycerin_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Glycerin"@de ;
+    skos:topConceptOf <> .
 
 <gold_id> a skos:Concept ;
     skos:broader <edelmetalle_id> ;
@@ -122,6 +362,11 @@
     skos:inScheme <> ;
     skos:prefLabel "Halbmetalle"@de .
 
+<heizöl_id> a skos:Concept ;
+    skos:broader <öl_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Heizöl"@de .
+
 <iod_id> a skos:Concept ;
     skos:broader <halogen_id> ;
     skos:inScheme <> ;
@@ -137,15 +382,35 @@
     skos:inScheme <> ;
     skos:prefLabel "Ionenbindung"@de .
 
+<ionisation_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ionisation"@de ;
+    skos:topConceptOf <> .
+
 <isotop_id> a skos:Concept ;
     skos:broader <atomkern_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Isotop"@de .
 
+<kali_salz_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kali (Salz)"@de ;
+    skos:topConceptOf <> .
+
 <katalysator_chemie_id> a skos:Concept ;
     skos:broader <chemische_reaktion_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Katalysator (Chemie)"@de .
+
+<kieselsäure_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kieselsäure"@de ;
+    skos:topConceptOf <> .
+
+<kohlendioxid_id> a skos:Concept ;
+    skos:broader <gas_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kohlendioxid"@de .
 
 <kohlenmonoxid_id> a skos:Concept ;
     skos:broader <nichtmetalle_id> ;
@@ -182,6 +447,26 @@
     skos:inScheme <> ;
     skos:prefLabel "Legierung"@de .
 
+<lösung_chemie_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lösung (Chemie)"@de ;
+    skos:topConceptOf <> .
+
+<methan_id> a skos:Concept ;
+    skos:broader <kohlenwasserstoffe_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Methan"@de .
+
+<naturstoff_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Naturstoff"@de ;
+    skos:topConceptOf <> .
+
+<nitrate_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Nitrate"@de ;
+    skos:topConceptOf <> .
+
 <organische_chemie_id> a skos:Concept ;
     skos:broader <chemie_id> ;
     skos:inScheme <> ;
@@ -192,10 +477,55 @@
     skos:inScheme <> ;
     skos:prefLabel "Oxidation"@de .
 
+<oxide_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Oxide"@de ;
+    skos:topConceptOf <> .
+
+<parfüm_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Parfüm"@de ;
+    skos:topConceptOf <> .
+
+<pet_id> a skos:Concept ;
+    skos:broader <kunststoff_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "PET"@de .
+
 <phasenübergang_id> a skos:Concept ;
     skos:broader <aggregatzustand_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Phasenübergang"@de .
+
+<phosphate_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Phosphate"@de ;
+    skos:topConceptOf <> .
+
+<phwert_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "PH-Wert"@de ;
+    skos:topConceptOf <> .
+
+<polystyrol_id> a skos:Concept ;
+    skos:broader <kunststoff_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Polystyrol"@de .
+
+<pyroplaste_id> a skos:Concept ;
+    skos:broader <kunststoff_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pyroplaste"@de .
+
+<radioaktivität_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Radioaktivität"@de ;
+    skos:topConceptOf <> .
+
+<raffinerie_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Raffinerie"@de ;
+    skos:topConceptOf <> .
 
 <reaktionsgleichung_id> a skos:Concept ;
     skos:broader <chemische_reaktion_id> ;
@@ -207,10 +537,25 @@
     skos:inScheme <> ;
     skos:prefLabel "Salz (chemische Verbindung)"@de .
 
+<salz_natriumchlorid_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Salz (Natriumchlorid)"@de ;
+    skos:topConceptOf <> .
+
 <sauerstoff_id> a skos:Concept ;
     skos:broader <nichtmetalle_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Sauerstoff"@de .
+
+<schwefeldioxid_id> a skos:Concept ;
+    skos:broader <gas_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schwefeldioxid"@de .
+
+<schwefelsäure_id> a skos:Concept ;
+    skos:broader <säuren_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schwefelsäure"@de .
 
 <sequenzanalyse_chemie_id> a skos:Concept ;
     skos:broader <chemische_reaktion_id> ;
@@ -227,6 +572,11 @@
     skos:inScheme <> ;
     skos:prefLabel "Silicium"@de .
 
+<soda_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Soda"@de ;
+    skos:topConceptOf <> .
+
 <spektroskopie_id> a skos:Concept ;
     skos:broader <chemie_id> ;
     skos:inScheme <> ;
@@ -236,6 +586,11 @@
     skos:broader <chemische_verbindung_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Sprengstoff"@de .
+
+<stickstoffsioxid_id> a skos:Concept ;
+    skos:broader <gas_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Stickstoffsioxid"@de .
 
 <titan_id> a skos:Concept ;
     skos:broader <leichtmetalle_id> ;
@@ -251,6 +606,11 @@
     skos:broader <elektron_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Valenzelektron"@de .
+
+<vanderwaalskräfte_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Van-der-Waals-Kräfte"@de ;
+    skos:topConceptOf <> .
 
 <verbrennungsvorgang_id> a skos:Concept ;
     skos:broader <chemische_reaktion_id> ;
@@ -282,6 +642,26 @@
     skos:inScheme <> ;
     skos:prefLabel "Verseifung"@de .
 
+<verzinken_id> a skos:Concept ;
+    skos:broader <stahl_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Verzinken"@de .
+
+<viskosität_id> a skos:Concept ;
+    skos:broader <stoffeigenschaft_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Viskosität"@de .
+
+<vulkanisation_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Vulkanisation"@de ;
+    skos:topConceptOf <> .
+
+<wasserdampf_id> a skos:Concept ;
+    skos:broader <wasser_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wasserdampf"@de .
+
 <wasserstoff_id> a skos:Concept ;
     skos:broader <nichtmetalle_id> ;
     skos:inScheme <> ;
@@ -292,10 +672,25 @@
     skos:inScheme <> ;
     skos:prefLabel "Wasserstoffbrückenbindung"@de .
 
+<weichmacher_id> a skos:Concept ;
+    skos:broader <kunststoff_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Weichmacher"@de .
+
+<wein_id> a skos:Concept ;
+    skos:broader <alkohol_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wein"@de .
+
 <wolfram_id> a skos:Concept ;
     skos:broader <übergangsmetalle_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Wolfram"@de .
+
+<wärmeleitfähigkeit_id> a skos:Concept ;
+    skos:broader <stoffeigenschaft_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wärmeleitfähigkeit"@de .
 
 <zinn_id> a skos:Concept ;
     skos:broader <schwermetalle_id> ;
@@ -343,6 +738,12 @@
     skos:narrower <verseifung_id> ;
     skos:prefLabel "Hydrolyse"@de .
 
+<kohlenwasserstoffe_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <methan_id> ;
+    skos:prefLabel "Kohlenwasserstoffe"@de ;
+    skos:topConceptOf <> .
+
 <molekül_id> a skos:Concept ;
     skos:broader <teilchen_id> ;
     skos:inScheme <> ;
@@ -361,10 +762,28 @@
     skos:narrower <denitrifikation_id> ;
     skos:prefLabel "Stickstoff"@de .
 
+<säuren_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <schwefelsäure_id> ;
+    skos:prefLabel "Säuren"@de ;
+    skos:topConceptOf <> .
+
 <teilchen_id> a skos:Concept ;
     skos:inScheme <> ;
     skos:narrower <molekül_id> ;
     skos:prefLabel "Teilchen"@de ;
+    skos:topConceptOf <> .
+
+<wasser_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <wasserdampf_id> ;
+    skos:prefLabel "Wasser"@de ;
+    skos:topConceptOf <> .
+
+<öl_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <heizöl_id> ;
+    skos:prefLabel "Öl"@de ;
     skos:topConceptOf <> .
 
 <übergangsmetalle_id> a skos:Concept ;
@@ -372,6 +791,13 @@
     skos:inScheme <> ;
     skos:narrower <wolfram_id> ;
     skos:prefLabel "Übergangsmetalle)"@de .
+
+<alkohol_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <bier_id>,
+        <wein_id> ;
+    skos:prefLabel "Alkohol"@de ;
+    skos:topConceptOf <> .
 
 <atom_id> a skos:Concept ;
     skos:broader <molekül_id> ;
@@ -386,6 +812,28 @@
     skos:narrower <gold_id>,
         <silber_id> ;
     skos:prefLabel "Edelmetalle"@de .
+
+<stahl_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <damaszenerstahl_id>,
+        <verzinken_id> ;
+    skos:prefLabel "Stahl"@de ;
+    skos:topConceptOf <> .
+
+<stoffeigenschaft_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <viskosität_id>,
+        <wärmeleitfähigkeit_id> ;
+    skos:prefLabel "Stoffeigenschaft"@de ;
+    skos:topConceptOf <> .
+
+<gas_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <kohlendioxid_id>,
+        <schwefeldioxid_id>,
+        <stickstoffsioxid_id> ;
+    skos:prefLabel "Gas"@de ;
+    skos:topConceptOf <> .
 
 <halogen_id> a skos:Concept ;
     skos:broader <nichtmetalle_id> ;
@@ -429,6 +877,16 @@
         <uran_id>,
         <zinn_id> ;
     skos:prefLabel "Schwermetalle"@de .
+
+<kunststoff_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <duroplast_id>,
+        <pet_id>,
+        <polystyrol_id>,
+        <pyroplaste_id>,
+        <weichmacher_id> ;
+    skos:prefLabel "Kunststoff"@de ;
+    skos:topConceptOf <> .
 
 <chemische_verbindung_id> a skos:Concept ;
     skos:broader <chemie_id> ;
@@ -494,14 +952,90 @@
         <veresterung_id> ;
     skos:prefLabel "Chemische Reaktion"@de .
 
+<personen_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <_bader__alfred_id>,
+        <_baekeland__leo_hendrik_id>,
+        <_bosch__carl_id>,
+        <_butenandt__adolf_id>,
+        <_böttger__johann_friedrich_id>,
+        <_curie__marie_id>,
+        <_dalton__john_id>,
+        <_djerassi__carl_id>,
+        <_feigl__friedrich_id>,
+        <_fischer__emil_id>,
+        <_goodyear__charles_id>,
+        <_haber__fritz_id>,
+        <_hahn__otto_id>,
+        <_havemann__robert_id>,
+        <_hofmann__fritz_id>,
+        <_klatte__fritz_id>,
+        <_kohn__walter_id>,
+        <_lavoisier__antoine_laurent_id>,
+        <_liebig__justus_von_id>,
+        <_mendelejew__dimitrij_iwanowitsch_id>,
+        <_meyer__lothar_id>,
+        <_nobel__alfred_id>,
+        <_ostwald__wilhelm_id>,
+        <_pasteur__louis_id>,
+        <_pauling__linus_carl_id>,
+        <_perkin__william_henry_id>,
+        <_pfeiffer__paul_id>,
+        <_priestley__joseph_id>,
+        <_staudinger__hermann_id>,
+        <_straßmann__fritz_id>,
+        <_thomas__sidney_gilchrist_id>,
+        <_wöhler__friedrich_id> ;
+    skos:prefLabel "Personen"@de ;
+    skos:topConceptOf <> .
+
 <> a skos:ConceptScheme ;
     dct:creator "<https://creator.com>" ;
     dct:description "chemie_systematik"@de ;
     dct:title "chemie_systematik"@de ;
-    skos:hasTopConcept <base_chemie_id>,
+    skos:hasTopConcept <alkohol_id>,
+        <ammoniak_id>,
+        <austenit_id>,
+        <base_chemie_id>,
+        <benzin_id>,
+        <cellulose_id>,
         <chemie_id>,
+        <chemiefaser_id>,
         <chemische_elemente_id>,
+        <diamant_id>,
+        <dioxin_id>,
+        <emulsion_id>,
+        <fettsäure_id>,
+        <fluorchlorkohlenwasserstoffe_id>,
+        <gas_id>,
+        <gefahrstoff_id>,
+        <gips_id>,
+        <glycerin_id>,
+        <ionisation_id>,
+        <kali_salz_id>,
+        <kieselsäure_id>,
+        <kohlenwasserstoffe_id>,
+        <kunststoff_id>,
+        <lösung_chemie_id>,
+        <naturstoff_id>,
+        <nitrate_id>,
+        <oxide_id>,
+        <parfüm_id>,
         <periodensystem_der_elemente_id>,
+        <personen_id>,
+        <phosphate_id>,
+        <phwert_id>,
+        <radioaktivität_id>,
+        <raffinerie_id>,
+        <salz_natriumchlorid_id>,
+        <soda_id>,
+        <stahl_id>,
+        <stoffeigenschaft_id>,
+        <säuren_id>,
         <teilchen_id>,
-        <ätzende_stoffe_id> .
+        <vanderwaalskräfte_id>,
+        <vulkanisation_id>,
+        <wasser_id>,
+        <ätzende_stoffe_id>,
+        <öl_id> .
 

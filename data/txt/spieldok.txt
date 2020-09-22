@@ -1,4 +1,4 @@
-S P I E L -  U N D  D O K U M E N T A R F I L M			
+S P I E L -  U N D  D O K U M E N T A R F I L M
 
 Dokumentarfilm
 -Bergfilm
@@ -14,7 +14,7 @@ Jugendfilm
 Kinderfilm
 Werbefilm
 
-(Spielfilm)
+Spielfilm
 -Abenteuerfilm (für Erwachsene)
 -Abenteuerfilm (für Jugendliche)
 -Abenteuerfilm (für Kinder)
@@ -67,70 +67,71 @@ Rolle (Theater)
 Slapstick
 Szene (Theater)
 
-Albers, Hans
-Allen, Woody
-Arbuckle, Fatty
-Barrault, Jean-Louis
-Belmonde, Jean-Paul
-Bergman, Ingrid
-Bogart, Humphrey
-Burton, Richard
-Busch, Ernst
-Chaplin, Charlie
-Connery, Sean
-Cooper, Gary
-Costner, Kevin
-Courteline, Georges
-Dean, James
-Deutsch, Ernst
-Dietrich, Marlene
-Erhardt, Heinz
-Finck, Werner
-Funès, Louis de
-Giehse, Therese
-George, Heinrich
-Görner, Lutz
-Gottschlak, Joachim
-Gründgens, Gustaf
-Guiness, Alec
-Hanks, Tom
-Hardy, Oliver
-Hepburn, Katharine
-Hoffman, Dustin
-Hörbiger, Paul
-Jannings, Emil
-Karstadt, Liesl
-Keaton, Buster
-Kelly, Grace
-Krauß, Werner
-Laughton, Charles
-Laurel, Stan
-Lewis, Jerry
-Lloyd, Harold
-Manger, Jürgen von
-Meysel, Inge
-Monroe, Marilyn
-Montand, Yves
-Neuss, Wolfgang
-Penn, Sean
-Pfeiffer, Michelle
-Polt, Gerhard
-Quadflieg, Will
-Raimund, Ferdinand
-Reichert, Willy
-Rühmann, Heinz
-Schall, Ekkehard
-Schneider, Romy
-Schröder, Ernst
-Streisand, Barbra
-Tati, Jacques
-Taylor, Elisabeth
-Thate, Hilmar
-Trenker, Luis
-Valentin, Karl
-Waldoff, Claire
-Weigel, Helene
-Welles, Orson
+Schauspieler
+-Albers, Hans
+-Allen, Woody
+-Arbuckle, Fatty
+-Barrault, Jean-Louis
+-Belmonde, Jean-Paul
+-Bergman, Ingrid
+-Bogart, Humphrey
+-Burton, Richard
+-Busch, Ernst
+-Chaplin, Charlie
+-Connery, Sean
+-Cooper, Gary
+-Costner, Kevin
+-Courteline, Georges
+-Dean, James
+-Deutsch, Ernst
+-Dietrich, Marlene
+-Erhardt, Heinz
+-Finck, Werner
+-Funès, Louis de
+-Giehse, Therese
+-George, Heinrich
+-Görner, Lutz
+-Gottschlak, Joachim
+-Gründgens, Gustaf
+-Guiness, Alec
+-Hanks, Tom
+-Hardy, Oliver
+-Hepburn, Katharine
+-Hoffman, Dustin
+-Hörbiger, Paul
+-Jannings, Emil
+-Karstadt, Liesl
+-Keaton, Buster
+-Kelly, Grace
+-Krauß, Werner
+-Laughton, Charles
+-Laurel, Stan
+-Lewis, Jerry
+-Lloyd, Harold
+-Manger, Jürgen von
+-Meysel, Inge
+-Monroe, Marilyn
+-Montand, Yves
+-Neuss, Wolfgang
+-Penn, Sean
+-Pfeiffer, Michelle
+-Polt, Gerhard
+-Quadflieg, Will
+-Raimund, Ferdinand
+-Reichert, Willy
+-Rühmann, Heinz
+-Schall, Ekkehard
+-Schneider, Romy
+-Schröder, Ernst
+-Streisand, Barbra
+-Tati, Jacques
+-Taylor, Elisabeth
+-Thate, Hilmar
+-Trenker, Luis
+-Valentin, Karl
+-Waldoff, Claire
+-Weigel, Helene
+-Welles, Orson
 
 Regie
 -Almodóvar, Pedro

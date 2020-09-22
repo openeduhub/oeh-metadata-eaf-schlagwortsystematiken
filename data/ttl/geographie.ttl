@@ -2,6 +2,106 @@
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
+<_barth__heinrich_id> a skos:Concept ;
+    skos:broader <physische_geographie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Barth, Heinrich"@de .
+
+<_claudius_ptolemäus_id> a skos:Concept ;
+    skos:broader <physische_geographie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Claudius Ptolemäus"@de .
+
+<_cook__james_id> a skos:Concept ;
+    skos:broader <physische_geographie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Cook, James"@de .
+
+<_cordier__pierre_id> a skos:Concept ;
+    skos:broader <physische_geographie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Cordier, Pierre"@de .
+
+<_galilei__galileo_id> a skos:Concept ;
+    skos:broader <physische_geographie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Galilei, Galileo"@de .
+
+<_hansen__fridtjof_id> a skos:Concept ;
+    skos:broader <physische_geographie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hansen, Fridtjof"@de .
+
+<_humbolt__alexander_von_id> a skos:Concept ;
+    skos:broader <physische_geographie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Humbolt, Alexander von"@de .
+
+<_kolumbus__christoph_id> a skos:Concept ;
+    skos:broader <physische_geographie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kolumbus, Christoph"@de .
+
+<_kopernikus__nikolaus_id> a skos:Concept ;
+    skos:broader <physische_geographie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kopernikus, Nikolaus"@de .
+
+<_livingstone__david_id> a skos:Concept ;
+    skos:broader <physische_geographie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Livingstone, David"@de .
+
+<_magellan__fernao_de_id> a skos:Concept ;
+    skos:broader <physische_geographie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Magellan, Fernao de"@de .
+
+<_marco_polo_id> a skos:Concept ;
+    skos:broader <physische_geographie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Marco Polo"@de .
+
+<_personen_id> a skos:Concept ;
+    skos:broader <physische_geographie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Personen"@de .
+
+<_pizarro__francisco_id> a skos:Concept ;
+    skos:broader <physische_geographie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pizarro, Francisco"@de .
+
+<_richter__charles_id> a skos:Concept ;
+    skos:broader <physische_geographie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Richter, Charles"@de .
+
+<_smith__john_id> a skos:Concept ;
+    skos:broader <physische_geographie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Smith, John"@de .
+
+<_teisserence_de_bort__léonphillippe_id> a skos:Concept ;
+    skos:broader <physische_geographie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Teisserence de Bort, Léon-Phillippe"@de .
+
+<_vasco_da_gama_id> a skos:Concept ;
+    skos:broader <physische_geographie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Vasco da Gama"@de .
+
+<_vespucci__amerigo_id> a skos:Concept ;
+    skos:broader <physische_geographie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Vespucci, Amerigo"@de .
+
+<_wegener__alfred_id> a skos:Concept ;
+    skos:broader <physische_geographie_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wegener, Alfred"@de .
+
 <aachen_id> a skos:Concept ;
     skos:broader <nordrheinwestfalen_id> ;
     skos:inScheme <> ;
@@ -316,11 +416,6 @@
     skos:broader <brandenburg_land_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Barnim (Kreis)"@de .
-
-<barth__heinrich_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Barth, Heinrich"@de ;
-    skos:topConceptOf <> .
 
 <basel_id> a skos:Concept ;
     skos:broader <schweiz_id> ;
@@ -722,11 +817,6 @@
     skos:inScheme <> ;
     skos:prefLabel "City"@de .
 
-<claudius_ptolemäus_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Claudius Ptolemäus"@de ;
-    skos:topConceptOf <> .
-
 <cluny_id> a skos:Concept ;
     skos:broader <burgund_id> ;
     skos:inScheme <> ;
@@ -756,16 +846,6 @@
     skos:broader <schwäbisch_hall_kreis_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Comburg"@de .
-
-<cook__james_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Cook, James"@de ;
-    skos:topConceptOf <> .
-
-<cordier__pierre_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Cordier, Pierre"@de ;
-    skos:topConceptOf <> .
 
 <cordoba_id> a skos:Concept ;
     skos:broader <andalusien_id> ;
@@ -1287,11 +1367,6 @@
     skos:inScheme <> ;
     skos:prefLabel "Galeriewald"@de .
 
-<galilei__galileo_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Galilei, Galileo"@de ;
-    skos:topConceptOf <> .
-
 <galápagosinseln_id> a skos:Concept ;
     skos:broader <ecuador_id> ;
     skos:inScheme <> ;
@@ -1522,11 +1597,6 @@
     skos:inScheme <> ;
     skos:prefLabel "Hannover"@de .
 
-<hansen__fridtjof_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Hansen, Fridtjof"@de ;
-    skos:topConceptOf <> .
-
 <harz_gebirge_id> a skos:Concept ;
     skos:broader <mittelgebirge_id> ;
     skos:inScheme <> ;
@@ -1652,15 +1722,15 @@
     skos:inScheme <> ;
     skos:prefLabel "Hoyerswerda"@de .
 
-<humbolt__alexander_von_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Humbolt, Alexander von"@de ;
-    skos:topConceptOf <> .
-
 <härtsfeld_id> a skos:Concept ;
     skos:broader <schwäbische_alb_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Härtsfeld"@de .
+
+<hüfingen_id> a skos:Concept ;
+    skos:broader <schwarzwaldbaarkreis_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hüfingen"@de .
 
 <ijsselmeer_id> a skos:Concept ;
     skos:broader <see_binnengewässer_id> ;
@@ -2042,11 +2112,6 @@
     skos:inScheme <> ;
     skos:prefLabel "Kolumbien"@de .
 
-<kolumbus__christoph_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kolumbus, Christoph"@de ;
-    skos:topConceptOf <> .
-
 <kongo_demokratische_republik_id> a skos:Concept ;
     skos:broader <zentralafrika_id> ;
     skos:inScheme <> ;
@@ -2071,11 +2136,6 @@
     skos:broader <klimazone_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Kontinentalklima"@de .
-
-<kopernikus__nikolaus_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kopernikus, Nikolaus"@de ;
-    skos:topConceptOf <> .
 
 <korbach_id> a skos:Concept ;
     skos:broader <hessen_id> ;
@@ -2452,11 +2512,6 @@
     skos:inScheme <> ;
     skos:prefLabel "Liverpool"@de .
 
-<livingstone__david_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Livingstone, David"@de ;
-    skos:topConceptOf <> .
-
 <loire_fluss_id> a skos:Concept ;
     skos:broader <fluss_id> ;
     skos:inScheme <> ;
@@ -2582,11 +2637,6 @@
     skos:inScheme <> ;
     skos:prefLabel "Magdeburg"@de .
 
-<magellan__fernao_de_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Magellan, Fernao de"@de ;
-    skos:topConceptOf <> .
-
 <mailand_id> a skos:Concept ;
     skos:broader <lombardei_id> ;
     skos:inScheme <> ;
@@ -2666,11 +2716,6 @@
     skos:broader <hessen_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Marburg"@de .
-
-<marco_polo_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Marco Polo"@de ;
-    skos:topConceptOf <> .
 
 <marienburg_id> a skos:Concept ;
     skos:broader <polen_id> ;
@@ -2891,6 +2936,11 @@
     skos:broader <glazialmorphologie_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Moräne"@de .
+
+<mosambik_id> a skos:Concept ;
+    skos:broader <südafrika_erdteil_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mosambik"@de .
 
 <mosel_id> a skos:Concept ;
     skos:broader <fluss_id> ;
@@ -3402,11 +3452,6 @@
     skos:inScheme <> ;
     skos:prefLabel "Pirna"@de .
 
-<pizarro__francisco_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Pizarro, Francisco"@de ;
-    skos:topConceptOf <> .
-
 <plantage_id> a skos:Concept ;
     skos:broader <landwirtschaftsstruktur_id> ;
     skos:inScheme <> ;
@@ -3682,11 +3727,6 @@
     skos:inScheme <> ;
     skos:prefLabel "Rhön-Grabfeld (Kreis)"@de .
 
-<richter__charles_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Richter, Charles"@de ;
-    skos:topConceptOf <> .
-
 <ries_id> a skos:Concept ;
     skos:broader <schwäbische_alb_id> ;
     skos:inScheme <> ;
@@ -3893,7 +3933,7 @@
     skos:prefLabel "Sand"@de .
 
 <sankt_georgen_id> a skos:Concept ;
-    skos:broader <hüfingen_id> ;
+    skos:broader <schwarzwaldbaarkreis_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Sankt Georgen"@de .
 
@@ -4151,11 +4191,6 @@
     skos:broader <südeuropa_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Slowenien"@de .
-
-<smith__john_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Smith, John"@de ;
-    skos:topConceptOf <> .
 
 <soest_id> a skos:Concept ;
     skos:broader <westfalen_id> ;
@@ -4431,11 +4466,6 @@
     skos:broader <alpen_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Tauern"@de .
-
-<teisserence_de_bort__léonphillippe_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Teisserence de Bort, Léon-Phillippe"@de ;
-    skos:topConceptOf <> .
 
 <terrassenkultur_id> a skos:Concept ;
     skos:broader <landwirtschaftsstruktur_id> ;
@@ -4722,11 +4752,6 @@
     skos:inScheme <> ;
     skos:prefLabel "Varanasi"@de .
 
-<vasco_da_gama_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Vasco da Gama"@de ;
-    skos:topConceptOf <> .
-
 <venedig_id> a skos:Concept ;
     skos:broader <italien_id> ;
     skos:inScheme <> ;
@@ -4786,11 +4811,6 @@
     skos:broader <geologie_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Verwitterung"@de .
-
-<vespucci__amerigo_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Vespucci, Amerigo"@de ;
-    skos:topConceptOf <> .
 
 <vesuv_id> a skos:Concept ;
     skos:broader <vulkan_id> ;
@@ -4976,11 +4996,6 @@
     skos:broader <physische_geographie_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Wegbeschreibung"@de .
-
-<wegener__alfred_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Wegener, Alfred"@de ;
-    skos:topConceptOf <> .
 
 <weichsel_id> a skos:Concept ;
     skos:broader <fluss_id> ;
@@ -5685,12 +5700,6 @@
     skos:narrower <aachhöhle_id> ;
     skos:prefLabel "Höhle"@de .
 
-<hüfingen_id> a skos:Concept ;
-    skos:broader <schwarzwaldbaarkreis_id> ;
-    skos:inScheme <> ;
-    skos:narrower <sankt_georgen_id> ;
-    skos:prefLabel "Hüfingen"@de .
-
 <illinois_usa__staat_id> a skos:Concept ;
     skos:broader <usa_staat_id> ;
     skos:inScheme <> ;
@@ -5900,12 +5909,6 @@
     skos:inScheme <> ;
     skos:narrower <hochmoor_id> ;
     skos:prefLabel "Moor"@de .
-
-<mosambik_id> a skos:Concept ;
-    skos:broader <südafrika_erdteil_id> ;
-    skos:inScheme <> ;
-    skos:narrower <_id> ;
-    skos:prefLabel "Mosambik"@de .
 
 <moskau_id> a skos:Concept ;
     skos:broader <russland_föderation_id> ;
@@ -6720,20 +6723,19 @@
         <bahamas_id> ;
     skos:prefLabel "Westindien"@de .
 
+<windsystem_id> a skos:Concept ;
+    skos:broader <wetter_id> ;
+    skos:inScheme <> ;
+    skos:narrower <westwindzone_id>,
+        <wind_id> ;
+    skos:prefLabel "Windsystem"@de .
+
 <wüste_id> a skos:Concept ;
     skos:broader <landschaftstyp/form_id> ;
     skos:inScheme <> ;
     skos:narrower <negev_id>,
         <sahara_id> ;
     skos:prefLabel "Wüste"@de .
-
-<_id> a skos:Concept ;
-    skos:broader <landwirtschaft_id>,
-        <mosambik_id>,
-        <windsystem_id>,
-        <zentralafrika_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel ""@de .
 
 <alpen_id> a skos:Concept ;
     skos:broader <hochgebirge_id> ;
@@ -6887,14 +6889,6 @@
         <salzgewinnung_id> ;
     skos:prefLabel "Rohstoffabbau"@de .
 
-<schwarzwaldbaarkreis_id> a skos:Concept ;
-    skos:broader <baden_landesteil_id> ;
-    skos:inScheme <> ;
-    skos:narrower <donaueschingen_id>,
-        <hüfingen_id>,
-        <villingenschwenningen_id> ;
-    skos:prefLabel "Schwarzwald-Baar-Kreis"@de .
-
 <sibirien_id> a skos:Concept ;
     skos:broader <russland_föderation_id> ;
     skos:inScheme <> ;
@@ -6958,14 +6952,6 @@
         <frankreich_id>,
         <niederlande_id> ;
     skos:prefLabel "Westeuropa"@de .
-
-<windsystem_id> a skos:Concept ;
-    skos:broader <wetter_id> ;
-    skos:inScheme <> ;
-    skos:narrower <_id>,
-        <westwindzone_id>,
-        <wind_id> ;
-    skos:prefLabel "Windsystem"@de .
 
 <ägypten_id> a skos:Concept ;
     skos:broader <nordafrika_id> ;
@@ -7091,6 +7077,15 @@
         <regenwald_asien_id>,
         <regenwald_australien_id> ;
     skos:prefLabel "Regenwald"@de .
+
+<schwarzwaldbaarkreis_id> a skos:Concept ;
+    skos:broader <baden_landesteil_id> ;
+    skos:inScheme <> ;
+    skos:narrower <donaueschingen_id>,
+        <hüfingen_id>,
+        <sankt_georgen_id>,
+        <villingenschwenningen_id> ;
+    skos:prefLabel "Schwarzwald-Baar-Kreis"@de .
 
 <schwäbische_alb_id> a skos:Concept ;
     skos:broader <jura_gebirge_id> ;
@@ -7307,6 +7302,16 @@
         <zyklon_id> ;
     skos:prefLabel "Wind"@de .
 
+<zentralafrika_id> a skos:Concept ;
+    skos:broader <afrika_id> ;
+    skos:inScheme <> ;
+    skos:narrower <kamerun_id>,
+        <kongo_demokratische_republik_id>,
+        <niger_saat_id>,
+        <republik_zentralafrika_id>,
+        <tschad_id> ;
+    skos:prefLabel "Zentralafrika"@de .
+
 <zentralasien_id> a skos:Concept ;
     skos:broader <asien_id> ;
     skos:inScheme <> ;
@@ -7470,17 +7475,6 @@
         <wettervorhersage_id>,
         <wolke_id> ;
     skos:prefLabel "Wetterkunde"@de .
-
-<zentralafrika_id> a skos:Concept ;
-    skos:broader <afrika_id> ;
-    skos:inScheme <> ;
-    skos:narrower <_id>,
-        <kamerun_id>,
-        <kongo_demokratische_republik_id>,
-        <niger_saat_id>,
-        <republik_zentralafrika_id>,
-        <tschad_id> ;
-    skos:prefLabel "Zentralafrika"@de .
 
 <bevölkerungswanderung_id> a skos:Concept ;
     skos:broader <weltbevölkerung_id> ;
@@ -7717,19 +7711,6 @@
         <tirschenreuth_kreis_id>,
         <weiden_in_der_oberpfalz_kreis_id> ;
     skos:prefLabel "Oberpfalz (Regierungsbezirk)"@de .
-
-<physische_geographie_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <expedition_id>,
-        <geologie_id>,
-        <geomorphologie_id>,
-        <gewässerkunde_id>,
-        <klimageographie_id>,
-        <naturkatastrophe_id>,
-        <vermessungskunde_id>,
-        <wegbeschreibung_id> ;
-    skos:prefLabel "Physische Geographie)"@de ;
-    skos:topConceptOf <> .
 
 <polen_id> a skos:Concept ;
     skos:broader <osteuropa_id> ;
@@ -8227,6 +8208,27 @@
         <landeskunde_usa_id> ;
     skos:prefLabel "USA (Staat)"@de .
 
+<landwirtschaft_id> a skos:Concept ;
+    skos:broader <agrargeographie_id> ;
+    skos:inScheme <> ;
+    skos:narrower <agrarproduktion_id>,
+        <agroforstwirtschaft_id>,
+        <almwirtschaft_id>,
+        <ernte_id>,
+        <fischwirtschaft_id>,
+        <forstwirtschaft_id>,
+        <grüne_revolution_id>,
+        <grünlandwirtschaft_id>,
+        <industrielle_landwirtschaft_id>,
+        <landwirtschaftliche_entwicklung__id>,
+        <landwirtschaftsstruktur_id>,
+        <pflanzenbau_id>,
+        <saat_id>,
+        <sozialbrache_id>,
+        <viehwirtschaft_id>,
+        <ökologische_landwirtschaft_id> ;
+    skos:prefLabel "Landwirtschaft"@de .
+
 <wirtschaftsgeographie_id> a skos:Concept ;
     skos:broader <geographie_id> ;
     skos:inScheme <> ;
@@ -8269,28 +8271,6 @@
         <venedig_id>,
         <verona_id> ;
     skos:prefLabel "Italien"@de .
-
-<landwirtschaft_id> a skos:Concept ;
-    skos:broader <agrargeographie_id> ;
-    skos:inScheme <> ;
-    skos:narrower <_id>,
-        <agrarproduktion_id>,
-        <agroforstwirtschaft_id>,
-        <almwirtschaft_id>,
-        <ernte_id>,
-        <fischwirtschaft_id>,
-        <forstwirtschaft_id>,
-        <grüne_revolution_id>,
-        <grünlandwirtschaft_id>,
-        <industrielle_landwirtschaft_id>,
-        <landwirtschaftliche_entwicklung__id>,
-        <landwirtschaftsstruktur_id>,
-        <pflanzenbau_id>,
-        <saat_id>,
-        <sozialbrache_id>,
-        <viehwirtschaft_id>,
-        <ökologische_landwirtschaft_id> ;
-    skos:prefLabel "Landwirtschaft"@de .
 
 <mittelgebirge_id> a skos:Concept ;
     skos:broader <gebirge_id> ;
@@ -8505,6 +8485,39 @@
         <zollernalbkreis_id> ;
     skos:prefLabel "Württemberg"@de .
 
+<physische_geographie_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <_barth__heinrich_id>,
+        <_claudius_ptolemäus_id>,
+        <_cook__james_id>,
+        <_cordier__pierre_id>,
+        <_galilei__galileo_id>,
+        <_hansen__fridtjof_id>,
+        <_humbolt__alexander_von_id>,
+        <_kolumbus__christoph_id>,
+        <_kopernikus__nikolaus_id>,
+        <_livingstone__david_id>,
+        <_magellan__fernao_de_id>,
+        <_marco_polo_id>,
+        <_personen_id>,
+        <_pizarro__francisco_id>,
+        <_richter__charles_id>,
+        <_smith__john_id>,
+        <_teisserence_de_bort__léonphillippe_id>,
+        <_vasco_da_gama_id>,
+        <_vespucci__amerigo_id>,
+        <_wegener__alfred_id>,
+        <expedition_id>,
+        <geologie_id>,
+        <geomorphologie_id>,
+        <gewässerkunde_id>,
+        <klimageographie_id>,
+        <naturkatastrophe_id>,
+        <vermessungskunde_id>,
+        <wegbeschreibung_id> ;
+    skos:prefLabel "Physische Geographie)"@de ;
+    skos:topConceptOf <> .
+
 <sachsen_freistaat_id> a skos:Concept ;
     skos:broader <bundesrepublik_deutschland_nach_3.10.90_id> ;
     skos:inScheme <> ;
@@ -8627,29 +8640,10 @@
         <amerika_id>,
         <asien_id>,
         <australien_kontinent_id>,
-        <barth__heinrich_id>,
-        <claudius_ptolemäus_id>,
-        <cook__james_id>,
-        <cordier__pierre_id>,
         <europa_id>,
-        <galilei__galileo_id>,
         <geographie_id>,
-        <hansen__fridtjof_id>,
-        <humbolt__alexander_von_id>,
-        <kolumbus__christoph_id>,
-        <kopernikus__nikolaus_id>,
-        <livingstone__david_id>,
-        <magellan__fernao_de_id>,
-        <marco_polo_id>,
         <ozeanien_id>,
         <physische_geographie_id>,
-        <pizarro__francisco_id>,
         <polargebiete_id>,
-        <richter__charles_id>,
-        <schwarzwalduhr_id>,
-        <smith__john_id>,
-        <teisserence_de_bort__léonphillippe_id>,
-        <vasco_da_gama_id>,
-        <vespucci__amerigo_id>,
-        <wegener__alfred_id> .
+        <schwarzwalduhr_id> .
 

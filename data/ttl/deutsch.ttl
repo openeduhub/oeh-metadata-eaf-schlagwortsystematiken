@@ -2,15 +2,20 @@
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
+<_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "-"@de .
+
 <abenteuerhörspiel_für_jugendliche_id> a skos:Concept ;
     skos:broader <hörspiel_für_jugendliche_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Abenteuerhörspiel (für Jugendliche)"@de .
 
 <achternbusch__herbert_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Achternbusch, Herbert"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Achternbusch, Herbert"@de .
 
 <adjektiv_deutsch_id> a skos:Concept ;
     skos:broader <grammatik_id> ;
@@ -18,9 +23,9 @@
     skos:prefLabel "Adjektiv (Deutsch)"@de .
 
 <adler__walter_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Adler, Walter"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Adler, Walter"@de .
 
 <adverb_deutsch_id> a skos:Concept ;
     skos:broader <grammatik_id> ;
@@ -28,29 +33,29 @@
     skos:prefLabel "Adverb (Deutsch)"@de .
 
 <aichinger__ilse_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Aichinger, Ilse"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Aichinger, Ilse"@de .
 
 <aischylos_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Aischylos"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Aischylos"@de .
 
 <alafenisch__salim_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Alafenisch, Salim"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Alafenisch, Salim"@de .
 
 <alexis__willibald_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Alexis, Willibald"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Alexis, Willibald"@de .
 
 <allmers_hermann_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Allmers,Hermann"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Allmers,Hermann"@de .
 
 <alphabet_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -58,9 +63,9 @@
     skos:topConceptOf <> .
 
 <althaus__peter_paul_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Althaus, Peter Paul"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Althaus, Peter Paul"@de .
 
 <althochdeutsch_id> a skos:Concept ;
     skos:broader <deutsch_id> ;
@@ -68,39 +73,39 @@
     skos:prefLabel "Althochdeutsch"@de .
 
 <amery__carl_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Amery, Carl"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Amery, Carl"@de .
 
 <andersch__alfred_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Andersch, Alfred"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Andersch, Alfred"@de .
 
 <andersen__hans_christian_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Andersen, Hans Christian"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Andersen, Hans Christian"@de .
 
 <andres__stefan_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Andres, Stefan"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Andres, Stefan"@de .
 
 <arnim__achim_von_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Arnim, Achim von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Arnim, Achim von"@de .
 
 <arnim__bettina_von_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Arnim, Bettina von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Arnim, Bettina von"@de .
 
 <artmann__hans_carl_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Artmann, Hans Carl"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Artmann, Hans Carl"@de .
 
 <aufsatz_deutsch_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -108,14 +113,14 @@
     skos:topConceptOf <> .
 
 <augstein__rudolf_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Augstein, Rudolf"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Augstein, Rudolf"@de .
 
 <ausländer__rose_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Ausländer, Rose"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Ausländer, Rose"@de .
 
 <autobiografie_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -133,84 +138,84 @@
     skos:topConceptOf <> .
 
 <avenarius__ferdinand_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Avenarius, Ferdinand"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Avenarius, Ferdinand"@de .
 
 <bachmann__ingeborg_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Bachmann, Ingeborg"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Bachmann, Ingeborg"@de .
 
 <ball__hugo_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Ball, Hugo"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Ball, Hugo"@de .
 
 <bamm__peter_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Bamm, Peter"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Bamm, Peter"@de .
 
 <barthel__max_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Barthel, Max"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Barthel, Max"@de .
 
 <becher__johannes_robert_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Becher, Johannes Robert"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Becher, Johannes Robert"@de .
 
 <becker__jurek_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Becker, Jurek"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Becker, Jurek"@de .
 
 <becker__jürgen_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Becker, Jürgen"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Becker, Jürgen"@de .
 
 <benn__gottfried_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Benn, Gottfried"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Benn, Gottfried"@de .
 
 <bergengruen__werner_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Bergengruen, Werner"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Bergengruen, Werner"@de .
 
 <bergmann__alfred_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Bergmann, Alfred"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Bergmann, Alfred"@de .
 
 <berlinger__josef_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Berlinger, Josef"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Berlinger, Josef"@de .
 
 <bichsel__peter_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Bichsel, Peter"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Bichsel, Peter"@de .
 
 <bienek__horst_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Bienek, Horst"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Bienek, Horst"@de .
 
 <bierbaum__otto_julius_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Bierbaum, Otto Julius"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Bierbaum, Otto Julius"@de .
 
 <biermann__wolf_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Biermann, Wolf"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Biermann, Wolf"@de .
 
 <biografie_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -218,129 +223,129 @@
     skos:topConceptOf <> .
 
 <blau__sebastian_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Blau, Sebastian"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Blau, Sebastian"@de .
 
 <bobrowski__johannes_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Bobrowski, Johannes"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Bobrowski, Johannes"@de .
 
 <bolliger__max_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Bolliger, Max"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Bolliger, Max"@de .
 
 <borchert__wolfgang_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Borchert, Wolfgang"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Borchert, Wolfgang"@de .
 
 <brecht__bertolt_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Brecht, Bertolt"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Brecht, Bertolt"@de .
 
 <brentano__clemens__id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Brentano, Clemens "@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Brentano, Clemens "@de .
 
 <britting__georg_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Britting, Georg"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Britting, Georg"@de .
 
 <broch__hermann_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Broch, Hermann"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Broch, Hermann"@de .
 
 <brockes__barthold_heinrich_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Brockes, Barthold Heinrich"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Brockes, Barthold Heinrich"@de .
 
 <brussig__thomas_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Brussig, Thomas"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Brussig, Thomas"@de .
 
 <bruyn__günter_de_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Bruyn, Günter de"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Bruyn, Günter de"@de .
 
 <brückner__christine_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Brückner, Christine"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Brückner, Christine"@de .
 
 <busch__wilhelm_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Busch, Wilhelm"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Busch, Wilhelm"@de .
 
 <bäuerle__roland_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Bäuerle, Roland"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Bäuerle, Roland"@de .
 
 <bäuml__ludwig_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Bäuml, Ludwig"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Bäuml, Ludwig"@de .
 
 <böhme__jakob_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Böhme, Jakob"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Böhme, Jakob"@de .
 
 <böll__heinrich_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Böll, Heinrich"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Böll, Heinrich"@de .
 
 <büchner__georg_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Büchner, Georg"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Büchner, Georg"@de .
 
 <bürger__gottfried_august_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Bürger, Gottfried August"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Bürger, Gottfried August"@de .
 
 <carossa__hans_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Carossa, Hans"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Carossa, Hans"@de .
 
 <caspar__hans_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Caspar, Hans"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Caspar, Hans"@de .
 
 <celan__paul_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Celan, Paul"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Celan, Paul"@de .
 
 <ceram__c.w._id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Ceram, C.W."@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Ceram, C.W."@de .
 
 <chamisso__adelbert_von_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Chamisso, Adelbert von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Chamisso, Adelbert von"@de .
 
 <claudius__matthias_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Claudius, Matthias"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Claudius, Matthias"@de .
 
 <comic_id> a skos:Concept ;
     skos:broader <literatur_id> ;
@@ -348,44 +353,44 @@
     skos:prefLabel "Comic"@de .
 
 <cube__walter_von_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Cube, Walter von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Cube, Walter von"@de .
 
 <dahn__daniela_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Dahn, Daniela"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Dahn, Daniela"@de .
 
 <dauthendey__max_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Dauthendey, Max"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Dauthendey, Max"@de .
 
 <degenhardt__franz_josef_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Degenhardt, Franz Josef"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Degenhardt, Franz Josef"@de .
 
 <degenhardt__jürgen_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Degenhardt, Jürgen"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Degenhardt, Jürgen"@de .
 
 <dehmel__richard_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Dehmel, Richard"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Dehmel, Richard"@de .
 
 <delius__friedrich_christian_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Delius, Friedrich Christian"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Delius, Friedrich Christian"@de .
 
 <deutschkron__inge_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Deutschkron, Inge"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Deutschkron, Inge"@de .
 
 <dialektik_id> a skos:Concept ;
     skos:broader <gespräch_id> ;
@@ -397,15 +402,10 @@
     skos:inScheme <> ;
     skos:prefLabel "Dialog"@de .
 
-<dichter__schriftsteller__etc._id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Dichter, Schriftsteller, etc.)"@de ;
-    skos:topConceptOf <> .
-
 <dorn__anne_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Dorn, Anne"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Dorn, Anne"@de .
 
 <dramaturgie_id> a skos:Concept ;
     skos:broader <drama_literatur_id> ;
@@ -413,69 +413,69 @@
     skos:prefLabel "Dramaturgie"@de .
 
 <drewitz__ingeborg_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Drewitz, Ingeborg"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Drewitz, Ingeborg"@de .
 
 <drostehülshoff__annette_von_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Droste-Hülshoff, Annette von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "DrosteHülshoff, Annette von"@de .
 
 <duden__konrad_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Duden, Konrad"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Duden, Konrad"@de .
 
 <durian__wolf_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Durian, Wolf"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Durian, Wolf"@de .
 
 <däniken__erich_von_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Däniken, Erich von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Däniken, Erich von"@de .
 
 <döblin__alfred_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Döblin, Alfred"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Döblin, Alfred"@de .
 
 <dürrenmatt__friedrich_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Dürrenmatt, Friedrich"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Dürrenmatt, Friedrich"@de .
 
 <ebnereschenbach__marie_von_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Ebner-Eschenbach, Marie von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "EbnerEschenbach, Marie von"@de .
 
 <eich__günter_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Eich, Günter"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Eich, Günter"@de .
 
 <eichendorff__joseph_von_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Eichendorff, Joseph von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Eichendorff, Joseph von"@de .
 
 <ende__michael_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Ende, Michael"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Ende, Michael"@de .
 
 <endrikat__fred_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Endrikat, Fred"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Endrikat, Fred"@de .
 
 <enzensberger__hans_magnus_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Enzensberger, Hans Magnus"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Enzensberger, Hans Magnus"@de .
 
 <epos_id> a skos:Concept ;
     skos:broader <epik_id> ;
@@ -483,9 +483,9 @@
     skos:prefLabel "Epos"@de .
 
 <ernst__paul_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Ernst, Paul"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Ernst, Paul"@de .
 
 <fabel_id> a skos:Concept ;
     skos:broader <epik_id> ;
@@ -493,14 +493,14 @@
     skos:prefLabel "Fabel"@de .
 
 <fallada__hans_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Fallada, Hans"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Fallada, Hans"@de .
 
 <fassbinder__rainer_werner_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Fassbinder, Rainer Werner"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Fassbinder, Rainer Werner"@de .
 
 <faust_literatur_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -508,24 +508,24 @@
     skos:topConceptOf <> .
 
 <feuchtwanger__lion_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Feuchtwanger, Lion"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Feuchtwanger, Lion"@de .
 
 <fichte__hubert_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Fichte, Hubert"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Fichte, Hubert"@de .
 
 <flemming__paul_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Flemming, Paul"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Flemming, Paul"@de .
 
 <fontane__theodor_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Fontane, Theodor"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Fontane, Theodor"@de .
 
 <fragesatz_id> a skos:Concept ;
     skos:broader <grammatik_id> ;
@@ -533,49 +533,49 @@
     skos:prefLabel "Fragesatz"@de .
 
 <freiligrath__ferdinand_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Freiligrath, Ferdinand"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Freiligrath, Ferdinand"@de .
 
 <freytag__gustav_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Freytag, Gustav"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Freytag, Gustav"@de .
 
 <fried__erich_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Fried, Erich"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Fried, Erich"@de .
 
 <friedländer__salomon_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Friedländer, Salomon"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Friedländer, Salomon"@de .
 
 <fries__fritz_rudolf_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Fries, Fritz Rudolf"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Fries, Fritz Rudolf"@de .
 
 <frisch__max_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Frisch, Max"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Frisch, Max"@de .
 
 <fuchs__günter_bruno_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Fuchs, Günter Bruno"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Fuchs, Günter Bruno"@de .
 
 <fährmann__willi_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Fährmann, Willi"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Fährmann, Willi"@de .
 
 <fühmann__franz_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Fühmann, Franz"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Fühmann, Franz"@de .
 
 <gedicht_id> a skos:Concept ;
     skos:broader <lyrik_id> ;
@@ -583,24 +583,24 @@
     skos:prefLabel "Gedicht"@de .
 
 <geibel__emanuel_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Geibel, Emanuel"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Geibel, Emanuel"@de .
 
 <gellert__christian_fürchtegott_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Gellert, Christian Fürchtegott"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Gellert, Christian Fürchtegott"@de .
 
 <georg__stefan_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Georg, Stefan"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Georg, Stefan"@de .
 
 <gerhardt__paul_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Gerhardt, Paul"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Gerhardt, Paul"@de .
 
 <gestik_id> a skos:Concept ;
     skos:broader <sprache_id> ;
@@ -608,84 +608,84 @@
     skos:prefLabel "Gestik"@de .
 
 <glaßbrenner__adolf_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Glaßbrenner, Adolf"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Glaßbrenner, Adolf"@de .
 
 <gleim__johann_wilhelm_ludwig_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Gleim, Johann Wilhelm Ludwig"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Gleim, Johann Wilhelm Ludwig"@de .
 
 <goes__albrecht_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Goes, Albrecht"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Goes, Albrecht"@de .
 
 <goethe__johann_wolfgang_von_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Goethe, Johann Wolfgang von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Goethe, Johann Wolfgang von"@de .
 
 <goetz__curt_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Goetz, Curt"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Goetz, Curt"@de .
 
 <gotthelf__jeremias_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Gotthelf, Jeremias"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Gotthelf, Jeremias"@de .
 
 <grabbe__christian_dietrich_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Grabbe, Christian Dietrich"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Grabbe, Christian Dietrich"@de .
 
 <graf__oskar_maria_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Graf, Oskar Maria"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Graf, Oskar Maria"@de .
 
 <grashoff__fritz_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Grashoff, Fritz"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Grashoff, Fritz"@de .
 
 <grass__günter_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Grass, Günter"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Grass, Günter"@de .
 
 <greif__martin_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Greif, Martin"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Greif, Martin"@de .
 
 <gressmann__uwe_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Gressmann, Uwe"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Gressmann, Uwe"@de .
 
 <grillparzer__franz_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Grillparzer, Franz"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Grillparzer, Franz"@de .
 
 <grimm_gebrüder_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Grimm (Gebrüder)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Grimm (Gebrüder)"@de .
 
 <grimmelshausen__johann_jacob_christoph_von_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Grimmelshausen, Johann Jacob Christoph von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Grimmelshausen, Johann Jacob Christoph von"@de .
 
 <grozh__klaus_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Grozh, Klaus"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Grozh, Klaus"@de .
 
 <gruppe_siebenundvierzig_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -693,244 +693,244 @@
     skos:topConceptOf <> .
 
 <gryphius__andreas_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Gryphius, Andreas"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Gryphius, Andreas"@de .
 
 <grün__anastasius_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Grün, Anastasius"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Grün, Anastasius"@de .
 
 <grün__max_von_der_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Grün, Max von der"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Grün, Max von der"@de .
 
 <hacks__peter_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hacks, Peter"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hacks, Peter"@de .
 
 <haffner__sebastian_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Haffner, Sebastian"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Haffner, Sebastian"@de .
 
 <hagedorn__friedrich_von_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hagedorn, Friedrich von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hagedorn, Friedrich von"@de .
 
 <hagelstange__rudolf_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hagelstange, Rudolf"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hagelstange, Rudolf"@de .
 
 <hahn__ulla_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hahn, Ulla"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hahn, Ulla"@de .
 
 <handke__peter_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Handke, Peter"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Handke, Peter"@de .
 
 <hansjakob__heinrich_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hansjakob, Heinrich"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hansjakob, Heinrich"@de .
 
 <hartmann_von_aue_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hartmann von Aue"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hartmann von Aue"@de .
 
 <hartung__hugo_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hartung, Hugo"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hartung, Hugo"@de .
 
 <hasenclever__walter_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hasenclever, Walter"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hasenclever, Walter"@de .
 
 <hauff__wilhelm_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hauff, Wilhelm"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hauff, Wilhelm"@de .
 
 <hauptmann__gerhart_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hauptmann, Gerhart"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hauptmann, Gerhart"@de .
 
 <hausmann__manfred_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hausmann, Manfred"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hausmann, Manfred"@de .
 
 <hebbel__friedrich_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hebbel, Friedrich"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hebbel, Friedrich"@de .
 
 <hebel__johann_peter_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hebel, Johann Peter"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hebel, Johann Peter"@de .
 
 <heidenreich__elke_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Heidenreich, Elke"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Heidenreich, Elke"@de .
 
 <heiduczek__werner_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Heiduczek, Werner"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Heiduczek, Werner"@de .
 
 <hein__christoph_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hein, Christoph"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hein, Christoph"@de .
 
 <heine__heinrich_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Heine, Heinrich"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Heine, Heinrich"@de .
 
 <heine__helme_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Heine, Helme"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Heine, Helme"@de .
 
 <heißenbüttel__helmut_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Heißenbüttel, Helmut"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Heißenbüttel, Helmut"@de .
 
 <herder__johann_gottfried_von_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Herder, Johann Gottfried von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Herder, Johann Gottfried von"@de .
 
 <hermlin__stephan_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hermlin, Stephan"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hermlin, Stephan"@de .
 
 <herrmannneisse__max_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Herrmann-Neisse, Max"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "HerrmannNeisse, Max"@de .
 
 <herzl__theodor_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Herzl, Theodor"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Herzl, Theodor"@de .
 
 <hesse__hermann_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hesse, Hermann"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hesse, Hermann"@de .
 
 <heym__georg_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Heym, Georg"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Heym, Georg"@de .
 
 <heym__stefan_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Heym, Stefan"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Heym, Stefan"@de .
 
 <hildebrandt__dieter_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hildebrandt, Dieter"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hildebrandt, Dieter"@de .
 
 <hildesheimer__wolfgang_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hildesheimer, Wolfgang"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hildesheimer, Wolfgang"@de .
 
 <hirschberg__dieter_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hirschberg, Dieter"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hirschberg, Dieter"@de .
 
 <hochhuth__rolf_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hochhuth, Rolf"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hochhuth, Rolf"@de .
 
 <hoerschelmann__fred_von_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hoerschelmann, Fred von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hoerschelmann, Fred von"@de .
 
 <hoffmann__ernst_theodor_amadeus_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hoffmann, Ernst Theodor Amadeus"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hoffmann, Ernst Theodor Amadeus"@de .
 
 <hoffmann_von_fallersleben_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hoffmann von Fallersleben"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hoffmann von Fallersleben"@de .
 
 <hofmannsthal__hugo_von_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hofmannsthal, Hugo von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hofmannsthal, Hugo von"@de .
 
 <holz__arno_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Holz, Arno"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Holz, Arno"@de .
 
 <horn__sabine_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Horn, Sabine"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Horn, Sabine"@de .
 
 <horvath__ödön_von_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Horvath, Ödön von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Horvath, Ödön von"@de .
 
 <huchel__peter_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Huchel, Peter"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Huchel, Peter"@de .
 
 <humboldt__wilhelm_von_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Humboldt, Wilhelm von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Humboldt, Wilhelm von"@de .
 
 <härtling__peter_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Härtling, Peter"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Härtling, Peter"@de .
 
 <hölderlin__friedrich_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hölderlin, Friedrich"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hölderlin, Friedrich"@de .
 
 <höllerer__walter_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Höllerer, Walter"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Höllerer, Walter"@de .
 
 <hölty__ludwig_heinrich_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hölty, Ludwig Heinrich"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hölty, Ludwig Heinrich"@de .
 
 <hörspiel_für_erwachsene_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -938,9 +938,9 @@
     skos:topConceptOf <> .
 
 <hüsch__hanns_dieter_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hüsch, Hanns Dieter"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hüsch, Hanns Dieter"@de .
 
 <idiom_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -963,49 +963,49 @@
     skos:prefLabel "Interview"@de .
 
 <jandl__ernst_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Jandl, Ernst"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Jandl, Ernst"@de .
 
 <janisch__heinz_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Janisch, Heinz"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Janisch, Heinz"@de .
 
 <janosch_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Janosch"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Janosch"@de .
 
 <jelinek__elfriede_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Jelinek, Elfriede"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Jelinek, Elfriede"@de .
 
 <jens__walter_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Jens, Walter"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Jens, Walter"@de .
 
 <jesenska__milena_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Jesenska, Milena"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Jesenska, Milena"@de .
 
 <johnson__uwe_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Johnson, Uwe"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Johnson, Uwe"@de .
 
 <jone__hildegard_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Jone, Hildegard"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Jone, Hildegard"@de .
 
 <joos__louis_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Joos, Louis"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Joos, Louis"@de .
 
 <junges_deutschland_literatur_id> a skos:Concept ;
     skos:broader <literaturepochen_id> ;
@@ -1013,9 +1013,9 @@
     skos:prefLabel "Junges Deutschland (Literatur)"@de .
 
 <jünger__ernst_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Jünger, Ernst"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Jünger, Ernst"@de .
 
 <kabarett_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -1023,69 +1023,69 @@
     skos:topConceptOf <> .
 
 <kafka__franz_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Kafka, Franz"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Kafka, Franz"@de .
 
 <kahlau__heinz_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Kahlau, Heinz"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Kahlau, Heinz"@de .
 
 <kaléko__mascha_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Kaléko, Mascha"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Kaléko, Mascha"@de .
 
 <kammrad__horst_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Kammrad, Horst"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Kammrad, Horst"@de .
 
 <kant__hermann_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Kant, Hermann"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Kant, Hermann"@de .
 
 <kaschnitz__marie_luise_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Kaschnitz, Marie Luise"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Kaschnitz, Marie Luise"@de .
 
 <kaub__hannelore_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Kaub, Hannelore"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Kaub, Hannelore"@de .
 
 <keller__gottfried_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Keller, Gottfried"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Keller, Gottfried"@de .
 
 <kempowski__walter_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Kempowski, Walter"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Kempowski, Walter"@de .
 
 <kerne__gabriele_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Kerne, Gabriele"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Kerne, Gabriele"@de .
 
 <kerner__justinus_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Kerner, Justinus"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Kerner, Justinus"@de .
 
 <kerr__alfred_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Kerr, Alfred"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Kerr, Alfred"@de .
 
 <keun__irmgard_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Keun, Irmgard"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Keun, Irmgard"@de .
 
 <kinder_und_jugendliteratur_id> a skos:Concept ;
     skos:broader <literatur_id> ;
@@ -1103,29 +1103,29 @@
     skos:prefLabel "Klassik (Literatur)"@de .
 
 <kleist__heinrich_von_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Kleist, Heinrich von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Kleist, Heinrich von"@de .
 
 <klepper__jochen_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Klepper, Jochen"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Klepper, Jochen"@de .
 
 <klopstock__friedrich_gottlieb_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Klopstock, Friedrich Gottlieb"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Klopstock, Friedrich Gottlieb"@de .
 
 <kluge__alexander_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Kluge, Alexander"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Kluge, Alexander"@de .
 
 <klüger__ruth_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Klüger, Ruth"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Klüger, Ruth"@de .
 
 <komödie_id> a skos:Concept ;
     skos:broader <drama_literatur_id> ;
@@ -1133,19 +1133,19 @@
     skos:prefLabel "Komödie"@de .
 
 <kordon__klaus_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Kordon, Klaus"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Kordon, Klaus"@de .
 
 <kraus__karl_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Kraus, Karl"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Kraus, Karl"@de .
 
 <kreisler__georg_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Kreisler, Georg"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Kreisler, Georg"@de .
 
 <kriminalliteratur_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -1153,39 +1153,39 @@
     skos:topConceptOf <> .
 
 <kroetz__franz_xaver_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Kroetz, Franz Xaver"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Kroetz, Franz Xaver"@de .
 
 <krolow__karl_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Krolow, Karl"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Krolow, Karl"@de .
 
 <krüss__james_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Krüss, James"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Krüss, James"@de .
 
 <kunert__günter_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Kunert, Günter"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Kunert, Günter"@de .
 
 <kunert__maja_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Kunert, Maja"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Kunert, Maja"@de .
 
 <kunze__reiner_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Kunze, Reiner"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Kunze, Reiner"@de .
 
 <kunzendorf__franz_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Kunzendorf, Franz"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Kunzendorf, Franz"@de .
 
 <kurzgeschichte_id> a skos:Concept ;
     skos:broader <erzählung_id> ;
@@ -1193,54 +1193,54 @@
     skos:prefLabel "Kurzgeschichte"@de .
 
 <kästner__erich_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Kästner, Erich"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Kästner, Erich"@de .
 
 <käufer__hugo_ernst_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Käufer, Hugo Ernst"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Käufer, Hugo Ernst"@de .
 
 <könig__joel_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "König, Joel"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "König, Joel"@de .
 
 <königsdorf__helga_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Königsdorf, Helga"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Königsdorf, Helga"@de .
 
 <köpf__gerhard_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Köpf, Gerhard"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Köpf, Gerhard"@de .
 
 <kövary__georg_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Kövary, Georg"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Kövary, Georg"@de .
 
 <laabs__joochen_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Laabs, Joochen"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Laabs, Joochen"@de .
 
 <landau__lola_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Landau, Lola"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Landau, Lola"@de .
 
 <langemüller__katja_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Lange-Müller, Katja"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "LangeMüller, Katja"@de .
 
 <laskerschüler__else_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Lasker-Schüler, Else"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "LaskerSchüler, Else"@de .
 
 <legende_literatur_id> a skos:Concept ;
     skos:broader <erzählung_id> ;
@@ -1248,29 +1248,29 @@
     skos:prefLabel "Legende (Literatur)"@de .
 
 <lehmann__wilhelm_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Lehmann, Wilhelm"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Lehmann, Wilhelm"@de .
 
 <leip__hans_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Leip, Hans"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Leip, Hans"@de .
 
 <lenau__nikolaus_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Lenau, Nikolaus"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Lenau, Nikolaus"@de .
 
 <lenz__jakob_michael_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Lenz, Jakob Michael"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Lenz, Jakob Michael"@de .
 
 <lenz__siegfried_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Lenz, Siegfried"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Lenz, Siegfried"@de .
 
 <lesen_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -1278,9 +1278,9 @@
     skos:topConceptOf <> .
 
 <lessing__gotthold_ephraim_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Lessing, Gotthold Ephraim"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Lessing, Gotthold Ephraim"@de .
 
 <lesung_für_erwachsene_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -1298,39 +1298,39 @@
     skos:topConceptOf <> .
 
 <lettau__reinhard_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Lettau, Reinhard"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Lettau, Reinhard"@de .
 
 <lewinsky__charles_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Lewinsky, Charles"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Lewinsky, Charles"@de .
 
 <liebmann__irina_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Liebmann, Irina"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Liebmann, Irina"@de .
 
 <liliencron__detlev_von_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Liliencron, Detlev von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Liliencron, Detlev von"@de .
 
 <limpert__richard_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Limpert, Richard"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Limpert, Richard"@de .
 
 <lind__jakov_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Lind, Jakov"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Lind, Jakov"@de .
 
 <linde__otto_zur_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Linde, Otto zur"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Linde, Otto zur"@de .
 
 <literatursoziologie_id> a skos:Concept ;
     skos:broader <literatur_id> ;
@@ -1338,104 +1338,104 @@
     skos:prefLabel "Literatursoziologie"@de .
 
 <loerke__oskar_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Loerke, Oskar"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Loerke, Oskar"@de .
 
 <loest__erich_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Loest, Erich"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Loest, Erich"@de .
 
 <loriot_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Loriot"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Loriot"@de .
 
 <ludwig__volker_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Ludwig, Volker"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Ludwig, Volker"@de .
 
 <lutz__werner_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Lutz, Werner"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Lutz, Werner"@de .
 
 <maar__paul_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Maar, Paul"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Maar, Paul"@de .
 
 <mancinelli__laura_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Mancinelli, Laura"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Mancinelli, Laura"@de .
 
 <mann__erika_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Mann, Erika"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Mann, Erika"@de .
 
 <mann__heinrich_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Mann, Heinrich"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Mann, Heinrich"@de .
 
 <mann__klaus_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Mann, Klaus"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Mann, Klaus"@de .
 
 <mann__thomas_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Mann, Thomas"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Mann, Thomas"@de .
 
 <marchwitza__hans_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Marchwitza, Hans"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Marchwitza, Hans"@de .
 
 <maron__marion_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Maron, Marion"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Maron, Marion"@de .
 
 <may__karl_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "May, Karl"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "May, Karl"@de .
 
 <mayer__hans_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Mayer, Hans"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Mayer, Hans"@de .
 
 <mayröcker__friedericke_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Mayröcker, Friedericke"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Mayröcker, Friedericke"@de .
 
 <meckel__christoph_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Meckel, Christoph"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Meckel, Christoph"@de .
 
 <mehring__walter_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Mehring, Walter"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Mehring, Walter"@de .
 
 <meichsner__dieter_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Meichsner, Dieter"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Meichsner, Dieter"@de .
 
 <mell__max_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Mell, Max"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Mell, Max"@de .
 
 <metapher_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -1443,19 +1443,19 @@
     skos:topConceptOf <> .
 
 <meyer__conrad_ferdinand_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Meyer, Conrad Ferdinand"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Meyer, Conrad Ferdinand"@de .
 
 <meyerwehlack__benno_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Meyer-Wehlack, Benno"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "MeyerWehlack, Benno"@de .
 
 <miegel__agnes_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Miegel, Agnes"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Miegel, Agnes"@de .
 
 <mimik_id> a skos:Concept ;
     skos:broader <sprache_id> ;
@@ -1468,9 +1468,9 @@
     skos:topConceptOf <> .
 
 <mitgutsch__ali_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Mitgutsch, Ali"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Mitgutsch, Ali"@de .
 
 <mittelhochdeutsch_id> a skos:Concept ;
     skos:broader <deutsch_id> ;
@@ -1483,14 +1483,14 @@
     skos:prefLabel "Monolog"@de .
 
 <moog__christa_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Moog, Christa"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Moog, Christa"@de .
 
 <morgenstern__christian_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Morgenstern, Christian"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Morgenstern, Christian"@de .
 
 <mundart_schwäbischalemannisch_id> a skos:Concept ;
     skos:broader <mundart_id> ;
@@ -1503,24 +1503,24 @@
     skos:prefLabel "Muttersprache"@de .
 
 <mönckeberg__vilma_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Mönckeberg, Vilma"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Mönckeberg, Vilma"@de .
 
 <mörike__eduard_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Mörike, Eduard"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Mörike, Eduard"@de .
 
 <müller__heiner_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Müller, Heiner"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Müller, Heiner"@de .
 
 <münchhausen__börries_von_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Münchhausen, Börries von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Münchhausen, Börries von"@de .
 
 <nachschlagewerk_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -1528,14 +1528,14 @@
     skos:topConceptOf <> .
 
 <nestroy__johann_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Nestroy, Johann"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Nestroy, Johann"@de .
 
 <neumann__günter_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Neumann, Günter"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Neumann, Günter"@de .
 
 <nibelungenlied_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -1543,19 +1543,19 @@
     skos:topConceptOf <> .
 
 <nietzsche__friedrich_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Nietzsche, Friedrich"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Nietzsche, Friedrich"@de .
 
 <novak__helga_m._id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Novak, Helga M."@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Novak, Helga M."@de .
 
 <novalis_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Novalis"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Novalis"@de .
 
 <novelle_id> a skos:Concept ;
     skos:broader <erzählung_id> ;
@@ -1563,19 +1563,19 @@
     skos:prefLabel "Novelle"@de .
 
 <nöstlinger__christine_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Nöstlinger, Christine"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Nöstlinger, Christine"@de .
 
 <opitz__martin_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Opitz, Martin"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Opitz, Martin"@de .
 
 <ossowski__leonie_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Ossowski, Leonie"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Ossowski, Leonie"@de .
 
 <parabel_literatur_id> a skos:Concept ;
     skos:broader <gleichnis_id> ;
@@ -1588,14 +1588,14 @@
     skos:prefLabel "Parodie"@de .
 
 <pastior__oskar_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Pastior, Oskar"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Pastior, Oskar"@de .
 
 <pausewang__gudrun_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Pausewang, Gudrun"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Pausewang, Gudrun"@de .
 
 <perspektive_literatur_id> a skos:Concept ;
     skos:broader <literatur_id> ;
@@ -1603,9 +1603,9 @@
     skos:prefLabel "Perspektive (Literatur)"@de .
 
 <pfeffel__gottlieb_konrad_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Pfeffel, Gottlieb Konrad"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Pfeffel, Gottlieb Konrad"@de .
 
 <phonetik_id> a skos:Concept ;
     skos:broader <sprache_id> ;
@@ -1613,29 +1613,29 @@
     skos:prefLabel "Phonetik"@de .
 
 <pietraß__richard_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Pietraß, Richard"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Pietraß, Richard"@de .
 
 <piontek__heinz_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Piontek, Heinz"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Piontek, Heinz"@de .
 
 <planzdorf__ulrich_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Planzdorf, Ulrich"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Planzdorf, Ulrich"@de .
 
 <platen__august_von_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Platen, August von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Platen, August von"@de .
 
 <pludra__benno_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Pludra, Benno"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Pludra, Benno"@de .
 
 <poetryslam_id> a skos:Concept ;
     skos:broader <lyrik_id> ;
@@ -1648,9 +1648,9 @@
     skos:prefLabel "Possessivpronomen"@de .
 
 <preussler__otfried_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Preussler, Otfried"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Preussler, Otfried"@de .
 
 <pronom_id> a skos:Concept ;
     skos:broader <grammatik_id> ;
@@ -1678,9 +1678,9 @@
     skos:prefLabel "Realismus (Literatur)"@de .
 
 <reben__evelyn_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Reben, Evelyn"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Reben, Evelyn"@de .
 
 <rechtschreibtraining_id> a skos:Concept ;
     skos:broader <rechtschreibung_id> ;
@@ -1693,19 +1693,19 @@
     skos:topConceptOf <> .
 
 <reinig__christa_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Reinig, Christa"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Reinig, Christa"@de .
 
 <reisner__stefan_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Reisner, Stefan"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Reisner, Stefan"@de .
 
 <remarque__erich_maria_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Remarque, Erich Maria"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Remarque, Erich Maria"@de .
 
 <reportage_id> a skos:Concept ;
     skos:broader <literatur_id> ;
@@ -1713,9 +1713,9 @@
     skos:prefLabel "Reportage"@de .
 
 <reutter__otto_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Reutter, Otto"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Reutter, Otto"@de .
 
 <rezeption_literatur_id> a skos:Concept ;
     skos:broader <literatur_id> ;
@@ -1728,14 +1728,14 @@
     skos:prefLabel "Rhetorik"@de .
 
 <rilke__rainer_maria_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Rilke, Rainer Maria"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Rilke, Rainer Maria"@de .
 
 <ringelnatz__joachim_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Ringelnatz, Joachim"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Ringelnatz, Joachim"@de .
 
 <roman_id> a skos:Concept ;
     skos:broader <epik_id> ;
@@ -1748,39 +1748,39 @@
     skos:prefLabel "Romantik (Literatur)"@de .
 
 <rosendorfer__herbert_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Rosendorfer, Herbert"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Rosendorfer, Herbert"@de .
 
 <rosh__lea_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Rosh, Lea"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Rosh, Lea"@de .
 
 <roth__eugen_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Roth, Eugen"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Roth, Eugen"@de .
 
 <roth__joseph_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Roth, Joseph"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Roth, Joseph"@de .
 
 <ruge__helmut_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Ruge, Helmut"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Ruge, Helmut"@de .
 
 <rühmkorf__peter_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Rühmkorf, Peter"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Rühmkorf, Peter"@de .
 
 <sachs__hans_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Sachs, Hans"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Sachs, Hans"@de .
 
 <sage_id> a skos:Concept ;
     skos:broader <epik_id> ;
@@ -1798,54 +1798,54 @@
     skos:prefLabel "Satzstruktur (Deutsch)"@de .
 
 <scharang__michael_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Scharang, Michael"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Scharang, Michael"@de .
 
 <scharpenberg__margot_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Scharpenberg, Margot"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Scharpenberg, Margot"@de .
 
 <schiller__friedrich_von_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Schiller, Friedrich von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Schiller, Friedrich von"@de .
 
 <schlegel__august_wilhelm_von_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Schlegel, August Wilhelm von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Schlegel, August Wilhelm von"@de .
 
 <schlegel__friedrich_von_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Schlegel, Friedrich von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Schlegel, Friedrich von"@de .
 
 <schnabel__ernst_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Schnabel, Ernst"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Schnabel, Ernst"@de .
 
 <schneider__reinhold_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Schneider, Reinhold"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Schneider, Reinhold"@de .
 
 <schnitzler__arthur_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Schnitzler, Arthur"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Schnitzler, Arthur"@de .
 
 <schnurre__wolfdietrich_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Schnurre, Wolfdietrich"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Schnurre, Wolfdietrich"@de .
 
 <scholz__hans_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Scholz, Hans"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Scholz, Hans"@de .
 
 <schrift_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -1853,29 +1853,29 @@
     skos:topConceptOf <> .
 
 <schröder__rudolf_alexander_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Schröder, Rudolf Alexander"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Schröder, Rudolf Alexander"@de .
 
 <schubart__christian_friedrich_daniel_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Schubart, Christian Friedrich Daniel"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Schubart, Christian Friedrich Daniel"@de .
 
 <schubert__dieter_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Schubert, Dieter"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Schubert, Dieter"@de .
 
 <schubert__helga_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Schubert, Helga"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Schubert, Helga"@de .
 
 <schubert__ingrid_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Schubert, Ingrid"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Schubert, Ingrid"@de .
 
 <schwank_id> a skos:Concept ;
     skos:broader <erzählung_id> ;
@@ -1883,39 +1883,39 @@
     skos:prefLabel "Schwank"@de .
 
 <schücking__levin_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Schücking, Levin"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Schücking, Levin"@de .
 
 <segelrecht__dieter_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Segelrecht, Dieter"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Segelrecht, Dieter"@de .
 
 <seghers__anna_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Seghers, Anna"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Seghers, Anna"@de .
 
 <seidel__heinrich_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Seidel, Heinrich"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Seidel, Heinrich"@de .
 
 <senger__valentin_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Senger, Valentin"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Senger, Valentin"@de .
 
 <seuren__günter_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Seuren, Günter"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Seuren, Günter"@de .
 
 <simmel__johannes_mario_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Simmel, Johannes Mario"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Simmel, Johannes Mario"@de .
 
 <sketch_id> a skos:Concept ;
     skos:broader <literatur_id> ;
@@ -1923,19 +1923,19 @@
     skos:prefLabel "Sketch"@de .
 
 <sommerbodenburg__angela_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Sommer-Bodenburg, Angela"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "SommerBodenburg, Angela"@de .
 
 <spoerl__heinrich_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Spoerl, Heinrich"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Spoerl, Heinrich"@de .
 
 <spohn__jürgen_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Spohn, Jürgen"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Spohn, Jürgen"@de .
 
 <sprachgeschichte_deutsche_id> a skos:Concept ;
     skos:broader <deutsch_id> ;
@@ -1953,69 +1953,69 @@
     skos:topConceptOf <> .
 
 <spyri__johanna_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Spyri, Johanna"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Spyri, Johanna"@de .
 
 <späth__gerold_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Späth, Gerold"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Späth, Gerold"@de .
 
 <stadler__ernst_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Stadler, Ernst"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Stadler, Ernst"@de .
 
 <stamm__peter_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Stamm, Peter"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Stamm, Peter"@de .
 
 <stein__charlotte_von_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Stein, Charlotte von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Stein, Charlotte von"@de .
 
 <sternheim__carl_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Sternheim, Carl"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Sternheim, Carl"@de .
 
 <stifter__adalbert_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Stifter, Adalbert"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Stifter, Adalbert"@de .
 
 <stolberg__friedrich_leopold_zu_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Stolberg, Friedrich Leopold zu"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Stolberg, Friedrich Leopold zu"@de .
 
 <stoye__rüdiger_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Stoye, Rüdiger"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Stoye, Rüdiger"@de .
 
 <stramm__august_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Stramm, August"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Stramm, August"@de .
 
 <strauß_und_torney__lulu_von_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Strauß und Torney, Lulu von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Strauß und Torney, Lulu von"@de .
 
 <strittmatter__thomas_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Strittmatter, Thomas"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Strittmatter, Thomas"@de .
 
 <strom__theodor_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Strom, Theodor"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Strom, Theodor"@de .
 
 <sturm_und_drang_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -2028,29 +2028,29 @@
     skos:topConceptOf <> .
 
 <tergit__gabriele_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Tergit, Gabriele"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Tergit, Gabriele"@de .
 
 <tetzner__lisa_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Tetzner, Lisa"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Tetzner, Lisa"@de .
 
 <thenior__ralf_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Thenior, Ralf"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Thenior, Ralf"@de .
 
 <thoma__ludwig_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Thoma, Ludwig"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Thoma, Ludwig"@de .
 
 <timm__uwe_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Timm, Uwe"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Timm, Uwe"@de .
 
 <tragikomödie_id> a skos:Concept ;
     skos:broader <schauspiel_id> ;
@@ -2063,14 +2063,14 @@
     skos:prefLabel "Tragödie"@de .
 
 <trakl__georg_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Trakl, Georg"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Trakl, Georg"@de .
 
 <traven__bernhard_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Traven, Bernhard"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Traven, Bernhard"@de .
 
 <trivialliteratur_id> a skos:Concept ;
     skos:broader <literatur_id> ;
@@ -2078,19 +2078,19 @@
     skos:prefLabel "Trivialliteratur"@de .
 
 <tucholsky__kurt_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Tucholsky, Kurt"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Tucholsky, Kurt"@de .
 
 <turrini__peter_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Turrini, Peter"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Turrini, Peter"@de .
 
 <uhland__ludwig_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Uhland, Ludwig"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Uhland, Ludwig"@de .
 
 <umgangssprache_id> a skos:Concept ;
     skos:broader <deutsch_id> ;
@@ -2108,84 +2108,84 @@
     skos:prefLabel "Utopie"@de .
 
 <vanderbeke__birgit_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Vanderbeke, Birgit"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Vanderbeke, Birgit"@de .
 
 <viebig__clara_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Viebig, Clara"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Viebig, Clara"@de .
 
 <vogel__jakob_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Vogel, Jakob"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Vogel, Jakob"@de .
 
 <vrkljan__irena_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Vrkljan, Irena"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Vrkljan, Irena"@de .
 
 <waechter__friedrich_karl_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Waechter, Friedrich Karl"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Waechter, Friedrich Karl"@de .
 
 <wagenbach__klaus_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Wagenbach, Klaus"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Wagenbach, Klaus"@de .
 
 <waggerl__karl_heinrich_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Waggerl, Karl Heinrich"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Waggerl, Karl Heinrich"@de .
 
 <wagner__bernd_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Wagner, Bernd"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Wagner, Bernd"@de .
 
 <walden__matthias_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Walden, Matthias"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Walden, Matthias"@de .
 
 <waldis__burkhart_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Waldis, Burkhart"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Waldis, Burkhart"@de .
 
 <wallraff__günter_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Wallraff, Günter"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Wallraff, Günter"@de .
 
 <walser__martin_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Walser, Martin"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Walser, Martin"@de .
 
 <walther__joachim_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Walther, Joachim"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Walther, Joachim"@de .
 
 <walther_von_der_vogelweide_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Walther von der Vogelweide"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Walther von der Vogelweide"@de .
 
 <wedekind__frank_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Wedekind, Frank"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Wedekind, Frank"@de .
 
 <weerth__georg_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Weerth, Georg"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Weerth, Georg"@de .
 
 <weihnachtliche_erzählung_id> a skos:Concept ;
     skos:broader <märchen_id> ;
@@ -2198,74 +2198,74 @@
     skos:prefLabel "Weimarer Klassik"@de .
 
 <weinherber__josef_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Weinherber, Josef"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Weinherber, Josef"@de .
 
 <weiss__peter_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Weiss, Peter"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Weiss, Peter"@de .
 
 <werfel__franz_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Werfel, Franz"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Werfel, Franz"@de .
 
 <wernher_der_gartenaere_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Wernher der Gartenaere"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Wernher der Gartenaere"@de .
 
 <weyrauch__wolfgang_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Weyrauch, Wolfgang"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Weyrauch, Wolfgang"@de .
 
 <wickert__erwin_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Wickert, Erwin"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Wickert, Erwin"@de .
 
 <wiechert__ernst_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Wiechert, Ernst"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Wiechert, Ernst"@de .
 
 <wiens__paul_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Wiens, Paul"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Wiens, Paul"@de .
 
 <wimschneider__anna_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Wimschneider, Anna"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Wimschneider, Anna"@de .
 
 <wittgenstein__ludwig_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Wittgenstein, Ludwig"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Wittgenstein, Ludwig"@de .
 
 <wohmann__gabriele_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Wohmann, Gabriele"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Wohmann, Gabriele"@de .
 
 <wolf_christa_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Wolf,Christa"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Wolf,Christa"@de .
 
 <wolfram_von_eschenbach_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Wolfram von Eschenbach"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Wolfram von Eschenbach"@de .
 
 <wondratschek__wolf_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Wondratschek, Wolf"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Wondratschek, Wolf"@de .
 
 <wortschatz_id> a skos:Concept ;
     skos:broader <sprache_id> ;
@@ -2278,34 +2278,34 @@
     skos:prefLabel "Woyzeck"@de .
 
 <ziegler__reinhold_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Ziegler, Reinhold"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Ziegler, Reinhold"@de .
 
 <zollinger__albin_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Zollinger, Albin"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Zollinger, Albin"@de .
 
 <zuckmayer__carl_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Zuckmayer, Carl"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Zuckmayer, Carl"@de .
 
 <zweig__max_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Zweig, Max"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Zweig, Max"@de .
 
 <zweig__stefan_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Zweig, Stefan"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Zweig, Stefan"@de .
 
 <zwerenz__gerhard_id> a skos:Concept ;
+    skos:broader <dichter__schriftsteller__etc._id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Zwerenz, Gerhard"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Zwerenz, Gerhard"@de .
 
 <gleichnis_id> a skos:Concept ;
     skos:broader <dichtung_literatur_id> ;
@@ -2477,18 +2477,16 @@
     skos:prefLabel "Literatur"@de ;
     skos:topConceptOf <> .
 
-<> a skos:ConceptScheme ;
-    dct:creator "<https://creator.com>" ;
-    dct:description "deutsch_systematik"@de ;
-    dct:title "deutsch_systematik"@de ;
-    skos:hasTopConcept <achternbusch__herbert_id>,
+<dichter__schriftsteller__etc._id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <_id>,
+        <achternbusch__herbert_id>,
         <adler__walter_id>,
         <aichinger__ilse_id>,
         <aischylos_id>,
         <alafenisch__salim_id>,
         <alexis__willibald_id>,
         <allmers_hermann_id>,
-        <alphabet_id>,
         <althaus__peter_paul_id>,
         <amery__carl_id>,
         <andersch__alfred_id>,
@@ -2497,12 +2495,8 @@
         <arnim__achim_von_id>,
         <arnim__bettina_von_id>,
         <artmann__hans_carl_id>,
-        <aufsatz_deutsch_id>,
         <augstein__rudolf_id>,
         <ausländer__rose_id>,
-        <autobiografie_id>,
-        <autograph_id>,
-        <autorenlesung_id>,
         <avenarius__ferdinand_id>,
         <bachmann__ingeborg_id>,
         <ball__hugo_id>,
@@ -2519,7 +2513,6 @@
         <bienek__horst_id>,
         <bierbaum__otto_julius_id>,
         <biermann__wolf_id>,
-        <biografie_id>,
         <blau__sebastian_id>,
         <bobrowski__johannes_id>,
         <bolliger__max_id>,
@@ -2552,9 +2545,7 @@
         <degenhardt__jürgen_id>,
         <dehmel__richard_id>,
         <delius__friedrich_christian_id>,
-        <deutsch_id>,
         <deutschkron__inge_id>,
-        <dichter__schriftsteller__etc._id>,
         <dorn__anne_id>,
         <drewitz__ingeborg_id>,
         <drostehülshoff__annette_von_id>,
@@ -2572,7 +2563,6 @@
         <ernst__paul_id>,
         <fallada__hans_id>,
         <fassbinder__rainer_werner_id>,
-        <faust_literatur_id>,
         <feuchtwanger__lion_id>,
         <fichte__hubert_id>,
         <flemming__paul_id>,
@@ -2606,7 +2596,6 @@
         <grimm_gebrüder_id>,
         <grimmelshausen__johann_jacob_christoph_von_id>,
         <grozh__klaus_id>,
-        <gruppe_siebenundvierzig_id>,
         <gryphius__andreas_id>,
         <grün__anastasius_id>,
         <grün__max_von_der_id>,
@@ -2655,12 +2644,7 @@
         <hölderlin__friedrich_id>,
         <höllerer__walter_id>,
         <hölty__ludwig_heinrich_id>,
-        <hörspiel_für_erwachsene_id>,
-        <hörspiel_für_jugendliche_id>,
         <hüsch__hanns_dieter_id>,
-        <idiom_id>,
-        <intention_id>,
-        <interpretation_deutsch_id>,
         <jandl__ernst_id>,
         <janisch__heinz_id>,
         <janosch_id>,
@@ -2671,7 +2655,6 @@
         <jone__hildegard_id>,
         <joos__louis_id>,
         <jünger__ernst_id>,
-        <kabarett_id>,
         <kafka__franz_id>,
         <kahlau__heinz_id>,
         <kaléko__mascha_id>,
@@ -2693,7 +2676,6 @@
         <kordon__klaus_id>,
         <kraus__karl_id>,
         <kreisler__georg_id>,
-        <kriminalliteratur_id>,
         <kroetz__franz_xaver_id>,
         <krolow__karl_id>,
         <krüss__james_id>,
@@ -2716,11 +2698,7 @@
         <lenau__nikolaus_id>,
         <lenz__jakob_michael_id>,
         <lenz__siegfried_id>,
-        <lesen_id>,
         <lessing__gotthold_ephraim_id>,
-        <lesung_für_erwachsene_id>,
-        <lesung_für_jugendliche_id>,
-        <lesung_für_kinder_id>,
         <lettau__reinhard_id>,
         <lewinsky__charles_id>,
         <liebmann__irina_id>,
@@ -2728,8 +2706,6 @@
         <limpert__richard_id>,
         <lind__jakov_id>,
         <linde__otto_zur_id>,
-        <literatur_id>,
-        <literaturepochen_id>,
         <loerke__oskar_id>,
         <loest__erich_id>,
         <loriot_id>,
@@ -2750,11 +2726,9 @@
         <mehring__walter_id>,
         <meichsner__dieter_id>,
         <mell__max_id>,
-        <metapher_id>,
         <meyer__conrad_ferdinand_id>,
         <meyerwehlack__benno_id>,
         <miegel__agnes_id>,
-        <minnesänger_id>,
         <mitgutsch__ali_id>,
         <moog__christa_id>,
         <morgenstern__christian_id>,
@@ -2762,10 +2736,8 @@
         <mörike__eduard_id>,
         <müller__heiner_id>,
         <münchhausen__börries_von_id>,
-        <nachschlagewerk_id>,
         <nestroy__johann_id>,
         <neumann__günter_id>,
-        <nibelungenlied_id>,
         <nietzsche__friedrich_id>,
         <novak__helga_m._id>,
         <novalis_id>,
@@ -2782,8 +2754,6 @@
         <pludra__benno_id>,
         <preussler__otfried_id>,
         <reben__evelyn_id>,
-        <rechtschreibung_id>,
-        <redensart_id>,
         <reinig__christa_id>,
         <reisner__stefan_id>,
         <remarque__erich_maria_id>,
@@ -2807,7 +2777,6 @@
         <schnitzler__arthur_id>,
         <schnurre__wolfdietrich_id>,
         <scholz__hans_id>,
-        <schrift_id>,
         <schröder__rudolf_alexander_id>,
         <schubart__christian_friedrich_daniel_id>,
         <schubert__dieter_id>,
@@ -2823,8 +2792,6 @@
         <sommerbodenburg__angela_id>,
         <spoerl__heinrich_id>,
         <spohn__jürgen_id>,
-        <sprache_id>,
-        <sprichwort_id>,
         <spyri__johanna_id>,
         <späth__gerold_id>,
         <stadler__ernst_id>,
@@ -2838,8 +2805,6 @@
         <strauß_und_torney__lulu_von_id>,
         <strittmatter__thomas_id>,
         <strom__theodor_id>,
-        <sturm_und_drang_id>,
-        <tagebuch_id>,
         <tergit__gabriele_id>,
         <tetzner__lisa_id>,
         <thenior__ralf_id>,
@@ -2885,5 +2850,46 @@
         <zuckmayer__carl_id>,
         <zweig__max_id>,
         <zweig__stefan_id>,
-        <zwerenz__gerhard_id> .
+        <zwerenz__gerhard_id> ;
+    skos:prefLabel "Dichter, Schriftsteller, etc."@de ;
+    skos:topConceptOf <> .
+
+<> a skos:ConceptScheme ;
+    dct:creator "<https://creator.com>" ;
+    dct:description "deutsch_systematik"@de ;
+    dct:title "deutsch_systematik"@de ;
+    skos:hasTopConcept <alphabet_id>,
+        <aufsatz_deutsch_id>,
+        <autobiografie_id>,
+        <autograph_id>,
+        <autorenlesung_id>,
+        <biografie_id>,
+        <deutsch_id>,
+        <dichter__schriftsteller__etc._id>,
+        <faust_literatur_id>,
+        <gruppe_siebenundvierzig_id>,
+        <hörspiel_für_erwachsene_id>,
+        <hörspiel_für_jugendliche_id>,
+        <idiom_id>,
+        <intention_id>,
+        <interpretation_deutsch_id>,
+        <kabarett_id>,
+        <kriminalliteratur_id>,
+        <lesen_id>,
+        <lesung_für_erwachsene_id>,
+        <lesung_für_jugendliche_id>,
+        <lesung_für_kinder_id>,
+        <literatur_id>,
+        <literaturepochen_id>,
+        <metapher_id>,
+        <minnesänger_id>,
+        <nachschlagewerk_id>,
+        <nibelungenlied_id>,
+        <rechtschreibung_id>,
+        <redensart_id>,
+        <schrift_id>,
+        <sprache_id>,
+        <sprichwort_id>,
+        <sturm_und_drang_id>,
+        <tagebuch_id> .
 

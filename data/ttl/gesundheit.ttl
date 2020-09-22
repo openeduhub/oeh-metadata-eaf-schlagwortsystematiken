@@ -63,7 +63,7 @@
     skos:prefLabel "Avitaminose"@de .
 
 <bach__edward_id> a skos:Concept ;
-    skos:broader <kindstod_id> ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Bach, Edward"@de .
 
@@ -73,17 +73,17 @@
     skos:prefLabel "Backen"@de .
 
 <banting__frederick_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Banting, Frederick"@de .
 
 <bauer__karl_heinrich_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Bauer, Karl Heinrich"@de .
 
 <best__charles_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Best, Charles"@de .
 
@@ -123,7 +123,7 @@
     skos:prefLabel "Brot"@de .
 
 <brunschig__hieronymus_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Brunschig, Hieronymus"@de .
 
@@ -138,7 +138,7 @@
     skos:prefLabel "Butter"@de .
 
 <carus__carl_gustav_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Carus, Carl Gustav"@de .
 
@@ -213,17 +213,17 @@
     skos:prefLabel "Dyskalkulie"@de .
 
 <eccles__john_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Eccles, John"@de .
 
 <ehrlich__paul_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Ehrlich, Paul"@de .
 
 <einthoven__willem_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Einthoven, Willem"@de .
 
@@ -268,7 +268,7 @@
     skos:prefLabel "Fraktur (Medizin)"@de .
 
 <freud__sigmund_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Freud, Sigmund"@de .
 
@@ -343,7 +343,7 @@
     skos:prefLabel "Gipsverband"@de .
 
 <grof__stanislav_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Grof, Stanislav"@de .
 
@@ -398,7 +398,7 @@
     skos:prefLabel "Injektion (Medizin)"@de .
 
 <jenner__edward_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Jenner, Edward"@de .
 
@@ -408,7 +408,7 @@
     skos:prefLabel "Joghurt"@de .
 
 <kandel__eric_richard_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Kandel, Eric Richard"@de .
 
@@ -427,8 +427,13 @@
     skos:inScheme <> ;
     skos:prefLabel "Kinderlähmung"@de .
 
-<kneipp__sebastian_id> a skos:Concept ;
+<kindstod_id> a skos:Concept ;
     skos:broader <medizin_heilkunde_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kindstod"@de .
+
+<kneipp__sebastian_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Kneipp, Sebastian"@de .
 
@@ -438,7 +443,7 @@
     skos:prefLabel "Kognition"@de .
 
 <kohut__heinz_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Kohut, Heinz"@de .
 
@@ -488,12 +493,12 @@
     skos:prefLabel "Käse"@de .
 
 <küblerross__elisabeth_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
     skos:prefLabel "KüblerRoss, Elisabeth"@de .
 
 <landsteiner__karl_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Landsteiner, Karl"@de .
 
@@ -538,12 +543,12 @@
     skos:prefLabel "Leukämie"@de .
 
 <levitin__daniel_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Levitin, Daniel"@de .
 
 <lister__joseph_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Lister, Joseph"@de .
 
@@ -553,7 +558,7 @@
     skos:prefLabel "Logopädie"@de .
 
 <lückert__heinzrudiolf_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Lückert, HeinzRudiolf"@de .
 
@@ -578,7 +583,7 @@
     skos:prefLabel "Massage"@de .
 
 <mayer__robert_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Mayer, Robert"@de .
 
@@ -598,17 +603,17 @@
     skos:prefLabel "Milch"@de .
 
 <mitscherlich__alexander_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Mitscherlich, Alexander"@de .
 
 <montesquieu_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Montesquieu"@de .
 
 <morton__william_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Morton, William"@de .
 
@@ -658,7 +663,7 @@
     skos:prefLabel "Organspende"@de .
 
 <paracelsus_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Paracelsus"@de .
 
@@ -673,12 +678,12 @@
     skos:prefLabel "Pausenfrühstück"@de .
 
 <pawlow__iwan_petrowitsch_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Pawlow, Iwan Petrowitsch"@de .
 
 <pettenkofer__max_von_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Pettenkofer, Max von"@de .
 
@@ -713,12 +718,12 @@
     skos:prefLabel "Putzmittel"@de .
 
 <ramón_y_cajal__santiago_felipe_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Ramón y Cajal, Santiago Felipe"@de .
 
 <rank__otto_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Rank, Otto"@de .
 
@@ -728,7 +733,7 @@
     skos:prefLabel "Rehabilitation"@de .
 
 <reich__wilhelm_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Reich, Wilhelm"@de .
 
@@ -763,12 +768,12 @@
     skos:prefLabel "Schokolade"@de .
 
 <schweitzer__albert_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Schweitzer, Albert"@de .
 
 <semmelweis__ignaz_philipp_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Semmelweis, Ignaz Philipp"@de .
 
@@ -778,7 +783,7 @@
     skos:prefLabel "Seuche"@de .
 
 <simpson__james_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Simpson, James"@de .
 
@@ -798,7 +803,7 @@
     skos:prefLabel "Spurenelement"@de .
 
 <steinmann__fritz_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Steinmann, Fritz"@de .
 
@@ -873,7 +878,7 @@
     skos:prefLabel "Tropenkrankheit"@de .
 
 <trott_zu_solz__claritta_von_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Trott zu Solz, Claritta von"@de .
 
@@ -913,7 +918,7 @@
     skos:prefLabel "Versorgung (Medizin)"@de .
 
 <virchow__rudolf_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Virchow, Rudolf"@de .
 
@@ -948,7 +953,7 @@
     skos:prefLabel "Weitsichtigkeit"@de .
 
 <wertheimer__max_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Wertheimer, Max"@de .
 
@@ -968,7 +973,7 @@
     skos:prefLabel "Wurst"@de .
 
 <ylppó__arvo_henrik_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Ylppó, Arvo Henrik"@de .
 
@@ -1032,12 +1037,6 @@
     skos:inScheme <> ;
     skos:narrower <infektionskrankheit_id> ;
     skos:prefLabel "Infektion"@de .
-
-<kindstod_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:narrower <bach__edward_id> ;
-    skos:prefLabel "Kindstod"@de .
 
 <krankenhaus_id> a skos:Concept ;
     skos:broader <medizin_heilkunde_id> ;
@@ -1235,6 +1234,49 @@
     skos:prefLabel "Ernährung"@de ;
     skos:topConceptOf <> .
 
+<personen_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <bach__edward_id>,
+        <banting__frederick_id>,
+        <bauer__karl_heinrich_id>,
+        <best__charles_id>,
+        <brunschig__hieronymus_id>,
+        <carus__carl_gustav_id>,
+        <eccles__john_id>,
+        <ehrlich__paul_id>,
+        <einthoven__willem_id>,
+        <freud__sigmund_id>,
+        <grof__stanislav_id>,
+        <jenner__edward_id>,
+        <kandel__eric_richard_id>,
+        <kneipp__sebastian_id>,
+        <kohut__heinz_id>,
+        <küblerross__elisabeth_id>,
+        <landsteiner__karl_id>,
+        <levitin__daniel_id>,
+        <lister__joseph_id>,
+        <lückert__heinzrudiolf_id>,
+        <mayer__robert_id>,
+        <mitscherlich__alexander_id>,
+        <montesquieu_id>,
+        <morton__william_id>,
+        <paracelsus_id>,
+        <pawlow__iwan_petrowitsch_id>,
+        <pettenkofer__max_von_id>,
+        <ramón_y_cajal__santiago_felipe_id>,
+        <rank__otto_id>,
+        <reich__wilhelm_id>,
+        <schweitzer__albert_id>,
+        <semmelweis__ignaz_philipp_id>,
+        <simpson__james_id>,
+        <steinmann__fritz_id>,
+        <trott_zu_solz__claritta_von_id>,
+        <virchow__rudolf_id>,
+        <wertheimer__max_id>,
+        <ylppó__arvo_henrik_id> ;
+    skos:prefLabel "Personen"@de ;
+    skos:topConceptOf <> .
+
 <krankheit_id> a skos:Concept ;
     skos:broader <medizin_heilkunde_id> ;
     skos:inScheme <> ;
@@ -1291,90 +1333,53 @@
         <alternativmedizin_id>,
         <arztbesuch_id>,
         <autogenes_training_id>,
-        <banting__frederick_id>,
-        <bauer__karl_heinrich_id>,
         <behinderung_id>,
-        <best__charles_id>,
         <biomedizin_id>,
         <bionik_id>,
         <blutzucker_id>,
-        <brunschig__hieronymus_id>,
-        <carus__carl_gustav_id>,
         <chemotherapie_id>,
         <cholesterin_id>,
         <computertomographie_id>,
         <defibrillator_id>,
         <dialyse_id>,
-        <eccles__john_id>,
-        <ehrlich__paul_id>,
-        <einthoven__willem_id>,
         <ergometrie_id>,
         <fehlgeburt_id>,
         <fieber_id>,
-        <freud__sigmund_id>,
         <frühgeburt_id>,
         <geburt_id>,
         <geriatrie_id>,
         <gesundheit_id>,
         <gesundheitserziehung_id>,
         <gipsverband_id>,
-        <grof__stanislav_id>,
         <impfung_id>,
         <implantat_id>,
         <injektion_medizin_id>,
-        <jenner__edward_id>,
-        <kandel__eric_richard_id>,
         <kindstod_id>,
-        <kneipp__sebastian_id>,
-        <kohut__heinz_id>,
         <krankenhaus_id>,
         <krankenpflege_id>,
         <krankheit_id>,
-        <küblerross__elisabeth_id>,
-        <landsteiner__karl_id>,
         <leiden_id>,
         <leistung_physiologie_id>,
-        <levitin__daniel_id>,
-        <lister__joseph_id>,
         <logopädie_id>,
-        <lückert__heinzrudiolf_id>,
         <massage_id>,
-        <mayer__robert_id>,
         <medizinethik_id>,
-        <mitscherlich__alexander_id>,
-        <montesquieu_id>,
-        <morton__william_id>,
         <motorik_id>,
         <organspende_id>,
-        <paracelsus_id>,
-        <pawlow__iwan_petrowitsch_id>,
-        <pettenkofer__max_von_id>,
         <pharmazie_id>,
         <psychiatrie_id>,
         <psychoanalyse_id>,
         <psychologie_id>,
         <psychosomatik_id>,
-        <ramón_y_cajal__santiago_felipe_id>,
-        <rank__otto_id>,
         <rehabilitation_id>,
-        <reich__wilhelm_id>,
         <schlaf_id>,
         <schmerz_id>,
-        <schweitzer__albert_id>,
-        <semmelweis__ignaz_philipp_id>,
-        <simpson__james_id>,
-        <steinmann__fritz_id>,
         <therapie_id>,
         <toxikologie_id>,
-        <trott_zu_solz__claritta_von_id>,
         <ultraschalldiagnostik_id>,
         <untersuchungsmethode_medizin_id>,
         <versorgung_medizin_id>,
-        <virchow__rudolf_id>,
         <viren_krankheitserreger_id>,
         <vorsorgeuntersuchung_id>,
-        <wertheimer__max_id>,
-        <ylppó__arvo_henrik_id>,
         <yoga_id> ;
     skos:prefLabel "Medizin (Heilkunde)"@de ;
     skos:topConceptOf <> .
@@ -1385,5 +1390,6 @@
     dct:title "gesundheit_systematik"@de ;
     skos:hasTopConcept <ernährung_id>,
         <hygiene_id>,
-        <medizin_heilkunde_id> .
+        <medizin_heilkunde_id>,
+        <personen_id> .
 

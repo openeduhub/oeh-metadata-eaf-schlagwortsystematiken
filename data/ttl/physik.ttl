@@ -3,9 +3,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 <abbe__ernst_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Abbe, Ernst"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Abbe, Ernst"@de .
 
 <abbildungsfehler_id> a skos:Concept ;
     skos:broader <optik_id> ;
@@ -23,9 +23,9 @@
     skos:prefLabel "Aerodynamik"@de .
 
 <ampère__andrémarie_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Ampère, André-Marie"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Ampère, AndréMarie"@de .
 
 <apolloprogramm_id> a skos:Concept ;
     skos:broader <weltraumfahrt_id> ;
@@ -33,9 +33,9 @@
     skos:prefLabel "Apollo-Programm"@de .
 
 <ardenne__manfred_von_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Ardenne, Manfred von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Ardenne, Manfred von"@de .
 
 <auftrieb_physik_id> a skos:Concept ;
     skos:broader <gravitation_id> ;
@@ -48,19 +48,19 @@
     skos:prefLabel "Ausdehnung"@de .
 
 <avogadro__amedeo_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Avogadro, Amedeo"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Avogadro, Amedeo"@de .
 
 <baird__john_logie_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Baird, John Logie"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Baird, John Logie"@de .
 
 <bardeen__john_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Bardeen, John"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Bardeen, John"@de .
 
 <barometer_id> a skos:Concept ;
     skos:broader <messtechnik_id> ;
@@ -73,19 +73,19 @@
     skos:prefLabel "Batterie"@de .
 
 <becquerel__antoine_henri_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Becquerel, Antoine Henri"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Becquerel, Antoine Henri"@de .
 
 <bell__alexander_graham_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Bell, Alexander Graham"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Bell, Alexander Graham"@de .
 
 <bethe__hans_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Bethe, Hans"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Bethe, Hans"@de .
 
 <bildbearbeitung_id> a skos:Concept ;
     skos:broader <fotografie_id> ;
@@ -93,9 +93,9 @@
     skos:prefLabel "Bildbearbeitung"@de .
 
 <binning__gerd_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Binning, Gerd"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Binning, Gerd"@de .
 
 <bipolare_ansteuerung_id> a skos:Concept ;
     skos:broader <elektronik_id> ;
@@ -103,29 +103,29 @@
     skos:prefLabel "Bipolare Ansteuerung"@de .
 
 <bohr__niels_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Bohr, Niels"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Bohr, Niels"@de .
 
 <brahe__tycho_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Brahe, Tycho"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Brahe, Tycho"@de .
 
 <brattain__walter_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Brattain, Walter"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Brattain, Walter"@de .
 
 <braun__karl_friedrich_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Braun, Karl Friedrich"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Braun, Karl Friedrich"@de .
 
 <braun__wernher_von_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Braun, Wernher von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Braun, Wernher von"@de .
 
 <braunsche_röhre_id> a skos:Concept ;
     skos:broader <fernsehtechnik_id> ;
@@ -143,9 +143,9 @@
     skos:prefLabel "Brücke (Bauwerk)"@de .
 
 <celsius__anders_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Celsius, Anders"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Celsius, Anders"@de .
 
 <cern_id> a skos:Concept ;
     skos:broader <kernphysik_id> ;
@@ -153,9 +153,9 @@
     skos:prefLabel "CERN"@de .
 
 <daguerre__louis_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Daguerre, Louis"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Daguerre, Louis"@de .
 
 <daguerreotypie_id> a skos:Concept ;
     skos:broader <fotografie_id> ;
@@ -168,9 +168,9 @@
     skos:prefLabel "Dampfmaschine"@de .
 
 <diesel__rudolf_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Diesel, Rudolf"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Diesel, Rudolf"@de .
 
 <digitale_fotografie_id> a skos:Concept ;
     skos:broader <fotografie_id> ;
@@ -193,9 +193,9 @@
     skos:prefLabel "Dotierung"@de .
 
 <drais__carlfriedrich_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Drais, Carl-Friedrich"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Drais, CarlFriedrich"@de .
 
 <drehachse_id> a skos:Concept ;
     skos:broader <mechanik_id> ;
@@ -213,9 +213,9 @@
     skos:prefLabel "Dünnschliff"@de .
 
 <edison__thomas_alva_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Edison, Thomas Alva"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Edison, Thomas Alva"@de .
 
 <einfallswinkel_id> a skos:Concept ;
     skos:broader <strahlung_allgemein_id> ;
@@ -223,9 +223,9 @@
     skos:prefLabel "Einfallswinkel"@de .
 
 <einstein__albert_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Einstein, Albert"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Einstein, Albert"@de .
 
 <ekliptik_id> a skos:Concept ;
     skos:broader <keplersche_gesetze_id> ;
@@ -273,14 +273,14 @@
     skos:prefLabel "Epizykletheorie"@de .
 
 <eyth__max_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Eyth, Max"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Eyth, Max"@de .
 
 <faraday__michael_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Faraday, Michael"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Faraday, Michael"@de .
 
 <farbenlehre_id> a skos:Concept ;
     skos:broader <farbe_id> ;
@@ -293,9 +293,9 @@
     skos:prefLabel "Feldlinie"@de .
 
 <fermi__enrico_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Fermi, Enrico"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Fermi, Enrico"@de .
 
 <feuerwerk_id> a skos:Concept ;
     skos:broader <energie_id> ;
@@ -303,14 +303,14 @@
     skos:prefLabel "Feuerwerk"@de .
 
 <foucault__jean_bernard_léon_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Foucault, Jean Bernard Léon"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Foucault, Jean Bernard Léon"@de .
 
 <fraunhofer__joseph_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Fraunhofer, Joseph"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Fraunhofer, Joseph"@de .
 
 <freieelektronenlaser_id> a skos:Concept ;
     skos:broader <strahlung_allgemein_id> ;
@@ -333,9 +333,9 @@
     skos:prefLabel "Getriebe"@de .
 
 <gilbert__william_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Gilbert, William"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Gilbert, William"@de .
 
 <gleichrichter_id> a skos:Concept ;
     skos:broader <elektrotechnik_id> ;
@@ -353,14 +353,14 @@
     skos:prefLabel "Glühlampe"@de .
 
 <grove__william_robert_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Grove, William Robert"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Grove, William Robert"@de .
 
 <guericke__otto_von_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Guericke, Otto von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Guericke, Otto von"@de .
 
 <halbleiter_id> a skos:Concept ;
     skos:broader <elektronik_id> ;
@@ -373,9 +373,9 @@
     skos:prefLabel "Halbwertszeit"@de .
 
 <halley__edmond_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Halley, Edmond"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Halley, Edmond"@de .
 
 <halleyscher_komet_id> a skos:Concept ;
     skos:broader <komet_id> ;
@@ -383,24 +383,24 @@
     skos:prefLabel "Halleyscher Komet"@de .
 
 <hawking__stephen_william_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hawking, Stephen William"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hawking, Stephen William"@de .
 
 <heisenberg__werner_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Heisenberg, Werner"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Heisenberg, Werner"@de .
 
 <hertz__gustav_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hertz, Gustav"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hertz, Gustav"@de .
 
 <hertz__heinrich_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hertz, Heinrich"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hertz, Heinrich"@de .
 
 <hooksches_gesetz_id> a skos:Concept ;
     skos:broader <mechanik_id> ;
@@ -408,9 +408,9 @@
     skos:prefLabel "Hooksches Gesetz"@de .
 
 <hubble__edwin_powell_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hubble, Edwin Powell"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hubble, Edwin Powell"@de .
 
 <hydraulik_id> a skos:Concept ;
     skos:broader <mechanik_id> ;
@@ -443,19 +443,19 @@
     skos:prefLabel "Isolator (Elektrotechnik)"@de .
 
 <jenny__hans_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Jenny, Hans"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Jenny, Hans"@de .
 
 <joliot__frederic_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Joliot, Frederic"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Joliot, Frederic"@de .
 
 <joule__james_prescott_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Joule, James Prescott"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Joule, James Prescott"@de .
 
 <jupiter_planat_id> a skos:Concept ;
     skos:broader <planet_id> ;
@@ -468,14 +468,14 @@
     skos:prefLabel "Kamera"@de .
 
 <kammerlinghonnes__heike_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Kammerlingh-Onnes, Heike"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "KammerlinghOnnes, Heike"@de .
 
 <kepler__johannes_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Kepler, Johannes"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Kepler, Johannes"@de .
 
 <kernbrennstoff_id> a skos:Concept ;
     skos:broader <kernphysik_id> ;
@@ -513,9 +513,9 @@
     skos:prefLabel "Klingel"@de .
 
 <knoll__max_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Knoll, Max"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Knoll, Max"@de .
 
 <kondensation_physik_id> a skos:Concept ;
     skos:broader <mechanik_id> ;
@@ -533,9 +533,9 @@
     skos:prefLabel "Konvektion"@de .
 
 <koroljow__sergej_pawlowitsch_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Koroljow, Sergej Pawlowitsch"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Koroljow, Sergej Pawlowitsch"@de .
 
 <kristall_id> a skos:Concept ;
     skos:broader <mechanik_id> ;
@@ -548,9 +548,9 @@
     skos:prefLabel "Kurzschluss"@de .
 
 <laplace__pierre_simon_de_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Laplace, Pierre Simon de"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Laplace, Pierre Simon de"@de .
 
 <laser_id> a skos:Concept ;
     skos:broader <optik_id> ;
@@ -583,14 +583,14 @@
     skos:prefLabel "Lichtgeschwindigkeit"@de .
 
 <lilienthal__otto_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Lilienthal, Otto"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Lilienthal, Otto"@de .
 
 <linde__carl_von_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Linde, Carl von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Linde, Carl von"@de .
 
 <lorentzkraft_id> a skos:Concept ;
     skos:broader <kraft_id> ;
@@ -603,9 +603,9 @@
     skos:prefLabel "Lotuseffekt"@de .
 
 <lumière__gebrüder_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Lumière, Gebrüder"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Lumière, Gebrüder"@de .
 
 <lupe_id> a skos:Concept ;
     skos:broader <optik_id> ;
@@ -613,9 +613,9 @@
     skos:prefLabel "Lupe"@de .
 
 <maccready__paul_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "MacCready, Paul"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "MacCready, Paul"@de .
 
 <magnetometer_id> a skos:Concept ;
     skos:broader <magnetismus_id> ;
@@ -623,14 +623,14 @@
     skos:prefLabel "Magnetometer"@de .
 
 <maimann__theodore_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Maimann, Theodore"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Maimann, Theodore"@de .
 
 <marconi__guglielmo_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Marconi, Guglielmo"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Marconi, Guglielmo"@de .
 
 <mars_planet_id> a skos:Concept ;
     skos:broader <planet_id> ;
@@ -643,19 +643,19 @@
     skos:prefLabel "Masse (Physik)"@de .
 
 <maxwell__james_clark_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Maxwell, James Clark"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Maxwell, James Clark"@de .
 
 <mayer__tobias_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Mayer, Tobias"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Mayer, Tobias"@de .
 
 <meißner__walther_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Meißner, Walther"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Meißner, Walther"@de .
 
 <merkur_planet_id> a skos:Concept ;
     skos:broader <planet_id> ;
@@ -663,9 +663,9 @@
     skos:prefLabel "Merkur (Planet)"@de .
 
 <messerschmitt__willy_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Messerschmitt, Willy"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Messerschmitt, Willy"@de .
 
 <meteor_id> a skos:Concept ;
     skos:broader <weltall_id> ;
@@ -698,9 +698,9 @@
     skos:prefLabel "Mondlandung"@de .
 
 <montgolfier_gebrüder_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Montgolfier (Gebrüder)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Montgolfier (Gebrüder)"@de .
 
 <nebelkammer_id> a skos:Concept ;
     skos:broader <elektronik_id> ;
@@ -712,6 +712,16 @@
     skos:inScheme <> ;
     skos:prefLabel "Neptun (Planet)"@de .
 
+<newcomen__thomas_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Newcomen, Thomas"@de .
+
+<newton__isaac_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Newton, Isaac"@de .
+
 <newtonsche_gesetze_id> a skos:Concept ;
     skos:broader <mechanik_id> ;
     skos:inScheme <> ;
@@ -722,15 +732,35 @@
     skos:inScheme <> ;
     skos:prefLabel "Nichtleiter"@de .
 
+<nipkow__paul_julius_gottlieb_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Nipkow, Paul Julius Gottlieb"@de .
+
+<nostradamus_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Nostradamus"@de .
+
 <oberflächenspannung_id> a skos:Concept ;
     skos:broader <mechanik_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Oberflächenspannung"@de .
 
+<oberth__hermann_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Oberth, Hermann"@de .
+
 <objektiv_optik_id> a skos:Concept ;
     skos:broader <linse_optik_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Objektiv (Optik)"@de .
+
+<ohm__georg_simon_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ohm, Georg Simon"@de .
 
 <operationsverstärker_id> a skos:Concept ;
     skos:broader <elektronik_id> ;
@@ -752,10 +782,30 @@
     skos:inScheme <> ;
     skos:prefLabel "Oszillograf"@de .
 
+<pacal__blaise_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pacal, Blaise"@de .
+
+<papin__denis_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Papin, Denis"@de .
+
 <photoeffekt_id> a skos:Concept ;
     skos:broader <licht_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Photoeffekt"@de .
+
+<piccard__auguste_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Piccard, Auguste"@de .
+
+<planck__max_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Planck, Max"@de .
 
 <plasmaphysik_id> a skos:Concept ;
     skos:broader <kernphysik_id> ;
@@ -842,6 +892,21 @@
     skos:inScheme <> ;
     skos:prefLabel "Rotation (Physik)"@de .
 
+<ruska__ernst_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ruska, Ernst"@de .
+
+<rutherford__ernest_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Rutherford, Ernest"@de .
+
+<röntgen__wilhelm_conrad_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Röntgen, Wilhelm Conrad"@de .
+
 <röntgenkunde_id> a skos:Concept ;
     skos:broader <optik_id> ;
     skos:inScheme <> ;
@@ -867,15 +932,45 @@
     skos:inScheme <> ;
     skos:prefLabel "Schatten"@de .
 
+<schawlow__arthur_leonard_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schawlow, Arthur Leonard"@de .
+
 <schmiermittel_id> a skos:Concept ;
     skos:broader <mechanik_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Schmiermittel"@de .
 
+<schrödinger__erwin__id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schrödinger, Erwin "@de .
+
+<shckley__william_bradford_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Shckley, William Bradford"@de .
+
+<siemens__werner_von_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Siemens, Werner von"@de .
+
 <signal_elektrik_id> a skos:Concept ;
     skos:broader <funktechnik_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Signal (Elektrik)"@de .
+
+<sikorsky__igor_iwanowitsch_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sikorsky, Igor Iwanowitsch"@de .
+
+<skladanowsky__max_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Skladanowsky, Max"@de .
 
 <sofortbildfotografie_id> a skos:Concept ;
     skos:broader <fotografie_id> ;
@@ -896,6 +991,16 @@
     skos:broader <licht_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Spektrum (Physik)"@de .
+
+<stauss__joseph_baermann_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Stauss, Joseph Baermann"@de .
+
+<stephenson__george_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Stephenson, George"@de .
 
 <stromkreis_id> a skos:Concept ;
     skos:broader <elektronik_id> ;
@@ -937,6 +1042,11 @@
     skos:inScheme <> ;
     skos:prefLabel "Temperatur (allgemein)"@de .
 
+<tesla__nikola_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tesla, Nikola"@de .
+
 <thermometer_id> a skos:Concept ;
     skos:broader <messtechnik_id> ;
     skos:inScheme <> ;
@@ -946,6 +1056,16 @@
     skos:broader <messtechnik_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Thermostat"@de .
+
+<thomson__william_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Thomson, William"@de .
+
+<townes__charles_hard_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Townes, Charles Hard"@de .
 
 <transformator_id> a skos:Concept ;
     skos:broader <elektronik_id> ;
@@ -1042,10 +1162,30 @@
     skos:inScheme <> ;
     skos:prefLabel "Volt"@de .
 
+<volta__alessandro_graf_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Volta, Alessandro Graf"@de .
+
 <vortrieb_id> a skos:Concept ;
     skos:broader <mechanik_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Vortrieb"@de .
+
+<wankel__felix_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wankel, Felix"@de .
+
+<watsonwatt__robert_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "WatsonWatt, Robert"@de .
+
+<watt__james_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Watt, James"@de .
 
 <wechselstrom_id> a skos:Concept ;
     skos:broader <elektrotechnik_id> ;
@@ -1056,6 +1196,16 @@
     skos:broader <physik_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Wechselwirkung (fundamentale)"@de .
+
+<weizenbaum__joseph_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Weizenbaum, Joseph"@de .
+
+<weizsäcker__carl_friedrich_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Weizsäcker, Carl Friedrich"@de .
 
 <wellenlänge_id> a skos:Concept ;
     skos:broader <welle_physik_id> ;
@@ -1072,10 +1222,25 @@
     skos:inScheme <> ;
     skos:prefLabel "Wendekreis (Breitenkreis)"@de .
 
+<westinghouse__george_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Westinghouse, George"@de .
+
+<whittle__frank_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Whittle, Frank"@de .
+
 <widerstand_physik_id> a skos:Concept ;
     skos:broader <elektronik_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Widerstand (Physik)"@de .
+
+<wiechert__emil_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wiechert, Emil"@de .
 
 <wiederaufarbeitung_id> a skos:Concept ;
     skos:broader <kernphysik_id> ;
@@ -1091,6 +1256,11 @@
     skos:broader <energie_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Wirkungsgrad"@de .
+
+<wright_gebrüder_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wright (Gebrüder)"@de .
 
 <wurf_physik_id> a skos:Concept ;
     skos:broader <mechanik_id> ;
@@ -1132,6 +1302,11 @@
     skos:inScheme <> ;
     skos:prefLabel "Zahnrad"@de .
 
+<zeiss__carl_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zeiss, Carl"@de .
+
 <zeit_id> a skos:Concept ;
     skos:broader <mechanik_id> ;
     skos:inScheme <> ;
@@ -1146,6 +1321,11 @@
     skos:broader <mechanik_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Zug (Festigkeitslehre)"@de .
+
+<zworykin__vladimir_kosma_id> a skos:Concept ;
+    skos:broader <personen_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zworykin, Vladimir Kosma"@de .
 
 <überstromschutzeinrichtung_id> a skos:Concept ;
     skos:broader <schutzmaßnahme_elektrik_id> ;
@@ -1602,11 +1782,9 @@
         <zug_festigkeitslehre_id> ;
     skos:prefLabel "Mechanik"@de .
 
-<> a skos:ConceptScheme ;
-    dct:creator "<https://creator.com>" ;
-    dct:description "physik_systematik"@de ;
-    dct:title "physik_systematik"@de ;
-    skos:hasTopConcept <abbe__ernst_id>,
+<personen_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <abbe__ernst_id>,
         <ampère__andrémarie_id>,
         <ardenne__manfred_von_id>,
         <avogadro__amedeo_id>,
@@ -1660,6 +1838,50 @@
         <meißner__walther_id>,
         <messerschmitt__willy_id>,
         <montgolfier_gebrüder_id>,
+        <newcomen__thomas_id>,
+        <newton__isaac_id>,
+        <nipkow__paul_julius_gottlieb_id>,
+        <nostradamus_id>,
+        <oberth__hermann_id>,
+        <ohm__georg_simon_id>,
+        <pacal__blaise_id>,
+        <papin__denis_id>,
+        <piccard__auguste_id>,
+        <planck__max_id>,
+        <ruska__ernst_id>,
+        <rutherford__ernest_id>,
+        <röntgen__wilhelm_conrad_id>,
+        <schawlow__arthur_leonard_id>,
+        <schrödinger__erwin__id>,
+        <shckley__william_bradford_id>,
+        <siemens__werner_von_id>,
+        <sikorsky__igor_iwanowitsch_id>,
+        <skladanowsky__max_id>,
+        <stauss__joseph_baermann_id>,
+        <stephenson__george_id>,
+        <tesla__nikola_id>,
+        <thomson__william_id>,
+        <townes__charles_hard_id>,
+        <volta__alessandro_graf_id>,
+        <wankel__felix_id>,
+        <watsonwatt__robert_id>,
+        <watt__james_id>,
+        <weizenbaum__joseph_id>,
+        <weizsäcker__carl_friedrich_id>,
+        <westinghouse__george_id>,
+        <whittle__frank_id>,
+        <wiechert__emil_id>,
+        <wright_gebrüder_id>,
+        <zeiss__carl_id>,
+        <zworykin__vladimir_kosma_id> ;
+    skos:prefLabel "Personen"@de ;
+    skos:topConceptOf <> .
+
+<> a skos:ConceptScheme ;
+    dct:creator "<https://creator.com>" ;
+    dct:description "physik_systematik"@de ;
+    dct:title "physik_systematik"@de ;
+    skos:hasTopConcept <personen_id>,
         <physik_id>,
         <ufo_id> .
 

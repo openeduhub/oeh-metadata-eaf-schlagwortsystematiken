@@ -2382,6 +2382,16 @@
     skos:prefLabel "Schweißer"@de ;
     skos:topConceptOf <> .
 
+<schwergewebekonfektionär_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schwergewebekonfektionär"@de ;
+    skos:topConceptOf <> .
+
+<schwimmmeistergehilfe_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schwimmmeistergehilfe"@de ;
+    skos:topConceptOf <> .
+
 <schädlingsbekämpfer_id> a skos:Concept ;
     skos:inScheme <> ;
     skos:prefLabel "Schädlingsbekämpfer"@de ;
@@ -2392,14 +2402,634 @@
     skos:prefLabel "Schäfer"@de ;
     skos:topConceptOf <> .
 
+<seegüterkontrolleur_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Seegüterkontrolleur"@de ;
+    skos:topConceptOf <> .
+
+<seemann_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Seemann"@de ;
+    skos:topConceptOf <> .
+
+<segelmacher_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Segelmacher"@de ;
+    skos:topConceptOf <> .
+
+<seiler_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Seiler"@de ;
+    skos:topConceptOf <> .
+
+<sekretär_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sekretär"@de ;
+    skos:topConceptOf <> .
+
+<siebdrucker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Siebdrucker"@de ;
+    skos:topConceptOf <> .
+
+<silberschmied_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Silberschmied"@de ;
+    skos:topConceptOf <> .
+
+<socialmediaredakteur_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Social-Media-Redakteur"@de ;
+    skos:topConceptOf <> .
+
+<sonderschullehrer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sonderschullehrer"@de ;
+    skos:topConceptOf <> .
+
+<sozialversicherungsangestellter_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sozialversicherungsangestellter"@de ;
+    skos:topConceptOf <> .
+
+<speditionskaufmann_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Speditionskaufmann"@de ;
+    skos:topConceptOf <> .
+
+<spielzeughersteller_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Spielzeughersteller"@de ;
+    skos:topConceptOf <> .
+
+<spielzeugmacher_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Spielzeugmacher"@de ;
+    skos:topConceptOf <> .
+
+<sportlehrer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sportlehrer"@de ;
+    skos:topConceptOf <> .
+
+<sprechlehrer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sprechlehrer"@de ;
+    skos:topConceptOf <> .
+
+<sprengmeister_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sprengmeister"@de ;
+    skos:topConceptOf <> .
+
+<stahlbetonbauer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Stahlbetonbauer"@de ;
+    skos:topConceptOf <> .
+
+<steiger_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Steiger"@de ;
+    skos:topConceptOf <> .
+
+<steinbildhauer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Steinbildhauer"@de ;
+    skos:topConceptOf <> .
+
+<steinmetz_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Steinmetz"@de ;
+    skos:topConceptOf <> .
+
+<steuerberater_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Steuerberater"@de ;
+    skos:topConceptOf <> .
+
+<steuerfachangestellter_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Steuerfachangestellter"@de ;
+    skos:topConceptOf <> .
+
+<steuerfachgehilfe_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Steuerfachgehilfe"@de ;
+    skos:topConceptOf <> .
+
+<steuerverwaltungsbeamter_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Steuerverwaltungsbeamter"@de ;
+    skos:topConceptOf <> .
+
+<sticker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sticker"@de ;
+    skos:topConceptOf <> .
+
+<strafvollzugsbeamter_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Strafvollzugsbeamter"@de ;
+    skos:topConceptOf <> .
+
+<straßenbauer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Straßenbauer"@de ;
+    skos:topConceptOf <> .
+
+<straßenwärter_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Straßenwärter"@de ;
+    skos:topConceptOf <> .
+
+<stukkateur_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Stukkateur"@de ;
+    skos:topConceptOf <> .
+
+<substitut_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Substitut"@de ;
+    skos:topConceptOf <> .
+
+<systemanalystiker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Systemanalystiker"@de ;
+    skos:topConceptOf <> .
+
+<systemkaufmann_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Systemkaufmann"@de ;
+    skos:topConceptOf <> .
+
+<tankwart_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tankwart"@de ;
+    skos:topConceptOf <> .
+
+<tanzpädagoge_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tanzpädagoge"@de ;
+    skos:topConceptOf <> .
+
+<tanztherapeut_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tanztherapeut"@de ;
+    skos:topConceptOf <> .
+
+<tappisserist_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tappisserist"@de ;
+    skos:topConceptOf <> .
+
+<taucher_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Taucher"@de ;
+    skos:topConceptOf <> .
+
+<techniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Techniker"@de ;
+    skos:topConceptOf <> .
+
+<technischer_assistent_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Technischer Assistent"@de ;
+    skos:topConceptOf <> .
+
+<technischer_konfektionär_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Technischer Konfektionär"@de ;
+    skos:topConceptOf <> .
+
+<technischer_zeichner_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Technischer Zeichner"@de ;
+    skos:topConceptOf <> .
+
+<teigwarenverkäufer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Teigwarenverkäufer"@de ;
+    skos:topConceptOf <> .
+
+<teilezurichter_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Teilezurichter"@de ;
+    skos:topConceptOf <> .
+
+<tennislehrer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tennislehrer"@de ;
+    skos:topConceptOf <> .
+
+<terrazzohersteller_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Terrazzohersteller"@de ;
+    skos:topConceptOf <> .
+
+<textildesigner_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Textildesigner"@de ;
+    skos:topConceptOf <> .
+
+<textillaborant_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Textillaborant"@de ;
+    skos:topConceptOf <> .
+
+<textilmaschinenführer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Textilmaschinenführer"@de ;
+    skos:topConceptOf <> .
+
+<textilmechaniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Textilmechaniker"@de ;
+    skos:topConceptOf <> .
+
+<textilmustergestalter_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Textilmustergestalter"@de ;
+    skos:topConceptOf <> .
+
+<textilreiniger_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Textilreiniger"@de ;
+    skos:topConceptOf <> .
+
+<textilstopfer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Textilstopfer"@de ;
+    skos:topConceptOf <> .
+
+<textiltechniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Textiltechniker"@de ;
+    skos:topConceptOf <> .
+
+<textilveredler_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Textilveredler"@de ;
+    skos:topConceptOf <> .
+
+<therapeut_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Therapeut"@de ;
+    skos:topConceptOf <> .
+
+<thermometermacher_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Thermometermacher"@de ;
+    skos:topConceptOf <> .
+
+<tierarzt_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tierarzt"@de ;
+    skos:topConceptOf <> .
+
+<tierarzthelfer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tierarzthelfer"@de ;
+    skos:topConceptOf <> .
+
+<tierpfleger_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tierpfleger"@de ;
+    skos:topConceptOf <> .
+
+<tierwirt_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tierwirt"@de ;
+    skos:topConceptOf <> .
+
+<tischler_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tischler"@de ;
+    skos:topConceptOf <> .
+
+<toningenieur_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Toningenieur"@de ;
+    skos:topConceptOf <> .
+
+<tonmeister_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tonmeister"@de ;
+    skos:topConceptOf <> .
+
+<tontechniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tontechniker"@de ;
+    skos:topConceptOf <> .
+
+<trainer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Trainer"@de ;
+    skos:topConceptOf <> .
+
+<trockenbaumonteur_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Trockenbaumonteur"@de ;
+    skos:topConceptOf <> .
+
+<täschner_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Täschner"@de ;
+    skos:topConceptOf <> .
+
+<uhrmacher_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Uhrmacher"@de ;
+    skos:topConceptOf <> .
+
 <umschulung_id> a skos:Concept ;
     skos:broader <beruf_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Umschulung"@de .
 
+<umweltcontrolleur_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Umweltcontrolleur"@de ;
+    skos:topConceptOf <> .
+
+<umweltschutzfachwirt_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Umweltschutzfachwirt"@de ;
+    skos:topConceptOf <> .
+
+<umwelttechnischer_assistent_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Umwelt-technischer Assistent"@de ;
+    skos:topConceptOf <> .
+
+<universalfräser_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Universalfräser"@de ;
+    skos:topConceptOf <> .
+
+<universalhärter_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Universalhärter"@de ;
+    skos:topConceptOf <> .
+
+<verfahrensmechaniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Verfahrensmechaniker"@de ;
+    skos:topConceptOf <> .
+
+<vergolder_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Vergolder"@de ;
+    skos:topConceptOf <> .
+
+<verkaufsfahrer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Verkaufsfahrer"@de ;
+    skos:topConceptOf <> .
+
+<verkäufer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Verkäufer"@de ;
+    skos:topConceptOf <> .
+
+<verlagskaufmann_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Verlagskaufmann"@de ;
+    skos:topConceptOf <> .
+
+<vermessungsingenieur_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Vermessungsingenieur"@de ;
+    skos:topConceptOf <> .
+
+<vermessungstechniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Vermessungstechniker"@de ;
+    skos:topConceptOf <> .
+
+<verpackungsmittelmechaniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Verpackungsmittelmechaniker"@de ;
+    skos:topConceptOf <> .
+
+<versandfertigmacher_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Versandfertigmacher"@de ;
+    skos:topConceptOf <> .
+
+<versicherungsangestellter_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Versicherungsangestellter"@de ;
+    skos:topConceptOf <> .
+
+<versicherungskaufmann_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Versicherungskaufmann"@de ;
+    skos:topConceptOf <> .
+
+<versorger_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Versorger"@de ;
+    skos:topConceptOf <> .
+
+<verwaltungsangestellter_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Verwaltungsangestellter"@de ;
+    skos:topConceptOf <> .
+
+<verwaltungsbeamter_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Verwaltungsbeamter"@de ;
+    skos:topConceptOf <> .
+
+<verwaltungsfachangestellter_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Verwaltungsfachangestellter"@de ;
+    skos:topConceptOf <> .
+
+<videoeditor_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Videoeditor"@de ;
+    skos:topConceptOf <> .
+
+<videolaborant_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Videolaborant"@de ;
+    skos:topConceptOf <> .
+
+<volkskundler_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Volkskundler"@de ;
+    skos:topConceptOf <> .
+
+<volkswirt_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Volkswirt"@de ;
+    skos:topConceptOf <> .
+
+<vulkaniseur_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Vulkaniseur"@de ;
+    skos:topConceptOf <> .
+
+<völkerkundler_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Völkerkundler"@de ;
+    skos:topConceptOf <> .
+
+<wachszieher_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wachszieher"@de ;
+    skos:topConceptOf <> .
+
+<warenprüfer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Warenprüfer"@de ;
+    skos:topConceptOf <> .
+
+<wasserbauer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wasserbauer"@de ;
+    skos:topConceptOf <> .
+
+<wasserbauwerker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wasserbauwerker"@de ;
+    skos:topConceptOf <> .
+
+<weber_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Weber"@de ;
+    skos:topConceptOf <> .
+
+<weinküfer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Weinküfer"@de ;
+    skos:topConceptOf <> .
+
+<werbefotograf_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Werbefotograf"@de ;
+    skos:topConceptOf <> .
+
+<werbegrafiker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Werbegrafiker"@de ;
+    skos:topConceptOf <> .
+
+<werbetexter_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Werbetexter"@de ;
+    skos:topConceptOf <> .
+
+<werbeverlagsangestellter_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Werbeverlagsangestellter"@de ;
+    skos:topConceptOf <> .
+
+<werkgehilfe_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Werkgehilfe"@de ;
+    skos:topConceptOf <> .
+
+<werkstoffmacher_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Werkstoffmacher"@de ;
+    skos:topConceptOf <> .
+
+<werkstoffprüfer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Werkstoffprüfer"@de ;
+    skos:topConceptOf <> .
+
+<werkzeugmacher_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Werkzeugmacher"@de ;
+    skos:topConceptOf <> .
+
+<werkzeugmechaniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Werkzeugmechaniker"@de ;
+    skos:topConceptOf <> .
+
+<winzer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Winzer"@de ;
+    skos:topConceptOf <> .
+
+<wirtschafter_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wirtschafter"@de ;
+    skos:topConceptOf <> .
+
+<wirtschaftsinformatiker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wirtschaftsinformatiker"@de ;
+    skos:topConceptOf <> .
+
+<wäscher_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wäscher"@de ;
+    skos:topConceptOf <> .
+
+<zahnarzt_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zahnarzt"@de ;
+    skos:topConceptOf <> .
+
+<zahnarzthelfer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zahnarzthelfer"@de ;
+    skos:topConceptOf <> .
+
+<zahntechniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zahntechniker"@de ;
+    skos:topConceptOf <> .
+
+<zerspanungsmechaniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zerspanungsmechaniker"@de ;
+    skos:topConceptOf <> .
+
+<zimmerer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zimmerer"@de ;
+    skos:topConceptOf <> .
+
+<zinngießer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zinngießer"@de ;
+    skos:topConceptOf <> .
+
+<ziseliseur_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ziseliseur"@de ;
+    skos:topConceptOf <> .
+
+<zollbeamter_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zollbeamter"@de ;
+    skos:topConceptOf <> .
+
+<zweiradmechaniker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zweiradmechaniker"@de ;
+    skos:topConceptOf <> .
+
+<zytologieassistent_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Zytologieassistent"@de ;
+    skos:topConceptOf <> .
+
 <ökotrophologe_id> a skos:Concept ;
     skos:inScheme <> ;
     skos:prefLabel "Ökotrophologe"@de ;
+    skos:topConceptOf <> .
+
+<übersetzer_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "Übersetzer"@de ;
     skos:topConceptOf <> .
 
 <berufsausbildung_id> a skos:Concept ;
@@ -2901,7 +3531,133 @@
         <schuhtechniker_id>,
         <schuhwarenstepper_id>,
         <schweißer_id>,
+        <schwergewebekonfektionär_id>,
+        <schwimmmeistergehilfe_id>,
         <schädlingsbekämpfer_id>,
         <schäfer_id>,
-        <ökotrophologe_id> .
+        <seegüterkontrolleur_id>,
+        <seemann_id>,
+        <segelmacher_id>,
+        <seiler_id>,
+        <sekretär_id>,
+        <siebdrucker_id>,
+        <silberschmied_id>,
+        <socialmediaredakteur_id>,
+        <sonderschullehrer_id>,
+        <sozialversicherungsangestellter_id>,
+        <speditionskaufmann_id>,
+        <spielzeughersteller_id>,
+        <spielzeugmacher_id>,
+        <sportlehrer_id>,
+        <sprechlehrer_id>,
+        <sprengmeister_id>,
+        <stahlbetonbauer_id>,
+        <steiger_id>,
+        <steinbildhauer_id>,
+        <steinmetz_id>,
+        <steuerberater_id>,
+        <steuerfachangestellter_id>,
+        <steuerfachgehilfe_id>,
+        <steuerverwaltungsbeamter_id>,
+        <sticker_id>,
+        <strafvollzugsbeamter_id>,
+        <straßenbauer_id>,
+        <straßenwärter_id>,
+        <stukkateur_id>,
+        <substitut_id>,
+        <systemanalystiker_id>,
+        <systemkaufmann_id>,
+        <tankwart_id>,
+        <tanzpädagoge_id>,
+        <tanztherapeut_id>,
+        <tappisserist_id>,
+        <taucher_id>,
+        <techniker_id>,
+        <technischer_assistent_id>,
+        <technischer_konfektionär_id>,
+        <technischer_zeichner_id>,
+        <teigwarenverkäufer_id>,
+        <teilezurichter_id>,
+        <tennislehrer_id>,
+        <terrazzohersteller_id>,
+        <textildesigner_id>,
+        <textillaborant_id>,
+        <textilmaschinenführer_id>,
+        <textilmechaniker_id>,
+        <textilmustergestalter_id>,
+        <textilreiniger_id>,
+        <textilstopfer_id>,
+        <textiltechniker_id>,
+        <textilveredler_id>,
+        <therapeut_id>,
+        <thermometermacher_id>,
+        <tierarzt_id>,
+        <tierarzthelfer_id>,
+        <tierpfleger_id>,
+        <tierwirt_id>,
+        <tischler_id>,
+        <toningenieur_id>,
+        <tonmeister_id>,
+        <tontechniker_id>,
+        <trainer_id>,
+        <trockenbaumonteur_id>,
+        <täschner_id>,
+        <uhrmacher_id>,
+        <umweltcontrolleur_id>,
+        <umweltschutzfachwirt_id>,
+        <umwelttechnischer_assistent_id>,
+        <universalfräser_id>,
+        <universalhärter_id>,
+        <verfahrensmechaniker_id>,
+        <vergolder_id>,
+        <verkaufsfahrer_id>,
+        <verkäufer_id>,
+        <verlagskaufmann_id>,
+        <vermessungsingenieur_id>,
+        <vermessungstechniker_id>,
+        <verpackungsmittelmechaniker_id>,
+        <versandfertigmacher_id>,
+        <versicherungsangestellter_id>,
+        <versicherungskaufmann_id>,
+        <versorger_id>,
+        <verwaltungsangestellter_id>,
+        <verwaltungsbeamter_id>,
+        <verwaltungsfachangestellter_id>,
+        <videoeditor_id>,
+        <videolaborant_id>,
+        <volkskundler_id>,
+        <volkswirt_id>,
+        <vulkaniseur_id>,
+        <völkerkundler_id>,
+        <wachszieher_id>,
+        <warenprüfer_id>,
+        <wasserbauer_id>,
+        <wasserbauwerker_id>,
+        <weber_id>,
+        <weinküfer_id>,
+        <werbefotograf_id>,
+        <werbegrafiker_id>,
+        <werbetexter_id>,
+        <werbeverlagsangestellter_id>,
+        <werkgehilfe_id>,
+        <werkstoffmacher_id>,
+        <werkstoffprüfer_id>,
+        <werkzeugmacher_id>,
+        <werkzeugmechaniker_id>,
+        <winzer_id>,
+        <wirtschafter_id>,
+        <wirtschaftsinformatiker_id>,
+        <wäscher_id>,
+        <zahnarzt_id>,
+        <zahnarzthelfer_id>,
+        <zahntechniker_id>,
+        <zerspanungsmechaniker_id>,
+        <zimmerer_id>,
+        <zinngießer_id>,
+        <ziseliseur_id>,
+        <zollbeamter_id>,
+        <zweiradmechaniker_id>,
+        <zytologieassistent_id>,
+        <ökotrophologe_id>,
+        <übersetzer_id> .
 

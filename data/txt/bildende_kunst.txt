@@ -61,7 +61,7 @@ Kunst
 -Lichtwirkung
 -Motiv (Kunst)
 -Perspektive (Kunst)
-	--Vogelperspektive	
+	--Vogelperspektive
 -Rekonstruktion (Bildende Kunst)
 -Speckstein
 -Stilkunde

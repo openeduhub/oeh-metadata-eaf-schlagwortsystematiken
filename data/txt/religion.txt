@@ -1,4 +1,4 @@
-R E L I G I O N 									
+R E L I G I O N
 
 Bibel
 -Altes Testament
@@ -221,7 +221,6 @@ Religion
 	--Palmsonntag
 	--Pfingsten
 	--Weihnachten
-		
 -Klerus
 -Kollekte
 -Kreuz
@@ -260,86 +259,87 @@ Religion
 -Wiedergeburt
 -Wunder
 
-Albertz, Heinrich
-Bahr, Petra
-Barth, Karl
-Benedikt XVI. (Papst)
-Benedikt von Nursia
-Bernhard von Clairvaux
-Bernward von Hildesheim
-Beyers Naude, Christian
-Birndorfer, Johann
-Bodelschwingh, Friedrich von, der Ältere
-Boff, Leonardo
-Bonhoeffer, Dietrich
-Bonifatius
-Bora, Katharina von
-Bosco, Don Giovanni
-Brenz, Johannes
-Buber, Martin
-Calvin, Johannes
-Camara, Dom Helder
-Chardin, Pierre Teilhard de
-Dalai Lama
-Delp, Alfred
-Drewermann, Euen
-Elisabeth (Heilige)
-Enomiya-Lassalle, Hugo Makibi
-Erasmus von Rotterdam
-Faulhaber, Michael von
-Fliedner, Theodor
-Florian (Heiliger)
-Franz von Assisi
-Franziskus (Papst)
-Gerstenmaier, Eugen
-Gröb, Wilhelm
-Hahn, Philipp Matthias
-Hammer, Hans
-Hedwig von Schlesien
-Hildegard von Bingen
-Jägerstätter, Franz
-Jan Hus
-Jaspers, Karl
-Johannes XXIII. (Papst)
-Johannes Paul I. (Papst)
-Johannes Paul II. (Papst)
-Juchli, Liliane (Schwester)
-Katharina von Siena Heilige)
-Kierkegaard, Sören
-Knobloch, Cahrlotte
-Kolping, Adolph
-König, Franz
-Kräutler, Erwin
-Lavater, Johann Caspar
-Lichtenberg, Bernhard
-Löhe, Johann Konrad Wilhelem
-Loyola, Ignatius von
-Luther, Martin
-Mallinckrodt, Pauline von
-Moltmann, Jürgen
-Münster, Sebastian
-Müntzer, Thomas
-Mutter Teresa
-Niemöller, Martin
-Nikolaus (Heiliger)
-Pallotti, Vincenzo
-Paul VI. (Papst)
-Pius XII. (Papst)
-Romero, Oscar
-Roswitha von Gandersheim
-Schönherr, Albrecht
-Schutz de Taizé, Frère Roger
-Sölle, Dorothee
-Speckle, Ignaz
-Stirling, Robert
-Tayler, Hudson
-Tetzel, Johannes
-Thomas von Aquin
-Tiele-Winckler, Eva von
-Torres, Camilo
-Tutu, Desmond
-Urban II. (Papst)
-Werner, Gustav
-Wesley, John
-Wichern, Johann Hinrich
-Zelot
+Personen
+-Albertz, Heinrich
+-Bahr, Petra
+-Barth, Karl
+-Benedikt XVI. (Papst)
+-Benedikt von Nursia
+-Bernhard von Clairvaux
+-Bernward von Hildesheim
+-Beyers Naude, Christian
+-Birndorfer, Johann
+-Bodelschwingh, Friedrich von, der Ältere
+-Boff, Leonardo
+-Bonhoeffer, Dietrich
+-Bonifatius
+-Bora, Katharina von
+-Bosco, Don Giovanni
+-Brenz, Johannes
+-Buber, Martin
+-Calvin, Johannes
+-Camara, Dom Helder
+-Chardin, Pierre Teilhard de
+-Dalai Lama
+-Delp, Alfred
+-Drewermann, Euen
+-Elisabeth (Heilige)
+-Enomiya-Lassalle, Hugo Makibi
+-Erasmus von Rotterdam
+-Faulhaber, Michael von
+-Fliedner, Theodor
+-Florian (Heiliger)
+-Franz von Assisi
+-Franziskus (Papst)
+-Gerstenmaier, Eugen
+-Gröb, Wilhelm
+-Hahn, Philipp Matthias
+-Hammer, Hans
+-Hedwig von Schlesien
+-Hildegard von Bingen
+-Jägerstätter, Franz
+-Jan Hus
+-Jaspers, Karl
+-Johannes XXIII. (Papst)
+-Johannes Paul I. (Papst)
+-Johannes Paul II. (Papst)
+-Juchli, Liliane (Schwester)
+-Katharina von Siena Heilige)
+-Kierkegaard, Sören
+-Knobloch, Cahrlotte
+-Kolping, Adolph
+-König, Franz
+-Kräutler, Erwin
+-Lavater, Johann Caspar
+-Lichtenberg, Bernhard
+-Löhe, Johann Konrad Wilhelem
+-Loyola, Ignatius von
+-Luther, Martin
+-Mallinckrodt, Pauline von
+-Moltmann, Jürgen
+-Münster, Sebastian
+-Müntzer, Thomas
+-Mutter Teresa
+-Niemöller, Martin
+-Nikolaus (Heiliger)
+-Pallotti, Vincenzo
+-Paul VI. (Papst)
+-Pius XII. (Papst)
+-Romero, Oscar
+-Roswitha von Gandersheim
+-Schönherr, Albrecht
+-Schutz de Taizé, Frère Roger
+-Sölle, Dorothee
+-Speckle, Ignaz
+-Stirling, Robert
+-Tayler, Hudson
+-Tetzel, Johannes
+-Thomas von Aquin
+-Tiele-Winckler, Eva von
+-Torres, Camilo
+-Tutu, Desmond
+-Urban II. (Papst)
+-Werner, Gustav
+-Wesley, John
+-Wichern, Johann Hinrich
+-Zelot

@@ -1,5 +1,5 @@
 W I R T S C H A F T
-												
+											
 Wirtschaft
 -Außenwirtschaft
 	--Außenhandel
@@ -210,9 +210,10 @@ Volkswagenwerk AG
 
 Club of Rome
 
-Chodorkowski, Michail
-Christians, Friedrich Wilhelm
-List, Friedrich
-Mohn, Richard
-Philips, Anton
-Philips, Gerard
+Personen
+-Chodorkowski, Michail
+-Christians, Friedrich Wilhelm
+-List, Friedrich
+-Mohn, Richard
+-Philips, Anton
+-Philips, Gerard

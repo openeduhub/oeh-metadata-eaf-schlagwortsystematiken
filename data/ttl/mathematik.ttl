@@ -13,19 +13,19 @@
     skos:prefLabel "Analysis"@de .
 
 <babbage__charles_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Babbage, Charles"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Babbage, Charles"@de .
 
 <barlow__peter_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Barlow, Peter"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Barlow, Peter"@de .
 
 <bernoulli__daniel_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Bernoulli, Daniel"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Bernoulli, Daniel"@de .
 
 <bruchrechnung_id> a skos:Concept ;
     skos:broader <algorithmus_id> ;
@@ -38,9 +38,9 @@
     skos:prefLabel "Bündelung (Mathematik)"@de .
 
 <cavalieri__bonaventura_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Cavalieri, Bonaventura"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Cavalieri, Bonaventura"@de .
 
 <chaostheorie_id> a skos:Concept ;
     skos:broader <mathematik_id> ;
@@ -48,14 +48,14 @@
     skos:prefLabel "Chaostheorie"@de .
 
 <coriolis__gaspard_gustave_de_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Coriolis, Gaspard Gustave de"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Coriolis, Gaspard Gustave de"@de .
 
 <descartes__rené_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Descartes, René"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Descartes, René"@de .
 
 <diagramm_id> a skos:Concept ;
     skos:broader <geometrie_id> ;
@@ -98,9 +98,9 @@
     skos:prefLabel "Fraktalgeometrie"@de .
 
 <gauß__carl_friedrich_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Gauß, Carl Friedrich"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Gauß, Carl Friedrich"@de .
 
 <gerade_mathematik_id> a skos:Concept ;
     skos:broader <geometrie_id> ;
@@ -133,9 +133,9 @@
     skos:prefLabel "Kopfrechnen"@de .
 
 <mandelbrot__benoît_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Mandelbrot, Benoît"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Mandelbrot, Benoît"@de .
 
 <menge_mathematik_id> a skos:Concept ;
     skos:broader <mengenlehre_id> ;
@@ -183,9 +183,9 @@
     skos:prefLabel "Rechenstab"@de .
 
 <ries__adam_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Ries, Adam"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Ries, Adam"@de .
 
 <schaltalgebra_id> a skos:Concept ;
     skos:broader <algebra_id> ;
@@ -343,6 +343,20 @@
         <ungleichung_mathematik_id> ;
     skos:prefLabel "Algebra"@de .
 
+<personen_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <babbage__charles_id>,
+        <barlow__peter_id>,
+        <bernoulli__daniel_id>,
+        <cavalieri__bonaventura_id>,
+        <coriolis__gaspard_gustave_de_id>,
+        <descartes__rené_id>,
+        <gauß__carl_friedrich_id>,
+        <mandelbrot__benoît_id>,
+        <ries__adam_id> ;
+    skos:prefLabel "Personen"@de ;
+    skos:topConceptOf <> .
+
 <mathematik_id> a skos:Concept ;
     skos:inScheme <> ;
     skos:narrower <algebra_id>,
@@ -386,14 +400,6 @@
     dct:creator "<https://creator.com>" ;
     dct:description "mathematik_systematik"@de ;
     dct:title "mathematik_systematik"@de ;
-    skos:hasTopConcept <babbage__charles_id>,
-        <barlow__peter_id>,
-        <bernoulli__daniel_id>,
-        <cavalieri__bonaventura_id>,
-        <coriolis__gaspard_gustave_de_id>,
-        <descartes__rené_id>,
-        <gauß__carl_friedrich_id>,
-        <mandelbrot__benoît_id>,
-        <mathematik_id>,
-        <ries__adam_id> .
+    skos:hasTopConcept <mathematik_id>,
+        <personen_id> .
 

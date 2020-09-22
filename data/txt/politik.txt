@@ -1,4 +1,4 @@
-P O L I T I K 										
+P O L I T I K
 
 Politik
 -Arbeitsmarktpolitik
@@ -242,45 +242,46 @@ Europäische Union
 
 GUS
 
-Avnery, Uri
-Balladur, Edouard
-Biedenkopf, Kurt
-Brugioni, Dino
-Bush, George W.
-Castro, Fidel
-Chamorro, Violeta
-Charles (Prinz Wales)
-Cheney, Richard
-Chirac, Jacques
-Chruschtschow, Sergej
-Clement, Wolfgang
-Elisabeth II. (Königin England)
-Eppelmann, Rainer
-Farhat-Naser, Sumaya
-Guttenberg, Karl Theodor zu
-Giscard d'Estaing, Valéry
-Gysi, Gregor 
-Hamm-Brücher, Hildegard
-Hänsch, Klaus
-Höllenreiner, Hugo
-Keller, Ska
-Klarsfeld, Beate
-Kohl, Helmut
-Kraft, Hannelore
-Le Pen, Jean-MArie
-McNamara, Robert
-Menchu, Rigoberta
-Merkel, Angela
-Modrow, Hans
-Mugabe, Robert
-Neudeck, Rupert
-Obama, Barack
-Rüttgers, Jürgen
-Schäuble, Wolfgang
-Schmidt, Helmut
-Schorlemmer, Friedrich
-Schröder, Gerhard
-Steinbrück, Peer
-Trump, Donald
-Veil, Simone
-Yousafzai, Malala
+Personen
+-Avnery, Uri
+-Balladur, Edouard
+-Biedenkopf, Kurt
+-Brugioni, Dino
+-Bush, George W.
+-Castro, Fidel
+-Chamorro, Violeta
+-Charles (Prinz Wales)
+-Cheney, Richard
+-Chirac, Jacques
+-Chruschtschow, Sergej
+-Clement, Wolfgang
+-Elisabeth II. (Königin England)
+-Eppelmann, Rainer
+-Farhat-Naser, Sumaya
+-Guttenberg, Karl Theodor zu
+-Giscard d'Estaing, Valéry
+-Gysi, Gregor 
+-Hamm-Brücher, Hildegard
+-Hänsch, Klaus
+-Höllenreiner, Hugo
+-Keller, Ska
+-Klarsfeld, Beate
+-Kohl, Helmut
+-Kraft, Hannelore
+-Le Pen, Jean-MArie
+-McNamara, Robert
+-Menchu, Rigoberta
+-Merkel, Angela
+-Modrow, Hans
+-Mugabe, Robert
+-Neudeck, Rupert
+-Obama, Barack
+-Rüttgers, Jürgen
+-Schäuble, Wolfgang
+-Schmidt, Helmut
+-Schorlemmer, Friedrich
+-Schröder, Gerhard
+-Steinbrück, Peer
+-Trump, Donald
+-Veil, Simone
+-Yousafzai, Malala

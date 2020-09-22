@@ -505,7 +505,7 @@ Verhaltensforschung
 	--Kind
 		---Kleinkind
 		---Säugling
-	--Körperbau (Mensch)	
+	--Körperbau (Mensch)
 	--Mädchen
 	--Mann
 	--Reifungsprozess (Mensch)
@@ -577,7 +577,7 @@ Anatomie (Tier)
 	--Blutdruck
 	--Blutgefäß
 		---Vene
--Drüse	
+-Drüse
 	--Hirnanhangdrüse
 	--Leber
 		---Galle (Körperflüssigkeit)

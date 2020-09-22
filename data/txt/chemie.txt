@@ -1,4 +1,4 @@
-C H E M I E										
+C H E M I E
 
 Chemie
 -Aggregatzustand
@@ -70,7 +70,7 @@ Periodensystem der Elemente
 		---Kupfer
 		---Uran
 		---Zinn
-	(--Übergangsmetalle)
+	--(Übergangsmetalle)
 		---Wolfram
 -Nichtmetalle
 	--Edelgase
@@ -86,7 +86,7 @@ Periodensystem der Elemente
 	--Wasserstoff
 
 Ätzende Stoffe
-Alkohol	
+Alkohol
 -Bier
 -Wein
 Ammoniak
@@ -123,7 +123,7 @@ Nitrate
 Öl
 -Heizöl
 Oxide
-Parfüm	
+Parfüm
 Phosphate
 PH-Wert
 Radioaktivität
@@ -143,35 +143,36 @@ Vulkanisation
 Wasser
 -Wasserdampf
 
-Bader, Alfred
-Baekeland, Leo Hendrik
-Böttger, Johann Friedrich
-Bosch, Carl
-Butenandt, Adolf
-Curie, Marie
-Dalton, John
-Djerassi, Carl
-Feigl, Friedrich
-Fischer, Emil
-Goodyear, Charles
-Haber, Fritz
-Hahn, Otto
-Havemann, Robert
-Hofmann, Fritz
-Klatte, Fritz
-Kohn, Walter
-Lavoisier, Antoine Laurent
-Liebig, Justus von
-Mendelejew, Dimitrij Iwanowitsch
-Meyer, Lothar
-Nobel, Alfred
-Ostwald, Wilhelm
-Pasteur, Louis
-Pauling, Linus Carl
-Perkin, William Henry
-Pfeiffer, Paul
-Priestley, Joseph
-Staudinger, Hermann
-Straßmann, Fritz
-Thomas, Sidney Gilchrist
-Wöhler, Friedrich
+Personen
+- Bader, Alfred
+- Baekeland, Leo Hendrik
+- Böttger, Johann Friedrich
+- Bosch, Carl
+- Butenandt, Adolf
+- Curie, Marie
+- Dalton, John
+- Djerassi, Carl
+- Feigl, Friedrich
+- Fischer, Emil
+- Goodyear, Charles
+- Haber, Fritz
+- Hahn, Otto
+- Havemann, Robert
+- Hofmann, Fritz
+- Klatte, Fritz
+- Kohn, Walter
+- Lavoisier, Antoine Laurent
+- Liebig, Justus von
+- Mendelejew, Dimitrij Iwanowitsch
+- Meyer, Lothar
+- Nobel, Alfred
+- Ostwald, Wilhelm
+- Pasteur, Louis
+- Pauling, Linus Carl
+- Perkin, William Henry
+- Pfeiffer, Paul
+- Priestley, Joseph
+- Staudinger, Hermann
+- Straßmann, Fritz
+- Thomas, Sidney Gilchrist
+- Wöhler, Friedrich

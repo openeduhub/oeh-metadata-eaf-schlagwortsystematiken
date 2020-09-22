@@ -1,4 +1,4 @@
-M E D I E N P Ä D A G O G I K							
+M E D I E N P Ä D A G O G I K
 
 Medienpädagogik
 -Medienzentrum
@@ -60,5 +60,6 @@ Medienpädagogik
 -Tonstudio
 -Unterrichtsfilm
 
-Bittorf, Wilhelm
-Everding, August
+Personen
+-Bittorf, Wilhelm
+-Everding, August

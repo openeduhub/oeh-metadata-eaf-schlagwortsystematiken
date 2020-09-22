@@ -33,9 +33,9 @@
     skos:prefLabel "Autorität"@de .
 
 <ballauff__theodor_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Ballauff, Theodor"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Ballauff, Theodor"@de .
 
 <begabung_id> a skos:Concept ;
     skos:broader <bildung_id> ;
@@ -78,19 +78,19 @@
     skos:prefLabel "Blackbox (Kybernetik)"@de .
 
 <blankertz__herwig_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Blankertz, Herwig"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Blankertz, Herwig"@de .
 
 <bollnow__otto_friedrich_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Bollnow, Otto Friedrich"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Bollnow, Otto Friedrich"@de .
 
 <brezinka__wolfgang_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Brezinka, Wolfgang"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Brezinka, Wolfgang"@de .
 
 <chancengleichheit_id> a skos:Concept ;
     skos:broader <bildungssystem_id> ;
@@ -103,9 +103,9 @@
     skos:prefLabel "College"@de .
 
 <comeniua__johann_amos_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Comeniua, Johann Amos"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Comeniua, Johann Amos"@de .
 
 <curriculum_id> a skos:Concept ;
     skos:broader <bildungssystem_id> ;
@@ -178,14 +178,14 @@
     skos:prefLabel "Fernstudium"@de .
 
 <freinet__celestin_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Freinet, Celestin"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Freinet, Celestin"@de .
 
 <fröbel__friedrich_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Fröbel, Friedrich"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Fröbel, Friedrich"@de .
 
 <fächerübergreifender_unterricht__id> a skos:Concept ;
     skos:broader <unterrichtsmethode_id> ;
@@ -208,9 +208,9 @@
     skos:prefLabel "Gruppenarbeit"@de .
 
 <guts_muths__johann_christoph_friedrich_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Guts Muths, Johann Christoph Friedrich"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Guts Muths, Johann Christoph Friedrich"@de .
 
 <gymnasium_id> a skos:Concept ;
     skos:broader <schule_id> ;
@@ -243,14 +243,14 @@
     skos:topConceptOf <> .
 
 <hentig__hartmut_von_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hentig, Hartmut von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hentig, Hartmut von"@de .
 
 <hirsch__betty_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hirsch, Betty"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hirsch, Betty"@de .
 
 <hochschule_id> a skos:Concept ;
     skos:broader <schule_id> ;
@@ -258,9 +258,9 @@
     skos:prefLabel "Hochschule"@de .
 
 <hoffmann__heinrich_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hoffmann, Heinrich"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hoffmann, Heinrich"@de .
 
 <interkulturelles_lernen_id> a skos:Concept ;
     skos:broader <bildungssystem_id> ;
@@ -278,9 +278,9 @@
     skos:topConceptOf <> .
 
 <jung__carl_gustav_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Jung, Carl Gustav"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Jung, Carl Gustav"@de .
 
 <kinderbild_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -323,9 +323,9 @@
     skos:topConceptOf <> .
 
 <kroh__oswald_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Kroh, Oswald"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Kroh, Oswald"@de .
 
 <kunstunterricht_id> a skos:Concept ;
     skos:broader <unterricht_id> ;
@@ -333,14 +333,14 @@
     skos:prefLabel "Kunstunterricht"@de .
 
 <köhler__wolfgang_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Köhler, Wolfgang"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Köhler, Wolfgang"@de .
 
 <langeveld__martinus_jan_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Langeveld, Martinus Jan"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Langeveld, Martinus Jan"@de .
 
 <lehrerbildung_id> a skos:Concept ;
     skos:broader <bildung_id> ;
@@ -378,34 +378,34 @@
     skos:prefLabel "Lernschwierigkeit"@de .
 
 <lewin__kurt_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Lewin, Kurt"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Lewin, Kurt"@de .
 
 <lietz__herrmann_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Lietz, Herrmann"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Lietz, Herrmann"@de .
 
 <litt__theodor_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Litt, Theodor"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Litt, Theodor"@de .
 
 <makarenko__anton_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Makarenko, Anton"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Makarenko, Anton"@de .
 
 <melanchton__philipp_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Melanchton, Philipp"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Melanchton, Philipp"@de .
 
 <metzger__wolfgang_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Metzger, Wolfgang"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Metzger, Wolfgang"@de .
 
 <milgramexperiment_id> a skos:Concept ;
     skos:broader <erziehung_id> ;
@@ -418,9 +418,9 @@
     skos:prefLabel "Mobbing"@de .
 
 <montessori__maria_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Montessori, Maria"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Montessori, Maria"@de .
 
 <multiplechoice_id> a skos:Concept ;
     skos:broader <prüfung_id> ;
@@ -438,19 +438,19 @@
     skos:prefLabel "Musikschule"@de .
 
 <neill__alexander_sutherland_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Neill, Alexander Sutherland"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Neill, Alexander Sutherland"@de .
 
 <pestalozzi__johann_heinrich_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Pestalozzi, Johann Heinrich"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Pestalozzi, Johann Heinrich"@de .
 
 <petersen__peter_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Petersen, Peter"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Petersen, Peter"@de .
 
 <polytechnischer_unterricht__id> a skos:Concept ;
     skos:broader <unterrichtsmethode_id> ;
@@ -483,9 +483,9 @@
     skos:prefLabel "Rollenspiel"@de .
 
 <roth__heirich_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Roth, Heirich"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Roth, Heirich"@de .
 
 <schule_ausland_id> a skos:Concept ;
     skos:broader <schule_id> ;
@@ -618,9 +618,9 @@
     skos:prefLabel "Unterrichtsplanung"@de .
 
 <wagenschein__martin_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Wagenschein, Martin"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Wagenschein, Martin"@de .
 
 <waldorfschule_id> a skos:Concept ;
     skos:broader <schule_id> ;
@@ -633,9 +633,9 @@
     skos:prefLabel "Weiterbildung"@de .
 
 <wyneken__gustav_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Wyneken, Gustav"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Wyneken, Gustav"@de .
 
 <zensur_note_id> a skos:Concept ;
     skos:broader <prüfung_id> ;
@@ -789,13 +789,9 @@
     skos:prefLabel "Bildungssystem"@de ;
     skos:topConceptOf <> .
 
-<> a skos:ConceptScheme ;
-    dct:creator "<https://creator.com>" ;
-    dct:description "paedagogik_systematik"@de ;
-    dct:title "paedagogik_systematik"@de ;
-    skos:hasTopConcept <ballauff__theodor_id>,
-        <benposta_id>,
-        <bildungssystem_id>,
+<personen_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <ballauff__theodor_id>,
         <blankertz__herwig_id>,
         <bollnow__otto_friedrich_id>,
         <brezinka__wolfgang_id>,
@@ -803,15 +799,10 @@
         <freinet__celestin_id>,
         <fröbel__friedrich_id>,
         <guts_muths__johann_christoph_friedrich_id>,
-        <helenelangeschule_wiesbaden_id>,
         <hentig__hartmut_von_id>,
         <hirsch__betty_id>,
         <hoffmann__heinrich_id>,
-        <jugend_forscht_id>,
         <jung__carl_gustav_id>,
-        <kinderbild_id>,
-        <kinderdorf_id>,
-        <kriegsspielzeug_id>,
         <kroh__oswald_id>,
         <köhler__wolfgang_id>,
         <langeveld__martinus_jan_id>,
@@ -827,5 +818,20 @@
         <petersen__peter_id>,
         <roth__heirich_id>,
         <wagenschein__martin_id>,
-        <wyneken__gustav_id> .
+        <wyneken__gustav_id> ;
+    skos:prefLabel "Personen"@de ;
+    skos:topConceptOf <> .
+
+<> a skos:ConceptScheme ;
+    dct:creator "<https://creator.com>" ;
+    dct:description "paedagogik_systematik"@de ;
+    dct:title "paedagogik_systematik"@de ;
+    skos:hasTopConcept <benposta_id>,
+        <bildungssystem_id>,
+        <helenelangeschule_wiesbaden_id>,
+        <jugend_forscht_id>,
+        <kinderbild_id>,
+        <kinderdorf_id>,
+        <kriegsspielzeug_id>,
+        <personen_id> .
 

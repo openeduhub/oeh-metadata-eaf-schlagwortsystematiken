@@ -1,4 +1,4 @@
-P Ä D A G O G I K									
+P Ä D A G O G I K
 
 Bildungssystem
 -Bildung
@@ -113,31 +113,32 @@ Benposta
 Helene-Lange-Schule (Wiesbaden)
 Kinderdorf
 
-Ballauff, Theodor
-Blankertz, Herwig
-Bollnow, Otto Friedrich
-Brezinka, Wolfgang
-Comeniua, Johann Amos
-Freinet, Celestin
-Fröbel, Friedrich
-Guts Muths, Johann Christoph Friedrich
-Hentig, Hartmut von
-Hirsch, Betty
-Hoffmann, Heinrich
-Jung, Carl Gustav
-Köhler, Wolfgang
-Kroh, Oswald
-Langeveld, Martinus Jan
-Lewin, Kurt
-Lietz, Herrmann
-Litt, Theodor
-Makarenko, Anton
-Melanchton, Philipp
-Metzger, Wolfgang
-Montessori, Maria
-Neill, Alexander Sutherland
-Pestalozzi, Johann Heinrich
-Petersen, Peter
-Roth, Heirich
-Wagenschein, Martin
-Wyneken, Gustav
+Personen
+-Ballauff, Theodor
+-Blankertz, Herwig
+-Bollnow, Otto Friedrich
+-Brezinka, Wolfgang
+-Comeniua, Johann Amos
+-Freinet, Celestin
+-Fröbel, Friedrich
+-Guts Muths, Johann Christoph Friedrich
+-Hentig, Hartmut von
+-Hirsch, Betty
+-Hoffmann, Heinrich
+-Jung, Carl Gustav
+-Köhler, Wolfgang
+-Kroh, Oswald
+-Langeveld, Martinus Jan
+-Lewin, Kurt
+-Lietz, Herrmann
+-Litt, Theodor
+-Makarenko, Anton
+-Melanchton, Philipp
+-Metzger, Wolfgang
+-Montessori, Maria
+-Neill, Alexander Sutherland
+-Pestalozzi, Johann Heinrich
+-Petersen, Peter
+-Roth, Heirich
+-Wagenschein, Martin
+-Wyneken, Gustav

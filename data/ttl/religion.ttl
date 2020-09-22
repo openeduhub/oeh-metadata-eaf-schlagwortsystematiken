@@ -2,11 +2,6 @@
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<_id> a skos:Concept ;
-    skos:broader <weihnachten_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel ""@de .
-
 <aaron_biblische_gestalt_id> a skos:Concept ;
     skos:broader <biblische_gestalt_id> ;
     skos:inScheme <> ;
@@ -53,9 +48,9 @@
     skos:prefLabel "Advent"@de .
 
 <albertz__heinrich_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Albertz, Heinrich"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Albertz, Heinrich"@de .
 
 <altarbild_id> a skos:Concept ;
     skos:broader <altar_id> ;
@@ -83,9 +78,9 @@
     skos:prefLabel "Augustiner (kirchlicher Orden)"@de .
 
 <bahr__petra_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Bahr, Petra"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Bahr, Petra"@de .
 
 <baptisten_id> a skos:Concept ;
     skos:broader <freikirche_id> ;
@@ -93,9 +88,9 @@
     skos:prefLabel "Baptisten"@de .
 
 <barth__karl_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Barth, Karl"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Barth, Karl"@de .
 
 <bartimäus_biblische_gestalt_id> a skos:Concept ;
     skos:broader <biblische_gestalt_id> ;
@@ -113,14 +108,14 @@
     skos:prefLabel "Bekennende Kirche"@de .
 
 <benedikt_von_nursia_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Benedikt von Nursia"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Benedikt von Nursia"@de .
 
 <benedikt_xvi._papst_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Benedikt XVI. (Papst)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Benedikt XVI. (Papst)"@de .
 
 <benediktiner_id> a skos:Concept ;
     skos:broader <mönchtum_id> ;
@@ -138,14 +133,14 @@
     skos:prefLabel "Bergpredigt"@de .
 
 <bernhard_von_clairvaux_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Bernhard von Clairvaux"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Bernhard von Clairvaux"@de .
 
 <bernward_von_hildesheim_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Bernward von Hildesheim"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Bernward von Hildesheim"@de .
 
 <beschneidung_genitalien_id> a skos:Concept ;
     skos:broader <religion_id> ;
@@ -153,9 +148,9 @@
     skos:prefLabel "Beschneidung (Genitalien)"@de .
 
 <beyers_naude__christian_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Beyers Naude, Christian"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Beyers Naude, Christian"@de .
 
 <bhagwan_id> a skos:Concept ;
     skos:broader <jugendreligion_id> ;
@@ -173,59 +168,59 @@
     skos:prefLabel "Bibelübersetzung"@de .
 
 <birndorfer__johann_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Birndorfer, Johann"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Birndorfer, Johann"@de .
 
 <bodelschwingh__friedrich_von__der_ältere_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Bodelschwingh, Friedrich von, der Ältere"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Bodelschwingh, Friedrich von, der Ältere"@de .
 
 <boff__leonardo_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Boff, Leonardo"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Boff, Leonardo"@de .
 
 <bonhoeffer__dietrich_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Bonhoeffer, Dietrich"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Bonhoeffer, Dietrich"@de .
 
 <bonifatius_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Bonifatius"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Bonifatius"@de .
 
 <bora__katharina_von_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Bora, Katharina von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Bora, Katharina von"@de .
 
 <bosco__don_giovanni_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Bosco, Don Giovanni"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Bosco, Don Giovanni"@de .
 
 <brenz__johannes_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Brenz, Johannes"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Brenz, Johannes"@de .
 
 <buber__martin_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Buber, Martin"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Buber, Martin"@de .
 
 <calvin__johannes_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Calvin, Johannes"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Calvin, Johannes"@de .
 
 <camara__dom_helder_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Camara, Dom Helder"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Camara, Dom Helder"@de .
 
 <caritas_id> a skos:Concept ;
     skos:broader <katholische_kirche_id> ;
@@ -233,9 +228,9 @@
     skos:prefLabel "Caritas"@de .
 
 <chardin__pierre_teilhard_de_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Chardin, Pierre Teilhard de"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Chardin, Pierre Teilhard de"@de .
 
 <christliche_lebensgestaltung_id> a skos:Concept ;
     skos:broader <religion_id> ;
@@ -258,9 +253,9 @@
     skos:prefLabel "Citeaux"@de .
 
 <dalai_lama_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Dalai Lama"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Dalai Lama"@de .
 
 <daniel_biblische_gestalt_id> a skos:Concept ;
     skos:broader <biblische_gestalt_id> ;
@@ -278,9 +273,9 @@
     skos:prefLabel "David (biblische Gestalt)"@de .
 
 <delp__alfred_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Delp, Alfred"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Delp, Alfred"@de .
 
 <deutsche_christen_id> a skos:Concept ;
     skos:broader <evangelische_kirche_id> ;
@@ -303,9 +298,9 @@
     skos:prefLabel "Drei Könige"@de .
 
 <drewermann__euen_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Drewermann, Euen"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Drewermann, Euen"@de .
 
 <elias_biblische_gestalt_id> a skos:Concept ;
     skos:broader <biblische_gestalt_id> ;
@@ -318,9 +313,9 @@
     skos:prefLabel "Elisabeth (biblische Gestalt)"@de .
 
 <elisabeth_heilige_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Elisabeth (Heilige)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Elisabeth (Heilige)"@de .
 
 <elisäus_biblische_gestalt_id> a skos:Concept ;
     skos:broader <biblische_gestalt_id> ;
@@ -333,14 +328,14 @@
     skos:prefLabel "Engel"@de .
 
 <enomiyalassalle__hugo_makibi_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Enomiya-Lassalle, Hugo Makibi"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "EnomiyaLassalle, Hugo Makibi"@de .
 
 <erasmus_von_rotterdam_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Erasmus von Rotterdam"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Erasmus von Rotterdam"@de .
 
 <erntedankfest_id> a skos:Concept ;
     skos:broader <religion_id> ;
@@ -388,9 +383,9 @@
     skos:prefLabel "Fatima"@de .
 
 <faulhaber__michael_von_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Faulhaber, Michael von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Faulhaber, Michael von"@de .
 
 <fetisch_id> a skos:Concept ;
     skos:broader <stammesreligion_id> ;
@@ -403,19 +398,19 @@
     skos:prefLabel "Firmung"@de .
 
 <fliedner__theodor_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Fliedner, Theodor"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Fliedner, Theodor"@de .
 
 <florian_heiliger_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Florian (Heiliger)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Florian (Heiliger)"@de .
 
 <franz_von_assisi_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Franz von Assisi"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Franz von Assisi"@de .
 
 <franziskaner_kirchlicher_orden_id> a skos:Concept ;
     skos:broader <mönchtum_id> ;
@@ -423,9 +418,9 @@
     skos:prefLabel "Franziskaner (kirchlicher Orden)"@de .
 
 <franziskus_papst_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Franziskus (Papst)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Franziskus (Papst)"@de .
 
 <frömmigkeit_id> a skos:Concept ;
     skos:broader <religion_id> ;
@@ -443,9 +438,9 @@
     skos:prefLabel "Gegenreformation"@de .
 
 <gerstenmaier__eugen_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Gerstenmaier, Eugen"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Gerstenmaier, Eugen"@de .
 
 <gesellschaft_jesu_id> a skos:Concept ;
     skos:broader <mönchtum_id> ;
@@ -473,9 +468,9 @@
     skos:prefLabel "Gottesbeweis"@de .
 
 <gröb__wilhelm_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Gröb, Wilhelm"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Gröb, Wilhelm"@de .
 
 <hagar_biblische_gestalt_id> a skos:Concept ;
     skos:broader <biblische_gestalt_id> ;
@@ -483,19 +478,19 @@
     skos:prefLabel "Hagar (biblische Gestalt)"@de .
 
 <hahn__philipp_matthias_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hahn, Philipp Matthias"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hahn, Philipp Matthias"@de .
 
 <hammer__hans_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hammer, Hans"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hammer, Hans"@de .
 
 <hedwig_von_schlesien_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hedwig von Schlesien"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hedwig von Schlesien"@de .
 
 <heiligenlegende_id> a skos:Concept ;
     skos:broader <religion_id> ;
@@ -523,9 +518,9 @@
     skos:prefLabel "Herodes (biblische Gestalt)"@de .
 
 <hildegard_von_bingen_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hildegard von Bingen"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hildegard von Bingen"@de .
 
 <hiob_biblische_gestalt_id> a skos:Concept ;
     skos:broader <biblische_gestalt_id> ;
@@ -588,14 +583,14 @@
     skos:prefLabel "Jakob (biblische Gestalt)"@de .
 
 <jan_hus_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Jan Hus"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Jan Hus"@de .
 
 <jaspers__karl_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Jaspers, Karl"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Jaspers, Karl"@de .
 
 <jenseits_id> a skos:Concept ;
     skos:broader <religion_id> ;
@@ -623,19 +618,19 @@
     skos:prefLabel "Johannes (Evangelist)"@de .
 
 <johannes_paul_i._papst_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Johannes Paul I. (Papst)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Johannes Paul I. (Papst)"@de .
 
 <johannes_paul_ii._papst_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Johannes Paul II. (Papst)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Johannes Paul II. (Papst)"@de .
 
 <johannes_xxiii._papst_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Johannes XXIII. (Papst)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Johannes XXIII. (Papst)"@de .
 
 <jonas_biblische_gestalt_id> a skos:Concept ;
     skos:broader <biblische_gestalt_id> ;
@@ -658,9 +653,9 @@
     skos:prefLabel "Josua (biblische Gestalt)"@de .
 
 <juchli__liliane_schwester_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Juchli, Liliane (Schwester)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Juchli, Liliane (Schwester)"@de .
 
 <juda_id> a skos:Concept ;
     skos:broader <biblische_stätte_id> ;
@@ -683,9 +678,9 @@
     skos:prefLabel "Judenmission"@de .
 
 <jägerstätter__franz_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Jägerstätter, Franz"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Jägerstätter, Franz"@de .
 
 <kain_biblische_gestalt_id> a skos:Concept ;
     skos:broader <biblische_gestalt_id> ;
@@ -703,9 +698,9 @@
     skos:prefLabel "Karwoche"@de .
 
 <katharina_von_siena_heilige_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Katharina von Siena Heilige)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Katharina von Siena Heilige)"@de .
 
 <katholizismus_id> a skos:Concept ;
     skos:broader <theologie_id> ;
@@ -718,9 +713,9 @@
     skos:prefLabel "Ketzer"@de .
 
 <kierkegaard__sören_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Kierkegaard, Sören"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Kierkegaard, Sören"@de .
 
 <kirchengemeinde_id> a skos:Concept ;
     skos:broader <religion_id> ;
@@ -748,9 +743,9 @@
     skos:prefLabel "Klosterleben"@de .
 
 <knobloch__cahrlotte_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Knobloch, Cahrlotte"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Knobloch, Cahrlotte"@de .
 
 <kollekte_id> a skos:Concept ;
     skos:broader <religion_id> ;
@@ -758,9 +753,9 @@
     skos:prefLabel "Kollekte"@de .
 
 <kolping__adolph_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Kolping, Adolph"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Kolping, Adolph"@de .
 
 <konfirmation_id> a skos:Concept ;
     skos:broader <religiöse_tradition_id> ;
@@ -818,9 +813,9 @@
     skos:prefLabel "Krippe (Weihnachten)"@de .
 
 <kräutler__erwin_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Kräutler, Erwin"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Kräutler, Erwin"@de .
 
 <kult_id> a skos:Concept ;
     skos:broader <religion_id> ;
@@ -828,9 +823,9 @@
     skos:prefLabel "Kult"@de .
 
 <könig__franz_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "König, Franz"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "König, Franz"@de .
 
 <lamaismus_id> a skos:Concept ;
     skos:broader <buddhismus_id> ;
@@ -838,9 +833,9 @@
     skos:prefLabel "Lamaismus"@de .
 
 <lavater__johann_caspar_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Lavater, Johann Caspar"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Lavater, Johann Caspar"@de .
 
 <lazarus_biblische_gestalt_id> a skos:Concept ;
     skos:broader <biblische_gestalt_id> ;
@@ -848,9 +843,9 @@
     skos:prefLabel "Lazarus (biblische Gestalt)"@de .
 
 <lichtenberg__bernhard_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Lichtenberg, Bernhard"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Lichtenberg, Bernhard"@de .
 
 <lot_biblische_gestalt_id> a skos:Concept ;
     skos:broader <biblische_gestalt_id> ;
@@ -858,9 +853,9 @@
     skos:prefLabel "Lot (biblische Gestalt)"@de .
 
 <loyola__ignatius_von_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Loyola, Ignatius von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Loyola, Ignatius von"@de .
 
 <lukas_evangelist_id> a skos:Concept ;
     skos:broader <apostel_id> ;
@@ -868,14 +863,14 @@
     skos:prefLabel "Lukas (Evangelist)"@de .
 
 <luther__martin_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Luther, Martin"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Luther, Martin"@de .
 
 <löhe__johann_konrad_wilhelem_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Löhe, Johann Konrad Wilhelem"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Löhe, Johann Konrad Wilhelem"@de .
 
 <magie_id> a skos:Concept ;
     skos:broader <okkultismus_id> ;
@@ -883,9 +878,9 @@
     skos:prefLabel "Magie"@de .
 
 <mallinckrodt__pauline_von_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Mallinckrodt, Pauline von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Mallinckrodt, Pauline von"@de .
 
 <maria_biblische_gestalt_id> a skos:Concept ;
     skos:broader <biblische_gestalt_id> ;
@@ -913,9 +908,9 @@
     skos:prefLabel "Mohammed (Stifter des Islam)"@de .
 
 <moltmann__jürgen_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Moltmann, Jürgen"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Moltmann, Jürgen"@de .
 
 <moschee_id> a skos:Concept ;
     skos:broader <islam_id> ;
@@ -933,9 +928,9 @@
     skos:prefLabel "Muslim"@de .
 
 <mutter_teresa_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Mutter Teresa"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Mutter Teresa"@de .
 
 <mysterienspiel_id> a skos:Concept ;
     skos:broader <religion_id> ;
@@ -948,14 +943,14 @@
     skos:prefLabel "Mystik"@de .
 
 <münster__sebastian_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Münster, Sebastian"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Münster, Sebastian"@de .
 
 <müntzer__thomas_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Müntzer, Thomas"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Müntzer, Thomas"@de .
 
 <nachfolge_jesus_christus_id> a skos:Concept ;
     skos:broader <religion_id> ;
@@ -968,14 +963,14 @@
     skos:prefLabel "New Age"@de .
 
 <niemöller__martin_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Niemöller, Martin"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Niemöller, Martin"@de .
 
 <nikolaus_heiliger_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Nikolaus (Heiliger)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Nikolaus (Heiliger)"@de .
 
 <noah_biblische_gestalt_id> a skos:Concept ;
     skos:broader <biblische_gestalt_id> ;
@@ -1003,9 +998,9 @@
     skos:prefLabel "Pagode"@de .
 
 <pallotti__vincenzo_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Pallotti, Vincenzo"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Pallotti, Vincenzo"@de .
 
 <palmsonntag_id> a skos:Concept ;
     skos:broader <kirchenjahr_id> ;
@@ -1038,9 +1033,9 @@
     skos:prefLabel "Patriarch (Erzvater)"@de .
 
 <paul_vi._papst_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Paul VI. (Papst)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Paul VI. (Papst)"@de .
 
 <paulus_biblische_gestalt_id> a skos:Concept ;
     skos:broader <apostel_id> ;
@@ -1078,9 +1073,9 @@
     skos:prefLabel "Pilger"@de .
 
 <pius_xii._papst_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Pius XII. (Papst)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Pius XII. (Papst)"@de .
 
 <protestantismus_id> a skos:Concept ;
     skos:broader <theologie_id> ;
@@ -1113,9 +1108,9 @@
     skos:topConceptOf <> .
 
 <romero__oscar_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Romero, Oscar"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Romero, Oscar"@de .
 
 <ronchamp_id> a skos:Concept ;
     skos:broader <wallfahrtsort_id> ;
@@ -1123,9 +1118,9 @@
     skos:prefLabel "Ronchamp"@de .
 
 <roswitha_von_gandersheim_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Roswitha von Gandersheim"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Roswitha von Gandersheim"@de .
 
 <ruth_biblische_gestalt_id> a skos:Concept ;
     skos:broader <biblische_gestalt_id> ;
@@ -1183,14 +1178,14 @@
     skos:prefLabel "Schiiten"@de .
 
 <schutz_de_taizé__frère_roger_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Schutz de Taizé, Frère Roger"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Schutz de Taizé, Frère Roger"@de .
 
 <schönherr__albrecht_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Schönherr, Albrecht"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Schönherr, Albrecht"@de .
 
 <schöpfung_id> a skos:Concept ;
     skos:broader <biblische_erzählung_id> ;
@@ -1218,9 +1213,9 @@
     skos:prefLabel "Sintflut"@de .
 
 <speckle__ignaz_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Speckle, Ignaz"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Speckle, Ignaz"@de .
 
 <spiritualität_id> a skos:Concept ;
     skos:broader <religion_id> ;
@@ -1228,9 +1223,9 @@
     skos:prefLabel "Spiritualität"@de .
 
 <stirling__robert_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Stirling, Robert"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Stirling, Robert"@de .
 
 <synagoge_id> a skos:Concept ;
     skos:broader <judentum_id> ;
@@ -1243,9 +1238,9 @@
     skos:prefLabel "Säkularisierung"@de .
 
 <sölle__dorothee_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Sölle, Dorothee"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Sölle, Dorothee"@de .
 
 <sünde_id> a skos:Concept ;
     skos:broader <religion_id> ;
@@ -1263,9 +1258,9 @@
     skos:prefLabel "Taufe"@de .
 
 <tayler__hudson_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Tayler, Hudson"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Tayler, Hudson"@de .
 
 <tempel_id> a skos:Concept ;
     skos:broader <religion_id> ;
@@ -1273,9 +1268,9 @@
     skos:prefLabel "Tempel"@de .
 
 <tetzel__johannes_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Tetzel, Johannes"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Tetzel, Johannes"@de .
 
 <theodizee_id> a skos:Concept ;
     skos:broader <christentum_id> ;
@@ -1283,9 +1278,9 @@
     skos:prefLabel "Theodizee"@de .
 
 <thomas_von_aquin_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Thomas von Aquin"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Thomas von Aquin"@de .
 
 <thora_id> a skos:Concept ;
     skos:broader <judentum_id> ;
@@ -1293,14 +1288,14 @@
     skos:prefLabel "Thora"@de .
 
 <tielewinckler__eva_von_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Tiele-Winckler, Eva von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "TieleWinckler, Eva von"@de .
 
 <torres__camilo_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Torres, Camilo"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Torres, Camilo"@de .
 
 <totenkult_id> a skos:Concept ;
     skos:broader <okkultismus_id> ;
@@ -1308,9 +1303,9 @@
     skos:prefLabel "Totenkult"@de .
 
 <tutu__desmond_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Tutu, Desmond"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Tutu, Desmond"@de .
 
 <umbanda_id> a skos:Concept ;
     skos:broader <religion_id> ;
@@ -1323,9 +1318,9 @@
     skos:prefLabel "Upanishaden"@de .
 
 <urban_ii._papst_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Urban II. (Papst)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Urban II. (Papst)"@de .
 
 <urchristentum_id> a skos:Concept ;
     skos:broader <kirchengeschichte_id> ;
@@ -1387,6 +1382,11 @@
     skos:inScheme <> ;
     skos:prefLabel "Weihe (Religion)"@de .
 
+<weihnachten_id> a skos:Concept ;
+    skos:broader <kirchenjahr_id> ;
+    skos:inScheme <> ;
+    skos:prefLabel "Weihnachten"@de .
+
 <weihnachtsgeschichte_id> a skos:Concept ;
     skos:broader <biblische_erzählung_id> ;
     skos:inScheme <> ;
@@ -1403,19 +1403,19 @@
     skos:prefLabel "Weihrauch"@de .
 
 <werner__gustav_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Werner, Gustav"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Werner, Gustav"@de .
 
 <wesley__john_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Wesley, John"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Wesley, John"@de .
 
 <wichern__johann_hinrich_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Wichern, Johann Hinrich"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Wichern, Johann Hinrich"@de .
 
 <wiedergeburt_id> a skos:Concept ;
     skos:broader <religion_id> ;
@@ -1448,9 +1448,9 @@
     skos:prefLabel "Zehn Gebote"@de .
 
 <zelot_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Zelot"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Zelot"@de .
 
 <zenbuddhismus_id> a skos:Concept ;
     skos:broader <buddhismus_id> ;
@@ -1532,12 +1532,6 @@
     skos:inScheme <> ;
     skos:narrower <fetisch_id> ;
     skos:prefLabel "Stammesreligion"@de .
-
-<weihnachten_id> a skos:Concept ;
-    skos:broader <kirchenjahr_id> ;
-    skos:inScheme <> ;
-    skos:narrower <_id> ;
-    skos:prefLabel "Weihnachten"@de .
 
 <befreiungstheologie_id> a skos:Concept ;
     skos:broader <katholische_kirche_id> ;
@@ -1942,11 +1936,9 @@
     skos:prefLabel "Religion"@de ;
     skos:topConceptOf <> .
 
-<> a skos:ConceptScheme ;
-    dct:creator "<https://creator.com>" ;
-    dct:description "religion_systematik"@de ;
-    dct:title "religion_systematik"@de ;
-    skos:hasTopConcept <albertz__heinrich_id>,
+<personen_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <albertz__heinrich_id>,
         <bahr__petra_id>,
         <barth__karl_id>,
         <benedikt_von_nursia_id>,
@@ -1954,7 +1946,6 @@
         <bernhard_von_clairvaux_id>,
         <bernward_von_hildesheim_id>,
         <beyers_naude__christian_id>,
-        <bibel_id>,
         <birndorfer__johann_id>,
         <bodelschwingh__friedrich_von__der_ältere_id>,
         <boff__leonardo_id>,
@@ -1993,8 +1984,6 @@
         <jägerstätter__franz_id>,
         <katharina_von_siena_heilige_id>,
         <kierkegaard__sören_id>,
-        <kirchengeschichte_id>,
-        <kirchensteuer_id>,
         <knobloch__cahrlotte_id>,
         <kolping__adolph_id>,
         <kräutler__erwin_id>,
@@ -2014,8 +2003,6 @@
         <pallotti__vincenzo_id>,
         <paul_vi._papst_id>,
         <pius_xii._papst_id>,
-        <religion_id>,
-        <religionskritik_id>,
         <romero__oscar_id>,
         <roswitha_von_gandersheim_id>,
         <schutz_de_taizé__frère_roger_id>,
@@ -2033,5 +2020,18 @@
         <werner__gustav_id>,
         <wesley__john_id>,
         <wichern__johann_hinrich_id>,
-        <zelot_id> .
+        <zelot_id> ;
+    skos:prefLabel "Personen"@de ;
+    skos:topConceptOf <> .
+
+<> a skos:ConceptScheme ;
+    dct:creator "<https://creator.com>" ;
+    dct:description "religion_systematik"@de ;
+    dct:title "religion_systematik"@de ;
+    skos:hasTopConcept <bibel_id>,
+        <kirchengeschichte_id>,
+        <kirchensteuer_id>,
+        <personen_id>,
+        <religion_id>,
+        <religionskritik_id> .
 

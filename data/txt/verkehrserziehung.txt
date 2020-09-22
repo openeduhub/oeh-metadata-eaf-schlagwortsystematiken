@@ -1,4 +1,4 @@
-V E R K E H R S E R Z I E H U N G						
+V E R K E H R S E R Z I E H U N G					
 
 Verkehr
 -Transport
@@ -109,9 +109,10 @@ Tankstelle
 
 Trampen
 
-Benz, Carl
-Daimler, Gottlieb
-Diesel, Rudolf
-Eckener, Hugo
-Otto, Nikolaus August
-Zeppelin, Ferdinand Graf von
+Personen
+-Benz, Carl
+-Daimler, Gottlieb
+-Diesel, Rudolf
+-Eckener, Hugo
+-Otto, Nikolaus August
+-Zeppelin, Ferdinand Graf von

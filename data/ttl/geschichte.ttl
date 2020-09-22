@@ -13,9 +13,9 @@
     skos:prefLabel "Adel"@de .
 
 <adenauer__konrad_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Adenauer, Konrad"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Adenauer, Konrad"@de .
 
 <alemannen_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -23,14 +23,14 @@
     skos:topConceptOf <> .
 
 <alexander_der_großemakedonien_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Alexander der Große(Makedonien)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Alexander der Große(Makedonien)"@de .
 
 <allende__salvador_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Allende, Salvador"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Allende, Salvador"@de .
 
 <alliierter_kontrollrat_id> a skos:Concept ;
     skos:broader <deutschland_194549_id> ;
@@ -38,14 +38,14 @@
     skos:prefLabel "Alliierter Kontrollrat"@de .
 
 <amelunxen__rudolf_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Amelunxen, Rudolf"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Amelunxen, Rudolf"@de .
 
 <anna_amalia_herzogin_sachsenweimareisenach_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Anna Amalia (Herzogin Sachsen-Weimar-Eisenach)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Anna Amalia (Herzogin SachsenWeimarEisenach)"@de .
 
 <apartheid_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -68,29 +68,29 @@
     skos:topConceptOf <> .
 
 <arendt__hannah_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Arendt, Hannah"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Arendt, Hannah"@de .
 
 <aristoteles_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Aristoteles"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Aristoteles"@de .
 
 <armstrong__neil_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Armstrong, Neil"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Armstrong, Neil"@de .
 
 <aron__raymond_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Aron, Raymond"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Aron, Raymond"@de .
 
 <asad__mohammad_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Asad, Mohammad"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Asad, Mohammad"@de .
 
 <assyrien_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -98,14 +98,14 @@
     skos:topConceptOf <> .
 
 <atatürk__kemal_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Atatürk, Kemal"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Atatürk, Kemal"@de .
 
 <attaignant__pierre_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Attaignant, Pierre"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Attaignant, Pierre"@de .
 
 <attentat_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -118,14 +118,14 @@
     skos:prefLabel "Aufklärung (Zeitalter)"@de .
 
 <august_ii._polen_könig_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "August II. (Polen König)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "August II. (Polen König)"@de .
 
 <augustus_rom_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Augustus (Rom)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Augustus (Rom)"@de .
 
 <auschwitz_kz_id> a skos:Concept ;
     skos:broader <konzentrationslager_id> ;
@@ -143,14 +143,14 @@
     skos:topConceptOf <> .
 
 <baader__andreas_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Baader, Andreas"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Baader, Andreas"@de .
 
 <bab__werner_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Bab, Werner"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Bab, Werner"@de .
 
 <babylon_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -158,29 +158,29 @@
     skos:topConceptOf <> .
 
 <bacon__francis_staatsmann_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Bacon, Francis (Staatsmann)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Bacon, Francis (Staatsmann)"@de .
 
 <barbie__klaus_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Barbie, Klaus"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Barbie, Klaus"@de .
 
 <bartolomé_de_las_casas_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Bartolomé de las Casas"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Bartolomé de las Casas"@de .
 
 <barzel__rainer_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Barzel, Rainer"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Barzel, Rainer"@de .
 
 <bauer__fritz_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Bauer, Fritz"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Bauer, Fritz"@de .
 
 <bauernbefreiung_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -203,19 +203,19 @@
     skos:prefLabel "Bayerische Republik"@de .
 
 <beck__ludwig_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Beck, Ludwig"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Beck, Ludwig"@de .
 
 <bell_george_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Bell George"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Bell George"@de .
 
 <ben_gurion__david_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Ben Gurion, David"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Ben Gurion, David"@de .
 
 <bergenbelsen_kz_id> a skos:Concept ;
     skos:broader <konzentrationslager_id> ;
@@ -223,9 +223,9 @@
     skos:prefLabel "Bergen-Belsen (KZ)"@de .
 
 <berkhan__karlwilhelm_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Berkhan, Karl-Wilhelm"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Berkhan, KarlWilhelm"@de .
 
 <berlin_191833_id> a skos:Concept ;
     skos:broader <weimarer_republik_1918/1933_id> ;
@@ -278,49 +278,49 @@
     skos:topConceptOf <> .
 
 <bismarck__otto_fürst_von_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Bismarck, Otto Fürst von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Bismarck, Otto Fürst von"@de .
 
 <bohlen_und_halbach__arndt_von_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Bohlen und Halbach, Arndt von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Bohlen und Halbach, Arndt von"@de .
 
 <bolz__eugen_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Bolz, Eugen"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Bolz, Eugen"@de .
 
 <bormann__martin_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Bormann, Martin"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Bormann, Martin"@de .
 
 <borsig__johann_friedrich_august_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Borsig, Johann Friedrich August"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Borsig, Johann Friedrich August"@de .
 
 <brandenburgansbach__albrecht_von_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Brandenburg-Ansbach, Albrecht von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "BrandenburgAnsbach, Albrecht von"@de .
 
 <brandt__willy_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Brandt, Willy"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Brandt, Willy"@de .
 
 <breschnew__leonid_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Breschnew, Leonid"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Breschnew, Leonid"@de .
 
 <briand__aristide_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Briand, Aristide"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Briand, Aristide"@de .
 
 <bronzezeit_id> a skos:Concept ;
     skos:broader <vorgeschichte_menschheit_id> ;
@@ -328,9 +328,9 @@
     skos:prefLabel "Bronzezeit"@de .
 
 <brüning__heinrich_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Brüning, Heinrich"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Brüning, Heinrich"@de .
 
 <buchenwald_kz_id> a skos:Concept ;
     skos:broader <konzentrationslager_id> ;
@@ -343,9 +343,9 @@
     skos:prefLabel "BundschuhBewegung"@de .
 
 <burckhardt__carl_jacob_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Burckhardt, Carl Jacob"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Burckhardt, Carl Jacob"@de .
 
 <byzantinisches_reich_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -368,19 +368,19 @@
     skos:prefLabel "Bürgertum"@de .
 
 <cassin__rene_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Cassin, Rene"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Cassin, Rene"@de .
 
 <chanel__coco_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Chanel, Coco"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Chanel, Coco"@de .
 
 <che_guevara_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Che Guevara"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Che Guevara"@de .
 
 <china_kaiserreich_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -403,29 +403,29 @@
     skos:prefLabel "Christenverfolgung (Römisches Reich)"@de .
 
 <chruschtschow__nikita_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Chruschtschow, Nikita"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Chruschtschow, Nikita"@de .
 
 <churchill__winston_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Churchill, Winston"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Churchill, Winston"@de .
 
 <colbert__jeanbaptiste_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Colbert, Jean-Baptiste"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Colbert, JeanBaptiste"@de .
 
 <cromwell__oliver_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Cromwell, Oliver"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Cromwell, Oliver"@de .
 
 <curtius__julius_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Curtius, Julius"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Curtius, Julius"@de .
 
 <dachau_kz_id> a skos:Concept ;
     skos:broader <konzentrationslager_id> ;
@@ -433,14 +433,14 @@
     skos:prefLabel "Dachau (KZ)"@de .
 
 <dahlmann__friedrich_christoph_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Dahlmann, Friedrich Christoph"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Dahlmann, Friedrich Christoph"@de .
 
 <danton__georges_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Danton, Georges"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Danton, Georges"@de .
 
 <ddrlandschaft_id> a skos:Concept ;
     skos:broader <ddr_geographie/wirtschaft_id> ;
@@ -453,9 +453,9 @@
     skos:prefLabel "DDR(Sachsen)"@de .
 
 <dehler__thomas_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Dehler, Thomas"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Dehler, Thomas"@de .
 
 <dekadenz_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -493,9 +493,9 @@
     skos:topConceptOf <> .
 
 <dold__erwin_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Dold, Erwin"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Dold, Erwin"@de .
 
 <drache_fabelwesen_id> a skos:Concept ;
     skos:broader <mythologie_id> ;
@@ -508,44 +508,44 @@
     skos:topConceptOf <> .
 
 <dschingis_khan_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Dschingis Khan"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Dschingis Khan"@de .
 
 <dunant__henri_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Dunant, Henri"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Dunant, Henri"@de .
 
 <dutschke__rudolf_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Dutschke, Rudolf"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Dutschke, Rudolf"@de .
 
 <dönitz__karl_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Dönitz, Karl"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Dönitz, Karl"@de .
 
 <ebert__friedrich_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Ebert, Friedrich"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Ebert, Friedrich"@de .
 
 <eduard_vii._könig_großbritannien_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Eduard VII. (König Großbritannien)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Eduard VII. (König Großbritannien)"@de .
 
 <ehlers__hermann_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Ehlers, Hermann"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Ehlers, Hermann"@de .
 
 <eichmann__karl_adolf_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Eichmann, Karl Adolf"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Eichmann, Karl Adolf"@de .
 
 <eisenzeit_id> a skos:Concept ;
     skos:broader <vorgeschichte_menschheit_id> ;
@@ -553,9 +553,9 @@
     skos:prefLabel "Eisenzeit"@de .
 
 <eisner__kurt_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Eisner, Kurt"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Eisner, Kurt"@de .
 
 <elfter_september_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -563,19 +563,19 @@
     skos:topConceptOf <> .
 
 <elisabeth_i._königin_england_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Elisabeth I. (Königin England)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Elisabeth I. (Königin England)"@de .
 
 <elser__johann_georg_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Elser, Johann Georg"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Elser, Johann Georg"@de .
 
 <engels__friedrich_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Engels, Friedrich"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Engels, Friedrich"@de .
 
 <entdeckung_geschichte_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -593,9 +593,9 @@
     skos:topConceptOf <> .
 
 <erhard__ludwig_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Erhard, Ludwig"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Erhard, Ludwig"@de .
 
 <ermächtigungsgesetz_id> a skos:Concept ;
     skos:broader <drittes_reich_193345_id> ;
@@ -608,9 +608,9 @@
     skos:prefLabel "Erster Weltkrieg"@de .
 
 <eschenburg__theodor_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Eschenburg, Theodor"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Eschenburg, Theodor"@de .
 
 <etrusker_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -618,9 +618,9 @@
     skos:topConceptOf <> .
 
 <eugen_prinz_savoyen_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Eugen (Prinz Savoyen)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Eugen (Prinz Savoyen)"@de .
 
 <faschismus_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -633,9 +633,9 @@
     skos:prefLabel "Flossenbürg (KZ)"@de .
 
 <ford__henry_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Ford, Henry"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Ford, Henry"@de .
 
 <forum_romanum_id> a skos:Concept ;
     skos:broader <römisches_reich_id> ;
@@ -643,19 +643,19 @@
     skos:prefLabel "Forum Romanum"@de .
 
 <franco__francisco_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Franco, Francisco"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Franco, Francisco"@de .
 
 <frank__anne_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Frank, Anne"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Frank, Anne"@de .
 
 <frank__hans_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Frank, Hans"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Frank, Hans"@de .
 
 <franken_herzogtum_id> a skos:Concept ;
     skos:broader <territorialstaat_id> ;
@@ -663,9 +663,9 @@
     skos:prefLabel "Franken (Herzogtum)"@de .
 
 <franklin__benjamin_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Franklin, Benjamin"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Franklin, Benjamin"@de .
 
 <frankreich_landesgeschichte_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -673,9 +673,9 @@
     skos:topConceptOf <> .
 
 <franz_josef_i.kaiser_österreich_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Franz Josef I.(Kaiser Österreich)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Franz Josef I.(Kaiser Österreich)"@de .
 
 <französische_revolution_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -698,9 +698,9 @@
     skos:topConceptOf <> .
 
 <freisler__roland_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Freisler, Roland"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Freisler, Roland"@de .
 
 <fremdarbeiter_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -708,49 +708,49 @@
     skos:topConceptOf <> .
 
 <friedrich_i._barbarossa_könig_deutschland_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Friedrich I. Barbarossa (König Deutschland)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Friedrich I. Barbarossa (König Deutschland)"@de .
 
 <friedrich_i._großherzog_baden_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Friedrich I. (Großherzog Baden)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Friedrich I. (Großherzog Baden)"@de .
 
 <friedrich_i._könig_preußen_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Friedrich I. (König Preußen)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Friedrich I. (König Preußen)"@de .
 
 <friedrich_ii._der_große_könig_preußen_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Friedrich II. der Große (König Preußen)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Friedrich II. der Große (König Preußen)"@de .
 
 <friedrich_ii._könig_deutschland_sizilien_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Friedrich II. (König Deutschland Sizilien)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Friedrich II. (König Deutschland Sizilien)"@de .
 
 <friedrich_iii._kaiser_deutschland_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Friedrich III. (Kaiser Deutschland)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Friedrich III. (Kaiser Deutschland)"@de .
 
 <friedrich_wilhelm_i._preußen_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Friedrich Wilhelm I. (Preußen)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Friedrich Wilhelm I. (Preußen)"@de .
 
 <friedrich_wilhelm_iii._könig_preußen_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Friedrich Wilhelm III. (König Preußen)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Friedrich Wilhelm III. (König Preußen)"@de .
 
 <friedrich_wilhelm_iv._könig_preußen_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Friedrich Wilhelm IV. (König Preußen)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Friedrich Wilhelm IV. (König Preußen)"@de .
 
 <frühe_neuzeit_id> a skos:Concept ;
     skos:broader <zeitalter_id> ;
@@ -758,29 +758,29 @@
     skos:prefLabel "Frühe Neuzeit"@de .
 
 <fugger_familie_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Fugger (Familie)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Fugger (Familie)"@de .
 
 <gaius_julius_caesar_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Gaius Julius Caesar"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Gaius Julius Caesar"@de .
 
 <galen__clemens_august_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Galen, Clemens August"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Galen, Clemens August"@de .
 
 <galinski__heinz_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Galinski, Heinz"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Galinski, Heinz"@de .
 
 <gandhi__mahatma_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Gandhi, Mahatma"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Gandhi, Mahatma"@de .
 
 <gang_nach_canossa_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -788,34 +788,34 @@
     skos:topConceptOf <> .
 
 <gasparitsch__hans_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Gasparitsch, Hans"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Gasparitsch, Hans"@de .
 
 <gaulle__charles_de_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Gaulle, Charles de"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Gaulle, Charles de"@de .
 
 <gaus__günter_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Gaus, Günter"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Gaus, Günter"@de .
 
 <georg_v._könig_vereintes_königreich_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Georg V. (König Vereintes Königreich)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Georg V. (König Vereintes Königreich)"@de .
 
 <gerlich__fritz_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Gerlich, Fritz"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Gerlich, Fritz"@de .
 
 <gerstein__kurt_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Gerstein, Kurt"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Gerstein, Kurt"@de .
 
 <geschichtsbetrachtung_id> a skos:Concept ;
     skos:broader <geschichte_historie_id> ;
@@ -828,19 +828,19 @@
     skos:topConceptOf <> .
 
 <gnaeus_pompeius_magnus_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Gnaeus Pompeius Magnus"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Gnaeus Pompeius Magnus"@de .
 
 <goebbels__joseph_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Goebbels, Joseph"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Goebbels, Joseph"@de .
 
 <goerdeler__carl_friedrich_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Goerdeler, Carl Friedrich"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Goerdeler, Carl Friedrich"@de .
 
 <goldrausch_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -853,19 +853,19 @@
     skos:topConceptOf <> .
 
 <gorbatschow__michail_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Gorbatschow, Michail"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Gorbatschow, Michail"@de .
 
 <gouges__olympe_de_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Gouges, Olympe de"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Gouges, Olympe de"@de .
 
 <grotewohl__otto_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Grotewohl, Otto"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Grotewohl, Otto"@de .
 
 <großbritannien_landesgeschichte_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -888,14 +888,14 @@
     skos:prefLabel "Gurs (KZ)"@de .
 
 <gustav_ii._adolf_schweden_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Gustav II. Adolf (Schweden)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Gustav II. Adolf (Schweden)"@de .
 
 <göring__hermann_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Göring, Hermann"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Göring, Hermann"@de .
 
 <habsburger_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -903,9 +903,9 @@
     skos:topConceptOf <> .
 
 <hadrian_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hadrian"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hadrian"@de .
 
 <haitabu_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -913,9 +913,9 @@
     skos:topConceptOf <> .
 
 <hallstein__walter_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hallstein, Walter"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hallstein, Walter"@de .
 
 <hambacher_fest_id> a skos:Concept ;
     skos:broader <deutsches_reich_vor_1871_id> ;
@@ -923,9 +923,9 @@
     skos:prefLabel "Hambacher Fest"@de .
 
 <hameln__glückel_von_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hameln, Glückel von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hameln, Glückel von"@de .
 
 <handschrift_manuskript_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -933,9 +933,9 @@
     skos:topConceptOf <> .
 
 <hannibal_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hannibal"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hannibal"@de .
 
 <hanse_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -943,49 +943,49 @@
     skos:topConceptOf <> .
 
 <hatschepsut_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hatschepsut"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hatschepsut"@de .
 
 <heinrich_der_löwe_sachsen_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Heinrich der Löwe (Sachsen)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Heinrich der Löwe (Sachsen)"@de .
 
 <heinrich_ii._hrr_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Heinrich II. (HRR)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Heinrich II. (HRR)"@de .
 
 <heinrich_iii._hrr_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Heinrich III. (HRR)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Heinrich III. (HRR)"@de .
 
 <heinrich_iv._hrr_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Heinrich IV. (HRR)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Heinrich IV. (HRR)"@de .
 
 <heinrich_iv._könig_frankreich_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Heinrich IV. (König Frankreich)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Heinrich IV. (König Frankreich)"@de .
 
 <heinrich_v._könig_england_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Heinrich V. (König England)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Heinrich V. (König England)"@de .
 
 <heinrich_vi._hrr_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Heinrich VI. (HRR)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Heinrich VI. (HRR)"@de .
 
 <heinrich_vii._hrr_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Heinrich VII. (HRR)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Heinrich VII. (HRR)"@de .
 
 <hellenismus_id> a skos:Concept ;
     skos:broader <griechisches_altertum_id> ;
@@ -997,15 +997,10 @@
     skos:inScheme <> ;
     skos:prefLabel "Herculaneum"@de .
 
-<herrscher__könige__politiker_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Herrscher, Könige, Politiker)"@de ;
-    skos:topConceptOf <> .
-
 <hessenkassel__amalia_elisabeth_von_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hessen-Kassel, Amalia Elisabeth von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "HessenKassel, Amalia Elisabeth von"@de .
 
 <hexe_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -1013,34 +1008,34 @@
     skos:topConceptOf <> .
 
 <heydorn__irmgard_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Heydorn, Irmgard"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Heydorn, Irmgard"@de .
 
 <heydrich__reinhard_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Heydrich, Reinhard"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Heydrich, Reinhard"@de .
 
 <heß__rudolf_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Heß, Rudolf"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Heß, Rudolf"@de .
 
 <himmler__heinrich_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Himmler, Heinrich"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Himmler, Heinrich"@de .
 
 <hindenburg__paul_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hindenburg, Paul"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hindenburg, Paul"@de .
 
 <hirzel__susanne_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hirzel, Susanne"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hirzel, Susanne"@de .
 
 <historismus_geschichtswissenschaft_id> a skos:Concept ;
     skos:broader <geschichte_historie_id> ;
@@ -1048,9 +1043,9 @@
     skos:prefLabel "Historismus (Geschichtswissenschaft)"@de .
 
 <hitler__adolf_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hitler, Adolf"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hitler, Adolf"@de .
 
 <hitlerjugend_id> a skos:Concept ;
     skos:broader <drittes_reich_193345_id> ;
@@ -1058,9 +1053,9 @@
     skos:prefLabel "Hitlerjugend"@de .
 
 <ho_chi_minh_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Ho Chi Minh"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Ho Chi Minh"@de .
 
 <hochkultur_süd/mittelamerika_id> a skos:Concept ;
     skos:broader <zeitalter_id> ;
@@ -1068,14 +1063,14 @@
     skos:prefLabel "Hochkultur (Süd-/Mittelamerika)"@de .
 
 <honecker__erich_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Honecker, Erich"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Honecker, Erich"@de .
 
 <hugenberg__alfred_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hugenberg, Alfred"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hugenberg, Alfred"@de .
 
 <humanismus_bewegung_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -1088,14 +1083,14 @@
     skos:topConceptOf <> .
 
 <hussein__saddam_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hussein, Saddam"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hussein, Saddam"@de .
 
 <ieyasu__tokugawa_shôgun_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Ieyasu, Tokugawa (Shôgun)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Ieyasu, Tokugawa (Shôgun)"@de .
 
 <indochina_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -1143,29 +1138,29 @@
     skos:prefLabel "Jahrtausendwechsel"@de .
 
 <jelzin__boris_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Jelzin, Boris"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Jelzin, Boris"@de .
 
 <jobs__steve_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Jobs, Steve"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Jobs, Steve"@de .
 
 <johannes_gutenberg_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Johannes Gutenberg"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Johannes Gutenberg"@de .
 
 <joseph_ii._kaiser_österreich_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Joseph II. (Kaiser Österreich)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Joseph II. (Kaiser Österreich)"@de .
 
 <juan_de_austria_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Juan de Austria"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Juan de Austria"@de .
 
 <judenverfolgung_id> a skos:Concept ;
     skos:broader <drittes_reich_193345_id> ;
@@ -1193,19 +1188,19 @@
     skos:topConceptOf <> .
 
 <jungfrau_von_orleans_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Jungfrau von Orleans"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Jungfrau von Orleans"@de .
 
 <justinian_i._kaiser_byzantinisches_reich_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Justinian I. (Kaiser Byzantinisches Reich)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Justinian I. (Kaiser Byzantinisches Reich)"@de .
 
 <kaiser__jakob_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Kaiser, Jakob"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Kaiser, Jakob"@de .
 
 <kaisertum_deutschland_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -1218,24 +1213,24 @@
     skos:topConceptOf <> .
 
 <karl_i._der_große_kaiser_rom_deutschland_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Karl I. der Große (Kaiser Rom Deutschland)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Karl I. der Große (Kaiser Rom Deutschland)"@de .
 
 <karl_iv._kaiser_deutschland_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Karl IV. (Kaiser Deutschland)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Karl IV. (Kaiser Deutschland)"@de .
 
 <karl_theodor_kurfürst_bayern_pfalz_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Karl Theodor (Kurfürst Bayern Pfalz)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Karl Theodor (Kurfürst Bayern Pfalz)"@de .
 
 <karl_v._kaiser_deutschland_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Karl V. (Kaiser Deutschland)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Karl V. (Kaiser Deutschland)"@de .
 
 <karolinger_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -1243,24 +1238,24 @@
     skos:topConceptOf <> .
 
 <katharina_ii._kaiserin_russland_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Katharina II. (Kaiserin Russland)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Katharina II. (Kaiserin Russland)"@de .
 
 <katte__hans_von_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Katte, Hans von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Katte, Hans von"@de .
 
 <kaulla__karoline_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Kaulla, Karoline"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Kaulla, Karoline"@de .
 
 <keilhack__irma_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Keilhack, Irma"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Keilhack, Irma"@de .
 
 <kelten_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -1268,34 +1263,34 @@
     skos:topConceptOf <> .
 
 <kennedy__john_f._id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Kennedy, John F."@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Kennedy, John F."@de .
 
 <kenyatta__jomo_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Kenyatta, Jomo"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Kenyatta, Jomo"@de .
 
 <kiesinger__kurt_georg_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Kiesinger, Kurt Georg"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Kiesinger, Kurt Georg"@de .
 
 <king__martin_luther_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "King, Martin Luther"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "King, Martin Luther"@de .
 
 <klaus_störtebeker_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Klaus Störtebeker"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Klaus Störtebeker"@de .
 
 <kleopatra_vii._id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Kleopatra VII."@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Kleopatra VII."@de .
 
 <knossos_id> a skos:Concept ;
     skos:broader <griechenland_altertum_id> ;
@@ -1303,14 +1298,14 @@
     skos:prefLabel "Knossos"@de .
 
 <koberger__anton_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Koberger, Anton"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Koberger, Anton"@de .
 
 <kolbe__maximilian_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Kolbe, Maximilian"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Kolbe, Maximilian"@de .
 
 <kolonialismus_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -1328,19 +1323,19 @@
     skos:topConceptOf <> .
 
 <konrad_ii_hrr_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Konrad II (HRR)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Konrad II (HRR)"@de .
 
 <konstantin_i._kaiser_byzantinisches_reich_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Konstantin I. (Kaiser Byzantinisches Reich)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Konstantin I. (Kaiser Byzantinisches Reich)"@de .
 
 <korczak__janusz_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Korczak, Janusz"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Korczak, Janusz"@de .
 
 <kreuzzug_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -1348,19 +1343,19 @@
     skos:topConceptOf <> .
 
 <krupp__alfred_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Krupp, Alfred"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Krupp, Alfred"@de .
 
 <krupp__alfried_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Krupp, Alfried"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Krupp, Alfried"@de .
 
 <kruse__käthe_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Kruse, Käthe"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Kruse, Käthe"@de .
 
 <kulturgeschichte_id> a skos:Concept ;
     skos:broader <geschichte_historie_id> ;
@@ -1378,19 +1373,19 @@
     skos:topConceptOf <> .
 
 <körner__theodor_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Körner, Theodor"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Körner, Theodor"@de .
 
 <kühn__heinz_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Kühn, Heinz"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Kühn, Heinz"@de .
 
 <lactanius_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Lactanius"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Lactanius"@de .
 
 <landesgeschichte_baden_id> a skos:Concept ;
     skos:broader <landesgeschichte_badenwürttemberg_id> ;
@@ -1398,74 +1393,74 @@
     skos:prefLabel "Landesgeschichte (Baden)"@de .
 
 <landesgeschichte_bayern_id> a skos:Concept ;
+    skos:broader <landesgeschichte_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Landesgeschichte (Bayern)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Landesgeschichte (Bayern)"@de .
 
 <landesgeschichte_brandenburg_id> a skos:Concept ;
+    skos:broader <landesgeschichte_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Landesgeschichte (Brandenburg)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Landesgeschichte (Brandenburg)"@de .
 
 <landesgeschichte_bremen_id> a skos:Concept ;
+    skos:broader <landesgeschichte_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Landesgeschichte (Bremen)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Landesgeschichte (Bremen)"@de .
 
 <landesgeschichte_hamburg_id> a skos:Concept ;
+    skos:broader <landesgeschichte_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Landesgeschichte (Hamburg)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Landesgeschichte (Hamburg)"@de .
 
 <landesgeschichte_hessen_id> a skos:Concept ;
+    skos:broader <landesgeschichte_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Landesgeschichte (Hessen)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Landesgeschichte (Hessen)"@de .
 
 <landesgeschichte_mecklenburgvorpommern_id> a skos:Concept ;
+    skos:broader <landesgeschichte_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Landesgeschichte (Mecklenburg-Vorpommern)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Landesgeschichte (MecklenburgVorpommern)"@de .
 
 <landesgeschichte_niedersachsen_id> a skos:Concept ;
+    skos:broader <landesgeschichte_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Landesgeschichte (Niedersachsen)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Landesgeschichte (Niedersachsen)"@de .
 
 <landesgeschichte_nordrheinwestfalen_id> a skos:Concept ;
+    skos:broader <landesgeschichte_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Landesgeschichte (Nordrhein-Westfalen)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Landesgeschichte (NordrheinWestfalen)"@de .
 
 <landesgeschichte_rheinlandpfalz_id> a skos:Concept ;
+    skos:broader <landesgeschichte_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Landesgeschichte (Rheinland-Pfalz)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Landesgeschichte (RheinlandPfalz)"@de .
 
 <landesgeschichte_saarland_id> a skos:Concept ;
+    skos:broader <landesgeschichte_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Landesgeschichte (Saarland)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Landesgeschichte (Saarland)"@de .
 
 <landesgeschichte_sachsen_id> a skos:Concept ;
+    skos:broader <landesgeschichte_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Landesgeschichte (Sachsen)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Landesgeschichte (Sachsen)"@de .
 
 <landesgeschichte_sachsenanhalt_id> a skos:Concept ;
+    skos:broader <landesgeschichte_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Landesgeschichte (Sachsen-Anhalt)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Landesgeschichte (SachsenAnhalt)"@de .
 
 <landesgeschichte_schleswigholstein_id> a skos:Concept ;
+    skos:broader <landesgeschichte_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Landesgeschichte (Schleswig-Holstein)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Landesgeschichte (SchleswigHolstein)"@de .
 
 <landesgeschichte_thüringen_id> a skos:Concept ;
+    skos:broader <landesgeschichte_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Landesgeschichte (Thüringen)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Landesgeschichte (Thüringen)"@de .
 
 <landesgeschichte_württemberg_id> a skos:Concept ;
     skos:broader <landesgeschichte_badenwürttemberg_id> ;
@@ -1473,24 +1468,24 @@
     skos:prefLabel "Landesgeschichte (Württemberg)"@de .
 
 <lassalle__ferdinand_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Lassalle, Ferdinand"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Lassalle, Ferdinand"@de .
 
 <lauder__esteé_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Lauder, Esteé"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Lauder, Esteé"@de .
 
 <leber__julius_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Leber, Julius"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Leber, Julius"@de .
 
 <legien__carl_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Legien, Carl"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Legien, Carl"@de .
 
 <lehen_id> a skos:Concept ;
     skos:broader <feudalismus_id> ;
@@ -1498,34 +1493,34 @@
     skos:prefLabel "Lehen"@de .
 
 <leisner__karl_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Leisner, KArl"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Leisner, KArl"@de .
 
 <lemmer__ernst_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Lemmer, Ernst"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Lemmer, Ernst"@de .
 
 <lenin__wladimir_iljitsch_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Lenin, Wladimir Iljitsch"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Lenin, Wladimir Iljitsch"@de .
 
 <lenne__peter_joseph_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Lenne, Peter Joseph"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Lenne, Peter Joseph"@de .
 
 <leuschner__wilhelm_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Leuschner, Wilhelm"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Leuschner, Wilhelm"@de .
 
 <liebknecht__karl_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Liebknecht, Karl"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Liebknecht, Karl"@de .
 
 <limes_id> a skos:Concept ;
     skos:broader <römisches_reich_id> ;
@@ -1533,49 +1528,49 @@
     skos:prefLabel "Limes"@de .
 
 <lincoln__abraham_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Lincoln, Abraham"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Lincoln, Abraham"@de .
 
 <lindbergh__charles_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Lindbergh, Charles"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Lindbergh, Charles"@de .
 
 <liselotte_von_der_pfalz_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Liselotte von der Pfalz"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Liselotte von der Pfalz"@de .
 
 <lubbe__marinus_van_der_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Lubbe, Marinus van der"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Lubbe, Marinus van der"@de .
 
 <ludwig_i._könig_bayern_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Ludwig I. (König Bayern)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Ludwig I. (König Bayern)"@de .
 
 <ludwig_ii._könig_bayern_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Ludwig II. (König Bayern)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Ludwig II. (König Bayern)"@de .
 
 <ludwig_wilhelm_i._baden_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Ludwig Wilhelm I. (Baden)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Ludwig Wilhelm I. (Baden)"@de .
 
 <ludwig_xiv._könig_frankreich_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Ludwig XIV. (König Frankreich)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Ludwig XIV. (König Frankreich)"@de .
 
 <ludwig_xvi._könig_frankreich_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Ludwig XVI. (König Frankreich)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Ludwig XVI. (König Frankreich)"@de .
 
 <luftbrücke_id> a skos:Concept ;
     skos:broader <berlin_194890_id> ;
@@ -1583,34 +1578,34 @@
     skos:prefLabel "Luftbrücke"@de .
 
 <luise_prinzessin_zu_mecklenburgstrelitz_königin_preußen_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Luise Prinzessin zu Mecklenburg-Strelitz (Königin Preußen)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Luise Prinzessin zu MecklenburgStrelitz (Königin Preußen)"@de .
 
 <lumumba__patrice_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Lumumba, Patrice"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Lumumba, Patrice"@de .
 
 <luxemburg__rosa_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Luxemburg, Rosa"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Luxemburg, Rosa"@de .
 
 <löbe__paul_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Löbe, Paul"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Löbe, Paul"@de .
 
 <maathai__wangari_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Maathai, Wangari"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Maathai, Wangari"@de .
 
 <macbeth_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Macbeth"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Macbeth"@de .
 
 <machtergreifung_id> a skos:Concept ;
     skos:broader <drittes_reich_193345_id> ;
@@ -1623,54 +1618,54 @@
     skos:prefLabel "Majdanek (KZ)"@de .
 
 <malraux__andre_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Malraux, Andre"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Malraux, Andre"@de .
 
 <mandela__nelson_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Mandela, Nelson"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Mandela, Nelson"@de .
 
 <mann__golo_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Mann, Golo"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Mann, Golo"@de .
 
 <mannheimer__max_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Mannheimer, Max"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Mannheimer, Max"@de .
 
 <mao_tsetung_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Mao Tse-tung"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Mao Tsetung"@de .
 
 <maria_stuart_königin_schottland_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Maria Stuart (Königin Schottland)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Maria Stuart (Königin Schottland)"@de .
 
 <maria_theresie_österreich__kaiserin_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Maria Theresie (Österreich, Kaiserin)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Maria Theresie (Österreich, Kaiserin)"@de .
 
 <marian__ferdinand_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Marian, Ferdinand"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Marian, Ferdinand"@de .
 
 <marie_antoinette_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Marie Antoinette"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Marie Antoinette"@de .
 
 <marx__karl_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Marx, Karl"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Marx, Karl"@de .
 
 <mauthausen_kz_id> a skos:Concept ;
     skos:broader <konzentrationslager_id> ;
@@ -1678,34 +1673,34 @@
     skos:prefLabel "Mauthausen (KZ)"@de .
 
 <maximilian_i._kaiser_rom_deutschland_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Maximilian I. (Kaiser Rom Deutschland)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Maximilian I. (Kaiser Rom Deutschland)"@de .
 
 <mcnamara__robert_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "McNamara, Robert"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "McNamara, Robert"@de .
 
 <meinhof__ulrike_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Meinhof, Ulrike"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Meinhof, Ulrike"@de .
 
 <meiser__hans_bischof_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Meiser, Hans (Bischof)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Meiser, Hans (Bischof)"@de .
 
 <mengele__josef_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Mengele, Josef"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Mengele, Josef"@de .
 
 <mense__martha_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Mense, Martha"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Mense, Martha"@de .
 
 <merkantilismus_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -1718,19 +1713,19 @@
     skos:topConceptOf <> .
 
 <metternich__klemens_wenzel_reichsgraf_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Metternich, Klemens Wenzel Reichsgraf"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Metternich, Klemens Wenzel Reichsgraf"@de .
 
 <meyers__franz_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Meyers, Franz"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Meyers, Franz"@de .
 
 <mierendorff__carlo_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Mierendorff, Carlo"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Mierendorff, Carlo"@de .
 
 <mittelalter_id> a skos:Concept ;
     skos:broader <zeitalter_id> ;
@@ -1743,39 +1738,39 @@
     skos:topConceptOf <> .
 
 <mitterrand__françois_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Mitterrand, François"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Mitterrand, François"@de .
 
 <molotow__wjatscheslaw_michailowitsch_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Molotow, Wjatscheslaw Michailowitsch"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Molotow, Wjatscheslaw Michailowitsch"@de .
 
 <moltke__freya_gräfin_von_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Moltke, Freya Gräfin von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Moltke, Freya Gräfin von"@de .
 
 <moltke__helmuth_james_graf_von_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Moltke, Helmuth James Graf von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Moltke, Helmuth James Graf von"@de .
 
 <monnet__jean_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Monnet, Jean"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Monnet, Jean"@de .
 
 <montesquieu_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Montesquieu"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Montesquieu"@de .
 
 <motier__mariejoseph_marquis_de_la_fayette_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Motier, Marie-Joseph (Marquis de La Fayette)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Motier, MarieJoseph (Marquis de La Fayette)"@de .
 
 <mykene_id> a skos:Concept ;
     skos:broader <griechenland_altertum_id> ;
@@ -1783,14 +1778,14 @@
     skos:prefLabel "Mykene"@de .
 
 <napoleon_i._kaiser_frankreich_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Napoleon I. (Kaiser Frankreich)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Napoleon I. (Kaiser Frankreich)"@de .
 
 <napoleon_iii._frankreich_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Napoleon III. (Frankreich)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Napoleon III. (Frankreich)"@de .
 
 <nationale_volksarmee_id> a skos:Concept ;
     skos:broader <ddr_gesellschaft/staat/geschichte_id> ;
@@ -1808,14 +1803,14 @@
     skos:prefLabel "Nationalsozialistische Rassenhygiene"@de .
 
 <nero_kaiser_rom_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Nero (Kaiser Rom)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Nero (Kaiser Rom)"@de .
 
 <neumann__franz_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Neumann, Franz"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Neumann, Franz"@de .
 
 <neuzeit_id> a skos:Concept ;
     skos:broader <zeitalter_id> ;
@@ -1828,9 +1823,9 @@
     skos:prefLabel "New Deal"@de .
 
 <nikolaus_ii._kaiser_russland_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Nikolaus II. (Kaiser Russland)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Nikolaus II. (Kaiser Russland)"@de .
 
 <nitribittaffäre_id> a skos:Concept ;
     skos:broader <bundesrepublik_deutschland_194990_id> ;
@@ -1843,9 +1838,9 @@
     skos:prefLabel "Normannen"@de .
 
 <noske__gustav_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Noske, Gustav"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Noske, Gustav"@de .
 
 <notverordnung_id> a skos:Concept ;
     skos:broader <weimarer_republik_1918/1933_id> ;
@@ -1858,9 +1853,9 @@
     skos:prefLabel "Novemberrevolution"@de .
 
 <nyerere__julius_kambarage_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Nyerere, Julius Kambarage"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Nyerere, Julius Kambarage"@de .
 
 <nürnberger_prozesse_id> a skos:Concept ;
     skos:broader <deutschland_194549_id> ;
@@ -1868,9 +1863,9 @@
     skos:prefLabel "Nürnberger Prozesse"@de .
 
 <odysseus_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Odysseus"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Odysseus"@de .
 
 <oktoberrevolution_id> a skos:Concept ;
     skos:broader <russland_reich_id> ;
@@ -1878,9 +1873,9 @@
     skos:prefLabel "Oktoberrevolution"@de .
 
 <ollenhauer__erich_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Ollenhauer, Erich"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Ollenhauer, Erich"@de .
 
 <olympia_id> a skos:Concept ;
     skos:broader <griechenland_altertum_id> ;
@@ -1903,9 +1898,9 @@
     skos:prefLabel "Ostpolitik"@de .
 
 <otto_i._der_große_kaiser_deutschland_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Otto I. der Große (Kaiser Deutschland)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Otto I. der Große (Kaiser Deutschland)"@de .
 
 <ottonen_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -1913,9 +1908,9 @@
     skos:topConceptOf <> .
 
 <papen__franz_von_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Papen, Franz von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Papen, Franz von"@de .
 
 <pariser_kommune_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -1943,19 +1938,19 @@
     skos:prefLabel "Pergamon"@de .
 
 <peron__eva_maria_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Peron, Eva Maria"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Peron, Eva Maria"@de .
 
 <peters__carl_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Peters, Carl"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Peters, Carl"@de .
 
 <pflimlin__pierre_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Pflimlin, Pierre"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Pflimlin, Pierre"@de .
 
 <pharao_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -1963,9 +1958,9 @@
     skos:topConceptOf <> .
 
 <philipp_ii._könig_spanien_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Philipp II. (König Spanien)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Philipp II. (König Spanien)"@de .
 
 <phönizien_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -1973,9 +1968,9 @@
     skos:topConceptOf <> .
 
 <pieck__wilhelm_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Pieck, Wilhelm"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Pieck, Wilhelm"@de .
 
 <pionierorganisation_id> a skos:Concept ;
     skos:broader <ddr_gesellschaft/staat/geschichte_id> ;
@@ -2003,9 +1998,9 @@
     skos:topConceptOf <> .
 
 <pulzer__peter_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Pulzer, Peter"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Pulzer, Peter"@de .
 
 <quelle_geschichtswissenschaft_id> a skos:Concept ;
     skos:broader <geschichte_historie_id> ;
@@ -2013,24 +2008,24 @@
     skos:prefLabel "Quelle (Geschichtswissenschaft)"@de .
 
 <rabe__john_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Rabe, John"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Rabe, John"@de .
 
 <ramses_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Ramses"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Ramses"@de .
 
 <raskop__john_jacob_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Raskop, John Jacob"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Raskop, John Jacob"@de .
 
 <rau__johannes_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Rau, Johannes"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Rau, Johannes"@de .
 
 <ravensbrück_kz_id> a skos:Concept ;
     skos:broader <konzentrationslager_id> ;
@@ -2038,9 +2033,9 @@
     skos:prefLabel "Ravensbrück (KZ)"@de .
 
 <reagan__ronald_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Reagan, Ronald"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Reagan, Ronald"@de .
 
 <reichsinsignien_id> a skos:Concept ;
     skos:broader <deutsches_reich_vor_1871_id> ;
@@ -2063,9 +2058,9 @@
     skos:prefLabel "Reichswehr"@de .
 
 <reichwein__adolf_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Reichwein, Adolf"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Reichwein, Adolf"@de .
 
 <resistance_id> a skos:Concept ;
     skos:broader <widerstand_gegen_hitler_id> ;
@@ -2078,14 +2073,14 @@
     skos:topConceptOf <> .
 
 <reuter__ernst_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Reuter, Ernst"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Reuter, Ernst"@de .
 
 <reuter__julius_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Reuter, Julius"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Reuter, Julius"@de .
 
 <revolution_1848_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -2093,14 +2088,14 @@
     skos:topConceptOf <> .
 
 <ribbentrop__joachim_von_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Ribbentrop, Joachim von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Ribbentrop, Joachim von"@de .
 
 <richard_löwenherz_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Richard Löwenherz"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Richard Löwenherz"@de .
 
 <riga_kz_id> a skos:Concept ;
     skos:broader <konzentrationslager_id> ;
@@ -2118,29 +2113,29 @@
     skos:topConceptOf <> .
 
 <robbespierre__maximilien_de_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Robbespierre, Maximilien de"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Robbespierre, Maximilien de"@de .
 
 <rommel__erwin_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Rommel, Erwin"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Rommel, Erwin"@de .
 
 <rommel__manfred_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Rommel, Manfred"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Rommel, Manfred"@de .
 
 <roosevelt__franklin_delano_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Roosevelt, Franklin Delano"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Roosevelt, Franklin Delano"@de .
 
 <roosevelt__theodore_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Roosevelt, Theodore"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Roosevelt, Theodore"@de .
 
 <ruhrkampf_id> a skos:Concept ;
     skos:broader <weimarer_republik_1918/1933_id> ;
@@ -2153,9 +2148,9 @@
     skos:prefLabel "Räterepublik"@de .
 
 <röhm__ernst_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Röhm, Ernst"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Röhm, Ernst"@de .
 
 <römischer_legionär_id> a skos:Concept ;
     skos:broader <römisches_reich_id> ;
@@ -2188,9 +2183,9 @@
     skos:topConceptOf <> .
 
 <salomon__charlotte_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Salomon, Charlotte"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Salomon, Charlotte"@de .
 
 <salzhandel_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -2203,79 +2198,79 @@
     skos:topConceptOf <> .
 
 <scharnhorst__gerhard_von_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Scharnhorst, Gerhard von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Scharnhorst, Gerhard von"@de .
 
 <scheidemann__philipp_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Scheidemann, Philipp"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Scheidemann, Philipp"@de .
 
 <schenk_von_stauffenberg__claus_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Schenk von Stauffenberg, Claus"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Schenk von Stauffenberg, Claus"@de .
 
 <schiller__karl_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Schiller, Karl"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Schiller, Karl"@de .
 
 <schindler__oskar_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Schindler, Oskar"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Schindler, Oskar"@de .
 
 <schirach__baldur_von_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Schirach, Baldur von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Schirach, Baldur von"@de .
 
 <schleicher__kurt_von_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Schleicher, Kurt von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Schleicher, Kurt von"@de .
 
 <schleyer__hannsmartin_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Schleyer, Hanns-Martin"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Schleyer, HannsMartin"@de .
 
 <schmid__carlo_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Schmid, Carlo"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Schmid, Carlo"@de .
 
 <schneider__paul_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Schneider, Paul"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Schneider, Paul"@de .
 
 <scholl_geschwister_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Scholl (Geschwister)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Scholl (Geschwister)"@de .
 
 <schumacher__karl_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Schumacher, Karl"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Schumacher, Karl"@de .
 
 <schumakov__michael_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Schumakov, Michael"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Schumakov, Michael"@de .
 
 <schuman__robert_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Schuman, Robert"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Schuman, Robert"@de .
 
 <schurmann__anna_maria_van_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Schurmann, Anna Maria van"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Schurmann, Anna Maria van"@de .
 
 <seefahrt_geschichte_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -2283,14 +2278,14 @@
     skos:topConceptOf <> .
 
 <senghor__leopold_sedar_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Senghor, Leopold Sedar"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Senghor, Leopold Sedar"@de .
 
 <severing__carl_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Severing, Carl"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Severing, Carl"@de .
 
 <sezessionskrieg_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -2303,9 +2298,9 @@
     skos:topConceptOf <> .
 
 <siebenpfeiffer__philipp_jakob_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Siebenpfeiffer, Philipp Jakob"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Siebenpfeiffer, Philipp Jakob"@de .
 
 <siebzehnter_juni_id> a skos:Concept ;
     skos:broader <bundesrepublik_deutschland_194990_id> ;
@@ -2313,14 +2308,14 @@
     skos:prefLabel "Siebzehnter Juni"@de .
 
 <sieyès__emmanuel_joseph_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Sieyès, Emmanuel Joseph"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Sieyès, Emmanuel Joseph"@de .
 
 <simonsohn__trude_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Simonsohn, Trude"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Simonsohn, Trude"@de .
 
 <sklaverei_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -2353,19 +2348,19 @@
     skos:topConceptOf <> .
 
 <speer__albert_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Speer, Albert"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Speer, Albert"@de .
 
 <sprick__wilhelm_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Sprick, Wilhelm"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Sprick, Wilhelm"@de .
 
 <springer__axel_caesar_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Springer, Axel Caesar"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Springer, Axel Caesar"@de .
 
 <staatssicherheitsdienst_id> a skos:Concept ;
     skos:broader <ddr_gesellschaft/staat/geschichte_id> ;
@@ -2373,9 +2368,9 @@
     skos:prefLabel "Staatssicherheitsdienst"@de .
 
 <stalin__jossif_wissarionowitsch_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Stalin, Jossif Wissarionowitsch"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Stalin, Jossif Wissarionowitsch"@de .
 
 <stalinismus_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -2388,29 +2383,29 @@
     skos:topConceptOf <> .
 
 <steffen__jochen_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Steffen, Jochen"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Steffen, Jochen"@de .
 
 <steiff__margarete_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Steiff, Margarete"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Steiff, Margarete"@de .
 
 <stein__edith_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Stein, Edith"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Stein, Edith"@de .
 
 <stein__heinrich_friedrich_karl_reichsfreiherr_vom_und_zum_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Stein, Heinrich Friedrich Karl Reichsfreiherr vom und zum"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Stein, Heinrich Friedrich Karl Reichsfreiherr vom und zum"@de .
 
 <steinhoff__fritz_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Steinhoff, Fritz"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Steinhoff, Fritz"@de .
 
 <steinzeit_id> a skos:Concept ;
     skos:broader <vorgeschichte_menschheit_id> ;
@@ -2418,19 +2413,19 @@
     skos:prefLabel "Steinzeit"@de .
 
 <stephan__heinrich_von_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Stephan, Heinrich von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Stephan, Heinrich von"@de .
 
 <strauß__franz_josef_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Strauß, Franz Josef"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Strauß, Franz Josef"@de .
 
 <stresemann__gustav_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Stresemann, Gustav"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Stresemann, Gustav"@de .
 
 <struthofnatzweiler_kz_id> a skos:Concept ;
     skos:broader <konzentrationslager_id> ;
@@ -2438,9 +2433,9 @@
     skos:prefLabel "Struthof-Natzweiler (KZ)"@de .
 
 <strümpell__henning_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Strümpell, Henning"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Strümpell, Henning"@de .
 
 <studentenbewegung_id> a skos:Concept ;
     skos:broader <bundesrepublik_deutschland_194990_id> ;
@@ -2458,14 +2453,14 @@
     skos:topConceptOf <> .
 
 <süßoppenheimer__joseph_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Süß-Oppenheimer, Joseph"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "SüßOppenheimer, Joseph"@de .
 
 <thatcher__margret_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Thatcher, Margret"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Thatcher, Margret"@de .
 
 <theben_oberägypten_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -2473,14 +2468,14 @@
     skos:topConceptOf <> .
 
 <theoderich_der_große_ostgote_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Theoderich der Große (Ostgote)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Theoderich der Große (Ostgote)"@de .
 
 <theophanu_kaiserin_deutschland_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Theophanu (Kaiserin Deutschland)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Theophanu (Kaiserin Deutschland)"@de .
 
 <theresienstadt_kz_id> a skos:Concept ;
     skos:broader <konzentrationslager_id> ;
@@ -2488,14 +2483,14 @@
     skos:prefLabel "Theresienstadt (KZ)"@de .
 
 <thälmann__ernst_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Thälmann, Ernst"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Thälmann, Ernst"@de .
 
 <tiberius_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Tiberius"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Tiberius"@de .
 
 <titanic_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -2518,9 +2513,9 @@
     skos:topConceptOf <> .
 
 <trajan_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Trajan"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Trajan"@de .
 
 <treblinka_kz_id> a skos:Concept ;
     skos:broader <konzentrationslager_id> ;
@@ -2528,9 +2523,9 @@
     skos:prefLabel "Treblinka (KZ)"@de .
 
 <tresckow__henning_von_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Tresckow, Henning von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Tresckow, Henning von"@de .
 
 <troja_id> a skos:Concept ;
     skos:broader <griechenland_altertum_id> ;
@@ -2538,19 +2533,19 @@
     skos:prefLabel "Troja"@de .
 
 <trott__adam_von_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Trott, Adam von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Trott, Adam von"@de .
 
 <tucker__forrest_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Tucker, Forrest"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Tucker, Forrest"@de .
 
 <tutenchamun_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Tutenchamun"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Tutenchamun"@de .
 
 <türkenkrieg_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -2558,14 +2553,14 @@
     skos:topConceptOf <> .
 
 <ulbricht__walter_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Ulbricht, Walter"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Ulbricht, Walter"@de .
 
 <ullmann__wolfgang_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Ullmann, Wolfgang"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Ullmann, Wolfgang"@de .
 
 <umbruch_politik_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -2593,9 +2588,9 @@
     skos:prefLabel "Versailler Vertrag"@de .
 
 <vespasian_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Vespasian"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Vespasian"@de .
 
 <vietcong_id> a skos:Concept ;
     skos:broader <vietnamkrieg_id> ;
@@ -2638,14 +2633,14 @@
     skos:topConceptOf <> .
 
 <wallenstein_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Wallenstein"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Wallenstein"@de .
 
 <wang__anna_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Wang, Anna"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Wang, Anna"@de .
 
 <warschauer_pakt_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -2653,9 +2648,9 @@
     skos:topConceptOf <> .
 
 <wehner__herbert_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Wehner, Herbert"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Wehner, Herbert"@de .
 
 <wehrerziehung_id> a skos:Concept ;
     skos:broader <ddr_gesellschaft/staat/geschichte_id> ;
@@ -2673,9 +2668,9 @@
     skos:topConceptOf <> .
 
 <weizsäcker__richard_von_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Weizsäcker, Richard von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Weizsäcker, Richard von"@de .
 
 <weiße_rose_id> a skos:Concept ;
     skos:broader <widerstand_gegen_hitler_id> ;
@@ -2688,14 +2683,14 @@
     skos:topConceptOf <> .
 
 <wellington__arthur_herzog_von_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Wellington, Arthur Herzog von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Wellington, Arthur Herzog von"@de .
 
 <wels__otto_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Wels, Otto"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Wels, Otto"@de .
 
 <westfälischer_frieden_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -2708,9 +2703,9 @@
     skos:prefLabel "Westrom"@de .
 
 <widukind_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Widukind"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Widukind"@de .
 
 <wiederaufbau_id> a skos:Concept ;
     skos:broader <nachkriegszeit_id> ;
@@ -2723,39 +2718,39 @@
     skos:topConceptOf <> .
 
 <wiesenthal__simon_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Wiesenthal, Simon"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Wiesenthal, Simon"@de .
 
 <wilhelm_i._fürst_oranien_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Wilhelm I. (Fürst Oranien)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Wilhelm I. (Fürst Oranien)"@de .
 
 <wilhelm_i._kaiser_deutschland_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Wilhelm I. (Kaiser Deutschland)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Wilhelm I. (Kaiser Deutschland)"@de .
 
 <wilhelm_i._könig_england_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Wilhelm I. (König England)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Wilhelm I. (König England)"@de .
 
 <wilhelm_ii._kaiser_deutschland_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Wilhelm II. (Kaiser Deutschland)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Wilhelm II. (Kaiser Deutschland)"@de .
 
 <wilhelmine_markgräfin_bayreuth_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Wilhelmine (Markgräfin Bayreuth)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Wilhelmine (Markgräfin Bayreuth)"@de .
 
 <wilson__thomas_woodrow_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Wilson, Thomas Woodrow"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Wilson, Thomas Woodrow"@de .
 
 <wirtschaftswunder_id> a skos:Concept ;
     skos:broader <bundesrepublik_deutschland_194990_id> ;
@@ -2783,9 +2778,9 @@
     skos:topConceptOf <> .
 
 <zinn__georg_august_id> a skos:Concept ;
+    skos:broader <herrscher__könige__politiker_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Zinn, Georg August"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Zinn, Georg August"@de .
 
 <zonengrenze_id> a skos:Concept ;
     skos:broader <deutschland_194549_id> ;
@@ -2808,9 +2803,9 @@
     skos:prefLabel "Zweiter Weltkrieg"@de .
 
 <ödipus_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Ödipus"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Ödipus"@de .
 
 <österreich_geschichte_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -2934,11 +2929,11 @@
     skos:topConceptOf <> .
 
 <landesgeschichte_badenwürttemberg_id> a skos:Concept ;
+    skos:broader <landesgeschichte_id> ;
     skos:inScheme <> ;
     skos:narrower <landesgeschichte_baden_id>,
         <landesgeschichte_württemberg_id> ;
-    skos:prefLabel "Landesgeschichte (Baden-Württemberg)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Landesgeschichte (BadenWürttemberg)"@de .
 
 <sowjetunion_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -3132,6 +3127,26 @@
         <treblinka_kz_id> ;
     skos:prefLabel "Konzentrationslager"@de .
 
+<landesgeschichte_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <landesgeschichte_badenwürttemberg_id>,
+        <landesgeschichte_bayern_id>,
+        <landesgeschichte_brandenburg_id>,
+        <landesgeschichte_bremen_id>,
+        <landesgeschichte_hamburg_id>,
+        <landesgeschichte_hessen_id>,
+        <landesgeschichte_mecklenburgvorpommern_id>,
+        <landesgeschichte_niedersachsen_id>,
+        <landesgeschichte_nordrheinwestfalen_id>,
+        <landesgeschichte_rheinlandpfalz_id>,
+        <landesgeschichte_saarland_id>,
+        <landesgeschichte_sachsen_id>,
+        <landesgeschichte_sachsenanhalt_id>,
+        <landesgeschichte_schleswigholstein_id>,
+        <landesgeschichte_thüringen_id> ;
+    skos:prefLabel "Landesgeschichte"@de ;
+    skos:topConceptOf <> .
+
 <drittes_reich_193345_id> a skos:Concept ;
     skos:inScheme <> ;
     skos:narrower <berlin_193345_id>,
@@ -3154,54 +3169,115 @@
     skos:prefLabel "Drittes Reich (1933-45)"@de ;
     skos:topConceptOf <> .
 
-<> a skos:ConceptScheme ;
-    dct:creator "<https://creator.com>" ;
-    dct:description "geschichte_systematik"@de ;
-    dct:title "geschichte_systematik"@de ;
-    skos:hasTopConcept <adenauer__konrad_id>,
-        <alemannen_id>,
-        <alexander_der_großemakedonien_id>,
-        <allende__salvador_id>,
-        <alltagsleben_geschichte_id>,
-        <amelunxen__rudolf_id>,
-        <anna_amalia_herzogin_sachsenweimareisenach_id>,
-        <apartheid_id>,
-        <arbeiterbewegung_id>,
-        <arbeitswelt_geschichte_id>,
-        <archäologie_id>,
-        <arendt__hannah_id>,
+<personen_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <arendt__hannah_id>,
         <aristoteles_id>,
         <armstrong__neil_id>,
-        <aron__raymond_id>,
         <asad__mohammad_id>,
-        <assyrien_id>,
-        <atatürk__kemal_id>,
         <attaignant__pierre_id>,
-        <attentat_id>,
-        <august_ii._polen_könig_id>,
-        <augustus_rom_id>,
-        <auswanderung_aus_deutschland_id>,
         <baader__andreas_id>,
         <bab__werner_id>,
-        <babylon_id>,
-        <bacon__francis_staatsmann_id>,
-        <barbie__klaus_id>,
         <bartolomé_de_las_casas_id>,
-        <barzel__rainer_id>,
         <bauer__fritz_id>,
-        <bauernbefreiung_id>,
-        <bauernkrieg_id>,
-        <bauhütte_id>,
-        <beck__ludwig_id>,
         <bell_george_id>,
-        <ben_gurion__david_id>,
-        <berkhan__karlwilhelm_id>,
-        <berlin_nach_1990_id>,
-        <beschreibstoff_id>,
-        <bessarabien_id>,
-        <bismarck__otto_fürst_von_id>,
         <bohlen_und_halbach__arndt_von_id>,
         <bolz__eugen_id>,
+        <chanel__coco_id>,
+        <che_guevara_id>,
+        <dold__erwin_id>,
+        <dunant__henri_id>,
+        <dutschke__rudolf_id>,
+        <elser__johann_georg_id>,
+        <engels__friedrich_id>,
+        <ford__henry_id>,
+        <frank__anne_id>,
+        <franklin__benjamin_id>,
+        <fugger_familie_id>,
+        <galen__clemens_august_id>,
+        <galinski__heinz_id>,
+        <gasparitsch__hans_id>,
+        <gerlich__fritz_id>,
+        <gerstein__kurt_id>,
+        <gouges__olympe_de_id>,
+        <heydorn__irmgard_id>,
+        <jobs__steve_id>,
+        <johannes_gutenberg_id>,
+        <jungfrau_von_orleans_id>,
+        <kaulla__karoline_id>,
+        <keilhack__irma_id>,
+        <klaus_störtebeker_id>,
+        <koberger__anton_id>,
+        <kolbe__maximilian_id>,
+        <korczak__janusz_id>,
+        <krupp__alfred_id>,
+        <krupp__alfried_id>,
+        <kruse__käthe_id>,
+        <lactanius_id>,
+        <lauder__esteé_id>,
+        <leisner__karl_id>,
+        <lenne__peter_joseph_id>,
+        <lindbergh__charles_id>,
+        <liselotte_von_der_pfalz_id>,
+        <lubbe__marinus_van_der_id>,
+        <maathai__wangari_id>,
+        <mann__golo_id>,
+        <mannheimer__max_id>,
+        <marian__ferdinand_id>,
+        <meinhof__ulrike_id>,
+        <meiser__hans_bischof_id>,
+        <mengele__josef_id>,
+        <mense__martha_id>,
+        <molotow__wjatscheslaw_michailowitsch_id>,
+        <montesquieu_id>,
+        <odysseus_id>,
+        <peron__eva_maria_id>,
+        <pulzer__peter_id>,
+        <rabe__john_id>,
+        <raskop__john_jacob_id>,
+        <reuter__julius_id>,
+        <salomon__charlotte_id>,
+        <schindler__oskar_id>,
+        <schleyer__hannsmartin_id>,
+        <schneider__paul_id>,
+        <scholl_geschwister_id>,
+        <schumakov__michael_id>,
+        <siebenpfeiffer__philipp_jakob_id>,
+        <simonsohn__trude_id>,
+        <sprick__wilhelm_id>,
+        <springer__axel_caesar_id>,
+        <steiff__margarete_id>,
+        <stein__edith_id>,
+        <stephan__heinrich_von_id>,
+        <strümpell__henning_id>,
+        <süßoppenheimer__joseph_id>,
+        <trott__adam_von_id>,
+        <tucker__forrest_id>,
+        <ullmann__wolfgang_id>,
+        <wang__anna_id>,
+        <wiesenthal__simon_id>,
+        <ödipus_id> ;
+    skos:prefLabel "Personen"@de ;
+    skos:topConceptOf <> .
+
+<herrscher__könige__politiker_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <adenauer__konrad_id>,
+        <alexander_der_großemakedonien_id>,
+        <allende__salvador_id>,
+        <amelunxen__rudolf_id>,
+        <anna_amalia_herzogin_sachsenweimareisenach_id>,
+        <aron__raymond_id>,
+        <atatürk__kemal_id>,
+        <august_ii._polen_könig_id>,
+        <augustus_rom_id>,
+        <bacon__francis_staatsmann_id>,
+        <barbie__klaus_id>,
+        <barzel__rainer_id>,
+        <beck__ludwig_id>,
+        <ben_gurion__david_id>,
+        <berkhan__karlwilhelm_id>,
+        <bismarck__otto_fürst_von_id>,
         <bormann__martin_id>,
         <borsig__johann_friedrich_august_id>,
         <brandenburgansbach__albrecht_von_id>,
@@ -3209,17 +3285,8 @@
         <breschnew__leonid_id>,
         <briand__aristide_id>,
         <brüning__heinrich_id>,
-        <bundesrepublik_deutschland_194990_id>,
         <burckhardt__carl_jacob_id>,
-        <byzantinisches_reich_id>,
-        <bürgerhaus_id>,
-        <bürgerrechtsbewegung_usa_id>,
         <cassin__rene_id>,
-        <chanel__coco_id>,
-        <che_guevara_id>,
-        <china_kaiserreich_id>,
-        <china_republik_191249_id>,
-        <chinesische_kulturrevolution_id>,
         <chruschtschow__nikita_id>,
         <churchill__winston_id>,
         <colbert__jeanbaptiste_id>,
@@ -3227,53 +3294,22 @@
         <curtius__julius_id>,
         <dahlmann__friedrich_christoph_id>,
         <danton__georges_id>,
-        <ddr_geographie/wirtschaft_id>,
-        <ddr_gesellschaft/staat/geschichte_id>,
         <dehler__thomas_id>,
-        <dekadenz_id>,
-        <delphi_id>,
-        <deutscher_bund_id>,
-        <deutsches_reich_18711918_id>,
-        <deutsches_reich_vor_1871_id>,
-        <deutschfranzösischer_krieg_id>,
-        <deutschland_194549_id>,
-        <dold__erwin_id>,
-        <dreißigjähriger_krieg_id>,
-        <drittes_reich_193345_id>,
         <dschingis_khan_id>,
-        <dunant__henri_id>,
-        <dutschke__rudolf_id>,
         <dönitz__karl_id>,
         <ebert__friedrich_id>,
         <eduard_vii._könig_großbritannien_id>,
         <ehlers__hermann_id>,
         <eichmann__karl_adolf_id>,
         <eisner__kurt_id>,
-        <elfter_september_id>,
         <elisabeth_i._königin_england_id>,
-        <elser__johann_georg_id>,
-        <engels__friedrich_id>,
-        <entdeckung_geschichte_id>,
-        <erfindung_id>,
         <erhard__ludwig_id>,
         <eschenburg__theodor_id>,
-        <etrusker_id>,
         <eugen_prinz_savoyen_id>,
-        <faschismus_id>,
-        <feudalismus_id>,
-        <folklore_id>,
-        <ford__henry_id>,
         <franco__francisco_id>,
-        <frank__anne_id>,
         <frank__hans_id>,
-        <franklin__benjamin_id>,
-        <frankreich_landesgeschichte_id>,
         <franz_josef_i.kaiser_österreich_id>,
-        <französische_revolution_id>,
-        <frau_in_der_geschichte_id>,
-        <freiheitskriege_id>,
         <freisler__roland_id>,
-        <fremdarbeiter_id>,
         <friedrich_i._barbarossa_könig_deutschland_id>,
         <friedrich_i._großherzog_baden_id>,
         <friedrich_i._könig_preußen_id>,
@@ -3283,42 +3319,22 @@
         <friedrich_wilhelm_i._preußen_id>,
         <friedrich_wilhelm_iii._könig_preußen_id>,
         <friedrich_wilhelm_iv._könig_preußen_id>,
-        <fugger_familie_id>,
         <gaius_julius_caesar_id>,
-        <galen__clemens_august_id>,
-        <galinski__heinz_id>,
         <gandhi__mahatma_id>,
-        <gang_nach_canossa_id>,
-        <gasparitsch__hans_id>,
         <gaulle__charles_de_id>,
         <gaus__günter_id>,
         <georg_v._könig_vereintes_königreich_id>,
-        <gerlich__fritz_id>,
-        <germanen_id>,
-        <gerstein__kurt_id>,
-        <geschichte_historie_id>,
-        <ghetto_abgesondertes_jüdisches_wohnviertel_id>,
         <gnaeus_pompeius_magnus_id>,
         <goebbels__joseph_id>,
         <goerdeler__carl_friedrich_id>,
-        <goldrausch_id>,
-        <golfkrieg_id>,
         <gorbatschow__michail_id>,
-        <gouges__olympe_de_id>,
-        <griechenland_altertum_id>,
         <grotewohl__otto_id>,
-        <großbritannien_landesgeschichte_id>,
-        <grundherrschaft_id>,
         <gustav_ii._adolf_schweden_id>,
         <göring__hermann_id>,
-        <habsburger_id>,
         <hadrian_id>,
-        <haitabu_id>,
         <hallstein__walter_id>,
         <hameln__glückel_von_id>,
-        <handschrift_manuskript_id>,
         <hannibal_id>,
-        <hanse_id>,
         <hatschepsut_id>,
         <heinrich_der_löwe_sachsen_id>,
         <heinrich_ii._hrr_id>,
@@ -3328,10 +3344,7 @@
         <heinrich_v._könig_england_id>,
         <heinrich_vi._hrr_id>,
         <heinrich_vii._hrr_id>,
-        <herrscher__könige__politiker_id>,
         <hessenkassel__amalia_elisabeth_von_id>,
-        <hexe_id>,
-        <heydorn__irmgard_id>,
         <heydrich__reinhard_id>,
         <heß__rudolf_id>,
         <himmler__heinrich_id>,
@@ -3341,87 +3354,36 @@
         <ho_chi_minh_id>,
         <honecker__erich_id>,
         <hugenberg__alfred_id>,
-        <humanismus_bewegung_id>,
-        <hunnen_id>,
         <hussein__saddam_id>,
         <ieyasu__tokugawa_shôgun_id>,
-        <indochina_id>,
-        <industrialisierung_id>,
-        <investitur_id>,
-        <investiturstreit_id>,
-        <israel_geschichte_id>,
-        <israeliten_id>,
         <jelzin__boris_id>,
-        <jobs__steve_id>,
-        <johannes_gutenberg_id>,
         <joseph_ii._kaiser_österreich_id>,
         <juan_de_austria_id>,
-        <jugoslawien_republik_id>,
-        <jungfrau_von_orleans_id>,
         <justinian_i._kaiser_byzantinisches_reich_id>,
         <kaiser__jakob_id>,
-        <kaisertum_deutschland_id>,
-        <kalter_krieg_id>,
         <karl_i._der_große_kaiser_rom_deutschland_id>,
         <karl_iv._kaiser_deutschland_id>,
         <karl_theodor_kurfürst_bayern_pfalz_id>,
         <karl_v._kaiser_deutschland_id>,
-        <karolinger_id>,
         <katharina_ii._kaiserin_russland_id>,
         <katte__hans_von_id>,
-        <kaulla__karoline_id>,
-        <keilhack__irma_id>,
-        <kelten_id>,
         <kennedy__john_f._id>,
         <kenyatta__jomo_id>,
         <kiesinger__kurt_georg_id>,
         <king__martin_luther_id>,
-        <klaus_störtebeker_id>,
         <kleopatra_vii._id>,
-        <koberger__anton_id>,
-        <kolbe__maximilian_id>,
-        <kolonialismus_id>,
-        <kongokonferenz_id>,
         <konrad_ii_hrr_id>,
         <konstantin_i._kaiser_byzantinisches_reich_id>,
-        <korczak__janusz_id>,
-        <kreuzzug_id>,
-        <krupp__alfred_id>,
-        <krupp__alfried_id>,
-        <kruse__käthe_id>,
-        <kuomintang_id>,
         <körner__theodor_id>,
         <kühn__heinz_id>,
-        <lactanius_id>,
-        <landesgeschichte_badenwürttemberg_id>,
-        <landesgeschichte_bayern_id>,
-        <landesgeschichte_brandenburg_id>,
-        <landesgeschichte_bremen_id>,
-        <landesgeschichte_hamburg_id>,
-        <landesgeschichte_hessen_id>,
-        <landesgeschichte_mecklenburgvorpommern_id>,
-        <landesgeschichte_niedersachsen_id>,
-        <landesgeschichte_nordrheinwestfalen_id>,
-        <landesgeschichte_rheinlandpfalz_id>,
-        <landesgeschichte_saarland_id>,
-        <landesgeschichte_sachsen_id>,
-        <landesgeschichte_sachsenanhalt_id>,
-        <landesgeschichte_schleswigholstein_id>,
-        <landesgeschichte_thüringen_id>,
         <lassalle__ferdinand_id>,
-        <lauder__esteé_id>,
         <leber__julius_id>,
         <legien__carl_id>,
-        <leisner__karl_id>,
         <lemmer__ernst_id>,
         <lenin__wladimir_iljitsch_id>,
-        <lenne__peter_joseph_id>,
         <leuschner__wilhelm_id>,
         <liebknecht__karl_id>,
         <lincoln__abraham_id>,
-        <lindbergh__charles_id>,
-        <liselotte_von_der_pfalz_id>,
-        <lubbe__marinus_van_der_id>,
         <ludwig_i._könig_bayern_id>,
         <ludwig_ii._könig_bayern_id>,
         <ludwig_wilhelm_i._baden_id>,
@@ -3431,38 +3393,24 @@
         <lumumba__patrice_id>,
         <luxemburg__rosa_id>,
         <löbe__paul_id>,
-        <maathai__wangari_id>,
         <macbeth_id>,
         <malraux__andre_id>,
         <mandela__nelson_id>,
-        <mann__golo_id>,
-        <mannheimer__max_id>,
         <mao_tsetung_id>,
         <maria_stuart_königin_schottland_id>,
         <maria_theresie_österreich__kaiserin_id>,
-        <marian__ferdinand_id>,
         <marie_antoinette_id>,
         <marx__karl_id>,
         <maximilian_i._kaiser_rom_deutschland_id>,
         <mcnamara__robert_id>,
-        <meinhof__ulrike_id>,
-        <meiser__hans_bischof_id>,
-        <mengele__josef_id>,
-        <mense__martha_id>,
-        <merkantilismus_id>,
-        <merowinger_id>,
         <metternich__klemens_wenzel_reichsgraf_id>,
         <meyers__franz_id>,
         <mierendorff__carlo_id>,
-        <mittelalterliche_stadt__id>,
         <mitterrand__françois_id>,
-        <molotow__wjatscheslaw_michailowitsch_id>,
         <moltke__freya_gräfin_von_id>,
         <moltke__helmuth_james_graf_von_id>,
         <monnet__jean_id>,
-        <montesquieu_id>,
         <motier__mariejoseph_marquis_de_la_fayette_id>,
-        <mythologie_id>,
         <napoleon_i._kaiser_frankreich_id>,
         <napoleon_iii._frankreich_id>,
         <nero_kaiser_rom_id>,
@@ -3470,147 +3418,211 @@
         <nikolaus_ii._kaiser_russland_id>,
         <noske__gustav_id>,
         <nyerere__julius_kambarage_id>,
-        <odysseus_id>,
         <ollenhauer__erich_id>,
-        <olympische_spiele_1936__berlin_id>,
         <otto_i._der_große_kaiser_deutschland_id>,
-        <ottonen_id>,
         <papen__franz_von_id>,
-        <pariser_kommune_id>,
-        <pauperismus_id>,
-        <peron__eva_maria_id>,
         <peters__carl_id>,
         <pflimlin__pierre_id>,
-        <pharao_id>,
         <philipp_ii._könig_spanien_id>,
-        <phönizien_id>,
         <pieck__wilhelm_id>,
-        <proletariat_id>,
-        <pulzer__peter_id>,
-        <rabe__john_id>,
         <ramses_id>,
-        <raskop__john_jacob_id>,
         <rau__johannes_id>,
         <reagan__ronald_id>,
         <reichwein__adolf_id>,
-        <restauration_geschichte_id>,
         <reuter__ernst_id>,
-        <reuter__julius_id>,
-        <revolution_1848_id>,
         <ribbentrop__joachim_von_id>,
         <richard_löwenherz_id>,
-        <ritterorden_id>,
         <robbespierre__maximilien_de_id>,
         <rommel__erwin_id>,
         <rommel__manfred_id>,
         <roosevelt__franklin_delano_id>,
         <roosevelt__theodore_id>,
-        <russland_reich_id>,
         <röhm__ernst_id>,
-        <römisches_reich_id>,
-        <sachsenspiegel_id>,
-        <salomon__charlotte_id>,
-        <salzhandel_id>,
-        <samaria_id>,
         <scharnhorst__gerhard_von_id>,
         <scheidemann__philipp_id>,
         <schenk_von_stauffenberg__claus_id>,
         <schiller__karl_id>,
-        <schindler__oskar_id>,
         <schirach__baldur_von_id>,
         <schleicher__kurt_von_id>,
-        <schleyer__hannsmartin_id>,
         <schmid__carlo_id>,
-        <schneider__paul_id>,
-        <scholl_geschwister_id>,
         <schumacher__karl_id>,
-        <schumakov__michael_id>,
         <schuman__robert_id>,
         <schurmann__anna_maria_van_id>,
-        <seefahrt_geschichte_id>,
         <senghor__leopold_sedar_id>,
         <severing__carl_id>,
-        <sezessionskrieg_id>,
-        <siebenjähriger_krieg_id>,
-        <siebenpfeiffer__philipp_jakob_id>,
         <sieyès__emmanuel_joseph_id>,
-        <simonsohn__trude_id>,
-        <sklaverei_id>,
-        <sowjetunion_id>,
-        <soziale_frage_id>,
-        <spanien_landesgeschichte_id>,
         <speer__albert_id>,
-        <sprick__wilhelm_id>,
-        <springer__axel_caesar_id>,
         <stalin__jossif_wissarionowitsch_id>,
-        <stalinismus_id>,
-        <staufer_id>,
         <steffen__jochen_id>,
-        <steiff__margarete_id>,
-        <stein__edith_id>,
         <stein__heinrich_friedrich_karl_reichsfreiherr_vom_und_zum_id>,
         <steinhoff__fritz_id>,
-        <stephan__heinrich_von_id>,
         <strauß__franz_josef_id>,
         <stresemann__gustav_id>,
-        <strümpell__henning_id>,
-        <sumerer_id>,
-        <süßoppenheimer__joseph_id>,
         <thatcher__margret_id>,
-        <theben_oberägypten_id>,
         <theoderich_der_große_ostgote_id>,
         <theophanu_kaiserin_deutschland_id>,
         <thälmann__ernst_id>,
         <tiberius_id>,
-        <titanic_id>,
-        <tradition_id>,
         <trajan_id>,
         <tresckow__henning_von_id>,
-        <trott__adam_von_id>,
-        <tschechoslowakei_id>,
-        <tucker__forrest_id>,
         <tutenchamun_id>,
-        <türkenkrieg_id>,
         <ulbricht__walter_id>,
-        <ullmann__wolfgang_id>,
-        <umbruch_politik_id>,
-        <ur_id>,
-        <usa_landesgeschichte_id>,
-        <verfolgung_homosexualität_id>,
         <vespasian_id>,
-        <vietnam_landesgeschichte_id>,
-        <vietnamkrieg_id>,
-        <völkerbund_id>,
-        <völkerwanderung_id>,
         <wallenstein_id>,
-        <wang__anna_id>,
-        <warschauer_pakt_id>,
         <wehner__herbert_id>,
-        <wehrpflicht_deutschland_id>,
-        <weimarer_republik_1918/1933_id>,
         <weizsäcker__richard_von_id>,
-        <welfen_id>,
         <wellington__arthur_herzog_von_id>,
         <wels__otto_id>,
-        <weltwirtschaftskrise_id>,
-        <westfälischer_frieden_id>,
         <widukind_id>,
-        <wiener_kongress_id>,
-        <wiesenthal__simon_id>,
         <wilhelm_i._fürst_oranien_id>,
         <wilhelm_i._kaiser_deutschland_id>,
         <wilhelm_i._könig_england_id>,
         <wilhelm_ii._kaiser_deutschland_id>,
         <wilhelmine_markgräfin_bayreuth_id>,
         <wilson__thomas_woodrow_id>,
+        <zinn__georg_august_id> ;
+    skos:prefLabel "Herrscher, Könige, Politiker"@de ;
+    skos:topConceptOf <> .
+
+<> a skos:ConceptScheme ;
+    dct:creator "<https://creator.com>" ;
+    dct:description "geschichte_systematik"@de ;
+    dct:title "geschichte_systematik"@de ;
+    skos:hasTopConcept <alemannen_id>,
+        <alltagsleben_geschichte_id>,
+        <apartheid_id>,
+        <arbeiterbewegung_id>,
+        <arbeitswelt_geschichte_id>,
+        <archäologie_id>,
+        <assyrien_id>,
+        <attentat_id>,
+        <auswanderung_aus_deutschland_id>,
+        <babylon_id>,
+        <bauernbefreiung_id>,
+        <bauernkrieg_id>,
+        <bauhütte_id>,
+        <berlin_nach_1990_id>,
+        <beschreibstoff_id>,
+        <bessarabien_id>,
+        <bundesrepublik_deutschland_194990_id>,
+        <byzantinisches_reich_id>,
+        <bürgerhaus_id>,
+        <bürgerrechtsbewegung_usa_id>,
+        <china_kaiserreich_id>,
+        <china_republik_191249_id>,
+        <chinesische_kulturrevolution_id>,
+        <ddr_geographie/wirtschaft_id>,
+        <ddr_gesellschaft/staat/geschichte_id>,
+        <dekadenz_id>,
+        <delphi_id>,
+        <deutscher_bund_id>,
+        <deutsches_reich_18711918_id>,
+        <deutsches_reich_vor_1871_id>,
+        <deutschfranzösischer_krieg_id>,
+        <deutschland_194549_id>,
+        <dreißigjähriger_krieg_id>,
+        <drittes_reich_193345_id>,
+        <elfter_september_id>,
+        <entdeckung_geschichte_id>,
+        <erfindung_id>,
+        <etrusker_id>,
+        <faschismus_id>,
+        <feudalismus_id>,
+        <folklore_id>,
+        <frankreich_landesgeschichte_id>,
+        <französische_revolution_id>,
+        <frau_in_der_geschichte_id>,
+        <freiheitskriege_id>,
+        <fremdarbeiter_id>,
+        <gang_nach_canossa_id>,
+        <germanen_id>,
+        <geschichte_historie_id>,
+        <ghetto_abgesondertes_jüdisches_wohnviertel_id>,
+        <goldrausch_id>,
+        <golfkrieg_id>,
+        <griechenland_altertum_id>,
+        <großbritannien_landesgeschichte_id>,
+        <grundherrschaft_id>,
+        <habsburger_id>,
+        <haitabu_id>,
+        <handschrift_manuskript_id>,
+        <hanse_id>,
+        <herrscher__könige__politiker_id>,
+        <hexe_id>,
+        <humanismus_bewegung_id>,
+        <hunnen_id>,
+        <indochina_id>,
+        <industrialisierung_id>,
+        <investitur_id>,
+        <investiturstreit_id>,
+        <israel_geschichte_id>,
+        <israeliten_id>,
+        <jugoslawien_republik_id>,
+        <kaisertum_deutschland_id>,
+        <kalter_krieg_id>,
+        <karolinger_id>,
+        <kelten_id>,
+        <kolonialismus_id>,
+        <kongokonferenz_id>,
+        <kreuzzug_id>,
+        <kuomintang_id>,
+        <landesgeschichte_id>,
+        <merkantilismus_id>,
+        <merowinger_id>,
+        <mittelalterliche_stadt__id>,
+        <mythologie_id>,
+        <olympische_spiele_1936__berlin_id>,
+        <ottonen_id>,
+        <pariser_kommune_id>,
+        <pauperismus_id>,
+        <personen_id>,
+        <pharao_id>,
+        <phönizien_id>,
+        <proletariat_id>,
+        <restauration_geschichte_id>,
+        <revolution_1848_id>,
+        <ritterorden_id>,
+        <russland_reich_id>,
+        <römisches_reich_id>,
+        <sachsenspiegel_id>,
+        <salzhandel_id>,
+        <samaria_id>,
+        <seefahrt_geschichte_id>,
+        <sezessionskrieg_id>,
+        <siebenjähriger_krieg_id>,
+        <sklaverei_id>,
+        <sowjetunion_id>,
+        <soziale_frage_id>,
+        <spanien_landesgeschichte_id>,
+        <stalinismus_id>,
+        <staufer_id>,
+        <sumerer_id>,
+        <theben_oberägypten_id>,
+        <titanic_id>,
+        <tradition_id>,
+        <tschechoslowakei_id>,
+        <türkenkrieg_id>,
+        <umbruch_politik_id>,
+        <ur_id>,
+        <usa_landesgeschichte_id>,
+        <verfolgung_homosexualität_id>,
+        <vietnam_landesgeschichte_id>,
+        <vietnamkrieg_id>,
+        <völkerbund_id>,
+        <völkerwanderung_id>,
+        <warschauer_pakt_id>,
+        <wehrpflicht_deutschland_id>,
+        <weimarer_republik_1918/1933_id>,
+        <welfen_id>,
+        <weltwirtschaftskrise_id>,
+        <westfälischer_frieden_id>,
+        <wiener_kongress_id>,
         <wochenschau_id>,
         <youngplan_id>,
         <zar_id>,
         <zeitrechnung_id>,
         <zeitzeuge_id>,
-        <zinn__georg_august_id>,
         <zwangsarbeit_id>,
         <zwanziger_jahre_id>,
-        <ödipus_id>,
         <österreich_geschichte_id> .
 

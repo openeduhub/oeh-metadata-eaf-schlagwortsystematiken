@@ -8,9 +8,9 @@
     skos:prefLabel "Abofalle"@de .
 
 <bernerslee__timothy_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Berners-Lee, Timothy"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "BernersLee, Timothy"@de .
 
 <betriebssystem_id> a skos:Concept ;
     skos:broader <software_id> ;
@@ -38,9 +38,9 @@
     skos:prefLabel "Blogger"@de .
 
 <braille__louis_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Braille, Louis"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Braille, Louis"@de .
 
 <bürokommunikation_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -188,9 +188,9 @@
     skos:topConceptOf <> .
 
 <gates__bill_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Gates, Bill"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Gates, Bill"@de .
 
 <geoinformationssystem_id> a skos:Concept ;
     skos:broader <informationswesen_id> ;
@@ -223,9 +223,9 @@
     skos:prefLabel "Mikrofilm"@de .
 
 <morse__samuel_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Morse, Samuel"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Morse, Samuel"@de .
 
 <morsezeichen_id> a skos:Concept ;
     skos:broader <telekommunikation_id> ;
@@ -358,9 +358,9 @@
     skos:prefLabel "Zeichenerkennung"@de .
 
 <zuse__konrad_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Zuse, Konrad"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Zuse, Konrad"@de .
 
 <computersimulation_id> a skos:Concept ;
     skos:broader <software_id> ;
@@ -420,6 +420,16 @@
         <computerspiel_simulation_id>,
         <computerspiel_spielgeschichte_id> ;
     skos:prefLabel "Computerspiel"@de .
+
+<personen_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <bernerslee__timothy_id>,
+        <braille__louis_id>,
+        <gates__bill_id>,
+        <morse__samuel_id>,
+        <zuse__konrad_id> ;
+    skos:prefLabel "Personen"@de ;
+    skos:topConceptOf <> .
 
 <software_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -496,24 +506,20 @@
     dct:creator "<https://creator.com>" ;
     dct:description "informationstechnische_bildung_systematik"@de ;
     dct:title "informationstechnische_bildung_systematik"@de ;
-    skos:hasTopConcept <bernerslee__timothy_id>,
-        <braille__louis_id>,
-        <bürokommunikation_id>,
+    skos:hasTopConcept <bürokommunikation_id>,
         <computer_id>,
         <datei_id>,
         <datenschutz_id>,
         <datensicherung_id>,
         <datenverarbeitung_id>,
         <evaprinzip_id>,
-        <gates__bill_id>,
         <informatik_id>,
         <informationswesen_id>,
-        <morse__samuel_id>,
         <motion_capture_id>,
         <multimedia_id>,
+        <personen_id>,
         <podcasting_id>,
         <software_id>,
         <taschenrechner_id>,
-        <telekommunikation_id>,
-        <zuse__konrad_id> .
+        <telekommunikation_id> .
 

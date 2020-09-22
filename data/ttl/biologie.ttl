@@ -347,11 +347,6 @@
     skos:inScheme <> ;
     skos:prefLabel "Doldenblütler"@de .
 
-<drüse_id> a skos:Concept ;
-    skos:broader <blutkreislauf_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Drüse"@de .
-
 <duftstoff_id> a skos:Concept ;
     skos:broader <verhalten_tier_id> ;
     skos:inScheme <> ;
@@ -748,7 +743,7 @@
     skos:prefLabel "Heuschrecken"@de .
 
 <hirnanhangdrüse_id> a skos:Concept ;
-    skos:broader <blutkreislauf_id> ;
+    skos:broader <drüse_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Hirnanhangdrüse"@de .
 
@@ -1078,7 +1073,7 @@
     skos:prefLabel "Kätzchen"@de .
 
 <körperbau_mensch_id> a skos:Concept ;
-    skos:broader <kind_id> ;
+    skos:broader <mensch_id> ;
     skos:inScheme <> ;
     skos:prefLabel "Körperbau (Mensch)"@de .
 
@@ -2715,7 +2710,7 @@
     skos:prefLabel "Lebensraum"@de .
 
 <leber_id> a skos:Concept ;
-    skos:broader <blutkreislauf_id> ;
+    skos:broader <drüse_id> ;
     skos:inScheme <> ;
     skos:narrower <galle_körperflüssigkeit_id> ;
     skos:prefLabel "Leber"@de .
@@ -3000,6 +2995,13 @@
         <gen_id> ;
     skos:prefLabel "Chromosom"@de .
 
+<drüse_id> a skos:Concept ;
+    skos:broader <anatomie_tier_id> ;
+    skos:inScheme <> ;
+    skos:narrower <hirnanhangdrüse_id>,
+        <leber_id> ;
+    skos:prefLabel "Drüse"@de .
+
 <eiweiß_id> a skos:Concept ;
     skos:broader <biochemie_id> ;
     skos:inScheme <> ;
@@ -3069,6 +3071,13 @@
     skos:narrower <paarhufer_id>,
         <unpaarhufer_id> ;
     skos:prefLabel "Huftiere"@de .
+
+<kind_id> a skos:Concept ;
+    skos:broader <mensch_id> ;
+    skos:inScheme <> ;
+    skos:narrower <kleinkind_id>,
+        <säugling_id> ;
+    skos:prefLabel "Kind"@de .
 
 <knorpelfische_id> a skos:Concept ;
     skos:broader <fische_id> ;
@@ -3280,6 +3289,14 @@
         <blutzelle_id> ;
     skos:prefLabel "Blut"@de .
 
+<blutkreislauf_id> a skos:Concept ;
+    skos:broader <anatomie_tier_id> ;
+    skos:inScheme <> ;
+    skos:narrower <blut_id>,
+        <blutdruck_id>,
+        <blutgefäß_id> ;
+    skos:prefLabel "Blutkreislauf"@de .
+
 <chordatiere_id> a skos:Concept ;
     skos:inScheme <> ;
     skos:narrower <lanzettfischchen_id>,
@@ -3343,14 +3360,6 @@
         <löwen_id>,
         <wildkatze_id> ;
     skos:prefLabel "Katzen"@de .
-
-<kind_id> a skos:Concept ;
-    skos:broader <mensch_id> ;
-    skos:inScheme <> ;
-    skos:narrower <kleinkind_id>,
-        <körperbau_mensch_id>,
-        <säugling_id> ;
-    skos:prefLabel "Kind"@de .
 
 <nichtwiederkäuer_id> a skos:Concept ;
     skos:broader <paarhufer_id> ;
@@ -3597,17 +3606,6 @@
         <vögel_id> ;
     skos:prefLabel "Wirbeltiere"@de .
 
-<blutkreislauf_id> a skos:Concept ;
-    skos:broader <anatomie_tier_id> ;
-    skos:inScheme <> ;
-    skos:narrower <blut_id>,
-        <blutdruck_id>,
-        <blutgefäß_id>,
-        <drüse_id>,
-        <hirnanhangdrüse_id>,
-        <leber_id> ;
-    skos:prefLabel "Blutkreislauf"@de .
-
 <einzeller_id> a skos:Concept ;
     skos:broader <mikroorganismus_id> ;
     skos:inScheme <> ;
@@ -3824,24 +3822,6 @@
         <äschen_id> ;
     skos:prefLabel "Fische"@de .
 
-<anatomie_tier_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <bewegungssystem_id>,
-        <blutkreislauf_id>,
-        <feder_gefieder_id>,
-        <fell_id>,
-        <gebiss_id>,
-        <immunsystem_id>,
-        <kehlkopf_id>,
-        <lymphsystem_id>,
-        <nagel_anatomie_id>,
-        <organ_id>,
-        <rudiment_id>,
-        <schleimhaut_id>,
-        <skelett_id> ;
-    skos:prefLabel "Anatomie (Tier)"@de ;
-    skos:topConceptOf <> .
-
 <fortpflanzung_id> a skos:Concept ;
     skos:inScheme <> ;
     skos:narrower <befruchtung_id>,
@@ -3860,24 +3840,24 @@
     skos:prefLabel "Fortpflanzung"@de ;
     skos:topConceptOf <> .
 
-<mensch_id> a skos:Concept ;
-    skos:broader <verhaltensforschung_id> ;
+<anatomie_tier_id> a skos:Concept ;
     skos:inScheme <> ;
-    skos:narrower <denken_id>,
-        <frau_id>,
-        <gesicht_id>,
-        <intelligenz_id>,
-        <jugendlicher_id>,
-        <junge_id>,
-        <kind_id>,
-        <mann_id>,
-        <mädchen_id>,
-        <reifungsprozess_mensch_id>,
-        <sexualität_id>,
-        <sprachentwicklung_kind_id>,
-        <wahrnehmung_sinnesorgan_id>,
-        <zwillinge_biologie_id> ;
-    skos:prefLabel "Mensch"@de .
+    skos:narrower <bewegungssystem_id>,
+        <blutkreislauf_id>,
+        <drüse_id>,
+        <feder_gefieder_id>,
+        <fell_id>,
+        <gebiss_id>,
+        <immunsystem_id>,
+        <kehlkopf_id>,
+        <lymphsystem_id>,
+        <nagel_anatomie_id>,
+        <organ_id>,
+        <rudiment_id>,
+        <schleimhaut_id>,
+        <skelett_id> ;
+    skos:prefLabel "Anatomie (Tier)"@de ;
+    skos:topConceptOf <> .
 
 <säugetiere_id> a skos:Concept ;
     skos:broader <wirbeltiere_id> ;
@@ -3897,6 +3877,26 @@
         <sohlengänger_id>,
         <zahnarme_id> ;
     skos:prefLabel "Säugetiere"@de .
+
+<mensch_id> a skos:Concept ;
+    skos:broader <verhaltensforschung_id> ;
+    skos:inScheme <> ;
+    skos:narrower <denken_id>,
+        <frau_id>,
+        <gesicht_id>,
+        <intelligenz_id>,
+        <jugendlicher_id>,
+        <junge_id>,
+        <kind_id>,
+        <körperbau_mensch_id>,
+        <mann_id>,
+        <mädchen_id>,
+        <reifungsprozess_mensch_id>,
+        <sexualität_id>,
+        <sprachentwicklung_kind_id>,
+        <wahrnehmung_sinnesorgan_id>,
+        <zwillinge_biologie_id> ;
+    skos:prefLabel "Mensch"@de .
 
 <biochemie_id> a skos:Concept ;
     skos:inScheme <> ;

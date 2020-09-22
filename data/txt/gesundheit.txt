@@ -1,4 +1,4 @@
-G E S U N D H E I T (ERNÄHRUNG, HYGIENE, MEDIZIN)			
+G E S U N D H E I T (ERNÄHRUNG, HYGIENE, MEDIZIN)
 
 Ernährung
 -Diät
@@ -204,7 +204,8 @@ Medizin (Heilkunde)
 -Geburt
 -Kindstod
 
--Bach, Edward	
+Personen
+-Bach, Edward
 -Banting, Frederick
 -Bauer, Karl Heinrich
 -Best, Charles

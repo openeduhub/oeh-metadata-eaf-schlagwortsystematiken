@@ -28,9 +28,9 @@
     skos:prefLabel "Autoreifen"@de .
 
 <benz__carl_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Benz, Carl"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Benz, Carl"@de .
 
 <benzineinspritzung_id> a skos:Concept ;
     skos:broader <kraftfahrzeug_id> ;
@@ -83,9 +83,9 @@
     skos:prefLabel "Crashtest "@de .
 
 <daimler__gottlieb_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Daimler, Gottlieb"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Daimler, Gottlieb"@de .
 
 <deutsche_lufthansa_ag_id> a skos:Concept ;
     skos:broader <luftverkehr_id> ;
@@ -98,9 +98,9 @@
     skos:prefLabel "Diebstahlsicherung"@de .
 
 <diesel__rudolf_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Diesel, Rudolf"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Diesel, Rudolf"@de .
 
 <draisine_id> a skos:Concept ;
     skos:broader <fahrrad_id> ;
@@ -113,9 +113,9 @@
     skos:topConceptOf <> .
 
 <eckener__hugo_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Eckener, Hugo"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Eckener, Hugo"@de .
 
 <eisenbahn_id> a skos:Concept ;
     skos:broader <transport_id> ;
@@ -273,9 +273,9 @@
     skos:prefLabel "Motorrad"@de .
 
 <otto__nikolaus_august_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Otto, Nikolaus August"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Otto, Nikolaus August"@de .
 
 <piktogramm_id> a skos:Concept ;
     skos:broader <straßenverkehrsordnung_id> ;
@@ -408,9 +408,9 @@
     skos:prefLabel "Zebrastreifen (Fußgängerüberweg)"@de .
 
 <zeppelin__ferdinand_graf_von_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Zeppelin, Ferdinand Graf von"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Zeppelin, Ferdinand Graf von"@de .
 
 <anhalteweg_id> a skos:Concept ;
     skos:broader <verkehrssicherheit_id> ;
@@ -544,6 +544,17 @@
         <sicherheitssystem_kfz_id> ;
     skos:prefLabel "Verkehrssicherheit"@de .
 
+<personen_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <benz__carl_id>,
+        <daimler__gottlieb_id>,
+        <diesel__rudolf_id>,
+        <eckener__hugo_id>,
+        <otto__nikolaus_august_id>,
+        <zeppelin__ferdinand_graf_von_id> ;
+    skos:prefLabel "Personen"@de ;
+    skos:topConceptOf <> .
+
 <verkehr_id> a skos:Concept ;
     skos:inScheme <> ;
     skos:narrower <transport_id>,
@@ -641,17 +652,12 @@
     dct:creator "<https://creator.com>" ;
     dct:description "verkehrserziehung_systematik"@de ;
     dct:title "verkehrserziehung_systematik"@de ;
-    skos:hasTopConcept <benz__carl_id>,
-        <daimler__gottlieb_id>,
-        <diesel__rudolf_id>,
-        <drohne_id>,
-        <eckener__hugo_id>,
+    skos:hasTopConcept <drohne_id>,
         <fahrschule_id>,
         <induktionsschleife_id>,
         <navigation_id>,
-        <otto__nikolaus_august_id>,
+        <personen_id>,
         <tankstelle_id>,
         <trampen_id>,
-        <verkehr_id>,
-        <zeppelin__ferdinand_graf_von_id> .
+        <verkehr_id> .
 

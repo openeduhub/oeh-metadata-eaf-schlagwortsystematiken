@@ -1,4 +1,4 @@
-P H Y S I K										
+P H Y S I K
 
 Physik
 -Astronomie
@@ -224,93 +224,94 @@ Physik
 
 UFO
 
-Abbe, Ernst
-Ampère, André-Marie
-Ardenne, Manfred von
-Avogadro, Amedeo
-Baird, John Logie
-Bardeen, John
-Becquerel, Antoine Henri
-Bell, Alexander Graham
-Bethe, Hans
-Binning, Gerd
-Bohr, Niels
-Brahe, Tycho
-Brattain, Walter
-Braun, Karl Friedrich
-Braun, Wernher von
-Celsius, Anders
-Daguerre, Louis
-Diesel, Rudolf
-Drais, Carl-Friedrich
-Edison, Thomas Alva
-Einstein, Albert
-Eyth, Max
-Faraday, Michael
-Fermi, Enrico
-Foucault, Jean Bernard Léon
-Fraunhofer, Joseph
-Gilbert, William
-Grove, William Robert
-Guericke, Otto von
-Halley, Edmond
-Hawking, Stephen William
-Heisenberg, Werner
-Hertz, Heinrich
-Hertz, Gustav
-Hubble, Edwin Powell
-Jenny, Hans
-Joliot, Frederic
-Joule, James Prescott
-Kammerlingh-Onnes, Heike
-Kepler, Johannes
-Knoll, Max
-Koroljow, Sergej Pawlowitsch
-Lumière, Gebrüder
-Laplace, Pierre Simon de
-Lilienthal, Otto
-Linde, Carl von
-MacCready, Paul
-Maimann, Theodore
-Marconi, Guglielmo
-Maxwell, James Clark
-Mayer, Tobias
-Meißner, Walther
-Messerschmitt, Willy
-Montgolfier (Gebrüder)
-Newcomen, Thomas	
-Newton, Isaac	
-Nipkow, Paul Julius Gottlieb
-Nostradamus
-Oberth, Hermann
-Ohm, Georg Simon
-Papin, Denis
-Pacal, Blaise
-Piccard, Auguste
-Planck, Max
-Röntgen, Wilhelm Conrad
-Ruska, Ernst
-Rutherford, Ernest
-Schawlow, Arthur Leonard
-Schrödinger, Erwin 
-Shckley, William Bradford
-Siemens, Werner von
-Sikorsky, Igor Iwanowitsch
-Skladanowsky, Max
-Stephenson, George
-Stauss, Joseph Baermann
-Tesla, Nikola
-Townes, Charles Hard
-Volta, Alessandro Graf
-Thomson, William
-Wankel, Felix
-Watson-Watt, Robert
-Watt, James
-Weizenbaum, Joseph
-Weizsäcker, Carl Friedrich
-Westinghouse, George
-Wiechert, Emil
-Whittle, Frank
-Wright (Gebrüder)
-Zeiss, Carl
-Zworykin, Vladimir Kosma
+Personen
+-Abbe, Ernst
+-Ampère, André-Marie
+-Ardenne, Manfred von
+-Avogadro, Amedeo
+-Baird, John Logie
+-Bardeen, John
+-Becquerel, Antoine Henri
+-Bell, Alexander Graham
+-Bethe, Hans
+-Binning, Gerd
+-Bohr, Niels
+-Brahe, Tycho
+-Brattain, Walter
+-Braun, Karl Friedrich
+-Braun, Wernher von
+-Celsius, Anders
+-Daguerre, Louis
+-Diesel, Rudolf
+-Drais, Carl-Friedrich
+-Edison, Thomas Alva
+-Einstein, Albert
+-Eyth, Max
+-Faraday, Michael
+-Fermi, Enrico
+-Foucault, Jean Bernard Léon
+-Fraunhofer, Joseph
+-Gilbert, William
+-Grove, William Robert
+-Guericke, Otto von
+-Halley, Edmond
+-Hawking, Stephen William
+-Heisenberg, Werner
+-Hertz, Heinrich
+-Hertz, Gustav
+-Hubble, Edwin Powell
+-Jenny, Hans
+-Joliot, Frederic
+-Joule, James Prescott
+-Kammerlingh-Onnes, Heike
+-Kepler, Johannes
+-Knoll, Max
+-Koroljow, Sergej Pawlowitsch
+-Lumière, Gebrüder
+-Laplace, Pierre Simon de
+-Lilienthal, Otto
+-Linde, Carl von
+-MacCready, Paul
+-Maimann, Theodore
+-Marconi, Guglielmo
+-Maxwell, James Clark
+-Mayer, Tobias
+-Meißner, Walther
+-Messerschmitt, Willy
+-Montgolfier (Gebrüder)
+-Newcomen, Thomas
+-Newton, Isaac
+-Nipkow, Paul Julius Gottlieb
+-Nostradamus
+-Oberth, Hermann
+-Ohm, Georg Simon
+-Papin, Denis
+-Pacal, Blaise
+-Piccard, Auguste
+-Planck, Max
+-Röntgen, Wilhelm Conrad
+-Ruska, Ernst
+-Rutherford, Ernest
+-Schawlow, Arthur Leonard
+-Schrödinger, Erwin 
+-Shckley, William Bradford
+-Siemens, Werner von
+-Sikorsky, Igor Iwanowitsch
+-Skladanowsky, Max
+-Stephenson, George
+-Stauss, Joseph Baermann
+-Tesla, Nikola
+-Townes, Charles Hard
+-Volta, Alessandro Graf
+-Thomson, William
+-Wankel, Felix
+-Watson-Watt, Robert
+-Watt, James
+-Weizenbaum, Joseph
+-Weizsäcker, Carl Friedrich
+-Westinghouse, George
+-Wiechert, Emil
+-Whittle, Frank
+-Wright (Gebrüder)
+-Zeiss, Carl
+-Zworykin, Vladimir Kosma

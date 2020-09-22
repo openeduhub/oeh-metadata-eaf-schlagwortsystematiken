@@ -53,14 +53,14 @@
     skos:prefLabel "Ausweis"@de .
 
 <avnery__uri_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Avnery, Uri"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Avnery, Uri"@de .
 
 <balladur__edouard_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Balladur, Edouard"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Balladur, Edouard"@de .
 
 <befreiungsbewegung_id> a skos:Concept ;
     skos:broader <politik_id> ;
@@ -68,9 +68,9 @@
     skos:prefLabel "Befreiungsbewegung"@de .
 
 <biedenkopf__kurt_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Biedenkopf, Kurt"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Biedenkopf, Kurt"@de .
 
 <brot_für_die_welt_id> a skos:Concept ;
     skos:broader <nichtregierungsorganisation_id> ;
@@ -78,9 +78,9 @@
     skos:prefLabel "Brot für die Welt"@de .
 
 <brugioni__dino_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Brugioni, Dino"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Brugioni, Dino"@de .
 
 <bundesfreiwilligendienst_id> a skos:Concept ;
     skos:broader <politik_id> ;
@@ -108,9 +108,9 @@
     skos:prefLabel "Bundesverfassungsgericht"@de .
 
 <bush__george_w._id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Bush, George W."@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Bush, George W."@de .
 
 <bündnis_id> a skos:Concept ;
     skos:broader <politik_id> ;
@@ -138,29 +138,29 @@
     skos:prefLabel "Bürokratie"@de .
 
 <castro__fidel_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Castro, Fidel"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Castro, Fidel"@de .
 
 <chamorro__violeta_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Chamorro, Violeta"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Chamorro, Violeta"@de .
 
 <charles_prinz_wales_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Charles (Prinz Wales)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Charles (Prinz Wales)"@de .
 
 <cheney__richard_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Cheney, Richard"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Cheney, Richard"@de .
 
 <chirac__jacques_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Chirac, Jacques"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Chirac, Jacques"@de .
 
 <christlich_demokratische_union_id> a skos:Concept ;
     skos:broader <partei_politik_id> ;
@@ -168,14 +168,14 @@
     skos:prefLabel "Christlich Demokratische Union"@de .
 
 <chruschtschow__sergej_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Chruschtschow, Sergej"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Chruschtschow, Sergej"@de .
 
 <clement__wolfgang_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Clement, Wolfgang"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Clement, Wolfgang"@de .
 
 <demagogie_id> a skos:Concept ;
     skos:broader <herrschaftsform_id> ;
@@ -253,9 +253,9 @@
     skos:prefLabel "EGovernment"@de .
 
 <elisabeth_ii._königin_england_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Elisabeth II. (Königin England)"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Elisabeth II. (Königin England)"@de .
 
 <entwicklungsland_id> a skos:Concept ;
     skos:broader <entwicklungshilfe_id> ;
@@ -263,9 +263,9 @@
     skos:prefLabel "Entwicklungsland"@de .
 
 <eppelmann__rainer_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Eppelmann, Rainer"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Eppelmann, Rainer"@de .
 
 <europarat_id> a skos:Concept ;
     skos:broader <europäische_gemeinschaften_id> ;
@@ -303,9 +303,9 @@
     skos:prefLabel "Fanatismus"@de .
 
 <farhatnaser__sumaya_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Farhat-Naser, Sumaya"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "FarhatNaser, Sumaya"@de .
 
 <feindbild_id> a skos:Concept ;
     skos:broader <politik_id> ;
@@ -363,9 +363,9 @@
     skos:prefLabel "Gewaltfreie Aktion"@de .
 
 <giscard_d'estaing__valéry_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Giscard d'Estaing, Valéry"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Giscard d'Estaing, Valéry"@de .
 
 <glasnost_id> a skos:Concept ;
     skos:inScheme <> ;
@@ -413,19 +413,19 @@
     skos:topConceptOf <> .
 
 <guttenberg__karl_theodor_zu_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Guttenberg, Karl Theodor zu"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Guttenberg, Karl Theodor zu"@de .
 
 <gysi__gregor__id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Gysi, Gregor "@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Gysi, Gregor "@de .
 
 <hammbrücher__hildegard_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hamm-Brücher, Hildegard"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "HammBrücher, Hildegard"@de .
 
 <hauptstadt_id> a skos:Concept ;
     skos:broader <politik_id> ;
@@ -438,14 +438,14 @@
     skos:prefLabel "Herrscher"@de .
 
 <hänsch__klaus_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Hänsch, Klaus"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Hänsch, Klaus"@de .
 
 <höllenreiner__hugo_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Höllenreiner, Hugo"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Höllenreiner, Hugo"@de .
 
 <ideologie_id> a skos:Concept ;
     skos:broader <politik_id> ;
@@ -498,9 +498,9 @@
     skos:prefLabel "Jugendstrafvollzug"@de .
 
 <keller__ska_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Keller, Ska"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Keller, Ska"@de .
 
 <kinderarbeit_id> a skos:Concept ;
     skos:broader <jugendschutz_id> ;
@@ -513,14 +513,14 @@
     skos:prefLabel "Kinderrechte"@de .
 
 <klarsfeld__beate_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Klarsfeld, Beate"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Klarsfeld, Beate"@de .
 
 <kohl__helmut_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Kohl, Helmut"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Kohl, Helmut"@de .
 
 <kollektivierung_id> a skos:Concept ;
     skos:broader <politik_id> ;
@@ -543,9 +543,9 @@
     skos:prefLabel "Konferenz"@de .
 
 <kraft__hannelore_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Kraft, Hannelore"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Kraft, Hannelore"@de .
 
 <kriegsdienstverweigerung_id> a skos:Concept ;
     skos:broader <bundeswehr_id> ;
@@ -583,9 +583,9 @@
     skos:prefLabel "Landtag"@de .
 
 <le_pen__jeanmarie_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Le Pen, Jean-MArie"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Le Pen, JeanMArie"@de .
 
 <liberalismus_id> a skos:Concept ;
     skos:broader <herrschaftsform_id> ;
@@ -613,19 +613,19 @@
     skos:prefLabel "Materialismus"@de .
 
 <mcnamara__robert_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "McNamara, Robert"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "McNamara, Robert"@de .
 
 <menchu__rigoberta_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Menchu, Rigoberta"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Menchu, Rigoberta"@de .
 
 <merkel__angela_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Merkel, Angela"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Merkel, Angela"@de .
 
 <migrationsursache_id> a skos:Concept ;
     skos:broader <politik_id> ;
@@ -653,9 +653,9 @@
     skos:prefLabel "Modellversuch"@de .
 
 <modrow__hans_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Modrow, Hans"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Modrow, Hans"@de .
 
 <monarchie_id> a skos:Concept ;
     skos:broader <herrschaftsform_id> ;
@@ -668,9 +668,9 @@
     skos:prefLabel "MST"@de .
 
 <mugabe__robert_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Mugabe, Robert"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Mugabe, Robert"@de .
 
 <müllabfuhr_id> a skos:Concept ;
     skos:broader <politik_id> ;
@@ -708,9 +708,9 @@
     skos:prefLabel "Neofaschismus"@de .
 
 <neudeck__rupert_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Neudeck, Rupert"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Neudeck, Rupert"@de .
 
 <nobelpreis_id> a skos:Concept ;
     skos:broader <politik_id> ;
@@ -728,9 +728,9 @@
     skos:prefLabel "Nutzungsrecht"@de .
 
 <obama__barack_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Obama, Barack"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Obama, Barack"@de .
 
 <oderneißegrenze_id> a skos:Concept ;
     skos:broader <politik_id> ;
@@ -888,24 +888,24 @@
     skos:topConceptOf <> .
 
 <rüttgers__jürgen_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Rüttgers, Jürgen"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Rüttgers, Jürgen"@de .
 
 <schmidt__helmut_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Schmidt, Helmut"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Schmidt, Helmut"@de .
 
 <schorlemmer__friedrich_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Schorlemmer, Friedrich"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Schorlemmer, Friedrich"@de .
 
 <schröder__gerhard_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Schröder, Gerhard"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Schröder, Gerhard"@de .
 
 <schwellenländer_id> a skos:Concept ;
     skos:broader <entwicklungshilfe_id> ;
@@ -913,9 +913,9 @@
     skos:prefLabel "Schwellenländer"@de .
 
 <schäuble__wolfgang_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Schäuble, Wolfgang"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Schäuble, Wolfgang"@de .
 
 <selbstbestimmung_id> a skos:Concept ;
     skos:broader <politik_id> ;
@@ -978,9 +978,9 @@
     skos:prefLabel "Statistisches Bundesamt"@de .
 
 <steinbrück__peer_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Steinbrück, Peer"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Steinbrück, Peer"@de .
 
 <strafrecht_id> a skos:Concept ;
     skos:broader <recht_id> ;
@@ -1013,9 +1013,9 @@
     skos:prefLabel "Treuhandanstalt"@de .
 
 <trump__donald_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Trump, Donald"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Trump, Donald"@de .
 
 <unesco_id> a skos:Concept ;
     skos:broader <vereinte_nationen_id> ;
@@ -1033,9 +1033,9 @@
     skos:prefLabel "USA (Außenpolitik)"@de .
 
 <veil__simone_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Veil, Simone"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Veil, Simone"@de .
 
 <verband_recht_id> a skos:Concept ;
     skos:broader <recht_id> ;
@@ -1148,9 +1148,9 @@
     skos:prefLabel "Wohnungsbau"@de .
 
 <yousafzai__malala_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Yousafzai, Malala"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Yousafzai, Malala"@de .
 
 <zensur_überwachung_id> a skos:Concept ;
     skos:broader <politik_id> ;
@@ -1487,6 +1487,53 @@
         <totalitarismus_id> ;
     skos:prefLabel "Herrschaftsform"@de .
 
+<personen_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <avnery__uri_id>,
+        <balladur__edouard_id>,
+        <biedenkopf__kurt_id>,
+        <brugioni__dino_id>,
+        <bush__george_w._id>,
+        <castro__fidel_id>,
+        <chamorro__violeta_id>,
+        <charles_prinz_wales_id>,
+        <cheney__richard_id>,
+        <chirac__jacques_id>,
+        <chruschtschow__sergej_id>,
+        <clement__wolfgang_id>,
+        <elisabeth_ii._königin_england_id>,
+        <eppelmann__rainer_id>,
+        <farhatnaser__sumaya_id>,
+        <giscard_d'estaing__valéry_id>,
+        <guttenberg__karl_theodor_zu_id>,
+        <gysi__gregor__id>,
+        <hammbrücher__hildegard_id>,
+        <hänsch__klaus_id>,
+        <höllenreiner__hugo_id>,
+        <keller__ska_id>,
+        <klarsfeld__beate_id>,
+        <kohl__helmut_id>,
+        <kraft__hannelore_id>,
+        <le_pen__jeanmarie_id>,
+        <mcnamara__robert_id>,
+        <menchu__rigoberta_id>,
+        <merkel__angela_id>,
+        <modrow__hans_id>,
+        <mugabe__robert_id>,
+        <neudeck__rupert_id>,
+        <obama__barack_id>,
+        <rüttgers__jürgen_id>,
+        <schmidt__helmut_id>,
+        <schorlemmer__friedrich_id>,
+        <schröder__gerhard_id>,
+        <schäuble__wolfgang_id>,
+        <steinbrück__peer_id>,
+        <trump__donald_id>,
+        <veil__simone_id>,
+        <yousafzai__malala_id> ;
+    skos:prefLabel "Personen"@de ;
+    skos:topConceptOf <> .
+
 <politik_id> a skos:Concept ;
     skos:inScheme <> ;
     skos:narrower <arbeitsagentur_id>,
@@ -1618,54 +1665,13 @@
     dct:creator "<https://creator.com>" ;
     dct:description "politik_systematik"@de ;
     dct:title "politik_systematik"@de ;
-    skos:hasTopConcept <avnery__uri_id>,
-        <balladur__edouard_id>,
-        <biedenkopf__kurt_id>,
-        <brugioni__dino_id>,
-        <bush__george_w._id>,
-        <castro__fidel_id>,
-        <chamorro__violeta_id>,
-        <charles_prinz_wales_id>,
-        <cheney__richard_id>,
-        <chirac__jacques_id>,
-        <chruschtschow__sergej_id>,
-        <clement__wolfgang_id>,
-        <elisabeth_ii._königin_england_id>,
-        <eppelmann__rainer_id>,
-        <europäische_gemeinschaften_id>,
+    skos:hasTopConcept <europäische_gemeinschaften_id>,
         <europäische_union_id>,
-        <farhatnaser__sumaya_id>,
-        <giscard_d'estaing__valéry_id>,
         <glasnost_id>,
         <gus_id>,
-        <guttenberg__karl_theodor_zu_id>,
-        <gysi__gregor__id>,
-        <hammbrücher__hildegard_id>,
-        <hänsch__klaus_id>,
-        <höllenreiner__hugo_id>,
-        <keller__ska_id>,
-        <klarsfeld__beate_id>,
-        <kohl__helmut_id>,
-        <kraft__hannelore_id>,
-        <le_pen__jeanmarie_id>,
         <mafia_id>,
-        <mcnamara__robert_id>,
-        <menchu__rigoberta_id>,
-        <merkel__angela_id>,
-        <modrow__hans_id>,
-        <mugabe__robert_id>,
         <nahostkonflikt_id>,
-        <neudeck__rupert_id>,
-        <obama__barack_id>,
+        <personen_id>,
         <politik_id>,
-        <russifizierung_id>,
-        <rüttgers__jürgen_id>,
-        <schmidt__helmut_id>,
-        <schorlemmer__friedrich_id>,
-        <schröder__gerhard_id>,
-        <schäuble__wolfgang_id>,
-        <steinbrück__peer_id>,
-        <trump__donald_id>,
-        <veil__simone_id>,
-        <yousafzai__malala_id> .
+        <russifizierung_id> .
 

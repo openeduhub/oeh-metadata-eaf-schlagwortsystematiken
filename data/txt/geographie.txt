@@ -1,4 +1,4 @@
-G E O G R A P H I E									
+G E O G R A P H I E
 
 Afrika
 -Nordafrika
@@ -26,7 +26,6 @@ Afrika
 	--Madagaskar
 	--Mauritius
 	--Mosambik
-		
 	--Namibia
 	--Republik Südafrika
 		---Johannesburg
@@ -53,7 +52,6 @@ Afrika
 	--Niger (Saat)
 	--Republik Zentralafrika
 	--Tschad
-	
 Amerika
 -Lateinamerika
 	--Landeskunde (Lateinamerika)
@@ -283,7 +281,7 @@ Europa
 				-----Schwarzwald-Baar-Kreis
 					------Donaueschingen
 					------Hüfingen
-					------Sankt Georgen	
+					------Sankt Georgen
 					------Villingen-Schwenningen
 				-----Tuttlingen (Kreis)
 				-----Waldshut (Kreis)
@@ -843,9 +841,6 @@ Geographie
 			----Milchwirtschaft
 			----Nomadismus
 			----Weide (Grünland)
-		
-		
-		
 
 -(Bevölkerungsgeographie)
 	--Weltbevölkerung
@@ -1325,7 +1320,6 @@ Geographie
 				-----Wirbelsturm
 				-----Zyklon
 					------Windrose
-			
 
 -Naturkatastrophe
 	--Lawine
@@ -1452,24 +1446,25 @@ Geographie
 
 -Expedition
 
-Barth, Heinrich
-Claudius Ptolemäus
-Cook, James
-Cordier, Pierre
-Galilei, Galileo
-Hansen, Fridtjof
-Humbolt, Alexander von
-Kolumbus, Christoph
-Kopernikus, Nikolaus
-Livingstone, David
-Magellan, Fernao de
-Marco Polo
-Pizarro, Francisco
-Richter, Charles
-Smith, John
-Teisserence de Bort, Léon-Phillippe
-Vasco da Gama
-Vespucci, Amerigo
-Wegener, Alfred
+- Personen
+- Barth, Heinrich
+- Claudius Ptolemäus
+- Cook, James
+- Cordier, Pierre
+- Galilei, Galileo
+- Hansen, Fridtjof
+- Humbolt, Alexander von
+- Kolumbus, Christoph
+- Kopernikus, Nikolaus
+- Livingstone, David
+- Magellan, Fernao de
+- Marco Polo
+- Pizarro, Francisco
+- Richter, Charles
+- Smith, John
+- Teisserence de Bort, Léon-Phillippe
+- Vasco da Gama
+- Vespucci, Amerigo
+- Wegener, Alfred
 
 Schwarzwalduhr

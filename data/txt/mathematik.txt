@@ -1,4 +1,4 @@
-M A T H E M A T I K 								
+M A T H E M A T I K
 
 Mathematik
 -Algebra
@@ -57,12 +57,13 @@ Mathematik
 		---Bündelung (Mathematik)
 		---Dualsystem
 
-Babbage, Charles
-Barlow, Peter
-Bernoulli, Daniel
-Cavalieri, Bonaventura
-Coriolis, Gaspard Gustave de
-Descartes, René
-Gauß, Carl Friedrich
-Mandelbrot, Benoît
-Ries, Adam
+Personen
+-Babbage, Charles
+-Barlow, Peter
+-Bernoulli, Daniel
+-Cavalieri, Bonaventura
+-Coriolis, Gaspard Gustave de
+-Descartes, René
+-Gauß, Carl Friedrich
+-Mandelbrot, Benoît
+-Ries, Adam

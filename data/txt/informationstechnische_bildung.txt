@@ -1,4 +1,4 @@
-I N F O R M T I O N S T E C H N I S C H E   B I L D U N G	
+I N F O R M T I O N S T E C H N I S C H E   B I L D U N G
 
 Bürokommunikation
 Computer
@@ -81,8 +81,9 @@ Telekommunikation
 -Verkabelung
 -Webinar
 
-Berners-Lee, Timothy
-Braille, Louis
-Gates, Bill
-Morse, Samuel
-Zuse, Konrad
+Personen
+-Berners-Lee, Timothy
+-Braille, Louis
+-Gates, Bill
+-Morse, Samuel
+-Zuse, Konrad

@@ -23,9 +23,9 @@
     skos:prefLabel "Bild-Ton-Zuordnung"@de .
 
 <bittorf__wilhelm_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Bittorf, Wilhelm"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Bittorf, Wilhelm"@de .
 
 <bluebox_id> a skos:Concept ;
     skos:broader <fernsehen_id> ;
@@ -53,9 +53,9 @@
     skos:prefLabel "Computerspiel (Pädagogik)"@de .
 
 <everding__august_id> a skos:Concept ;
+    skos:broader <personen_id> ;
     skos:inScheme <> ;
-    skos:prefLabel "Everding, August"@de ;
-    skos:topConceptOf <> .
+    skos:prefLabel "Everding, August"@de .
 
 <fake_news_id> a skos:Concept ;
     skos:broader <nachricht_id> ;
@@ -276,6 +276,13 @@
         <vertonung_id> ;
     skos:prefLabel "Filmherstellung"@de .
 
+<personen_id> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:narrower <bittorf__wilhelm_id>,
+        <everding__august_id> ;
+    skos:prefLabel "Personen"@de ;
+    skos:topConceptOf <> .
+
 <massenmedien_id> a skos:Concept ;
     skos:broader <medienpädagogik_id> ;
     skos:inScheme <> ;
@@ -369,7 +376,6 @@
     dct:creator "<https://creator.com>" ;
     dct:description "medienpaedagogik_systematik"@de ;
     dct:title "medienpaedagogik_systematik"@de ;
-    skos:hasTopConcept <bittorf__wilhelm_id>,
-        <everding__august_id>,
-        <medienpädagogik_id> .
+    skos:hasTopConcept <medienpädagogik_id>,
+        <personen_id> .
 
