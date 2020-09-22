@@ -77,7 +77,8 @@ Literatur
 -Trivialliteratur
 -Utopie
 -Comic
-(Literaturepochen)
+
+Literaturepochen
 -Junges Deutschland (Literatur)
 -Klassik (Literatur)
 -Realismus (Literatur)
@@ -484,4 +485,3 @@ Dichter, Schriftsteller, etc.
 -Zweig, Max
 -Zweig, Stefan
 -Zwerenz, Gerhard
--

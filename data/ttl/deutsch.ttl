@@ -2,11 +2,6 @@
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<_id> a skos:Concept ;
-    skos:broader <dichter__schriftsteller__etc._id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "-"@de .
-
 <abenteuerhörspiel_für_jugendliche_id> a skos:Concept ;
     skos:broader <hörspiel_für_jugendliche_id> ;
     skos:inScheme <> ;
@@ -2405,7 +2400,7 @@
         <realismus_literatur_id>,
         <romantik_literatur_id>,
         <weimarer_klassik_id> ;
-    skos:prefLabel "Literaturepochen)"@de ;
+    skos:prefLabel "Literaturepochen"@de ;
     skos:topConceptOf <> .
 
 <deutsch_id> a skos:Concept ;
@@ -2479,8 +2474,7 @@
 
 <dichter__schriftsteller__etc._id> a skos:Concept ;
     skos:inScheme <> ;
-    skos:narrower <_id>,
-        <achternbusch__herbert_id>,
+    skos:narrower <achternbusch__herbert_id>,
         <adler__walter_id>,
         <aichinger__ilse_id>,
         <aischylos_id>,
