@@ -7,9 +7,9 @@
     "de": "Bach, Edward"
   },
   "broader": {
-    "id": "https://example-perma-id/gesundheit_systematik/kindstod_id",
+    "id": "https://example-perma-id/gesundheit_systematik/personen_id",
     "prefLabel": {
-      "de": "Kindstod"
+      "de": "Personen"
     }
   },
   "inScheme": {

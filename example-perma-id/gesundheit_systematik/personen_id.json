@@ -1,0 +1,307 @@
+{
+  "id": "https://example-perma-id/gesundheit_systematik/personen_id",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fgesundheit_systematik%2Fpersonen_id",
+  "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fgesundheit_systematik%2Fpersonen_id",
+  "prefLabel": {
+    "de": "Personen"
+  },
+  "narrower": [
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/bach__edward_id",
+      "prefLabel": {
+        "de": "Bach, Edward"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/banting__frederick_id",
+      "prefLabel": {
+        "de": "Banting, Frederick"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/bauer__karl_heinrich_id",
+      "prefLabel": {
+        "de": "Bauer, Karl Heinrich"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/best__charles_id",
+      "prefLabel": {
+        "de": "Best, Charles"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/brunschig__hieronymus_id",
+      "prefLabel": {
+        "de": "Brunschig, Hieronymus"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/carus__carl_gustav_id",
+      "prefLabel": {
+        "de": "Carus, Carl Gustav"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/eccles__john_id",
+      "prefLabel": {
+        "de": "Eccles, John"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/ehrlich__paul_id",
+      "prefLabel": {
+        "de": "Ehrlich, Paul"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/einthoven__willem_id",
+      "prefLabel": {
+        "de": "Einthoven, Willem"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/freud__sigmund_id",
+      "prefLabel": {
+        "de": "Freud, Sigmund"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/grof__stanislav_id",
+      "prefLabel": {
+        "de": "Grof, Stanislav"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/jenner__edward_id",
+      "prefLabel": {
+        "de": "Jenner, Edward"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/kandel__eric_richard_id",
+      "prefLabel": {
+        "de": "Kandel, Eric Richard"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/kneipp__sebastian_id",
+      "prefLabel": {
+        "de": "Kneipp, Sebastian"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/kohut__heinz_id",
+      "prefLabel": {
+        "de": "Kohut, Heinz"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/küblerross__elisabeth_id",
+      "prefLabel": {
+        "de": "KüblerRoss, Elisabeth"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/landsteiner__karl_id",
+      "prefLabel": {
+        "de": "Landsteiner, Karl"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/levitin__daniel_id",
+      "prefLabel": {
+        "de": "Levitin, Daniel"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/lister__joseph_id",
+      "prefLabel": {
+        "de": "Lister, Joseph"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/lückert__heinzrudiolf_id",
+      "prefLabel": {
+        "de": "Lückert, HeinzRudiolf"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/mayer__robert_id",
+      "prefLabel": {
+        "de": "Mayer, Robert"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/mitscherlich__alexander_id",
+      "prefLabel": {
+        "de": "Mitscherlich, Alexander"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/montesquieu_id",
+      "prefLabel": {
+        "de": "Montesquieu"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/morton__william_id",
+      "prefLabel": {
+        "de": "Morton, William"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/paracelsus_id",
+      "prefLabel": {
+        "de": "Paracelsus"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/pawlow__iwan_petrowitsch_id",
+      "prefLabel": {
+        "de": "Pawlow, Iwan Petrowitsch"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/pettenkofer__max_von_id",
+      "prefLabel": {
+        "de": "Pettenkofer, Max von"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/ramón_y_cajal__santiago_felipe_id",
+      "prefLabel": {
+        "de": "Ramón y Cajal, Santiago Felipe"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/rank__otto_id",
+      "prefLabel": {
+        "de": "Rank, Otto"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/reich__wilhelm_id",
+      "prefLabel": {
+        "de": "Reich, Wilhelm"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/schweitzer__albert_id",
+      "prefLabel": {
+        "de": "Schweitzer, Albert"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/semmelweis__ignaz_philipp_id",
+      "prefLabel": {
+        "de": "Semmelweis, Ignaz Philipp"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/simpson__james_id",
+      "prefLabel": {
+        "de": "Simpson, James"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/steinmann__fritz_id",
+      "prefLabel": {
+        "de": "Steinmann, Fritz"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/trott_zu_solz__claritta_von_id",
+      "prefLabel": {
+        "de": "Trott zu Solz, Claritta von"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/virchow__rudolf_id",
+      "prefLabel": {
+        "de": "Virchow, Rudolf"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/wertheimer__max_id",
+      "prefLabel": {
+        "de": "Wertheimer, Max"
+      }
+    },
+    {
+      "id": "https://example-perma-id/gesundheit_systematik/ylppó__arvo_henrik_id",
+      "prefLabel": {
+        "de": "Ylppó, Arvo Henrik"
+      }
+    }
+  ],
+  "inScheme": {
+    "id": "https://example-perma-id/gesundheit_systematik/",
+    "title": {
+      "de": "gesundheit_systematik"
+    }
+  },
+  "topConceptOf": {
+    "id": "https://example-perma-id/gesundheit_systematik/"
+  },
+  "@context": {
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

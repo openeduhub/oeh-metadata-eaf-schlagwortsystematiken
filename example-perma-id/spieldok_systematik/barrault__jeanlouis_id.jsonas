@@ -7,7 +7,7 @@
   },
   "id": "https://test.skohub.io/oeh-metadata-eaf-schlagwortsystematikenexample-perma-id/spieldok_systematik/barrault__jeanlouis_id",
   "type": "Service",
-  "name": "Barrault, Jean-Louis",
+  "name": "Barrault, JeanLouis",
   "preferredUsername": "2f6f65682d6d657461646174612d6561662d7363686c6167776f727473797374656d6174696b656e6578616d706c652d7065726d612d69642f737069656c646f6b5f73797374656d6174696b2f6261727261756c745f5f6a65616e6c6f7569735f6964",
   "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fspieldok_systematik%2Fbarrault__jeanlouis_id",
   "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fspieldok_systematik%2Fbarrault__jeanlouis_id",

@@ -7,7 +7,7 @@
   },
   "id": "https://test.skohub.io/oeh-metadata-eaf-schlagwortsystematikenexample-perma-id/politik_systematik/farhatnaser__sumaya_id",
   "type": "Service",
-  "name": "Farhat-Naser, Sumaya",
+  "name": "FarhatNaser, Sumaya",
   "preferredUsername": "2f6f65682d6d657461646174612d6561662d7363686c6167776f727473797374656d6174696b656e6578616d706c652d7065726d612d69642f706f6c6974696b5f73797374656d6174696b2f6661726861746e617365725f5f73756d6179615f6964",
   "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fpolitik_systematik%2Ffarhatnaser__sumaya_id",
   "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fpolitik_systematik%2Ffarhatnaser__sumaya_id",

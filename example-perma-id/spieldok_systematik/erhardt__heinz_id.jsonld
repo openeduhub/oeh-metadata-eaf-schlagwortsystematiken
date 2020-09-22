@@ -6,14 +6,17 @@
   "prefLabel": {
     "de": "Erhardt, Heinz"
   },
+  "broader": {
+    "id": "https://example-perma-id/spieldok_systematik/schauspieler_id",
+    "prefLabel": {
+      "de": "Schauspieler"
+    }
+  },
   "inScheme": {
     "id": "https://example-perma-id/spieldok_systematik/",
     "title": {
       "de": "spieldok_systematik"
     }
-  },
-  "topConceptOf": {
-    "id": "https://example-perma-id/spieldok_systematik/"
   },
   "@context": {
     "id": "@id",

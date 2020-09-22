@@ -4,16 +4,19 @@
   "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fgeschichte_systematik%2Flandesgeschichte_schleswigholstein_id",
   "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fgeschichte_systematik%2Flandesgeschichte_schleswigholstein_id",
   "prefLabel": {
-    "de": "Landesgeschichte (Schleswig-Holstein)"
+    "de": "Landesgeschichte (SchleswigHolstein)"
+  },
+  "broader": {
+    "id": "https://example-perma-id/geschichte_systematik/landesgeschichte_id",
+    "prefLabel": {
+      "de": "Landesgeschichte"
+    }
   },
   "inScheme": {
     "id": "https://example-perma-id/geschichte_systematik/",
     "title": {
       "de": "geschichte_systematik"
     }
-  },
-  "topConceptOf": {
-    "id": "https://example-perma-id/geschichte_systematik/"
   },
   "@context": {
     "id": "@id",

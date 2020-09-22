@@ -4,8 +4,1270 @@
   "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Ffremdsprachen_systematik%2Fschriftsteller__etc._id",
   "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Ffremdsprachen_systematik%2Fschriftsteller__etc._id",
   "prefLabel": {
-    "de": "Schriftsteller, etc.)"
+    "de": "Schriftsteller, etc."
   },
+  "narrower": [
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/aiken__joan_id",
+      "prefLabel": {
+        "de": "Aiken, Joan"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/aitmatow__tschingis_id",
+      "prefLabel": {
+        "de": "Aitmatow, Tschingis"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/alainfournier__henri_id",
+      "prefLabel": {
+        "de": "AlainFournier, Henri"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/albee__edward_id",
+      "prefLabel": {
+        "de": "Albee, Edward"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/aldiss__brian_id",
+      "prefLabel": {
+        "de": "Aldiss, Brian"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/anderson__sherwood_id",
+      "prefLabel": {
+        "de": "Anderson, Sherwood"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/anouilh__jean_id",
+      "prefLabel": {
+        "de": "Anouilh, Jean"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/apollinaire__guillaume_id",
+      "prefLabel": {
+        "de": "Apollinaire, Guillaume"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/arcy__margaretta_d'_id",
+      "prefLabel": {
+        "de": "Arcy, Margaretta D'"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/arden__john_id",
+      "prefLabel": {
+        "de": "Arden, John"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/aubrac__lucie_id",
+      "prefLabel": {
+        "de": "Aubrac, Lucie"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/austen__jane_id",
+      "prefLabel": {
+        "de": "Austen, Jane"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/baldwin__james_id",
+      "prefLabel": {
+        "de": "Baldwin, James"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/balzac__honore_de_id",
+      "prefLabel": {
+        "de": "Balzac, Honore de"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/barons__krisjanis_id",
+      "prefLabel": {
+        "de": "Barons, Krisjanis"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/bartcisinski__jakub_id",
+      "prefLabel": {
+        "de": "BartCisinski, Jakub"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/barthes__roland_id",
+      "prefLabel": {
+        "de": "Barthes, Roland"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/baudelaire__charles_id",
+      "prefLabel": {
+        "de": "Baudelaire, Charles"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/beach__sylvia_id",
+      "prefLabel": {
+        "de": "Beach, Sylvia"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/beaumarchais__pierre_augustin_caron_de_id",
+      "prefLabel": {
+        "de": "Beaumarchais, Pierre Augustin Caron de"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/beckett__samuel_id",
+      "prefLabel": {
+        "de": "Beckett, Samuel"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/beecherstowe__harriet_id",
+      "prefLabel": {
+        "de": "BeecherStowe, Harriet"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/begag__azouz_id",
+      "prefLabel": {
+        "de": "Begag, Azouz"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/bierce__ambrose_id",
+      "prefLabel": {
+        "de": "Bierce, Ambrose"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/blixenfinecke__karen_id",
+      "prefLabel": {
+        "de": "BlixenFinecke, Karen"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/blyton__enid_id",
+      "prefLabel": {
+        "de": "Blyton, Enid"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/bonaviri__giuseppe_id",
+      "prefLabel": {
+        "de": "Bonaviri, Giuseppe"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/brenton__howard_id",
+      "prefLabel": {
+        "de": "Brenton, Howard"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/brontë__charlotte_id",
+      "prefLabel": {
+        "de": "Brontë, Charlotte"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/brontë__emily_id",
+      "prefLabel": {
+        "de": "Brontë, Emily"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/burroughs__edgar_rice_id",
+      "prefLabel": {
+        "de": "Burroughs, Edgar Rice"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/calderon_de_la_barca__pedro_id",
+      "prefLabel": {
+        "de": "Calderon de la Barca, Pedro"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/camus__albert_id",
+      "prefLabel": {
+        "de": "Camus, Albert"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/cardinal__marie_id",
+      "prefLabel": {
+        "de": "Cardinal, Marie"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/carrol__lewis_id",
+      "prefLabel": {
+        "de": "Carrol, Lewis"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/carter__angela_id",
+      "prefLabel": {
+        "de": "Carter, Angela"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/cervantes__miguel_de_id",
+      "prefLabel": {
+        "de": "Cervantes, Miguel de"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/chancel__jacques_id",
+      "prefLabel": {
+        "de": "Chancel, Jacques"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/charef__mehdi_id",
+      "prefLabel": {
+        "de": "Charef, Mehdi"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/chateaubriand__françois_rené_de_id",
+      "prefLabel": {
+        "de": "Chateaubriand, François René de"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/chomsky__noam_id",
+      "prefLabel": {
+        "de": "Chomsky, Noam"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/christie__agatha_id",
+      "prefLabel": {
+        "de": "Christie, Agatha"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/claudel__paul_id",
+      "prefLabel": {
+        "de": "Claudel, Paul"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/cocteau__jean_id",
+      "prefLabel": {
+        "de": "Cocteau, Jean"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/colette_id",
+      "prefLabel": {
+        "de": "Colette"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/courier__paullouis_id",
+      "prefLabel": {
+        "de": "Courier, PaulLouis"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/crane__stephen_id",
+      "prefLabel": {
+        "de": "Crane, Stephen"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/crozier__michel_id",
+      "prefLabel": {
+        "de": "Crozier, Michel"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/dante_alighieri_id",
+      "prefLabel": {
+        "de": "Dante Alighieri"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/daudet__alphonse_id",
+      "prefLabel": {
+        "de": "Daudet, Alphonse"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/defoe__daniel_id",
+      "prefLabel": {
+        "de": "Defoe, Daniel"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/dickens__charles_id",
+      "prefLabel": {
+        "de": "Dickens, Charles"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/dickinson__emiliy_id",
+      "prefLabel": {
+        "de": "Dickinson, Emiliy"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/diderot__denis_id",
+      "prefLabel": {
+        "de": "Diderot, Denis"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/dostojewskij__fjodor_id",
+      "prefLabel": {
+        "de": "Dostojewskij, Fjodor"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/doyle__arthur_conan_sir_id",
+      "prefLabel": {
+        "de": "Doyle, Arthur Conan Sir"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/dreiser__theodore_id",
+      "prefLabel": {
+        "de": "Dreiser, Theodore"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/duffy__carol_ann_id",
+      "prefLabel": {
+        "de": "Duffy, Carol Ann"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/duhamel__georges_id",
+      "prefLabel": {
+        "de": "Duhamel, Georges"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/dumas__alexandre_id",
+      "prefLabel": {
+        "de": "Dumas, Alexandre"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/duras__marguerite_id",
+      "prefLabel": {
+        "de": "Duras, Marguerite"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/eco__umberto_id",
+      "prefLabel": {
+        "de": "Eco, Umberto"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/edgar__david_id",
+      "prefLabel": {
+        "de": "Edgar, David"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/eliot__thomas_stearns_id",
+      "prefLabel": {
+        "de": "Eliot, Thomas Stearns"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/encina__juan_del_id",
+      "prefLabel": {
+        "de": "Encina, Juan del"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/etiemble__rene_id",
+      "prefLabel": {
+        "de": "Etiemble, Rene"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/euripides_id",
+      "prefLabel": {
+        "de": "Euripides"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/faulkner__william_id",
+      "prefLabel": {
+        "de": "Faulkner, William"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/fitzgerald__francis_scott_id",
+      "prefLabel": {
+        "de": "Fitzgerald, Francis Scott"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/flaubert__gustave_id",
+      "prefLabel": {
+        "de": "Flaubert, Gustave"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/fontaine__jean_de_la_id",
+      "prefLabel": {
+        "de": "Fontaine, Jean de la"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/foucault__michel_id",
+      "prefLabel": {
+        "de": "Foucault, Michel"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/france__anatole_id",
+      "prefLabel": {
+        "de": "France, Anatole"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/francesco_tetrarca_id",
+      "prefLabel": {
+        "de": "Francesco Tetrarca"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/françois_villon_id",
+      "prefLabel": {
+        "de": "François Villon"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/fry__christopher_id",
+      "prefLabel": {
+        "de": "Fry, Christopher"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/furet__françois_id",
+      "prefLabel": {
+        "de": "Furet, François"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/gaarder__jostein_id",
+      "prefLabel": {
+        "de": "Gaarder, Jostein"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/gautier__theophile_id",
+      "prefLabel": {
+        "de": "Gautier, Theophile"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/gawrilow__anatolij_id",
+      "prefLabel": {
+        "de": "Gawrilow, Anatolij"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/gay__john_id",
+      "prefLabel": {
+        "de": "Gay, John"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/genet__jean_id",
+      "prefLabel": {
+        "de": "Genet, Jean"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/gide__andré_id",
+      "prefLabel": {
+        "de": "Gide, André"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/giraudoux__jean_id",
+      "prefLabel": {
+        "de": "Giraudoux, Jean"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/gogol__nikolaj_id",
+      "prefLabel": {
+        "de": "Gogol, Nikolaj"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/golding__william_gerald_id",
+      "prefLabel": {
+        "de": "Golding, William Gerald"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/goldsmith__oliver_id",
+      "prefLabel": {
+        "de": "Goldsmith, Oliver"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/goll__ivan_id",
+      "prefLabel": {
+        "de": "Goll, Ivan"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/gorkij__maxim_id",
+      "prefLabel": {
+        "de": "Gorkij, Maxim"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/goscinny__rené_id",
+      "prefLabel": {
+        "de": "Goscinny, René"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/granin__daniil_id",
+      "prefLabel": {
+        "de": "Granin, Daniil"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/greene__graham_id",
+      "prefLabel": {
+        "de": "Greene, Graham"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/guillaume_de_machaut_id",
+      "prefLabel": {
+        "de": "Guillaume de Machaut"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/haley__alexander_palmer_id",
+      "prefLabel": {
+        "de": "Haley, Alexander Palmer"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/hasek__jaroslav_id",
+      "prefLabel": {
+        "de": "Hasek, Jaroslav"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/heller__joseph_id",
+      "prefLabel": {
+        "de": "Heller, Joseph"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/hemingway__ernest_id",
+      "prefLabel": {
+        "de": "Hemingway, Ernest"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/henry__o._id",
+      "prefLabel": {
+        "de": "Henry, O."
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/homer_id",
+      "prefLabel": {
+        "de": "Homer"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/horaz_id",
+      "prefLabel": {
+        "de": "Horaz"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/hugo__victor_id",
+      "prefLabel": {
+        "de": "Hugo, Victor"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/ibsen__henrik_id",
+      "prefLabel": {
+        "de": "Ibsen, Henrik"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/ionesco__eugène_id",
+      "prefLabel": {
+        "de": "Ionesco, Eugène"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/joos__louis_id",
+      "prefLabel": {
+        "de": "Joos, Louis"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/joyce__james_id",
+      "prefLabel": {
+        "de": "Joyce, James"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/kazantzakis__nikos_id",
+      "prefLabel": {
+        "de": "Kazantzakis, Nikos"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/keats__john_id",
+      "prefLabel": {
+        "de": "Keats, John"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/keller__helen_id",
+      "prefLabel": {
+        "de": "Keller, Helen"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/kesey__ken_id",
+      "prefLabel": {
+        "de": "Kesey, Ken"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/kessel__joseph_id",
+      "prefLabel": {
+        "de": "Kessel, Joseph"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/kipling__rudyard_id",
+      "prefLabel": {
+        "de": "Kipling, Rudyard"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/kishon__ephraim_id",
+      "prefLabel": {
+        "de": "Kishon, Ephraim"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/la_fontaine__jean_de_id",
+      "prefLabel": {
+        "de": "La Fontaine, Jean de"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/lada__josef_id",
+      "prefLabel": {
+        "de": "Lada, Josef"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/lagerlöf__selma_id",
+      "prefLabel": {
+        "de": "Lagerlöf, Selma"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/lampedusa__guiseppe_tomasi_di_id",
+      "prefLabel": {
+        "de": "Lampedusa, Guiseppe Tomasi di"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/lawrence__david_herbert_id",
+      "prefLabel": {
+        "de": "Lawrence, David Herbert"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/le_goff__jacques_id",
+      "prefLabel": {
+        "de": "Le Goff, Jacques"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/le_roy_ladurie__emmanuel_id",
+      "prefLabel": {
+        "de": "Le Roy Ladurie, Emmanuel"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/leokum__arkady_id",
+      "prefLabel": {
+        "de": "Leokum, Arkady"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/lermontow__michail_jurijewitsch_id",
+      "prefLabel": {
+        "de": "Lermontow, Michail Jurijewitsch"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/lindgren__astrid_id",
+      "prefLabel": {
+        "de": "Lindgren, Astrid"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/lobel__arnold_id",
+      "prefLabel": {
+        "de": "Lobel, Arnold"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/lope_de_vega_id",
+      "prefLabel": {
+        "de": "Lope de Vega"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/machiavelli__niccolo_id",
+      "prefLabel": {
+        "de": "Machiavelli, Niccolo"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/mailer__norman_kingsley_id",
+      "prefLabel": {
+        "de": "Mailer, Norman Kingsley"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/majakowskij__wladimir_id",
+      "prefLabel": {
+        "de": "Majakowskij, Wladimir"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/mansfield__katherine_id",
+      "prefLabel": {
+        "de": "Mansfield, Katherine"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/maugham__william_somerset_id",
+      "prefLabel": {
+        "de": "Maugham, William Somerset"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/maupassant__guy_de_id",
+      "prefLabel": {
+        "de": "Maupassant, Guy de"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/melville__herman_id",
+      "prefLabel": {
+        "de": "Melville, Herman"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/merle__robert_id",
+      "prefLabel": {
+        "de": "Merle, Robert"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/miller__arthur_id",
+      "prefLabel": {
+        "de": "Miller, Arthur"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/molière_id",
+      "prefLabel": {
+        "de": "Molière"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/montaigne__michel_de_id",
+      "prefLabel": {
+        "de": "Montaigne, Michel de"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/monterroso__augusto_id",
+      "prefLabel": {
+        "de": "Monterroso, Augusto"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/morgan__sally_id",
+      "prefLabel": {
+        "de": "Morgan, Sally"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/morris__william_id",
+      "prefLabel": {
+        "de": "Morris, William"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/musset__alfred_de_id",
+      "prefLabel": {
+        "de": "Musset, Alfred de"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/neruda__jan_id",
+      "prefLabel": {
+        "de": "Neruda, Jan"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/neruda__pablo_id",
+      "prefLabel": {
+        "de": "Neruda, Pablo"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/nerval__gerard_de_id",
+      "prefLabel": {
+        "de": "Nerval, Gerard de"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/oram__neil_id",
+      "prefLabel": {
+        "de": "Oram, Neil"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/orwell__george_id",
+      "prefLabel": {
+        "de": "Orwell, George"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/osborne__john_id",
+      "prefLabel": {
+        "de": "Osborne, John"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/passos__john_roderigo_dos_id",
+      "prefLabel": {
+        "de": "Passos, John Roderigo dos"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/peter__gaston_id",
+      "prefLabel": {
+        "de": "Peter, Gaston"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/plath__sylvia_id",
+      "prefLabel": {
+        "de": "Plath, Sylvia"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/platon_id",
+      "prefLabel": {
+        "de": "Platon"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/plautus_id",
+      "prefLabel": {
+        "de": "Plautus"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/poe__edgar_allan_id",
+      "prefLabel": {
+        "de": "Poe, Edgar Allan"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/pound__ezra_id",
+      "prefLabel": {
+        "de": "Pound, Ezra"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/priestley__john_boynton_id",
+      "prefLabel": {
+        "de": "Priestley, John Boynton"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/puschkin__alexander_id",
+      "prefLabel": {
+        "de": "Puschkin, Alexander"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/rahlens__hollyjane_id",
+      "prefLabel": {
+        "de": "Rahlens, HollyJane"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/reuter__fritz_id",
+      "prefLabel": {
+        "de": "Reuter, Fritz"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/richart_de_fournival_id",
+      "prefLabel": {
+        "de": "Richart de Fournival"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/rimbaud__jeanarthur_id",
+      "prefLabel": {
+        "de": "Rimbaud, JeanArthur"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/roberts__michèle_id",
+      "prefLabel": {
+        "de": "Roberts, Michèle"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/rousseau__jeanjacques_id",
+      "prefLabel": {
+        "de": "Rousseau, JeanJacques"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/rushdie__salman_id",
+      "prefLabel": {
+        "de": "Rushdie, Salman"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/ruskin__john_id",
+      "prefLabel": {
+        "de": "Ruskin, John"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/sadur__nina_id",
+      "prefLabel": {
+        "de": "Sadur, Nina"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/sagan__françoise_id",
+      "prefLabel": {
+        "de": "Sagan, Françoise"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/saintexupery__antoine_de_id",
+      "prefLabel": {
+        "de": "SaintExupery, Antoine de"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/sand__george_id",
+      "prefLabel": {
+        "de": "Sand, George"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/sarraute__nathalie_id",
+      "prefLabel": {
+        "de": "Sarraute, Nathalie"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/sartre__jeanpaul_id",
+      "prefLabel": {
+        "de": "Sartre, JeanPaul"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/schami__rafik_id",
+      "prefLabel": {
+        "de": "Schami, Rafik"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/scholochow__michail_id",
+      "prefLabel": {
+        "de": "Scholochow, Michail"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/scribe__eugene_id",
+      "prefLabel": {
+        "de": "Scribe, Eugene"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/shakespeare__william_id",
+      "prefLabel": {
+        "de": "Shakespeare, William"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/shaw__george_bernhard_id",
+      "prefLabel": {
+        "de": "Shaw, George Bernhard"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/shelley__mary_id",
+      "prefLabel": {
+        "de": "Shelley, Mary"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/simenon__georges_id",
+      "prefLabel": {
+        "de": "Simenon, Georges"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/skarmeta__antonio_id",
+      "prefLabel": {
+        "de": "Skarmeta, Antonio"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/sokrates_id",
+      "prefLabel": {
+        "de": "Sokrates"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/sophokles_id",
+      "prefLabel": {
+        "de": "Sophokles"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/stael__anne_louise_germaine_de_id",
+      "prefLabel": {
+        "de": "Stael, Anne Louise Germaine de"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/stap__sophie_van_der_id",
+      "prefLabel": {
+        "de": "Stap, Sophie van der"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/steele__richard_sir_id",
+      "prefLabel": {
+        "de": "Steele, Richard Sir"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/steinbeck__john_ernst_id",
+      "prefLabel": {
+        "de": "Steinbeck, John Ernst"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/stendhal_id",
+      "prefLabel": {
+        "de": "Stendhal"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/stevenson__robert_louis_id",
+      "prefLabel": {
+        "de": "Stevenson, Robert Louis"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/stoker__bram_id",
+      "prefLabel": {
+        "de": "Stoker, Bram"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/strindberg__august_id",
+      "prefLabel": {
+        "de": "Strindberg, August"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/swift__jonathan_id",
+      "prefLabel": {
+        "de": "Swift, Jonathan"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/tabucchi__antonio_id",
+      "prefLabel": {
+        "de": "Tabucchi, Antonio"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/terenz_id",
+      "prefLabel": {
+        "de": "Terenz"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/tolkien__john_ronald_reuel_id",
+      "prefLabel": {
+        "de": "Tolkien, John Ronald Reuel"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/tolstoi__leo_id",
+      "prefLabel": {
+        "de": "Tolstoi, Leo"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/tschechow__anton_pawlowitsch_id",
+      "prefLabel": {
+        "de": "Tschechow, Anton Pawlowitsch"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/twain__mark_id",
+      "prefLabel": {
+        "de": "Twain, Mark"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/vergil_id",
+      "prefLabel": {
+        "de": "Vergil"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/verlaine__paul_id",
+      "prefLabel": {
+        "de": "Verlaine, Paul"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/verne__jules_id",
+      "prefLabel": {
+        "de": "Verne, Jules"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/voltaire_id",
+      "prefLabel": {
+        "de": "Voltaire"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/vrkljan__irena_id",
+      "prefLabel": {
+        "de": "Vrkljan, Irena"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/wallace__edgar_id",
+      "prefLabel": {
+        "de": "Wallace, Edgar"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/waugh__evelyn_id",
+      "prefLabel": {
+        "de": "Waugh, Evelyn"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/wells__herbert_george_id",
+      "prefLabel": {
+        "de": "Wells, Herbert George"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/welsh__irvine_id",
+      "prefLabel": {
+        "de": "Welsh, Irvine"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/wilde__oscar_id",
+      "prefLabel": {
+        "de": "Wilde, Oscar"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/wilder__thornton_id",
+      "prefLabel": {
+        "de": "Wilder, Thornton"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/williams__tennessee_id",
+      "prefLabel": {
+        "de": "Williams, Tennessee"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/wolfe__thomas_id",
+      "prefLabel": {
+        "de": "Wolfe, Thomas"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/woolf__virginia_id",
+      "prefLabel": {
+        "de": "Woolf, Virginia"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/wordsworth__william_id",
+      "prefLabel": {
+        "de": "Wordsworth, William"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/wright__richard_id",
+      "prefLabel": {
+        "de": "Wright, Richard"
+      }
+    },
+    {
+      "id": "https://example-perma-id/fremdsprachen_systematik/zola__emile_id",
+      "prefLabel": {
+        "de": "Zola, Emile"
+      }
+    }
+  ],
   "inScheme": {
     "id": "https://example-perma-id/fremdsprachen_systematik/",
     "title": {

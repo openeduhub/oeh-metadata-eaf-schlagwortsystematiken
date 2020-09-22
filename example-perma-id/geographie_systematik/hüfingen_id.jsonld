@@ -6,14 +6,6 @@
   "prefLabel": {
     "de": "Hüfingen"
   },
-  "narrower": [
-    {
-      "id": "https://example-perma-id/geographie_systematik/sankt_georgen_id",
-      "prefLabel": {
-        "de": "Sankt Georgen"
-      }
-    }
-  ],
   "broader": {
     "id": "https://example-perma-id/geographie_systematik/schwarzwaldbaarkreis_id",
     "prefLabel": {

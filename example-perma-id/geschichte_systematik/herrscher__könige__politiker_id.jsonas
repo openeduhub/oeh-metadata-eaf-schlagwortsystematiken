@@ -7,7 +7,7 @@
   },
   "id": "https://test.skohub.io/oeh-metadata-eaf-schlagwortsystematikenexample-perma-id/geschichte_systematik/herrscher__k%C3%B6nige__politiker_id",
   "type": "Service",
-  "name": "Herrscher, Könige, Politiker)",
+  "name": "Herrscher, Könige, Politiker",
   "preferredUsername": "2f6f65682d6d657461646174612d6561662d7363686c6167776f727473797374656d6174696b656e6578616d706c652d7065726d612d69642f676573636869636874655f73797374656d6174696b2f6865727273636865725f5f6bc3b66e6967655f5f706f6c6974696b65725f6964",
   "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fgeschichte_systematik%2Fherrscher__k%C3%B6nige__politiker_id",
   "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fgeschichte_systematik%2Fherrscher__k%C3%B6nige__politiker_id",

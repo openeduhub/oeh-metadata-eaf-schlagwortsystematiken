@@ -6,11 +6,6 @@
   "prefLabel": {
     "de": "Mosambik"
   },
-  "narrower": [
-    {
-      "id": "https://example-perma-id/geographie_systematik/_id"
-    }
-  ],
   "broader": {
     "id": "https://example-perma-id/geographie_systematik/südafrika_erdteil_id",
     "prefLabel": {

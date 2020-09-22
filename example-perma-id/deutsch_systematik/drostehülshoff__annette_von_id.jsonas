@@ -7,7 +7,7 @@
   },
   "id": "https://test.skohub.io/oeh-metadata-eaf-schlagwortsystematikenexample-perma-id/deutsch_systematik/drosteh%C3%BClshoff__annette_von_id",
   "type": "Service",
-  "name": "Droste-Hülshoff, Annette von",
+  "name": "DrosteHülshoff, Annette von",
   "preferredUsername": "2f6f65682d6d657461646174612d6561662d7363686c6167776f727473797374656d6174696b656e6578616d706c652d7065726d612d69642f646575747363685f73797374656d6174696b2f64726f73746568c3bc6c73686f66665f5f616e6e657474655f766f6e5f6964",
   "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fdeutsch_systematik%2Fdrosteh%C3%BClshoff__annette_von_id",
   "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fdeutsch_systematik%2Fdrosteh%C3%BClshoff__annette_von_id",

@@ -15,9 +15,9 @@
     }
   ],
   "broader": {
-    "id": "https://example-perma-id/biologie_systematik/blutkreislauf_id",
+    "id": "https://example-perma-id/biologie_systematik/drüse_id",
     "prefLabel": {
-      "de": "Blutkreislauf"
+      "de": "Drüse"
     }
   },
   "inScheme": {

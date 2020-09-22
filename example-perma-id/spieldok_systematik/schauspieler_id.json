@@ -1,0 +1,463 @@
+{
+  "id": "https://example-perma-id/spieldok_systematik/schauspieler_id",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fspieldok_systematik%2Fschauspieler_id",
+  "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fspieldok_systematik%2Fschauspieler_id",
+  "prefLabel": {
+    "de": "Schauspieler"
+  },
+  "narrower": [
+    {
+      "id": "https://example-perma-id/spieldok_systematik/albers__hans_id",
+      "prefLabel": {
+        "de": "Albers, Hans"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/allen__woody_id",
+      "prefLabel": {
+        "de": "Allen, Woody"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/arbuckle__fatty_id",
+      "prefLabel": {
+        "de": "Arbuckle, Fatty"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/barrault__jeanlouis_id",
+      "prefLabel": {
+        "de": "Barrault, JeanLouis"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/belmonde__jeanpaul_id",
+      "prefLabel": {
+        "de": "Belmonde, JeanPaul"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/bergman__ingrid_id",
+      "prefLabel": {
+        "de": "Bergman, Ingrid"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/bogart__humphrey_id",
+      "prefLabel": {
+        "de": "Bogart, Humphrey"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/burton__richard_id",
+      "prefLabel": {
+        "de": "Burton, Richard"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/busch__ernst_id",
+      "prefLabel": {
+        "de": "Busch, Ernst"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/chaplin__charlie_id",
+      "prefLabel": {
+        "de": "Chaplin, Charlie"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/connery__sean_id",
+      "prefLabel": {
+        "de": "Connery, Sean"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/cooper__gary_id",
+      "prefLabel": {
+        "de": "Cooper, Gary"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/costner__kevin_id",
+      "prefLabel": {
+        "de": "Costner, Kevin"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/courteline__georges_id",
+      "prefLabel": {
+        "de": "Courteline, Georges"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/dean__james_id",
+      "prefLabel": {
+        "de": "Dean, James"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/deutsch__ernst_id",
+      "prefLabel": {
+        "de": "Deutsch, Ernst"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/dietrich__marlene_id",
+      "prefLabel": {
+        "de": "Dietrich, Marlene"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/erhardt__heinz_id",
+      "prefLabel": {
+        "de": "Erhardt, Heinz"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/finck__werner_id",
+      "prefLabel": {
+        "de": "Finck, Werner"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/funès__louis_de_id",
+      "prefLabel": {
+        "de": "Funès, Louis de"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/george__heinrich_id",
+      "prefLabel": {
+        "de": "George, Heinrich"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/giehse__therese_id",
+      "prefLabel": {
+        "de": "Giehse, Therese"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/gottschlak__joachim_id",
+      "prefLabel": {
+        "de": "Gottschlak, Joachim"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/gründgens__gustaf_id",
+      "prefLabel": {
+        "de": "Gründgens, Gustaf"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/guiness__alec_id",
+      "prefLabel": {
+        "de": "Guiness, Alec"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/görner__lutz_id",
+      "prefLabel": {
+        "de": "Görner, Lutz"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/hanks__tom_id",
+      "prefLabel": {
+        "de": "Hanks, Tom"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/hardy__oliver_id",
+      "prefLabel": {
+        "de": "Hardy, Oliver"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/hepburn__katharine_id",
+      "prefLabel": {
+        "de": "Hepburn, Katharine"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/hoffman__dustin_id",
+      "prefLabel": {
+        "de": "Hoffman, Dustin"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/hörbiger__paul_id",
+      "prefLabel": {
+        "de": "Hörbiger, Paul"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/jannings__emil_id",
+      "prefLabel": {
+        "de": "Jannings, Emil"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/karstadt__liesl_id",
+      "prefLabel": {
+        "de": "Karstadt, Liesl"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/keaton__buster_id",
+      "prefLabel": {
+        "de": "Keaton, Buster"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/kelly__grace_id",
+      "prefLabel": {
+        "de": "Kelly, Grace"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/krauß__werner_id",
+      "prefLabel": {
+        "de": "Krauß, Werner"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/laughton__charles_id",
+      "prefLabel": {
+        "de": "Laughton, Charles"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/laurel__stan_id",
+      "prefLabel": {
+        "de": "Laurel, Stan"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/lewis__jerry_id",
+      "prefLabel": {
+        "de": "Lewis, Jerry"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/lloyd__harold_id",
+      "prefLabel": {
+        "de": "Lloyd, Harold"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/manger__jürgen_von_id",
+      "prefLabel": {
+        "de": "Manger, Jürgen von"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/meysel__inge_id",
+      "prefLabel": {
+        "de": "Meysel, Inge"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/monroe__marilyn_id",
+      "prefLabel": {
+        "de": "Monroe, Marilyn"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/montand__yves_id",
+      "prefLabel": {
+        "de": "Montand, Yves"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/neuss__wolfgang_id",
+      "prefLabel": {
+        "de": "Neuss, Wolfgang"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/penn__sean_id",
+      "prefLabel": {
+        "de": "Penn, Sean"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/pfeiffer__michelle_id",
+      "prefLabel": {
+        "de": "Pfeiffer, Michelle"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/polt__gerhard_id",
+      "prefLabel": {
+        "de": "Polt, Gerhard"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/quadflieg__will_id",
+      "prefLabel": {
+        "de": "Quadflieg, Will"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/raimund__ferdinand_id",
+      "prefLabel": {
+        "de": "Raimund, Ferdinand"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/reichert__willy_id",
+      "prefLabel": {
+        "de": "Reichert, Willy"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/rühmann__heinz_id",
+      "prefLabel": {
+        "de": "Rühmann, Heinz"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/schall__ekkehard_id",
+      "prefLabel": {
+        "de": "Schall, Ekkehard"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/schneider__romy_id",
+      "prefLabel": {
+        "de": "Schneider, Romy"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/schröder__ernst_id",
+      "prefLabel": {
+        "de": "Schröder, Ernst"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/streisand__barbra_id",
+      "prefLabel": {
+        "de": "Streisand, Barbra"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/tati__jacques_id",
+      "prefLabel": {
+        "de": "Tati, Jacques"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/taylor__elisabeth_id",
+      "prefLabel": {
+        "de": "Taylor, Elisabeth"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/thate__hilmar_id",
+      "prefLabel": {
+        "de": "Thate, Hilmar"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/trenker__luis_id",
+      "prefLabel": {
+        "de": "Trenker, Luis"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/valentin__karl_id",
+      "prefLabel": {
+        "de": "Valentin, Karl"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/waldoff__claire_id",
+      "prefLabel": {
+        "de": "Waldoff, Claire"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/weigel__helene_id",
+      "prefLabel": {
+        "de": "Weigel, Helene"
+      }
+    },
+    {
+      "id": "https://example-perma-id/spieldok_systematik/welles__orson_id",
+      "prefLabel": {
+        "de": "Welles, Orson"
+      }
+    }
+  ],
+  "inScheme": {
+    "id": "https://example-perma-id/spieldok_systematik/",
+    "title": {
+      "de": "spieldok_systematik"
+    }
+  },
+  "topConceptOf": {
+    "id": "https://example-perma-id/spieldok_systematik/"
+  },
+  "@context": {
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

@@ -4,16 +4,19 @@
   "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Ffremdsprachen_systematik%2Frousseau__jeanjacques_id",
   "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Ffremdsprachen_systematik%2Frousseau__jeanjacques_id",
   "prefLabel": {
-    "de": "Rousseau, Jean-Jacques"
+    "de": "Rousseau, JeanJacques"
+  },
+  "broader": {
+    "id": "https://example-perma-id/fremdsprachen_systematik/schriftsteller__etc._id",
+    "prefLabel": {
+      "de": "Schriftsteller, etc."
+    }
   },
   "inScheme": {
     "id": "https://example-perma-id/fremdsprachen_systematik/",
     "title": {
       "de": "fremdsprachen_systematik"
     }
-  },
-  "topConceptOf": {
-    "id": "https://example-perma-id/fremdsprachen_systematik/"
   },
   "@context": {
     "id": "@id",

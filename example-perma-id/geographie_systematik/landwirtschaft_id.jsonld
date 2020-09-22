@@ -8,9 +8,6 @@
   },
   "narrower": [
     {
-      "id": "https://example-perma-id/geographie_systematik/_id"
-    },
-    {
       "id": "https://example-perma-id/geographie_systematik/agrarproduktion_id",
       "prefLabel": {
         "de": "Agrarproduktion"

@@ -1,0 +1,247 @@
+{
+  "id": "https://example-perma-id/paedagogik_systematik/personen_id",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fpaedagogik_systematik%2Fpersonen_id",
+  "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fpaedagogik_systematik%2Fpersonen_id",
+  "prefLabel": {
+    "de": "Personen"
+  },
+  "narrower": [
+    {
+      "id": "https://example-perma-id/paedagogik_systematik/ballauff__theodor_id",
+      "prefLabel": {
+        "de": "Ballauff, Theodor"
+      }
+    },
+    {
+      "id": "https://example-perma-id/paedagogik_systematik/blankertz__herwig_id",
+      "prefLabel": {
+        "de": "Blankertz, Herwig"
+      }
+    },
+    {
+      "id": "https://example-perma-id/paedagogik_systematik/bollnow__otto_friedrich_id",
+      "prefLabel": {
+        "de": "Bollnow, Otto Friedrich"
+      }
+    },
+    {
+      "id": "https://example-perma-id/paedagogik_systematik/brezinka__wolfgang_id",
+      "prefLabel": {
+        "de": "Brezinka, Wolfgang"
+      }
+    },
+    {
+      "id": "https://example-perma-id/paedagogik_systematik/comeniua__johann_amos_id",
+      "prefLabel": {
+        "de": "Comeniua, Johann Amos"
+      }
+    },
+    {
+      "id": "https://example-perma-id/paedagogik_systematik/freinet__celestin_id",
+      "prefLabel": {
+        "de": "Freinet, Celestin"
+      }
+    },
+    {
+      "id": "https://example-perma-id/paedagogik_systematik/fröbel__friedrich_id",
+      "prefLabel": {
+        "de": "Fröbel, Friedrich"
+      }
+    },
+    {
+      "id": "https://example-perma-id/paedagogik_systematik/guts_muths__johann_christoph_friedrich_id",
+      "prefLabel": {
+        "de": "Guts Muths, Johann Christoph Friedrich"
+      }
+    },
+    {
+      "id": "https://example-perma-id/paedagogik_systematik/hentig__hartmut_von_id",
+      "prefLabel": {
+        "de": "Hentig, Hartmut von"
+      }
+    },
+    {
+      "id": "https://example-perma-id/paedagogik_systematik/hirsch__betty_id",
+      "prefLabel": {
+        "de": "Hirsch, Betty"
+      }
+    },
+    {
+      "id": "https://example-perma-id/paedagogik_systematik/hoffmann__heinrich_id",
+      "prefLabel": {
+        "de": "Hoffmann, Heinrich"
+      }
+    },
+    {
+      "id": "https://example-perma-id/paedagogik_systematik/jung__carl_gustav_id",
+      "prefLabel": {
+        "de": "Jung, Carl Gustav"
+      }
+    },
+    {
+      "id": "https://example-perma-id/paedagogik_systematik/kroh__oswald_id",
+      "prefLabel": {
+        "de": "Kroh, Oswald"
+      }
+    },
+    {
+      "id": "https://example-perma-id/paedagogik_systematik/köhler__wolfgang_id",
+      "prefLabel": {
+        "de": "Köhler, Wolfgang"
+      }
+    },
+    {
+      "id": "https://example-perma-id/paedagogik_systematik/langeveld__martinus_jan_id",
+      "prefLabel": {
+        "de": "Langeveld, Martinus Jan"
+      }
+    },
+    {
+      "id": "https://example-perma-id/paedagogik_systematik/lewin__kurt_id",
+      "prefLabel": {
+        "de": "Lewin, Kurt"
+      }
+    },
+    {
+      "id": "https://example-perma-id/paedagogik_systematik/lietz__herrmann_id",
+      "prefLabel": {
+        "de": "Lietz, Herrmann"
+      }
+    },
+    {
+      "id": "https://example-perma-id/paedagogik_systematik/litt__theodor_id",
+      "prefLabel": {
+        "de": "Litt, Theodor"
+      }
+    },
+    {
+      "id": "https://example-perma-id/paedagogik_systematik/makarenko__anton_id",
+      "prefLabel": {
+        "de": "Makarenko, Anton"
+      }
+    },
+    {
+      "id": "https://example-perma-id/paedagogik_systematik/melanchton__philipp_id",
+      "prefLabel": {
+        "de": "Melanchton, Philipp"
+      }
+    },
+    {
+      "id": "https://example-perma-id/paedagogik_systematik/metzger__wolfgang_id",
+      "prefLabel": {
+        "de": "Metzger, Wolfgang"
+      }
+    },
+    {
+      "id": "https://example-perma-id/paedagogik_systematik/montessori__maria_id",
+      "prefLabel": {
+        "de": "Montessori, Maria"
+      }
+    },
+    {
+      "id": "https://example-perma-id/paedagogik_systematik/neill__alexander_sutherland_id",
+      "prefLabel": {
+        "de": "Neill, Alexander Sutherland"
+      }
+    },
+    {
+      "id": "https://example-perma-id/paedagogik_systematik/pestalozzi__johann_heinrich_id",
+      "prefLabel": {
+        "de": "Pestalozzi, Johann Heinrich"
+      }
+    },
+    {
+      "id": "https://example-perma-id/paedagogik_systematik/petersen__peter_id",
+      "prefLabel": {
+        "de": "Petersen, Peter"
+      }
+    },
+    {
+      "id": "https://example-perma-id/paedagogik_systematik/roth__heirich_id",
+      "prefLabel": {
+        "de": "Roth, Heirich"
+      }
+    },
+    {
+      "id": "https://example-perma-id/paedagogik_systematik/wagenschein__martin_id",
+      "prefLabel": {
+        "de": "Wagenschein, Martin"
+      }
+    },
+    {
+      "id": "https://example-perma-id/paedagogik_systematik/wyneken__gustav_id",
+      "prefLabel": {
+        "de": "Wyneken, Gustav"
+      }
+    }
+  ],
+  "inScheme": {
+    "id": "https://example-perma-id/paedagogik_systematik/",
+    "title": {
+      "de": "paedagogik_systematik"
+    }
+  },
+  "topConceptOf": {
+    "id": "https://example-perma-id/paedagogik_systematik/"
+  },
+  "@context": {
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

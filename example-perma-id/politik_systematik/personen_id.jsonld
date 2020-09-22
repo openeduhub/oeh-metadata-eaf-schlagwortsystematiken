@@ -1,0 +1,331 @@
+{
+  "id": "https://example-perma-id/politik_systematik/personen_id",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fpolitik_systematik%2Fpersonen_id",
+  "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fpolitik_systematik%2Fpersonen_id",
+  "prefLabel": {
+    "de": "Personen"
+  },
+  "narrower": [
+    {
+      "id": "https://example-perma-id/politik_systematik/avnery__uri_id",
+      "prefLabel": {
+        "de": "Avnery, Uri"
+      }
+    },
+    {
+      "id": "https://example-perma-id/politik_systematik/balladur__edouard_id",
+      "prefLabel": {
+        "de": "Balladur, Edouard"
+      }
+    },
+    {
+      "id": "https://example-perma-id/politik_systematik/biedenkopf__kurt_id",
+      "prefLabel": {
+        "de": "Biedenkopf, Kurt"
+      }
+    },
+    {
+      "id": "https://example-perma-id/politik_systematik/brugioni__dino_id",
+      "prefLabel": {
+        "de": "Brugioni, Dino"
+      }
+    },
+    {
+      "id": "https://example-perma-id/politik_systematik/bush__george_w._id",
+      "prefLabel": {
+        "de": "Bush, George W."
+      }
+    },
+    {
+      "id": "https://example-perma-id/politik_systematik/castro__fidel_id",
+      "prefLabel": {
+        "de": "Castro, Fidel"
+      }
+    },
+    {
+      "id": "https://example-perma-id/politik_systematik/chamorro__violeta_id",
+      "prefLabel": {
+        "de": "Chamorro, Violeta"
+      }
+    },
+    {
+      "id": "https://example-perma-id/politik_systematik/charles_prinz_wales_id",
+      "prefLabel": {
+        "de": "Charles (Prinz Wales)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/politik_systematik/cheney__richard_id",
+      "prefLabel": {
+        "de": "Cheney, Richard"
+      }
+    },
+    {
+      "id": "https://example-perma-id/politik_systematik/chirac__jacques_id",
+      "prefLabel": {
+        "de": "Chirac, Jacques"
+      }
+    },
+    {
+      "id": "https://example-perma-id/politik_systematik/chruschtschow__sergej_id",
+      "prefLabel": {
+        "de": "Chruschtschow, Sergej"
+      }
+    },
+    {
+      "id": "https://example-perma-id/politik_systematik/clement__wolfgang_id",
+      "prefLabel": {
+        "de": "Clement, Wolfgang"
+      }
+    },
+    {
+      "id": "https://example-perma-id/politik_systematik/elisabeth_ii._königin_england_id",
+      "prefLabel": {
+        "de": "Elisabeth II. (Königin England)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/politik_systematik/eppelmann__rainer_id",
+      "prefLabel": {
+        "de": "Eppelmann, Rainer"
+      }
+    },
+    {
+      "id": "https://example-perma-id/politik_systematik/farhatnaser__sumaya_id",
+      "prefLabel": {
+        "de": "FarhatNaser, Sumaya"
+      }
+    },
+    {
+      "id": "https://example-perma-id/politik_systematik/giscard_d'estaing__valéry_id",
+      "prefLabel": {
+        "de": "Giscard d'Estaing, Valéry"
+      }
+    },
+    {
+      "id": "https://example-perma-id/politik_systematik/guttenberg__karl_theodor_zu_id",
+      "prefLabel": {
+        "de": "Guttenberg, Karl Theodor zu"
+      }
+    },
+    {
+      "id": "https://example-perma-id/politik_systematik/gysi__gregor__id",
+      "prefLabel": {
+        "de": "Gysi, Gregor "
+      }
+    },
+    {
+      "id": "https://example-perma-id/politik_systematik/hammbrücher__hildegard_id",
+      "prefLabel": {
+        "de": "HammBrücher, Hildegard"
+      }
+    },
+    {
+      "id": "https://example-perma-id/politik_systematik/hänsch__klaus_id",
+      "prefLabel": {
+        "de": "Hänsch, Klaus"
+      }
+    },
+    {
+      "id": "https://example-perma-id/politik_systematik/höllenreiner__hugo_id",
+      "prefLabel": {
+        "de": "Höllenreiner, Hugo"
+      }
+    },
+    {
+      "id": "https://example-perma-id/politik_systematik/keller__ska_id",
+      "prefLabel": {
+        "de": "Keller, Ska"
+      }
+    },
+    {
+      "id": "https://example-perma-id/politik_systematik/klarsfeld__beate_id",
+      "prefLabel": {
+        "de": "Klarsfeld, Beate"
+      }
+    },
+    {
+      "id": "https://example-perma-id/politik_systematik/kohl__helmut_id",
+      "prefLabel": {
+        "de": "Kohl, Helmut"
+      }
+    },
+    {
+      "id": "https://example-perma-id/politik_systematik/kraft__hannelore_id",
+      "prefLabel": {
+        "de": "Kraft, Hannelore"
+      }
+    },
+    {
+      "id": "https://example-perma-id/politik_systematik/le_pen__jeanmarie_id",
+      "prefLabel": {
+        "de": "Le Pen, JeanMArie"
+      }
+    },
+    {
+      "id": "https://example-perma-id/politik_systematik/mcnamara__robert_id",
+      "prefLabel": {
+        "de": "McNamara, Robert"
+      }
+    },
+    {
+      "id": "https://example-perma-id/politik_systematik/menchu__rigoberta_id",
+      "prefLabel": {
+        "de": "Menchu, Rigoberta"
+      }
+    },
+    {
+      "id": "https://example-perma-id/politik_systematik/merkel__angela_id",
+      "prefLabel": {
+        "de": "Merkel, Angela"
+      }
+    },
+    {
+      "id": "https://example-perma-id/politik_systematik/modrow__hans_id",
+      "prefLabel": {
+        "de": "Modrow, Hans"
+      }
+    },
+    {
+      "id": "https://example-perma-id/politik_systematik/mugabe__robert_id",
+      "prefLabel": {
+        "de": "Mugabe, Robert"
+      }
+    },
+    {
+      "id": "https://example-perma-id/politik_systematik/neudeck__rupert_id",
+      "prefLabel": {
+        "de": "Neudeck, Rupert"
+      }
+    },
+    {
+      "id": "https://example-perma-id/politik_systematik/obama__barack_id",
+      "prefLabel": {
+        "de": "Obama, Barack"
+      }
+    },
+    {
+      "id": "https://example-perma-id/politik_systematik/rüttgers__jürgen_id",
+      "prefLabel": {
+        "de": "Rüttgers, Jürgen"
+      }
+    },
+    {
+      "id": "https://example-perma-id/politik_systematik/schmidt__helmut_id",
+      "prefLabel": {
+        "de": "Schmidt, Helmut"
+      }
+    },
+    {
+      "id": "https://example-perma-id/politik_systematik/schorlemmer__friedrich_id",
+      "prefLabel": {
+        "de": "Schorlemmer, Friedrich"
+      }
+    },
+    {
+      "id": "https://example-perma-id/politik_systematik/schröder__gerhard_id",
+      "prefLabel": {
+        "de": "Schröder, Gerhard"
+      }
+    },
+    {
+      "id": "https://example-perma-id/politik_systematik/schäuble__wolfgang_id",
+      "prefLabel": {
+        "de": "Schäuble, Wolfgang"
+      }
+    },
+    {
+      "id": "https://example-perma-id/politik_systematik/steinbrück__peer_id",
+      "prefLabel": {
+        "de": "Steinbrück, Peer"
+      }
+    },
+    {
+      "id": "https://example-perma-id/politik_systematik/trump__donald_id",
+      "prefLabel": {
+        "de": "Trump, Donald"
+      }
+    },
+    {
+      "id": "https://example-perma-id/politik_systematik/veil__simone_id",
+      "prefLabel": {
+        "de": "Veil, Simone"
+      }
+    },
+    {
+      "id": "https://example-perma-id/politik_systematik/yousafzai__malala_id",
+      "prefLabel": {
+        "de": "Yousafzai, Malala"
+      }
+    }
+  ],
+  "inScheme": {
+    "id": "https://example-perma-id/politik_systematik/",
+    "title": {
+      "de": "politik_systematik"
+    }
+  },
+  "topConceptOf": {
+    "id": "https://example-perma-id/politik_systematik/"
+  },
+  "@context": {
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

@@ -7,7 +7,7 @@
   },
   "id": "https://test.skohub.io/oeh-metadata-eaf-schlagwortsystematikenexample-perma-id/geschichte_systematik/landesgeschichte_mecklenburgvorpommern_id",
   "type": "Service",
-  "name": "Landesgeschichte (Mecklenburg-Vorpommern)",
+  "name": "Landesgeschichte (MecklenburgVorpommern)",
   "preferredUsername": "2f6f65682d6d657461646174612d6561662d7363686c6167776f727473797374656d6174696b656e6578616d706c652d7065726d612d69642f676573636869636874655f73797374656d6174696b2f6c616e646573676573636869636874655f6d65636b6c656e62757267766f72706f6d6d65726e5f6964",
   "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fgeschichte_systematik%2Flandesgeschichte_mecklenburgvorpommern_id",
   "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fgeschichte_systematik%2Flandesgeschichte_mecklenburgvorpommern_id",

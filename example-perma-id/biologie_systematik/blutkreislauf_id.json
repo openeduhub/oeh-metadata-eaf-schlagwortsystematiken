@@ -24,24 +24,6 @@
       "prefLabel": {
         "de": "Blutgefäß"
       }
-    },
-    {
-      "id": "https://example-perma-id/biologie_systematik/drüse_id",
-      "prefLabel": {
-        "de": "Drüse"
-      }
-    },
-    {
-      "id": "https://example-perma-id/biologie_systematik/hirnanhangdrüse_id",
-      "prefLabel": {
-        "de": "Hirnanhangdrüse"
-      }
-    },
-    {
-      "id": "https://example-perma-id/biologie_systematik/leber_id",
-      "prefLabel": {
-        "de": "Leber"
-      }
     }
   ],
   "broader": {

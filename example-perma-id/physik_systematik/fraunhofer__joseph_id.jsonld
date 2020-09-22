@@ -6,14 +6,17 @@
   "prefLabel": {
     "de": "Fraunhofer, Joseph"
   },
+  "broader": {
+    "id": "https://example-perma-id/physik_systematik/personen_id",
+    "prefLabel": {
+      "de": "Personen"
+    }
+  },
   "inScheme": {
     "id": "https://example-perma-id/physik_systematik/",
     "title": {
       "de": "physik_systematik"
     }
-  },
-  "topConceptOf": {
-    "id": "https://example-perma-id/physik_systematik/"
   },
   "@context": {
     "id": "@id",

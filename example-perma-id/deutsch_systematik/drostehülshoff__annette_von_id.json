@@ -4,16 +4,19 @@
   "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fdeutsch_systematik%2Fdrosteh%C3%BClshoff__annette_von_id",
   "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fdeutsch_systematik%2Fdrosteh%C3%BClshoff__annette_von_id",
   "prefLabel": {
-    "de": "Droste-Hülshoff, Annette von"
+    "de": "DrosteHülshoff, Annette von"
+  },
+  "broader": {
+    "id": "https://example-perma-id/deutsch_systematik/dichter__schriftsteller__etc._id",
+    "prefLabel": {
+      "de": "Dichter, Schriftsteller, etc."
+    }
   },
   "inScheme": {
     "id": "https://example-perma-id/deutsch_systematik/",
     "title": {
       "de": "deutsch_systematik"
     }
-  },
-  "topConceptOf": {
-    "id": "https://example-perma-id/deutsch_systematik/"
   },
   "@context": {
     "id": "@id",

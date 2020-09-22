@@ -1,0 +1,169 @@
+{
+  "id": "https://example-perma-id/geschichte_systematik/landesgeschichte_id",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fgeschichte_systematik%2Flandesgeschichte_id",
+  "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fgeschichte_systematik%2Flandesgeschichte_id",
+  "prefLabel": {
+    "de": "Landesgeschichte"
+  },
+  "narrower": [
+    {
+      "id": "https://example-perma-id/geschichte_systematik/landesgeschichte_badenwürttemberg_id",
+      "prefLabel": {
+        "de": "Landesgeschichte (BadenWürttemberg)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/landesgeschichte_bayern_id",
+      "prefLabel": {
+        "de": "Landesgeschichte (Bayern)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/landesgeschichte_brandenburg_id",
+      "prefLabel": {
+        "de": "Landesgeschichte (Brandenburg)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/landesgeschichte_bremen_id",
+      "prefLabel": {
+        "de": "Landesgeschichte (Bremen)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/landesgeschichte_hamburg_id",
+      "prefLabel": {
+        "de": "Landesgeschichte (Hamburg)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/landesgeschichte_hessen_id",
+      "prefLabel": {
+        "de": "Landesgeschichte (Hessen)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/landesgeschichte_mecklenburgvorpommern_id",
+      "prefLabel": {
+        "de": "Landesgeschichte (MecklenburgVorpommern)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/landesgeschichte_niedersachsen_id",
+      "prefLabel": {
+        "de": "Landesgeschichte (Niedersachsen)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/landesgeschichte_nordrheinwestfalen_id",
+      "prefLabel": {
+        "de": "Landesgeschichte (NordrheinWestfalen)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/landesgeschichte_rheinlandpfalz_id",
+      "prefLabel": {
+        "de": "Landesgeschichte (RheinlandPfalz)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/landesgeschichte_saarland_id",
+      "prefLabel": {
+        "de": "Landesgeschichte (Saarland)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/landesgeschichte_sachsen_id",
+      "prefLabel": {
+        "de": "Landesgeschichte (Sachsen)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/landesgeschichte_sachsenanhalt_id",
+      "prefLabel": {
+        "de": "Landesgeschichte (SachsenAnhalt)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/landesgeschichte_schleswigholstein_id",
+      "prefLabel": {
+        "de": "Landesgeschichte (SchleswigHolstein)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/landesgeschichte_thüringen_id",
+      "prefLabel": {
+        "de": "Landesgeschichte (Thüringen)"
+      }
+    }
+  ],
+  "inScheme": {
+    "id": "https://example-perma-id/geschichte_systematik/",
+    "title": {
+      "de": "geschichte_systematik"
+    }
+  },
+  "topConceptOf": {
+    "id": "https://example-perma-id/geschichte_systematik/"
+  },
+  "@context": {
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

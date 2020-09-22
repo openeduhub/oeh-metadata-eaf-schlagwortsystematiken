@@ -7,9 +7,9 @@
     "de": "Körperbau (Mensch)"
   },
   "broader": {
-    "id": "https://example-perma-id/biologie_systematik/kind_id",
+    "id": "https://example-perma-id/biologie_systematik/mensch_id",
     "prefLabel": {
-      "de": "Kind"
+      "de": "Mensch"
     }
   },
   "inScheme": {

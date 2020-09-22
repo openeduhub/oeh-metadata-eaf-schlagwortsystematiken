@@ -6,14 +6,17 @@
   "prefLabel": {
     "de": "Dauthendey, Max"
   },
+  "broader": {
+    "id": "https://example-perma-id/deutsch_systematik/dichter__schriftsteller__etc._id",
+    "prefLabel": {
+      "de": "Dichter, Schriftsteller, etc."
+    }
+  },
   "inScheme": {
     "id": "https://example-perma-id/deutsch_systematik/",
     "title": {
       "de": "deutsch_systematik"
     }
-  },
-  "topConceptOf": {
-    "id": "https://example-perma-id/deutsch_systematik/"
   },
   "@context": {
     "id": "@id",

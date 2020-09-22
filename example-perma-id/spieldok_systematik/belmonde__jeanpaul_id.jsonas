@@ -7,7 +7,7 @@
   },
   "id": "https://test.skohub.io/oeh-metadata-eaf-schlagwortsystematikenexample-perma-id/spieldok_systematik/belmonde__jeanpaul_id",
   "type": "Service",
-  "name": "Belmonde, Jean-Paul",
+  "name": "Belmonde, JeanPaul",
   "preferredUsername": "2f6f65682d6d657461646174612d6561662d7363686c6167776f727473797374656d6174696b656e6578616d706c652d7065726d612d69642f737069656c646f6b5f73797374656d6174696b2f62656c6d6f6e64655f5f6a65616e7061756c5f6964",
   "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fspieldok_systematik%2Fbelmonde__jeanpaul_id",
   "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fspieldok_systematik%2Fbelmonde__jeanpaul_id",

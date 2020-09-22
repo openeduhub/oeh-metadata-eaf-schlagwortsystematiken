@@ -4,16 +4,19 @@
   "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fgeschichte_systematik%2Fbrandenburgansbach__albrecht_von_id",
   "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fgeschichte_systematik%2Fbrandenburgansbach__albrecht_von_id",
   "prefLabel": {
-    "de": "Brandenburg-Ansbach, Albrecht von"
+    "de": "BrandenburgAnsbach, Albrecht von"
+  },
+  "broader": {
+    "id": "https://example-perma-id/geschichte_systematik/herrscher__könige__politiker_id",
+    "prefLabel": {
+      "de": "Herrscher, Könige, Politiker"
+    }
   },
   "inScheme": {
     "id": "https://example-perma-id/geschichte_systematik/",
     "title": {
       "de": "geschichte_systematik"
     }
-  },
-  "topConceptOf": {
-    "id": "https://example-perma-id/geschichte_systematik/"
   },
   "@context": {
     "id": "@id",

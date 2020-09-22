@@ -4,16 +4,19 @@
   "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fphysik_systematik%2Famp%C3%A8re__andr%C3%A9marie_id",
   "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fphysik_systematik%2Famp%C3%A8re__andr%C3%A9marie_id",
   "prefLabel": {
-    "de": "Ampère, André-Marie"
+    "de": "Ampère, AndréMarie"
+  },
+  "broader": {
+    "id": "https://example-perma-id/physik_systematik/personen_id",
+    "prefLabel": {
+      "de": "Personen"
+    }
   },
   "inScheme": {
     "id": "https://example-perma-id/physik_systematik/",
     "title": {
       "de": "physik_systematik"
     }
-  },
-  "topConceptOf": {
-    "id": "https://example-perma-id/physik_systematik/"
   },
   "@context": {
     "id": "@id",

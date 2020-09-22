@@ -20,6 +20,12 @@
       }
     },
     {
+      "id": "https://example-perma-id/geographie_systematik/sankt_georgen_id",
+      "prefLabel": {
+        "de": "Sankt Georgen"
+      }
+    },
+    {
       "id": "https://example-perma-id/geographie_systematik/villingenschwenningen_id",
       "prefLabel": {
         "de": "Villingen-Schwenningen"

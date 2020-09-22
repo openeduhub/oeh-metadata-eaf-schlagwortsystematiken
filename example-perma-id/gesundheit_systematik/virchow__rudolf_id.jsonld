@@ -7,9 +7,9 @@
     "de": "Virchow, Rudolf"
   },
   "broader": {
-    "id": "https://example-perma-id/gesundheit_systematik/medizin_heilkunde_id",
+    "id": "https://example-perma-id/gesundheit_systematik/personen_id",
     "prefLabel": {
-      "de": "Medizin (Heilkunde)"
+      "de": "Personen"
     }
   },
   "inScheme": {

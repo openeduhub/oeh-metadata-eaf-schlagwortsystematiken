@@ -6,14 +6,6 @@
   "prefLabel": {
     "de": "Kindstod"
   },
-  "narrower": [
-    {
-      "id": "https://example-perma-id/gesundheit_systematik/bach__edward_id",
-      "prefLabel": {
-        "de": "Bach, Edward"
-      }
-    }
-  ],
   "broader": {
     "id": "https://example-perma-id/gesundheit_systematik/medizin_heilkunde_id",
     "prefLabel": {

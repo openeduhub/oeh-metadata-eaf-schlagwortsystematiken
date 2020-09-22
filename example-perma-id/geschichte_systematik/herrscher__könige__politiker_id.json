@@ -4,8 +4,1324 @@
   "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fgeschichte_systematik%2Fherrscher__k%C3%B6nige__politiker_id",
   "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fgeschichte_systematik%2Fherrscher__k%C3%B6nige__politiker_id",
   "prefLabel": {
-    "de": "Herrscher, Könige, Politiker)"
+    "de": "Herrscher, Könige, Politiker"
   },
+  "narrower": [
+    {
+      "id": "https://example-perma-id/geschichte_systematik/adenauer__konrad_id",
+      "prefLabel": {
+        "de": "Adenauer, Konrad"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/alexander_der_großemakedonien_id",
+      "prefLabel": {
+        "de": "Alexander der Große(Makedonien)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/allende__salvador_id",
+      "prefLabel": {
+        "de": "Allende, Salvador"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/amelunxen__rudolf_id",
+      "prefLabel": {
+        "de": "Amelunxen, Rudolf"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/anna_amalia_herzogin_sachsenweimareisenach_id",
+      "prefLabel": {
+        "de": "Anna Amalia (Herzogin SachsenWeimarEisenach)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/aron__raymond_id",
+      "prefLabel": {
+        "de": "Aron, Raymond"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/atatürk__kemal_id",
+      "prefLabel": {
+        "de": "Atatürk, Kemal"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/august_ii._polen_könig_id",
+      "prefLabel": {
+        "de": "August II. (Polen König)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/augustus_rom_id",
+      "prefLabel": {
+        "de": "Augustus (Rom)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/bacon__francis_staatsmann_id",
+      "prefLabel": {
+        "de": "Bacon, Francis (Staatsmann)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/barbie__klaus_id",
+      "prefLabel": {
+        "de": "Barbie, Klaus"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/barzel__rainer_id",
+      "prefLabel": {
+        "de": "Barzel, Rainer"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/beck__ludwig_id",
+      "prefLabel": {
+        "de": "Beck, Ludwig"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/ben_gurion__david_id",
+      "prefLabel": {
+        "de": "Ben Gurion, David"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/berkhan__karlwilhelm_id",
+      "prefLabel": {
+        "de": "Berkhan, KarlWilhelm"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/bismarck__otto_fürst_von_id",
+      "prefLabel": {
+        "de": "Bismarck, Otto Fürst von"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/bormann__martin_id",
+      "prefLabel": {
+        "de": "Bormann, Martin"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/borsig__johann_friedrich_august_id",
+      "prefLabel": {
+        "de": "Borsig, Johann Friedrich August"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/brandenburgansbach__albrecht_von_id",
+      "prefLabel": {
+        "de": "BrandenburgAnsbach, Albrecht von"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/brandt__willy_id",
+      "prefLabel": {
+        "de": "Brandt, Willy"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/breschnew__leonid_id",
+      "prefLabel": {
+        "de": "Breschnew, Leonid"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/briand__aristide_id",
+      "prefLabel": {
+        "de": "Briand, Aristide"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/brüning__heinrich_id",
+      "prefLabel": {
+        "de": "Brüning, Heinrich"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/burckhardt__carl_jacob_id",
+      "prefLabel": {
+        "de": "Burckhardt, Carl Jacob"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/cassin__rene_id",
+      "prefLabel": {
+        "de": "Cassin, Rene"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/chruschtschow__nikita_id",
+      "prefLabel": {
+        "de": "Chruschtschow, Nikita"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/churchill__winston_id",
+      "prefLabel": {
+        "de": "Churchill, Winston"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/colbert__jeanbaptiste_id",
+      "prefLabel": {
+        "de": "Colbert, JeanBaptiste"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/cromwell__oliver_id",
+      "prefLabel": {
+        "de": "Cromwell, Oliver"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/curtius__julius_id",
+      "prefLabel": {
+        "de": "Curtius, Julius"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/dahlmann__friedrich_christoph_id",
+      "prefLabel": {
+        "de": "Dahlmann, Friedrich Christoph"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/danton__georges_id",
+      "prefLabel": {
+        "de": "Danton, Georges"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/dehler__thomas_id",
+      "prefLabel": {
+        "de": "Dehler, Thomas"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/dschingis_khan_id",
+      "prefLabel": {
+        "de": "Dschingis Khan"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/dönitz__karl_id",
+      "prefLabel": {
+        "de": "Dönitz, Karl"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/ebert__friedrich_id",
+      "prefLabel": {
+        "de": "Ebert, Friedrich"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/eduard_vii._könig_großbritannien_id",
+      "prefLabel": {
+        "de": "Eduard VII. (König Großbritannien)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/ehlers__hermann_id",
+      "prefLabel": {
+        "de": "Ehlers, Hermann"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/eichmann__karl_adolf_id",
+      "prefLabel": {
+        "de": "Eichmann, Karl Adolf"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/eisner__kurt_id",
+      "prefLabel": {
+        "de": "Eisner, Kurt"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/elisabeth_i._königin_england_id",
+      "prefLabel": {
+        "de": "Elisabeth I. (Königin England)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/erhard__ludwig_id",
+      "prefLabel": {
+        "de": "Erhard, Ludwig"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/eschenburg__theodor_id",
+      "prefLabel": {
+        "de": "Eschenburg, Theodor"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/eugen_prinz_savoyen_id",
+      "prefLabel": {
+        "de": "Eugen (Prinz Savoyen)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/franco__francisco_id",
+      "prefLabel": {
+        "de": "Franco, Francisco"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/frank__hans_id",
+      "prefLabel": {
+        "de": "Frank, Hans"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/franz_josef_i.kaiser_österreich_id",
+      "prefLabel": {
+        "de": "Franz Josef I.(Kaiser Österreich)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/freisler__roland_id",
+      "prefLabel": {
+        "de": "Freisler, Roland"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/friedrich_i._barbarossa_könig_deutschland_id",
+      "prefLabel": {
+        "de": "Friedrich I. Barbarossa (König Deutschland)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/friedrich_i._großherzog_baden_id",
+      "prefLabel": {
+        "de": "Friedrich I. (Großherzog Baden)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/friedrich_i._könig_preußen_id",
+      "prefLabel": {
+        "de": "Friedrich I. (König Preußen)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/friedrich_ii._der_große_könig_preußen_id",
+      "prefLabel": {
+        "de": "Friedrich II. der Große (König Preußen)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/friedrich_ii._könig_deutschland_sizilien_id",
+      "prefLabel": {
+        "de": "Friedrich II. (König Deutschland Sizilien)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/friedrich_iii._kaiser_deutschland_id",
+      "prefLabel": {
+        "de": "Friedrich III. (Kaiser Deutschland)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/friedrich_wilhelm_i._preußen_id",
+      "prefLabel": {
+        "de": "Friedrich Wilhelm I. (Preußen)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/friedrich_wilhelm_iii._könig_preußen_id",
+      "prefLabel": {
+        "de": "Friedrich Wilhelm III. (König Preußen)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/friedrich_wilhelm_iv._könig_preußen_id",
+      "prefLabel": {
+        "de": "Friedrich Wilhelm IV. (König Preußen)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/gaius_julius_caesar_id",
+      "prefLabel": {
+        "de": "Gaius Julius Caesar"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/gandhi__mahatma_id",
+      "prefLabel": {
+        "de": "Gandhi, Mahatma"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/gaulle__charles_de_id",
+      "prefLabel": {
+        "de": "Gaulle, Charles de"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/gaus__günter_id",
+      "prefLabel": {
+        "de": "Gaus, Günter"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/georg_v._könig_vereintes_königreich_id",
+      "prefLabel": {
+        "de": "Georg V. (König Vereintes Königreich)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/gnaeus_pompeius_magnus_id",
+      "prefLabel": {
+        "de": "Gnaeus Pompeius Magnus"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/goebbels__joseph_id",
+      "prefLabel": {
+        "de": "Goebbels, Joseph"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/goerdeler__carl_friedrich_id",
+      "prefLabel": {
+        "de": "Goerdeler, Carl Friedrich"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/gorbatschow__michail_id",
+      "prefLabel": {
+        "de": "Gorbatschow, Michail"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/grotewohl__otto_id",
+      "prefLabel": {
+        "de": "Grotewohl, Otto"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/gustav_ii._adolf_schweden_id",
+      "prefLabel": {
+        "de": "Gustav II. Adolf (Schweden)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/göring__hermann_id",
+      "prefLabel": {
+        "de": "Göring, Hermann"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/hadrian_id",
+      "prefLabel": {
+        "de": "Hadrian"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/hallstein__walter_id",
+      "prefLabel": {
+        "de": "Hallstein, Walter"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/hameln__glückel_von_id",
+      "prefLabel": {
+        "de": "Hameln, Glückel von"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/hannibal_id",
+      "prefLabel": {
+        "de": "Hannibal"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/hatschepsut_id",
+      "prefLabel": {
+        "de": "Hatschepsut"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/heinrich_der_löwe_sachsen_id",
+      "prefLabel": {
+        "de": "Heinrich der Löwe (Sachsen)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/heinrich_ii._hrr_id",
+      "prefLabel": {
+        "de": "Heinrich II. (HRR)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/heinrich_iii._hrr_id",
+      "prefLabel": {
+        "de": "Heinrich III. (HRR)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/heinrich_iv._hrr_id",
+      "prefLabel": {
+        "de": "Heinrich IV. (HRR)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/heinrich_iv._könig_frankreich_id",
+      "prefLabel": {
+        "de": "Heinrich IV. (König Frankreich)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/heinrich_v._könig_england_id",
+      "prefLabel": {
+        "de": "Heinrich V. (König England)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/heinrich_vi._hrr_id",
+      "prefLabel": {
+        "de": "Heinrich VI. (HRR)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/heinrich_vii._hrr_id",
+      "prefLabel": {
+        "de": "Heinrich VII. (HRR)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/hessenkassel__amalia_elisabeth_von_id",
+      "prefLabel": {
+        "de": "HessenKassel, Amalia Elisabeth von"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/heydrich__reinhard_id",
+      "prefLabel": {
+        "de": "Heydrich, Reinhard"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/heß__rudolf_id",
+      "prefLabel": {
+        "de": "Heß, Rudolf"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/himmler__heinrich_id",
+      "prefLabel": {
+        "de": "Himmler, Heinrich"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/hindenburg__paul_id",
+      "prefLabel": {
+        "de": "Hindenburg, Paul"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/hirzel__susanne_id",
+      "prefLabel": {
+        "de": "Hirzel, Susanne"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/hitler__adolf_id",
+      "prefLabel": {
+        "de": "Hitler, Adolf"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/ho_chi_minh_id",
+      "prefLabel": {
+        "de": "Ho Chi Minh"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/honecker__erich_id",
+      "prefLabel": {
+        "de": "Honecker, Erich"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/hugenberg__alfred_id",
+      "prefLabel": {
+        "de": "Hugenberg, Alfred"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/hussein__saddam_id",
+      "prefLabel": {
+        "de": "Hussein, Saddam"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/ieyasu__tokugawa_shôgun_id",
+      "prefLabel": {
+        "de": "Ieyasu, Tokugawa (Shôgun)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/jelzin__boris_id",
+      "prefLabel": {
+        "de": "Jelzin, Boris"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/joseph_ii._kaiser_österreich_id",
+      "prefLabel": {
+        "de": "Joseph II. (Kaiser Österreich)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/juan_de_austria_id",
+      "prefLabel": {
+        "de": "Juan de Austria"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/justinian_i._kaiser_byzantinisches_reich_id",
+      "prefLabel": {
+        "de": "Justinian I. (Kaiser Byzantinisches Reich)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/kaiser__jakob_id",
+      "prefLabel": {
+        "de": "Kaiser, Jakob"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/karl_i._der_große_kaiser_rom_deutschland_id",
+      "prefLabel": {
+        "de": "Karl I. der Große (Kaiser Rom Deutschland)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/karl_iv._kaiser_deutschland_id",
+      "prefLabel": {
+        "de": "Karl IV. (Kaiser Deutschland)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/karl_theodor_kurfürst_bayern_pfalz_id",
+      "prefLabel": {
+        "de": "Karl Theodor (Kurfürst Bayern Pfalz)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/karl_v._kaiser_deutschland_id",
+      "prefLabel": {
+        "de": "Karl V. (Kaiser Deutschland)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/katharina_ii._kaiserin_russland_id",
+      "prefLabel": {
+        "de": "Katharina II. (Kaiserin Russland)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/katte__hans_von_id",
+      "prefLabel": {
+        "de": "Katte, Hans von"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/kennedy__john_f._id",
+      "prefLabel": {
+        "de": "Kennedy, John F."
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/kenyatta__jomo_id",
+      "prefLabel": {
+        "de": "Kenyatta, Jomo"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/kiesinger__kurt_georg_id",
+      "prefLabel": {
+        "de": "Kiesinger, Kurt Georg"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/king__martin_luther_id",
+      "prefLabel": {
+        "de": "King, Martin Luther"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/kleopatra_vii._id",
+      "prefLabel": {
+        "de": "Kleopatra VII."
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/konrad_ii_hrr_id",
+      "prefLabel": {
+        "de": "Konrad II (HRR)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/konstantin_i._kaiser_byzantinisches_reich_id",
+      "prefLabel": {
+        "de": "Konstantin I. (Kaiser Byzantinisches Reich)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/körner__theodor_id",
+      "prefLabel": {
+        "de": "Körner, Theodor"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/kühn__heinz_id",
+      "prefLabel": {
+        "de": "Kühn, Heinz"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/lassalle__ferdinand_id",
+      "prefLabel": {
+        "de": "Lassalle, Ferdinand"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/leber__julius_id",
+      "prefLabel": {
+        "de": "Leber, Julius"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/legien__carl_id",
+      "prefLabel": {
+        "de": "Legien, Carl"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/lemmer__ernst_id",
+      "prefLabel": {
+        "de": "Lemmer, Ernst"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/lenin__wladimir_iljitsch_id",
+      "prefLabel": {
+        "de": "Lenin, Wladimir Iljitsch"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/leuschner__wilhelm_id",
+      "prefLabel": {
+        "de": "Leuschner, Wilhelm"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/liebknecht__karl_id",
+      "prefLabel": {
+        "de": "Liebknecht, Karl"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/lincoln__abraham_id",
+      "prefLabel": {
+        "de": "Lincoln, Abraham"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/ludwig_i._könig_bayern_id",
+      "prefLabel": {
+        "de": "Ludwig I. (König Bayern)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/ludwig_ii._könig_bayern_id",
+      "prefLabel": {
+        "de": "Ludwig II. (König Bayern)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/ludwig_wilhelm_i._baden_id",
+      "prefLabel": {
+        "de": "Ludwig Wilhelm I. (Baden)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/ludwig_xiv._könig_frankreich_id",
+      "prefLabel": {
+        "de": "Ludwig XIV. (König Frankreich)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/ludwig_xvi._könig_frankreich_id",
+      "prefLabel": {
+        "de": "Ludwig XVI. (König Frankreich)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/luise_prinzessin_zu_mecklenburgstrelitz_königin_preußen_id",
+      "prefLabel": {
+        "de": "Luise Prinzessin zu MecklenburgStrelitz (Königin Preußen)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/lumumba__patrice_id",
+      "prefLabel": {
+        "de": "Lumumba, Patrice"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/luxemburg__rosa_id",
+      "prefLabel": {
+        "de": "Luxemburg, Rosa"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/löbe__paul_id",
+      "prefLabel": {
+        "de": "Löbe, Paul"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/macbeth_id",
+      "prefLabel": {
+        "de": "Macbeth"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/malraux__andre_id",
+      "prefLabel": {
+        "de": "Malraux, Andre"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/mandela__nelson_id",
+      "prefLabel": {
+        "de": "Mandela, Nelson"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/mao_tsetung_id",
+      "prefLabel": {
+        "de": "Mao Tsetung"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/maria_stuart_königin_schottland_id",
+      "prefLabel": {
+        "de": "Maria Stuart (Königin Schottland)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/maria_theresie_österreich__kaiserin_id",
+      "prefLabel": {
+        "de": "Maria Theresie (Österreich, Kaiserin)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/marie_antoinette_id",
+      "prefLabel": {
+        "de": "Marie Antoinette"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/marx__karl_id",
+      "prefLabel": {
+        "de": "Marx, Karl"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/maximilian_i._kaiser_rom_deutschland_id",
+      "prefLabel": {
+        "de": "Maximilian I. (Kaiser Rom Deutschland)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/mcnamara__robert_id",
+      "prefLabel": {
+        "de": "McNamara, Robert"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/metternich__klemens_wenzel_reichsgraf_id",
+      "prefLabel": {
+        "de": "Metternich, Klemens Wenzel Reichsgraf"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/meyers__franz_id",
+      "prefLabel": {
+        "de": "Meyers, Franz"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/mierendorff__carlo_id",
+      "prefLabel": {
+        "de": "Mierendorff, Carlo"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/mitterrand__françois_id",
+      "prefLabel": {
+        "de": "Mitterrand, François"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/moltke__freya_gräfin_von_id",
+      "prefLabel": {
+        "de": "Moltke, Freya Gräfin von"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/moltke__helmuth_james_graf_von_id",
+      "prefLabel": {
+        "de": "Moltke, Helmuth James Graf von"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/monnet__jean_id",
+      "prefLabel": {
+        "de": "Monnet, Jean"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/motier__mariejoseph_marquis_de_la_fayette_id",
+      "prefLabel": {
+        "de": "Motier, MarieJoseph (Marquis de La Fayette)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/napoleon_i._kaiser_frankreich_id",
+      "prefLabel": {
+        "de": "Napoleon I. (Kaiser Frankreich)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/napoleon_iii._frankreich_id",
+      "prefLabel": {
+        "de": "Napoleon III. (Frankreich)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/nero_kaiser_rom_id",
+      "prefLabel": {
+        "de": "Nero (Kaiser Rom)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/neumann__franz_id",
+      "prefLabel": {
+        "de": "Neumann, Franz"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/nikolaus_ii._kaiser_russland_id",
+      "prefLabel": {
+        "de": "Nikolaus II. (Kaiser Russland)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/noske__gustav_id",
+      "prefLabel": {
+        "de": "Noske, Gustav"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/nyerere__julius_kambarage_id",
+      "prefLabel": {
+        "de": "Nyerere, Julius Kambarage"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/ollenhauer__erich_id",
+      "prefLabel": {
+        "de": "Ollenhauer, Erich"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/otto_i._der_große_kaiser_deutschland_id",
+      "prefLabel": {
+        "de": "Otto I. der Große (Kaiser Deutschland)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/papen__franz_von_id",
+      "prefLabel": {
+        "de": "Papen, Franz von"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/peters__carl_id",
+      "prefLabel": {
+        "de": "Peters, Carl"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/pflimlin__pierre_id",
+      "prefLabel": {
+        "de": "Pflimlin, Pierre"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/philipp_ii._könig_spanien_id",
+      "prefLabel": {
+        "de": "Philipp II. (König Spanien)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/pieck__wilhelm_id",
+      "prefLabel": {
+        "de": "Pieck, Wilhelm"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/ramses_id",
+      "prefLabel": {
+        "de": "Ramses"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/rau__johannes_id",
+      "prefLabel": {
+        "de": "Rau, Johannes"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/reagan__ronald_id",
+      "prefLabel": {
+        "de": "Reagan, Ronald"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/reichwein__adolf_id",
+      "prefLabel": {
+        "de": "Reichwein, Adolf"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/reuter__ernst_id",
+      "prefLabel": {
+        "de": "Reuter, Ernst"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/ribbentrop__joachim_von_id",
+      "prefLabel": {
+        "de": "Ribbentrop, Joachim von"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/richard_löwenherz_id",
+      "prefLabel": {
+        "de": "Richard Löwenherz"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/robbespierre__maximilien_de_id",
+      "prefLabel": {
+        "de": "Robbespierre, Maximilien de"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/rommel__erwin_id",
+      "prefLabel": {
+        "de": "Rommel, Erwin"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/rommel__manfred_id",
+      "prefLabel": {
+        "de": "Rommel, Manfred"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/roosevelt__franklin_delano_id",
+      "prefLabel": {
+        "de": "Roosevelt, Franklin Delano"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/roosevelt__theodore_id",
+      "prefLabel": {
+        "de": "Roosevelt, Theodore"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/röhm__ernst_id",
+      "prefLabel": {
+        "de": "Röhm, Ernst"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/scharnhorst__gerhard_von_id",
+      "prefLabel": {
+        "de": "Scharnhorst, Gerhard von"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/scheidemann__philipp_id",
+      "prefLabel": {
+        "de": "Scheidemann, Philipp"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/schenk_von_stauffenberg__claus_id",
+      "prefLabel": {
+        "de": "Schenk von Stauffenberg, Claus"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/schiller__karl_id",
+      "prefLabel": {
+        "de": "Schiller, Karl"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/schirach__baldur_von_id",
+      "prefLabel": {
+        "de": "Schirach, Baldur von"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/schleicher__kurt_von_id",
+      "prefLabel": {
+        "de": "Schleicher, Kurt von"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/schmid__carlo_id",
+      "prefLabel": {
+        "de": "Schmid, Carlo"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/schumacher__karl_id",
+      "prefLabel": {
+        "de": "Schumacher, Karl"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/schuman__robert_id",
+      "prefLabel": {
+        "de": "Schuman, Robert"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/schurmann__anna_maria_van_id",
+      "prefLabel": {
+        "de": "Schurmann, Anna Maria van"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/senghor__leopold_sedar_id",
+      "prefLabel": {
+        "de": "Senghor, Leopold Sedar"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/severing__carl_id",
+      "prefLabel": {
+        "de": "Severing, Carl"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/sieyès__emmanuel_joseph_id",
+      "prefLabel": {
+        "de": "Sieyès, Emmanuel Joseph"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/speer__albert_id",
+      "prefLabel": {
+        "de": "Speer, Albert"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/stalin__jossif_wissarionowitsch_id",
+      "prefLabel": {
+        "de": "Stalin, Jossif Wissarionowitsch"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/steffen__jochen_id",
+      "prefLabel": {
+        "de": "Steffen, Jochen"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/stein__heinrich_friedrich_karl_reichsfreiherr_vom_und_zum_id",
+      "prefLabel": {
+        "de": "Stein, Heinrich Friedrich Karl Reichsfreiherr vom und zum"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/steinhoff__fritz_id",
+      "prefLabel": {
+        "de": "Steinhoff, Fritz"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/strauß__franz_josef_id",
+      "prefLabel": {
+        "de": "Strauß, Franz Josef"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/stresemann__gustav_id",
+      "prefLabel": {
+        "de": "Stresemann, Gustav"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/thatcher__margret_id",
+      "prefLabel": {
+        "de": "Thatcher, Margret"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/theoderich_der_große_ostgote_id",
+      "prefLabel": {
+        "de": "Theoderich der Große (Ostgote)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/theophanu_kaiserin_deutschland_id",
+      "prefLabel": {
+        "de": "Theophanu (Kaiserin Deutschland)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/thälmann__ernst_id",
+      "prefLabel": {
+        "de": "Thälmann, Ernst"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/tiberius_id",
+      "prefLabel": {
+        "de": "Tiberius"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/trajan_id",
+      "prefLabel": {
+        "de": "Trajan"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/tresckow__henning_von_id",
+      "prefLabel": {
+        "de": "Tresckow, Henning von"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/tutenchamun_id",
+      "prefLabel": {
+        "de": "Tutenchamun"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/ulbricht__walter_id",
+      "prefLabel": {
+        "de": "Ulbricht, Walter"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/vespasian_id",
+      "prefLabel": {
+        "de": "Vespasian"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/wallenstein_id",
+      "prefLabel": {
+        "de": "Wallenstein"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/wehner__herbert_id",
+      "prefLabel": {
+        "de": "Wehner, Herbert"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/weizsäcker__richard_von_id",
+      "prefLabel": {
+        "de": "Weizsäcker, Richard von"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/wellington__arthur_herzog_von_id",
+      "prefLabel": {
+        "de": "Wellington, Arthur Herzog von"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/wels__otto_id",
+      "prefLabel": {
+        "de": "Wels, Otto"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/widukind_id",
+      "prefLabel": {
+        "de": "Widukind"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/wilhelm_i._fürst_oranien_id",
+      "prefLabel": {
+        "de": "Wilhelm I. (Fürst Oranien)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/wilhelm_i._kaiser_deutschland_id",
+      "prefLabel": {
+        "de": "Wilhelm I. (Kaiser Deutschland)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/wilhelm_i._könig_england_id",
+      "prefLabel": {
+        "de": "Wilhelm I. (König England)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/wilhelm_ii._kaiser_deutschland_id",
+      "prefLabel": {
+        "de": "Wilhelm II. (Kaiser Deutschland)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/wilhelmine_markgräfin_bayreuth_id",
+      "prefLabel": {
+        "de": "Wilhelmine (Markgräfin Bayreuth)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/wilson__thomas_woodrow_id",
+      "prefLabel": {
+        "de": "Wilson, Thomas Woodrow"
+      }
+    },
+    {
+      "id": "https://example-perma-id/geschichte_systematik/zinn__georg_august_id",
+      "prefLabel": {
+        "de": "Zinn, Georg August"
+      }
+    }
+  ],
   "inScheme": {
     "id": "https://example-perma-id/geschichte_systematik/",
     "title": {

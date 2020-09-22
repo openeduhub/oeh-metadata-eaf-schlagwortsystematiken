@@ -6,14 +6,17 @@
   "prefLabel": {
     "de": "Zeppelin, Ferdinand Graf von"
   },
+  "broader": {
+    "id": "https://example-perma-id/verkehrserziehung_systematik/personen_id",
+    "prefLabel": {
+      "de": "Personen"
+    }
+  },
   "inScheme": {
     "id": "https://example-perma-id/verkehrserziehung_systematik/",
     "title": {
       "de": "verkehrserziehung_systematik"
     }
-  },
-  "topConceptOf": {
-    "id": "https://example-perma-id/verkehrserziehung_systematik/"
   },
   "@context": {
     "id": "@id",

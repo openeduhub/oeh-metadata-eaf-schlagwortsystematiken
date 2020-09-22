@@ -20,6 +20,12 @@
       }
     },
     {
+      "id": "https://example-perma-id/biologie_systematik/drüse_id",
+      "prefLabel": {
+        "de": "Drüse"
+      }
+    },
+    {
       "id": "https://example-perma-id/biologie_systematik/feder_gefieder_id",
       "prefLabel": {
         "de": "Feder (Gefieder)"

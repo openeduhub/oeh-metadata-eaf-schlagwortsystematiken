@@ -4,16 +4,19 @@
   "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fgeschichte_systematik%2Fmotier__mariejoseph_marquis_de_la_fayette_id",
   "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fgeschichte_systematik%2Fmotier__mariejoseph_marquis_de_la_fayette_id",
   "prefLabel": {
-    "de": "Motier, Marie-Joseph (Marquis de La Fayette)"
+    "de": "Motier, MarieJoseph (Marquis de La Fayette)"
+  },
+  "broader": {
+    "id": "https://example-perma-id/geschichte_systematik/herrscher__könige__politiker_id",
+    "prefLabel": {
+      "de": "Herrscher, Könige, Politiker"
+    }
   },
   "inScheme": {
     "id": "https://example-perma-id/geschichte_systematik/",
     "title": {
       "de": "geschichte_systematik"
     }
-  },
-  "topConceptOf": {
-    "id": "https://example-perma-id/geschichte_systematik/"
   },
   "@context": {
     "id": "@id",

@@ -6,14 +6,17 @@
   "prefLabel": {
     "de": "Kennedy, John F."
   },
+  "broader": {
+    "id": "https://example-perma-id/geschichte_systematik/herrscher__könige__politiker_id",
+    "prefLabel": {
+      "de": "Herrscher, Könige, Politiker"
+    }
+  },
   "inScheme": {
     "id": "https://example-perma-id/geschichte_systematik/",
     "title": {
       "de": "geschichte_systematik"
     }
-  },
-  "topConceptOf": {
-    "id": "https://example-perma-id/geschichte_systematik/"
   },
   "@context": {
     "id": "@id",

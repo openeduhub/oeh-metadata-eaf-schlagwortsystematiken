@@ -6,10 +6,24 @@
   "prefLabel": {
     "de": "Drüse"
   },
+  "narrower": [
+    {
+      "id": "https://example-perma-id/biologie_systematik/hirnanhangdrüse_id",
+      "prefLabel": {
+        "de": "Hirnanhangdrüse"
+      }
+    },
+    {
+      "id": "https://example-perma-id/biologie_systematik/leber_id",
+      "prefLabel": {
+        "de": "Leber"
+      }
+    }
+  ],
   "broader": {
-    "id": "https://example-perma-id/biologie_systematik/blutkreislauf_id",
+    "id": "https://example-perma-id/biologie_systematik/anatomie_tier_id",
     "prefLabel": {
-      "de": "Blutkreislauf"
+      "de": "Anatomie (Tier)"
     }
   },
   "inScheme": {

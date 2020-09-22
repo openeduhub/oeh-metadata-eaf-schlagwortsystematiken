@@ -4,8 +4,2242 @@
   "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fdeutsch_systematik%2Fdichter__schriftsteller__etc._id",
   "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fdeutsch_systematik%2Fdichter__schriftsteller__etc._id",
   "prefLabel": {
-    "de": "Dichter, Schriftsteller, etc.)"
+    "de": "Dichter, Schriftsteller, etc."
   },
+  "narrower": [
+    {
+      "id": "https://example-perma-id/deutsch_systematik/_id",
+      "prefLabel": {
+        "de": "-"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/achternbusch__herbert_id",
+      "prefLabel": {
+        "de": "Achternbusch, Herbert"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/adler__walter_id",
+      "prefLabel": {
+        "de": "Adler, Walter"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/aichinger__ilse_id",
+      "prefLabel": {
+        "de": "Aichinger, Ilse"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/aischylos_id",
+      "prefLabel": {
+        "de": "Aischylos"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/alafenisch__salim_id",
+      "prefLabel": {
+        "de": "Alafenisch, Salim"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/alexis__willibald_id",
+      "prefLabel": {
+        "de": "Alexis, Willibald"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/allmers_hermann_id",
+      "prefLabel": {
+        "de": "Allmers,Hermann"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/althaus__peter_paul_id",
+      "prefLabel": {
+        "de": "Althaus, Peter Paul"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/amery__carl_id",
+      "prefLabel": {
+        "de": "Amery, Carl"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/andersch__alfred_id",
+      "prefLabel": {
+        "de": "Andersch, Alfred"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/andersen__hans_christian_id",
+      "prefLabel": {
+        "de": "Andersen, Hans Christian"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/andres__stefan_id",
+      "prefLabel": {
+        "de": "Andres, Stefan"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/arnim__achim_von_id",
+      "prefLabel": {
+        "de": "Arnim, Achim von"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/arnim__bettina_von_id",
+      "prefLabel": {
+        "de": "Arnim, Bettina von"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/artmann__hans_carl_id",
+      "prefLabel": {
+        "de": "Artmann, Hans Carl"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/augstein__rudolf_id",
+      "prefLabel": {
+        "de": "Augstein, Rudolf"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/ausländer__rose_id",
+      "prefLabel": {
+        "de": "Ausländer, Rose"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/avenarius__ferdinand_id",
+      "prefLabel": {
+        "de": "Avenarius, Ferdinand"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/bachmann__ingeborg_id",
+      "prefLabel": {
+        "de": "Bachmann, Ingeborg"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/ball__hugo_id",
+      "prefLabel": {
+        "de": "Ball, Hugo"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/bamm__peter_id",
+      "prefLabel": {
+        "de": "Bamm, Peter"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/barthel__max_id",
+      "prefLabel": {
+        "de": "Barthel, Max"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/becher__johannes_robert_id",
+      "prefLabel": {
+        "de": "Becher, Johannes Robert"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/becker__jurek_id",
+      "prefLabel": {
+        "de": "Becker, Jurek"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/becker__jürgen_id",
+      "prefLabel": {
+        "de": "Becker, Jürgen"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/benn__gottfried_id",
+      "prefLabel": {
+        "de": "Benn, Gottfried"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/bergengruen__werner_id",
+      "prefLabel": {
+        "de": "Bergengruen, Werner"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/bergmann__alfred_id",
+      "prefLabel": {
+        "de": "Bergmann, Alfred"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/berlinger__josef_id",
+      "prefLabel": {
+        "de": "Berlinger, Josef"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/bichsel__peter_id",
+      "prefLabel": {
+        "de": "Bichsel, Peter"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/bienek__horst_id",
+      "prefLabel": {
+        "de": "Bienek, Horst"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/bierbaum__otto_julius_id",
+      "prefLabel": {
+        "de": "Bierbaum, Otto Julius"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/biermann__wolf_id",
+      "prefLabel": {
+        "de": "Biermann, Wolf"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/blau__sebastian_id",
+      "prefLabel": {
+        "de": "Blau, Sebastian"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/bobrowski__johannes_id",
+      "prefLabel": {
+        "de": "Bobrowski, Johannes"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/bolliger__max_id",
+      "prefLabel": {
+        "de": "Bolliger, Max"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/borchert__wolfgang_id",
+      "prefLabel": {
+        "de": "Borchert, Wolfgang"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/brecht__bertolt_id",
+      "prefLabel": {
+        "de": "Brecht, Bertolt"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/brentano__clemens__id",
+      "prefLabel": {
+        "de": "Brentano, Clemens "
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/britting__georg_id",
+      "prefLabel": {
+        "de": "Britting, Georg"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/broch__hermann_id",
+      "prefLabel": {
+        "de": "Broch, Hermann"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/brockes__barthold_heinrich_id",
+      "prefLabel": {
+        "de": "Brockes, Barthold Heinrich"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/brussig__thomas_id",
+      "prefLabel": {
+        "de": "Brussig, Thomas"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/bruyn__günter_de_id",
+      "prefLabel": {
+        "de": "Bruyn, Günter de"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/brückner__christine_id",
+      "prefLabel": {
+        "de": "Brückner, Christine"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/busch__wilhelm_id",
+      "prefLabel": {
+        "de": "Busch, Wilhelm"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/bäuerle__roland_id",
+      "prefLabel": {
+        "de": "Bäuerle, Roland"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/bäuml__ludwig_id",
+      "prefLabel": {
+        "de": "Bäuml, Ludwig"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/böhme__jakob_id",
+      "prefLabel": {
+        "de": "Böhme, Jakob"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/böll__heinrich_id",
+      "prefLabel": {
+        "de": "Böll, Heinrich"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/büchner__georg_id",
+      "prefLabel": {
+        "de": "Büchner, Georg"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/bürger__gottfried_august_id",
+      "prefLabel": {
+        "de": "Bürger, Gottfried August"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/carossa__hans_id",
+      "prefLabel": {
+        "de": "Carossa, Hans"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/caspar__hans_id",
+      "prefLabel": {
+        "de": "Caspar, Hans"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/celan__paul_id",
+      "prefLabel": {
+        "de": "Celan, Paul"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/ceram__c.w._id",
+      "prefLabel": {
+        "de": "Ceram, C.W."
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/chamisso__adelbert_von_id",
+      "prefLabel": {
+        "de": "Chamisso, Adelbert von"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/claudius__matthias_id",
+      "prefLabel": {
+        "de": "Claudius, Matthias"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/cube__walter_von_id",
+      "prefLabel": {
+        "de": "Cube, Walter von"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/dahn__daniela_id",
+      "prefLabel": {
+        "de": "Dahn, Daniela"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/dauthendey__max_id",
+      "prefLabel": {
+        "de": "Dauthendey, Max"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/degenhardt__franz_josef_id",
+      "prefLabel": {
+        "de": "Degenhardt, Franz Josef"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/degenhardt__jürgen_id",
+      "prefLabel": {
+        "de": "Degenhardt, Jürgen"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/dehmel__richard_id",
+      "prefLabel": {
+        "de": "Dehmel, Richard"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/delius__friedrich_christian_id",
+      "prefLabel": {
+        "de": "Delius, Friedrich Christian"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/deutschkron__inge_id",
+      "prefLabel": {
+        "de": "Deutschkron, Inge"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/dorn__anne_id",
+      "prefLabel": {
+        "de": "Dorn, Anne"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/drewitz__ingeborg_id",
+      "prefLabel": {
+        "de": "Drewitz, Ingeborg"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/drostehülshoff__annette_von_id",
+      "prefLabel": {
+        "de": "DrosteHülshoff, Annette von"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/duden__konrad_id",
+      "prefLabel": {
+        "de": "Duden, Konrad"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/durian__wolf_id",
+      "prefLabel": {
+        "de": "Durian, Wolf"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/däniken__erich_von_id",
+      "prefLabel": {
+        "de": "Däniken, Erich von"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/döblin__alfred_id",
+      "prefLabel": {
+        "de": "Döblin, Alfred"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/dürrenmatt__friedrich_id",
+      "prefLabel": {
+        "de": "Dürrenmatt, Friedrich"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/ebnereschenbach__marie_von_id",
+      "prefLabel": {
+        "de": "EbnerEschenbach, Marie von"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/eich__günter_id",
+      "prefLabel": {
+        "de": "Eich, Günter"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/eichendorff__joseph_von_id",
+      "prefLabel": {
+        "de": "Eichendorff, Joseph von"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/ende__michael_id",
+      "prefLabel": {
+        "de": "Ende, Michael"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/endrikat__fred_id",
+      "prefLabel": {
+        "de": "Endrikat, Fred"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/enzensberger__hans_magnus_id",
+      "prefLabel": {
+        "de": "Enzensberger, Hans Magnus"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/ernst__paul_id",
+      "prefLabel": {
+        "de": "Ernst, Paul"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/fallada__hans_id",
+      "prefLabel": {
+        "de": "Fallada, Hans"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/fassbinder__rainer_werner_id",
+      "prefLabel": {
+        "de": "Fassbinder, Rainer Werner"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/feuchtwanger__lion_id",
+      "prefLabel": {
+        "de": "Feuchtwanger, Lion"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/fichte__hubert_id",
+      "prefLabel": {
+        "de": "Fichte, Hubert"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/flemming__paul_id",
+      "prefLabel": {
+        "de": "Flemming, Paul"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/fontane__theodor_id",
+      "prefLabel": {
+        "de": "Fontane, Theodor"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/freiligrath__ferdinand_id",
+      "prefLabel": {
+        "de": "Freiligrath, Ferdinand"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/freytag__gustav_id",
+      "prefLabel": {
+        "de": "Freytag, Gustav"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/fried__erich_id",
+      "prefLabel": {
+        "de": "Fried, Erich"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/friedländer__salomon_id",
+      "prefLabel": {
+        "de": "Friedländer, Salomon"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/fries__fritz_rudolf_id",
+      "prefLabel": {
+        "de": "Fries, Fritz Rudolf"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/frisch__max_id",
+      "prefLabel": {
+        "de": "Frisch, Max"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/fuchs__günter_bruno_id",
+      "prefLabel": {
+        "de": "Fuchs, Günter Bruno"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/fährmann__willi_id",
+      "prefLabel": {
+        "de": "Fährmann, Willi"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/fühmann__franz_id",
+      "prefLabel": {
+        "de": "Fühmann, Franz"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/geibel__emanuel_id",
+      "prefLabel": {
+        "de": "Geibel, Emanuel"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/gellert__christian_fürchtegott_id",
+      "prefLabel": {
+        "de": "Gellert, Christian Fürchtegott"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/georg__stefan_id",
+      "prefLabel": {
+        "de": "Georg, Stefan"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/gerhardt__paul_id",
+      "prefLabel": {
+        "de": "Gerhardt, Paul"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/glaßbrenner__adolf_id",
+      "prefLabel": {
+        "de": "Glaßbrenner, Adolf"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/gleim__johann_wilhelm_ludwig_id",
+      "prefLabel": {
+        "de": "Gleim, Johann Wilhelm Ludwig"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/goes__albrecht_id",
+      "prefLabel": {
+        "de": "Goes, Albrecht"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/goethe__johann_wolfgang_von_id",
+      "prefLabel": {
+        "de": "Goethe, Johann Wolfgang von"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/goetz__curt_id",
+      "prefLabel": {
+        "de": "Goetz, Curt"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/gotthelf__jeremias_id",
+      "prefLabel": {
+        "de": "Gotthelf, Jeremias"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/grabbe__christian_dietrich_id",
+      "prefLabel": {
+        "de": "Grabbe, Christian Dietrich"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/graf__oskar_maria_id",
+      "prefLabel": {
+        "de": "Graf, Oskar Maria"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/grashoff__fritz_id",
+      "prefLabel": {
+        "de": "Grashoff, Fritz"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/grass__günter_id",
+      "prefLabel": {
+        "de": "Grass, Günter"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/greif__martin_id",
+      "prefLabel": {
+        "de": "Greif, Martin"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/gressmann__uwe_id",
+      "prefLabel": {
+        "de": "Gressmann, Uwe"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/grillparzer__franz_id",
+      "prefLabel": {
+        "de": "Grillparzer, Franz"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/grimm_gebrüder_id",
+      "prefLabel": {
+        "de": "Grimm (Gebrüder)"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/grimmelshausen__johann_jacob_christoph_von_id",
+      "prefLabel": {
+        "de": "Grimmelshausen, Johann Jacob Christoph von"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/grozh__klaus_id",
+      "prefLabel": {
+        "de": "Grozh, Klaus"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/gryphius__andreas_id",
+      "prefLabel": {
+        "de": "Gryphius, Andreas"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/grün__anastasius_id",
+      "prefLabel": {
+        "de": "Grün, Anastasius"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/grün__max_von_der_id",
+      "prefLabel": {
+        "de": "Grün, Max von der"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/hacks__peter_id",
+      "prefLabel": {
+        "de": "Hacks, Peter"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/haffner__sebastian_id",
+      "prefLabel": {
+        "de": "Haffner, Sebastian"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/hagedorn__friedrich_von_id",
+      "prefLabel": {
+        "de": "Hagedorn, Friedrich von"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/hagelstange__rudolf_id",
+      "prefLabel": {
+        "de": "Hagelstange, Rudolf"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/hahn__ulla_id",
+      "prefLabel": {
+        "de": "Hahn, Ulla"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/handke__peter_id",
+      "prefLabel": {
+        "de": "Handke, Peter"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/hansjakob__heinrich_id",
+      "prefLabel": {
+        "de": "Hansjakob, Heinrich"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/hartmann_von_aue_id",
+      "prefLabel": {
+        "de": "Hartmann von Aue"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/hartung__hugo_id",
+      "prefLabel": {
+        "de": "Hartung, Hugo"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/hasenclever__walter_id",
+      "prefLabel": {
+        "de": "Hasenclever, Walter"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/hauff__wilhelm_id",
+      "prefLabel": {
+        "de": "Hauff, Wilhelm"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/hauptmann__gerhart_id",
+      "prefLabel": {
+        "de": "Hauptmann, Gerhart"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/hausmann__manfred_id",
+      "prefLabel": {
+        "de": "Hausmann, Manfred"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/hebbel__friedrich_id",
+      "prefLabel": {
+        "de": "Hebbel, Friedrich"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/hebel__johann_peter_id",
+      "prefLabel": {
+        "de": "Hebel, Johann Peter"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/heidenreich__elke_id",
+      "prefLabel": {
+        "de": "Heidenreich, Elke"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/heiduczek__werner_id",
+      "prefLabel": {
+        "de": "Heiduczek, Werner"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/hein__christoph_id",
+      "prefLabel": {
+        "de": "Hein, Christoph"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/heine__heinrich_id",
+      "prefLabel": {
+        "de": "Heine, Heinrich"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/heine__helme_id",
+      "prefLabel": {
+        "de": "Heine, Helme"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/heißenbüttel__helmut_id",
+      "prefLabel": {
+        "de": "Heißenbüttel, Helmut"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/herder__johann_gottfried_von_id",
+      "prefLabel": {
+        "de": "Herder, Johann Gottfried von"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/hermlin__stephan_id",
+      "prefLabel": {
+        "de": "Hermlin, Stephan"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/herrmannneisse__max_id",
+      "prefLabel": {
+        "de": "HerrmannNeisse, Max"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/herzl__theodor_id",
+      "prefLabel": {
+        "de": "Herzl, Theodor"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/hesse__hermann_id",
+      "prefLabel": {
+        "de": "Hesse, Hermann"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/heym__georg_id",
+      "prefLabel": {
+        "de": "Heym, Georg"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/heym__stefan_id",
+      "prefLabel": {
+        "de": "Heym, Stefan"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/hildebrandt__dieter_id",
+      "prefLabel": {
+        "de": "Hildebrandt, Dieter"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/hildesheimer__wolfgang_id",
+      "prefLabel": {
+        "de": "Hildesheimer, Wolfgang"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/hirschberg__dieter_id",
+      "prefLabel": {
+        "de": "Hirschberg, Dieter"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/hochhuth__rolf_id",
+      "prefLabel": {
+        "de": "Hochhuth, Rolf"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/hoerschelmann__fred_von_id",
+      "prefLabel": {
+        "de": "Hoerschelmann, Fred von"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/hoffmann__ernst_theodor_amadeus_id",
+      "prefLabel": {
+        "de": "Hoffmann, Ernst Theodor Amadeus"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/hoffmann_von_fallersleben_id",
+      "prefLabel": {
+        "de": "Hoffmann von Fallersleben"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/hofmannsthal__hugo_von_id",
+      "prefLabel": {
+        "de": "Hofmannsthal, Hugo von"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/holz__arno_id",
+      "prefLabel": {
+        "de": "Holz, Arno"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/horn__sabine_id",
+      "prefLabel": {
+        "de": "Horn, Sabine"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/horvath__ödön_von_id",
+      "prefLabel": {
+        "de": "Horvath, Ödön von"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/huchel__peter_id",
+      "prefLabel": {
+        "de": "Huchel, Peter"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/humboldt__wilhelm_von_id",
+      "prefLabel": {
+        "de": "Humboldt, Wilhelm von"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/härtling__peter_id",
+      "prefLabel": {
+        "de": "Härtling, Peter"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/hölderlin__friedrich_id",
+      "prefLabel": {
+        "de": "Hölderlin, Friedrich"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/höllerer__walter_id",
+      "prefLabel": {
+        "de": "Höllerer, Walter"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/hölty__ludwig_heinrich_id",
+      "prefLabel": {
+        "de": "Hölty, Ludwig Heinrich"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/hüsch__hanns_dieter_id",
+      "prefLabel": {
+        "de": "Hüsch, Hanns Dieter"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/jandl__ernst_id",
+      "prefLabel": {
+        "de": "Jandl, Ernst"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/janisch__heinz_id",
+      "prefLabel": {
+        "de": "Janisch, Heinz"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/janosch_id",
+      "prefLabel": {
+        "de": "Janosch"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/jelinek__elfriede_id",
+      "prefLabel": {
+        "de": "Jelinek, Elfriede"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/jens__walter_id",
+      "prefLabel": {
+        "de": "Jens, Walter"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/jesenska__milena_id",
+      "prefLabel": {
+        "de": "Jesenska, Milena"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/johnson__uwe_id",
+      "prefLabel": {
+        "de": "Johnson, Uwe"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/jone__hildegard_id",
+      "prefLabel": {
+        "de": "Jone, Hildegard"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/joos__louis_id",
+      "prefLabel": {
+        "de": "Joos, Louis"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/jünger__ernst_id",
+      "prefLabel": {
+        "de": "Jünger, Ernst"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/kafka__franz_id",
+      "prefLabel": {
+        "de": "Kafka, Franz"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/kahlau__heinz_id",
+      "prefLabel": {
+        "de": "Kahlau, Heinz"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/kaléko__mascha_id",
+      "prefLabel": {
+        "de": "Kaléko, Mascha"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/kammrad__horst_id",
+      "prefLabel": {
+        "de": "Kammrad, Horst"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/kant__hermann_id",
+      "prefLabel": {
+        "de": "Kant, Hermann"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/kaschnitz__marie_luise_id",
+      "prefLabel": {
+        "de": "Kaschnitz, Marie Luise"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/kaub__hannelore_id",
+      "prefLabel": {
+        "de": "Kaub, Hannelore"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/keller__gottfried_id",
+      "prefLabel": {
+        "de": "Keller, Gottfried"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/kempowski__walter_id",
+      "prefLabel": {
+        "de": "Kempowski, Walter"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/kerne__gabriele_id",
+      "prefLabel": {
+        "de": "Kerne, Gabriele"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/kerner__justinus_id",
+      "prefLabel": {
+        "de": "Kerner, Justinus"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/kerr__alfred_id",
+      "prefLabel": {
+        "de": "Kerr, Alfred"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/keun__irmgard_id",
+      "prefLabel": {
+        "de": "Keun, Irmgard"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/kleist__heinrich_von_id",
+      "prefLabel": {
+        "de": "Kleist, Heinrich von"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/klepper__jochen_id",
+      "prefLabel": {
+        "de": "Klepper, Jochen"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/klopstock__friedrich_gottlieb_id",
+      "prefLabel": {
+        "de": "Klopstock, Friedrich Gottlieb"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/kluge__alexander_id",
+      "prefLabel": {
+        "de": "Kluge, Alexander"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/klüger__ruth_id",
+      "prefLabel": {
+        "de": "Klüger, Ruth"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/kordon__klaus_id",
+      "prefLabel": {
+        "de": "Kordon, Klaus"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/kraus__karl_id",
+      "prefLabel": {
+        "de": "Kraus, Karl"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/kreisler__georg_id",
+      "prefLabel": {
+        "de": "Kreisler, Georg"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/kroetz__franz_xaver_id",
+      "prefLabel": {
+        "de": "Kroetz, Franz Xaver"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/krolow__karl_id",
+      "prefLabel": {
+        "de": "Krolow, Karl"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/krüss__james_id",
+      "prefLabel": {
+        "de": "Krüss, James"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/kunert__günter_id",
+      "prefLabel": {
+        "de": "Kunert, Günter"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/kunert__maja_id",
+      "prefLabel": {
+        "de": "Kunert, Maja"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/kunze__reiner_id",
+      "prefLabel": {
+        "de": "Kunze, Reiner"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/kunzendorf__franz_id",
+      "prefLabel": {
+        "de": "Kunzendorf, Franz"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/kästner__erich_id",
+      "prefLabel": {
+        "de": "Kästner, Erich"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/käufer__hugo_ernst_id",
+      "prefLabel": {
+        "de": "Käufer, Hugo Ernst"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/könig__joel_id",
+      "prefLabel": {
+        "de": "König, Joel"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/königsdorf__helga_id",
+      "prefLabel": {
+        "de": "Königsdorf, Helga"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/köpf__gerhard_id",
+      "prefLabel": {
+        "de": "Köpf, Gerhard"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/kövary__georg_id",
+      "prefLabel": {
+        "de": "Kövary, Georg"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/laabs__joochen_id",
+      "prefLabel": {
+        "de": "Laabs, Joochen"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/landau__lola_id",
+      "prefLabel": {
+        "de": "Landau, Lola"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/langemüller__katja_id",
+      "prefLabel": {
+        "de": "LangeMüller, Katja"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/laskerschüler__else_id",
+      "prefLabel": {
+        "de": "LaskerSchüler, Else"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/lehmann__wilhelm_id",
+      "prefLabel": {
+        "de": "Lehmann, Wilhelm"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/leip__hans_id",
+      "prefLabel": {
+        "de": "Leip, Hans"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/lenau__nikolaus_id",
+      "prefLabel": {
+        "de": "Lenau, Nikolaus"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/lenz__jakob_michael_id",
+      "prefLabel": {
+        "de": "Lenz, Jakob Michael"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/lenz__siegfried_id",
+      "prefLabel": {
+        "de": "Lenz, Siegfried"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/lessing__gotthold_ephraim_id",
+      "prefLabel": {
+        "de": "Lessing, Gotthold Ephraim"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/lettau__reinhard_id",
+      "prefLabel": {
+        "de": "Lettau, Reinhard"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/lewinsky__charles_id",
+      "prefLabel": {
+        "de": "Lewinsky, Charles"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/liebmann__irina_id",
+      "prefLabel": {
+        "de": "Liebmann, Irina"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/liliencron__detlev_von_id",
+      "prefLabel": {
+        "de": "Liliencron, Detlev von"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/limpert__richard_id",
+      "prefLabel": {
+        "de": "Limpert, Richard"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/lind__jakov_id",
+      "prefLabel": {
+        "de": "Lind, Jakov"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/linde__otto_zur_id",
+      "prefLabel": {
+        "de": "Linde, Otto zur"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/loerke__oskar_id",
+      "prefLabel": {
+        "de": "Loerke, Oskar"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/loest__erich_id",
+      "prefLabel": {
+        "de": "Loest, Erich"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/loriot_id",
+      "prefLabel": {
+        "de": "Loriot"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/ludwig__volker_id",
+      "prefLabel": {
+        "de": "Ludwig, Volker"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/lutz__werner_id",
+      "prefLabel": {
+        "de": "Lutz, Werner"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/maar__paul_id",
+      "prefLabel": {
+        "de": "Maar, Paul"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/mancinelli__laura_id",
+      "prefLabel": {
+        "de": "Mancinelli, Laura"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/mann__erika_id",
+      "prefLabel": {
+        "de": "Mann, Erika"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/mann__heinrich_id",
+      "prefLabel": {
+        "de": "Mann, Heinrich"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/mann__klaus_id",
+      "prefLabel": {
+        "de": "Mann, Klaus"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/mann__thomas_id",
+      "prefLabel": {
+        "de": "Mann, Thomas"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/marchwitza__hans_id",
+      "prefLabel": {
+        "de": "Marchwitza, Hans"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/maron__marion_id",
+      "prefLabel": {
+        "de": "Maron, Marion"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/may__karl_id",
+      "prefLabel": {
+        "de": "May, Karl"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/mayer__hans_id",
+      "prefLabel": {
+        "de": "Mayer, Hans"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/mayröcker__friedericke_id",
+      "prefLabel": {
+        "de": "Mayröcker, Friedericke"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/meckel__christoph_id",
+      "prefLabel": {
+        "de": "Meckel, Christoph"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/mehring__walter_id",
+      "prefLabel": {
+        "de": "Mehring, Walter"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/meichsner__dieter_id",
+      "prefLabel": {
+        "de": "Meichsner, Dieter"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/mell__max_id",
+      "prefLabel": {
+        "de": "Mell, Max"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/meyer__conrad_ferdinand_id",
+      "prefLabel": {
+        "de": "Meyer, Conrad Ferdinand"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/meyerwehlack__benno_id",
+      "prefLabel": {
+        "de": "MeyerWehlack, Benno"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/miegel__agnes_id",
+      "prefLabel": {
+        "de": "Miegel, Agnes"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/mitgutsch__ali_id",
+      "prefLabel": {
+        "de": "Mitgutsch, Ali"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/moog__christa_id",
+      "prefLabel": {
+        "de": "Moog, Christa"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/morgenstern__christian_id",
+      "prefLabel": {
+        "de": "Morgenstern, Christian"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/mönckeberg__vilma_id",
+      "prefLabel": {
+        "de": "Mönckeberg, Vilma"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/mörike__eduard_id",
+      "prefLabel": {
+        "de": "Mörike, Eduard"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/müller__heiner_id",
+      "prefLabel": {
+        "de": "Müller, Heiner"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/münchhausen__börries_von_id",
+      "prefLabel": {
+        "de": "Münchhausen, Börries von"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/nestroy__johann_id",
+      "prefLabel": {
+        "de": "Nestroy, Johann"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/neumann__günter_id",
+      "prefLabel": {
+        "de": "Neumann, Günter"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/nietzsche__friedrich_id",
+      "prefLabel": {
+        "de": "Nietzsche, Friedrich"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/novak__helga_m._id",
+      "prefLabel": {
+        "de": "Novak, Helga M."
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/novalis_id",
+      "prefLabel": {
+        "de": "Novalis"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/nöstlinger__christine_id",
+      "prefLabel": {
+        "de": "Nöstlinger, Christine"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/opitz__martin_id",
+      "prefLabel": {
+        "de": "Opitz, Martin"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/ossowski__leonie_id",
+      "prefLabel": {
+        "de": "Ossowski, Leonie"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/pastior__oskar_id",
+      "prefLabel": {
+        "de": "Pastior, Oskar"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/pausewang__gudrun_id",
+      "prefLabel": {
+        "de": "Pausewang, Gudrun"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/pfeffel__gottlieb_konrad_id",
+      "prefLabel": {
+        "de": "Pfeffel, Gottlieb Konrad"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/pietraß__richard_id",
+      "prefLabel": {
+        "de": "Pietraß, Richard"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/piontek__heinz_id",
+      "prefLabel": {
+        "de": "Piontek, Heinz"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/planzdorf__ulrich_id",
+      "prefLabel": {
+        "de": "Planzdorf, Ulrich"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/platen__august_von_id",
+      "prefLabel": {
+        "de": "Platen, August von"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/pludra__benno_id",
+      "prefLabel": {
+        "de": "Pludra, Benno"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/preussler__otfried_id",
+      "prefLabel": {
+        "de": "Preussler, Otfried"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/reben__evelyn_id",
+      "prefLabel": {
+        "de": "Reben, Evelyn"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/reinig__christa_id",
+      "prefLabel": {
+        "de": "Reinig, Christa"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/reisner__stefan_id",
+      "prefLabel": {
+        "de": "Reisner, Stefan"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/remarque__erich_maria_id",
+      "prefLabel": {
+        "de": "Remarque, Erich Maria"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/reutter__otto_id",
+      "prefLabel": {
+        "de": "Reutter, Otto"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/rilke__rainer_maria_id",
+      "prefLabel": {
+        "de": "Rilke, Rainer Maria"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/ringelnatz__joachim_id",
+      "prefLabel": {
+        "de": "Ringelnatz, Joachim"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/rosendorfer__herbert_id",
+      "prefLabel": {
+        "de": "Rosendorfer, Herbert"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/rosh__lea_id",
+      "prefLabel": {
+        "de": "Rosh, Lea"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/roth__eugen_id",
+      "prefLabel": {
+        "de": "Roth, Eugen"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/roth__joseph_id",
+      "prefLabel": {
+        "de": "Roth, Joseph"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/ruge__helmut_id",
+      "prefLabel": {
+        "de": "Ruge, Helmut"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/rühmkorf__peter_id",
+      "prefLabel": {
+        "de": "Rühmkorf, Peter"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/sachs__hans_id",
+      "prefLabel": {
+        "de": "Sachs, Hans"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/scharang__michael_id",
+      "prefLabel": {
+        "de": "Scharang, Michael"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/scharpenberg__margot_id",
+      "prefLabel": {
+        "de": "Scharpenberg, Margot"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/schiller__friedrich_von_id",
+      "prefLabel": {
+        "de": "Schiller, Friedrich von"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/schlegel__august_wilhelm_von_id",
+      "prefLabel": {
+        "de": "Schlegel, August Wilhelm von"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/schlegel__friedrich_von_id",
+      "prefLabel": {
+        "de": "Schlegel, Friedrich von"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/schnabel__ernst_id",
+      "prefLabel": {
+        "de": "Schnabel, Ernst"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/schneider__reinhold_id",
+      "prefLabel": {
+        "de": "Schneider, Reinhold"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/schnitzler__arthur_id",
+      "prefLabel": {
+        "de": "Schnitzler, Arthur"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/schnurre__wolfdietrich_id",
+      "prefLabel": {
+        "de": "Schnurre, Wolfdietrich"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/scholz__hans_id",
+      "prefLabel": {
+        "de": "Scholz, Hans"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/schröder__rudolf_alexander_id",
+      "prefLabel": {
+        "de": "Schröder, Rudolf Alexander"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/schubart__christian_friedrich_daniel_id",
+      "prefLabel": {
+        "de": "Schubart, Christian Friedrich Daniel"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/schubert__dieter_id",
+      "prefLabel": {
+        "de": "Schubert, Dieter"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/schubert__helga_id",
+      "prefLabel": {
+        "de": "Schubert, Helga"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/schubert__ingrid_id",
+      "prefLabel": {
+        "de": "Schubert, Ingrid"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/schücking__levin_id",
+      "prefLabel": {
+        "de": "Schücking, Levin"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/segelrecht__dieter_id",
+      "prefLabel": {
+        "de": "Segelrecht, Dieter"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/seghers__anna_id",
+      "prefLabel": {
+        "de": "Seghers, Anna"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/seidel__heinrich_id",
+      "prefLabel": {
+        "de": "Seidel, Heinrich"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/senger__valentin_id",
+      "prefLabel": {
+        "de": "Senger, Valentin"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/seuren__günter_id",
+      "prefLabel": {
+        "de": "Seuren, Günter"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/simmel__johannes_mario_id",
+      "prefLabel": {
+        "de": "Simmel, Johannes Mario"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/sommerbodenburg__angela_id",
+      "prefLabel": {
+        "de": "SommerBodenburg, Angela"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/spoerl__heinrich_id",
+      "prefLabel": {
+        "de": "Spoerl, Heinrich"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/spohn__jürgen_id",
+      "prefLabel": {
+        "de": "Spohn, Jürgen"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/spyri__johanna_id",
+      "prefLabel": {
+        "de": "Spyri, Johanna"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/späth__gerold_id",
+      "prefLabel": {
+        "de": "Späth, Gerold"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/stadler__ernst_id",
+      "prefLabel": {
+        "de": "Stadler, Ernst"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/stamm__peter_id",
+      "prefLabel": {
+        "de": "Stamm, Peter"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/stein__charlotte_von_id",
+      "prefLabel": {
+        "de": "Stein, Charlotte von"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/sternheim__carl_id",
+      "prefLabel": {
+        "de": "Sternheim, Carl"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/stifter__adalbert_id",
+      "prefLabel": {
+        "de": "Stifter, Adalbert"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/stolberg__friedrich_leopold_zu_id",
+      "prefLabel": {
+        "de": "Stolberg, Friedrich Leopold zu"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/stoye__rüdiger_id",
+      "prefLabel": {
+        "de": "Stoye, Rüdiger"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/stramm__august_id",
+      "prefLabel": {
+        "de": "Stramm, August"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/strauß_und_torney__lulu_von_id",
+      "prefLabel": {
+        "de": "Strauß und Torney, Lulu von"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/strittmatter__thomas_id",
+      "prefLabel": {
+        "de": "Strittmatter, Thomas"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/strom__theodor_id",
+      "prefLabel": {
+        "de": "Strom, Theodor"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/tergit__gabriele_id",
+      "prefLabel": {
+        "de": "Tergit, Gabriele"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/tetzner__lisa_id",
+      "prefLabel": {
+        "de": "Tetzner, Lisa"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/thenior__ralf_id",
+      "prefLabel": {
+        "de": "Thenior, Ralf"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/thoma__ludwig_id",
+      "prefLabel": {
+        "de": "Thoma, Ludwig"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/timm__uwe_id",
+      "prefLabel": {
+        "de": "Timm, Uwe"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/trakl__georg_id",
+      "prefLabel": {
+        "de": "Trakl, Georg"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/traven__bernhard_id",
+      "prefLabel": {
+        "de": "Traven, Bernhard"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/tucholsky__kurt_id",
+      "prefLabel": {
+        "de": "Tucholsky, Kurt"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/turrini__peter_id",
+      "prefLabel": {
+        "de": "Turrini, Peter"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/uhland__ludwig_id",
+      "prefLabel": {
+        "de": "Uhland, Ludwig"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/vanderbeke__birgit_id",
+      "prefLabel": {
+        "de": "Vanderbeke, Birgit"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/viebig__clara_id",
+      "prefLabel": {
+        "de": "Viebig, Clara"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/vogel__jakob_id",
+      "prefLabel": {
+        "de": "Vogel, Jakob"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/vrkljan__irena_id",
+      "prefLabel": {
+        "de": "Vrkljan, Irena"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/waechter__friedrich_karl_id",
+      "prefLabel": {
+        "de": "Waechter, Friedrich Karl"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/wagenbach__klaus_id",
+      "prefLabel": {
+        "de": "Wagenbach, Klaus"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/waggerl__karl_heinrich_id",
+      "prefLabel": {
+        "de": "Waggerl, Karl Heinrich"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/wagner__bernd_id",
+      "prefLabel": {
+        "de": "Wagner, Bernd"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/walden__matthias_id",
+      "prefLabel": {
+        "de": "Walden, Matthias"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/waldis__burkhart_id",
+      "prefLabel": {
+        "de": "Waldis, Burkhart"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/wallraff__günter_id",
+      "prefLabel": {
+        "de": "Wallraff, Günter"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/walser__martin_id",
+      "prefLabel": {
+        "de": "Walser, Martin"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/walther__joachim_id",
+      "prefLabel": {
+        "de": "Walther, Joachim"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/walther_von_der_vogelweide_id",
+      "prefLabel": {
+        "de": "Walther von der Vogelweide"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/wedekind__frank_id",
+      "prefLabel": {
+        "de": "Wedekind, Frank"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/weerth__georg_id",
+      "prefLabel": {
+        "de": "Weerth, Georg"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/weinherber__josef_id",
+      "prefLabel": {
+        "de": "Weinherber, Josef"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/weiss__peter_id",
+      "prefLabel": {
+        "de": "Weiss, Peter"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/werfel__franz_id",
+      "prefLabel": {
+        "de": "Werfel, Franz"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/wernher_der_gartenaere_id",
+      "prefLabel": {
+        "de": "Wernher der Gartenaere"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/weyrauch__wolfgang_id",
+      "prefLabel": {
+        "de": "Weyrauch, Wolfgang"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/wickert__erwin_id",
+      "prefLabel": {
+        "de": "Wickert, Erwin"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/wiechert__ernst_id",
+      "prefLabel": {
+        "de": "Wiechert, Ernst"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/wiens__paul_id",
+      "prefLabel": {
+        "de": "Wiens, Paul"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/wimschneider__anna_id",
+      "prefLabel": {
+        "de": "Wimschneider, Anna"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/wittgenstein__ludwig_id",
+      "prefLabel": {
+        "de": "Wittgenstein, Ludwig"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/wohmann__gabriele_id",
+      "prefLabel": {
+        "de": "Wohmann, Gabriele"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/wolf_christa_id",
+      "prefLabel": {
+        "de": "Wolf,Christa"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/wolfram_von_eschenbach_id",
+      "prefLabel": {
+        "de": "Wolfram von Eschenbach"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/wondratschek__wolf_id",
+      "prefLabel": {
+        "de": "Wondratschek, Wolf"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/ziegler__reinhold_id",
+      "prefLabel": {
+        "de": "Ziegler, Reinhold"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/zollinger__albin_id",
+      "prefLabel": {
+        "de": "Zollinger, Albin"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/zuckmayer__carl_id",
+      "prefLabel": {
+        "de": "Zuckmayer, Carl"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/zweig__max_id",
+      "prefLabel": {
+        "de": "Zweig, Max"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/zweig__stefan_id",
+      "prefLabel": {
+        "de": "Zweig, Stefan"
+      }
+    },
+    {
+      "id": "https://example-perma-id/deutsch_systematik/zwerenz__gerhard_id",
+      "prefLabel": {
+        "de": "Zwerenz, Gerhard"
+      }
+    }
+  ],
   "inScheme": {
     "id": "https://example-perma-id/deutsch_systematik/",
     "title": {

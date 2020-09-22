@@ -32,27 +32,9 @@
       }
     },
     {
-      "id": "https://example-perma-id/gesundheit_systematik/banting__frederick_id",
-      "prefLabel": {
-        "de": "Banting, Frederick"
-      }
-    },
-    {
-      "id": "https://example-perma-id/gesundheit_systematik/bauer__karl_heinrich_id",
-      "prefLabel": {
-        "de": "Bauer, Karl Heinrich"
-      }
-    },
-    {
       "id": "https://example-perma-id/gesundheit_systematik/behinderung_id",
       "prefLabel": {
         "de": "Behinderung"
-      }
-    },
-    {
-      "id": "https://example-perma-id/gesundheit_systematik/best__charles_id",
-      "prefLabel": {
-        "de": "Best, Charles"
       }
     },
     {
@@ -71,18 +53,6 @@
       "id": "https://example-perma-id/gesundheit_systematik/blutzucker_id",
       "prefLabel": {
         "de": "Blutzucker"
-      }
-    },
-    {
-      "id": "https://example-perma-id/gesundheit_systematik/brunschig__hieronymus_id",
-      "prefLabel": {
-        "de": "Brunschig, Hieronymus"
-      }
-    },
-    {
-      "id": "https://example-perma-id/gesundheit_systematik/carus__carl_gustav_id",
-      "prefLabel": {
-        "de": "Carus, Carl Gustav"
       }
     },
     {
@@ -116,24 +86,6 @@
       }
     },
     {
-      "id": "https://example-perma-id/gesundheit_systematik/eccles__john_id",
-      "prefLabel": {
-        "de": "Eccles, John"
-      }
-    },
-    {
-      "id": "https://example-perma-id/gesundheit_systematik/ehrlich__paul_id",
-      "prefLabel": {
-        "de": "Ehrlich, Paul"
-      }
-    },
-    {
-      "id": "https://example-perma-id/gesundheit_systematik/einthoven__willem_id",
-      "prefLabel": {
-        "de": "Einthoven, Willem"
-      }
-    },
-    {
       "id": "https://example-perma-id/gesundheit_systematik/ergometrie_id",
       "prefLabel": {
         "de": "Ergometrie"
@@ -149,12 +101,6 @@
       "id": "https://example-perma-id/gesundheit_systematik/fieber_id",
       "prefLabel": {
         "de": "Fieber"
-      }
-    },
-    {
-      "id": "https://example-perma-id/gesundheit_systematik/freud__sigmund_id",
-      "prefLabel": {
-        "de": "Freud, Sigmund"
       }
     },
     {
@@ -194,12 +140,6 @@
       }
     },
     {
-      "id": "https://example-perma-id/gesundheit_systematik/grof__stanislav_id",
-      "prefLabel": {
-        "de": "Grof, Stanislav"
-      }
-    },
-    {
       "id": "https://example-perma-id/gesundheit_systematik/impfung_id",
       "prefLabel": {
         "de": "Impfung"
@@ -218,33 +158,9 @@
       }
     },
     {
-      "id": "https://example-perma-id/gesundheit_systematik/jenner__edward_id",
-      "prefLabel": {
-        "de": "Jenner, Edward"
-      }
-    },
-    {
-      "id": "https://example-perma-id/gesundheit_systematik/kandel__eric_richard_id",
-      "prefLabel": {
-        "de": "Kandel, Eric Richard"
-      }
-    },
-    {
       "id": "https://example-perma-id/gesundheit_systematik/kindstod_id",
       "prefLabel": {
         "de": "Kindstod"
-      }
-    },
-    {
-      "id": "https://example-perma-id/gesundheit_systematik/kneipp__sebastian_id",
-      "prefLabel": {
-        "de": "Kneipp, Sebastian"
-      }
-    },
-    {
-      "id": "https://example-perma-id/gesundheit_systematik/kohut__heinz_id",
-      "prefLabel": {
-        "de": "Kohut, Heinz"
       }
     },
     {
@@ -266,18 +182,6 @@
       }
     },
     {
-      "id": "https://example-perma-id/gesundheit_systematik/küblerross__elisabeth_id",
-      "prefLabel": {
-        "de": "KüblerRoss, Elisabeth"
-      }
-    },
-    {
-      "id": "https://example-perma-id/gesundheit_systematik/landsteiner__karl_id",
-      "prefLabel": {
-        "de": "Landsteiner, Karl"
-      }
-    },
-    {
       "id": "https://example-perma-id/gesundheit_systematik/leiden_id",
       "prefLabel": {
         "de": "Leiden"
@@ -290,27 +194,9 @@
       }
     },
     {
-      "id": "https://example-perma-id/gesundheit_systematik/levitin__daniel_id",
-      "prefLabel": {
-        "de": "Levitin, Daniel"
-      }
-    },
-    {
-      "id": "https://example-perma-id/gesundheit_systematik/lister__joseph_id",
-      "prefLabel": {
-        "de": "Lister, Joseph"
-      }
-    },
-    {
       "id": "https://example-perma-id/gesundheit_systematik/logopädie_id",
       "prefLabel": {
         "de": "Logopädie"
-      }
-    },
-    {
-      "id": "https://example-perma-id/gesundheit_systematik/lückert__heinzrudiolf_id",
-      "prefLabel": {
-        "de": "Lückert, HeinzRudiolf"
       }
     },
     {
@@ -320,33 +206,9 @@
       }
     },
     {
-      "id": "https://example-perma-id/gesundheit_systematik/mayer__robert_id",
-      "prefLabel": {
-        "de": "Mayer, Robert"
-      }
-    },
-    {
       "id": "https://example-perma-id/gesundheit_systematik/medizinethik_id",
       "prefLabel": {
         "de": "Medizinethik"
-      }
-    },
-    {
-      "id": "https://example-perma-id/gesundheit_systematik/mitscherlich__alexander_id",
-      "prefLabel": {
-        "de": "Mitscherlich, Alexander"
-      }
-    },
-    {
-      "id": "https://example-perma-id/gesundheit_systematik/montesquieu_id",
-      "prefLabel": {
-        "de": "Montesquieu"
-      }
-    },
-    {
-      "id": "https://example-perma-id/gesundheit_systematik/morton__william_id",
-      "prefLabel": {
-        "de": "Morton, William"
       }
     },
     {
@@ -359,24 +221,6 @@
       "id": "https://example-perma-id/gesundheit_systematik/organspende_id",
       "prefLabel": {
         "de": "Organspende"
-      }
-    },
-    {
-      "id": "https://example-perma-id/gesundheit_systematik/paracelsus_id",
-      "prefLabel": {
-        "de": "Paracelsus"
-      }
-    },
-    {
-      "id": "https://example-perma-id/gesundheit_systematik/pawlow__iwan_petrowitsch_id",
-      "prefLabel": {
-        "de": "Pawlow, Iwan Petrowitsch"
-      }
-    },
-    {
-      "id": "https://example-perma-id/gesundheit_systematik/pettenkofer__max_von_id",
-      "prefLabel": {
-        "de": "Pettenkofer, Max von"
       }
     },
     {
@@ -410,27 +254,9 @@
       }
     },
     {
-      "id": "https://example-perma-id/gesundheit_systematik/ramón_y_cajal__santiago_felipe_id",
-      "prefLabel": {
-        "de": "Ramón y Cajal, Santiago Felipe"
-      }
-    },
-    {
-      "id": "https://example-perma-id/gesundheit_systematik/rank__otto_id",
-      "prefLabel": {
-        "de": "Rank, Otto"
-      }
-    },
-    {
       "id": "https://example-perma-id/gesundheit_systematik/rehabilitation_id",
       "prefLabel": {
         "de": "Rehabilitation"
-      }
-    },
-    {
-      "id": "https://example-perma-id/gesundheit_systematik/reich__wilhelm_id",
-      "prefLabel": {
-        "de": "Reich, Wilhelm"
       }
     },
     {
@@ -446,30 +272,6 @@
       }
     },
     {
-      "id": "https://example-perma-id/gesundheit_systematik/schweitzer__albert_id",
-      "prefLabel": {
-        "de": "Schweitzer, Albert"
-      }
-    },
-    {
-      "id": "https://example-perma-id/gesundheit_systematik/semmelweis__ignaz_philipp_id",
-      "prefLabel": {
-        "de": "Semmelweis, Ignaz Philipp"
-      }
-    },
-    {
-      "id": "https://example-perma-id/gesundheit_systematik/simpson__james_id",
-      "prefLabel": {
-        "de": "Simpson, James"
-      }
-    },
-    {
-      "id": "https://example-perma-id/gesundheit_systematik/steinmann__fritz_id",
-      "prefLabel": {
-        "de": "Steinmann, Fritz"
-      }
-    },
-    {
       "id": "https://example-perma-id/gesundheit_systematik/therapie_id",
       "prefLabel": {
         "de": "Therapie"
@@ -479,12 +281,6 @@
       "id": "https://example-perma-id/gesundheit_systematik/toxikologie_id",
       "prefLabel": {
         "de": "Toxikologie"
-      }
-    },
-    {
-      "id": "https://example-perma-id/gesundheit_systematik/trott_zu_solz__claritta_von_id",
-      "prefLabel": {
-        "de": "Trott zu Solz, Claritta von"
       }
     },
     {
@@ -506,12 +302,6 @@
       }
     },
     {
-      "id": "https://example-perma-id/gesundheit_systematik/virchow__rudolf_id",
-      "prefLabel": {
-        "de": "Virchow, Rudolf"
-      }
-    },
-    {
       "id": "https://example-perma-id/gesundheit_systematik/viren_krankheitserreger_id",
       "prefLabel": {
         "de": "Viren (Krankheitserreger)"
@@ -521,18 +311,6 @@
       "id": "https://example-perma-id/gesundheit_systematik/vorsorgeuntersuchung_id",
       "prefLabel": {
         "de": "Vorsorgeuntersuchung"
-      }
-    },
-    {
-      "id": "https://example-perma-id/gesundheit_systematik/wertheimer__max_id",
-      "prefLabel": {
-        "de": "Wertheimer, Max"
-      }
-    },
-    {
-      "id": "https://example-perma-id/gesundheit_systematik/ylppó__arvo_henrik_id",
-      "prefLabel": {
-        "de": "Ylppó, Arvo Henrik"
       }
     },
     {

@@ -6,14 +6,17 @@
   "prefLabel": {
     "de": "Braille, Louis"
   },
+  "broader": {
+    "id": "https://example-perma-id/informationstechnische_bildung_systematik/personen_id",
+    "prefLabel": {
+      "de": "Personen"
+    }
+  },
   "inScheme": {
     "id": "https://example-perma-id/informationstechnische_bildung_systematik/",
     "title": {
       "de": "informationstechnische_bildung_systematik"
     }
-  },
-  "topConceptOf": {
-    "id": "https://example-perma-id/informationstechnische_bildung_systematik/"
   },
   "@context": {
     "id": "@id",

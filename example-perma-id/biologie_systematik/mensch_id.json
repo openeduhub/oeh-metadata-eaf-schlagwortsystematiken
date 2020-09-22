@@ -50,6 +50,12 @@
       }
     },
     {
+      "id": "https://example-perma-id/biologie_systematik/körperbau_mensch_id",
+      "prefLabel": {
+        "de": "Körperbau (Mensch)"
+      }
+    },
+    {
       "id": "https://example-perma-id/biologie_systematik/mann_id",
       "prefLabel": {
         "de": "Mann"

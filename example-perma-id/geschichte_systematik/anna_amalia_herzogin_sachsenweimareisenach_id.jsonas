@@ -7,7 +7,7 @@
   },
   "id": "https://test.skohub.io/oeh-metadata-eaf-schlagwortsystematikenexample-perma-id/geschichte_systematik/anna_amalia_herzogin_sachsenweimareisenach_id",
   "type": "Service",
-  "name": "Anna Amalia (Herzogin Sachsen-Weimar-Eisenach)",
+  "name": "Anna Amalia (Herzogin SachsenWeimarEisenach)",
   "preferredUsername": "2f6f65682d6d657461646174612d6561662d7363686c6167776f727473797374656d6174696b656e6578616d706c652d7065726d612d69642f676573636869636874655f73797374656d6174696b2f616e6e615f616d616c69615f6865727a6f67696e5f7361636873656e7765696d6172656973656e6163685f6964",
   "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fgeschichte_systematik%2Fanna_amalia_herzogin_sachsenweimareisenach_id",
   "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fgeschichte_systematik%2Fanna_amalia_herzogin_sachsenweimareisenach_id",

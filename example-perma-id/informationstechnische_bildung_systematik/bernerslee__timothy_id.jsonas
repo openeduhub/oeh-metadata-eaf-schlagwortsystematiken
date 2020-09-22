@@ -7,7 +7,7 @@
   },
   "id": "https://test.skohub.io/oeh-metadata-eaf-schlagwortsystematikenexample-perma-id/informationstechnische_bildung_systematik/bernerslee__timothy_id",
   "type": "Service",
-  "name": "Berners-Lee, Timothy",
+  "name": "BernersLee, Timothy",
   "preferredUsername": "2f6f65682d6d657461646174612d6561662d7363686c6167776f727473797374656d6174696b656e6578616d706c652d7065726d612d69642f696e666f726d6174696f6e73746563686e69736368655f62696c64756e675f73797374656d6174696b2f6265726e6572736c65655f5f74696d6f7468795f6964",
   "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Finformationstechnische_bildung_systematik%2Fbernerslee__timothy_id",
   "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Finformationstechnische_bildung_systematik%2Fbernerslee__timothy_id",

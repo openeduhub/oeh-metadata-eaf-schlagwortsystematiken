@@ -7,7 +7,7 @@
   },
   "id": "https://test.skohub.io/oeh-metadata-eaf-schlagwortsystematikenexample-perma-id/fremdsprachen_systematik/rahlens__hollyjane_id",
   "type": "Service",
-  "name": "Rahlens, Holly-Jane",
+  "name": "Rahlens, HollyJane",
   "preferredUsername": "2f6f65682d6d657461646174612d6561662d7363686c6167776f727473797374656d6174696b656e6578616d706c652d7065726d612d69642f6672656d64737072616368656e5f73797374656d6174696b2f7261686c656e735f5f686f6c6c796a616e655f6964",
   "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Ffremdsprachen_systematik%2Frahlens__hollyjane_id",
   "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Ffremdsprachen_systematik%2Frahlens__hollyjane_id",

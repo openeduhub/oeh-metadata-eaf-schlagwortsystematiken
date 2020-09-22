@@ -6,11 +6,6 @@
   "prefLabel": {
     "de": "Weihnachten"
   },
-  "narrower": [
-    {
-      "id": "https://example-perma-id/religion_systematik/_id"
-    }
-  ],
   "broader": {
     "id": "https://example-perma-id/religion_systematik/kirchenjahr_id",
     "prefLabel": {
