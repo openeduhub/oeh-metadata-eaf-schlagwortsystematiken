@@ -7,7 +7,7 @@
   },
   "id": "https://test.skohub.io/oeh-metadata-eaf-schlagwortsystematikenexample-perma-id/deutsch_systematik/literaturepochen_id",
   "type": "Service",
-  "name": "Literaturepochen)",
+  "name": "Literaturepochen",
   "preferredUsername": "2f6f65682d6d657461646174612d6561662d7363686c6167776f727473797374656d6174696b656e6578616d706c652d7065726d612d69642f646575747363685f73797374656d6174696b2f6c697465726174757265706f6368656e5f6964",
   "inbox": "https://test.skohub.io/inbox?target=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fdeutsch_systematik%2Fliteraturepochen_id",
   "followers": "https://test.skohub.io/followers?subject=%2Foeh-metadata-eaf-schlagwortsystematikenexample-perma-id%2Fdeutsch_systematik%2Fliteraturepochen_id",

@@ -8,12 +8,6 @@
   },
   "narrower": [
     {
-      "id": "https://example-perma-id/deutsch_systematik/_id",
-      "prefLabel": {
-        "de": "-"
-      }
-    },
-    {
       "id": "https://example-perma-id/deutsch_systematik/achternbusch__herbert_id",
       "prefLabel": {
         "de": "Achternbusch, Herbert"
