@@ -4,7 +4,13 @@ from os.path import isfile, join
 from rdflib import Graph, Literal, Namespace, RDF, URIRef
 from rdflib.namespace import SKOS, DCTERMS
 import re
+from argparse import ArgumentParser
 
+parser = ArgumentParser()
+parser.add_argument("-f", "--file", dest="filename", nargs='+',
+                    help="files to be converted, use 'all' to convert all files", metavar="FILE")
+
+args = parser.parse_args()
 
 class Node:
     def __init__(self, _id=None, val=None):
@@ -27,8 +33,11 @@ def before(value, a):
     except AttributeError:
         return ''
 
-
-files = [f for f in listdir('data/txt') if isfile(join('data/txt', f))]
+# check if arguments were passed
+if len(args.filename) > 0 and "all" not in args.filename:
+    files = args.filename
+else:
+    files = [f for f in listdir('data/txt') if isfile(join('data/txt', f))]
 
 for _file in files:
     print(f'file is {_file}')
