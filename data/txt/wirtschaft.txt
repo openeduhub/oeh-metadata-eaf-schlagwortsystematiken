@@ -1,5 +1,5 @@
 W I R T S C H A F T
-											
+
 Wirtschaft
 -Außenwirtschaft
 	--Außenhandel
@@ -34,8 +34,6 @@ Wirtschaftpolitik
 				-----Euro-Rettungsschirm
 			----Währungsreform
 			----Währungsunion
------Euro
-					------Euro-Rettungsschirm
 		---Wechselkurs
 	--Girokonto
 	--Kredit

@@ -1,87 +1,87 @@
-@base <https://example-perma-id/sexualerziehung_systematik/> .
 @prefix dct: <http://purl.org/dc/terms/> .
+@prefix sexualerziehung: <http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/sexualerziehung/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<fortpflanzung_mensch_id> a skos:Concept ;
-    skos:broader <sexualerziehung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Fortpflanzung (Mensch)"@de .
-
-<homosexualität_id> a skos:Concept ;
-    skos:broader <sexualerziehung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Homosexualität"@de .
-
-<intersexualität_id> a skos:Concept ;
-    skos:broader <sexualerziehung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Intersexualität"@de .
-
-<inzest_id> a skos:Concept ;
-    skos:broader <sexualdelikt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Inzest"@de .
-
-<pornographie_id> a skos:Concept ;
-    skos:broader <sexualerziehung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Pornographie"@de .
-
-<pubertät_id> a skos:Concept ;
-    skos:broader <sexualerziehung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Pubertät"@de .
-
-<sexting_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Sexting"@de ;
-    skos:topConceptOf <> .
-
-<sexueller_missbrauch__id> a skos:Concept ;
-    skos:broader <sexualdelikt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Sexueller Missbrauch "@de .
-
-<transgender_id> a skos:Concept ;
-    skos:broader <sexualerziehung_id> ;
-    skos:inScheme <> ;
+sexualerziehung:00d60efe-7649-42be-9adf-50973c91bdd1 a skos:Concept ;
+    skos:broader sexualerziehung:eb5ad8e2-3c4c-4f18-bc7f-baca1a4b6bc4 ;
+    skos:inScheme sexualerziehung: ;
     skos:prefLabel "Transgender"@de .
 
-<verhütungsring_id> a skos:Concept ;
-    skos:broader <empfängnisverhütung_id> ;
-    skos:inScheme <> ;
+sexualerziehung:15aca0e3-97ae-4832-a8e1-94cc283dcc61 a skos:Concept ;
+    skos:broader sexualerziehung:3c90b1b3-8137-4568-852c-cb2258308d89 ;
+    skos:inScheme sexualerziehung: ;
     skos:prefLabel "Verhütungsring"@de .
 
-<empfängnisverhütung_id> a skos:Concept ;
-    skos:broader <sexualerziehung_id> ;
-    skos:inScheme <> ;
-    skos:narrower <verhütungsring_id> ;
+sexualerziehung:4d06e059-6a79-4984-b96d-180a8d142827 a skos:Concept ;
+    skos:broader sexualerziehung:eb5ad8e2-3c4c-4f18-bc7f-baca1a4b6bc4 ;
+    skos:inScheme sexualerziehung: ;
+    skos:prefLabel "Fortpflanzung (Mensch)"@de .
+
+sexualerziehung:60742519-e663-45ce-88ac-bee81d062396 a skos:Concept ;
+    skos:broader sexualerziehung:eb5ad8e2-3c4c-4f18-bc7f-baca1a4b6bc4 ;
+    skos:inScheme sexualerziehung: ;
+    skos:prefLabel "Intersexualität"@de .
+
+sexualerziehung:71e87b68-877d-48c7-bfe4-9b902bc51f1e a skos:Concept ;
+    skos:broader sexualerziehung:eb5ad8e2-3c4c-4f18-bc7f-baca1a4b6bc4 ;
+    skos:inScheme sexualerziehung: ;
+    skos:prefLabel "Homosexualität"@de .
+
+sexualerziehung:759a9d3d-1e8b-4cbc-b2e9-6ffc779a6b51 a skos:Concept ;
+    skos:broader sexualerziehung:f48ff367-e6e9-4827-9ac4-0b7c20114b8e ;
+    skos:inScheme sexualerziehung: ;
+    skos:prefLabel "Sexueller Missbrauch "@de .
+
+sexualerziehung:845bc5ae-a96b-48d7-84dd-d23eeecc5374 a skos:Concept ;
+    skos:broader sexualerziehung:eb5ad8e2-3c4c-4f18-bc7f-baca1a4b6bc4 ;
+    skos:inScheme sexualerziehung: ;
+    skos:prefLabel "Pornographie"@de .
+
+sexualerziehung:848f1669-d18c-4892-b0d0-6e986def2637 a skos:Concept ;
+    skos:broader sexualerziehung:f48ff367-e6e9-4827-9ac4-0b7c20114b8e ;
+    skos:inScheme sexualerziehung: ;
+    skos:prefLabel "Inzest"@de .
+
+sexualerziehung:9dae9a30-02a5-4965-9ed8-23f1ef0a53f6 a skos:Concept ;
+    skos:inScheme sexualerziehung: ;
+    skos:prefLabel "Sexting"@de ;
+    skos:topConceptOf sexualerziehung: .
+
+sexualerziehung:f2e28c19-fb2e-4acd-93f1-69f0cec4526d a skos:Concept ;
+    skos:broader sexualerziehung:eb5ad8e2-3c4c-4f18-bc7f-baca1a4b6bc4 ;
+    skos:inScheme sexualerziehung: ;
+    skos:prefLabel "Pubertät"@de .
+
+sexualerziehung:3c90b1b3-8137-4568-852c-cb2258308d89 a skos:Concept ;
+    skos:broader sexualerziehung:eb5ad8e2-3c4c-4f18-bc7f-baca1a4b6bc4 ;
+    skos:inScheme sexualerziehung: ;
+    skos:narrower sexualerziehung:15aca0e3-97ae-4832-a8e1-94cc283dcc61 ;
     skos:prefLabel "Empfängnisverhütung"@de .
 
-<sexualdelikt_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <inzest_id>,
-        <sexueller_missbrauch__id> ;
+sexualerziehung:f48ff367-e6e9-4827-9ac4-0b7c20114b8e a skos:Concept ;
+    skos:inScheme sexualerziehung: ;
+    skos:narrower sexualerziehung:759a9d3d-1e8b-4cbc-b2e9-6ffc779a6b51,
+        sexualerziehung:848f1669-d18c-4892-b0d0-6e986def2637 ;
     skos:prefLabel "Sexualdelikt"@de ;
-    skos:topConceptOf <> .
+    skos:topConceptOf sexualerziehung: .
 
-<sexualerziehung_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <empfängnisverhütung_id>,
-        <fortpflanzung_mensch_id>,
-        <homosexualität_id>,
-        <intersexualität_id>,
-        <pornographie_id>,
-        <pubertät_id>,
-        <transgender_id> ;
+sexualerziehung:eb5ad8e2-3c4c-4f18-bc7f-baca1a4b6bc4 a skos:Concept ;
+    skos:inScheme sexualerziehung: ;
+    skos:narrower sexualerziehung:00d60efe-7649-42be-9adf-50973c91bdd1,
+        sexualerziehung:3c90b1b3-8137-4568-852c-cb2258308d89,
+        sexualerziehung:4d06e059-6a79-4984-b96d-180a8d142827,
+        sexualerziehung:60742519-e663-45ce-88ac-bee81d062396,
+        sexualerziehung:71e87b68-877d-48c7-bfe4-9b902bc51f1e,
+        sexualerziehung:845bc5ae-a96b-48d7-84dd-d23eeecc5374,
+        sexualerziehung:f2e28c19-fb2e-4acd-93f1-69f0cec4526d ;
     skos:prefLabel "Sexualerziehung"@de ;
-    skos:topConceptOf <> .
+    skos:topConceptOf sexualerziehung: .
 
-<> a skos:ConceptScheme ;
+sexualerziehung: a skos:ConceptScheme ;
     dct:creator "<https://creator.com>" ;
-    dct:description "sexualerziehung_systematik"@de ;
-    dct:title "sexualerziehung_systematik"@de ;
-    skos:hasTopConcept <sexting_id>,
-        <sexualdelikt_id>,
-        <sexualerziehung_id> .
+    dct:description "sexualerziehung"@de ;
+    dct:title "sexualerziehung"@de ;
+    skos:hasTopConcept sexualerziehung:9dae9a30-02a5-4965-9ed8-23f1ef0a53f6,
+        sexualerziehung:eb5ad8e2-3c4c-4f18-bc7f-baca1a4b6bc4,
+        sexualerziehung:f48ff367-e6e9-4827-9ac4-0b7c20114b8e .
 

@@ -1,9 +1,9 @@
-@base <https://example-perma-id/retten_systematik/> .
 @prefix dct: <http://purl.org/dc/terms/> .
+@prefix retten: <http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/retten/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<> a skos:ConceptScheme ;
+retten: a skos:ConceptScheme ;
     dct:creator "<https://creator.com>" ;
-    dct:description "retten_systematik"@de ;
-    dct:title "retten_systematik"@de .
+    dct:description "retten"@de ;
+    dct:title "retten"@de .
 

@@ -1,1395 +1,1395 @@
-@base <https://example-perma-id/gesundheit_systematik/> .
 @prefix dct: <http://purl.org/dc/terms/> .
+@prefix gesundheit: <http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/gesundheit/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<abtreibung_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Abtreibung"@de .
-
-<ads_psychologie_id> a skos:Concept ;
-    skos:broader <psychische_krankheiten_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "ADS (Psychologie)"@de .
-
-<aids_id> a skos:Concept ;
-    skos:broader <infektionskrankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Aids"@de .
-
-<akne_id> a skos:Concept ;
-    skos:broader <krankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Akne"@de .
-
-<allergie_id> a skos:Concept ;
-    skos:broader <immunreaktion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Allergie"@de .
-
-<alternativmedizin_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Alternativmedizin"@de .
-
-<antibiotika_id> a skos:Concept ;
-    skos:broader <arzneimittel_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Antibiotika"@de .
-
-<arteriosklerose_id> a skos:Concept ;
-    skos:broader <krankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Arteriosklerose"@de .
-
-<arztbesuch_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Arztbesuch"@de .
-
-<autismus_id> a skos:Concept ;
-    skos:broader <krankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Autismus"@de .
-
-<autogenes_training_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Autogenes Training"@de .
-
-<avitaminose_id> a skos:Concept ;
-    skos:broader <krankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Avitaminose"@de .
-
-<bach__edward_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Bach, Edward"@de .
-
-<backen_id> a skos:Concept ;
-    skos:broader <garmethode_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Backen"@de .
-
-<banting__frederick_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Banting, Frederick"@de .
-
-<bauer__karl_heinrich_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Bauer, Karl Heinrich"@de .
-
-<best__charles_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Best, Charles"@de .
-
-<binge_eating_id> a skos:Concept ;
-    skos:broader <krankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Binge Eating"@de .
-
-<biomedizin_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Biomedizin"@de .
-
-<bionik_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Bionik"@de .
-
-<bluterkrankheit_id> a skos:Concept ;
-    skos:broader <erbkrankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Bluterkrankheit"@de .
-
-<blutzucker_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Blutzucker"@de .
-
-<borreliose_id> a skos:Concept ;
-    skos:broader <infektionskrankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Borreliose"@de .
-
-<brot_id> a skos:Concept ;
-    skos:broader <nahrungsmittel_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Brot"@de .
-
-<brunschig__hieronymus_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Brunschig, Hieronymus"@de .
-
-<bse_id> a skos:Concept ;
-    skos:broader <infektionskrankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "BSE"@de .
-
-<butter_id> a skos:Concept ;
-    skos:broader <milchprodukt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Butter"@de .
-
-<carus__carl_gustav_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Carus, Carl Gustav"@de .
-
-<chemie_im_haushalt_id> a skos:Concept ;
-    skos:broader <hygiene_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Chemie im Haushalt"@de .
-
-<chemotherapie_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Chemotherapie"@de .
-
-<cholesterin_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Cholesterin"@de .
-
-<coca_cola_id> a skos:Concept ;
-    skos:broader <genussmittel_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Coca Cola"@de .
-
-<computertomographie_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Computertomographie"@de .
-
-<cortison_id> a skos:Concept ;
-    skos:broader <arzneimittel_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Cortison"@de .
-
-<defibrillator_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Defibrillator"@de .
-
-<demenz_id> a skos:Concept ;
-    skos:broader <krankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Demenz"@de .
-
-<deprivation_id> a skos:Concept ;
-    skos:broader <krankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Deprivation"@de .
-
-<diabetes_id> a skos:Concept ;
-    skos:broader <krankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Diabetes"@de .
-
-<dialyse_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Dialyse"@de .
-
-<diät_id> a skos:Concept ;
-    skos:broader <ernährung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Diät"@de .
-
-<downsyndrom_id> a skos:Concept ;
-    skos:broader <behinderung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Down-Syndrom"@de .
-
-<dyskalkulie_id> a skos:Concept ;
-    skos:broader <krankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Dyskalkulie"@de .
-
-<eccles__john_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Eccles, John"@de .
-
-<ehrlich__paul_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Ehrlich, Paul"@de .
-
-<einthoven__willem_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Einthoven, Willem"@de .
-
-<ergometrie_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Ergometrie"@de .
-
-<ernährungsfehler_id> a skos:Concept ;
-    skos:broader <ernährung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Ernährungsfehler"@de .
-
-<essig_id> a skos:Concept ;
-    skos:broader <vorratshaltung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Essig"@de .
-
-<fast_food_id> a skos:Concept ;
-    skos:broader <ernährung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Fast Food"@de .
-
-<fehlgeburt_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Fehlgeburt"@de .
-
-<fieber_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Fieber"@de .
-
-<fleisch_id> a skos:Concept ;
-    skos:broader <nahrungsmittel_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Fleisch"@de .
-
-<fraktur_medizin_id> a skos:Concept ;
-    skos:broader <krankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Fraktur (Medizin)"@de .
-
-<freud__sigmund_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Freud, Sigmund"@de .
-
-<frisur_id> a skos:Concept ;
-    skos:broader <körperpflege_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Frisur"@de .
-
-<frühgeburt_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Frühgeburt"@de .
-
-<fsme_id> a skos:Concept ;
-    skos:broader <infektionskrankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "FSME"@de .
-
-<fußdeformität_id> a skos:Concept ;
-    skos:broader <krankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Fußdeformität"@de .
-
-<geburt_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Geburt"@de .
-
-<gehörlosigkeit_id> a skos:Concept ;
-    skos:broader <behinderung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Gehörlosigkeit"@de .
-
-<gemeinschaftsverpflegung_id> a skos:Concept ;
-    skos:broader <ernährung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Gemeinschaftsverpflegung"@de .
-
-<gemüse_id> a skos:Concept ;
-    skos:broader <nahrungsmittel_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Gemüse"@de .
-
-<geriatrie_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Geriatrie"@de .
-
-<geschlechtskrankheit_id> a skos:Concept ;
-    skos:broader <infektionskrankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Geschlechtskrankheit"@de .
-
-<gesichtsblindheit_id> a skos:Concept ;
-    skos:broader <blindheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Gesichtsblindheit"@de .
-
-<gesundheit_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Gesundheit"@de .
-
-<gesundheitserziehung_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Gesundheitserziehung"@de .
-
-<gipsverband_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Gipsverband"@de .
-
-<grof__stanislav_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Grof, Stanislav"@de .
-
-<haltungsfehler_id> a skos:Concept ;
-    skos:broader <krankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Haltungsfehler"@de .
-
-<haushaltsgeschirr__id> a skos:Concept ;
-    skos:broader <küche_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Haushaltsgeschirr "@de .
-
-<herd_haushaltstechnik_id> a skos:Concept ;
-    skos:broader <haushaltsgerät_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Herd (Haushaltstechnik)"@de .
-
-<herzinfarkt_id> a skos:Concept ;
-    skos:broader <krankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Herzinfarkt"@de .
-
-<hospitalismus_id> a skos:Concept ;
-    skos:broader <krankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Hospitalismus"@de .
-
-<hunger_id> a skos:Concept ;
-    skos:broader <ernährung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Hunger"@de .
-
-<hühnerei_id> a skos:Concept ;
-    skos:broader <nahrungsmittel_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Hühnerei"@de .
-
-<impfung_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Impfung"@de .
-
-<implantat_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Implantat"@de .
-
-<injektion_medizin_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Injektion (Medizin)"@de .
-
-<jenner__edward_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Jenner, Edward"@de .
-
-<joghurt_id> a skos:Concept ;
-    skos:broader <milchprodukt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Joghurt"@de .
-
-<kandel__eric_richard_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kandel, Eric Richard"@de .
-
-<karies_id> a skos:Concept ;
-    skos:broader <zahnpflege_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Karies"@de .
-
-<kindbettfieber_id> a skos:Concept ;
-    skos:broader <infektionskrankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kindbettfieber"@de .
-
-<kinderlähmung_id> a skos:Concept ;
-    skos:broader <infektionskrankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kinderlähmung"@de .
-
-<kindstod_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kindstod"@de .
-
-<kneipp__sebastian_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kneipp, Sebastian"@de .
-
-<kognition_id> a skos:Concept ;
-    skos:broader <psychologie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kognition"@de .
-
-<kohut__heinz_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kohut, Heinz"@de .
-
-<kopfschmerz_id> a skos:Concept ;
-    skos:broader <krankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kopfschmerz"@de .
-
-<kosmetik_id> a skos:Concept ;
-    skos:broader <körperpflege_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kosmetik"@de .
-
-<krampfader_id> a skos:Concept ;
-    skos:broader <krankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Krampfader"@de .
-
-<krankenhausaufenthalt_id> a skos:Concept ;
-    skos:broader <krankenhaus_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Krankenhausaufenthalt"@de .
-
-<krankenpflege_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Krankenpflege"@de .
-
-<krankheitsbild_id> a skos:Concept ;
-    skos:broader <krankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Krankheitsbild"@de .
-
-<krankheitserreger_id> a skos:Concept ;
-    skos:broader <krankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Krankheitserreger"@de .
-
-<krebs_krankheit_id> a skos:Concept ;
-    skos:broader <krankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Krebs (Krankheit)"@de .
-
-<käse_id> a skos:Concept ;
-    skos:broader <milchprodukt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Käse"@de .
-
-<küblerross__elisabeth_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "KüblerRoss, Elisabeth"@de .
-
-<landsteiner__karl_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Landsteiner, Karl"@de .
-
-<lebensmittelkonservierung_id> a skos:Concept ;
-    skos:broader <ernährung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Lebensmittelkonservierung"@de .
-
-<lebensmittelvergiftung_id> a skos:Concept ;
-    skos:broader <krankheit_id> ;
-    skos:inScheme <> ;
+gesundheit:0206cf65-3fe9-4462-9cf0-97dc6a187996 a skos:Concept ;
+    skos:broader gesundheit:d4cebdda-c62a-4d76-a513-c3ca7e3b639d ;
+    skos:inScheme gesundheit: ;
     skos:prefLabel "Lebensmittelvergiftung"@de .
 
-<leberzirrhose_id> a skos:Concept ;
-    skos:broader <krankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Leberzirrhose"@de .
-
-<legasthenie_id> a skos:Concept ;
-    skos:broader <krankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Legasthenie"@de .
-
-<leiden_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Leiden"@de .
-
-<leistung_physiologie_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Leistung (Physiologie)"@de .
-
-<lepra_id> a skos:Concept ;
-    skos:broader <infektionskrankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Lepra"@de .
-
-<leukämie_id> a skos:Concept ;
-    skos:broader <krankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Leukämie"@de .
-
-<levitin__daniel_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Levitin, Daniel"@de .
-
-<lister__joseph_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Lister, Joseph"@de .
-
-<logopädie_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Logopädie"@de .
-
-<lückert__heinzrudiolf_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Lückert, HeinzRudiolf"@de .
-
-<magersucht_id> a skos:Concept ;
-    skos:broader <krankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Magersucht"@de .
-
-<magnetoenzophalographie_id> a skos:Concept ;
-    skos:broader <untersuchungsmethode_medizin_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Magnetoenzophalographie"@de .
-
-<margarine_id> a skos:Concept ;
-    skos:broader <nahrungsmittel_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Margarine"@de .
-
-<massage_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Massage"@de .
-
-<mayer__robert_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Mayer, Robert"@de .
-
-<medizinethik_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Medizinethik"@de .
-
-<mehl_id> a skos:Concept ;
-    skos:broader <nahrungsmittel_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Mehl"@de .
-
-<milch_id> a skos:Concept ;
-    skos:broader <milchprodukt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Milch"@de .
-
-<mitscherlich__alexander_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Mitscherlich, Alexander"@de .
-
-<montesquieu_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Montesquieu"@de .
-
-<morton__william_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Morton, William"@de .
-
-<motorik_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Motorik"@de .
-
-<multiple_sklerose_id> a skos:Concept ;
-    skos:broader <krankheit_id> ;
-    skos:inScheme <> ;
+gesundheit:020c81a0-b436-4c65-8df0-8c0f8141bef1 a skos:Concept ;
+    skos:broader gesundheit:d4cebdda-c62a-4d76-a513-c3ca7e3b639d ;
+    skos:inScheme gesundheit: ;
     skos:prefLabel "Multiple Sklerose"@de .
 
-<muskelschwäche_id> a skos:Concept ;
-    skos:broader <krankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Muskelschwäche"@de .
+gesundheit:058c7f37-8dea-4af7-af05-d5691533aded a skos:Concept ;
+    skos:broader gesundheit:a94f930f-783e-4435-bb4b-a262b72ceb96 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Magnetoenzophalographie"@de .
 
-<nahrungsaufnahme_mensch_id> a skos:Concept ;
-    skos:broader <ernährung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Nahrungsaufnahme (Mensch)"@de .
+gesundheit:078d1339-bad3-4c83-b369-7c8c953bd4e4 a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Abtreibung"@de .
 
-<nahrungsergänzungsmittel_id> a skos:Concept ;
-    skos:broader <ernährung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Nahrungsergänzungsmittel"@de .
+gesundheit:079f670d-7581-4cdb-b903-36b1f67d1c2b a skos:Concept ;
+    skos:broader gesundheit:61859ec7-d21a-428b-b806-cfbc897d8f3c ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "ADS (Psychologie)"@de .
 
-<narzissmus_id> a skos:Concept ;
-    skos:broader <krankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Narzissmus"@de .
-
-<nikotin_id> a skos:Concept ;
-    skos:broader <genussmittel_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Nikotin"@de .
-
-<nährwert_id> a skos:Concept ;
-    skos:broader <ernährung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Nährwert"@de .
-
-<organspende_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Organspende"@de .
-
-<paracelsus_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Paracelsus"@de .
-
-<parodontose_id> a skos:Concept ;
-    skos:broader <zahnpflege_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Parodontose"@de .
-
-<pausenfrühstück_id> a skos:Concept ;
-    skos:broader <frühstück_id> ;
-    skos:inScheme <> ;
+gesundheit:0c7da2f4-b345-438a-881b-6a5cdd568a96 a skos:Concept ;
+    skos:broader gesundheit:f4772b30-bf26-41e7-a516-755d8911bd65 ;
+    skos:inScheme gesundheit: ;
     skos:prefLabel "Pausenfrühstück"@de .
 
-<pawlow__iwan_petrowitsch_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Pawlow, Iwan Petrowitsch"@de .
-
-<pettenkofer__max_von_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Pettenkofer, Max von"@de .
-
-<pränataldiagnostik_id> a skos:Concept ;
-    skos:broader <vorsorgeuntersuchung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Pränataldiagnostik"@de .
-
-<psychiatrie_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Psychiatrie"@de .
-
-<psychoanalyse_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Psychoanalyse"@de .
-
-<psychosomatik_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Psychosomatik"@de .
-
-<putzen_id> a skos:Concept ;
-    skos:broader <hygiene_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Putzen"@de .
-
-<putzmittel_id> a skos:Concept ;
-    skos:broader <hygiene_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Putzmittel"@de .
-
-<ramón_y_cajal__santiago_felipe_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Ramón y Cajal, Santiago Felipe"@de .
-
-<rank__otto_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Rank, Otto"@de .
-
-<rehabilitation_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Rehabilitation"@de .
-
-<reich__wilhelm_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Reich, Wilhelm"@de .
-
-<röteln_id> a skos:Concept ;
-    skos:broader <infektionskrankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Röteln"@de .
-
-<sauberkeitserziehung_id> a skos:Concept ;
-    skos:broader <körperpflege_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Sauberkeitserziehung"@de .
-
-<schlaf_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Schlaf"@de .
-
-<schlaganfall_id> a skos:Concept ;
-    skos:broader <krankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Schlaganfall"@de .
-
-<schmerz_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Schmerz"@de .
-
-<schokolade_id> a skos:Concept ;
-    skos:broader <nahrungsmittel_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Schokolade"@de .
-
-<schweitzer__albert_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Schweitzer, Albert"@de .
-
-<semmelweis__ignaz_philipp_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Semmelweis, Ignaz Philipp"@de .
-
-<seuche_id> a skos:Concept ;
-    skos:broader <krankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Seuche"@de .
-
-<simpson__james_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Simpson, James"@de .
-
-<spastiker_id> a skos:Concept ;
-    skos:broader <behinderung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Spastiker"@de .
-
-<sprachstörung_id> a skos:Concept ;
-    skos:broader <behinderung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Sprachstörung"@de .
-
-<spurenelement_id> a skos:Concept ;
-    skos:broader <lebensmittel_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Spurenelement"@de .
-
-<steinmann__fritz_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Steinmann, Fritz"@de .
-
-<sterilität_unfruchtbarkeit_id> a skos:Concept ;
-    skos:broader <krankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Sterilität (Unfruchtbarkeit)"@de .
-
-<stillen_id> a skos:Concept ;
-    skos:broader <ernährung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Stillen"@de .
-
-<stoffwechselkrankheit_id> a skos:Concept ;
-    skos:broader <krankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Stoffwechselkrankheit"@de .
-
-<strahlenschaden_id> a skos:Concept ;
-    skos:broader <krankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Strahlenschaden"@de .
-
-<stummheit_id> a skos:Concept ;
-    skos:broader <behinderung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Stummheit"@de .
-
-<taubstummheit_id> a skos:Concept ;
-    skos:broader <behinderung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Taubstummheit"@de .
-
-<teig_id> a skos:Concept ;
-    skos:broader <nahrungsmittel_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Teig"@de .
-
-<therapie_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Therapie"@de .
-
-<tiefkühlkost_id> a skos:Concept ;
-    skos:broader <ernährung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Tiefkühlkost"@de .
-
-<toilette_id> a skos:Concept ;
-    skos:broader <hygiene_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Toilette"@de .
-
-<tourettesyndrom_id> a skos:Concept ;
-    skos:broader <krankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Tourette-Syndrom"@de .
-
-<toxikologie_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Toxikologie"@de .
-
-<trauma_id> a skos:Concept ;
-    skos:broader <psychologie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Trauma"@de .
-
-<tropenkrankheit_id> a skos:Concept ;
-    skos:broader <infektionskrankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Tropenkrankheit"@de .
-
-<trott_zu_solz__claritta_von_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Trott zu Solz, Claritta von"@de .
-
-<tuberkulose_id> a skos:Concept ;
-    skos:broader <infektionskrankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Tuberkulose"@de .
-
-<ultraschalldiagnostik_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Ultraschalldiagnostik"@de .
-
-<unterernährung_id> a skos:Concept ;
-    skos:broader <krankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Unterernährung"@de .
-
-<veganer_id> a skos:Concept ;
-    skos:broader <vegetarier_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Veganer"@de .
-
-<venenerkrankung_id> a skos:Concept ;
-    skos:broader <krankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Venenerkrankung"@de .
-
-<verbrennung_medizin_id> a skos:Concept ;
-    skos:broader <krankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Verbrennung (Medizin)"@de .
-
-<versorgung_medizin_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Versorgung (Medizin)"@de .
-
-<virchow__rudolf_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Virchow, Rudolf"@de .
-
-<viren_krankheitserreger_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Viren (Krankheitserreger)"@de .
-
-<vitamin_id> a skos:Concept ;
-    skos:broader <lebensmittel_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Vitamin"@de .
-
-<vollwertkost_id> a skos:Concept ;
-    skos:broader <ernährung_id> ;
-    skos:inScheme <> ;
+gesundheit:0d55978f-b1a7-45c1-86a8-d79ba4be2562 a skos:Concept ;
+    skos:broader gesundheit:61eec0cd-ba78-4792-90f1-2a0a6c72730e ;
+    skos:inScheme gesundheit: ;
     skos:prefLabel "Vollwertkost"@de .
 
-<waschmaschine_id> a skos:Concept ;
-    skos:broader <haushaltsgerät_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Waschmaschine"@de .
+gesundheit:0dcddf59-4d92-49b1-ae53-659386d60e6c a skos:Concept ;
+    skos:broader gesundheit:5952826c-4e0e-4ff4-8ba6-0163b199a9c1 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Nikotin"@de .
 
-<waschmittel_id> a skos:Concept ;
-    skos:broader <hygiene_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Waschmittel"@de .
-
-<weitsichtigkeit_id> a skos:Concept ;
-    skos:broader <sehfehler_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Weitsichtigkeit"@de .
-
-<wertheimer__max_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Wertheimer, Max"@de .
-
-<windpocken_id> a skos:Concept ;
-    skos:broader <infektionskrankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Windpocken"@de .
-
-<wunde_id> a skos:Concept ;
-    skos:broader <krankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Wunde"@de .
-
-<wurst_id> a skos:Concept ;
-    skos:broader <nahrungsmittel_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Wurst"@de .
-
-<ylppó__arvo_henrik_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Ylppó, Arvo Henrik"@de .
-
-<yoga_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Yoga"@de .
-
-<zivilisationskrankheit_id> a skos:Concept ;
-    skos:broader <krankheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Zivilisationskrankheit"@de .
-
-<zucker_id> a skos:Concept ;
-    skos:broader <nahrungsmittel_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Zucker"@de .
-
-<zwangsstörung_id> a skos:Concept ;
-    skos:broader <psychische_krankheiten_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Zwangsstörung"@de .
-
-<übergewicht_id> a skos:Concept ;
-    skos:broader <krankheit_id> ;
-    skos:inScheme <> ;
+gesundheit:0e00ea5e-2355-4fe6-ad96-61a64b87db6a a skos:Concept ;
+    skos:broader gesundheit:d4cebdda-c62a-4d76-a513-c3ca7e3b639d ;
+    skos:inScheme gesundheit: ;
     skos:prefLabel "Übergewicht"@de .
 
-<blindheit_id> a skos:Concept ;
-    skos:broader <behinderung_id> ;
-    skos:inScheme <> ;
-    skos:narrower <gesichtsblindheit_id> ;
-    skos:prefLabel "Blindheit"@de .
+gesundheit:0e6dd1f0-2e0a-49b7-920a-cba9f203e4e8 a skos:Concept ;
+    skos:broader gesundheit:d4cebdda-c62a-4d76-a513-c3ca7e3b639d ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Krampfader"@de .
 
-<erbkrankheit_id> a skos:Concept ;
-    skos:broader <krankheit_id> ;
-    skos:inScheme <> ;
-    skos:narrower <bluterkrankheit_id> ;
-    skos:prefLabel "Erbkrankheit"@de .
+gesundheit:0f12958d-0a4a-4d2c-bfe9-57454bee24ca a skos:Concept ;
+    skos:broader gesundheit:25ea181e-2d38-4799-ae0b-2a533a49ab97 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Hühnerei"@de .
 
-<frühstück_id> a skos:Concept ;
-    skos:broader <ernährung_id> ;
-    skos:inScheme <> ;
-    skos:narrower <pausenfrühstück_id> ;
-    skos:prefLabel "Frühstück"@de .
+gesundheit:100303a9-ae5f-4587-a2d1-5a4747bac2a0 a skos:Concept ;
+    skos:broader gesundheit:83c70d31-7043-492a-affe-e3761200530e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Semmelweis, Ignaz Philipp"@de .
 
-<garmethode_id> a skos:Concept ;
-    skos:broader <ernährung_id> ;
-    skos:inScheme <> ;
-    skos:narrower <backen_id> ;
+gesundheit:113cf0aa-b176-4548-b32a-b3077d820d8d a skos:Concept ;
+    skos:broader gesundheit:0d82bd7f-38e1-45b2-bafa-0929958cb6fc ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Backen"@de .
+
+gesundheit:123dc48b-8e19-4dba-af24-17cf7ff6acb7 a skos:Concept ;
+    skos:broader gesundheit:d4cebdda-c62a-4d76-a513-c3ca7e3b639d ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Stoffwechselkrankheit"@de .
+
+gesundheit:1240a6b7-292d-4ef9-8dc8-aa3d7b1a8d72 a skos:Concept ;
+    skos:broader gesundheit:83c70d31-7043-492a-affe-e3761200530e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Bauer, Karl Heinrich"@de .
+
+gesundheit:125f338c-f821-4986-a130-2b4ff2ec467f a skos:Concept ;
+    skos:broader gesundheit:83c70d31-7043-492a-affe-e3761200530e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Levitin, Daniel"@de .
+
+gesundheit:13335853-7cf9-41e3-9beb-23532b245527 a skos:Concept ;
+    skos:broader gesundheit:83c70d31-7043-492a-affe-e3761200530e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Brunschig, Hieronymus"@de .
+
+gesundheit:14c0635a-d90d-4e35-947a-860a3e33c318 a skos:Concept ;
+    skos:broader gesundheit:83c70d31-7043-492a-affe-e3761200530e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Reich, Wilhelm"@de .
+
+gesundheit:19bb8cc8-c274-4566-b0e0-f0f8c7bc59b0 a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Gipsverband"@de .
+
+gesundheit:1a4641f5-3269-471f-b4bb-ef9f79a4d244 a skos:Concept ;
+    skos:broader gesundheit:d4cebdda-c62a-4d76-a513-c3ca7e3b639d ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Seuche"@de .
+
+gesundheit:1b3ccf02-36bd-486d-936d-3ce81f57d9a9 a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Viren (Krankheitserreger)"@de .
+
+gesundheit:1c589e81-2f06-4b39-82c3-8ea546769807 a skos:Concept ;
+    skos:broader gesundheit:25ea181e-2d38-4799-ae0b-2a533a49ab97 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Mehl"@de .
+
+gesundheit:1c794c78-f942-4f43-8ccc-7df9797983a5 a skos:Concept ;
+    skos:broader gesundheit:61eec0cd-ba78-4792-90f1-2a0a6c72730e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Fast Food"@de .
+
+gesundheit:1f5e3b60-d45f-47d1-9be6-922563e9c2f4 a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Impfung"@de .
+
+gesundheit:1fc2fad6-4bb2-416a-ba07-28b8b7d8bee6 a skos:Concept ;
+    skos:broader gesundheit:83c70d31-7043-492a-affe-e3761200530e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Landsteiner, Karl"@de .
+
+gesundheit:201ebeb6-2523-4ed9-9788-1aaa48b9fa8b a skos:Concept ;
+    skos:broader gesundheit:d4cebdda-c62a-4d76-a513-c3ca7e3b639d ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Dyskalkulie"@de .
+
+gesundheit:20c8d477-f56c-456b-a708-678151ac9fc6 a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Yoga"@de .
+
+gesundheit:20e1ecad-1095-4abb-90d0-3001701fc224 a skos:Concept ;
+    skos:broader gesundheit:26c6db1c-fa6b-4e25-bd2c-c6abea9d16cf ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Kosmetik"@de .
+
+gesundheit:2202afe3-993c-4f4f-87bf-f9582edca5eb a skos:Concept ;
+    skos:broader gesundheit:61eec0cd-ba78-4792-90f1-2a0a6c72730e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Gemeinschaftsverpflegung"@de .
+
+gesundheit:22852f63-7f70-445a-912a-f948a0a959a9 a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Logopädie"@de .
+
+gesundheit:242ecb3f-8bfa-45f2-a156-fa6cea46f89f a skos:Concept ;
+    skos:broader gesundheit:709e05cd-e3bc-4b5b-9c11-017220f818b6 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Geschlechtskrankheit"@de .
+
+gesundheit:24674941-ac0e-4fd6-b7bc-9cf01d646fac a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Ultraschalldiagnostik"@de .
+
+gesundheit:256ef0af-b18a-4bf7-b1f7-ab7549a290ff a skos:Concept ;
+    skos:broader gesundheit:83c70d31-7043-492a-affe-e3761200530e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Virchow, Rudolf"@de .
+
+gesundheit:273c6a27-935d-408c-8374-cfe40b35c8bd a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Motorik"@de .
+
+gesundheit:292f26a0-a4fc-4749-9f78-ce5e17c8b83f a skos:Concept ;
+    skos:broader gesundheit:d4cebdda-c62a-4d76-a513-c3ca7e3b639d ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Unterernährung"@de .
+
+gesundheit:2950aa83-9cc9-4195-a9b1-39b6665ce78f a skos:Concept ;
+    skos:broader gesundheit:d4cebdda-c62a-4d76-a513-c3ca7e3b639d ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Arteriosklerose"@de .
+
+gesundheit:29680547-5392-4cde-a1ab-be61a41dc0a9 a skos:Concept ;
+    skos:broader gesundheit:07f70ddd-3351-47c4-878f-9ced224a9c9d ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Haushaltsgeschirr "@de .
+
+gesundheit:297b72c8-1c15-4f24-989d-e663056fd4ed a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Fehlgeburt"@de .
+
+gesundheit:2d71ee24-00b7-4a87-85fb-5c389234be88 a skos:Concept ;
+    skos:broader gesundheit:d4cebdda-c62a-4d76-a513-c3ca7e3b639d ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Muskelschwäche"@de .
+
+gesundheit:2f1b1c42-a677-4916-8b31-32db7ca0fbb1 a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Arztbesuch"@de .
+
+gesundheit:2f6bff04-8116-4eca-9a80-6da352bc6a6d a skos:Concept ;
+    skos:broader gesundheit:887bc91f-9d5a-4f0d-970a-bef137134957 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Waschmaschine"@de .
+
+gesundheit:2f7275eb-041f-4a8d-960b-865ce63673e6 a skos:Concept ;
+    skos:broader gesundheit:83c70d31-7043-492a-affe-e3761200530e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Ehrlich, Paul"@de .
+
+gesundheit:2fd1cef5-fa57-4ac6-8cb6-c64a541d024e a skos:Concept ;
+    skos:broader gesundheit:709e05cd-e3bc-4b5b-9c11-017220f818b6 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Windpocken"@de .
+
+gesundheit:31925157-bfc9-4933-aec3-bcef596cf539 a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Computertomographie"@de .
+
+gesundheit:31a7f5f9-1a7c-4892-8b7a-e23238f85775 a skos:Concept ;
+    skos:broader gesundheit:89f4576a-f57f-4b52-8ebc-00c46655a792 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Joghurt"@de .
+
+gesundheit:32113331-3ed4-4ea7-a868-cfe4d172ff47 a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Psychosomatik"@de .
+
+gesundheit:3216793b-225d-46c4-8d0b-689ad2aa8575 a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Kindstod"@de .
+
+gesundheit:3240002d-2c31-4257-9c19-0371123b45eb a skos:Concept ;
+    skos:broader gesundheit:61eec0cd-ba78-4792-90f1-2a0a6c72730e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Nahrungsergänzungsmittel"@de .
+
+gesundheit:328986ca-8b89-46f7-983a-0e5a5f4ae13b a skos:Concept ;
+    skos:broader gesundheit:89f4576a-f57f-4b52-8ebc-00c46655a792 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Milch"@de .
+
+gesundheit:350d1ee5-10bb-4ce7-88ea-7f56b2bb2ded a skos:Concept ;
+    skos:broader gesundheit:61eec0cd-ba78-4792-90f1-2a0a6c72730e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Tiefkühlkost"@de .
+
+gesundheit:359b6491-1e2b-4c30-a9e6-5dde74042f40 a skos:Concept ;
+    skos:broader gesundheit:d4cebdda-c62a-4d76-a513-c3ca7e3b639d ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Akne"@de .
+
+gesundheit:37d1a369-44fc-431e-96af-7e7355778923 a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Leistung (Physiologie)"@de .
+
+gesundheit:38d0d541-cb3d-46fe-8e92-23ef3047f1b6 a skos:Concept ;
+    skos:broader gesundheit:d4cebdda-c62a-4d76-a513-c3ca7e3b639d ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Sterilität (Unfruchtbarkeit)"@de .
+
+gesundheit:395f54f5-2627-42c0-b4a6-84fc4c9e7aa2 a skos:Concept ;
+    skos:broader gesundheit:83c70d31-7043-492a-affe-e3761200530e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Mayer, Robert"@de .
+
+gesundheit:3be185e2-2d97-40e4-acb2-d58f17152519 a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Leiden"@de .
+
+gesundheit:3e0ae5c5-7092-446a-8009-0be3f14740c2 a skos:Concept ;
+    skos:broader gesundheit:709e05cd-e3bc-4b5b-9c11-017220f818b6 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Tropenkrankheit"@de .
+
+gesundheit:3e69d6b8-1479-45e1-a6d0-10b3ab6b97de a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Therapie"@de .
+
+gesundheit:43341f1b-4257-43b0-97f9-d8404d01408c a skos:Concept ;
+    skos:broader gesundheit:7e6304dc-0e67-427f-b01c-31ed530250ef ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Toilette"@de .
+
+gesundheit:46c735de-c5e5-4937-a733-d59757ddad30 a skos:Concept ;
+    skos:broader gesundheit:61eec0cd-ba78-4792-90f1-2a0a6c72730e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Diät"@de .
+
+gesundheit:48ca553c-d3ae-4c44-9ab7-18bb7a8db2b5 a skos:Concept ;
+    skos:broader gesundheit:7e6304dc-0e67-427f-b01c-31ed530250ef ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Chemie im Haushalt"@de .
+
+gesundheit:4a3395f6-cd3c-4a37-8b07-61e69b5d7fbe a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Geburt"@de .
+
+gesundheit:4e20b7ed-c34c-45d4-9db0-9de175c6beed a skos:Concept ;
+    skos:broader gesundheit:5d3fc2b6-40c5-4e74-a315-62b59c8a9433 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Spurenelement"@de .
+
+gesundheit:52f47601-635d-421d-8bdd-5ac3338230bd a skos:Concept ;
+    skos:broader gesundheit:83c70d31-7043-492a-affe-e3761200530e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Trott zu Solz, Claritta von"@de .
+
+gesundheit:55f5677a-8c15-4f81-addd-54483398c6db a skos:Concept ;
+    skos:broader gesundheit:d4cebdda-c62a-4d76-a513-c3ca7e3b639d ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Haltungsfehler"@de .
+
+gesundheit:56b3fd57-eb10-4c99-8f8b-a153339773e7 a skos:Concept ;
+    skos:broader gesundheit:d4cebdda-c62a-4d76-a513-c3ca7e3b639d ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Wunde"@de .
+
+gesundheit:580cdd23-88dc-4e19-9f35-4e8a83c33a6b a skos:Concept ;
+    skos:broader gesundheit:d4cebdda-c62a-4d76-a513-c3ca7e3b639d ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Leukämie"@de .
+
+gesundheit:5a7ead34-509d-418d-ba76-2dce7efa5e93 a skos:Concept ;
+    skos:broader gesundheit:d4cebdda-c62a-4d76-a513-c3ca7e3b639d ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Zivilisationskrankheit"@de .
+
+gesundheit:5b0ee257-9fb5-48d5-910a-0454fa78f4c7 a skos:Concept ;
+    skos:broader gesundheit:83c70d31-7043-492a-affe-e3761200530e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Eccles, John"@de .
+
+gesundheit:5c21e94e-e388-4465-b0ff-7adb5d4be1a1 a skos:Concept ;
+    skos:broader gesundheit:e0adbe3f-4b60-409a-9659-9159ba856063 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Weitsichtigkeit"@de .
+
+gesundheit:5e2d22fb-be3b-4064-b5e3-25b2f2acc17f a skos:Concept ;
+    skos:broader gesundheit:83c70d31-7043-492a-affe-e3761200530e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Carus, Carl Gustav"@de .
+
+gesundheit:5f00610f-3afb-4ca7-ac56-10326d69b82d a skos:Concept ;
+    skos:broader gesundheit:c5acaa14-a61a-4a72-aeb0-2a6580dd2e0e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Spastiker"@de .
+
+gesundheit:5f4b6c7b-d7a6-4b10-94e9-7f1277e29527 a skos:Concept ;
+    skos:broader gesundheit:ca619102-7503-4a1c-8c7b-b76b1cf3c309 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Cortison"@de .
+
+gesundheit:60d114b9-8275-4fac-9e69-f2a41947e959 a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Schmerz"@de .
+
+gesundheit:612ec56f-95cf-4e17-a61c-b8e11cd3350c a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Massage"@de .
+
+gesundheit:62b99c59-4330-4dce-8ed6-75a988e31d9f a skos:Concept ;
+    skos:broader gesundheit:83c70d31-7043-492a-affe-e3761200530e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Morton, William"@de .
+
+gesundheit:6393b065-60db-44c7-8b68-24c683fc46f5 a skos:Concept ;
+    skos:broader gesundheit:3adcf42c-79d9-4521-a648-b833a333d8b1 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Veganer"@de .
+
+gesundheit:64b2bbac-8c6a-4199-b9b6-12c557ab1246 a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Psychiatrie"@de .
+
+gesundheit:6bdb8bd6-20fa-4fe3-8a9a-5085f2137059 a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Toxikologie"@de .
+
+gesundheit:6bf2d5b4-4de2-459a-bff9-c4970b9dd6f3 a skos:Concept ;
+    skos:broader gesundheit:61eec0cd-ba78-4792-90f1-2a0a6c72730e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Nährwert"@de .
+
+gesundheit:6d8dfdd0-c94a-40d6-9c59-ac08941fa153 a skos:Concept ;
+    skos:broader gesundheit:83c70d31-7043-492a-affe-e3761200530e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Freud, Sigmund"@de .
+
+gesundheit:6da9449c-c2fd-4e3f-9b8f-70398774280c a skos:Concept ;
+    skos:broader gesundheit:83c70d31-7043-492a-affe-e3761200530e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "KüblerRoss, Elisabeth"@de .
+
+gesundheit:6f924e70-e755-4438-ad84-2bf625ba3e16 a skos:Concept ;
+    skos:broader gesundheit:83c70d31-7043-492a-affe-e3761200530e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Ylppó, Arvo Henrik"@de .
+
+gesundheit:6f9a45c3-3fd9-46d3-8ec6-2b740a5805fe a skos:Concept ;
+    skos:broader gesundheit:5952826c-4e0e-4ff4-8ba6-0163b199a9c1 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Coca Cola"@de .
+
+gesundheit:6fef0624-921a-44a7-a896-365f13f5d0e5 a skos:Concept ;
+    skos:broader gesundheit:83c70d31-7043-492a-affe-e3761200530e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Banting, Frederick"@de .
+
+gesundheit:7036f646-4c56-4687-aa67-54f6ce061f7c a skos:Concept ;
+    skos:broader gesundheit:887bc91f-9d5a-4f0d-970a-bef137134957 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Herd (Haushaltstechnik)"@de .
+
+gesundheit:7247010a-87ef-4bee-835e-f89cc7ee1a30 a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Versorgung (Medizin)"@de .
+
+gesundheit:72dbdad3-f4c1-440d-b38e-34bab25f3428 a skos:Concept ;
+    skos:broader gesundheit:25ea181e-2d38-4799-ae0b-2a533a49ab97 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Gemüse"@de .
+
+gesundheit:7359eb87-c8f2-419b-aa02-5ff72a7a31a3 a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Cholesterin"@de .
+
+gesundheit:73ff65f3-eeba-407c-898d-05e1126db94d a skos:Concept ;
+    skos:broader gesundheit:25ea181e-2d38-4799-ae0b-2a533a49ab97 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Zucker"@de .
+
+gesundheit:74336a4a-701c-4b86-b00d-c30c594ef7fa a skos:Concept ;
+    skos:broader gesundheit:d4cebdda-c62a-4d76-a513-c3ca7e3b639d ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Strahlenschaden"@de .
+
+gesundheit:74e19037-9797-4bec-9315-7b32ce3a43cf a skos:Concept ;
+    skos:broader gesundheit:61eec0cd-ba78-4792-90f1-2a0a6c72730e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Ernährungsfehler"@de .
+
+gesundheit:77de8c4e-c0e8-4eba-a04c-c7a79fd627a0 a skos:Concept ;
+    skos:broader gesundheit:c5acaa14-a61a-4a72-aeb0-2a6580dd2e0e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Down-Syndrom"@de .
+
+gesundheit:77f298b8-adda-4522-86d9-6e709e10891b a skos:Concept ;
+    skos:broader gesundheit:83c70d31-7043-492a-affe-e3761200530e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Rank, Otto"@de .
+
+gesundheit:793a7a4a-8622-43f0-87e8-3d9a66383538 a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Frühgeburt"@de .
+
+gesundheit:7f31bc81-9e1b-441e-be00-d24991bf4ad6 a skos:Concept ;
+    skos:broader gesundheit:19e9c2d9-8d5b-4caa-bce1-1644258d4056 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Essig"@de .
+
+gesundheit:7f352e3b-c861-4ef4-be18-11db0b7d78b6 a skos:Concept ;
+    skos:broader gesundheit:d4cebdda-c62a-4d76-a513-c3ca7e3b639d ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Leberzirrhose"@de .
+
+gesundheit:7fed59c8-9097-4683-a204-4c65f369d591 a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Bionik"@de .
+
+gesundheit:814621c5-e637-42e5-be17-7bf093671a2e a skos:Concept ;
+    skos:broader gesundheit:83c70d31-7043-492a-affe-e3761200530e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Montesquieu"@de .
+
+gesundheit:817ed57f-cba1-4f4a-92df-d944a07317f2 a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Ergometrie"@de .
+
+gesundheit:8295517f-3ca9-4ddc-9705-f3baa855dcf8 a skos:Concept ;
+    skos:broader gesundheit:c5acaa14-a61a-4a72-aeb0-2a6580dd2e0e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Stummheit"@de .
+
+gesundheit:86b41361-46dd-470e-b8b1-065f262b778a a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Dialyse"@de .
+
+gesundheit:8721fb52-7972-4484-b10e-19d05fb9a2f8 a skos:Concept ;
+    skos:broader gesundheit:61eec0cd-ba78-4792-90f1-2a0a6c72730e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Nahrungsaufnahme (Mensch)"@de .
+
+gesundheit:8a7720f5-2ad4-4709-98af-41afbb8346b8 a skos:Concept ;
+    skos:broader gesundheit:d4cebdda-c62a-4d76-a513-c3ca7e3b639d ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Legasthenie"@de .
+
+gesundheit:8a7e5a94-aa45-4369-9195-a08190bc1a51 a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Biomedizin"@de .
+
+gesundheit:8d6cbaf6-22d7-48cd-b56f-1adbcf3b4d28 a skos:Concept ;
+    skos:broader gesundheit:c5acaa14-a61a-4a72-aeb0-2a6580dd2e0e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Gehörlosigkeit"@de .
+
+gesundheit:8e76b4d0-5b27-453a-9243-ccb1409d7bbf a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Schlaf"@de .
+
+gesundheit:8ea9e2ea-fcf0-4845-8b1a-d515026f705b a skos:Concept ;
+    skos:broader gesundheit:5d3fc2b6-40c5-4e74-a315-62b59c8a9433 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Vitamin"@de .
+
+gesundheit:8ee248aa-acd4-4103-b7eb-61c0706a90dd a skos:Concept ;
+    skos:broader gesundheit:c5acaa14-a61a-4a72-aeb0-2a6580dd2e0e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Sprachstörung"@de .
+
+gesundheit:8f563a3f-4497-4046-a256-23b03a7001d5 a skos:Concept ;
+    skos:broader gesundheit:d4cebdda-c62a-4d76-a513-c3ca7e3b639d ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Krebs (Krankheit)"@de .
+
+gesundheit:8f88316d-bb35-4442-a994-dc09967f42b9 a skos:Concept ;
+    skos:broader gesundheit:709e05cd-e3bc-4b5b-9c11-017220f818b6 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Tuberkulose"@de .
+
+gesundheit:8fd0dd69-e535-4812-bfb9-22a03f6e8822 a skos:Concept ;
+    skos:broader gesundheit:d4cebdda-c62a-4d76-a513-c3ca7e3b639d ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Tourette-Syndrom"@de .
+
+gesundheit:917a5e5e-8a7a-4e3f-b86c-8591cc48f2bc a skos:Concept ;
+    skos:broader gesundheit:26721465-42cc-409b-b5f4-f565ee9299c7 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Trauma"@de .
+
+gesundheit:92feee68-fca3-4132-83aa-2b290605a83a a skos:Concept ;
+    skos:broader gesundheit:1019a994-731d-489e-bb6f-19b4340eee39 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Krankenhausaufenthalt"@de .
+
+gesundheit:945ca684-9d71-4c1f-a654-a959be5f66c5 a skos:Concept ;
+    skos:broader gesundheit:7e6304dc-0e67-427f-b01c-31ed530250ef ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Waschmittel"@de .
+
+gesundheit:96c1f7f5-90ba-4b86-8c78-5983626f3813 a skos:Concept ;
+    skos:broader gesundheit:25ea181e-2d38-4799-ae0b-2a533a49ab97 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Margarine"@de .
+
+gesundheit:977b0273-ed21-4bf1-b491-d4531f3a474f a skos:Concept ;
+    skos:broader gesundheit:d4cebdda-c62a-4d76-a513-c3ca7e3b639d ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Fraktur (Medizin)"@de .
+
+gesundheit:98535f0a-866e-475d-80ef-98cbceab1c99 a skos:Concept ;
+    skos:broader gesundheit:83c70d31-7043-492a-affe-e3761200530e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Best, Charles"@de .
+
+gesundheit:98dc77d9-f3c5-46b0-b760-3a9c91a098eb a skos:Concept ;
+    skos:broader gesundheit:83c70d31-7043-492a-affe-e3761200530e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Mitscherlich, Alexander"@de .
+
+gesundheit:9b6e5ce8-b3bb-423c-9565-30a73884bfc1 a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Fieber"@de .
+
+gesundheit:9d0c5f26-ffea-4e77-a262-918a9d5350c7 a skos:Concept ;
+    skos:broader gesundheit:61859ec7-d21a-428b-b806-cfbc897d8f3c ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Zwangsstörung"@de .
+
+gesundheit:9fffa999-e2ba-48d1-b927-35c988b354a0 a skos:Concept ;
+    skos:broader gesundheit:709e05cd-e3bc-4b5b-9c11-017220f818b6 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "BSE"@de .
+
+gesundheit:a0a3272b-2caa-4e49-8580-1b6edf5f9115 a skos:Concept ;
+    skos:broader gesundheit:83c70d31-7043-492a-affe-e3761200530e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Ramón y Cajal, Santiago Felipe"@de .
+
+gesundheit:a21f2877-d108-4a4f-bd8b-19d0fd9ef3f9 a skos:Concept ;
+    skos:broader gesundheit:83c70d31-7043-492a-affe-e3761200530e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Jenner, Edward"@de .
+
+gesundheit:a4336458-11c8-4627-8d2c-6d893a190166 a skos:Concept ;
+    skos:broader gesundheit:26721465-42cc-409b-b5f4-f565ee9299c7 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Kognition"@de .
+
+gesundheit:a649513e-ef9e-4c3b-b7f3-cb711e865348 a skos:Concept ;
+    skos:broader gesundheit:25ea181e-2d38-4799-ae0b-2a533a49ab97 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Schokolade"@de .
+
+gesundheit:a692ef0a-4f12-4a5f-8d55-2f7a068da3c4 a skos:Concept ;
+    skos:broader gesundheit:709e05cd-e3bc-4b5b-9c11-017220f818b6 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "FSME"@de .
+
+gesundheit:a71e2c7e-82fb-4e68-888c-998bdd0de9a3 a skos:Concept ;
+    skos:broader gesundheit:d4cebdda-c62a-4d76-a513-c3ca7e3b639d ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Schlaganfall"@de .
+
+gesundheit:a83a72ef-9b44-4025-b021-c2608c66acf8 a skos:Concept ;
+    skos:broader gesundheit:83c70d31-7043-492a-affe-e3761200530e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Pawlow, Iwan Petrowitsch"@de .
+
+gesundheit:a84e9eeb-350e-45e4-8d53-ff975e3ccbdd a skos:Concept ;
+    skos:broader gesundheit:ca619102-7503-4a1c-8c7b-b76b1cf3c309 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Antibiotika"@de .
+
+gesundheit:a97556fd-62b0-4793-8727-fe2d8a5ebfd8 a skos:Concept ;
+    skos:broader gesundheit:61eec0cd-ba78-4792-90f1-2a0a6c72730e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Lebensmittelkonservierung"@de .
+
+gesundheit:aa88f12a-6c02-4a80-bd05-fe1bd4e0e663 a skos:Concept ;
+    skos:broader gesundheit:709e05cd-e3bc-4b5b-9c11-017220f818b6 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Kindbettfieber"@de .
+
+gesundheit:abb163a2-0b1a-48ca-8057-740636d76231 a skos:Concept ;
+    skos:broader gesundheit:25ea181e-2d38-4799-ae0b-2a533a49ab97 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Brot"@de .
+
+gesundheit:b0e6cc4e-c81f-4622-ab50-dd009f3bc7fc a skos:Concept ;
+    skos:broader gesundheit:25ea181e-2d38-4799-ae0b-2a533a49ab97 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Wurst"@de .
+
+gesundheit:b253c221-2a81-4781-9a04-571d59f604a2 a skos:Concept ;
+    skos:broader gesundheit:d4cebdda-c62a-4d76-a513-c3ca7e3b639d ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Fußdeformität"@de .
+
+gesundheit:b3487c84-ddb9-476a-afc2-7dca0574c2af a skos:Concept ;
+    skos:broader gesundheit:49a3acfc-52db-4e09-9f96-7cc93063b1e1 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Pränataldiagnostik"@de .
+
+gesundheit:b4eac036-7298-42b8-be73-cf0b4d9bf5ba a skos:Concept ;
+    skos:broader gesundheit:83c70d31-7043-492a-affe-e3761200530e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Lückert, HeinzRudiolf"@de .
+
+gesundheit:b5ca89a0-c399-412f-a3e4-5adebb7cf830 a skos:Concept ;
+    skos:broader gesundheit:d4cebdda-c62a-4d76-a513-c3ca7e3b639d ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Diabetes"@de .
+
+gesundheit:b6860694-dd2a-4dfd-9a89-ab14186a7469 a skos:Concept ;
+    skos:broader gesundheit:709e05cd-e3bc-4b5b-9c11-017220f818b6 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Lepra"@de .
+
+gesundheit:ba9b3ae7-b28f-4c0d-a948-a9708787442f a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Injektion (Medizin)"@de .
+
+gesundheit:bf69b84b-e6b3-4bbc-b141-b490ebfdcf4c a skos:Concept ;
+    skos:broader gesundheit:d4cebdda-c62a-4d76-a513-c3ca7e3b639d ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Kopfschmerz"@de .
+
+gesundheit:bffecd33-d08e-4f6d-86e2-f3c27c85429e a skos:Concept ;
+    skos:broader gesundheit:d4cebdda-c62a-4d76-a513-c3ca7e3b639d ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Autismus"@de .
+
+gesundheit:c0c3e499-0026-4ef6-b03c-7cd917eab1b2 a skos:Concept ;
+    skos:broader gesundheit:c5acaa14-a61a-4a72-aeb0-2a6580dd2e0e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Taubstummheit"@de .
+
+gesundheit:c20783d2-9149-43ec-b96e-19432a567704 a skos:Concept ;
+    skos:broader gesundheit:83c70d31-7043-492a-affe-e3761200530e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Schweitzer, Albert"@de .
+
+gesundheit:c21e6449-4a13-4a15-973d-27c7990ecbe4 a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Medizinethik"@de .
+
+gesundheit:c2caa920-fd9f-4a35-868d-4aa650caa6a2 a skos:Concept ;
+    skos:broader gesundheit:26c6db1c-fa6b-4e25-bd2c-c6abea9d16cf ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Frisur"@de .
+
+gesundheit:c323b5e5-4bb8-4d1d-9bcb-dafd962eb780 a skos:Concept ;
+    skos:broader gesundheit:e0786d61-5d60-421f-b44f-1a884e45487d ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Parodontose"@de .
+
+gesundheit:c3918d58-f9ca-44de-870c-5193dd06a089 a skos:Concept ;
+    skos:broader gesundheit:25ea181e-2d38-4799-ae0b-2a533a49ab97 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Teig"@de .
+
+gesundheit:c5e9323a-835a-4945-884a-86634b3bc483 a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Autogenes Training"@de .
+
+gesundheit:c7c62e22-b8a8-4ec0-8108-6de2d382c648 a skos:Concept ;
+    skos:broader gesundheit:e1b12a17-1952-436e-ab09-8653ea607b62 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Gesichtsblindheit"@de .
+
+gesundheit:c8849f11-66a8-4d18-a0f3-e43fc10c50a9 a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Krankenpflege"@de .
+
+gesundheit:c8c499ce-5450-4271-9aa4-5b7051884f0e a skos:Concept ;
+    skos:broader gesundheit:83c70d31-7043-492a-affe-e3761200530e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Bach, Edward"@de .
+
+gesundheit:c93fdcd9-fec0-4d16-bd2f-82d82cdd69f4 a skos:Concept ;
+    skos:broader gesundheit:61eec0cd-ba78-4792-90f1-2a0a6c72730e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Hunger"@de .
+
+gesundheit:cac30856-0680-4a28-990f-72333d07956e a skos:Concept ;
+    skos:broader gesundheit:d4cebdda-c62a-4d76-a513-c3ca7e3b639d ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Krankheitserreger"@de .
+
+gesundheit:cbe118ff-9bd8-4cd5-a85a-f8855d4cc669 a skos:Concept ;
+    skos:broader gesundheit:d4cebdda-c62a-4d76-a513-c3ca7e3b639d ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Deprivation"@de .
+
+gesundheit:ce4cb89e-2498-41cf-908f-513cebae1e6f a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Chemotherapie"@de .
+
+gesundheit:cea31350-8923-4f80-b706-e32ed05b2b39 a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Blutzucker"@de .
+
+gesundheit:cf528b78-894b-40be-ab7b-5ccf38941455 a skos:Concept ;
+    skos:broader gesundheit:89f4576a-f57f-4b52-8ebc-00c46655a792 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Butter"@de .
+
+gesundheit:cfeb4acc-824a-4fcd-a242-5d10b4f61b1a a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Defibrillator"@de .
+
+gesundheit:d0edaf39-c983-4483-92dd-3922ade28855 a skos:Concept ;
+    skos:broader gesundheit:83c70d31-7043-492a-affe-e3761200530e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Paracelsus"@de .
+
+gesundheit:d33330dd-7456-4a3e-ada5-d65c3ea7b41d a skos:Concept ;
+    skos:broader gesundheit:83c70d31-7043-492a-affe-e3761200530e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Simpson, James"@de .
+
+gesundheit:d3f18d2e-5302-43f9-92cf-5aa859c709aa a skos:Concept ;
+    skos:broader gesundheit:d4cebdda-c62a-4d76-a513-c3ca7e3b639d ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Verbrennung (Medizin)"@de .
+
+gesundheit:d3f6205e-4b15-4f23-bf9b-b0aded498e51 a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Geriatrie"@de .
+
+gesundheit:d4179482-c36a-4e87-a60c-f428cd43868c a skos:Concept ;
+    skos:broader gesundheit:709e05cd-e3bc-4b5b-9c11-017220f818b6 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Röteln"@de .
+
+gesundheit:d73d0cd8-9a54-458e-bb18-7a101c33fc93 a skos:Concept ;
+    skos:broader gesundheit:83c70d31-7043-492a-affe-e3761200530e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Lister, Joseph"@de .
+
+gesundheit:d8b6b721-7eff-49e9-ae85-e0a0bfd2971e a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Psychoanalyse"@de .
+
+gesundheit:d8d3e974-64c0-41e5-8f79-c37c0881fee5 a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Rehabilitation"@de .
+
+gesundheit:da52b5af-f9d2-447d-bd5e-c536dbc283ab a skos:Concept ;
+    skos:broader gesundheit:7e6304dc-0e67-427f-b01c-31ed530250ef ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Putzen"@de .
+
+gesundheit:dabb8f00-047e-451b-bfff-b3850a5db1fe a skos:Concept ;
+    skos:broader gesundheit:e0786d61-5d60-421f-b44f-1a884e45487d ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Karies"@de .
+
+gesundheit:db0e9089-f430-4064-952a-313b054b2b4c a skos:Concept ;
+    skos:broader gesundheit:d4cebdda-c62a-4d76-a513-c3ca7e3b639d ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Herzinfarkt"@de .
+
+gesundheit:dc8e250d-7b42-4658-9d7b-01ad6740ca8c a skos:Concept ;
+    skos:broader gesundheit:d4cebdda-c62a-4d76-a513-c3ca7e3b639d ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Magersucht"@de .
+
+gesundheit:dc9e7e36-f7e7-4f46-a52d-4f23aecfc577 a skos:Concept ;
+    skos:broader gesundheit:d4cebdda-c62a-4d76-a513-c3ca7e3b639d ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Demenz"@de .
+
+gesundheit:dec9ede4-1335-48df-b778-89da0a139582 a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Gesundheit"@de .
+
+gesundheit:dfe1ffff-f3d1-4c4c-9ce6-787ed1a1fe84 a skos:Concept ;
+    skos:broader gesundheit:89f4576a-f57f-4b52-8ebc-00c46655a792 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Käse"@de .
+
+gesundheit:e00b6bd2-90ba-4bc5-891d-754f2a3463c4 a skos:Concept ;
+    skos:broader gesundheit:83c70d31-7043-492a-affe-e3761200530e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Grof, Stanislav"@de .
+
+gesundheit:e0b0c60f-1f25-4d5b-acad-0641fa1194dd a skos:Concept ;
+    skos:broader gesundheit:d4cebdda-c62a-4d76-a513-c3ca7e3b639d ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Hospitalismus"@de .
+
+gesundheit:e1f66ce2-aa1b-44b1-8b87-82357ad6c5c5 a skos:Concept ;
+    skos:broader gesundheit:709e05cd-e3bc-4b5b-9c11-017220f818b6 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Kinderlähmung"@de .
+
+gesundheit:e3da35c9-cea1-4b5e-87b1-352b6a6d83d3 a skos:Concept ;
+    skos:broader gesundheit:5457054f-0686-4b52-8afd-2fa1b0355de2 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Allergie"@de .
+
+gesundheit:e409876e-ae77-4150-9959-144e4df517b9 a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Organspende"@de .
+
+gesundheit:e7d731c3-f491-40e3-80ba-13c310bd5df5 a skos:Concept ;
+    skos:broader gesundheit:d4cebdda-c62a-4d76-a513-c3ca7e3b639d ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Krankheitsbild"@de .
+
+gesundheit:e7f9f83b-4150-45b5-a90d-1d4cbee4d886 a skos:Concept ;
+    skos:broader gesundheit:d4cebdda-c62a-4d76-a513-c3ca7e3b639d ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Binge Eating"@de .
+
+gesundheit:e8e5d924-e165-43f4-9482-73bc0c6b5cbb a skos:Concept ;
+    skos:broader gesundheit:7e6304dc-0e67-427f-b01c-31ed530250ef ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Putzmittel"@de .
+
+gesundheit:e96b93a2-a26d-465c-a4b6-eaa172b7b212 a skos:Concept ;
+    skos:broader gesundheit:d4cebdda-c62a-4d76-a513-c3ca7e3b639d ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Avitaminose"@de .
+
+gesundheit:e96efe77-089d-4f78-ae0e-d59905c91b5c a skos:Concept ;
+    skos:broader gesundheit:83c70d31-7043-492a-affe-e3761200530e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Einthoven, Willem"@de .
+
+gesundheit:ea88fb78-e4a6-408d-a361-3049aa87bab8 a skos:Concept ;
+    skos:broader gesundheit:d02f71ac-58f2-46c6-bdcd-ab4af3c86b40 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Bluterkrankheit"@de .
+
+gesundheit:ec3d9288-a6c6-434d-8fbd-77256c626ad2 a skos:Concept ;
+    skos:broader gesundheit:83c70d31-7043-492a-affe-e3761200530e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Wertheimer, Max"@de .
+
+gesundheit:ec424bc0-3532-4d75-a013-4580f09b01b1 a skos:Concept ;
+    skos:broader gesundheit:d4cebdda-c62a-4d76-a513-c3ca7e3b639d ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Narzissmus"@de .
+
+gesundheit:eec43cab-1abb-48c1-8ae8-824a01a704b2 a skos:Concept ;
+    skos:broader gesundheit:d4cebdda-c62a-4d76-a513-c3ca7e3b639d ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Venenerkrankung"@de .
+
+gesundheit:ef438ea9-84d4-4638-a819-565df4d57d26 a skos:Concept ;
+    skos:broader gesundheit:26c6db1c-fa6b-4e25-bd2c-c6abea9d16cf ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Sauberkeitserziehung"@de .
+
+gesundheit:efe17c76-0e94-4c50-9380-263d63091dae a skos:Concept ;
+    skos:broader gesundheit:83c70d31-7043-492a-affe-e3761200530e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Kandel, Eric Richard"@de .
+
+gesundheit:f1c04adf-1561-4911-9254-6a54bc51ae42 a skos:Concept ;
+    skos:broader gesundheit:83c70d31-7043-492a-affe-e3761200530e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Kohut, Heinz"@de .
+
+gesundheit:f1ffc2d9-6376-43dd-8d8c-1c9b44925e87 a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Alternativmedizin"@de .
+
+gesundheit:f26588ec-8351-4249-bf3e-719f5c9e591d a skos:Concept ;
+    skos:broader gesundheit:83c70d31-7043-492a-affe-e3761200530e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Kneipp, Sebastian"@de .
+
+gesundheit:f3d2a42a-0e8d-479d-aeb4-678fc223e5f7 a skos:Concept ;
+    skos:broader gesundheit:709e05cd-e3bc-4b5b-9c11-017220f818b6 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Borreliose"@de .
+
+gesundheit:f4eb7557-7df6-4c19-be7a-d6f8243bda16 a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Implantat"@de .
+
+gesundheit:f9462fc1-004b-4112-9a3a-9d47e20c48ba a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Gesundheitserziehung"@de .
+
+gesundheit:fcbafa7f-5f6b-437c-b8ab-fffd6aff7f56 a skos:Concept ;
+    skos:broader gesundheit:83c70d31-7043-492a-affe-e3761200530e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Steinmann, Fritz"@de .
+
+gesundheit:fdf48156-b785-4acd-b7d4-ed889bb5a391 a skos:Concept ;
+    skos:broader gesundheit:709e05cd-e3bc-4b5b-9c11-017220f818b6 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Aids"@de .
+
+gesundheit:fe0a46c4-2a9e-4ea5-bf6a-bafb753ef98b a skos:Concept ;
+    skos:broader gesundheit:25ea181e-2d38-4799-ae0b-2a533a49ab97 ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Fleisch"@de .
+
+gesundheit:fe982fd3-a2fb-4ba1-a5ad-207a6c176cd7 a skos:Concept ;
+    skos:broader gesundheit:61eec0cd-ba78-4792-90f1-2a0a6c72730e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Stillen"@de .
+
+gesundheit:ff4269f7-6833-422b-af2d-8e50a0a41d44 a skos:Concept ;
+    skos:broader gesundheit:83c70d31-7043-492a-affe-e3761200530e ;
+    skos:inScheme gesundheit: ;
+    skos:prefLabel "Pettenkofer, Max von"@de .
+
+gesundheit:0d82bd7f-38e1-45b2-bafa-0929958cb6fc a skos:Concept ;
+    skos:broader gesundheit:61eec0cd-ba78-4792-90f1-2a0a6c72730e ;
+    skos:inScheme gesundheit: ;
+    skos:narrower gesundheit:113cf0aa-b176-4548-b32a-b3077d820d8d ;
     skos:prefLabel "Garmethode"@de .
 
-<immunreaktion_id> a skos:Concept ;
-    skos:broader <krankheit_id> ;
-    skos:inScheme <> ;
-    skos:narrower <allergie_id> ;
-    skos:prefLabel "Immunreaktion"@de .
-
-<infektion_id> a skos:Concept ;
-    skos:broader <krankheit_id> ;
-    skos:inScheme <> ;
-    skos:narrower <infektionskrankheit_id> ;
-    skos:prefLabel "Infektion"@de .
-
-<krankenhaus_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:narrower <krankenhausaufenthalt_id> ;
+gesundheit:1019a994-731d-489e-bb6f-19b4340eee39 a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:narrower gesundheit:92feee68-fca3-4132-83aa-2b290605a83a ;
     skos:prefLabel "Krankenhaus"@de .
 
-<pharmazie_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:narrower <arzneimittel_id> ;
-    skos:prefLabel "Pharmazie"@de .
-
-<sehfehler_id> a skos:Concept ;
-    skos:broader <krankheit_id> ;
-    skos:inScheme <> ;
-    skos:narrower <weitsichtigkeit_id> ;
-    skos:prefLabel "Sehfehler"@de .
-
-<untersuchungsmethode_medizin_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:narrower <magnetoenzophalographie_id> ;
-    skos:prefLabel "Untersuchungsmethode (Medizin)"@de .
-
-<vegetarier_id> a skos:Concept ;
-    skos:broader <ernährung_id> ;
-    skos:inScheme <> ;
-    skos:narrower <veganer_id> ;
-    skos:prefLabel "Vegetarier"@de .
-
-<vorratshaltung_id> a skos:Concept ;
-    skos:broader <ernährung_id> ;
-    skos:inScheme <> ;
-    skos:narrower <essig_id> ;
+gesundheit:19e9c2d9-8d5b-4caa-bce1-1644258d4056 a skos:Concept ;
+    skos:broader gesundheit:61eec0cd-ba78-4792-90f1-2a0a6c72730e ;
+    skos:inScheme gesundheit: ;
+    skos:narrower gesundheit:7f31bc81-9e1b-441e-be00-d24991bf4ad6 ;
     skos:prefLabel "Vorratshaltung"@de .
 
-<vorsorgeuntersuchung_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:narrower <pränataldiagnostik_id> ;
+gesundheit:340c0133-a01d-4074-8939-952122cf9709 a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:narrower gesundheit:ca619102-7503-4a1c-8c7b-b76b1cf3c309 ;
+    skos:prefLabel "Pharmazie"@de .
+
+gesundheit:3adcf42c-79d9-4521-a648-b833a333d8b1 a skos:Concept ;
+    skos:broader gesundheit:61eec0cd-ba78-4792-90f1-2a0a6c72730e ;
+    skos:inScheme gesundheit: ;
+    skos:narrower gesundheit:6393b065-60db-44c7-8b68-24c683fc46f5 ;
+    skos:prefLabel "Vegetarier"@de .
+
+gesundheit:49a3acfc-52db-4e09-9f96-7cc93063b1e1 a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:narrower gesundheit:b3487c84-ddb9-476a-afc2-7dca0574c2af ;
     skos:prefLabel "Vorsorgeuntersuchung"@de .
 
-<arzneimittel_id> a skos:Concept ;
-    skos:broader <pharmazie_id> ;
-    skos:inScheme <> ;
-    skos:narrower <antibiotika_id>,
-        <cortison_id> ;
-    skos:prefLabel "Arzneimittel"@de .
+gesundheit:5457054f-0686-4b52-8afd-2fa1b0355de2 a skos:Concept ;
+    skos:broader gesundheit:d4cebdda-c62a-4d76-a513-c3ca7e3b639d ;
+    skos:inScheme gesundheit: ;
+    skos:narrower gesundheit:e3da35c9-cea1-4b5e-87b1-352b6a6d83d3 ;
+    skos:prefLabel "Immunreaktion"@de .
 
-<genussmittel_id> a skos:Concept ;
-    skos:broader <lebensmittel_id> ;
-    skos:inScheme <> ;
-    skos:narrower <coca_cola_id>,
-        <nikotin_id> ;
-    skos:prefLabel "Genussmittel"@de .
+gesundheit:5cce4ee0-0b83-4455-a8f6-54dfd2a83579 a skos:Concept ;
+    skos:broader gesundheit:d4cebdda-c62a-4d76-a513-c3ca7e3b639d ;
+    skos:inScheme gesundheit: ;
+    skos:narrower gesundheit:709e05cd-e3bc-4b5b-9c11-017220f818b6 ;
+    skos:prefLabel "Infektion"@de .
 
-<haushaltsgerät_id> a skos:Concept ;
-    skos:broader <küche_id> ;
-    skos:inScheme <> ;
-    skos:narrower <herd_haushaltstechnik_id>,
-        <waschmaschine_id> ;
-    skos:prefLabel "Haushaltsgerät"@de .
+gesundheit:a94f930f-783e-4435-bb4b-a262b72ceb96 a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:narrower gesundheit:058c7f37-8dea-4af7-af05-d5691533aded ;
+    skos:prefLabel "Untersuchungsmethode (Medizin)"@de .
 
-<küche_id> a skos:Concept ;
-    skos:broader <ernährung_id> ;
-    skos:inScheme <> ;
-    skos:narrower <haushaltsgerät_id>,
-        <haushaltsgeschirr__id> ;
+gesundheit:d02f71ac-58f2-46c6-bdcd-ab4af3c86b40 a skos:Concept ;
+    skos:broader gesundheit:d4cebdda-c62a-4d76-a513-c3ca7e3b639d ;
+    skos:inScheme gesundheit: ;
+    skos:narrower gesundheit:ea88fb78-e4a6-408d-a361-3049aa87bab8 ;
+    skos:prefLabel "Erbkrankheit"@de .
+
+gesundheit:e0adbe3f-4b60-409a-9659-9159ba856063 a skos:Concept ;
+    skos:broader gesundheit:d4cebdda-c62a-4d76-a513-c3ca7e3b639d ;
+    skos:inScheme gesundheit: ;
+    skos:narrower gesundheit:5c21e94e-e388-4465-b0ff-7adb5d4be1a1 ;
+    skos:prefLabel "Sehfehler"@de .
+
+gesundheit:e1b12a17-1952-436e-ab09-8653ea607b62 a skos:Concept ;
+    skos:broader gesundheit:c5acaa14-a61a-4a72-aeb0-2a6580dd2e0e ;
+    skos:inScheme gesundheit: ;
+    skos:narrower gesundheit:c7c62e22-b8a8-4ec0-8108-6de2d382c648 ;
+    skos:prefLabel "Blindheit"@de .
+
+gesundheit:f4772b30-bf26-41e7-a516-755d8911bd65 a skos:Concept ;
+    skos:broader gesundheit:61eec0cd-ba78-4792-90f1-2a0a6c72730e ;
+    skos:inScheme gesundheit: ;
+    skos:narrower gesundheit:0c7da2f4-b345-438a-881b-6a5cdd568a96 ;
+    skos:prefLabel "Frühstück"@de .
+
+gesundheit:07f70ddd-3351-47c4-878f-9ced224a9c9d a skos:Concept ;
+    skos:broader gesundheit:61eec0cd-ba78-4792-90f1-2a0a6c72730e ;
+    skos:inScheme gesundheit: ;
+    skos:narrower gesundheit:29680547-5392-4cde-a1ab-be61a41dc0a9,
+        gesundheit:887bc91f-9d5a-4f0d-970a-bef137134957 ;
     skos:prefLabel "Küche"@de .
 
-<psychische_krankheiten_id> a skos:Concept ;
-    skos:broader <krankheit_id> ;
-    skos:inScheme <> ;
-    skos:narrower <ads_psychologie_id>,
-        <zwangsstörung_id> ;
-    skos:prefLabel "Psychische Krankheiten"@de .
-
-<psychologie_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:narrower <kognition_id>,
-        <trauma_id> ;
+gesundheit:26721465-42cc-409b-b5f4-f565ee9299c7 a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:narrower gesundheit:917a5e5e-8a7a-4e3f-b86c-8591cc48f2bc,
+        gesundheit:a4336458-11c8-4627-8d2c-6d893a190166 ;
     skos:prefLabel "Psychologie"@de .
 
-<zahnpflege_id> a skos:Concept ;
-    skos:broader <krankheit_id> ;
-    skos:inScheme <> ;
-    skos:narrower <karies_id>,
-        <parodontose_id> ;
+gesundheit:5952826c-4e0e-4ff4-8ba6-0163b199a9c1 a skos:Concept ;
+    skos:broader gesundheit:5d3fc2b6-40c5-4e74-a315-62b59c8a9433 ;
+    skos:inScheme gesundheit: ;
+    skos:narrower gesundheit:0dcddf59-4d92-49b1-ae53-659386d60e6c,
+        gesundheit:6f9a45c3-3fd9-46d3-8ec6-2b740a5805fe ;
+    skos:prefLabel "Genussmittel"@de .
+
+gesundheit:61859ec7-d21a-428b-b806-cfbc897d8f3c a skos:Concept ;
+    skos:broader gesundheit:d4cebdda-c62a-4d76-a513-c3ca7e3b639d ;
+    skos:inScheme gesundheit: ;
+    skos:narrower gesundheit:079f670d-7581-4cdb-b903-36b1f67d1c2b,
+        gesundheit:9d0c5f26-ffea-4e77-a262-918a9d5350c7 ;
+    skos:prefLabel "Psychische Krankheiten"@de .
+
+gesundheit:887bc91f-9d5a-4f0d-970a-bef137134957 a skos:Concept ;
+    skos:broader gesundheit:07f70ddd-3351-47c4-878f-9ced224a9c9d ;
+    skos:inScheme gesundheit: ;
+    skos:narrower gesundheit:2f6bff04-8116-4eca-9a80-6da352bc6a6d,
+        gesundheit:7036f646-4c56-4687-aa67-54f6ce061f7c ;
+    skos:prefLabel "Haushaltsgerät"@de .
+
+gesundheit:ca619102-7503-4a1c-8c7b-b76b1cf3c309 a skos:Concept ;
+    skos:broader gesundheit:340c0133-a01d-4074-8939-952122cf9709 ;
+    skos:inScheme gesundheit: ;
+    skos:narrower gesundheit:5f4b6c7b-d7a6-4b10-94e9-7f1277e29527,
+        gesundheit:a84e9eeb-350e-45e4-8d53-ff975e3ccbdd ;
+    skos:prefLabel "Arzneimittel"@de .
+
+gesundheit:e0786d61-5d60-421f-b44f-1a884e45487d a skos:Concept ;
+    skos:broader gesundheit:d4cebdda-c62a-4d76-a513-c3ca7e3b639d ;
+    skos:inScheme gesundheit: ;
+    skos:narrower gesundheit:c323b5e5-4bb8-4d1d-9bcb-dafd962eb780,
+        gesundheit:dabb8f00-047e-451b-bfff-b3850a5db1fe ;
     skos:prefLabel "Zahnpflege"@de .
 
-<körperpflege_id> a skos:Concept ;
-    skos:broader <hygiene_id> ;
-    skos:inScheme <> ;
-    skos:narrower <frisur_id>,
-        <kosmetik_id>,
-        <sauberkeitserziehung_id> ;
+gesundheit:26c6db1c-fa6b-4e25-bd2c-c6abea9d16cf a skos:Concept ;
+    skos:broader gesundheit:7e6304dc-0e67-427f-b01c-31ed530250ef ;
+    skos:inScheme gesundheit: ;
+    skos:narrower gesundheit:20e1ecad-1095-4abb-90d0-3001701fc224,
+        gesundheit:c2caa920-fd9f-4a35-868d-4aa650caa6a2,
+        gesundheit:ef438ea9-84d4-4638-a819-565df4d57d26 ;
     skos:prefLabel "Körperpflege)"@de .
 
-<lebensmittel_id> a skos:Concept ;
-    skos:broader <ernährung_id> ;
-    skos:inScheme <> ;
-    skos:narrower <genussmittel_id>,
-        <nahrungsmittel_id>,
-        <spurenelement_id>,
-        <vitamin_id> ;
+gesundheit:5d3fc2b6-40c5-4e74-a315-62b59c8a9433 a skos:Concept ;
+    skos:broader gesundheit:61eec0cd-ba78-4792-90f1-2a0a6c72730e ;
+    skos:inScheme gesundheit: ;
+    skos:narrower gesundheit:25ea181e-2d38-4799-ae0b-2a533a49ab97,
+        gesundheit:4e20b7ed-c34c-45d4-9db0-9de175c6beed,
+        gesundheit:5952826c-4e0e-4ff4-8ba6-0163b199a9c1,
+        gesundheit:8ea9e2ea-fcf0-4845-8b1a-d515026f705b ;
     skos:prefLabel "Lebensmittel"@de .
 
-<milchprodukt_id> a skos:Concept ;
-    skos:broader <nahrungsmittel_id> ;
-    skos:inScheme <> ;
-    skos:narrower <butter_id>,
-        <joghurt_id>,
-        <käse_id>,
-        <milch_id> ;
+gesundheit:89f4576a-f57f-4b52-8ebc-00c46655a792 a skos:Concept ;
+    skos:broader gesundheit:25ea181e-2d38-4799-ae0b-2a533a49ab97 ;
+    skos:inScheme gesundheit: ;
+    skos:narrower gesundheit:31a7f5f9-1a7c-4892-8b7a-e23238f85775,
+        gesundheit:328986ca-8b89-46f7-983a-0e5a5f4ae13b,
+        gesundheit:cf528b78-894b-40be-ab7b-5ccf38941455,
+        gesundheit:dfe1ffff-f3d1-4c4c-9ce6-787ed1a1fe84 ;
     skos:prefLabel "Milchprodukt"@de .
 
-<hygiene_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <chemie_im_haushalt_id>,
-        <körperpflege_id>,
-        <putzen_id>,
-        <putzmittel_id>,
-        <toilette_id>,
-        <waschmittel_id> ;
+gesundheit:7e6304dc-0e67-427f-b01c-31ed530250ef a skos:Concept ;
+    skos:inScheme gesundheit: ;
+    skos:narrower gesundheit:26c6db1c-fa6b-4e25-bd2c-c6abea9d16cf,
+        gesundheit:43341f1b-4257-43b0-97f9-d8404d01408c,
+        gesundheit:48ca553c-d3ae-4c44-9ab7-18bb7a8db2b5,
+        gesundheit:945ca684-9d71-4c1f-a654-a959be5f66c5,
+        gesundheit:da52b5af-f9d2-447d-bd5e-c536dbc283ab,
+        gesundheit:e8e5d924-e165-43f4-9482-73bc0c6b5cbb ;
     skos:prefLabel "Hygiene"@de ;
-    skos:topConceptOf <> .
+    skos:topConceptOf gesundheit: .
 
-<behinderung_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:narrower <blindheit_id>,
-        <downsyndrom_id>,
-        <gehörlosigkeit_id>,
-        <spastiker_id>,
-        <sprachstörung_id>,
-        <stummheit_id>,
-        <taubstummheit_id> ;
+gesundheit:c5acaa14-a61a-4a72-aeb0-2a6580dd2e0e a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:narrower gesundheit:5f00610f-3afb-4ca7-ac56-10326d69b82d,
+        gesundheit:77de8c4e-c0e8-4eba-a04c-c7a79fd627a0,
+        gesundheit:8295517f-3ca9-4ddc-9705-f3baa855dcf8,
+        gesundheit:8d6cbaf6-22d7-48cd-b56f-1adbcf3b4d28,
+        gesundheit:8ee248aa-acd4-4103-b7eb-61c0706a90dd,
+        gesundheit:c0c3e499-0026-4ef6-b03c-7cd917eab1b2,
+        gesundheit:e1b12a17-1952-436e-ab09-8653ea607b62 ;
     skos:prefLabel "Behinderung"@de .
 
-<nahrungsmittel_id> a skos:Concept ;
-    skos:broader <lebensmittel_id> ;
-    skos:inScheme <> ;
-    skos:narrower <brot_id>,
-        <fleisch_id>,
-        <gemüse_id>,
-        <hühnerei_id>,
-        <margarine_id>,
-        <mehl_id>,
-        <milchprodukt_id>,
-        <schokolade_id>,
-        <teig_id>,
-        <wurst_id>,
-        <zucker_id> ;
+gesundheit:25ea181e-2d38-4799-ae0b-2a533a49ab97 a skos:Concept ;
+    skos:broader gesundheit:5d3fc2b6-40c5-4e74-a315-62b59c8a9433 ;
+    skos:inScheme gesundheit: ;
+    skos:narrower gesundheit:0f12958d-0a4a-4d2c-bfe9-57454bee24ca,
+        gesundheit:1c589e81-2f06-4b39-82c3-8ea546769807,
+        gesundheit:72dbdad3-f4c1-440d-b38e-34bab25f3428,
+        gesundheit:73ff65f3-eeba-407c-898d-05e1126db94d,
+        gesundheit:89f4576a-f57f-4b52-8ebc-00c46655a792,
+        gesundheit:96c1f7f5-90ba-4b86-8c78-5983626f3813,
+        gesundheit:a649513e-ef9e-4c3b-b7f3-cb711e865348,
+        gesundheit:abb163a2-0b1a-48ca-8057-740636d76231,
+        gesundheit:b0e6cc4e-c81f-4622-ab50-dd009f3bc7fc,
+        gesundheit:c3918d58-f9ca-44de-870c-5193dd06a089,
+        gesundheit:fe0a46c4-2a9e-4ea5-bf6a-bafb753ef98b ;
     skos:prefLabel "Nahrungsmittel"@de .
 
-<infektionskrankheit_id> a skos:Concept ;
-    skos:broader <infektion_id> ;
-    skos:inScheme <> ;
-    skos:narrower <aids_id>,
-        <borreliose_id>,
-        <bse_id>,
-        <fsme_id>,
-        <geschlechtskrankheit_id>,
-        <kindbettfieber_id>,
-        <kinderlähmung_id>,
-        <lepra_id>,
-        <röteln_id>,
-        <tropenkrankheit_id>,
-        <tuberkulose_id>,
-        <windpocken_id> ;
+gesundheit:709e05cd-e3bc-4b5b-9c11-017220f818b6 a skos:Concept ;
+    skos:broader gesundheit:5cce4ee0-0b83-4455-a8f6-54dfd2a83579 ;
+    skos:inScheme gesundheit: ;
+    skos:narrower gesundheit:242ecb3f-8bfa-45f2-a156-fa6cea46f89f,
+        gesundheit:2fd1cef5-fa57-4ac6-8cb6-c64a541d024e,
+        gesundheit:3e0ae5c5-7092-446a-8009-0be3f14740c2,
+        gesundheit:8f88316d-bb35-4442-a994-dc09967f42b9,
+        gesundheit:9fffa999-e2ba-48d1-b927-35c988b354a0,
+        gesundheit:a692ef0a-4f12-4a5f-8d55-2f7a068da3c4,
+        gesundheit:aa88f12a-6c02-4a80-bd05-fe1bd4e0e663,
+        gesundheit:b6860694-dd2a-4dfd-9a89-ab14186a7469,
+        gesundheit:d4179482-c36a-4e87-a60c-f428cd43868c,
+        gesundheit:e1f66ce2-aa1b-44b1-8b87-82357ad6c5c5,
+        gesundheit:f3d2a42a-0e8d-479d-aeb4-678fc223e5f7,
+        gesundheit:fdf48156-b785-4acd-b7d4-ed889bb5a391 ;
     skos:prefLabel "Infektionskrankheit"@de .
 
-<ernährung_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <diät_id>,
-        <ernährungsfehler_id>,
-        <fast_food_id>,
-        <frühstück_id>,
-        <garmethode_id>,
-        <gemeinschaftsverpflegung_id>,
-        <hunger_id>,
-        <küche_id>,
-        <lebensmittel_id>,
-        <lebensmittelkonservierung_id>,
-        <nahrungsaufnahme_mensch_id>,
-        <nahrungsergänzungsmittel_id>,
-        <nährwert_id>,
-        <stillen_id>,
-        <tiefkühlkost_id>,
-        <vegetarier_id>,
-        <vollwertkost_id>,
-        <vorratshaltung_id> ;
+gesundheit:61eec0cd-ba78-4792-90f1-2a0a6c72730e a skos:Concept ;
+    skos:inScheme gesundheit: ;
+    skos:narrower gesundheit:07f70ddd-3351-47c4-878f-9ced224a9c9d,
+        gesundheit:0d55978f-b1a7-45c1-86a8-d79ba4be2562,
+        gesundheit:0d82bd7f-38e1-45b2-bafa-0929958cb6fc,
+        gesundheit:19e9c2d9-8d5b-4caa-bce1-1644258d4056,
+        gesundheit:1c794c78-f942-4f43-8ccc-7df9797983a5,
+        gesundheit:2202afe3-993c-4f4f-87bf-f9582edca5eb,
+        gesundheit:3240002d-2c31-4257-9c19-0371123b45eb,
+        gesundheit:350d1ee5-10bb-4ce7-88ea-7f56b2bb2ded,
+        gesundheit:3adcf42c-79d9-4521-a648-b833a333d8b1,
+        gesundheit:46c735de-c5e5-4937-a733-d59757ddad30,
+        gesundheit:5d3fc2b6-40c5-4e74-a315-62b59c8a9433,
+        gesundheit:6bf2d5b4-4de2-459a-bff9-c4970b9dd6f3,
+        gesundheit:74e19037-9797-4bec-9315-7b32ce3a43cf,
+        gesundheit:8721fb52-7972-4484-b10e-19d05fb9a2f8,
+        gesundheit:a97556fd-62b0-4793-8727-fe2d8a5ebfd8,
+        gesundheit:c93fdcd9-fec0-4d16-bd2f-82d82cdd69f4,
+        gesundheit:f4772b30-bf26-41e7-a516-755d8911bd65,
+        gesundheit:fe982fd3-a2fb-4ba1-a5ad-207a6c176cd7 ;
     skos:prefLabel "Ernährung"@de ;
-    skos:topConceptOf <> .
+    skos:topConceptOf gesundheit: .
 
-<personen_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <bach__edward_id>,
-        <banting__frederick_id>,
-        <bauer__karl_heinrich_id>,
-        <best__charles_id>,
-        <brunschig__hieronymus_id>,
-        <carus__carl_gustav_id>,
-        <eccles__john_id>,
-        <ehrlich__paul_id>,
-        <einthoven__willem_id>,
-        <freud__sigmund_id>,
-        <grof__stanislav_id>,
-        <jenner__edward_id>,
-        <kandel__eric_richard_id>,
-        <kneipp__sebastian_id>,
-        <kohut__heinz_id>,
-        <küblerross__elisabeth_id>,
-        <landsteiner__karl_id>,
-        <levitin__daniel_id>,
-        <lister__joseph_id>,
-        <lückert__heinzrudiolf_id>,
-        <mayer__robert_id>,
-        <mitscherlich__alexander_id>,
-        <montesquieu_id>,
-        <morton__william_id>,
-        <paracelsus_id>,
-        <pawlow__iwan_petrowitsch_id>,
-        <pettenkofer__max_von_id>,
-        <ramón_y_cajal__santiago_felipe_id>,
-        <rank__otto_id>,
-        <reich__wilhelm_id>,
-        <schweitzer__albert_id>,
-        <semmelweis__ignaz_philipp_id>,
-        <simpson__james_id>,
-        <steinmann__fritz_id>,
-        <trott_zu_solz__claritta_von_id>,
-        <virchow__rudolf_id>,
-        <wertheimer__max_id>,
-        <ylppó__arvo_henrik_id> ;
+gesundheit:83c70d31-7043-492a-affe-e3761200530e a skos:Concept ;
+    skos:inScheme gesundheit: ;
+    skos:narrower gesundheit:100303a9-ae5f-4587-a2d1-5a4747bac2a0,
+        gesundheit:1240a6b7-292d-4ef9-8dc8-aa3d7b1a8d72,
+        gesundheit:125f338c-f821-4986-a130-2b4ff2ec467f,
+        gesundheit:13335853-7cf9-41e3-9beb-23532b245527,
+        gesundheit:14c0635a-d90d-4e35-947a-860a3e33c318,
+        gesundheit:1fc2fad6-4bb2-416a-ba07-28b8b7d8bee6,
+        gesundheit:256ef0af-b18a-4bf7-b1f7-ab7549a290ff,
+        gesundheit:2f7275eb-041f-4a8d-960b-865ce63673e6,
+        gesundheit:395f54f5-2627-42c0-b4a6-84fc4c9e7aa2,
+        gesundheit:52f47601-635d-421d-8bdd-5ac3338230bd,
+        gesundheit:5b0ee257-9fb5-48d5-910a-0454fa78f4c7,
+        gesundheit:5e2d22fb-be3b-4064-b5e3-25b2f2acc17f,
+        gesundheit:62b99c59-4330-4dce-8ed6-75a988e31d9f,
+        gesundheit:6d8dfdd0-c94a-40d6-9c59-ac08941fa153,
+        gesundheit:6da9449c-c2fd-4e3f-9b8f-70398774280c,
+        gesundheit:6f924e70-e755-4438-ad84-2bf625ba3e16,
+        gesundheit:6fef0624-921a-44a7-a896-365f13f5d0e5,
+        gesundheit:77f298b8-adda-4522-86d9-6e709e10891b,
+        gesundheit:814621c5-e637-42e5-be17-7bf093671a2e,
+        gesundheit:98535f0a-866e-475d-80ef-98cbceab1c99,
+        gesundheit:98dc77d9-f3c5-46b0-b760-3a9c91a098eb,
+        gesundheit:a0a3272b-2caa-4e49-8580-1b6edf5f9115,
+        gesundheit:a21f2877-d108-4a4f-bd8b-19d0fd9ef3f9,
+        gesundheit:a83a72ef-9b44-4025-b021-c2608c66acf8,
+        gesundheit:b4eac036-7298-42b8-be73-cf0b4d9bf5ba,
+        gesundheit:c20783d2-9149-43ec-b96e-19432a567704,
+        gesundheit:c8c499ce-5450-4271-9aa4-5b7051884f0e,
+        gesundheit:d0edaf39-c983-4483-92dd-3922ade28855,
+        gesundheit:d33330dd-7456-4a3e-ada5-d65c3ea7b41d,
+        gesundheit:d73d0cd8-9a54-458e-bb18-7a101c33fc93,
+        gesundheit:e00b6bd2-90ba-4bc5-891d-754f2a3463c4,
+        gesundheit:e96efe77-089d-4f78-ae0e-d59905c91b5c,
+        gesundheit:ec3d9288-a6c6-434d-8fbd-77256c626ad2,
+        gesundheit:efe17c76-0e94-4c50-9380-263d63091dae,
+        gesundheit:f1c04adf-1561-4911-9254-6a54bc51ae42,
+        gesundheit:f26588ec-8351-4249-bf3e-719f5c9e591d,
+        gesundheit:fcbafa7f-5f6b-437c-b8ab-fffd6aff7f56,
+        gesundheit:ff4269f7-6833-422b-af2d-8e50a0a41d44 ;
     skos:prefLabel "Personen"@de ;
-    skos:topConceptOf <> .
+    skos:topConceptOf gesundheit: .
 
-<krankheit_id> a skos:Concept ;
-    skos:broader <medizin_heilkunde_id> ;
-    skos:inScheme <> ;
-    skos:narrower <akne_id>,
-        <arteriosklerose_id>,
-        <autismus_id>,
-        <avitaminose_id>,
-        <binge_eating_id>,
-        <demenz_id>,
-        <deprivation_id>,
-        <diabetes_id>,
-        <dyskalkulie_id>,
-        <erbkrankheit_id>,
-        <fraktur_medizin_id>,
-        <fußdeformität_id>,
-        <haltungsfehler_id>,
-        <herzinfarkt_id>,
-        <hospitalismus_id>,
-        <immunreaktion_id>,
-        <infektion_id>,
-        <kopfschmerz_id>,
-        <krampfader_id>,
-        <krankheitsbild_id>,
-        <krankheitserreger_id>,
-        <krebs_krankheit_id>,
-        <lebensmittelvergiftung_id>,
-        <leberzirrhose_id>,
-        <legasthenie_id>,
-        <leukämie_id>,
-        <magersucht_id>,
-        <multiple_sklerose_id>,
-        <muskelschwäche_id>,
-        <narzissmus_id>,
-        <psychische_krankheiten_id>,
-        <schlaganfall_id>,
-        <sehfehler_id>,
-        <seuche_id>,
-        <sterilität_unfruchtbarkeit_id>,
-        <stoffwechselkrankheit_id>,
-        <strahlenschaden_id>,
-        <tourettesyndrom_id>,
-        <unterernährung_id>,
-        <venenerkrankung_id>,
-        <verbrennung_medizin_id>,
-        <wunde_id>,
-        <zahnpflege_id>,
-        <zivilisationskrankheit_id>,
-        <übergewicht_id> ;
+gesundheit:d4cebdda-c62a-4d76-a513-c3ca7e3b639d a skos:Concept ;
+    skos:broader gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 ;
+    skos:inScheme gesundheit: ;
+    skos:narrower gesundheit:0206cf65-3fe9-4462-9cf0-97dc6a187996,
+        gesundheit:020c81a0-b436-4c65-8df0-8c0f8141bef1,
+        gesundheit:0e00ea5e-2355-4fe6-ad96-61a64b87db6a,
+        gesundheit:0e6dd1f0-2e0a-49b7-920a-cba9f203e4e8,
+        gesundheit:123dc48b-8e19-4dba-af24-17cf7ff6acb7,
+        gesundheit:1a4641f5-3269-471f-b4bb-ef9f79a4d244,
+        gesundheit:201ebeb6-2523-4ed9-9788-1aaa48b9fa8b,
+        gesundheit:292f26a0-a4fc-4749-9f78-ce5e17c8b83f,
+        gesundheit:2950aa83-9cc9-4195-a9b1-39b6665ce78f,
+        gesundheit:2d71ee24-00b7-4a87-85fb-5c389234be88,
+        gesundheit:359b6491-1e2b-4c30-a9e6-5dde74042f40,
+        gesundheit:38d0d541-cb3d-46fe-8e92-23ef3047f1b6,
+        gesundheit:5457054f-0686-4b52-8afd-2fa1b0355de2,
+        gesundheit:55f5677a-8c15-4f81-addd-54483398c6db,
+        gesundheit:56b3fd57-eb10-4c99-8f8b-a153339773e7,
+        gesundheit:580cdd23-88dc-4e19-9f35-4e8a83c33a6b,
+        gesundheit:5a7ead34-509d-418d-ba76-2dce7efa5e93,
+        gesundheit:5cce4ee0-0b83-4455-a8f6-54dfd2a83579,
+        gesundheit:61859ec7-d21a-428b-b806-cfbc897d8f3c,
+        gesundheit:74336a4a-701c-4b86-b00d-c30c594ef7fa,
+        gesundheit:7f352e3b-c861-4ef4-be18-11db0b7d78b6,
+        gesundheit:8a7720f5-2ad4-4709-98af-41afbb8346b8,
+        gesundheit:8f563a3f-4497-4046-a256-23b03a7001d5,
+        gesundheit:8fd0dd69-e535-4812-bfb9-22a03f6e8822,
+        gesundheit:977b0273-ed21-4bf1-b491-d4531f3a474f,
+        gesundheit:a71e2c7e-82fb-4e68-888c-998bdd0de9a3,
+        gesundheit:b253c221-2a81-4781-9a04-571d59f604a2,
+        gesundheit:b5ca89a0-c399-412f-a3e4-5adebb7cf830,
+        gesundheit:bf69b84b-e6b3-4bbc-b141-b490ebfdcf4c,
+        gesundheit:bffecd33-d08e-4f6d-86e2-f3c27c85429e,
+        gesundheit:cac30856-0680-4a28-990f-72333d07956e,
+        gesundheit:cbe118ff-9bd8-4cd5-a85a-f8855d4cc669,
+        gesundheit:d02f71ac-58f2-46c6-bdcd-ab4af3c86b40,
+        gesundheit:d3f18d2e-5302-43f9-92cf-5aa859c709aa,
+        gesundheit:db0e9089-f430-4064-952a-313b054b2b4c,
+        gesundheit:dc8e250d-7b42-4658-9d7b-01ad6740ca8c,
+        gesundheit:dc9e7e36-f7e7-4f46-a52d-4f23aecfc577,
+        gesundheit:e0786d61-5d60-421f-b44f-1a884e45487d,
+        gesundheit:e0adbe3f-4b60-409a-9659-9159ba856063,
+        gesundheit:e0b0c60f-1f25-4d5b-acad-0641fa1194dd,
+        gesundheit:e7d731c3-f491-40e3-80ba-13c310bd5df5,
+        gesundheit:e7f9f83b-4150-45b5-a90d-1d4cbee4d886,
+        gesundheit:e96b93a2-a26d-465c-a4b6-eaa172b7b212,
+        gesundheit:ec424bc0-3532-4d75-a013-4580f09b01b1,
+        gesundheit:eec43cab-1abb-48c1-8ae8-824a01a704b2 ;
     skos:prefLabel "Krankheit"@de .
 
-<medizin_heilkunde_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <abtreibung_id>,
-        <alternativmedizin_id>,
-        <arztbesuch_id>,
-        <autogenes_training_id>,
-        <behinderung_id>,
-        <biomedizin_id>,
-        <bionik_id>,
-        <blutzucker_id>,
-        <chemotherapie_id>,
-        <cholesterin_id>,
-        <computertomographie_id>,
-        <defibrillator_id>,
-        <dialyse_id>,
-        <ergometrie_id>,
-        <fehlgeburt_id>,
-        <fieber_id>,
-        <frühgeburt_id>,
-        <geburt_id>,
-        <geriatrie_id>,
-        <gesundheit_id>,
-        <gesundheitserziehung_id>,
-        <gipsverband_id>,
-        <impfung_id>,
-        <implantat_id>,
-        <injektion_medizin_id>,
-        <kindstod_id>,
-        <krankenhaus_id>,
-        <krankenpflege_id>,
-        <krankheit_id>,
-        <leiden_id>,
-        <leistung_physiologie_id>,
-        <logopädie_id>,
-        <massage_id>,
-        <medizinethik_id>,
-        <motorik_id>,
-        <organspende_id>,
-        <pharmazie_id>,
-        <psychiatrie_id>,
-        <psychoanalyse_id>,
-        <psychologie_id>,
-        <psychosomatik_id>,
-        <rehabilitation_id>,
-        <schlaf_id>,
-        <schmerz_id>,
-        <therapie_id>,
-        <toxikologie_id>,
-        <ultraschalldiagnostik_id>,
-        <untersuchungsmethode_medizin_id>,
-        <versorgung_medizin_id>,
-        <viren_krankheitserreger_id>,
-        <vorsorgeuntersuchung_id>,
-        <yoga_id> ;
+gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39 a skos:Concept ;
+    skos:inScheme gesundheit: ;
+    skos:narrower gesundheit:078d1339-bad3-4c83-b369-7c8c953bd4e4,
+        gesundheit:1019a994-731d-489e-bb6f-19b4340eee39,
+        gesundheit:19bb8cc8-c274-4566-b0e0-f0f8c7bc59b0,
+        gesundheit:1b3ccf02-36bd-486d-936d-3ce81f57d9a9,
+        gesundheit:1f5e3b60-d45f-47d1-9be6-922563e9c2f4,
+        gesundheit:20c8d477-f56c-456b-a708-678151ac9fc6,
+        gesundheit:22852f63-7f70-445a-912a-f948a0a959a9,
+        gesundheit:24674941-ac0e-4fd6-b7bc-9cf01d646fac,
+        gesundheit:26721465-42cc-409b-b5f4-f565ee9299c7,
+        gesundheit:273c6a27-935d-408c-8374-cfe40b35c8bd,
+        gesundheit:297b72c8-1c15-4f24-989d-e663056fd4ed,
+        gesundheit:2f1b1c42-a677-4916-8b31-32db7ca0fbb1,
+        gesundheit:31925157-bfc9-4933-aec3-bcef596cf539,
+        gesundheit:32113331-3ed4-4ea7-a868-cfe4d172ff47,
+        gesundheit:3216793b-225d-46c4-8d0b-689ad2aa8575,
+        gesundheit:340c0133-a01d-4074-8939-952122cf9709,
+        gesundheit:37d1a369-44fc-431e-96af-7e7355778923,
+        gesundheit:3be185e2-2d97-40e4-acb2-d58f17152519,
+        gesundheit:3e69d6b8-1479-45e1-a6d0-10b3ab6b97de,
+        gesundheit:49a3acfc-52db-4e09-9f96-7cc93063b1e1,
+        gesundheit:4a3395f6-cd3c-4a37-8b07-61e69b5d7fbe,
+        gesundheit:60d114b9-8275-4fac-9e69-f2a41947e959,
+        gesundheit:612ec56f-95cf-4e17-a61c-b8e11cd3350c,
+        gesundheit:64b2bbac-8c6a-4199-b9b6-12c557ab1246,
+        gesundheit:6bdb8bd6-20fa-4fe3-8a9a-5085f2137059,
+        gesundheit:7247010a-87ef-4bee-835e-f89cc7ee1a30,
+        gesundheit:7359eb87-c8f2-419b-aa02-5ff72a7a31a3,
+        gesundheit:793a7a4a-8622-43f0-87e8-3d9a66383538,
+        gesundheit:7fed59c8-9097-4683-a204-4c65f369d591,
+        gesundheit:817ed57f-cba1-4f4a-92df-d944a07317f2,
+        gesundheit:86b41361-46dd-470e-b8b1-065f262b778a,
+        gesundheit:8a7e5a94-aa45-4369-9195-a08190bc1a51,
+        gesundheit:8e76b4d0-5b27-453a-9243-ccb1409d7bbf,
+        gesundheit:9b6e5ce8-b3bb-423c-9565-30a73884bfc1,
+        gesundheit:a94f930f-783e-4435-bb4b-a262b72ceb96,
+        gesundheit:ba9b3ae7-b28f-4c0d-a948-a9708787442f,
+        gesundheit:c21e6449-4a13-4a15-973d-27c7990ecbe4,
+        gesundheit:c5acaa14-a61a-4a72-aeb0-2a6580dd2e0e,
+        gesundheit:c5e9323a-835a-4945-884a-86634b3bc483,
+        gesundheit:c8849f11-66a8-4d18-a0f3-e43fc10c50a9,
+        gesundheit:ce4cb89e-2498-41cf-908f-513cebae1e6f,
+        gesundheit:cea31350-8923-4f80-b706-e32ed05b2b39,
+        gesundheit:cfeb4acc-824a-4fcd-a242-5d10b4f61b1a,
+        gesundheit:d3f6205e-4b15-4f23-bf9b-b0aded498e51,
+        gesundheit:d4cebdda-c62a-4d76-a513-c3ca7e3b639d,
+        gesundheit:d8b6b721-7eff-49e9-ae85-e0a0bfd2971e,
+        gesundheit:d8d3e974-64c0-41e5-8f79-c37c0881fee5,
+        gesundheit:dec9ede4-1335-48df-b778-89da0a139582,
+        gesundheit:e409876e-ae77-4150-9959-144e4df517b9,
+        gesundheit:f1ffc2d9-6376-43dd-8d8c-1c9b44925e87,
+        gesundheit:f4eb7557-7df6-4c19-be7a-d6f8243bda16,
+        gesundheit:f9462fc1-004b-4112-9a3a-9d47e20c48ba ;
     skos:prefLabel "Medizin (Heilkunde)"@de ;
-    skos:topConceptOf <> .
+    skos:topConceptOf gesundheit: .
 
-<> a skos:ConceptScheme ;
+gesundheit: a skos:ConceptScheme ;
     dct:creator "<https://creator.com>" ;
-    dct:description "gesundheit_systematik"@de ;
-    dct:title "gesundheit_systematik"@de ;
-    skos:hasTopConcept <ernährung_id>,
-        <hygiene_id>,
-        <medizin_heilkunde_id>,
-        <personen_id> .
+    dct:description "gesundheit"@de ;
+    dct:title "gesundheit"@de ;
+    skos:hasTopConcept gesundheit:61eec0cd-ba78-4792-90f1-2a0a6c72730e,
+        gesundheit:7cdb696d-03f5-4630-9abe-4501272d9e39,
+        gesundheit:7e6304dc-0e67-427f-b01c-31ed530250ef,
+        gesundheit:83c70d31-7043-492a-affe-e3761200530e .
 

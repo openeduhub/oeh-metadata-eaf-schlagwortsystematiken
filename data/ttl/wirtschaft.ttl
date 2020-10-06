@@ -1,9 +1,1209 @@
-@base <https://example-perma-id/wirtschaft_systematik/> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wirtschaft: <http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/wirtschaft/> .
 
-<> a skos:ConceptScheme ;
+wirtschaft:014f8980-98a4-4cf0-b989-65bd4b1910c7 a skos:Concept ;
+    skos:broader wirtschaft:ad0645d5-44a2-4838-9729-248de73309c7 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Logistik"@de .
+
+wirtschaft:02012ad6-6f25-4655-aa15-752a0affa012 a skos:Concept ;
+    skos:broader wirtschaft:1fcd3c26-e7d8-4d79-a6e7-450fe6e3dc83 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Überproduktion"@de .
+
+wirtschaft:02ae6abb-f322-44e0-b26f-793346840e3b a skos:Concept ;
+    skos:broader wirtschaft:ad0645d5-44a2-4838-9729-248de73309c7 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Marke (Recht)"@de .
+
+wirtschaft:0439316f-8554-4ae8-b0fe-dd6a296fb495 a skos:Concept ;
+    skos:broader wirtschaft:48d865a6-088d-40e3-9113-b88706df1672 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "List, Friedrich"@de .
+
+wirtschaft:06b4a8a8-d779-4512-b9d2-2cac939145c5 a skos:Concept ;
+    skos:broader wirtschaft:bef9c73b-61fc-43d6-9c44-6891cddc94ca ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Wirtschaftliche Abhängigkeit"@de .
+
+wirtschaft:06bbf72e-7cf8-4301-bc9d-bd5ec13e6913 a skos:Concept ;
+    skos:broader wirtschaft:35376f69-c817-484d-ac56-47be6f08326d ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Staatsverschuldung"@de .
+
+wirtschaft:07129e47-ce98-4468-bd22-a8a55c131003 a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Kaufkraft"@de .
+
+wirtschaft:07371aa6-9153-4cf0-ab1b-23b3ff359a09 a skos:Concept ;
+    skos:broader wirtschaft:ad0645d5-44a2-4838-9729-248de73309c7 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Selbständiger"@de .
+
+wirtschaft:07671f7b-087f-4943-9ad4-3b0c5c7af9b4 a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Rezession"@de .
+
+wirtschaft:079fdd1f-e2e7-481f-ac22-529a382d4ca1 a skos:Concept ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Beamter"@de ;
+    skos:topConceptOf wirtschaft: .
+
+wirtschaft:09562861-64f8-4e12-9bf5-39e239d61e66 a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Finanzzentrum"@de .
+
+wirtschaft:09f8955c-68a0-4a1c-8bc8-ee6f63d4122b a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Alterspyramide"@de .
+
+wirtschaft:0aecacdb-9e76-40a6-ba10-6e309e4d9dd3 a skos:Concept ;
+    skos:broader wirtschaft:bef9c73b-61fc-43d6-9c44-6891cddc94ca ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Monopol"@de .
+
+wirtschaft:0bda223f-a24f-4001-ae59-5b37303e1c31 a skos:Concept ;
+    skos:broader wirtschaft:ad0645d5-44a2-4838-9729-248de73309c7 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Planspiel"@de .
+
+wirtschaft:0c30a1ef-812d-46da-a740-61bf058c10e3 a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Produktivität"@de .
+
+wirtschaft:0ccff286-b9df-4e92-86c4-3c52fdc4a2c6 a skos:Concept ;
+    skos:broader wirtschaft:a6f271ad-be13-447d-99c4-00c07f7ee578 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Konsum"@de .
+
+wirtschaft:0d10ccc0-afb4-4054-ac79-abc782365477 a skos:Concept ;
+    skos:broader wirtschaft:bef9c73b-61fc-43d6-9c44-6891cddc94ca ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Wirtschaftswachstum"@de .
+
+wirtschaft:0e03e571-b7f0-419a-a13d-a81e6504c666 a skos:Concept ;
+    skos:broader wirtschaft:bef9c73b-61fc-43d6-9c44-6891cddc94ca ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Oligopol"@de .
+
+wirtschaft:1057a731-37a0-41f0-9b6e-d1389d5b5140 a skos:Concept ;
+    skos:broader wirtschaft:bf90ad18-dbb6-4605-8055-fd0e25d25d8c ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Deutsche Telekom AG"@de .
+
+wirtschaft:1342236a-e4be-4728-93fa-43a6790b0b0b a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Sparen"@de .
+
+wirtschaft:163feb20-21e3-4a3d-acff-5fbf67070a42 a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Lebenshaltung"@de .
+
+wirtschaft:16cec4ba-6f65-41cc-ad85-497b24d8f808 a skos:Concept ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Philips (Unternehmen)"@de ;
+    skos:topConceptOf wirtschaft: .
+
+wirtschaft:1706e40b-9450-4216-9aef-ededfbe871fb a skos:Concept ;
+    skos:broader wirtschaft:bef9c73b-61fc-43d6-9c44-6891cddc94ca ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Schmuggel"@de .
+
+wirtschaft:1b814383-579c-48a8-a1d8-3c67a280ebf4 a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Erbschaft"@de .
+
+wirtschaft:1cc5aff9-b1e8-4096-ab66-74fc79b8ec21 a skos:Concept ;
+    skos:broader wirtschaft:ad0645d5-44a2-4838-9729-248de73309c7 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Führungskraft (Wirtschaft)"@de .
+
+wirtschaft:208e2282-d35d-4121-a414-217048c671a7 a skos:Concept ;
+    skos:broader wirtschaft:bef9c73b-61fc-43d6-9c44-6891cddc94ca ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Planwirtschaft"@de .
+
+wirtschaft:20f01636-a964-4de4-b392-b0e019609510 a skos:Concept ;
+    skos:broader wirtschaft:a4cfe355-eca0-4f14-80e8-f44e2ecea092 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Warenwirtschaft"@de .
+
+wirtschaft:20fb9647-fc39-4e36-af07-e6427144edf9 a skos:Concept ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Volkswagenwerk AG"@de ;
+    skos:topConceptOf wirtschaft: .
+
+wirtschaft:22ec10a9-85bf-4ad8-ae8c-1584316a6634 a skos:Concept ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Haftpflichtversicherung"@de ;
+    skos:topConceptOf wirtschaft: .
+
+wirtschaft:2430f264-651b-4b2e-a39e-577be8286020 a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Inflation"@de .
+
+wirtschaft:25a17418-2661-42e9-a3c3-9f86398e4da4 a skos:Concept ;
+    skos:broader wirtschaft:bf90ad18-dbb6-4605-8055-fd0e25d25d8c ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Briefbeförderung"@de .
+
+wirtschaft:276a5a8d-65b2-4138-bbf3-b61e1408062c a skos:Concept ;
+    skos:broader wirtschaft:ce8700aa-d161-4d37-91bd-59baadb399c3 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Auktion"@de .
+
+wirtschaft:28d4f739-16f3-430e-9015-3142fd1df5e0 a skos:Concept ;
+    skos:broader wirtschaft:ee853172-5ea5-4f40-92fd-f57396f22e32 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Genossenschaft"@de .
+
+wirtschaft:2923d4f2-6749-41f5-a5ff-546a97d1afc6 a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Patentamt"@de .
+
+wirtschaft:2a6c2cb4-3e09-4f13-abca-cfb3f6825f22 a skos:Concept ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Arbeitgeber"@de ;
+    skos:topConceptOf wirtschaft: .
+
+wirtschaft:2d575f33-392d-43cf-b919-5602e4e83e8b a skos:Concept ;
+    skos:broader wirtschaft:4af2df38-f5c2-403b-9624-10833d005418 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Kurzarbeit"@de .
+
+wirtschaft:2d89040a-416a-4cdd-821b-38cab000cc25 a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Zahlungsbilanz"@de .
+
+wirtschaft:3486accb-cccf-49d6-926a-43d42ab2cbd7 a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Rente"@de .
+
+wirtschaft:348fd7d3-1d18-4874-868d-6def77d0693a a skos:Concept ;
+    skos:broader wirtschaft:b36ad792-560f-43ff-b498-9231269cc7f5 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Außenhandel"@de .
+
+wirtschaft:3617df75-bf09-42c3-9b67-01b4963fe599 a skos:Concept ;
+    skos:broader wirtschaft:a4cfe355-eca0-4f14-80e8-f44e2ecea092 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Verarbeitung (Verfahrenstechnik)"@de .
+
+wirtschaft:39af4215-4760-4a48-ad81-bdf5e8653205 a skos:Concept ;
+    skos:broader wirtschaft:ee853172-5ea5-4f40-92fd-f57396f22e32 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Konzern"@de .
+
+wirtschaft:3d812afe-96f5-4def-80e0-7d1959bd4f4f a skos:Concept ;
+    skos:broader wirtschaft:9cf2f830-e23c-45b2-b718-73c648336c46 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Wechselkurs"@de .
+
+wirtschaft:3defb9ee-ff16-4180-a652-c0ce52c94898 a skos:Concept ;
+    skos:broader wirtschaft:13b5322a-31f6-4718-b07e-3489d7da70c6 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Personalwesen"@de .
+
+wirtschaft:3e43ae18-77c4-4af0-ae61-3c72834b911c a skos:Concept ;
+    skos:broader wirtschaft:4c8544fd-8487-41d4-b221-b949979e3171 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Eurocheque"@de .
+
+wirtschaft:44b6ab1d-d6ad-43e0-833f-099fb9be834a a skos:Concept ;
+    skos:broader wirtschaft:f6baf4cf-81c6-4c42-a812-64d31931ab78 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Supermarkt"@de .
+
+wirtschaft:45b0c1cb-9996-4989-a7f6-b183258fa1ef a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Spende"@de .
+
+wirtschaft:48546cbf-3da8-4c82-9f34-7cfc2bea2c86 a skos:Concept ;
+    skos:broader wirtschaft:4452b043-e174-4b61-8819-0f9bc8b256e7 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Wanderarbeiter"@de .
+
+wirtschaft:48658dc9-5866-4b40-8be8-0b7d2099a9f0 a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Steuer (Staat)"@de .
+
+wirtschaft:4cc71767-8c87-490a-ac37-2c6608eb50ea a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Vermögensbildung"@de .
+
+wirtschaft:50c2211c-83a1-442d-b163-85de688a6399 a skos:Concept ;
+    skos:broader wirtschaft:1fcd3c26-e7d8-4d79-a6e7-450fe6e3dc83 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Produktionsfaktor"@de .
+
+wirtschaft:52546290-7177-41ca-8fb5-638f83dba571 a skos:Concept ;
+    skos:broader wirtschaft:52aeef51-9a15-4ebe-a853-618058af5d08 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Gewinn"@de .
+
+wirtschaft:529ee094-59f9-4dbb-a829-e4deb6a936bd a skos:Concept ;
+    skos:broader wirtschaft:48d865a6-088d-40e3-9113-b88706df1672 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Philips, Anton"@de .
+
+wirtschaft:54d5208f-9a00-4e84-ba0c-be2f7c7a3a4b a skos:Concept ;
+    skos:broader wirtschaft:ad0645d5-44a2-4838-9729-248de73309c7 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Organisationsentwicklung"@de .
+
+wirtschaft:5661156e-b277-4546-a093-44c27f0dd4bb a skos:Concept ;
+    skos:broader wirtschaft:ad0645d5-44a2-4838-9729-248de73309c7 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Führungsstil"@de .
+
+wirtschaft:5704ea96-1bba-4501-aa7d-28a967ea541f a skos:Concept ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Möbel"@de ;
+    skos:topConceptOf wirtschaft: .
+
+wirtschaft:580ce61d-84c7-4fc2-b297-cb284d558607 a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Wertschöpfung"@de .
+
+wirtschaft:59ee5cb6-0d48-48f6-81ef-823fcecb4927 a skos:Concept ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Gehalt"@de ;
+    skos:topConceptOf wirtschaft: .
+
+wirtschaft:65691f45-29a1-4eea-a008-5826774dde8e a skos:Concept ;
+    skos:broader wirtschaft:ad0645d5-44a2-4838-9729-248de73309c7 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Vorstand"@de .
+
+wirtschaft:665090d5-b8dd-483a-8ef3-5f2d7123b61d a skos:Concept ;
+    skos:broader wirtschaft:bef9c73b-61fc-43d6-9c44-6891cddc94ca ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Marktwirtschaft"@de .
+
+wirtschaft:69ba4066-79ee-4ec8-83dc-52aac78a934e a skos:Concept ;
+    skos:broader wirtschaft:75a869e5-d624-4f56-813a-4ef8041de19b ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Euro-Rettungsschirm"@de .
+
+wirtschaft:69c8fb9e-66d5-40f4-a64f-750034adc026 a skos:Concept ;
+    skos:broader wirtschaft:bef9c73b-61fc-43d6-9c44-6891cddc94ca ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Kapitalismus"@de .
+
+wirtschaft:6b0dcbe6-c364-452b-b0d5-3cbf54b9176c a skos:Concept ;
+    skos:broader wirtschaft:67a4243c-45c2-4292-97ee-7efc665685ae ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Humankapital"@de .
+
+wirtschaft:6ca8dd56-2335-4b9f-b40d-c8667ae4a6d6 a skos:Concept ;
+    skos:broader wirtschaft:a6f271ad-be13-447d-99c4-00c07f7ee578 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Volkseinkommen"@de .
+
+wirtschaft:6d3a7dd5-c296-46f1-abec-6c30936a3da6 a skos:Concept ;
+    skos:broader wirtschaft:4c8544fd-8487-41d4-b221-b949979e3171 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Mindestreserve"@de .
+
+wirtschaft:6ddbd5b3-523f-4f24-8c54-7c5ce046df42 a skos:Concept ;
+    skos:broader wirtschaft:bf90ad18-dbb6-4605-8055-fd0e25d25d8c ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Deutsche Postbank AG"@de .
+
+wirtschaft:6ee7263b-f846-4e3a-98a0-bb772b9a8287 a skos:Concept ;
+    skos:broader wirtschaft:ad0645d5-44a2-4838-9729-248de73309c7 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Marketing"@de .
+
+wirtschaft:6ffa5879-2869-4ee0-ac05-557241131a22 a skos:Concept ;
+    skos:broader wirtschaft:6a6800e7-1670-49d6-8f3a-0d390bfd111b ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Familienhaushaltsplan"@de .
+
+wirtschaft:71162dc0-8831-4af8-b5fa-ae73f00132ff a skos:Concept ;
+    skos:broader wirtschaft:48d865a6-088d-40e3-9113-b88706df1672 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Chodorkowski, Michail"@de .
+
+wirtschaft:71660b1a-00d2-42ec-8a58-27fa56237133 a skos:Concept ;
+    skos:broader wirtschaft:a4cfe355-eca0-4f14-80e8-f44e2ecea092 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Fabrik"@de .
+
+wirtschaft:738767ee-7874-4f5b-9342-9e416c47ee36 a skos:Concept ;
+    skos:broader wirtschaft:4c8544fd-8487-41d4-b221-b949979e3171 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Bankenkrise"@de .
+
+wirtschaft:75e364e8-1127-46c4-b5ed-50069e869df5 a skos:Concept ;
+    skos:broader wirtschaft:ad0645d5-44a2-4838-9729-248de73309c7 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Unternehmensgründung"@de .
+
+wirtschaft:76062736-bfcc-4eea-a59e-36dcdaff5428 a skos:Concept ;
+    skos:broader wirtschaft:48d865a6-088d-40e3-9113-b88706df1672 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Mohn, Richard"@de .
+
+wirtschaft:76131c36-c184-4849-9e77-0bed43e01d06 a skos:Concept ;
+    skos:broader wirtschaft:ad0645d5-44a2-4838-9729-248de73309c7 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Kostenmanagement"@de .
+
+wirtschaft:7613bdd8-2927-465c-8e9d-6140bfde4953 a skos:Concept ;
+    skos:broader wirtschaft:4c4ef67a-f370-495c-969a-89644b22b824 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Wertpapier"@de .
+
+wirtschaft:76720324-e324-4650-8069-e4950eb0172d a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Behördliche Lebensmittelüberwachung"@de .
+
+wirtschaft:76e59116-8332-465c-bde2-ece163aa407a a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Kalkulation"@de .
+
+wirtschaft:7733e083-1dcc-4c61-b71e-e7467524b1c0 a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Preis"@de .
+
+wirtschaft:7750196d-113c-4811-a5e6-68a9500e4c99 a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Kauf"@de .
+
+wirtschaft:77bbea42-ccc4-48f5-80c2-7694656e6a9f a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Subvention"@de .
+
+wirtschaft:785be1cc-f601-4c18-bf0a-e3ae3912809b a skos:Concept ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Gewerkschaft"@de ;
+    skos:topConceptOf wirtschaft: .
+
+wirtschaft:7923bfc6-cf50-4129-bd8d-059c47c18579 a skos:Concept ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Fortschritt"@de ;
+    skos:topConceptOf wirtschaft: .
+
+wirtschaft:7ba18536-eb96-42a3-b204-a8a9bfd3cf89 a skos:Concept ;
+    skos:broader wirtschaft:bef9c73b-61fc-43d6-9c44-6891cddc94ca ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Konzentration (Wirtschaft)"@de .
+
+wirtschaft:7bef390a-396e-47e8-be39-9659d1846175 a skos:Concept ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Adam Opel AG"@de ;
+    skos:topConceptOf wirtschaft: .
+
+wirtschaft:7f310d98-952a-4fc6-a91a-0956719bd67c a skos:Concept ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Arbeitskonflikt"@de ;
+    skos:topConceptOf wirtschaft: .
+
+wirtschaft:7f9446dd-8ec2-476e-aa88-107f5576bbff a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Wirtschaftlichkeit"@de .
+
+wirtschaft:7fcca72d-5cc2-4f55-8d3e-d734732b89c4 a skos:Concept ;
+    skos:broader wirtschaft:ee853172-5ea5-4f40-92fd-f57396f22e32 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Kartell"@de .
+
+wirtschaft:82be3932-b340-40ec-aad8-277f57d4918b a skos:Concept ;
+    skos:broader wirtschaft:06664cb0-ee37-47d4-8811-134be37e479a ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Unlauterer Wettbewerb"@de .
+
+wirtschaft:836df499-8364-42f1-91f6-829d6841f963 a skos:Concept ;
+    skos:broader wirtschaft:ee853172-5ea5-4f40-92fd-f57396f22e32 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "GbR"@de .
+
+wirtschaft:8534a5f1-b070-465a-9a9f-fabf6a696125 a skos:Concept ;
+    skos:broader wirtschaft:833e87ae-6581-4087-8712-918bffc18998 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Fairer Handel"@de .
+
+wirtschaft:85707e1b-56c4-4495-953a-3a19661fdefe a skos:Concept ;
+    skos:broader wirtschaft:48d865a6-088d-40e3-9113-b88706df1672 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Christians, Friedrich Wilhelm"@de .
+
+wirtschaft:864054a9-0955-48e0-8fe7-c7bd962e58e6 a skos:Concept ;
+    skos:broader wirtschaft:1fcd3c26-e7d8-4d79-a6e7-450fe6e3dc83 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Rationalisierung"@de .
+
+wirtschaft:870221e7-9643-4beb-9e90-fb7e6f1f5a5a a skos:Concept ;
+    skos:broader wirtschaft:40a7660e-e0da-4599-bafa-9ad26c0fe1fb ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Miete"@de .
+
+wirtschaft:87622be4-4067-4201-88c1-3c5be6ffa085 a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Investition"@de .
+
+wirtschaft:883af0b2-ae98-43d0-aba3-f80748b38320 a skos:Concept ;
+    skos:broader wirtschaft:833e87ae-6581-4087-8712-918bffc18998 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Messe (Wirtschaft)"@de .
+
+wirtschaft:8858a8b6-c0d1-42e3-9775-48ede3bb486f a skos:Concept ;
+    skos:broader wirtschaft:9cf2f830-e23c-45b2-b718-73c648336c46 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Münze"@de .
+
+wirtschaft:893faa26-15c0-4b83-ba2a-7c053a0d71d0 a skos:Concept ;
+    skos:broader wirtschaft:9b25cce6-ecf5-45f3-9b36-0f138f608ea1 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Energieverbrauch"@de .
+
+wirtschaft:8b2e4990-fda2-4e76-8940-4c4e08b3ba0f a skos:Concept ;
+    skos:broader wirtschaft:c8e1b9ce-014e-48d6-ad9e-ddbf137fba81 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Werbekampagne"@de .
+
+wirtschaft:8b410c39-60f8-43b1-ba11-0597b60422f7 a skos:Concept ;
+    skos:broader wirtschaft:4452b043-e174-4b61-8819-0f9bc8b256e7 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Saisonarbeiter"@de .
+
+wirtschaft:8c14da34-23bc-4fc3-8ff2-495c92313794 a skos:Concept ;
+    skos:broader wirtschaft:ee853172-5ea5-4f40-92fd-f57396f22e32 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Aktiengesellschaft"@de .
+
+wirtschaft:8d075961-4117-4865-a430-8b82ef8fd878 a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Eigentum"@de .
+
+wirtschaft:8d676004-d52f-4aff-ae8e-62ec653a0bc4 a skos:Concept ;
+    skos:broader wirtschaft:ad0645d5-44a2-4838-9729-248de73309c7 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Unternehmensleitbild"@de .
+
+wirtschaft:8e3686d5-f4ea-400d-ac6b-e3173b64507b a skos:Concept ;
+    skos:broader wirtschaft:bef9c73b-61fc-43d6-9c44-6891cddc94ca ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Korruption"@de .
+
+wirtschaft:910beca0-8ec0-4903-82a1-8c46e741bbf9 a skos:Concept ;
+    skos:broader wirtschaft:f6baf4cf-81c6-4c42-a812-64d31931ab78 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Versandhandel"@de .
+
+wirtschaft:919e5d62-fe76-425e-ba9a-7c0f5421cc2b a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Ware"@de .
+
+wirtschaft:91af38a2-c665-49ba-b927-a5d9fe98ae48 a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Billiglohnland"@de .
+
+wirtschaft:94890cac-5a0c-4760-b92a-58256f6303a9 a skos:Concept ;
+    skos:broader wirtschaft:ef7d585f-328d-4364-bb35-e6730f598f98 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Währungsreform"@de .
+
+wirtschaft:94de33b1-300d-4da6-96c4-740ebab01b22 a skos:Concept ;
+    skos:broader wirtschaft:4c4ef67a-f370-495c-969a-89644b22b824 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Aktie"@de .
+
+wirtschaft:993667fb-30fa-4e92-987c-14cabb10b8ef a skos:Concept ;
+    skos:broader wirtschaft:bef9c73b-61fc-43d6-9c44-6891cddc94ca ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Sonderwirtschaftszone"@de .
+
+wirtschaft:9d4b5f0a-b0d3-415e-9f3e-910b6639603d a skos:Concept ;
+    skos:broader wirtschaft:bf90ad18-dbb6-4605-8055-fd0e25d25d8c ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Post"@de .
+
+wirtschaft:a1754c82-adce-4e0e-aebb-7b59bc420c2e a skos:Concept ;
+    skos:broader wirtschaft:4c8544fd-8487-41d4-b221-b949979e3171 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Zahlungsverkehr"@de .
+
+wirtschaft:a8526efd-917a-41e6-9c20-42e59ee93e12 a skos:Concept ;
+    skos:broader wirtschaft:4c8544fd-8487-41d4-b221-b949979e3171 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Deutsche Bundesbank"@de .
+
+wirtschaft:aa9b8c61-f79e-489f-ad13-c9e662c8013e a skos:Concept ;
+    skos:broader wirtschaft:ad0645d5-44a2-4838-9729-248de73309c7 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Unternehmer"@de .
+
+wirtschaft:aa9f7a8e-9340-4586-b585-5908ba997e33 a skos:Concept ;
+    skos:broader wirtschaft:9cf2f830-e23c-45b2-b718-73c648336c46 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Devisen"@de .
+
+wirtschaft:ac4a89bc-9b42-486f-9013-56b3fd28712d a skos:Concept ;
+    skos:broader wirtschaft:1fcd3c26-e7d8-4d79-a6e7-450fe6e3dc83 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Serienfertigung"@de .
+
+wirtschaft:ad60bc8c-cb24-4b80-bc45-8599d9f51cb1 a skos:Concept ;
+    skos:broader wirtschaft:ad0645d5-44a2-4838-9729-248de73309c7 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Unternehmensstrategie"@de .
+
+wirtschaft:ad628673-b75d-4228-90f4-b96228cc1c43 a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Globalisierung"@de .
+
+wirtschaft:ae15af35-4dc7-456b-b543-a92ed58c270e a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Wohlstand"@de .
+
+wirtschaft:aea27670-2214-4d26-bfb8-887d68e2347b a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Konjunktur"@de .
+
+wirtschaft:afbbd673-5796-4b81-8ddc-80349b759033 a skos:Concept ;
+    skos:broader wirtschaft:9b25cce6-ecf5-45f3-9b36-0f138f608ea1 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Energieerzeugung"@de .
+
+wirtschaft:b0056aae-c513-4dce-8cba-90b60a4d23f6 a skos:Concept ;
+    skos:broader wirtschaft:6e398e51-fa43-4dd1-b859-e6a0f4a2ffb4 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Verbraucherschutz"@de .
+
+wirtschaft:b0f6de0a-0a97-4e16-8f23-b740b29261b8 a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Generationenvertrag"@de .
+
+wirtschaft:b162a5a1-069d-448c-b91f-6c9ca2b7c596 a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Wirtschaftskrise"@de .
+
+wirtschaft:b326cf8a-7ea7-4c31-bce9-10f84f85b08f a skos:Concept ;
+    skos:broader wirtschaft:833e87ae-6581-4087-8712-918bffc18998 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Straßenhandel"@de .
+
+wirtschaft:b3a31565-2f36-4473-ae2a-6a10a8f5ecba a skos:Concept ;
+    skos:broader wirtschaft:a4cfe355-eca0-4f14-80e8-f44e2ecea092 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Outsourcing"@de .
+
+wirtschaft:b4965136-6db4-42bd-89b3-f7fddb3907b4 a skos:Concept ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Optimierung"@de ;
+    skos:topConceptOf wirtschaft: .
+
+wirtschaft:b610a298-1623-40d7-8688-65c70266f625 a skos:Concept ;
+    skos:broader wirtschaft:6e398e51-fa43-4dd1-b859-e6a0f4a2ffb4 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Konsumverhalten"@de .
+
+wirtschaft:b6da5f4b-b9ac-4230-99ce-da5fa0c88682 a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Reklamation"@de .
+
+wirtschaft:b7a4c138-3670-451a-85b3-f11074edf7f9 a skos:Concept ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Arbeitslosigkeit"@de ;
+    skos:topConceptOf wirtschaft: .
+
+wirtschaft:b8324514-96cf-474e-9a7d-5c77603972f8 a skos:Concept ;
+    skos:broader wirtschaft:306c6b7b-15c9-4816-867c-338232ea3d4d ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Rentenversicherung"@de .
+
+wirtschaft:b8b5d0cf-2bfb-4735-bb4f-56ff1dd080e3 a skos:Concept ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Club of Rome"@de ;
+    skos:topConceptOf wirtschaft: .
+
+wirtschaft:b9472f24-58f6-43ac-9e0e-cad576b7bf0a a skos:Concept ;
+    skos:broader wirtschaft:1fcd3c26-e7d8-4d79-a6e7-450fe6e3dc83 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Agrobusiness"@de .
+
+wirtschaft:b95f761c-3af8-4c96-8060-cce868062810 a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Finanzausgleich"@de .
+
+wirtschaft:b9eefb2f-7b2e-4a51-b251-68090c6b21ac a skos:Concept ;
+    skos:broader wirtschaft:fd47224c-83e5-43eb-bada-a0eea1f7a26a ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Zins"@de .
+
+wirtschaft:bb43ec78-c814-4edc-87fc-1a1fb2b39583 a skos:Concept ;
+    skos:broader wirtschaft:fe51e14d-0d6c-4ac8-93d0-15e432a9cee7 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Leasing"@de .
+
+wirtschaft:bb9f2ec6-9b9d-48b9-8bf2-d16ae8dc84c9 a skos:Concept ;
+    skos:broader wirtschaft:ad0645d5-44a2-4838-9729-248de73309c7 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Handelsregister"@de .
+
+wirtschaft:bba5e572-6b4b-456a-b9ce-0ffd8a98156a a skos:Concept ;
+    skos:broader wirtschaft:306c6b7b-15c9-4816-867c-338232ea3d4d ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Krankenversicherung"@de .
+
+wirtschaft:bf684f42-abce-4c5b-9b97-1e4d2468d0b1 a skos:Concept ;
+    skos:broader wirtschaft:a4cfe355-eca0-4f14-80e8-f44e2ecea092 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Gewerbeaufsicht"@de .
+
+wirtschaft:c0355cc2-4159-41cd-9962-518e801d42da a skos:Concept ;
+    skos:broader wirtschaft:4c8544fd-8487-41d4-b221-b949979e3171 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Girokonto"@de .
+
+wirtschaft:c0b7a364-6a48-4149-a266-bb71b4a8ba3c a skos:Concept ;
+    skos:broader wirtschaft:ee853172-5ea5-4f40-92fd-f57396f22e32 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Kombinat"@de .
+
+wirtschaft:c1f5a820-986c-4fd8-aed5-68683338a2bf a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Entschädigung"@de .
+
+wirtschaft:c263a11c-c8e8-4c50-8bbc-63e36e0dd6c7 a skos:Concept ;
+    skos:broader wirtschaft:ee853172-5ea5-4f40-92fd-f57396f22e32 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "GmbH"@de .
+
+wirtschaft:c3af5b24-05ec-4761-bbd2-6a439ca07a6e a skos:Concept ;
+    skos:broader wirtschaft:6e398e51-fa43-4dd1-b859-e6a0f4a2ffb4 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Verbraucherbildung"@de .
+
+wirtschaft:c6875a85-8bf8-4b72-81ba-0a7f2b397979 a skos:Concept ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Innovation"@de ;
+    skos:topConceptOf wirtschaft: .
+
+wirtschaft:c82a8b88-32db-49d0-8d73-61d499c0313e a skos:Concept ;
+    skos:broader wirtschaft:ef7d585f-328d-4364-bb35-e6730f598f98 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Währungsunion"@de .
+
+wirtschaft:cbdf04d7-8f97-479e-bee1-ef44a257c680 a skos:Concept ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Einkaufen"@de ;
+    skos:topConceptOf wirtschaft: .
+
+wirtschaft:ce36121e-4030-4f65-95a0-74809844fa97 a skos:Concept ;
+    skos:broader wirtschaft:ad0645d5-44a2-4838-9729-248de73309c7 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Planung"@de .
+
+wirtschaft:ce4f62bc-95e6-42e3-ab4b-140c10c803f8 a skos:Concept ;
+    skos:broader wirtschaft:833e87ae-6581-4087-8712-918bffc18998 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Tauschhandel"@de .
+
+wirtschaft:d06eb44e-d543-4f98-8318-d0e97d211b1c a skos:Concept ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Arbeitsteilung"@de ;
+    skos:topConceptOf wirtschaft: .
+
+wirtschaft:d4220c32-6b56-4dfe-8b59-bc202f62d7b9 a skos:Concept ;
+    skos:broader wirtschaft:bef9c73b-61fc-43d6-9c44-6891cddc94ca ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Weltmarkt"@de .
+
+wirtschaft:d4b6c3f2-010e-4105-bbb3-28aa9cd1f661 a skos:Concept ;
+    skos:broader wirtschaft:4e7814c0-8b82-4740-a9ab-506d269b9ef1 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Bruttoinlandsprodukt"@de .
+
+wirtschaft:d4d722b0-9617-4773-8271-43a5f3215460 a skos:Concept ;
+    skos:broader wirtschaft:bef9c73b-61fc-43d6-9c44-6891cddc94ca ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Weltwirtschaft"@de .
+
+wirtschaft:d626eefe-4faf-4548-bc8f-42faa5f63bf0 a skos:Concept ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Ergonomie"@de ;
+    skos:topConceptOf wirtschaft: .
+
+wirtschaft:d9252f4b-9190-429d-9908-24a2fadaf13e a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Wirtschaftsmacht"@de .
+
+wirtschaft:da81dce2-350e-4710-b7b6-eb3b6e68c993 a skos:Concept ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "BASF AG"@de ;
+    skos:topConceptOf wirtschaft: .
+
+wirtschaft:dbcc0f0f-73c9-4796-ba1c-a7c339eed7f8 a skos:Concept ;
+    skos:broader wirtschaft:1fcd3c26-e7d8-4d79-a6e7-450fe6e3dc83 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Lagerhaltung"@de .
+
+wirtschaft:dd21e498-452b-4e70-b6b1-fbaae0624914 a skos:Concept ;
+    skos:broader wirtschaft:ad0645d5-44a2-4838-9729-248de73309c7 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Global Player"@de .
+
+wirtschaft:e05b9e89-2e10-42f5-8617-2903ba68d590 a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Wirtschaftskriminalität"@de .
+
+wirtschaft:e2ed5fa7-3449-4285-9c75-d669c8c6f427 a skos:Concept ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Arbeitsplatzsuche"@de ;
+    skos:topConceptOf wirtschaft: .
+
+wirtschaft:e98410d9-79de-46f0-8c05-a5107ecfc9b9 a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "ECommerce"@de .
+
+wirtschaft:eeee16cb-2161-4c51-9105-372648a35d5c a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Konkursverfahren"@de .
+
+wirtschaft:f9702df9-271f-4da1-a6dd-3f95a230675e a skos:Concept ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Forschung"@de ;
+    skos:topConceptOf wirtschaft: .
+
+wirtschaft:fc810137-89e3-461c-993e-a1c82cac5184 a skos:Concept ;
+    skos:broader wirtschaft:48d865a6-088d-40e3-9113-b88706df1672 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Philips, Gerard"@de .
+
+wirtschaft:fd70f8c4-e436-4ed2-a2f7-b26faee7ff34 a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Bürgschaft"@de .
+
+wirtschaft:fe586ec8-fc73-40db-ac64-c656313cd60a a skos:Concept ;
+    skos:broader wirtschaft:bef9c73b-61fc-43d6-9c44-6891cddc94ca ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Protektionismus"@de .
+
+wirtschaft:ffb5266e-782f-4629-a059-144165c5f79c a skos:Concept ;
+    skos:broader wirtschaft:bf90ad18-dbb6-4605-8055-fd0e25d25d8c ;
+    skos:inScheme wirtschaft: ;
+    skos:prefLabel "Deutsche Post AG"@de .
+
+wirtschaft:06664cb0-ee37-47d4-8811-134be37e479a a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:narrower wirtschaft:82be3932-b340-40ec-aad8-277f57d4918b ;
+    skos:prefLabel "Wettbewerb"@de .
+
+wirtschaft:13b5322a-31f6-4718-b07e-3489d7da70c6 a skos:Concept ;
+    skos:broader wirtschaft:ad0645d5-44a2-4838-9729-248de73309c7 ;
+    skos:inScheme wirtschaft: ;
+    skos:narrower wirtschaft:3defb9ee-ff16-4180-a652-c0ce52c94898 ;
+    skos:prefLabel "Betriebswirtschaft"@de .
+
+wirtschaft:35376f69-c817-484d-ac56-47be6f08326d a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:narrower wirtschaft:06bbf72e-7cf8-4301-bc9d-bd5ec13e6913 ;
+    skos:prefLabel "Schulden"@de .
+
+wirtschaft:40a7660e-e0da-4599-bafa-9ad26c0fe1fb a skos:Concept ;
+    skos:inScheme wirtschaft: ;
+    skos:narrower wirtschaft:870221e7-9643-4beb-9e90-fb7e6f1f5a5a ;
+    skos:prefLabel "Wohnungsmarkt"@de ;
+    skos:topConceptOf wirtschaft: .
+
+wirtschaft:4af2df38-f5c2-403b-9624-10833d005418 a skos:Concept ;
+    skos:inScheme wirtschaft: ;
+    skos:narrower wirtschaft:2d575f33-392d-43cf-b919-5602e4e83e8b ;
+    skos:prefLabel "Arbeitszeit"@de ;
+    skos:topConceptOf wirtschaft: .
+
+wirtschaft:4e7814c0-8b82-4740-a9ab-506d269b9ef1 a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:narrower wirtschaft:d4b6c3f2-010e-4105-bbb3-28aa9cd1f661 ;
+    skos:prefLabel "Volkswirtschaft"@de .
+
+wirtschaft:52aeef51-9a15-4ebe-a853-618058af5d08 a skos:Concept ;
+    skos:broader wirtschaft:ad0645d5-44a2-4838-9729-248de73309c7 ;
+    skos:inScheme wirtschaft: ;
+    skos:narrower wirtschaft:52546290-7177-41ca-8fb5-638f83dba571 ;
+    skos:prefLabel "Bilanz"@de .
+
+wirtschaft:67a4243c-45c2-4292-97ee-7efc665685ae a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:narrower wirtschaft:6b0dcbe6-c364-452b-b0d5-3cbf54b9176c ;
+    skos:prefLabel "Kapital"@de .
+
+wirtschaft:6a6800e7-1670-49d6-8f3a-0d390bfd111b a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:narrower wirtschaft:6ffa5879-2869-4ee0-ac05-557241131a22 ;
+    skos:prefLabel "Haushaltsplan (Wirtschaft)"@de .
+
+wirtschaft:75a869e5-d624-4f56-813a-4ef8041de19b a skos:Concept ;
+    skos:broader wirtschaft:ef7d585f-328d-4364-bb35-e6730f598f98 ;
+    skos:inScheme wirtschaft: ;
+    skos:narrower wirtschaft:69ba4066-79ee-4ec8-83dc-52aac78a934e ;
+    skos:prefLabel "Euro"@de .
+
+wirtschaft:b36ad792-560f-43ff-b498-9231269cc7f5 a skos:Concept ;
+    skos:broader wirtschaft:bef9c73b-61fc-43d6-9c44-6891cddc94ca ;
+    skos:inScheme wirtschaft: ;
+    skos:narrower wirtschaft:348fd7d3-1d18-4874-868d-6def77d0693a ;
+    skos:prefLabel "Außenwirtschaft"@de .
+
+wirtschaft:c8e1b9ce-014e-48d6-ad9e-ddbf137fba81 a skos:Concept ;
+    skos:broader wirtschaft:ad0645d5-44a2-4838-9729-248de73309c7 ;
+    skos:inScheme wirtschaft: ;
+    skos:narrower wirtschaft:8b2e4990-fda2-4e76-8940-4c4e08b3ba0f ;
+    skos:prefLabel "Werbung"@de .
+
+wirtschaft:cdb72b85-72cc-4075-94f5-58dfedab42ce a skos:Concept ;
+    skos:inScheme wirtschaft: ;
+    skos:narrower wirtschaft:9b25cce6-ecf5-45f3-9b36-0f138f608ea1 ;
+    skos:prefLabel "Versorgung (öffentliche)"@de ;
+    skos:topConceptOf wirtschaft: .
+
+wirtschaft:ce8700aa-d161-4d37-91bd-59baadb399c3 a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:narrower wirtschaft:276a5a8d-65b2-4138-bbf3-b61e1408062c ;
+    skos:prefLabel "Verkauf"@de .
+
+wirtschaft:fd47224c-83e5-43eb-bada-a0eea1f7a26a a skos:Concept ;
+    skos:broader wirtschaft:4c8544fd-8487-41d4-b221-b949979e3171 ;
+    skos:inScheme wirtschaft: ;
+    skos:narrower wirtschaft:b9eefb2f-7b2e-4a51-b251-68090c6b21ac ;
+    skos:prefLabel "Kredit"@de .
+
+wirtschaft:fe51e14d-0d6c-4ac8-93d0-15e432a9cee7 a skos:Concept ;
+    skos:broader wirtschaft:4c8544fd-8487-41d4-b221-b949979e3171 ;
+    skos:inScheme wirtschaft: ;
+    skos:narrower wirtschaft:bb43ec78-c814-4edc-87fc-1a1fb2b39583 ;
+    skos:prefLabel "Finanzierung"@de .
+
+wirtschaft:306c6b7b-15c9-4816-867c-338232ea3d4d a skos:Concept ;
+    skos:inScheme wirtschaft: ;
+    skos:narrower wirtschaft:b8324514-96cf-474e-9a7d-5c77603972f8,
+        wirtschaft:bba5e572-6b4b-456a-b9ce-0ffd8a98156a ;
+    skos:prefLabel "Sozialversicherung"@de ;
+    skos:topConceptOf wirtschaft: .
+
+wirtschaft:4452b043-e174-4b61-8819-0f9bc8b256e7 a skos:Concept ;
+    skos:inScheme wirtschaft: ;
+    skos:narrower wirtschaft:48546cbf-3da8-4c82-9f34-7cfc2bea2c86,
+        wirtschaft:8b410c39-60f8-43b1-ba11-0597b60422f7 ;
+    skos:prefLabel "Arbeitnehmer"@de ;
+    skos:topConceptOf wirtschaft: .
+
+wirtschaft:4c4ef67a-f370-495c-969a-89644b22b824 a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:narrower wirtschaft:7613bdd8-2927-465c-8e9d-6140bfde4953,
+        wirtschaft:94de33b1-300d-4da6-96c4-740ebab01b22 ;
+    skos:prefLabel "Börse"@de .
+
+wirtschaft:9b25cce6-ecf5-45f3-9b36-0f138f608ea1 a skos:Concept ;
+    skos:broader wirtschaft:cdb72b85-72cc-4075-94f5-58dfedab42ce ;
+    skos:inScheme wirtschaft: ;
+    skos:narrower wirtschaft:893faa26-15c0-4b83-ba2a-7c053a0d71d0,
+        wirtschaft:afbbd673-5796-4b81-8ddc-80349b759033 ;
+    skos:prefLabel "Energieversorgung"@de .
+
+wirtschaft:a6f271ad-be13-447d-99c4-00c07f7ee578 a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:narrower wirtschaft:0ccff286-b9df-4e92-86c4-3c52fdc4a2c6,
+        wirtschaft:6ca8dd56-2335-4b9f-b40d-c8667ae4a6d6 ;
+    skos:prefLabel "Bruttonationaleinkommen"@de .
+
+wirtschaft:f6baf4cf-81c6-4c42-a812-64d31931ab78 a skos:Concept ;
+    skos:broader wirtschaft:833e87ae-6581-4087-8712-918bffc18998 ;
+    skos:inScheme wirtschaft: ;
+    skos:narrower wirtschaft:44b6ab1d-d6ad-43e0-833f-099fb9be834a,
+        wirtschaft:910beca0-8ec0-4903-82a1-8c46e741bbf9 ;
+    skos:prefLabel "Einzelhandel"@de .
+
+wirtschaft:6e398e51-fa43-4dd1-b859-e6a0f4a2ffb4 a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:narrower wirtschaft:b0056aae-c513-4dce-8cba-90b60a4d23f6,
+        wirtschaft:b610a298-1623-40d7-8688-65c70266f625,
+        wirtschaft:c3af5b24-05ec-4761-bbd2-6a439ca07a6e ;
+    skos:prefLabel "Verbraucher"@de .
+
+wirtschaft:ef7d585f-328d-4364-bb35-e6730f598f98 a skos:Concept ;
+    skos:broader wirtschaft:9cf2f830-e23c-45b2-b718-73c648336c46 ;
+    skos:inScheme wirtschaft: ;
+    skos:narrower wirtschaft:75a869e5-d624-4f56-813a-4ef8041de19b,
+        wirtschaft:94890cac-5a0c-4760-b92a-58256f6303a9,
+        wirtschaft:c82a8b88-32db-49d0-8d73-61d499c0313e ;
+    skos:prefLabel "Währung"@de .
+
+wirtschaft:9cf2f830-e23c-45b2-b718-73c648336c46 a skos:Concept ;
+    skos:broader wirtschaft:4c8544fd-8487-41d4-b221-b949979e3171 ;
+    skos:inScheme wirtschaft: ;
+    skos:narrower wirtschaft:3d812afe-96f5-4def-80e0-7d1959bd4f4f,
+        wirtschaft:8858a8b6-c0d1-42e3-9775-48ede3bb486f,
+        wirtschaft:aa9f7a8e-9340-4586-b585-5908ba997e33,
+        wirtschaft:ef7d585f-328d-4364-bb35-e6730f598f98 ;
+    skos:prefLabel "Geld"@de .
+
+wirtschaft:833e87ae-6581-4087-8712-918bffc18998 a skos:Concept ;
+    skos:broader wirtschaft:a4cfe355-eca0-4f14-80e8-f44e2ecea092 ;
+    skos:inScheme wirtschaft: ;
+    skos:narrower wirtschaft:8534a5f1-b070-465a-9a9f-fabf6a696125,
+        wirtschaft:883af0b2-ae98-43d0-aba3-f80748b38320,
+        wirtschaft:b326cf8a-7ea7-4c31-bce9-10f84f85b08f,
+        wirtschaft:ce4f62bc-95e6-42e3-ab4b-140c10c803f8,
+        wirtschaft:f6baf4cf-81c6-4c42-a812-64d31931ab78 ;
+    skos:prefLabel "Handel"@de .
+
+wirtschaft:bf90ad18-dbb6-4605-8055-fd0e25d25d8c a skos:Concept ;
+    skos:inScheme wirtschaft: ;
+    skos:narrower wirtschaft:1057a731-37a0-41f0-9b6e-d1389d5b5140,
+        wirtschaft:25a17418-2661-42e9-a3c3-9f86398e4da4,
+        wirtschaft:6ddbd5b3-523f-4f24-8c54-7c5ce046df42,
+        wirtschaft:9d4b5f0a-b0d3-415e-9f3e-910b6639603d,
+        wirtschaft:ffb5266e-782f-4629-a059-144165c5f79c ;
+    skos:prefLabel "Deutsche Bundespost"@de ;
+    skos:topConceptOf wirtschaft: .
+
+wirtschaft:1fcd3c26-e7d8-4d79-a6e7-450fe6e3dc83 a skos:Concept ;
+    skos:broader wirtschaft:a4cfe355-eca0-4f14-80e8-f44e2ecea092 ;
+    skos:inScheme wirtschaft: ;
+    skos:narrower wirtschaft:02012ad6-6f25-4655-aa15-752a0affa012,
+        wirtschaft:50c2211c-83a1-442d-b163-85de688a6399,
+        wirtschaft:864054a9-0955-48e0-8fe7-c7bd962e58e6,
+        wirtschaft:ac4a89bc-9b42-486f-9013-56b3fd28712d,
+        wirtschaft:b9472f24-58f6-43ac-9e0e-cad576b7bf0a,
+        wirtschaft:dbcc0f0f-73c9-4796-ba1c-a7c339eed7f8 ;
+    skos:prefLabel "Produktion"@de .
+
+wirtschaft:48d865a6-088d-40e3-9113-b88706df1672 a skos:Concept ;
+    skos:inScheme wirtschaft: ;
+    skos:narrower wirtschaft:0439316f-8554-4ae8-b0fe-dd6a296fb495,
+        wirtschaft:529ee094-59f9-4dbb-a829-e4deb6a936bd,
+        wirtschaft:71162dc0-8831-4af8-b5fa-ae73f00132ff,
+        wirtschaft:76062736-bfcc-4eea-a59e-36dcdaff5428,
+        wirtschaft:85707e1b-56c4-4495-953a-3a19661fdefe,
+        wirtschaft:fc810137-89e3-461c-993e-a1c82cac5184 ;
+    skos:prefLabel "Personen"@de ;
+    skos:topConceptOf wirtschaft: .
+
+wirtschaft:a4cfe355-eca0-4f14-80e8-f44e2ecea092 a skos:Concept ;
+    skos:inScheme wirtschaft: ;
+    skos:narrower wirtschaft:1fcd3c26-e7d8-4d79-a6e7-450fe6e3dc83,
+        wirtschaft:20f01636-a964-4de4-b392-b0e019609510,
+        wirtschaft:3617df75-bf09-42c3-9b67-01b4963fe599,
+        wirtschaft:71660b1a-00d2-42ec-8a58-27fa56237133,
+        wirtschaft:833e87ae-6581-4087-8712-918bffc18998,
+        wirtschaft:b3a31565-2f36-4473-ae2a-6a10a8f5ecba,
+        wirtschaft:bf684f42-abce-4c5b-9b97-1e4d2468d0b1 ;
+    skos:prefLabel "Gewerbe"@de ;
+    skos:topConceptOf wirtschaft: .
+
+wirtschaft:ee853172-5ea5-4f40-92fd-f57396f22e32 a skos:Concept ;
+    skos:broader wirtschaft:ad0645d5-44a2-4838-9729-248de73309c7 ;
+    skos:inScheme wirtschaft: ;
+    skos:narrower wirtschaft:28d4f739-16f3-430e-9015-3142fd1df5e0,
+        wirtschaft:39af4215-4760-4a48-ad81-bdf5e8653205,
+        wirtschaft:7fcca72d-5cc2-4f55-8d3e-d734732b89c4,
+        wirtschaft:836df499-8364-42f1-91f6-829d6841f963,
+        wirtschaft:8c14da34-23bc-4fc3-8ff2-495c92313794,
+        wirtschaft:c0b7a364-6a48-4149-a266-bb71b4a8ba3c,
+        wirtschaft:c263a11c-c8e8-4c50-8bbc-63e36e0dd6c7 ;
+    skos:prefLabel "Unternehmensform"@de .
+
+wirtschaft:4c8544fd-8487-41d4-b221-b949979e3171 a skos:Concept ;
+    skos:broader wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 ;
+    skos:inScheme wirtschaft: ;
+    skos:narrower wirtschaft:3e43ae18-77c4-4af0-ae61-3c72834b911c,
+        wirtschaft:6d3a7dd5-c296-46f1-abec-6c30936a3da6,
+        wirtschaft:738767ee-7874-4f5b-9342-9e416c47ee36,
+        wirtschaft:9cf2f830-e23c-45b2-b718-73c648336c46,
+        wirtschaft:a1754c82-adce-4e0e-aebb-7b59bc420c2e,
+        wirtschaft:a8526efd-917a-41e6-9c20-42e59ee93e12,
+        wirtschaft:c0355cc2-4159-41cd-9962-518e801d42da,
+        wirtschaft:fd47224c-83e5-43eb-bada-a0eea1f7a26a,
+        wirtschaft:fe51e14d-0d6c-4ac8-93d0-15e432a9cee7 ;
+    skos:prefLabel "Bank (Geldinstitut)"@de .
+
+wirtschaft:bef9c73b-61fc-43d6-9c44-6891cddc94ca a skos:Concept ;
+    skos:inScheme wirtschaft: ;
+    skos:narrower wirtschaft:06b4a8a8-d779-4512-b9d2-2cac939145c5,
+        wirtschaft:0aecacdb-9e76-40a6-ba10-6e309e4d9dd3,
+        wirtschaft:0d10ccc0-afb4-4054-ac79-abc782365477,
+        wirtschaft:0e03e571-b7f0-419a-a13d-a81e6504c666,
+        wirtschaft:1706e40b-9450-4216-9aef-ededfbe871fb,
+        wirtschaft:208e2282-d35d-4121-a414-217048c671a7,
+        wirtschaft:665090d5-b8dd-483a-8ef3-5f2d7123b61d,
+        wirtschaft:69c8fb9e-66d5-40f4-a64f-750034adc026,
+        wirtschaft:7ba18536-eb96-42a3-b204-a8a9bfd3cf89,
+        wirtschaft:8e3686d5-f4ea-400d-ac6b-e3173b64507b,
+        wirtschaft:993667fb-30fa-4e92-987c-14cabb10b8ef,
+        wirtschaft:b36ad792-560f-43ff-b498-9231269cc7f5,
+        wirtschaft:d4220c32-6b56-4dfe-8b59-bc202f62d7b9,
+        wirtschaft:d4d722b0-9617-4773-8271-43a5f3215460,
+        wirtschaft:fe586ec8-fc73-40db-ac64-c656313cd60a ;
+    skos:prefLabel "Wirtschaft"@de ;
+    skos:topConceptOf wirtschaft: .
+
+wirtschaft:ad0645d5-44a2-4838-9729-248de73309c7 a skos:Concept ;
+    skos:inScheme wirtschaft: ;
+    skos:narrower wirtschaft:014f8980-98a4-4cf0-b989-65bd4b1910c7,
+        wirtschaft:02ae6abb-f322-44e0-b26f-793346840e3b,
+        wirtschaft:07371aa6-9153-4cf0-ab1b-23b3ff359a09,
+        wirtschaft:0bda223f-a24f-4001-ae59-5b37303e1c31,
+        wirtschaft:13b5322a-31f6-4718-b07e-3489d7da70c6,
+        wirtschaft:1cc5aff9-b1e8-4096-ab66-74fc79b8ec21,
+        wirtschaft:52aeef51-9a15-4ebe-a853-618058af5d08,
+        wirtschaft:54d5208f-9a00-4e84-ba0c-be2f7c7a3a4b,
+        wirtschaft:5661156e-b277-4546-a093-44c27f0dd4bb,
+        wirtschaft:65691f45-29a1-4eea-a008-5826774dde8e,
+        wirtschaft:6ee7263b-f846-4e3a-98a0-bb772b9a8287,
+        wirtschaft:75e364e8-1127-46c4-b5ed-50069e869df5,
+        wirtschaft:76131c36-c184-4849-9e77-0bed43e01d06,
+        wirtschaft:8d676004-d52f-4aff-ae8e-62ec653a0bc4,
+        wirtschaft:aa9b8c61-f79e-489f-ad13-c9e662c8013e,
+        wirtschaft:ad60bc8c-cb24-4b80-bc45-8599d9f51cb1,
+        wirtschaft:bb9f2ec6-9b9d-48b9-8bf2-d16ae8dc84c9,
+        wirtschaft:c8e1b9ce-014e-48d6-ad9e-ddbf137fba81,
+        wirtschaft:ce36121e-4030-4f65-95a0-74809844fa97,
+        wirtschaft:dd21e498-452b-4e70-b6b1-fbaae0624914,
+        wirtschaft:ee853172-5ea5-4f40-92fd-f57396f22e32 ;
+    skos:prefLabel "Unternehmen"@de ;
+    skos:topConceptOf wirtschaft: .
+
+wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56 a skos:Concept ;
+    skos:inScheme wirtschaft: ;
+    skos:narrower wirtschaft:06664cb0-ee37-47d4-8811-134be37e479a,
+        wirtschaft:07129e47-ce98-4468-bd22-a8a55c131003,
+        wirtschaft:07671f7b-087f-4943-9ad4-3b0c5c7af9b4,
+        wirtschaft:09562861-64f8-4e12-9bf5-39e239d61e66,
+        wirtschaft:09f8955c-68a0-4a1c-8bc8-ee6f63d4122b,
+        wirtschaft:0c30a1ef-812d-46da-a740-61bf058c10e3,
+        wirtschaft:1342236a-e4be-4728-93fa-43a6790b0b0b,
+        wirtschaft:163feb20-21e3-4a3d-acff-5fbf67070a42,
+        wirtschaft:1b814383-579c-48a8-a1d8-3c67a280ebf4,
+        wirtschaft:2430f264-651b-4b2e-a39e-577be8286020,
+        wirtschaft:2923d4f2-6749-41f5-a5ff-546a97d1afc6,
+        wirtschaft:2d89040a-416a-4cdd-821b-38cab000cc25,
+        wirtschaft:3486accb-cccf-49d6-926a-43d42ab2cbd7,
+        wirtschaft:35376f69-c817-484d-ac56-47be6f08326d,
+        wirtschaft:45b0c1cb-9996-4989-a7f6-b183258fa1ef,
+        wirtschaft:48658dc9-5866-4b40-8be8-0b7d2099a9f0,
+        wirtschaft:4c4ef67a-f370-495c-969a-89644b22b824,
+        wirtschaft:4c8544fd-8487-41d4-b221-b949979e3171,
+        wirtschaft:4cc71767-8c87-490a-ac37-2c6608eb50ea,
+        wirtschaft:4e7814c0-8b82-4740-a9ab-506d269b9ef1,
+        wirtschaft:580ce61d-84c7-4fc2-b297-cb284d558607,
+        wirtschaft:67a4243c-45c2-4292-97ee-7efc665685ae,
+        wirtschaft:6a6800e7-1670-49d6-8f3a-0d390bfd111b,
+        wirtschaft:6e398e51-fa43-4dd1-b859-e6a0f4a2ffb4,
+        wirtschaft:76720324-e324-4650-8069-e4950eb0172d,
+        wirtschaft:76e59116-8332-465c-bde2-ece163aa407a,
+        wirtschaft:7733e083-1dcc-4c61-b71e-e7467524b1c0,
+        wirtschaft:7750196d-113c-4811-a5e6-68a9500e4c99,
+        wirtschaft:77bbea42-ccc4-48f5-80c2-7694656e6a9f,
+        wirtschaft:7f9446dd-8ec2-476e-aa88-107f5576bbff,
+        wirtschaft:87622be4-4067-4201-88c1-3c5be6ffa085,
+        wirtschaft:8d075961-4117-4865-a430-8b82ef8fd878,
+        wirtschaft:919e5d62-fe76-425e-ba9a-7c0f5421cc2b,
+        wirtschaft:91af38a2-c665-49ba-b927-a5d9fe98ae48,
+        wirtschaft:a6f271ad-be13-447d-99c4-00c07f7ee578,
+        wirtschaft:ad628673-b75d-4228-90f4-b96228cc1c43,
+        wirtschaft:ae15af35-4dc7-456b-b543-a92ed58c270e,
+        wirtschaft:aea27670-2214-4d26-bfb8-887d68e2347b,
+        wirtschaft:b0f6de0a-0a97-4e16-8f23-b740b29261b8,
+        wirtschaft:b162a5a1-069d-448c-b91f-6c9ca2b7c596,
+        wirtschaft:b6da5f4b-b9ac-4230-99ce-da5fa0c88682,
+        wirtschaft:b95f761c-3af8-4c96-8060-cce868062810,
+        wirtschaft:c1f5a820-986c-4fd8-aed5-68683338a2bf,
+        wirtschaft:ce8700aa-d161-4d37-91bd-59baadb399c3,
+        wirtschaft:d9252f4b-9190-429d-9908-24a2fadaf13e,
+        wirtschaft:e05b9e89-2e10-42f5-8617-2903ba68d590,
+        wirtschaft:e98410d9-79de-46f0-8c05-a5107ecfc9b9,
+        wirtschaft:eeee16cb-2161-4c51-9105-372648a35d5c,
+        wirtschaft:fd70f8c4-e436-4ed2-a2f7-b26faee7ff34 ;
+    skos:prefLabel "Wirtschaftpolitik"@de ;
+    skos:topConceptOf wirtschaft: .
+
+wirtschaft: a skos:ConceptScheme ;
     dct:creator "<https://creator.com>" ;
-    dct:description "wirtschaft_systematik"@de ;
-    dct:title "wirtschaft_systematik"@de .
+    dct:description "wirtschaft"@de ;
+    dct:title "wirtschaft"@de ;
+    skos:hasTopConcept wirtschaft:079fdd1f-e2e7-481f-ac22-529a382d4ca1,
+        wirtschaft:16cec4ba-6f65-41cc-ad85-497b24d8f808,
+        wirtschaft:20fb9647-fc39-4e36-af07-e6427144edf9,
+        wirtschaft:22ec10a9-85bf-4ad8-ae8c-1584316a6634,
+        wirtschaft:2a6c2cb4-3e09-4f13-abca-cfb3f6825f22,
+        wirtschaft:306c6b7b-15c9-4816-867c-338232ea3d4d,
+        wirtschaft:40a7660e-e0da-4599-bafa-9ad26c0fe1fb,
+        wirtschaft:4452b043-e174-4b61-8819-0f9bc8b256e7,
+        wirtschaft:48d865a6-088d-40e3-9113-b88706df1672,
+        wirtschaft:4af2df38-f5c2-403b-9624-10833d005418,
+        wirtschaft:5704ea96-1bba-4501-aa7d-28a967ea541f,
+        wirtschaft:59ee5cb6-0d48-48f6-81ef-823fcecb4927,
+        wirtschaft:785be1cc-f601-4c18-bf0a-e3ae3912809b,
+        wirtschaft:7923bfc6-cf50-4129-bd8d-059c47c18579,
+        wirtschaft:7bef390a-396e-47e8-be39-9659d1846175,
+        wirtschaft:7f310d98-952a-4fc6-a91a-0956719bd67c,
+        wirtschaft:a4cfe355-eca0-4f14-80e8-f44e2ecea092,
+        wirtschaft:ad0645d5-44a2-4838-9729-248de73309c7,
+        wirtschaft:b4965136-6db4-42bd-89b3-f7fddb3907b4,
+        wirtschaft:b7a4c138-3670-451a-85b3-f11074edf7f9,
+        wirtschaft:b8b5d0cf-2bfb-4735-bb4f-56ff1dd080e3,
+        wirtschaft:bef9c73b-61fc-43d6-9c44-6891cddc94ca,
+        wirtschaft:bf90ad18-dbb6-4605-8055-fd0e25d25d8c,
+        wirtschaft:c6875a85-8bf8-4b72-81ba-0a7f2b397979,
+        wirtschaft:cbdf04d7-8f97-479e-bee1-ef44a257c680,
+        wirtschaft:cdb72b85-72cc-4075-94f5-58dfedab42ce,
+        wirtschaft:d06eb44e-d543-4f98-8318-d0e97d211b1c,
+        wirtschaft:d626eefe-4faf-4548-bc8f-42faa5f63bf0,
+        wirtschaft:d8ea5bd6-3079-4b18-b489-12aaace66b56,
+        wirtschaft:da81dce2-350e-4710-b7b6-eb3b6e68c993,
+        wirtschaft:e2ed5fa7-3449-4285-9c75-d669c8c6f427,
+        wirtschaft:f9702df9-271f-4da1-a6dd-3f95a230675e .
 

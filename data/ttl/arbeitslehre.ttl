@@ -1,1443 +1,1443 @@
-@base <https://example-perma-id/arbeitslehre_systematik/> .
+@prefix arbeitslehre: <http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/arbeitslehre/> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<_betriebsorganisation_id> a skos:Concept ;
-    skos:broader <arbeitswelt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Betriebsorganisation"@de .
-
-<akkordarbeit_id> a skos:Concept ;
-    skos:broader <arbeitswelt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Akkordarbeit"@de .
-
-<arbeitsplatzsuche_id> a skos:Concept ;
-    skos:broader <arbeitswelt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Arbeitsplatzsuche"@de .
-
-<arbeitssicherheit_id> a skos:Concept ;
-    skos:broader <sicherheitstechnik_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Arbeitssicherheit"@de .
-
-<automation_id> a skos:Concept ;
-    skos:broader <produktionsverfahren_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Automation"@de .
-
-<bauchemie_id> a skos:Concept ;
-    skos:broader <bauindustrie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Bauchemie"@de .
-
-<baumaschine_id> a skos:Concept ;
-    skos:broader <bauindustrie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Baumaschine"@de .
-
-<bautenschutz_id> a skos:Concept ;
-    skos:broader <bautechnik_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Bautenschutz"@de .
-
-<bergbau_id> a skos:Concept ;
-    skos:broader <schwerindustrie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Bergbau"@de .
-
-<betriebserkundung_id> a skos:Concept ;
-    skos:broader <arbeitswelt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Betriebserkundung"@de .
-
-<betriebsrat_id> a skos:Concept ;
-    skos:broader <arbeitswelt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Betriebsrat"@de .
-
-<betriebsverfassungsgesetz_id> a skos:Concept ;
-    skos:broader <arbeitswelt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Betriebsverfassungsgesetz"@de .
-
-<bewehrung_bauwesen_id> a skos:Concept ;
-    skos:broader <stahlbeton_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Bewehrung (Bauwesen)"@de .
-
-<bewerbung_id> a skos:Concept ;
-    skos:broader <arbeitswelt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Bewerbung"@de .
-
-<biegefestigkeit_id> a skos:Concept ;
-    skos:broader <werkstoffprüfung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Biegefestigkeit"@de .
-
-<blechbearbeitung_id> a skos:Concept ;
-    skos:broader <schwerindustrie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Blechbearbeitung"@de .
-
-<blumenbinderei_id> a skos:Concept ;
-    skos:broader <handwerk_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Blumenbinderei"@de .
-
-<bohren_id> a skos:Concept ;
-    skos:broader <werkzeug_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Bohren"@de .
-
-<brennofen_id> a skos:Concept ;
-    skos:broader <manufaktur_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Brennofen"@de .
-
-<buch_id> a skos:Concept ;
-    skos:broader <buchdruck_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Buch"@de .
-
-<bäckerei_id> a skos:Concept ;
-    skos:broader <nahrungsmittelindustrie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Bäckerei"@de .
-
-<computerarbeitsplatz_id> a skos:Concept ;
-    skos:broader <arbeitswelt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Computerarbeitsplatz"@de .
-
-<dach_id> a skos:Concept ;
-    skos:broader <hausbau_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Dach"@de .
-
-<draht_id> a skos:Concept ;
-    skos:broader <metallurgie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Draht"@de .
-
-<drehmaschine_id> a skos:Concept ;
-    skos:broader <spanen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Drehmaschine"@de .
-
-<dreschen_id> a skos:Concept ;
-    skos:broader <landmaschine_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Dreschen"@de .
-
-<dünger_id> a skos:Concept ;
-    skos:broader <nahrungsmittelindustrie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Dünger"@de .
-
-<fachwerk_id> a skos:Concept ;
-    skos:broader <bautechnik_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Fachwerk"@de .
-
-<falknerei_id> a skos:Concept ;
-    skos:broader <jagd_weidwerk_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Falknerei"@de .
-
-<faser_id> a skos:Concept ;
-    skos:broader <spinnerei_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Faser"@de .
-
-<fassade_id> a skos:Concept ;
-    skos:broader <hausbau_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Fassade"@de .
-
-<fenster_id> a skos:Concept ;
-    skos:broader <hausbau_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Fenster"@de .
-
-<flasche_id> a skos:Concept ;
-    skos:broader <glas_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Flasche"@de .
-
-<flaschenzug_id> a skos:Concept ;
-    skos:broader <investitionsgüterindustrie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Flaschenzug"@de .
-
-<fliesen_plattenlegen_id> a skos:Concept ;
-    skos:broader <handwerk_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Fliesen (Plattenlegen)"@de .
-
-<fließarbeit_id> a skos:Concept ;
-    skos:broader <arbeitswelt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Fließarbeit"@de .
-
-<flugzeugbau_id> a skos:Concept ;
-    skos:broader <investitionsgüterindustrie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Flugzeugbau"@de .
-
-<flößerei_id> a skos:Concept ;
-    skos:broader <handwerk_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Flößerei"@de .
-
-<frauenarbeit_id> a skos:Concept ;
-    skos:broader <arbeitswelt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Frauenarbeit"@de .
-
-<fräsen_id> a skos:Concept ;
-    skos:broader <spanen_id> ;
-    skos:inScheme <> ;
+arbeitslehre:00a4bf01-d254-4597-98e2-dc8a2343fa9c a skos:Concept ;
+    skos:broader arbeitslehre:31bd0765-7a29-45f4-8ab3-f6e043a9c017 ;
+    skos:inScheme arbeitslehre: ;
     skos:prefLabel "Fräsen"@de .
 
-<fundbüro_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Fundbüro"@de ;
-    skos:topConceptOf <> .
-
-<furnier_id> a skos:Concept ;
-    skos:broader <holz_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Furnier"@de .
-
-<fügen_fertigungstechnik_id> a skos:Concept ;
-    skos:broader <produktionsverfahren_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Fügen (Fertigungstechnik)"@de .
-
-<garten_id> a skos:Concept ;
-    skos:broader <gartenbau_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Garten"@de .
-
-<gastronomie_id> a skos:Concept ;
-    skos:broader <nahrungsmittelindustrie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Gastronomie"@de .
-
-<gelenk_technik_id> a skos:Concept ;
-    skos:broader <verbindungstechnik_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Gelenk (Technik)"@de .
-
-<gewinde_id> a skos:Concept ;
-    skos:broader <investitionsgüterindustrie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Gewinde"@de .
-
-<glasur_id> a skos:Concept ;
-    skos:broader <porzellan_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Glasur"@de .
-
-<glockengießerei_id> a skos:Concept ;
-    skos:broader <gießerei_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Glockengießerei"@de .
-
-<handwerk_geschichte_id> a skos:Concept ;
-    skos:broader <handwerk_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Handwerk (Geschichte)"@de .
-
-<hausschlachtung_id> a skos:Concept ;
-    skos:broader <schlachthof_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Hausschlachtung"@de .
-
-<hobeln_id> a skos:Concept ;
-    skos:broader <spanen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Hobeln"@de .
-
-<hochhaus_id> a skos:Concept ;
-    skos:broader <bautechnik_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Hochhaus"@de .
-
-<hochofen_id> a skos:Concept ;
-    skos:broader <hüttenwerk_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Hochofen"@de .
-
-<honen_id> a skos:Concept ;
-    skos:broader <schleifen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Honen"@de .
-
-<härten_metall_id> a skos:Concept ;
-    skos:broader <werkstoffprüfung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Härten (Metall)"@de .
-
-<hühnerhaltung_id> a skos:Concept ;
-    skos:broader <tierhaltung_id> ;
-    skos:inScheme <> ;
+arbeitslehre:013cbb7b-bb6d-418c-ac0a-29129af2348e a skos:Concept ;
+    skos:broader arbeitslehre:a5d8490b-4133-4dfb-a976-ec997fe81d73 ;
+    skos:inScheme arbeitslehre: ;
     skos:prefLabel "Hühnerhaltung"@de .
 
-<imkerei_id> a skos:Concept ;
-    skos:broader <nahrungsmittelindustrie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Imkerei"@de .
+arbeitslehre:0612456c-0e89-421b-9556-3c50bfde9eae a skos:Concept ;
+    skos:broader arbeitslehre:57daba1f-f1e2-4125-ab9b-9e4ea76a12c9 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Fassade"@de .
 
-<journalismus_id> a skos:Concept ;
-    skos:broader <druck_papier_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Journalismus"@de .
-
-<kanalbau_id> a skos:Concept ;
-    skos:broader <tiefbautechnik_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kanalbau"@de .
-
-<klebstoff_id> a skos:Concept ;
-    skos:broader <chemische_industrie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Klebstoff"@de .
-
-<kopfbedeckung_id> a skos:Concept ;
-    skos:broader <mode_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kopfbedeckung"@de .
-
-<korpusverbindung_id> a skos:Concept ;
-    skos:broader <holz_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Korpusverbindung"@de .
-
-<kraftfahrzeugbau_id> a skos:Concept ;
-    skos:broader <kraftfahrzeugindustrie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kraftfahrzeugbau"@de .
-
-<kran_id> a skos:Concept ;
-    skos:broader <bautechnik_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kran"@de .
-
-<kupplung_id> a skos:Concept ;
-    skos:broader <maschine_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kupplung"@de .
-
-<köhlerei_id> a skos:Concept ;
-    skos:broader <schwerindustrie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Köhlerei"@de .
-
-<kündigung_id> a skos:Concept ;
-    skos:broader <arbeitswelt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kündigung"@de .
-
-<kürschnerei_id> a skos:Concept ;
-    skos:broader <handwerk_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kürschnerei"@de .
-
-<lack_id> a skos:Concept ;
-    skos:broader <chemische_industrie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Lack"@de .
-
-<lager_maschinenteil_id> a skos:Concept ;
-    skos:broader <maschine_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Lager (Maschinenteil)"@de .
-
-<layout_id> a skos:Concept ;
-    skos:broader <druck_papier_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Layout"@de .
-
-<lebensmittelchemie_id> a skos:Concept ;
-    skos:broader <nahrungsmittelindustrie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Lebensmittelchemie"@de .
-
-<lebensmittelqualität_id> a skos:Concept ;
-    skos:broader <nahrungsmittelindustrie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Lebensmittelqualität"@de .
-
-<leder_id> a skos:Concept ;
-    skos:broader <gerberei_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Leder"@de .
-
-<lehmbau_id> a skos:Concept ;
-    skos:broader <baustoff_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Lehmbau"@de .
-
-<leichtbeton_id> a skos:Concept ;
-    skos:broader <beton_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Leichtbeton"@de .
-
-<läppen_id> a skos:Concept ;
-    skos:broader <schleifen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Läppen"@de .
-
-<lärm_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Lärm"@de ;
-    skos:topConceptOf <> .
-
-<löten_id> a skos:Concept ;
-    skos:broader <werkzeug_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Löten"@de .
-
-<massenproduktion_id> a skos:Concept ;
-    skos:broader <produktionsverfahren_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Massenproduktion"@de .
-
-<massentierhaltung_id> a skos:Concept ;
-    skos:broader <tierhaltung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Massentierhaltung"@de .
-
-<melken_id> a skos:Concept ;
-    skos:broader <nahrungsmittelindustrie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Melken"@de .
-
-<messer_id> a skos:Concept ;
-    skos:broader <gebrauchsgegenstand_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Messer"@de .
-
-<mine_waffe_id> a skos:Concept ;
-    skos:broader <waffe_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Mine (Waffe)"@de .
-
-<mischbatterie_id> a skos:Concept ;
-    skos:broader <regelungstechnik_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Mischbatterie"@de .
-
-<modell_id> a skos:Concept ;
-    skos:broader <konsumgüterindustrie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Modell"@de .
-
-<mühle_zerkleinerungsmaschine_id> a skos:Concept ;
-    skos:broader <nahrungsmittelindustrie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Mühle (Zerkleinerungsmaschine)"@de .
-
-<nagel_befestigungsmittel_id> a skos:Concept ;
-    skos:broader <investitionsgüterindustrie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Nagel (Befestigungsmittel)"@de .
-
-<nanotechnologie_id> a skos:Concept ;
-    skos:broader <technologie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Nanotechnologie"@de .
-
-<naturwissenschaft_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Naturwissenschaft"@de ;
-    skos:topConceptOf <> .
-
-<niet_id> a skos:Concept ;
-    skos:broader <investitionsgüterindustrie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Niet"@de .
-
-<offsetdruck_id> a skos:Concept ;
-    skos:broader <druck_papier_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Offsetdruck"@de .
-
-<papier_id> a skos:Concept ;
-    skos:broader <papierherstellung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Papier"@de .
-
-<pflug_ackergerät_id> a skos:Concept ;
-    skos:broader <landmaschine_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Pflug (Ackergerät)"@de .
-
-<plantin__christophe_id> a skos:Concept ;
-    skos:broader <druck_papier_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Plantin, Christophe"@de .
-
-<pressen_druckausübung_id> a skos:Concept ;
-    skos:broader <werkzeug_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Pressen (Druckausübung)"@de .
-
-<qualität_produkt_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Qualität (Produkt)"@de ;
-    skos:topConceptOf <> .
-
-<reiben_id> a skos:Concept ;
-    skos:broader <werkzeug_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Reiben"@de .
-
-<renovierung_id> a skos:Concept ;
-    skos:broader <bautechnik_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Renovierung"@de .
-
-<reprographie_id> a skos:Concept ;
-    skos:broader <druck_papier_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Reprographie"@de .
-
-<restaurierung_id> a skos:Concept ;
-    skos:broader <bautechnik_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Restaurierung"@de .
-
-<rinderhaltung_id> a skos:Concept ;
-    skos:broader <tierhaltung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Rinderhaltung"@de .
-
-<roboter_id> a skos:Concept ;
-    skos:broader <investitionsgüterindustrie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Roboter"@de .
-
-<schichtarbeit_id> a skos:Concept ;
-    skos:broader <arbeitswelt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Schichtarbeit"@de .
-
-<schmiede_id> a skos:Concept ;
-    skos:broader <handwerk_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Schmiede"@de .
-
-<schneidengeometrie_id> a skos:Concept ;
-    skos:broader <werkstoffprüfung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Schneidengeometrie"@de .
-
-<schraube_befestigungsmittel_id> a skos:Concept ;
-    skos:broader <investitionsgüterindustrie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Schraube (Befestigungsmittel)"@de .
-
-<schreibmaschine_id> a skos:Concept ;
-    skos:broader <gebrauchsgegenstand_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Schreibmaschine"@de .
-
-<schreibmaterial_id> a skos:Concept ;
-    skos:broader <konsumgüterindustrie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Schreibmaterial"@de .
-
-<schrott_id> a skos:Concept ;
-    skos:broader <investitionsgüterindustrie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Schrott"@de .
-
-<schuh_id> a skos:Concept ;
-    skos:broader <mode_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Schuh"@de .
-
-<schwarzarbeit_id> a skos:Concept ;
-    skos:broader <arbeitswelt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Schwarzarbeit"@de .
-
-<schweißen_id> a skos:Concept ;
-    skos:broader <werkzeug_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Schweißen"@de .
-
-<segelschulschiff_id> a skos:Concept ;
-    skos:broader <marine_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Segelschulschiff"@de .
-
-<seide_id> a skos:Concept ;
-    skos:broader <weberei_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Seide"@de .
-
-<seil_element_zur_übertragung_von_zugkräften_id> a skos:Concept ;
-    skos:broader <spinnerei_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Seil (Element zur Übertragung von Zugkräften)"@de .
-
-<sekt_id> a skos:Concept ;
-    skos:broader <nahrungsmittelindustrie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Sekt"@de .
-
-<siebdruck_id> a skos:Concept ;
-    skos:broader <druck_papier_id> ;
-    skos:inScheme <> ;
+arbeitslehre:06586ec5-e1ce-4ce0-b1a7-a9278dae639b a skos:Concept ;
+    skos:broader arbeitslehre:b7be34b3-88ca-4265-87bd-ee3a9d5f8a6c ;
+    skos:inScheme arbeitslehre: ;
     skos:prefLabel "Siebdruck"@de .
 
-<siemens_ag_id> a skos:Concept ;
-    skos:broader <investitionsgüterindustrie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Siemens AG"@de .
-
-<sintern_id> a skos:Concept ;
-    skos:broader <metallurgie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Sintern"@de .
-
-<sozialarbeit_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Sozialarbeit"@de ;
-    skos:topConceptOf <> .
-
-<spannen_id> a skos:Concept ;
-    skos:broader <werkzeug_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Spannen"@de .
-
-<spanplatte_id> a skos:Concept ;
-    skos:broader <holz_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Spanplatte"@de .
-
-<stanzen_id> a skos:Concept ;
-    skos:broader <werkzeug_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Stanzen"@de .
-
-<stoffdruck_id> a skos:Concept ;
-    skos:broader <konsumgüterindustrie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Stoffdruck"@de .
-
-<streik_id> a skos:Concept ;
-    skos:broader <arbeitswelt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Streik"@de .
-
-<sägen_id> a skos:Concept ;
-    skos:broader <werkzeug_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Sägen"@de .
-
-<tapete_id> a skos:Concept ;
-    skos:broader <konsumgüterindustrie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Tapete"@de .
-
-<tarifvertrag_id> a skos:Concept ;
-    skos:broader <arbeitswelt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Tarifvertrag"@de .
-
-<technikgeschichte_id> a skos:Concept ;
-    skos:broader <technik_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Technikgeschichte"@de .
-
-<technisches_zeichnen_id> a skos:Concept ;
-    skos:broader <konstruktion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Technisches Zeichnen"@de .
-
-<teilzeitarbeit_id> a skos:Concept ;
-    skos:broader <arbeitswelt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Teilzeitarbeit"@de .
-
-<textilie_id> a skos:Concept ;
-    skos:broader <weberei_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Textilie"@de .
-
-<toleranzsystem_id> a skos:Concept ;
-    skos:broader <steuerung_steuerungstechnik_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Toleranzsystem"@de .
-
-<turbine_id> a skos:Concept ;
-    skos:broader <maschine_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Turbine"@de .
-
-<töpferei_id> a skos:Concept ;
-    skos:broader <konsumgüterindustrie_id> ;
-    skos:inScheme <> ;
+arbeitslehre:07467698-0ed6-4911-a730-362d6a650495 a skos:Concept ;
+    skos:broader arbeitslehre:59318e3f-9ad2-43ae-bebe-b398fa0f4850 ;
+    skos:inScheme arbeitslehre: ;
     skos:prefLabel "Töpferei"@de .
 
-<tür_id> a skos:Concept ;
-    skos:broader <hausbau_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Tür"@de .
+arbeitslehre:0795e4fd-0b73-448a-bcfc-c8a236a0d984 a skos:Concept ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Weltausstellung"@de ;
+    skos:topConceptOf arbeitslehre: .
 
-<uhr_id> a skos:Concept ;
-    skos:broader <gebrauchsgegenstand_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Uhr"@de .
+arbeitslehre:08592a49-64e7-46d4-a09e-5d4878b48eb0 a skos:Concept ;
+    skos:broader arbeitslehre:7f8831c2-5a2c-4242-9a19-a3c690cef58f ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Glockengießerei"@de .
 
-<umbruch_text_id> a skos:Concept ;
-    skos:broader <druck_papier_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Umbruch (Text)"@de .
-
-<ventil_id> a skos:Concept ;
-    skos:broader <investitionsgüterindustrie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Ventil"@de .
-
-<vergaser_id> a skos:Concept ;
-    skos:broader <verbrennungsmotor_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Vergaser"@de .
-
-<verlag_id> a skos:Concept ;
-    skos:broader <druck_papier_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Verlag"@de .
-
-<verpackung_id> a skos:Concept ;
-    skos:broader <nahrungsmittelindustrie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Verpackung"@de .
-
-<vorschub_werkzeugmaschine_id> a skos:Concept ;
-    skos:broader <werkzeugmaschine_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Vorschub (Werkzeugmaschine)"@de .
-
-<wagnerei_id> a skos:Concept ;
-    skos:broader <handwerk_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Wagnerei"@de .
-
-<wahrheit_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Wahrheit"@de ;
-    skos:topConceptOf <> .
-
-<walzwerk_id> a skos:Concept ;
-    skos:broader <walzen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Walzwerk"@de .
-
-<wandaufbau_id> a skos:Concept ;
-    skos:broader <hausbau_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Wandaufbau"@de .
-
-<wandputz_id> a skos:Concept ;
-    skos:broader <baustoff_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Wandputz"@de .
-
-<wandteppich_id> a skos:Concept ;
-    skos:broader <teppich_id> ;
-    skos:inScheme <> ;
+arbeitslehre:0c16504c-cb07-4ae1-965c-f984811a6767 a skos:Concept ;
+    skos:broader arbeitslehre:2832943a-e1df-4c2f-bf97-b80b08e18071 ;
+    skos:inScheme arbeitslehre: ;
     skos:prefLabel "Wandteppich"@de .
 
-<wankelmotor_id> a skos:Concept ;
-    skos:broader <verbrennungsmotor_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Wankelmotor"@de .
+arbeitslehre:13adc6d5-4ef2-4813-bee5-291e8bab4d7f a skos:Concept ;
+    skos:broader arbeitslehre:25645fe5-e7e8-4a1a-b064-9d17faaf3c12 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Vergaser"@de .
 
-<waschen_textilie_id> a skos:Concept ;
-    skos:broader <konsumgüterindustrie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Waschen (Textilie)"@de .
+arbeitslehre:143d280d-ec15-46d2-af3b-b29ca9267b95 a skos:Concept ;
+    skos:broader arbeitslehre:d742d94f-310d-4105-8d82-a1c2dbc6a557 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Melken"@de .
 
-<webstuhl_id> a skos:Concept ;
-    skos:broader <weberei_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Webstuhl"@de .
+arbeitslehre:14809a40-887a-4335-bcf7-fdcd3c3413fc a skos:Concept ;
+    skos:broader arbeitslehre:64ac7f38-6c38-48cb-95f4-418fd8b6fcab ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Roboter"@de .
 
-<weltausstellung_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Weltausstellung"@de ;
-    skos:topConceptOf <> .
+arbeitslehre:14b871e5-fcc4-432c-9180-de3ac3b8ab61 a skos:Concept ;
+    skos:broader arbeitslehre:b7be34b3-88ca-4265-87bd-ee3a9d5f8a6c ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Verlag"@de .
 
-<werbefotografie_id> a skos:Concept ;
-    skos:broader <werbeagentur_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Werbefotografie"@de .
+arbeitslehre:161a79a7-985c-42dc-8067-d44cfc5756fe a skos:Concept ;
+    skos:broader arbeitslehre:9b45c4f0-b6b1-4fa4-b49b-01b3fef94106 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Computerarbeitsplatz"@de .
 
-<werft_id> a skos:Concept ;
-    skos:broader <schiffbau_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Werft"@de .
+arbeitslehre:16ff129b-f765-4d92-9a51-be12652e6e38 a skos:Concept ;
+    skos:broader arbeitslehre:d8e6c9f4-67e4-459e-97ff-2602e8b5c2d3 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Hochofen"@de .
 
-<werkstoffkunde_id> a skos:Concept ;
-    skos:broader <werkstoff_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Werkstoffkunde"@de .
+arbeitslehre:1ac41b1f-488a-4951-b5a5-fd5ca56c159c a skos:Concept ;
+    skos:broader arbeitslehre:9b45c4f0-b6b1-4fa4-b49b-01b3fef94106 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Schwarzarbeit"@de .
 
-<werkstück_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Werkstück"@de ;
-    skos:topConceptOf <> .
+arbeitslehre:1d8e4040-8366-4675-af42-85be83ecaa55 a skos:Concept ;
+    skos:broader arbeitslehre:9b45c4f0-b6b1-4fa4-b49b-01b3fef94106 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Arbeitsplatzsuche"@de .
 
-<wetterdienst_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Wetterdienst"@de ;
-    skos:topConceptOf <> .
+arbeitslehre:20b48b93-c0df-477a-ba7f-b004a523326c a skos:Concept ;
+    skos:broader arbeitslehre:98fba572-8112-44c0-938d-9e3837cbc2e9 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Draht"@de .
 
-<wissenschaft_id> a skos:Concept ;
-    skos:inScheme <> ;
+arbeitslehre:22e72657-65ff-4fc6-b248-0c3f3c5c0b04 a skos:Concept ;
+    skos:broader arbeitslehre:fd082350-dfc2-431f-8130-1728031bcdde ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Pressen (Druckausübung)"@de .
+
+arbeitslehre:250376a8-660b-49c6-9897-5c2fa937f47c a skos:Concept ;
+    skos:broader arbeitslehre:59318e3f-9ad2-43ae-bebe-b398fa0f4850 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Modell"@de .
+
+arbeitslehre:26240c63-36fc-4c24-9a0a-45f01d439114 a skos:Concept ;
+    skos:broader arbeitslehre:57daba1f-f1e2-4125-ab9b-9e4ea76a12c9 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Tür"@de .
+
+arbeitslehre:26d5d5ad-f1bc-404e-8c7b-4fd106e490d7 a skos:Concept ;
+    skos:broader arbeitslehre:d742d94f-310d-4105-8d82-a1c2dbc6a557 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Verpackung"@de .
+
+arbeitslehre:2907a242-cf12-4bc1-976d-83a45ee2c951 a skos:Concept ;
+    skos:broader arbeitslehre:d742d94f-310d-4105-8d82-a1c2dbc6a557 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Bäckerei"@de .
+
+arbeitslehre:292f9648-dae6-44c1-8d05-480c2dfe66f6 a skos:Concept ;
+    skos:broader arbeitslehre:a5d8490b-4133-4dfb-a976-ec997fe81d73 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Rinderhaltung"@de .
+
+arbeitslehre:2980d08b-d04a-4e6a-9fec-fb132cdd4836 a skos:Concept ;
+    skos:broader arbeitslehre:65ddc310-e572-4217-abb5-e841d827c71b ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Köhlerei"@de .
+
+arbeitslehre:2ac8b80d-b156-4144-9f41-5eec67b242bb a skos:Concept ;
+    skos:broader arbeitslehre:ea86dead-ee85-441d-ae65-962f7965201a ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Schneidengeometrie"@de .
+
+arbeitslehre:2d3f52d0-fa58-479f-9125-eb6b3346a097 a skos:Concept ;
+    skos:broader arbeitslehre:f7485b6e-63c7-4f66-960b-eb886a7bfa6f ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Flößerei"@de .
+
+arbeitslehre:2e8141b9-c01b-4296-9790-e4d9db86cbc6 a skos:Concept ;
+    skos:broader arbeitslehre:67467e37-f654-4f16-a197-33df9cafee3f ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Walzwerk"@de .
+
+arbeitslehre:2f14ca5e-9ae4-44fc-9d9c-96a40bb04672 a skos:Concept ;
+    skos:broader arbeitslehre:f7485b6e-63c7-4f66-960b-eb886a7bfa6f ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Kürschnerei"@de .
+
+arbeitslehre:30ccff84-7018-4662-b02f-51b661df7062 a skos:Concept ;
+    skos:broader arbeitslehre:fd082350-dfc2-431f-8130-1728031bcdde ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Schweißen"@de .
+
+arbeitslehre:32341c6e-b441-40b7-a601-a994bcda3521 a skos:Concept ;
+    skos:broader arbeitslehre:603479db-9e3b-4bfc-a8ce-dffb8810737c ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Schuh"@de .
+
+arbeitslehre:33bcd2aa-9b01-4982-ac4f-0e2f2e5c3da1 a skos:Concept ;
+    skos:broader arbeitslehre:a3ed90eb-2145-4c1c-9ae4-c7b260d9239f ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Mischbatterie"@de .
+
+arbeitslehre:3413e466-c00c-40eb-b31c-2902e681b990 a skos:Concept ;
+    skos:broader arbeitslehre:f7485b6e-63c7-4f66-960b-eb886a7bfa6f ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Handwerk (Geschichte)"@de .
+
+arbeitslehre:35b115cb-1b37-4f10-84b0-7027126b4d4a a skos:Concept ;
+    skos:broader arbeitslehre:f2f7dd31-6cfb-4b7f-afb4-9db82a140227 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Seil (Element zur Übertragung von Zugkräften)"@de .
+
+arbeitslehre:395cc850-3325-4abf-aee0-54f4a2be471b a skos:Concept ;
+    skos:broader arbeitslehre:b7be34b3-88ca-4265-87bd-ee3a9d5f8a6c ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Umbruch (Text)"@de .
+
+arbeitslehre:3bdf030c-57e0-4e8b-8c2d-0a67ff73e0b8 a skos:Concept ;
+    skos:inScheme arbeitslehre: ;
     skos:prefLabel "Wissenschaft"@de ;
-    skos:topConceptOf <> .
+    skos:topConceptOf arbeitslehre: .
 
-<wissensmanagement_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Wissensmanagement"@de ;
-    skos:topConceptOf <> .
+arbeitslehre:3f54c530-9ad6-48cd-8818-86c8c093fcea a skos:Concept ;
+    skos:broader arbeitslehre:eeae6180-b8eb-4358-ac2a-9bef31573cee ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Baumaschine"@de .
 
-<wolle_id> a skos:Concept ;
-    skos:broader <spinnerei_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Wolle"@de .
+arbeitslehre:405b9c2e-f7d2-481d-a905-ba2257139094 a skos:Concept ;
+    skos:broader arbeitslehre:64ac7f38-6c38-48cb-95f4-418fd8b6fcab ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Siemens AG"@de .
 
-<wrack_id> a skos:Concept ;
-    skos:broader <schiffbau_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Wrack"@de .
+arbeitslehre:40869af7-6a0d-4895-b02f-d79977506408 a skos:Concept ;
+    skos:broader arbeitslehre:29c42b0f-3686-4e32-a8dd-3f160d8a1ad2 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Buch"@de .
 
-<wärmedämmung_id> a skos:Concept ;
-    skos:broader <bautechnik_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Wärmedämmung"@de .
+arbeitslehre:45cfb375-c85b-437d-8d97-a09ebb4fc329 a skos:Concept ;
+    skos:broader arbeitslehre:aa92b8fe-5703-49b3-a7c9-5bff0517754a ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Vorschub (Werkzeugmaschine)"@de .
 
-<wärmepumpe_id> a skos:Concept ;
-    skos:broader <klimatechnik_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Wärmepumpe"@de .
+arbeitslehre:4607acff-b249-4c72-a226-e47af4e7365a a skos:Concept ;
+    skos:broader arbeitslehre:cf33be2c-5086-4587-84a6-3f570a7ea796 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Papier"@de .
 
-<zement_id> a skos:Concept ;
-    skos:broader <baustoff_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Zement"@de .
-
-<zerspanung_id> a skos:Concept ;
-    skos:broader <spanen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Zerspanung"@de .
-
-<ziegel_id> a skos:Concept ;
-    skos:broader <baustoff_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Ziegel"@de .
-
-<ziehen_id> a skos:Concept ;
-    skos:broader <werkzeug_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Ziehen"@de .
-
-<zunft_id> a skos:Concept ;
-    skos:broader <handwerk_id> ;
-    skos:inScheme <> ;
+arbeitslehre:461608ad-3919-4032-86e6-bc1bfdec079a a skos:Concept ;
+    skos:broader arbeitslehre:f7485b6e-63c7-4f66-960b-eb886a7bfa6f ;
+    skos:inScheme arbeitslehre: ;
     skos:prefLabel "Zunft"@de .
 
-<zündung_verbrennungsmotor_id> a skos:Concept ;
-    skos:broader <verbrennungsmotor_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Zündung (Verbrennungsmotor)"@de .
+arbeitslehre:46aa5c93-3584-4918-887c-7756fe5a0275 a skos:Concept ;
+    skos:broader arbeitslehre:9b45c4f0-b6b1-4fa4-b49b-01b3fef94106 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Teilzeitarbeit"@de .
 
-<ökologischer_hausbau__id> a skos:Concept ;
-    skos:broader <bautechnik_id> ;
-    skos:inScheme <> ;
+arbeitslehre:4876480f-907e-4ba8-8332-84461b8458f3 a skos:Concept ;
+    skos:broader arbeitslehre:ea86dead-ee85-441d-ae65-962f7965201a ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Härten (Metall)"@de .
+
+arbeitslehre:49c73055-ebcd-448f-ac90-2698c020496e a skos:Concept ;
+    skos:broader arbeitslehre:6ac3e84b-765e-4c1b-8361-5f65273cf391 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Kran"@de .
+
+arbeitslehre:4a72db49-59b8-48a2-add9-17cb593a4bef a skos:Concept ;
+    skos:broader arbeitslehre:d742d94f-310d-4105-8d82-a1c2dbc6a557 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Sekt"@de .
+
+arbeitslehre:4bacb51f-53ee-49da-b06a-7a47275b146b a skos:Concept ;
+    skos:broader arbeitslehre:6ac3e84b-765e-4c1b-8361-5f65273cf391 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Wärmedämmung"@de .
+
+arbeitslehre:4bb2c9af-6ff1-4243-8554-490e1d90c7d5 a skos:Concept ;
+    skos:broader arbeitslehre:c907417e-e1a8-4dbc-8312-3ead8bbc50ee ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Zement"@de .
+
+arbeitslehre:4bc734ff-4f25-479b-8669-331fd81c0a03 a skos:Concept ;
+    skos:broader arbeitslehre:fd082350-dfc2-431f-8130-1728031bcdde ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Sägen"@de .
+
+arbeitslehre:4c85cd03-020e-4bf9-bfdb-39bec516e71c a skos:Concept ;
+    skos:broader arbeitslehre:6ac3e84b-765e-4c1b-8361-5f65273cf391 ;
+    skos:inScheme arbeitslehre: ;
     skos:prefLabel "Ökologischer Hausbau "@de .
 
-<buchdruck_id> a skos:Concept ;
-    skos:broader <druck_papier_id> ;
-    skos:inScheme <> ;
-    skos:narrower <buch_id> ;
-    skos:prefLabel "Buchdruck"@de .
+arbeitslehre:5020b88d-dc9c-47dd-82de-44b7db742773 a skos:Concept ;
+    skos:broader arbeitslehre:b605ae48-3a8e-47f5-a504-4f3e3b5dc87b ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Läppen"@de .
 
-<gartenbau_id> a skos:Concept ;
-    skos:broader <nahrungsmittelindustrie_id> ;
-    skos:inScheme <> ;
-    skos:narrower <garten_id> ;
-    skos:prefLabel "Gartenbau"@de .
+arbeitslehre:503ce5bb-5883-4b2f-9f4a-d8f47c6ef511 a skos:Concept ;
+    skos:broader arbeitslehre:25645fe5-e7e8-4a1a-b064-9d17faaf3c12 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Zündung (Verbrennungsmotor)"@de .
 
-<gerberei_id> a skos:Concept ;
-    skos:broader <konsumgüterindustrie_id> ;
-    skos:inScheme <> ;
-    skos:narrower <leder_id> ;
-    skos:prefLabel "Gerberei"@de .
+arbeitslehre:5054d46a-e6dc-4513-96d3-6fbf63b1f443 a skos:Concept ;
+    skos:broader arbeitslehre:b7be34b3-88ca-4265-87bd-ee3a9d5f8a6c ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Layout"@de .
 
-<gießerei_id> a skos:Concept ;
-    skos:broader <schwerindustrie_id> ;
-    skos:inScheme <> ;
-    skos:narrower <glockengießerei_id> ;
-    skos:prefLabel "Gießerei"@de .
+arbeitslehre:50870ae8-3e1e-4110-9eb3-56b1c3cd1970 a skos:Concept ;
+    skos:broader arbeitslehre:f3493de5-7a02-48dc-acc0-ae595e15307f ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Korpusverbindung"@de .
 
-<glas_id> a skos:Concept ;
-    skos:broader <glasherstellung_id> ;
-    skos:inScheme <> ;
-    skos:narrower <flasche_id> ;
-    skos:prefLabel "Glas"@de .
+arbeitslehre:51057b15-1dd0-401d-98d5-7f15176650bb a skos:Concept ;
+    skos:broader arbeitslehre:fd082350-dfc2-431f-8130-1728031bcdde ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Ziehen"@de .
 
-<glasherstellung_id> a skos:Concept ;
-    skos:broader <konsumgüterindustrie_id> ;
-    skos:inScheme <> ;
-    skos:narrower <glas_id> ;
-    skos:prefLabel "Glasherstellung"@de .
+arbeitslehre:515668ed-28c8-4a3e-a195-5879069c4c09 a skos:Concept ;
+    skos:broader arbeitslehre:9b45c4f0-b6b1-4fa4-b49b-01b3fef94106 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Schichtarbeit"@de .
 
-<holzverarbeitung_id> a skos:Concept ;
-    skos:broader <holzwirtschaft_id> ;
-    skos:inScheme <> ;
-    skos:narrower <holz_id> ;
-    skos:prefLabel "Holzverarbeitung"@de .
+arbeitslehre:53f7d087-0702-40d1-a859-8dd70b7c4f29 a skos:Concept ;
+    skos:broader arbeitslehre:48b92616-e237-4956-beed-15ef6468c1a0 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Fügen (Fertigungstechnik)"@de .
 
-<holzwirtschaft_id> a skos:Concept ;
-    skos:broader <grundstoffindustrie_id> ;
-    skos:inScheme <> ;
-    skos:narrower <holzverarbeitung_id> ;
-    skos:prefLabel "Holzwirtschaft"@de .
+arbeitslehre:5896a647-e29f-4588-90bc-4830a9d10599 a skos:Concept ;
+    skos:broader arbeitslehre:c907417e-e1a8-4dbc-8312-3ead8bbc50ee ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Lehmbau"@de .
 
-<hüttenwerk_id> a skos:Concept ;
-    skos:broader <metallurgie_id> ;
-    skos:inScheme <> ;
-    skos:narrower <hochofen_id> ;
-    skos:prefLabel "Hüttenwerk"@de .
+arbeitslehre:59135f09-508e-487e-a77b-48bf6e9dccb3 a skos:Concept ;
+    skos:broader arbeitslehre:64ac7f38-6c38-48cb-95f4-418fd8b6fcab ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Schraube (Befestigungsmittel)"@de .
 
-<jagd_weidwerk_id> a skos:Concept ;
-    skos:broader <nahrungsmittelindustrie_id> ;
-    skos:inScheme <> ;
-    skos:narrower <falknerei_id> ;
-    skos:prefLabel "Jagd (Weidwerk)"@de .
+arbeitslehre:596a8a74-dd87-4267-b9d0-08bd931a28cc a skos:Concept ;
+    skos:broader arbeitslehre:642a21fc-bdd6-4f83-84c1-2b29056460eb ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Uhr"@de .
 
-<klimatechnik_id> a skos:Concept ;
-    skos:broader <bautechnik_id> ;
-    skos:inScheme <> ;
-    skos:narrower <wärmepumpe_id> ;
-    skos:prefLabel "Klimatechnik"@de .
+arbeitslehre:5a5a03eb-4cd8-4313-a094-5673c9ece4aa a skos:Concept ;
+    skos:broader arbeitslehre:f3493de5-7a02-48dc-acc0-ae595e15307f ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Furnier"@de .
 
-<konstruktion_id> a skos:Concept ;
-    skos:broader <bauindustrie_id> ;
-    skos:inScheme <> ;
-    skos:narrower <technisches_zeichnen_id> ;
-    skos:prefLabel "Konstruktion"@de .
+arbeitslehre:5aa31671-5605-4ec1-beac-674ac32fe330 a skos:Concept ;
+    skos:broader arbeitslehre:64ac7f38-6c38-48cb-95f4-418fd8b6fcab ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Gewinde"@de .
 
-<kraftfahrzeugtechnik_id> a skos:Concept ;
-    skos:broader <kraftfahrzeugindustrie_id> ;
-    skos:inScheme <> ;
-    skos:narrower <verbrennungsmotor_id> ;
-    skos:prefLabel "Kraftfahrzeugtechnik"@de .
+arbeitslehre:5e404e49-2ebe-49ab-bcc1-6ffbb2beb9c0 a skos:Concept ;
+    skos:broader arbeitslehre:64ac7f38-6c38-48cb-95f4-418fd8b6fcab ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Niet"@de .
 
-<marine_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <segelschulschiff_id> ;
-    skos:prefLabel "Marine"@de ;
-    skos:topConceptOf <> .
+arbeitslehre:63c72b0e-c8d0-4385-b37d-91122c67c8a4 a skos:Concept ;
+    skos:broader arbeitslehre:d742d94f-310d-4105-8d82-a1c2dbc6a557 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Dünger"@de .
 
-<maschinenbau_id> a skos:Concept ;
-    skos:broader <investitionsgüterindustrie_id> ;
-    skos:inScheme <> ;
-    skos:narrower <maschine_id> ;
-    skos:prefLabel "Maschinenbau"@de .
+arbeitslehre:6573a566-d0c1-4ab5-8460-a5071a4bfb69 a skos:Concept ;
+    skos:broader arbeitslehre:e1c5890f-bc0f-44d7-9a5d-f3539e7c41a6 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Webstuhl"@de .
 
-<papierherstellung_id> a skos:Concept ;
-    skos:broader <grundstoffindustrie_id> ;
-    skos:inScheme <> ;
-    skos:narrower <papier_id> ;
-    skos:prefLabel "Papierherstellung"@de .
+arbeitslehre:681f0fe8-c383-42ef-b557-d87feee9095e a skos:Concept ;
+    skos:broader arbeitslehre:9b45c4f0-b6b1-4fa4-b49b-01b3fef94106 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Fließarbeit"@de .
 
-<porzellan_id> a skos:Concept ;
-    skos:broader <manufaktur_id> ;
-    skos:inScheme <> ;
-    skos:narrower <glasur_id> ;
-    skos:prefLabel "Porzellan"@de .
+arbeitslehre:6ae46b14-8954-4f21-8985-0bdd4aaab554 a skos:Concept ;
+    skos:broader arbeitslehre:1b1f99a6-c66b-4ace-8b32-2df842514522 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Falknerei"@de .
 
-<regelungstechnik_id> a skos:Concept ;
-    skos:broader <steuerung_steuerungstechnik_id> ;
-    skos:inScheme <> ;
-    skos:narrower <mischbatterie_id> ;
-    skos:prefLabel "Regelungstechnik"@de .
+arbeitslehre:6d77e832-857f-4d88-a730-7c060fcf2988 a skos:Concept ;
+    skos:broader arbeitslehre:65ddc310-e572-4217-abb5-e841d827c71b ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Blechbearbeitung"@de .
 
-<schlachthof_id> a skos:Concept ;
-    skos:broader <nahrungsmittelindustrie_id> ;
-    skos:inScheme <> ;
-    skos:narrower <hausschlachtung_id> ;
-    skos:prefLabel "Schlachthof"@de .
+arbeitslehre:6dbb5a10-05d0-4083-8af5-5a822541f1c3 a skos:Concept ;
+    skos:broader arbeitslehre:ede1282c-f578-4348-9997-10a44ea4448b ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Werft"@de .
 
-<sicherheitstechnik_id> a skos:Concept ;
-    skos:broader <arbeitswelt_id> ;
-    skos:inScheme <> ;
-    skos:narrower <arbeitssicherheit_id> ;
-    skos:prefLabel "Sicherheitstechnik"@de .
+arbeitslehre:7550227f-bbc8-44c4-9229-e7dbc49ada17 a skos:Concept ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Lärm"@de ;
+    skos:topConceptOf arbeitslehre: .
 
-<stahlbeton_id> a skos:Concept ;
-    skos:broader <beton_id> ;
-    skos:inScheme <> ;
-    skos:narrower <bewehrung_bauwesen_id> ;
-    skos:prefLabel "Stahlbeton"@de .
+arbeitslehre:78e4b1bf-9411-4ff7-9ff7-d57b4bb77cd6 a skos:Concept ;
+    skos:broader arbeitslehre:6ac3e84b-765e-4c1b-8361-5f65273cf391 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Bautenschutz"@de .
 
-<technologie_id> a skos:Concept ;
-    skos:broader <technik_id> ;
-    skos:inScheme <> ;
-    skos:narrower <nanotechnologie_id> ;
-    skos:prefLabel "Technologie"@de .
+arbeitslehre:7c68a496-6653-46cb-b9ff-02511c52e560 a skos:Concept ;
+    skos:broader arbeitslehre:48b92616-e237-4956-beed-15ef6468c1a0 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Massenproduktion"@de .
 
-<teppich_id> a skos:Concept ;
-    skos:broader <weberei_id> ;
-    skos:inScheme <> ;
-    skos:narrower <wandteppich_id> ;
-    skos:prefLabel "Teppich"@de .
+arbeitslehre:7c95a7e5-287b-4cb2-8293-3f311ddf3748 a skos:Concept ;
+    skos:broader arbeitslehre:c907417e-e1a8-4dbc-8312-3ead8bbc50ee ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Ziegel"@de .
 
-<tiefbautechnik_id> a skos:Concept ;
-    skos:broader <bautechnik_id> ;
-    skos:inScheme <> ;
-    skos:narrower <kanalbau_id> ;
-    skos:prefLabel "Tiefbautechnik"@de .
+arbeitslehre:7ca50dd4-ea46-458c-a5c8-b51b266b06fd a skos:Concept ;
+    skos:broader arbeitslehre:31bd0765-7a29-45f4-8ab3-f6e043a9c017 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Drehmaschine"@de .
 
-<verbindungstechnik_id> a skos:Concept ;
-    skos:broader <produktionsverfahren_id> ;
-    skos:inScheme <> ;
-    skos:narrower <gelenk_technik_id> ;
-    skos:prefLabel "Verbindungstechnik"@de .
+arbeitslehre:80008a4e-b77b-4e40-a22b-6dc14e981ba0 a skos:Concept ;
+    skos:broader arbeitslehre:59318e3f-9ad2-43ae-bebe-b398fa0f4850 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Schreibmaterial"@de .
 
-<verfahrenstechnik_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <produktionsverfahren_id> ;
-    skos:prefLabel "Verfahrenstechnik"@de ;
-    skos:topConceptOf <> .
+arbeitslehre:814e13e3-720b-4c80-a911-57fb03334775 a skos:Concept ;
+    skos:broader arbeitslehre:9b45c4f0-b6b1-4fa4-b49b-01b3fef94106 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Betriebsrat"@de .
 
-<waffe_id> a skos:Concept ;
-    skos:broader <waffenproduktion_id> ;
-    skos:inScheme <> ;
-    skos:narrower <mine_waffe_id> ;
+arbeitslehre:8157b8d4-91d2-4e5d-9d34-6673524f6d7c a skos:Concept ;
+    skos:broader arbeitslehre:fd082350-dfc2-431f-8130-1728031bcdde ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Bohren"@de .
+
+arbeitslehre:8176227c-fd7c-4053-8b0e-4116f8aa2b24 a skos:Concept ;
+    skos:broader arbeitslehre:4facf83a-2a4f-4795-bb70-d67a1211c6fc ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Hausschlachtung"@de .
+
+arbeitslehre:83681e55-010f-4814-8107-9c7176b521a4 a skos:Concept ;
+    skos:broader arbeitslehre:64ac7f38-6c38-48cb-95f4-418fd8b6fcab ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Ventil"@de .
+
+arbeitslehre:848b47f0-c3aa-40c5-a4c2-25152ffe1c21 a skos:Concept ;
+    skos:broader arbeitslehre:6ea04360-3bfc-459a-96bd-0b9b71a40023 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Segelschulschiff"@de .
+
+arbeitslehre:85e5daa2-3866-4465-a5e7-839db4cb6bc5 a skos:Concept ;
+    skos:broader arbeitslehre:c907417e-e1a8-4dbc-8312-3ead8bbc50ee ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Wandputz"@de .
+
+arbeitslehre:8617d813-3e08-4616-8162-9bff9fa79aaf a skos:Concept ;
+    skos:broader arbeitslehre:e1c5890f-bc0f-44d7-9a5d-f3539e7c41a6 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Seide"@de .
+
+arbeitslehre:86ed325d-d654-4042-a85c-a79dd24813c7 a skos:Concept ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Naturwissenschaft"@de ;
+    skos:topConceptOf arbeitslehre: .
+
+arbeitslehre:8782c953-5732-4706-aa77-23c2a0826434 a skos:Concept ;
+    skos:broader arbeitslehre:f7485b6e-63c7-4f66-960b-eb886a7bfa6f ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Schmiede"@de .
+
+arbeitslehre:8865fc7a-783f-4ecd-9c5f-519865afad98 a skos:Concept ;
+    skos:broader arbeitslehre:9b45c4f0-b6b1-4fa4-b49b-01b3fef94106 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Betriebsverfassungsgesetz"@de .
+
+arbeitslehre:88f8cb5b-6f2c-48c2-b9b9-aa008ac0b33a a skos:Concept ;
+    skos:broader arbeitslehre:57daba1f-f1e2-4125-ab9b-9e4ea76a12c9 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Dach"@de .
+
+arbeitslehre:89205f5e-3cc5-46f6-a2a4-f87fb1f315e8 a skos:Concept ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Wahrheit"@de ;
+    skos:topConceptOf arbeitslehre: .
+
+arbeitslehre:897a4ec7-b139-4ea1-a547-31aeed20852e a skos:Concept ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Wetterdienst"@de ;
+    skos:topConceptOf arbeitslehre: .
+
+arbeitslehre:89825174-455b-4a38-a96a-8c8186c297ac a skos:Concept ;
+    skos:broader arbeitslehre:fd082350-dfc2-431f-8130-1728031bcdde ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Löten"@de .
+
+arbeitslehre:8e5d1c8d-36cf-434c-a2ab-7612abefa9f5 a skos:Concept ;
+    skos:broader arbeitslehre:31bd0765-7a29-45f4-8ab3-f6e043a9c017 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Hobeln"@de .
+
+arbeitslehre:8f55943e-4fbd-48f9-9356-ffbee5c5a419 a skos:Concept ;
+    skos:broader arbeitslehre:9b45c4f0-b6b1-4fa4-b49b-01b3fef94106 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Betriebsorganisation"@de .
+
+arbeitslehre:90f453c1-1e98-4bd9-a1bb-2b045ce25cfa a skos:Concept ;
+    skos:broader arbeitslehre:25645fe5-e7e8-4a1a-b064-9d17faaf3c12 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Wankelmotor"@de .
+
+arbeitslehre:94e589e7-fd24-4726-8438-1ab18f44235e a skos:Concept ;
+    skos:broader arbeitslehre:64ac7f38-6c38-48cb-95f4-418fd8b6fcab ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Flaschenzug"@de .
+
+arbeitslehre:96804db3-8227-46e4-958e-4d87db7c4b24 a skos:Concept ;
+    skos:broader arbeitslehre:f7485b6e-63c7-4f66-960b-eb886a7bfa6f ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Wagnerei"@de .
+
+arbeitslehre:96ba216c-4675-496f-a3f1-07ee418f1335 a skos:Concept ;
+    skos:broader arbeitslehre:f2f7dd31-6cfb-4b7f-afb4-9db82a140227 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Wolle"@de .
+
+arbeitslehre:97a0477f-cdfd-46c7-b5c6-12be90c9aa08 a skos:Concept ;
+    skos:broader arbeitslehre:20412c94-70e2-44ba-b3bd-194da8e7ec01 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Kraftfahrzeugbau"@de .
+
+arbeitslehre:99f5ff4d-3d76-4827-bfc4-2c6faabbecea a skos:Concept ;
+    skos:broader arbeitslehre:f2f7dd31-6cfb-4b7f-afb4-9db82a140227 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Faser"@de .
+
+arbeitslehre:9a0693fd-a4f5-497c-874c-02c84bd716c2 a skos:Concept ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Qualität (Produkt)"@de ;
+    skos:topConceptOf arbeitslehre: .
+
+arbeitslehre:9be7dd19-7daa-4409-b5d5-914a54526d3e a skos:Concept ;
+    skos:broader arbeitslehre:40a17ae5-3464-487a-9f29-3cae1a3bac73 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Toleranzsystem"@de .
+
+arbeitslehre:9e7b15fc-7930-4287-87f9-290d7aa22fcb a skos:Concept ;
+    skos:broader arbeitslehre:f3493de5-7a02-48dc-acc0-ae595e15307f ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Spanplatte"@de .
+
+arbeitslehre:9fb71427-deb5-4da6-9a29-de4efce1e4f8 a skos:Concept ;
+    skos:broader arbeitslehre:fd082350-dfc2-431f-8130-1728031bcdde ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Spannen"@de .
+
+arbeitslehre:9fd47d52-1277-48ae-921d-ab24e22ec68c a skos:Concept ;
+    skos:broader arbeitslehre:d742d94f-310d-4105-8d82-a1c2dbc6a557 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Mühle (Zerkleinerungsmaschine)"@de .
+
+arbeitslehre:9ffcaa1c-c117-4992-9c41-550fe25bd663 a skos:Concept ;
+    skos:broader arbeitslehre:59318e3f-9ad2-43ae-bebe-b398fa0f4850 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Waschen (Textilie)"@de .
+
+arbeitslehre:a608c322-ea87-4553-84bb-2f9b79359806 a skos:Concept ;
+    skos:broader arbeitslehre:d742d94f-310d-4105-8d82-a1c2dbc6a557 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Lebensmittelqualität"@de .
+
+arbeitslehre:a821d54b-6575-4a3d-a0cf-dcd4586c0b04 a skos:Concept ;
+    skos:broader arbeitslehre:6ac3e84b-765e-4c1b-8361-5f65273cf391 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Renovierung"@de .
+
+arbeitslehre:a8d8b3d9-9a67-44ce-b9ed-322c3855bb25 a skos:Concept ;
+    skos:broader arbeitslehre:9b45c4f0-b6b1-4fa4-b49b-01b3fef94106 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Frauenarbeit"@de .
+
+arbeitslehre:a918bbaa-6626-426b-9fde-3d11e3fead8b a skos:Concept ;
+    skos:broader arbeitslehre:d9c00fb4-cbdf-4d52-aa7e-ea9f988e965f ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Lack"@de .
+
+arbeitslehre:acae9b14-ad29-4cbd-8a6c-c49349ad865d a skos:Concept ;
+    skos:broader arbeitslehre:93888bbb-656e-456c-b8e2-e019ae0b777b ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Nanotechnologie"@de .
+
+arbeitslehre:acd32540-2679-433c-9883-abe89acd101e a skos:Concept ;
+    skos:broader arbeitslehre:001a46e5-1d88-4f73-9913-9da5c9bba3c4 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Dreschen"@de .
+
+arbeitslehre:acddfe57-a5e6-4469-b285-20c968d9555f a skos:Concept ;
+    skos:broader arbeitslehre:eb1f3e4a-d3ff-40a5-b26b-682ab808abce ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Turbine"@de .
+
+arbeitslehre:af18c7f6-830e-47ba-af04-97c575a74294 a skos:Concept ;
+    skos:broader arbeitslehre:388ed14f-6aa7-4e33-8bd3-088a54008190 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Werbefotografie"@de .
+
+arbeitslehre:b047e294-4944-42bd-b1bf-e729a2209d35 a skos:Concept ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Fundbüro"@de ;
+    skos:topConceptOf arbeitslehre: .
+
+arbeitslehre:b2aa56f9-60bd-4558-98b7-70d15ab4953d a skos:Concept ;
+    skos:broader arbeitslehre:5a78a272-cf4e-43e7-a8f9-7dd4c91922c2 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Arbeitssicherheit"@de .
+
+arbeitslehre:b345df15-7cc0-4e65-bb93-b0b296a0a906 a skos:Concept ;
+    skos:broader arbeitslehre:9b45c4f0-b6b1-4fa4-b49b-01b3fef94106 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Kündigung"@de .
+
+arbeitslehre:b51102de-1010-4b4b-8fbd-3dbcab346ca0 a skos:Concept ;
+    skos:broader arbeitslehre:8e564c15-8a2a-4e11-be5e-3f0b1054eefc ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Bewehrung (Bauwesen)"@de .
+
+arbeitslehre:b5dc0ef2-d969-4a6c-a5fa-ffc3902deb67 a skos:Concept ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Sozialarbeit"@de ;
+    skos:topConceptOf arbeitslehre: .
+
+arbeitslehre:b866210d-46ed-40f1-a2cd-15a78edcda93 a skos:Concept ;
+    skos:broader arbeitslehre:f7485b6e-63c7-4f66-960b-eb886a7bfa6f ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Blumenbinderei"@de .
+
+arbeitslehre:bb1b0648-042c-4881-a703-4b6d3c83f5fe a skos:Concept ;
+    skos:broader arbeitslehre:642a21fc-bdd6-4f83-84c1-2b29056460eb ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Schreibmaschine"@de .
+
+arbeitslehre:bb246a08-8f9e-4441-8878-a14c7af452d7 a skos:Concept ;
+    skos:broader arbeitslehre:31bd0765-7a29-45f4-8ab3-f6e043a9c017 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Zerspanung"@de .
+
+arbeitslehre:bb4c1b13-bea2-4423-93ce-07ba45276150 a skos:Concept ;
+    skos:broader arbeitslehre:65ddc310-e572-4217-abb5-e841d827c71b ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Bergbau"@de .
+
+arbeitslehre:bc094db6-a333-4aba-b898-21f9a45ee6f3 a skos:Concept ;
+    skos:broader arbeitslehre:d3dfc104-b9e7-4b14-8d5b-f928bfa3307a ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Gelenk (Technik)"@de .
+
+arbeitslehre:c252383d-4da0-4fc2-ae24-4c5657a7c5c6 a skos:Concept ;
+    skos:broader arbeitslehre:57daba1f-f1e2-4125-ab9b-9e4ea76a12c9 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Fenster"@de .
+
+arbeitslehre:c2fb24f0-b0cd-4c56-87c9-38a1042174e5 a skos:Concept ;
+    skos:broader arbeitslehre:d166e0d5-8f7e-480c-b724-fbda908ac6ac ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Werkstoffkunde"@de .
+
+arbeitslehre:c49e18f2-514b-499a-a52e-a5870814a26b a skos:Concept ;
+    skos:broader arbeitslehre:b605ae48-3a8e-47f5-a504-4f3e3b5dc87b ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Honen"@de .
+
+arbeitslehre:c6a858a1-6e3b-48d5-a389-2d189f50b869 a skos:Concept ;
+    skos:broader arbeitslehre:b7be34b3-88ca-4265-87bd-ee3a9d5f8a6c ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Offsetdruck"@de .
+
+arbeitslehre:ca61a613-85f7-4d9c-8d89-2c300a90d7ff a skos:Concept ;
+    skos:broader arbeitslehre:fd082350-dfc2-431f-8130-1728031bcdde ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Stanzen"@de .
+
+arbeitslehre:cb213d1b-e481-4bde-90fe-1434dc74e0ee a skos:Concept ;
+    skos:broader arbeitslehre:b7be34b3-88ca-4265-87bd-ee3a9d5f8a6c ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Reprographie"@de .
+
+arbeitslehre:cdda5370-07a0-4c7a-bb71-c060036c4a5e a skos:Concept ;
+    skos:broader arbeitslehre:9b45c4f0-b6b1-4fa4-b49b-01b3fef94106 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Streik"@de .
+
+arbeitslehre:ce4e4867-1ec8-4b1a-a318-749ec6cf38fc a skos:Concept ;
+    skos:broader arbeitslehre:1370052a-5cf7-4543-bb07-4966072f28ec ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Wärmepumpe"@de .
+
+arbeitslehre:ce919518-cec9-4d1e-8220-a4e75f315fa4 a skos:Concept ;
+    skos:broader arbeitslehre:001a46e5-1d88-4f73-9913-9da5c9bba3c4 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Pflug (Ackergerät)"@de .
+
+arbeitslehre:cf66dee7-54da-4d39-97a9-b72c9f53c086 a skos:Concept ;
+    skos:broader arbeitslehre:57daba1f-f1e2-4125-ab9b-9e4ea76a12c9 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Wandaufbau"@de .
+
+arbeitslehre:d2568d0b-d400-47df-a673-7c73fe401c3c a skos:Concept ;
+    skos:broader arbeitslehre:e1c5890f-bc0f-44d7-9a5d-f3539e7c41a6 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Textilie"@de .
+
+arbeitslehre:d305dc39-4689-4a4a-9868-da02e4db6832 a skos:Concept ;
+    skos:broader arbeitslehre:ea86dead-ee85-441d-ae65-962f7965201a ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Biegefestigkeit"@de .
+
+arbeitslehre:d32fd2ac-3e3d-441f-959c-f151393b8cc4 a skos:Concept ;
+    skos:broader arbeitslehre:9b45c4f0-b6b1-4fa4-b49b-01b3fef94106 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Bewerbung"@de .
+
+arbeitslehre:d34014b8-e145-4ba2-ba4d-fc98332a723f a skos:Concept ;
+    skos:broader arbeitslehre:b7be34b3-88ca-4265-87bd-ee3a9d5f8a6c ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Plantin, Christophe"@de .
+
+arbeitslehre:d3e3eee6-454f-4d9d-8f92-340f451892c4 a skos:Concept ;
+    skos:broader arbeitslehre:f7485b6e-63c7-4f66-960b-eb886a7bfa6f ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Fliesen (Plattenlegen)"@de .
+
+arbeitslehre:d42ab766-1366-4d13-a3ea-555fe4579cbc a skos:Concept ;
+    skos:broader arbeitslehre:f0b9bd0f-ff04-4ead-a81a-1b43dec5c22a ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Leder"@de .
+
+arbeitslehre:d53a7083-368e-4e16-ae5f-eec96196f983 a skos:Concept ;
+    skos:broader arbeitslehre:f1eb55b2-23a6-4ad5-bbe6-09a8585db404 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Glasur"@de .
+
+arbeitslehre:d5ecb4ce-4b71-45f5-a81c-b4d8ed9ad58c a skos:Concept ;
+    skos:broader arbeitslehre:75abf8c0-a04a-4ed8-99bd-5f0a6758f7db ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Brennofen"@de .
+
+arbeitslehre:d6676183-1a14-455a-ba48-e58fb31533ec a skos:Concept ;
+    skos:broader arbeitslehre:d9c00fb4-cbdf-4d52-aa7e-ea9f988e965f ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Klebstoff"@de .
+
+arbeitslehre:d7d48564-a5c0-4a72-a8b8-41e8f754baaf a skos:Concept ;
+    skos:broader arbeitslehre:98fba572-8112-44c0-938d-9e3837cbc2e9 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Sintern"@de .
+
+arbeitslehre:d7f5472d-e894-4b26-b9a8-4fe860144bf0 a skos:Concept ;
+    skos:broader arbeitslehre:3f582d5f-d853-4832-9dae-c5224f5c8edb ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Flasche"@de .
+
+arbeitslehre:d8ee5a32-7497-48f7-9f0e-60043fd53a1f a skos:Concept ;
+    skos:broader arbeitslehre:6ac3e84b-765e-4c1b-8361-5f65273cf391 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Fachwerk"@de .
+
+arbeitslehre:dae32721-be04-4394-bb19-0eeb856883f3 a skos:Concept ;
+    skos:broader arbeitslehre:48b92616-e237-4956-beed-15ef6468c1a0 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Automation"@de .
+
+arbeitslehre:dd9cd540-d2dc-44d8-844a-a8a0e0d011d5 a skos:Concept ;
+    skos:broader arbeitslehre:a5d8490b-4133-4dfb-a976-ec997fe81d73 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Massentierhaltung"@de .
+
+arbeitslehre:df2d1e0f-2cce-449a-8f83-80635b16d3c5 a skos:Concept ;
+    skos:broader arbeitslehre:6ac3e84b-765e-4c1b-8361-5f65273cf391 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Hochhaus"@de .
+
+arbeitslehre:df95ac7b-e5d2-40df-ae9f-15debe15179c a skos:Concept ;
+    skos:broader arbeitslehre:9b45c4f0-b6b1-4fa4-b49b-01b3fef94106 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Tarifvertrag"@de .
+
+arbeitslehre:dfb3aaff-0073-4364-829a-b9cea897f27b a skos:Concept ;
+    skos:broader arbeitslehre:9b45c4f0-b6b1-4fa4-b49b-01b3fef94106 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Betriebserkundung"@de .
+
+arbeitslehre:e042186f-dd41-44f6-bcd3-ac7666f76be3 a skos:Concept ;
+    skos:broader arbeitslehre:eeae6180-b8eb-4358-ac2a-9bef31573cee ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Bauchemie"@de .
+
+arbeitslehre:e04d2bff-6305-4fb3-84a2-d9d2371c5d45 a skos:Concept ;
+    skos:broader arbeitslehre:03d7bae0-dc7e-44fe-89f2-186fc819e535 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Mine (Waffe)"@de .
+
+arbeitslehre:e21e002d-1826-4652-a920-a42c1540ba9e a skos:Concept ;
+    skos:broader arbeitslehre:603479db-9e3b-4bfc-a8ce-dffb8810737c ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Kopfbedeckung"@de .
+
+arbeitslehre:e261c858-2a6d-4fc6-bbdc-352b713a352e a skos:Concept ;
+    skos:broader arbeitslehre:fd082350-dfc2-431f-8130-1728031bcdde ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Reiben"@de .
+
+arbeitslehre:e33a9ab6-6abd-48fb-86bf-68aadf4fdecf a skos:Concept ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Wissensmanagement"@de ;
+    skos:topConceptOf arbeitslehre: .
+
+arbeitslehre:e4321076-9ba6-40f6-a89d-ad88b047b36d a skos:Concept ;
+    skos:broader arbeitslehre:12c862ee-1a7d-4162-9dbd-99d421967734 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Leichtbeton"@de .
+
+arbeitslehre:e526c97c-6784-41cb-b275-1957f42d6226 a skos:Concept ;
+    skos:broader arbeitslehre:59318e3f-9ad2-43ae-bebe-b398fa0f4850 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Stoffdruck"@de .
+
+arbeitslehre:e78d881b-5b54-4c87-8886-d46eef858bfb a skos:Concept ;
+    skos:broader arbeitslehre:64ac7f38-6c38-48cb-95f4-418fd8b6fcab ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Flugzeugbau"@de .
+
+arbeitslehre:e899061d-ff35-4b38-839c-407dc33b2637 a skos:Concept ;
+    skos:broader arbeitslehre:9b45c4f0-b6b1-4fa4-b49b-01b3fef94106 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Akkordarbeit"@de .
+
+arbeitslehre:ea6f9a96-abdd-47f9-94dd-d6455bfe37fe a skos:Concept ;
+    skos:broader arbeitslehre:ede1282c-f578-4348-9997-10a44ea4448b ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Wrack"@de .
+
+arbeitslehre:ea81d9bb-e427-46cc-984c-c7fedb00b0c8 a skos:Concept ;
+    skos:broader arbeitslehre:a1103209-98fc-45ff-9e7d-fdebab06e395 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Garten"@de .
+
+arbeitslehre:eb97999d-c189-4690-9662-82b53c78d0f8 a skos:Concept ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Werkstück"@de ;
+    skos:topConceptOf arbeitslehre: .
+
+arbeitslehre:ed43dfc4-9645-40b2-abfe-66310f9201f5 a skos:Concept ;
+    skos:broader arbeitslehre:b7be34b3-88ca-4265-87bd-ee3a9d5f8a6c ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Journalismus"@de .
+
+arbeitslehre:ede8b80c-60a1-4233-9315-44dd79dac011 a skos:Concept ;
+    skos:broader arbeitslehre:4674530c-f7f6-487f-bcb6-8fcfc0f3d740 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Kanalbau"@de .
+
+arbeitslehre:eeb32a0e-f52f-4578-961a-da488f0160fb a skos:Concept ;
+    skos:broader arbeitslehre:3d7a8263-848f-474f-a5aa-769349ac7bff ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Technisches Zeichnen"@de .
+
+arbeitslehre:ef07c80f-f9cb-4c9e-86c8-9d1ec35da718 a skos:Concept ;
+    skos:broader arbeitslehre:59318e3f-9ad2-43ae-bebe-b398fa0f4850 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Tapete"@de .
+
+arbeitslehre:ef7ca6df-2bc9-4ca5-992a-0eb2dbfa0a72 a skos:Concept ;
+    skos:broader arbeitslehre:6ac3e84b-765e-4c1b-8361-5f65273cf391 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Restaurierung"@de .
+
+arbeitslehre:f0a32461-4d2c-45c9-a8fa-7cbaede38a17 a skos:Concept ;
+    skos:broader arbeitslehre:d742d94f-310d-4105-8d82-a1c2dbc6a557 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Lebensmittelchemie"@de .
+
+arbeitslehre:f18c1762-a341-48f4-960d-0192c6d563af a skos:Concept ;
+    skos:broader arbeitslehre:e6987f70-8e4f-4ff3-9c62-024614ebc2ad ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Technikgeschichte"@de .
+
+arbeitslehre:f1adfdf2-f718-458a-b86f-8968999c71e1 a skos:Concept ;
+    skos:broader arbeitslehre:d742d94f-310d-4105-8d82-a1c2dbc6a557 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Gastronomie"@de .
+
+arbeitslehre:f225bde1-ec1b-4a10-83e4-2d9ab0f80899 a skos:Concept ;
+    skos:broader arbeitslehre:64ac7f38-6c38-48cb-95f4-418fd8b6fcab ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Schrott"@de .
+
+arbeitslehre:f66aa916-8327-479d-8e06-ccffb39544cd a skos:Concept ;
+    skos:broader arbeitslehre:64ac7f38-6c38-48cb-95f4-418fd8b6fcab ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Nagel (Befestigungsmittel)"@de .
+
+arbeitslehre:fa3ba4fa-d44e-4da7-89e8-272460acdde7 a skos:Concept ;
+    skos:broader arbeitslehre:d742d94f-310d-4105-8d82-a1c2dbc6a557 ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Imkerei"@de .
+
+arbeitslehre:faa1d96c-8d65-4a5c-9c35-c5bc47b1ebde a skos:Concept ;
+    skos:broader arbeitslehre:642a21fc-bdd6-4f83-84c1-2b29056460eb ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Messer"@de .
+
+arbeitslehre:fd99fd95-0747-4f18-a4a9-62a549cf6f64 a skos:Concept ;
+    skos:broader arbeitslehre:eb1f3e4a-d3ff-40a5-b26b-682ab808abce ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Lager (Maschinenteil)"@de .
+
+arbeitslehre:fe0f2886-29d5-4708-ba6d-ac499c0b3585 a skos:Concept ;
+    skos:broader arbeitslehre:eb1f3e4a-d3ff-40a5-b26b-682ab808abce ;
+    skos:inScheme arbeitslehre: ;
+    skos:prefLabel "Kupplung"@de .
+
+arbeitslehre:03d7bae0-dc7e-44fe-89f2-186fc819e535 a skos:Concept ;
+    skos:broader arbeitslehre:a0333134-120e-425c-89a2-ccc36d1666aa ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:e04d2bff-6305-4fb3-84a2-d9d2371c5d45 ;
     skos:prefLabel "Waffe"@de .
 
-<waffenproduktion_id> a skos:Concept ;
-    skos:broader <investitionsgüterindustrie_id> ;
-    skos:inScheme <> ;
-    skos:narrower <waffe_id> ;
-    skos:prefLabel "Waffenproduktion"@de .
+arbeitslehre:081fad4a-e3b8-4b4f-b6a2-41ab8fef3d80 a skos:Concept ;
+    skos:broader arbeitslehre:20412c94-70e2-44ba-b3bd-194da8e7ec01 ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:25645fe5-e7e8-4a1a-b064-9d17faaf3c12 ;
+    skos:prefLabel "Kraftfahrzeugtechnik"@de .
 
-<walzen_id> a skos:Concept ;
-    skos:broader <werkzeug_id> ;
-    skos:inScheme <> ;
-    skos:narrower <walzwerk_id> ;
-    skos:prefLabel "Walzen"@de .
+arbeitslehre:1370052a-5cf7-4543-bb07-4966072f28ec a skos:Concept ;
+    skos:broader arbeitslehre:6ac3e84b-765e-4c1b-8361-5f65273cf391 ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:ce4e4867-1ec8-4b1a-a318-749ec6cf38fc ;
+    skos:prefLabel "Klimatechnik"@de .
 
-<werbeagentur_id> a skos:Concept ;
-    skos:broader <druck_papier_id> ;
-    skos:inScheme <> ;
-    skos:narrower <werbefotografie_id> ;
+arbeitslehre:1b1f99a6-c66b-4ace-8b32-2df842514522 a skos:Concept ;
+    skos:broader arbeitslehre:d742d94f-310d-4105-8d82-a1c2dbc6a557 ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:6ae46b14-8954-4f21-8985-0bdd4aaab554 ;
+    skos:prefLabel "Jagd (Weidwerk)"@de .
+
+arbeitslehre:2832943a-e1df-4c2f-bf97-b80b08e18071 a skos:Concept ;
+    skos:broader arbeitslehre:e1c5890f-bc0f-44d7-9a5d-f3539e7c41a6 ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:0c16504c-cb07-4ae1-965c-f984811a6767 ;
+    skos:prefLabel "Teppich"@de .
+
+arbeitslehre:29c42b0f-3686-4e32-a8dd-3f160d8a1ad2 a skos:Concept ;
+    skos:broader arbeitslehre:b7be34b3-88ca-4265-87bd-ee3a9d5f8a6c ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:40869af7-6a0d-4895-b02f-d79977506408 ;
+    skos:prefLabel "Buchdruck"@de .
+
+arbeitslehre:2bbbc1c5-378e-47e3-9fcb-77e82f092bf8 a skos:Concept ;
+    skos:broader arbeitslehre:bf207fd9-9ab8-4b2e-b146-d2f610130105 ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:f3493de5-7a02-48dc-acc0-ae595e15307f ;
+    skos:prefLabel "Holzverarbeitung"@de .
+
+arbeitslehre:2c989c50-ab15-4c33-87e0-f390990997ce a skos:Concept ;
+    skos:broader arbeitslehre:64ac7f38-6c38-48cb-95f4-418fd8b6fcab ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:eb1f3e4a-d3ff-40a5-b26b-682ab808abce ;
+    skos:prefLabel "Maschinenbau"@de .
+
+arbeitslehre:388ed14f-6aa7-4e33-8bd3-088a54008190 a skos:Concept ;
+    skos:broader arbeitslehre:b7be34b3-88ca-4265-87bd-ee3a9d5f8a6c ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:af18c7f6-830e-47ba-af04-97c575a74294 ;
     skos:prefLabel "Werbeagentur"@de .
 
-<werkzeugmaschine_id> a skos:Concept ;
-    skos:broader <maschine_id> ;
-    skos:inScheme <> ;
-    skos:narrower <vorschub_werkzeugmaschine_id> ;
+arbeitslehre:3d7a8263-848f-474f-a5aa-769349ac7bff a skos:Concept ;
+    skos:broader arbeitslehre:eeae6180-b8eb-4358-ac2a-9bef31573cee ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:eeb32a0e-f52f-4578-961a-da488f0160fb ;
+    skos:prefLabel "Konstruktion"@de .
+
+arbeitslehre:3f582d5f-d853-4832-9dae-c5224f5c8edb a skos:Concept ;
+    skos:broader arbeitslehre:5a88c343-6457-4171-9906-b5a35ad9c77d ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:d7f5472d-e894-4b26-b9a8-4fe860144bf0 ;
+    skos:prefLabel "Glas"@de .
+
+arbeitslehre:4674530c-f7f6-487f-bcb6-8fcfc0f3d740 a skos:Concept ;
+    skos:broader arbeitslehre:6ac3e84b-765e-4c1b-8361-5f65273cf391 ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:ede8b80c-60a1-4233-9315-44dd79dac011 ;
+    skos:prefLabel "Tiefbautechnik"@de .
+
+arbeitslehre:4facf83a-2a4f-4795-bb70-d67a1211c6fc a skos:Concept ;
+    skos:broader arbeitslehre:d742d94f-310d-4105-8d82-a1c2dbc6a557 ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:8176227c-fd7c-4053-8b0e-4116f8aa2b24 ;
+    skos:prefLabel "Schlachthof"@de .
+
+arbeitslehre:5a78a272-cf4e-43e7-a8f9-7dd4c91922c2 a skos:Concept ;
+    skos:broader arbeitslehre:9b45c4f0-b6b1-4fa4-b49b-01b3fef94106 ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:b2aa56f9-60bd-4558-98b7-70d15ab4953d ;
+    skos:prefLabel "Sicherheitstechnik"@de .
+
+arbeitslehre:5a88c343-6457-4171-9906-b5a35ad9c77d a skos:Concept ;
+    skos:broader arbeitslehre:59318e3f-9ad2-43ae-bebe-b398fa0f4850 ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:3f582d5f-d853-4832-9dae-c5224f5c8edb ;
+    skos:prefLabel "Glasherstellung"@de .
+
+arbeitslehre:67467e37-f654-4f16-a197-33df9cafee3f a skos:Concept ;
+    skos:broader arbeitslehre:fd082350-dfc2-431f-8130-1728031bcdde ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:2e8141b9-c01b-4296-9790-e4d9db86cbc6 ;
+    skos:prefLabel "Walzen"@de .
+
+arbeitslehre:6ea04360-3bfc-459a-96bd-0b9b71a40023 a skos:Concept ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:848b47f0-c3aa-40c5-a4c2-25152ffe1c21 ;
+    skos:prefLabel "Marine"@de ;
+    skos:topConceptOf arbeitslehre: .
+
+arbeitslehre:7f8831c2-5a2c-4242-9a19-a3c690cef58f a skos:Concept ;
+    skos:broader arbeitslehre:65ddc310-e572-4217-abb5-e841d827c71b ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:08592a49-64e7-46d4-a09e-5d4878b48eb0 ;
+    skos:prefLabel "Gießerei"@de .
+
+arbeitslehre:8e564c15-8a2a-4e11-be5e-3f0b1054eefc a skos:Concept ;
+    skos:broader arbeitslehre:12c862ee-1a7d-4162-9dbd-99d421967734 ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:b51102de-1010-4b4b-8fbd-3dbcab346ca0 ;
+    skos:prefLabel "Stahlbeton"@de .
+
+arbeitslehre:93888bbb-656e-456c-b8e2-e019ae0b777b a skos:Concept ;
+    skos:broader arbeitslehre:e6987f70-8e4f-4ff3-9c62-024614ebc2ad ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:acae9b14-ad29-4cbd-8a6c-c49349ad865d ;
+    skos:prefLabel "Technologie"@de .
+
+arbeitslehre:9745930e-87dd-4b14-b66c-f0c28b73ef5b a skos:Concept ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:48b92616-e237-4956-beed-15ef6468c1a0 ;
+    skos:prefLabel "Verfahrenstechnik"@de ;
+    skos:topConceptOf arbeitslehre: .
+
+arbeitslehre:a0333134-120e-425c-89a2-ccc36d1666aa a skos:Concept ;
+    skos:broader arbeitslehre:64ac7f38-6c38-48cb-95f4-418fd8b6fcab ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:03d7bae0-dc7e-44fe-89f2-186fc819e535 ;
+    skos:prefLabel "Waffenproduktion"@de .
+
+arbeitslehre:a1103209-98fc-45ff-9e7d-fdebab06e395 a skos:Concept ;
+    skos:broader arbeitslehre:d742d94f-310d-4105-8d82-a1c2dbc6a557 ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:ea81d9bb-e427-46cc-984c-c7fedb00b0c8 ;
+    skos:prefLabel "Gartenbau"@de .
+
+arbeitslehre:a3ed90eb-2145-4c1c-9ae4-c7b260d9239f a skos:Concept ;
+    skos:broader arbeitslehre:40a17ae5-3464-487a-9f29-3cae1a3bac73 ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:33bcd2aa-9b01-4982-ac4f-0e2f2e5c3da1 ;
+    skos:prefLabel "Regelungstechnik"@de .
+
+arbeitslehre:aa92b8fe-5703-49b3-a7c9-5bff0517754a a skos:Concept ;
+    skos:broader arbeitslehre:eb1f3e4a-d3ff-40a5-b26b-682ab808abce ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:45cfb375-c85b-437d-8d97-a09ebb4fc329 ;
     skos:prefLabel "Werkzeugmaschine"@de .
 
-<beton_id> a skos:Concept ;
-    skos:broader <baustoff_id> ;
-    skos:inScheme <> ;
-    skos:narrower <leichtbeton_id>,
-        <stahlbeton_id> ;
-    skos:prefLabel "Beton"@de .
+arbeitslehre:bf207fd9-9ab8-4b2e-b146-d2f610130105 a skos:Concept ;
+    skos:broader arbeitslehre:a45c647f-d095-45ec-8a07-78692a29b4ef ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:2bbbc1c5-378e-47e3-9fcb-77e82f092bf8 ;
+    skos:prefLabel "Holzwirtschaft"@de .
 
-<chemische_industrie_id> a skos:Concept ;
-    skos:broader <grundstoffindustrie_id> ;
-    skos:inScheme <> ;
-    skos:narrower <klebstoff_id>,
-        <lack_id> ;
-    skos:prefLabel "Chemische Industrie"@de .
+arbeitslehre:cf33be2c-5086-4587-84a6-3f570a7ea796 a skos:Concept ;
+    skos:broader arbeitslehre:a45c647f-d095-45ec-8a07-78692a29b4ef ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:4607acff-b249-4c72-a226-e47af4e7365a ;
+    skos:prefLabel "Papierherstellung"@de .
 
-<kraftfahrzeugindustrie_id> a skos:Concept ;
-    skos:broader <investitionsgüterindustrie_id> ;
-    skos:inScheme <> ;
-    skos:narrower <kraftfahrzeugbau_id>,
-        <kraftfahrzeugtechnik_id> ;
-    skos:prefLabel "Kraftfahrzeugindustrie"@de .
+arbeitslehre:d3dfc104-b9e7-4b14-8d5b-f928bfa3307a a skos:Concept ;
+    skos:broader arbeitslehre:48b92616-e237-4956-beed-15ef6468c1a0 ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:bc094db6-a333-4aba-b898-21f9a45ee6f3 ;
+    skos:prefLabel "Verbindungstechnik"@de .
 
-<landmaschine_id> a skos:Concept ;
-    skos:broader <nahrungsmittelindustrie_id> ;
-    skos:inScheme <> ;
-    skos:narrower <dreschen_id>,
-        <pflug_ackergerät_id> ;
+arbeitslehre:d8e6c9f4-67e4-459e-97ff-2602e8b5c2d3 a skos:Concept ;
+    skos:broader arbeitslehre:98fba572-8112-44c0-938d-9e3837cbc2e9 ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:16ff129b-f765-4d92-9a51-be12652e6e38 ;
+    skos:prefLabel "Hüttenwerk"@de .
+
+arbeitslehre:f0b9bd0f-ff04-4ead-a81a-1b43dec5c22a a skos:Concept ;
+    skos:broader arbeitslehre:59318e3f-9ad2-43ae-bebe-b398fa0f4850 ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:d42ab766-1366-4d13-a3ea-555fe4579cbc ;
+    skos:prefLabel "Gerberei"@de .
+
+arbeitslehre:f1eb55b2-23a6-4ad5-bbe6-09a8585db404 a skos:Concept ;
+    skos:broader arbeitslehre:75abf8c0-a04a-4ed8-99bd-5f0a6758f7db ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:d53a7083-368e-4e16-ae5f-eec96196f983 ;
+    skos:prefLabel "Porzellan"@de .
+
+arbeitslehre:001a46e5-1d88-4f73-9913-9da5c9bba3c4 a skos:Concept ;
+    skos:broader arbeitslehre:d742d94f-310d-4105-8d82-a1c2dbc6a557 ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:acd32540-2679-433c-9883-abe89acd101e,
+        arbeitslehre:ce919518-cec9-4d1e-8220-a4e75f315fa4 ;
     skos:prefLabel "Landmaschine"@de .
 
-<manufaktur_id> a skos:Concept ;
-    skos:broader <konsumgüterindustrie_id> ;
-    skos:inScheme <> ;
-    skos:narrower <brennofen_id>,
-        <porzellan_id> ;
-    skos:prefLabel "Manufaktur"@de .
+arbeitslehre:12c862ee-1a7d-4162-9dbd-99d421967734 a skos:Concept ;
+    skos:broader arbeitslehre:c907417e-e1a8-4dbc-8312-3ead8bbc50ee ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:8e564c15-8a2a-4e11-be5e-3f0b1054eefc,
+        arbeitslehre:e4321076-9ba6-40f6-a89d-ad88b047b36d ;
+    skos:prefLabel "Beton"@de .
 
-<mode_id> a skos:Concept ;
-    skos:broader <konsumgüterindustrie_id> ;
-    skos:inScheme <> ;
-    skos:narrower <kopfbedeckung_id>,
-        <schuh_id> ;
+arbeitslehre:20412c94-70e2-44ba-b3bd-194da8e7ec01 a skos:Concept ;
+    skos:broader arbeitslehre:64ac7f38-6c38-48cb-95f4-418fd8b6fcab ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:081fad4a-e3b8-4b4f-b6a2-41ab8fef3d80,
+        arbeitslehre:97a0477f-cdfd-46c7-b5c6-12be90c9aa08 ;
+    skos:prefLabel "Kraftfahrzeugindustrie"@de .
+
+arbeitslehre:40a17ae5-3464-487a-9f29-3cae1a3bac73 a skos:Concept ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:9be7dd19-7daa-4409-b5d5-914a54526d3e,
+        arbeitslehre:a3ed90eb-2145-4c1c-9ae4-c7b260d9239f ;
+    skos:prefLabel "Steuerung (Steuerungstechnik)"@de ;
+    skos:topConceptOf arbeitslehre: .
+
+arbeitslehre:603479db-9e3b-4bfc-a8ce-dffb8810737c a skos:Concept ;
+    skos:broader arbeitslehre:59318e3f-9ad2-43ae-bebe-b398fa0f4850 ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:32341c6e-b441-40b7-a601-a994bcda3521,
+        arbeitslehre:e21e002d-1826-4652-a920-a42c1540ba9e ;
     skos:prefLabel "Mode"@de .
 
-<schiffbau_id> a skos:Concept ;
-    skos:broader <investitionsgüterindustrie_id> ;
-    skos:inScheme <> ;
-    skos:narrower <werft_id>,
-        <wrack_id> ;
-    skos:prefLabel "Schiffbau"@de .
+arbeitslehre:75abf8c0-a04a-4ed8-99bd-5f0a6758f7db a skos:Concept ;
+    skos:broader arbeitslehre:59318e3f-9ad2-43ae-bebe-b398fa0f4850 ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:d5ecb4ce-4b71-45f5-a81c-b4d8ed9ad58c,
+        arbeitslehre:f1eb55b2-23a6-4ad5-bbe6-09a8585db404 ;
+    skos:prefLabel "Manufaktur"@de .
 
-<schleifen_id> a skos:Concept ;
-    skos:broader <spanen_id> ;
-    skos:inScheme <> ;
-    skos:narrower <honen_id>,
-        <läppen_id> ;
+arbeitslehre:b605ae48-3a8e-47f5-a504-4f3e3b5dc87b a skos:Concept ;
+    skos:broader arbeitslehre:31bd0765-7a29-45f4-8ab3-f6e043a9c017 ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:5020b88d-dc9c-47dd-82de-44b7db742773,
+        arbeitslehre:c49e18f2-514b-499a-a52e-a5870814a26b ;
     skos:prefLabel "Schleifen"@de .
 
-<steuerung_steuerungstechnik_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <regelungstechnik_id>,
-        <toleranzsystem_id> ;
-    skos:prefLabel "Steuerung (Steuerungstechnik)"@de ;
-    skos:topConceptOf <> .
-
-<technik_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <technikgeschichte_id>,
-        <technologie_id> ;
-    skos:prefLabel "Technik"@de ;
-    skos:topConceptOf <> .
-
-<werkstoff_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <werkstoffkunde_id>,
-        <werkstoffprüfung_id> ;
+arbeitslehre:d166e0d5-8f7e-480c-b724-fbda908ac6ac a skos:Concept ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:c2fb24f0-b0cd-4c56-87c9-38a1042174e5,
+        arbeitslehre:ea86dead-ee85-441d-ae65-962f7965201a ;
     skos:prefLabel "Werkstoff"@de ;
-    skos:topConceptOf <> .
+    skos:topConceptOf arbeitslehre: .
 
-<gebrauchsgegenstand_id> a skos:Concept ;
-    skos:broader <konsumgüterindustrie_id> ;
-    skos:inScheme <> ;
-    skos:narrower <messer_id>,
-        <schreibmaschine_id>,
-        <uhr_id> ;
-    skos:prefLabel "Gebrauchsgegenstand"@de .
+arbeitslehre:d9c00fb4-cbdf-4d52-aa7e-ea9f988e965f a skos:Concept ;
+    skos:broader arbeitslehre:a45c647f-d095-45ec-8a07-78692a29b4ef ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:a918bbaa-6626-426b-9fde-3d11e3fead8b,
+        arbeitslehre:d6676183-1a14-455a-ba48-e58fb31533ec ;
+    skos:prefLabel "Chemische Industrie"@de .
 
-<holz_id> a skos:Concept ;
-    skos:broader <holzverarbeitung_id> ;
-    skos:inScheme <> ;
-    skos:narrower <furnier_id>,
-        <korpusverbindung_id>,
-        <spanplatte_id> ;
-    skos:prefLabel "Holz"@de .
+arbeitslehre:e6987f70-8e4f-4ff3-9c62-024614ebc2ad a skos:Concept ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:93888bbb-656e-456c-b8e2-e019ae0b777b,
+        arbeitslehre:f18c1762-a341-48f4-960d-0192c6d563af ;
+    skos:prefLabel "Technik"@de ;
+    skos:topConceptOf arbeitslehre: .
 
-<metallurgie_id> a skos:Concept ;
-    skos:broader <schwerindustrie_id> ;
-    skos:inScheme <> ;
-    skos:narrower <draht_id>,
-        <hüttenwerk_id>,
-        <sintern_id> ;
-    skos:prefLabel "Metallurgie"@de .
+arbeitslehre:ede1282c-f578-4348-9997-10a44ea4448b a skos:Concept ;
+    skos:broader arbeitslehre:64ac7f38-6c38-48cb-95f4-418fd8b6fcab ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:6dbb5a10-05d0-4083-8af5-5a822541f1c3,
+        arbeitslehre:ea6f9a96-abdd-47f9-94dd-d6455bfe37fe ;
+    skos:prefLabel "Schiffbau"@de .
 
-<spinnerei_id> a skos:Concept ;
-    skos:broader <konsumgüterindustrie_id> ;
-    skos:inScheme <> ;
-    skos:narrower <faser_id>,
-        <seil_element_zur_übertragung_von_zugkräften_id>,
-        <wolle_id> ;
-    skos:prefLabel "Spinnerei"@de .
-
-<tierhaltung_id> a skos:Concept ;
-    skos:broader <nahrungsmittelindustrie_id> ;
-    skos:inScheme <> ;
-    skos:narrower <hühnerhaltung_id>,
-        <massentierhaltung_id>,
-        <rinderhaltung_id> ;
-    skos:prefLabel "Tierhaltung"@de .
-
-<verbrennungsmotor_id> a skos:Concept ;
-    skos:broader <kraftfahrzeugtechnik_id> ;
-    skos:inScheme <> ;
-    skos:narrower <vergaser_id>,
-        <wankelmotor_id>,
-        <zündung_verbrennungsmotor_id> ;
+arbeitslehre:25645fe5-e7e8-4a1a-b064-9d17faaf3c12 a skos:Concept ;
+    skos:broader arbeitslehre:081fad4a-e3b8-4b4f-b6a2-41ab8fef3d80 ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:13adc6d5-4ef2-4813-bee5-291e8bab4d7f,
+        arbeitslehre:503ce5bb-5883-4b2f-9f4a-d8f47c6ef511,
+        arbeitslehre:90f453c1-1e98-4bd9-a1bb-2b045ce25cfa ;
     skos:prefLabel "Verbrennungsmotor"@de .
 
-<werkstoffprüfung_id> a skos:Concept ;
-    skos:broader <werkstoff_id> ;
-    skos:inScheme <> ;
-    skos:narrower <biegefestigkeit_id>,
-        <härten_metall_id>,
-        <schneidengeometrie_id> ;
+arbeitslehre:642a21fc-bdd6-4f83-84c1-2b29056460eb a skos:Concept ;
+    skos:broader arbeitslehre:59318e3f-9ad2-43ae-bebe-b398fa0f4850 ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:596a8a74-dd87-4267-b9d0-08bd931a28cc,
+        arbeitslehre:bb1b0648-042c-4881-a703-4b6d3c83f5fe,
+        arbeitslehre:faa1d96c-8d65-4a5c-9c35-c5bc47b1ebde ;
+    skos:prefLabel "Gebrauchsgegenstand"@de .
+
+arbeitslehre:98fba572-8112-44c0-938d-9e3837cbc2e9 a skos:Concept ;
+    skos:broader arbeitslehre:65ddc310-e572-4217-abb5-e841d827c71b ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:20b48b93-c0df-477a-ba7f-b004a523326c,
+        arbeitslehre:d7d48564-a5c0-4a72-a8b8-41e8f754baaf,
+        arbeitslehre:d8e6c9f4-67e4-459e-97ff-2602e8b5c2d3 ;
+    skos:prefLabel "Metallurgie"@de .
+
+arbeitslehre:a5d8490b-4133-4dfb-a976-ec997fe81d73 a skos:Concept ;
+    skos:broader arbeitslehre:d742d94f-310d-4105-8d82-a1c2dbc6a557 ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:013cbb7b-bb6d-418c-ac0a-29129af2348e,
+        arbeitslehre:292f9648-dae6-44c1-8d05-480c2dfe66f6,
+        arbeitslehre:dd9cd540-d2dc-44d8-844a-a8a0e0d011d5 ;
+    skos:prefLabel "Tierhaltung"@de .
+
+arbeitslehre:ea86dead-ee85-441d-ae65-962f7965201a a skos:Concept ;
+    skos:broader arbeitslehre:d166e0d5-8f7e-480c-b724-fbda908ac6ac ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:2ac8b80d-b156-4144-9f41-5eec67b242bb,
+        arbeitslehre:4876480f-907e-4ba8-8332-84461b8458f3,
+        arbeitslehre:d305dc39-4689-4a4a-9868-da02e4db6832 ;
     skos:prefLabel "Werkstoffprüfung"@de .
 
-<grundstoffindustrie_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <chemische_industrie_id>,
-        <holzwirtschaft_id>,
-        <papierherstellung_id>,
-        <schwerindustrie_id> ;
-    skos:prefLabel "Grundstoffindustrie"@de ;
-    skos:topConceptOf <> .
+arbeitslehre:f2f7dd31-6cfb-4b7f-afb4-9db82a140227 a skos:Concept ;
+    skos:broader arbeitslehre:59318e3f-9ad2-43ae-bebe-b398fa0f4850 ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:35b115cb-1b37-4f10-84b0-7027126b4d4a,
+        arbeitslehre:96ba216c-4675-496f-a3f1-07ee418f1335,
+        arbeitslehre:99f5ff4d-3d76-4827-bfc4-2c6faabbecea ;
+    skos:prefLabel "Spinnerei"@de .
 
-<maschine_id> a skos:Concept ;
-    skos:broader <maschinenbau_id> ;
-    skos:inScheme <> ;
-    skos:narrower <kupplung_id>,
-        <lager_maschinenteil_id>,
-        <turbine_id>,
-        <werkzeugmaschine_id> ;
-    skos:prefLabel "Maschine"@de .
+arbeitslehre:f3493de5-7a02-48dc-acc0-ae595e15307f a skos:Concept ;
+    skos:broader arbeitslehre:2bbbc1c5-378e-47e3-9fcb-77e82f092bf8 ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:50870ae8-3e1e-4110-9eb3-56b1c3cd1970,
+        arbeitslehre:5a5a03eb-4cd8-4313-a094-5673c9ece4aa,
+        arbeitslehre:9e7b15fc-7930-4287-87f9-290d7aa22fcb ;
+    skos:prefLabel "Holz"@de .
 
-<produktionsverfahren_id> a skos:Concept ;
-    skos:broader <verfahrenstechnik_id> ;
-    skos:inScheme <> ;
-    skos:narrower <automation_id>,
-        <fügen_fertigungstechnik_id>,
-        <massenproduktion_id>,
-        <verbindungstechnik_id> ;
+arbeitslehre:48b92616-e237-4956-beed-15ef6468c1a0 a skos:Concept ;
+    skos:broader arbeitslehre:9745930e-87dd-4b14-b66c-f0c28b73ef5b ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:53f7d087-0702-40d1-a859-8dd70b7c4f29,
+        arbeitslehre:7c68a496-6653-46cb-b9ff-02511c52e560,
+        arbeitslehre:d3dfc104-b9e7-4b14-8d5b-f928bfa3307a,
+        arbeitslehre:dae32721-be04-4394-bb19-0eeb856883f3 ;
     skos:prefLabel "Produktionsverfahren"@de .
 
-<weberei_id> a skos:Concept ;
-    skos:broader <konsumgüterindustrie_id> ;
-    skos:inScheme <> ;
-    skos:narrower <seide_id>,
-        <teppich_id>,
-        <textilie_id>,
-        <webstuhl_id> ;
+arbeitslehre:a45c647f-d095-45ec-8a07-78692a29b4ef a skos:Concept ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:65ddc310-e572-4217-abb5-e841d827c71b,
+        arbeitslehre:bf207fd9-9ab8-4b2e-b146-d2f610130105,
+        arbeitslehre:cf33be2c-5086-4587-84a6-3f570a7ea796,
+        arbeitslehre:d9c00fb4-cbdf-4d52-aa7e-ea9f988e965f ;
+    skos:prefLabel "Grundstoffindustrie"@de ;
+    skos:topConceptOf arbeitslehre: .
+
+arbeitslehre:e1c5890f-bc0f-44d7-9a5d-f3539e7c41a6 a skos:Concept ;
+    skos:broader arbeitslehre:59318e3f-9ad2-43ae-bebe-b398fa0f4850 ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:2832943a-e1df-4c2f-bf97-b80b08e18071,
+        arbeitslehre:6573a566-d0c1-4ab5-8460-a5071a4bfb69,
+        arbeitslehre:8617d813-3e08-4616-8162-9bff9fa79aaf,
+        arbeitslehre:d2568d0b-d400-47df-a673-7c73fe401c3c ;
     skos:prefLabel "Weberei"@de .
 
-<bauindustrie_id> a skos:Concept ;
-    skos:broader <investitionsgüterindustrie_id> ;
-    skos:inScheme <> ;
-    skos:narrower <bauchemie_id>,
-        <baumaschine_id>,
-        <baustoff_id>,
-        <bautechnik_id>,
-        <konstruktion_id> ;
-    skos:prefLabel "Bauindustrie"@de .
+arbeitslehre:eb1f3e4a-d3ff-40a5-b26b-682ab808abce a skos:Concept ;
+    skos:broader arbeitslehre:2c989c50-ab15-4c33-87e0-f390990997ce ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:aa92b8fe-5703-49b3-a7c9-5bff0517754a,
+        arbeitslehre:acddfe57-a5e6-4469-b285-20c968d9555f,
+        arbeitslehre:fd99fd95-0747-4f18-a4a9-62a549cf6f64,
+        arbeitslehre:fe0f2886-29d5-4708-ba6d-ac499c0b3585 ;
+    skos:prefLabel "Maschine"@de .
 
-<baustoff_id> a skos:Concept ;
-    skos:broader <bauindustrie_id> ;
-    skos:inScheme <> ;
-    skos:narrower <beton_id>,
-        <lehmbau_id>,
-        <wandputz_id>,
-        <zement_id>,
-        <ziegel_id> ;
-    skos:prefLabel "Baustoff"@de .
-
-<hausbau_id> a skos:Concept ;
-    skos:broader <bautechnik_id> ;
-    skos:inScheme <> ;
-    skos:narrower <dach_id>,
-        <fassade_id>,
-        <fenster_id>,
-        <tür_id>,
-        <wandaufbau_id> ;
-    skos:prefLabel "Hausbau"@de .
-
-<schwerindustrie_id> a skos:Concept ;
-    skos:broader <grundstoffindustrie_id> ;
-    skos:inScheme <> ;
-    skos:narrower <bergbau_id>,
-        <blechbearbeitung_id>,
-        <gießerei_id>,
-        <köhlerei_id>,
-        <metallurgie_id> ;
-    skos:prefLabel "Schwerindustrie"@de .
-
-<spanen_id> a skos:Concept ;
-    skos:broader <werkzeug_id> ;
-    skos:inScheme <> ;
-    skos:narrower <drehmaschine_id>,
-        <fräsen_id>,
-        <hobeln_id>,
-        <schleifen_id>,
-        <zerspanung_id> ;
+arbeitslehre:31bd0765-7a29-45f4-8ab3-f6e043a9c017 a skos:Concept ;
+    skos:broader arbeitslehre:fd082350-dfc2-431f-8130-1728031bcdde ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:00a4bf01-d254-4597-98e2-dc8a2343fa9c,
+        arbeitslehre:7ca50dd4-ea46-458c-a5c8-b51b266b06fd,
+        arbeitslehre:8e5d1c8d-36cf-434c-a2ab-7612abefa9f5,
+        arbeitslehre:b605ae48-3a8e-47f5-a504-4f3e3b5dc87b,
+        arbeitslehre:bb246a08-8f9e-4441-8878-a14c7af452d7 ;
     skos:prefLabel "Spanen"@de .
 
-<handwerk_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <blumenbinderei_id>,
-        <fliesen_plattenlegen_id>,
-        <flößerei_id>,
-        <handwerk_geschichte_id>,
-        <kürschnerei_id>,
-        <schmiede_id>,
-        <wagnerei_id>,
-        <zunft_id> ;
-    skos:prefLabel "Handwerk"@de ;
-    skos:topConceptOf <> .
+arbeitslehre:57daba1f-f1e2-4125-ab9b-9e4ea76a12c9 a skos:Concept ;
+    skos:broader arbeitslehre:6ac3e84b-765e-4c1b-8361-5f65273cf391 ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:0612456c-0e89-421b-9556-3c50bfde9eae,
+        arbeitslehre:26240c63-36fc-4c24-9a0a-45f01d439114,
+        arbeitslehre:88f8cb5b-6f2c-48c2-b9b9-aa008ac0b33a,
+        arbeitslehre:c252383d-4da0-4fc2-ae24-4c5657a7c5c6,
+        arbeitslehre:cf66dee7-54da-4d39-97a9-b72c9f53c086 ;
+    skos:prefLabel "Hausbau"@de .
 
-<druck_papier_id> a skos:Concept ;
-    skos:broader <konsumgüterindustrie_id> ;
-    skos:inScheme <> ;
-    skos:narrower <buchdruck_id>,
-        <journalismus_id>,
-        <layout_id>,
-        <offsetdruck_id>,
-        <plantin__christophe_id>,
-        <reprographie_id>,
-        <siebdruck_id>,
-        <umbruch_text_id>,
-        <verlag_id>,
-        <werbeagentur_id> ;
+arbeitslehre:65ddc310-e572-4217-abb5-e841d827c71b a skos:Concept ;
+    skos:broader arbeitslehre:a45c647f-d095-45ec-8a07-78692a29b4ef ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:2980d08b-d04a-4e6a-9fec-fb132cdd4836,
+        arbeitslehre:6d77e832-857f-4d88-a730-7c060fcf2988,
+        arbeitslehre:7f8831c2-5a2c-4242-9a19-a3c690cef58f,
+        arbeitslehre:98fba572-8112-44c0-938d-9e3837cbc2e9,
+        arbeitslehre:bb4c1b13-bea2-4423-93ce-07ba45276150 ;
+    skos:prefLabel "Schwerindustrie"@de .
+
+arbeitslehre:c907417e-e1a8-4dbc-8312-3ead8bbc50ee a skos:Concept ;
+    skos:broader arbeitslehre:eeae6180-b8eb-4358-ac2a-9bef31573cee ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:12c862ee-1a7d-4162-9dbd-99d421967734,
+        arbeitslehre:4bb2c9af-6ff1-4243-8554-490e1d90c7d5,
+        arbeitslehre:5896a647-e29f-4588-90bc-4830a9d10599,
+        arbeitslehre:7c95a7e5-287b-4cb2-8293-3f311ddf3748,
+        arbeitslehre:85e5daa2-3866-4465-a5e7-839db4cb6bc5 ;
+    skos:prefLabel "Baustoff"@de .
+
+arbeitslehre:eeae6180-b8eb-4358-ac2a-9bef31573cee a skos:Concept ;
+    skos:broader arbeitslehre:64ac7f38-6c38-48cb-95f4-418fd8b6fcab ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:3d7a8263-848f-474f-a5aa-769349ac7bff,
+        arbeitslehre:3f54c530-9ad6-48cd-8818-86c8c093fcea,
+        arbeitslehre:6ac3e84b-765e-4c1b-8361-5f65273cf391,
+        arbeitslehre:c907417e-e1a8-4dbc-8312-3ead8bbc50ee,
+        arbeitslehre:e042186f-dd41-44f6-bcd3-ac7666f76be3 ;
+    skos:prefLabel "Bauindustrie"@de .
+
+arbeitslehre:f7485b6e-63c7-4f66-960b-eb886a7bfa6f a skos:Concept ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:2d3f52d0-fa58-479f-9125-eb6b3346a097,
+        arbeitslehre:2f14ca5e-9ae4-44fc-9d9c-96a40bb04672,
+        arbeitslehre:3413e466-c00c-40eb-b31c-2902e681b990,
+        arbeitslehre:461608ad-3919-4032-86e6-bc1bfdec079a,
+        arbeitslehre:8782c953-5732-4706-aa77-23c2a0826434,
+        arbeitslehre:96804db3-8227-46e4-958e-4d87db7c4b24,
+        arbeitslehre:b866210d-46ed-40f1-a2cd-15a78edcda93,
+        arbeitslehre:d3e3eee6-454f-4d9d-8f92-340f451892c4 ;
+    skos:prefLabel "Handwerk"@de ;
+    skos:topConceptOf arbeitslehre: .
+
+arbeitslehre:b7be34b3-88ca-4265-87bd-ee3a9d5f8a6c a skos:Concept ;
+    skos:broader arbeitslehre:59318e3f-9ad2-43ae-bebe-b398fa0f4850 ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:06586ec5-e1ce-4ce0-b1a7-a9278dae639b,
+        arbeitslehre:14b871e5-fcc4-432c-9180-de3ac3b8ab61,
+        arbeitslehre:29c42b0f-3686-4e32-a8dd-3f160d8a1ad2,
+        arbeitslehre:388ed14f-6aa7-4e33-8bd3-088a54008190,
+        arbeitslehre:395cc850-3325-4abf-aee0-54f4a2be471b,
+        arbeitslehre:5054d46a-e6dc-4513-96d3-6fbf63b1f443,
+        arbeitslehre:c6a858a1-6e3b-48d5-a389-2d189f50b869,
+        arbeitslehre:cb213d1b-e481-4bde-90fe-1434dc74e0ee,
+        arbeitslehre:d34014b8-e145-4ba2-ba4d-fc98332a723f,
+        arbeitslehre:ed43dfc4-9645-40b2-abfe-66310f9201f5 ;
     skos:prefLabel "Druck (Papier)"@de .
 
-<bautechnik_id> a skos:Concept ;
-    skos:broader <bauindustrie_id> ;
-    skos:inScheme <> ;
-    skos:narrower <bautenschutz_id>,
-        <fachwerk_id>,
-        <hausbau_id>,
-        <hochhaus_id>,
-        <klimatechnik_id>,
-        <kran_id>,
-        <renovierung_id>,
-        <restaurierung_id>,
-        <tiefbautechnik_id>,
-        <wärmedämmung_id>,
-        <ökologischer_hausbau__id> ;
+arbeitslehre:6ac3e84b-765e-4c1b-8361-5f65273cf391 a skos:Concept ;
+    skos:broader arbeitslehre:eeae6180-b8eb-4358-ac2a-9bef31573cee ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:1370052a-5cf7-4543-bb07-4966072f28ec,
+        arbeitslehre:4674530c-f7f6-487f-bcb6-8fcfc0f3d740,
+        arbeitslehre:49c73055-ebcd-448f-ac90-2698c020496e,
+        arbeitslehre:4bacb51f-53ee-49da-b06a-7a47275b146b,
+        arbeitslehre:4c85cd03-020e-4bf9-bfdb-39bec516e71c,
+        arbeitslehre:57daba1f-f1e2-4125-ab9b-9e4ea76a12c9,
+        arbeitslehre:78e4b1bf-9411-4ff7-9ff7-d57b4bb77cd6,
+        arbeitslehre:a821d54b-6575-4a3d-a0cf-dcd4586c0b04,
+        arbeitslehre:d8ee5a32-7497-48f7-9f0e-60043fd53a1f,
+        arbeitslehre:df2d1e0f-2cce-449a-8f83-80635b16d3c5,
+        arbeitslehre:ef7ca6df-2bc9-4ca5-992a-0eb2dbfa0a72 ;
     skos:prefLabel "Bautechnik"@de .
 
-<werkzeug_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <bohren_id>,
-        <löten_id>,
-        <pressen_druckausübung_id>,
-        <reiben_id>,
-        <schweißen_id>,
-        <spanen_id>,
-        <spannen_id>,
-        <stanzen_id>,
-        <sägen_id>,
-        <walzen_id>,
-        <ziehen_id> ;
+arbeitslehre:fd082350-dfc2-431f-8130-1728031bcdde a skos:Concept ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:22e72657-65ff-4fc6-b248-0c3f3c5c0b04,
+        arbeitslehre:30ccff84-7018-4662-b02f-51b661df7062,
+        arbeitslehre:31bd0765-7a29-45f4-8ab3-f6e043a9c017,
+        arbeitslehre:4bc734ff-4f25-479b-8669-331fd81c0a03,
+        arbeitslehre:51057b15-1dd0-401d-98d5-7f15176650bb,
+        arbeitslehre:67467e37-f654-4f16-a197-33df9cafee3f,
+        arbeitslehre:8157b8d4-91d2-4e5d-9d34-6673524f6d7c,
+        arbeitslehre:89825174-455b-4a38-a96a-8c8186c297ac,
+        arbeitslehre:9fb71427-deb5-4da6-9a29-de4efce1e4f8,
+        arbeitslehre:ca61a613-85f7-4d9c-8d89-2c300a90d7ff,
+        arbeitslehre:e261c858-2a6d-4fc6-bbdc-352b713a352e ;
     skos:prefLabel "Werkzeug"@de ;
-    skos:topConceptOf <> .
+    skos:topConceptOf arbeitslehre: .
 
-<konsumgüterindustrie_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <druck_papier_id>,
-        <gebrauchsgegenstand_id>,
-        <gerberei_id>,
-        <glasherstellung_id>,
-        <manufaktur_id>,
-        <mode_id>,
-        <modell_id>,
-        <schreibmaterial_id>,
-        <spinnerei_id>,
-        <stoffdruck_id>,
-        <tapete_id>,
-        <töpferei_id>,
-        <waschen_textilie_id>,
-        <weberei_id> ;
+arbeitslehre:59318e3f-9ad2-43ae-bebe-b398fa0f4850 a skos:Concept ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:07467698-0ed6-4911-a730-362d6a650495,
+        arbeitslehre:250376a8-660b-49c6-9897-5c2fa937f47c,
+        arbeitslehre:5a88c343-6457-4171-9906-b5a35ad9c77d,
+        arbeitslehre:603479db-9e3b-4bfc-a8ce-dffb8810737c,
+        arbeitslehre:642a21fc-bdd6-4f83-84c1-2b29056460eb,
+        arbeitslehre:75abf8c0-a04a-4ed8-99bd-5f0a6758f7db,
+        arbeitslehre:80008a4e-b77b-4e40-a22b-6dc14e981ba0,
+        arbeitslehre:9ffcaa1c-c117-4992-9c41-550fe25bd663,
+        arbeitslehre:b7be34b3-88ca-4265-87bd-ee3a9d5f8a6c,
+        arbeitslehre:e1c5890f-bc0f-44d7-9a5d-f3539e7c41a6,
+        arbeitslehre:e526c97c-6784-41cb-b275-1957f42d6226,
+        arbeitslehre:ef07c80f-f9cb-4c9e-86c8-9d1ec35da718,
+        arbeitslehre:f0b9bd0f-ff04-4ead-a81a-1b43dec5c22a,
+        arbeitslehre:f2f7dd31-6cfb-4b7f-afb4-9db82a140227 ;
     skos:prefLabel "Konsumgüterindustrie"@de ;
-    skos:topConceptOf <> .
+    skos:topConceptOf arbeitslehre: .
 
-<investitionsgüterindustrie_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <bauindustrie_id>,
-        <flaschenzug_id>,
-        <flugzeugbau_id>,
-        <gewinde_id>,
-        <kraftfahrzeugindustrie_id>,
-        <maschinenbau_id>,
-        <nagel_befestigungsmittel_id>,
-        <niet_id>,
-        <roboter_id>,
-        <schiffbau_id>,
-        <schraube_befestigungsmittel_id>,
-        <schrott_id>,
-        <siemens_ag_id>,
-        <ventil_id>,
-        <waffenproduktion_id> ;
+arbeitslehre:64ac7f38-6c38-48cb-95f4-418fd8b6fcab a skos:Concept ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:14809a40-887a-4335-bcf7-fdcd3c3413fc,
+        arbeitslehre:20412c94-70e2-44ba-b3bd-194da8e7ec01,
+        arbeitslehre:2c989c50-ab15-4c33-87e0-f390990997ce,
+        arbeitslehre:405b9c2e-f7d2-481d-a905-ba2257139094,
+        arbeitslehre:59135f09-508e-487e-a77b-48bf6e9dccb3,
+        arbeitslehre:5aa31671-5605-4ec1-beac-674ac32fe330,
+        arbeitslehre:5e404e49-2ebe-49ab-bcc1-6ffbb2beb9c0,
+        arbeitslehre:83681e55-010f-4814-8107-9c7176b521a4,
+        arbeitslehre:94e589e7-fd24-4726-8438-1ab18f44235e,
+        arbeitslehre:a0333134-120e-425c-89a2-ccc36d1666aa,
+        arbeitslehre:e78d881b-5b54-4c87-8886-d46eef858bfb,
+        arbeitslehre:ede1282c-f578-4348-9997-10a44ea4448b,
+        arbeitslehre:eeae6180-b8eb-4358-ac2a-9bef31573cee,
+        arbeitslehre:f225bde1-ec1b-4a10-83e4-2d9ab0f80899,
+        arbeitslehre:f66aa916-8327-479d-8e06-ccffb39544cd ;
     skos:prefLabel "Investitionsgüterindustrie"@de ;
-    skos:topConceptOf <> .
+    skos:topConceptOf arbeitslehre: .
 
-<nahrungsmittelindustrie_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <bäckerei_id>,
-        <dünger_id>,
-        <gartenbau_id>,
-        <gastronomie_id>,
-        <imkerei_id>,
-        <jagd_weidwerk_id>,
-        <landmaschine_id>,
-        <lebensmittelchemie_id>,
-        <lebensmittelqualität_id>,
-        <melken_id>,
-        <mühle_zerkleinerungsmaschine_id>,
-        <schlachthof_id>,
-        <sekt_id>,
-        <tierhaltung_id>,
-        <verpackung_id> ;
+arbeitslehre:d742d94f-310d-4105-8d82-a1c2dbc6a557 a skos:Concept ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:001a46e5-1d88-4f73-9913-9da5c9bba3c4,
+        arbeitslehre:143d280d-ec15-46d2-af3b-b29ca9267b95,
+        arbeitslehre:1b1f99a6-c66b-4ace-8b32-2df842514522,
+        arbeitslehre:26d5d5ad-f1bc-404e-8c7b-4fd106e490d7,
+        arbeitslehre:2907a242-cf12-4bc1-976d-83a45ee2c951,
+        arbeitslehre:4a72db49-59b8-48a2-add9-17cb593a4bef,
+        arbeitslehre:4facf83a-2a4f-4795-bb70-d67a1211c6fc,
+        arbeitslehre:63c72b0e-c8d0-4385-b37d-91122c67c8a4,
+        arbeitslehre:9fd47d52-1277-48ae-921d-ab24e22ec68c,
+        arbeitslehre:a1103209-98fc-45ff-9e7d-fdebab06e395,
+        arbeitslehre:a5d8490b-4133-4dfb-a976-ec997fe81d73,
+        arbeitslehre:a608c322-ea87-4553-84bb-2f9b79359806,
+        arbeitslehre:f0a32461-4d2c-45c9-a8fa-7cbaede38a17,
+        arbeitslehre:f1adfdf2-f718-458a-b86f-8968999c71e1,
+        arbeitslehre:fa3ba4fa-d44e-4da7-89e8-272460acdde7 ;
     skos:prefLabel "Nahrungsmittelindustrie"@de ;
-    skos:topConceptOf <> .
+    skos:topConceptOf arbeitslehre: .
 
-<arbeitswelt_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <_betriebsorganisation_id>,
-        <akkordarbeit_id>,
-        <arbeitsplatzsuche_id>,
-        <betriebserkundung_id>,
-        <betriebsrat_id>,
-        <betriebsverfassungsgesetz_id>,
-        <bewerbung_id>,
-        <computerarbeitsplatz_id>,
-        <fließarbeit_id>,
-        <frauenarbeit_id>,
-        <kündigung_id>,
-        <schichtarbeit_id>,
-        <schwarzarbeit_id>,
-        <sicherheitstechnik_id>,
-        <streik_id>,
-        <tarifvertrag_id>,
-        <teilzeitarbeit_id> ;
+arbeitslehre:9b45c4f0-b6b1-4fa4-b49b-01b3fef94106 a skos:Concept ;
+    skos:inScheme arbeitslehre: ;
+    skos:narrower arbeitslehre:161a79a7-985c-42dc-8067-d44cfc5756fe,
+        arbeitslehre:1ac41b1f-488a-4951-b5a5-fd5ca56c159c,
+        arbeitslehre:1d8e4040-8366-4675-af42-85be83ecaa55,
+        arbeitslehre:46aa5c93-3584-4918-887c-7756fe5a0275,
+        arbeitslehre:515668ed-28c8-4a3e-a195-5879069c4c09,
+        arbeitslehre:5a78a272-cf4e-43e7-a8f9-7dd4c91922c2,
+        arbeitslehre:681f0fe8-c383-42ef-b557-d87feee9095e,
+        arbeitslehre:814e13e3-720b-4c80-a911-57fb03334775,
+        arbeitslehre:8865fc7a-783f-4ecd-9c5f-519865afad98,
+        arbeitslehre:8f55943e-4fbd-48f9-9356-ffbee5c5a419,
+        arbeitslehre:a8d8b3d9-9a67-44ce-b9ed-322c3855bb25,
+        arbeitslehre:b345df15-7cc0-4e65-bb93-b0b296a0a906,
+        arbeitslehre:cdda5370-07a0-4c7a-bb71-c060036c4a5e,
+        arbeitslehre:d32fd2ac-3e3d-441f-959c-f151393b8cc4,
+        arbeitslehre:df95ac7b-e5d2-40df-ae9f-15debe15179c,
+        arbeitslehre:dfb3aaff-0073-4364-829a-b9cea897f27b,
+        arbeitslehre:e899061d-ff35-4b38-839c-407dc33b2637 ;
     skos:prefLabel "Arbeitswelt"@de ;
-    skos:topConceptOf <> .
+    skos:topConceptOf arbeitslehre: .
 
-<> a skos:ConceptScheme ;
+arbeitslehre: a skos:ConceptScheme ;
     dct:creator "<https://creator.com>" ;
-    dct:description "arbeitslehre_systematik"@de ;
-    dct:title "arbeitslehre_systematik"@de ;
-    skos:hasTopConcept <arbeitswelt_id>,
-        <fundbüro_id>,
-        <grundstoffindustrie_id>,
-        <handwerk_id>,
-        <investitionsgüterindustrie_id>,
-        <konsumgüterindustrie_id>,
-        <lärm_id>,
-        <marine_id>,
-        <nahrungsmittelindustrie_id>,
-        <naturwissenschaft_id>,
-        <qualität_produkt_id>,
-        <sozialarbeit_id>,
-        <steuerung_steuerungstechnik_id>,
-        <technik_id>,
-        <verfahrenstechnik_id>,
-        <wahrheit_id>,
-        <weltausstellung_id>,
-        <werkstoff_id>,
-        <werkstück_id>,
-        <werkzeug_id>,
-        <wetterdienst_id>,
-        <wissenschaft_id>,
-        <wissensmanagement_id> .
+    dct:description "arbeitslehre"@de ;
+    dct:title "arbeitslehre"@de ;
+    skos:hasTopConcept arbeitslehre:0795e4fd-0b73-448a-bcfc-c8a236a0d984,
+        arbeitslehre:3bdf030c-57e0-4e8b-8c2d-0a67ff73e0b8,
+        arbeitslehre:40a17ae5-3464-487a-9f29-3cae1a3bac73,
+        arbeitslehre:59318e3f-9ad2-43ae-bebe-b398fa0f4850,
+        arbeitslehre:64ac7f38-6c38-48cb-95f4-418fd8b6fcab,
+        arbeitslehre:6ea04360-3bfc-459a-96bd-0b9b71a40023,
+        arbeitslehre:7550227f-bbc8-44c4-9229-e7dbc49ada17,
+        arbeitslehre:86ed325d-d654-4042-a85c-a79dd24813c7,
+        arbeitslehre:89205f5e-3cc5-46f6-a2a4-f87fb1f315e8,
+        arbeitslehre:897a4ec7-b139-4ea1-a547-31aeed20852e,
+        arbeitslehre:9745930e-87dd-4b14-b66c-f0c28b73ef5b,
+        arbeitslehre:9a0693fd-a4f5-497c-874c-02c84bd716c2,
+        arbeitslehre:9b45c4f0-b6b1-4fa4-b49b-01b3fef94106,
+        arbeitslehre:a45c647f-d095-45ec-8a07-78692a29b4ef,
+        arbeitslehre:b047e294-4944-42bd-b1bf-e729a2209d35,
+        arbeitslehre:b5dc0ef2-d969-4a6c-a5fa-ffc3902deb67,
+        arbeitslehre:d166e0d5-8f7e-480c-b724-fbda908ac6ac,
+        arbeitslehre:d742d94f-310d-4105-8d82-a1c2dbc6a557,
+        arbeitslehre:e33a9ab6-6abd-48fb-86bf-68aadf4fdecf,
+        arbeitslehre:e6987f70-8e4f-4ff3-9c62-024614ebc2ad,
+        arbeitslehre:eb97999d-c189-4690-9662-82b53c78d0f8,
+        arbeitslehre:f7485b6e-63c7-4f66-960b-eb886a7bfa6f,
+        arbeitslehre:fd082350-dfc2-431f-8130-1728031bcdde .
 

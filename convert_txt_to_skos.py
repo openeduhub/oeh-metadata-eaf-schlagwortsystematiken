@@ -5,6 +5,7 @@ from rdflib import Graph, Literal, Namespace, RDF, URIRef
 from rdflib.namespace import SKOS, DCTERMS
 import re
 from argparse import ArgumentParser
+import uuid
 
 parser = ArgumentParser()
 parser.add_argument("-f", "--file", dest="filename", nargs='+',
@@ -73,7 +74,8 @@ for _file in files:
     for i, item in enumerate(txt_clean[1:]):
         d = {}
 
-        d['id'] = clean_id(item) + '_id'
+        d['id'] = str(uuid.uuid4())
+        # d['id'] = clean_id(item) + '_id'
         d['value'] = clean_value(item)
 
         level = item.count('\t')
@@ -105,10 +107,10 @@ for _file in files:
     except IndexError:
         pass
 
-    name_systematik = filename + '_systematik'
+    name_systematik = filename
     g = Graph()
     n = Namespace(
-        "https://example-perma-id/" + name_systematik + "/")
+        "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/" + name_systematik + "/")
 
     category = URIRef(n)
 
@@ -157,8 +159,9 @@ for _file in files:
     # Bind a few prefix, namespace pairs for more readable output
     g.bind("dct", DCTERMS)
     g.bind("skos", SKOS)
+    g.bind(name_systematik, category)
 
-    output = g.serialize(format='turtle', base=n).decode("utf-8")
+    output = g.serialize(format='turtle').decode("utf-8")
 
     with open('data/ttl/' + filename + '.ttl', 'w') as f:
         f.write(output)

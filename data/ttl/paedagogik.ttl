@@ -1,837 +1,837 @@
-@base <https://example-perma-id/paedagogik_systematik/> .
 @prefix dct: <http://purl.org/dc/terms/> .
+@prefix paedagogik: <http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/paedagogik/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<abstraktion_id> a skos:Concept ;
-    skos:broader <bildung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Abstraktion"@de .
-
-<analyse_unterrichtsmethode_id> a skos:Concept ;
-    skos:broader <unterricht_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Analyse (Unterrichtsmethode)"@de .
-
-<arbeitsblatt_id> a skos:Concept ;
-    skos:broader <bildung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Arbeitsblatt"@de .
-
-<aufmerksamkeit_id> a skos:Concept ;
-    skos:broader <bildung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Aufmerksamkeit"@de .
-
-<ausländerpädagogik_id> a skos:Concept ;
-    skos:broader <pädagogik_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Ausländerpädagogik"@de .
-
-<autorität_id> a skos:Concept ;
-    skos:broader <erziehung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Autorität"@de .
-
-<ballauff__theodor_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Ballauff, Theodor"@de .
-
-<begabung_id> a skos:Concept ;
-    skos:broader <bildung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Begabung"@de .
-
-<behindertenpädagogik_id> a skos:Concept ;
-    skos:broader <pädagogik_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Behindertenpädagogik"@de .
-
-<benposta_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Benposta"@de ;
-    skos:topConceptOf <> .
-
-<berufspädagogik_id> a skos:Concept ;
-    skos:broader <pädagogik_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Berufspädagogik"@de .
-
-<berufsschule_id> a skos:Concept ;
-    skos:broader <schule_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Berufsschule"@de .
-
-<bilinguale_erziehung__id> a skos:Concept ;
-    skos:broader <erziehung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Bilinguale Erziehung "@de .
-
-<bilingualer_unterricht_id> a skos:Concept ;
-    skos:broader <unterricht_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Bilingualer Unterricht"@de .
-
-<blackbox_kybernetik_id> a skos:Concept ;
-    skos:broader <bildung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Blackbox (Kybernetik)"@de .
-
-<blankertz__herwig_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Blankertz, Herwig"@de .
-
-<bollnow__otto_friedrich_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Bollnow, Otto Friedrich"@de .
-
-<brezinka__wolfgang_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Brezinka, Wolfgang"@de .
-
-<chancengleichheit_id> a skos:Concept ;
-    skos:broader <bildungssystem_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Chancengleichheit"@de .
-
-<college_id> a skos:Concept ;
-    skos:broader <schule_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "College"@de .
-
-<comeniua__johann_amos_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Comeniua, Johann Amos"@de .
-
-<curriculum_id> a skos:Concept ;
-    skos:broader <bildungssystem_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Curriculum"@de .
-
-<deutschunterricht_id> a skos:Concept ;
-    skos:broader <unterricht_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Deutschunterricht"@de .
-
-<differenzierter_unterricht__id> a skos:Concept ;
-    skos:broader <unterrichtsmethode_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Differenzierter Unterricht "@de .
-
-<dorfschule_id> a skos:Concept ;
-    skos:broader <schule_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Dorfschule"@de .
-
-<duale_berufsausbildung_id> a skos:Concept ;
-    skos:broader <bildungssystem_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Duale Berufsausbildung"@de .
-
-<einschulung_id> a skos:Concept ;
-    skos:broader <bildungssystem_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Einschulung"@de .
-
-<elearning_id> a skos:Concept ;
-    skos:broader <bildung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "E-Learning"@de .
-
-<entwicklungspsychologie_id> a skos:Concept ;
-    skos:broader <bildungssystem_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Entwicklungspsychologie"@de .
-
-<erziehungsproblem_id> a skos:Concept ;
-    skos:broader <erziehung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Erziehungsproblem"@de .
-
-<erziehungsstil_id> a skos:Concept ;
-    skos:broader <erziehung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Erziehungsstil"@de .
-
-<fachpraktischer_unterricht__id> a skos:Concept ;
-    skos:broader <unterrichtsmethode_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Fachpraktischer Unterricht "@de .
-
-<fachtheoretischer_unterricht__id> a skos:Concept ;
-    skos:broader <unterrichtsmethode_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Fachtheoretischer Unterricht "@de .
-
-<fernseherziehung_id> a skos:Concept ;
-    skos:broader <erziehung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Fernseherziehung"@de .
-
-<fernstudium_id> a skos:Concept ;
-    skos:broader <schule_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Fernstudium"@de .
-
-<freinet__celestin_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Freinet, Celestin"@de .
-
-<fröbel__friedrich_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Fröbel, Friedrich"@de .
-
-<fächerübergreifender_unterricht__id> a skos:Concept ;
-    skos:broader <unterrichtsmethode_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Fächerübergreifender Unterricht "@de .
-
-<gesamtschule_id> a skos:Concept ;
-    skos:broader <schule_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Gesamtschule"@de .
-
-<grundschule_id> a skos:Concept ;
-    skos:broader <schule_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Grundschule"@de .
-
-<gruppenarbeit_id> a skos:Concept ;
-    skos:broader <bildung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Gruppenarbeit"@de .
-
-<guts_muths__johann_christoph_friedrich_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Guts Muths, Johann Christoph Friedrich"@de .
-
-<gymnasium_id> a skos:Concept ;
-    skos:broader <schule_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Gymnasium"@de .
-
-<hauptschule_id> a skos:Concept ;
-    skos:broader <schule_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Hauptschule"@de .
-
-<hausaufgabe_id> a skos:Concept ;
-    skos:broader <bildung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Hausaufgabe"@de .
-
-<hausunterricht_id> a skos:Concept ;
-    skos:broader <schule_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Hausunterricht"@de .
-
-<heimerziehung_id> a skos:Concept ;
-    skos:broader <erziehung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Heimerziehung"@de .
-
-<helenelangeschule_wiesbaden_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Helene-Lange-Schule (Wiesbaden)"@de ;
-    skos:topConceptOf <> .
-
-<hentig__hartmut_von_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Hentig, Hartmut von"@de .
-
-<hirsch__betty_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Hirsch, Betty"@de .
-
-<hochschule_id> a skos:Concept ;
-    skos:broader <schule_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Hochschule"@de .
-
-<hoffmann__heinrich_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Hoffmann, Heinrich"@de .
-
-<interkulturelles_lernen_id> a skos:Concept ;
-    skos:broader <bildungssystem_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Interkulturelles Lernen"@de .
-
-<internat_id> a skos:Concept ;
-    skos:broader <schule_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Internat"@de .
-
-<jugend_forscht_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Jugend forscht"@de ;
-    skos:topConceptOf <> .
-
-<jung__carl_gustav_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Jung, Carl Gustav"@de .
-
-<kinderbild_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kinderbild"@de ;
-    skos:topConceptOf <> .
-
-<kinderdorf_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kinderdorf"@de ;
-    skos:topConceptOf <> .
-
-<kindergarten_id> a skos:Concept ;
-    skos:broader <bildungseinrichtung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kindergarten"@de .
-
-<kindertagesstätte_id> a skos:Concept ;
-    skos:broader <bildungssystem_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kindertagesstätte"@de .
-
-<klasse_schule_id> a skos:Concept ;
-    skos:broader <bildungssystem_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Klasse (Schule)"@de .
-
-<klassenzimmer_id> a skos:Concept ;
-    skos:broader <schule_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Klassenzimmer"@de .
-
-<konzentration_psychologie_id> a skos:Concept ;
-    skos:broader <bildung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Konzentration (Psychologie)"@de .
-
-<kriegsspielzeug_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kriegsspielzeug"@de ;
-    skos:topConceptOf <> .
-
-<kroh__oswald_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kroh, Oswald"@de .
-
-<kunstunterricht_id> a skos:Concept ;
-    skos:broader <unterricht_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kunstunterricht"@de .
-
-<köhler__wolfgang_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
+paedagogik:0721c6c5-6fa5-471f-a9b2-a4b2668679cf a skos:Concept ;
+    skos:broader paedagogik:9d8a33f1-b031-4f48-b8c7-c5673ab106bf ;
+    skos:inScheme paedagogik: ;
     skos:prefLabel "Köhler, Wolfgang"@de .
 
-<langeveld__martinus_jan_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Langeveld, Martinus Jan"@de .
+paedagogik:0d638b46-c9e1-4daa-809a-61cd011a8a82 a skos:Concept ;
+    skos:broader paedagogik:c8dbbcea-f1cc-445a-9951-c19a383c9a42 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Klasse (Schule)"@de .
 
-<lehrerbildung_id> a skos:Concept ;
-    skos:broader <bildung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Lehrerbildung"@de .
+paedagogik:0f77d247-5dc9-4736-ad52-6546f7d0fc5e a skos:Concept ;
+    skos:broader paedagogik:c8dbbcea-f1cc-445a-9951-c19a383c9a42 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Kindertagesstätte"@de .
 
-<lehrerschülerbeziehung_id> a skos:Concept ;
-    skos:broader <erziehung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Lehrer-Schüler-Beziehung"@de .
-
-<lehrerverhalten_id> a skos:Concept ;
-    skos:broader <erziehung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Lehrerverhalten"@de .
-
-<lehrerzentrierter_unterricht_id> a skos:Concept ;
-    skos:broader <unterrichtsmethode_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Lehrerzentrierter Unterricht"@de .
-
-<lehrverfahren_id> a skos:Concept ;
-    skos:broader <unterricht_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Lehrverfahren"@de .
-
-<lernhilfe_id> a skos:Concept ;
-    skos:broader <bildung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Lernhilfe"@de .
-
-<lernschwierigkeit_id> a skos:Concept ;
-    skos:broader <bildung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Lernschwierigkeit"@de .
-
-<lewin__kurt_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Lewin, Kurt"@de .
-
-<lietz__herrmann_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Lietz, Herrmann"@de .
-
-<litt__theodor_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Litt, Theodor"@de .
-
-<makarenko__anton_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Makarenko, Anton"@de .
-
-<melanchton__philipp_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Melanchton, Philipp"@de .
-
-<metzger__wolfgang_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Metzger, Wolfgang"@de .
-
-<milgramexperiment_id> a skos:Concept ;
-    skos:broader <erziehung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Milgram-Experiment"@de .
-
-<mobbing_id> a skos:Concept ;
-    skos:broader <bildungssystem_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Mobbing"@de .
-
-<montessori__maria_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Montessori, Maria"@de .
-
-<multiplechoice_id> a skos:Concept ;
-    skos:broader <prüfung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Multiple-choice"@de .
-
-<museumspädagogik_id> a skos:Concept ;
-    skos:broader <pädagogik_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Museumspädagogik"@de .
-
-<musikschule_id> a skos:Concept ;
-    skos:broader <schule_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Musikschule"@de .
-
-<neill__alexander_sutherland_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Neill, Alexander Sutherland"@de .
-
-<pestalozzi__johann_heinrich_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Pestalozzi, Johann Heinrich"@de .
-
-<petersen__peter_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Petersen, Peter"@de .
-
-<polytechnischer_unterricht__id> a skos:Concept ;
-    skos:broader <unterrichtsmethode_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Polytechnischer Unterricht "@de .
-
-<projektarbeit_id> a skos:Concept ;
-    skos:broader <bildung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Projektarbeit"@de .
-
-<realschule_id> a skos:Concept ;
-    skos:broader <schule_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Realschule"@de .
-
-<reformpädagogik_id> a skos:Concept ;
-    skos:broader <pädagogik_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Reformpädagogik"@de .
-
-<religionspädagogik_id> a skos:Concept ;
-    skos:broader <pädagogik_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Religionspädagogik"@de .
-
-<rollenspiel_id> a skos:Concept ;
-    skos:broader <bildung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Rollenspiel"@de .
-
-<roth__heirich_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Roth, Heirich"@de .
-
-<schule_ausland_id> a skos:Concept ;
-    skos:broader <schule_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Schule (Ausland)"@de .
-
-<schule_geschichte_id> a skos:Concept ;
-    skos:broader <schule_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Schule (Geschichte)"@de .
-
-<schulfernsehen_id> a skos:Concept ;
-    skos:broader <bildungssystem_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Schulfernsehen"@de .
-
-<schulhof_id> a skos:Concept ;
-    skos:broader <bildungssystem_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Schulhof"@de .
-
-<schullandheim_id> a skos:Concept ;
-    skos:broader <schule_id> ;
-    skos:inScheme <> ;
+paedagogik:1069574a-5887-42c4-ab12-167c540ad541 a skos:Concept ;
+    skos:broader paedagogik:ad55ef6c-a81e-45ec-bc11-be406c1bdfe2 ;
+    skos:inScheme paedagogik: ;
     skos:prefLabel "Schullandheim"@de .
 
-<schulpflicht_id> a skos:Concept ;
-    skos:broader <bildungssystem_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Schulpflicht"@de .
+paedagogik:13743691-96da-4a73-87cb-9053b83e1abf a skos:Concept ;
+    skos:broader paedagogik:9d8a33f1-b031-4f48-b8c7-c5673ab106bf ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Fröbel, Friedrich"@de .
 
-<schulreform_id> a skos:Concept ;
-    skos:broader <bildungssystem_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Schulreform"@de .
+paedagogik:13cccb37-acfc-4a42-bd78-1b16e494aa5e a skos:Concept ;
+    skos:broader paedagogik:598f1d61-e2cd-4d81-8a3f-04735f40bdba ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Bilinguale Erziehung "@de .
 
-<schüleraustausch_id> a skos:Concept ;
-    skos:broader <bildungssystem_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Schüleraustausch"@de .
+paedagogik:15297457-2d83-4139-8b4f-2d1ab2f318dc a skos:Concept ;
+    skos:broader paedagogik:535db582-2009-4634-9748-3d2b30fab293 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Multiple-choice"@de .
 
-<schülermitverantwortung_id> a skos:Concept ;
-    skos:broader <bildungssystem_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Schülermitverantwortung"@de .
+paedagogik:15dbe0ec-5953-457d-b060-11855632a3c3 a skos:Concept ;
+    skos:broader paedagogik:505fd740-6adb-4def-af9a-dac54ba8c791 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Lehrverfahren"@de .
 
-<schülerschülerbeziehung_id> a skos:Concept ;
-    skos:broader <erziehung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Schüler-Schüler-Beziehung"@de .
+paedagogik:16b102d7-ba00-42c7-89e4-63045eeb9550 a skos:Concept ;
+    skos:broader paedagogik:a5a99fa8-cff1-48dd-83c9-55f1310e72b0 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Behindertenpädagogik"@de .
 
-<schülerverhalten_id> a skos:Concept ;
-    skos:broader <erziehung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Schülerverhalten"@de .
+paedagogik:18632e2c-fedc-4f9b-a075-9668853c3769 a skos:Concept ;
+    skos:broader paedagogik:9d8a33f1-b031-4f48-b8c7-c5673ab106bf ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Jung, Carl Gustav"@de .
 
-<schülerzentrierter_unterricht__id> a skos:Concept ;
-    skos:broader <unterrichtsmethode_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Schülerzentrierter Unterricht "@de .
+paedagogik:1a9a6cac-08ee-4dfe-8681-1bb65c36912d a skos:Concept ;
+    skos:broader paedagogik:9d8a33f1-b031-4f48-b8c7-c5673ab106bf ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Brezinka, Wolfgang"@de .
 
-<sonderpädagogik_id> a skos:Concept ;
-    skos:broader <pädagogik_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Sonderpädagogik"@de .
+paedagogik:1b0702db-9dce-495b-aca0-a30fabfc8cb3 a skos:Concept ;
+    skos:broader paedagogik:c8dbbcea-f1cc-445a-9951-c19a383c9a42 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Einschulung"@de .
 
-<sonderschule_id> a skos:Concept ;
-    skos:broader <schule_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Sonderschule"@de .
+paedagogik:1c6fa938-cab8-4c38-894e-290735f9c57d a skos:Concept ;
+    skos:broader paedagogik:9eea9cf4-f737-4c24-8bcb-cc2b07968f50 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Kindergarten"@de .
 
-<sozialkunde_id> a skos:Concept ;
-    skos:broader <bildungssystem_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Sozialkunde"@de .
+paedagogik:1c936951-72b0-420a-a9e5-4af9faba9ada a skos:Concept ;
+    skos:broader paedagogik:ad55ef6c-a81e-45ec-bc11-be406c1bdfe2 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Schule (Geschichte)"@de .
 
-<spielverhalten_kind_id> a skos:Concept ;
-    skos:broader <erziehung_id> ;
-    skos:inScheme <> ;
+paedagogik:229b0829-ac14-4a9e-a94a-d9b302a231eb a skos:Concept ;
+    skos:broader paedagogik:a5a99fa8-cff1-48dd-83c9-55f1310e72b0 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Reformpädagogik"@de .
+
+paedagogik:23c8f79d-cb09-4132-a805-19a446fa0247 a skos:Concept ;
+    skos:broader paedagogik:9d8a33f1-b031-4f48-b8c7-c5673ab106bf ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Roth, Heirich"@de .
+
+paedagogik:2737569e-6d22-41fe-b32a-6e4125f58135 a skos:Concept ;
+    skos:broader paedagogik:9d8a33f1-b031-4f48-b8c7-c5673ab106bf ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Ballauff, Theodor"@de .
+
+paedagogik:28ff584f-519d-4676-9c88-ed08aa617fd0 a skos:Concept ;
+    skos:broader paedagogik:598f1d61-e2cd-4d81-8a3f-04735f40bdba ;
+    skos:inScheme paedagogik: ;
     skos:prefLabel "Spielverhalten (Kind)"@de .
 
-<sportdidaktik_id> a skos:Concept ;
-    skos:broader <unterricht_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Sportdidaktik"@de .
-
-<sprachunterricht_pädagogik_id> a skos:Concept ;
-    skos:broader <unterricht_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Sprachunterricht (Pädagogik)"@de .
-
-<strafe_allgemein_id> a skos:Concept ;
-    skos:broader <erziehung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Strafe (allgemein)"@de .
-
-<streitschlichtung_schule_id> a skos:Concept ;
-    skos:broader <bildungssystem_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Streitschlichtung (Schule)"@de .
-
-<student_id> a skos:Concept ;
-    skos:broader <bildungssystem_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Student"@de .
-
-<suggestopädie_id> a skos:Concept ;
-    skos:broader <bildung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Suggestopädie"@de .
-
-<umwelterziehung_id> a skos:Concept ;
-    skos:broader <erziehung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Umwelterziehung"@de .
-
-<unterrichtsmaterial_id> a skos:Concept ;
-    skos:broader <unterricht_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Unterrichtsmaterial"@de .
-
-<unterrichtsmodul_id> a skos:Concept ;
-    skos:broader <unterricht_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Unterrichtsmodul"@de .
-
-<unterrichtsplanung_id> a skos:Concept ;
-    skos:broader <unterricht_id> ;
-    skos:inScheme <> ;
+paedagogik:29360624-b791-44b3-9c2a-08822e825208 a skos:Concept ;
+    skos:broader paedagogik:505fd740-6adb-4def-af9a-dac54ba8c791 ;
+    skos:inScheme paedagogik: ;
     skos:prefLabel "Unterrichtsplanung"@de .
 
-<wagenschein__martin_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Wagenschein, Martin"@de .
+paedagogik:2aa44399-5d00-4f63-905c-24626261131b a skos:Concept ;
+    skos:broader paedagogik:8f278da9-8749-4be7-8565-461c0661f713 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Hausaufgabe"@de .
 
-<waldorfschule_id> a skos:Concept ;
-    skos:broader <schule_id> ;
-    skos:inScheme <> ;
+paedagogik:39a5310f-75e5-41c9-a8ef-c556957df179 a skos:Concept ;
+    skos:broader paedagogik:ad55ef6c-a81e-45ec-bc11-be406c1bdfe2 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Berufsschule"@de .
+
+paedagogik:3c054720-3bd3-4f28-8399-e4ac685aa3fa a skos:Concept ;
+    skos:broader paedagogik:9d8a33f1-b031-4f48-b8c7-c5673ab106bf ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Comeniua, Johann Amos"@de .
+
+paedagogik:3c0baf24-0acf-4e55-b813-345e45d26ff3 a skos:Concept ;
+    skos:broader paedagogik:ad55ef6c-a81e-45ec-bc11-be406c1bdfe2 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Musikschule"@de .
+
+paedagogik:3d96fef0-6714-4e81-acb5-f0a03940548e a skos:Concept ;
+    skos:broader paedagogik:ad55ef6c-a81e-45ec-bc11-be406c1bdfe2 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Dorfschule"@de .
+
+paedagogik:3dd6d929-538f-4dff-8f03-2a4eab42f947 a skos:Concept ;
+    skos:broader paedagogik:9d8a33f1-b031-4f48-b8c7-c5673ab106bf ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Freinet, Celestin"@de .
+
+paedagogik:3ecfe12b-6281-47b9-8ebc-d80748f3d393 a skos:Concept ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Kriegsspielzeug"@de ;
+    skos:topConceptOf paedagogik: .
+
+paedagogik:3f979cac-d157-495f-a920-0139156f906b a skos:Concept ;
+    skos:broader paedagogik:8f278da9-8749-4be7-8565-461c0661f713 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "E-Learning"@de .
+
+paedagogik:411378e8-aecc-4cfc-a891-c7e45e7bbf2c a skos:Concept ;
+    skos:broader paedagogik:9d8a33f1-b031-4f48-b8c7-c5673ab106bf ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Lietz, Herrmann"@de .
+
+paedagogik:426db9fb-8727-46e9-ade1-a63d8eeba8d0 a skos:Concept ;
+    skos:broader paedagogik:ad55ef6c-a81e-45ec-bc11-be406c1bdfe2 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Grundschule"@de .
+
+paedagogik:42d35094-3317-41cd-a633-42fb82aae58d a skos:Concept ;
+    skos:broader paedagogik:505fd740-6adb-4def-af9a-dac54ba8c791 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Sprachunterricht (Pädagogik)"@de .
+
+paedagogik:430900f2-4a4c-46d8-bfbc-b9bf710be2c2 a skos:Concept ;
+    skos:broader paedagogik:ad55ef6c-a81e-45ec-bc11-be406c1bdfe2 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Fernstudium"@de .
+
+paedagogik:43f71f7c-71e1-442c-bc2a-498251b6bc00 a skos:Concept ;
+    skos:broader paedagogik:ad55ef6c-a81e-45ec-bc11-be406c1bdfe2 ;
+    skos:inScheme paedagogik: ;
     skos:prefLabel "Waldorfschule"@de .
 
-<weiterbildung_id> a skos:Concept ;
-    skos:broader <bildung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Weiterbildung"@de .
+paedagogik:490e4807-57f7-4226-9550-e954eb6bccb9 a skos:Concept ;
+    skos:broader paedagogik:ad55ef6c-a81e-45ec-bc11-be406c1bdfe2 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Hauptschule"@de .
 
-<wyneken__gustav_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
+paedagogik:4a412842-34a5-4ee4-af15-fef68db9e4dc a skos:Concept ;
+    skos:broader paedagogik:505fd740-6adb-4def-af9a-dac54ba8c791 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Unterrichtsmodul"@de .
+
+paedagogik:52a6943e-249e-4571-90d5-b5510a31dc0d a skos:Concept ;
+    skos:broader paedagogik:505fd740-6adb-4def-af9a-dac54ba8c791 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Kunstunterricht"@de .
+
+paedagogik:56c318dc-7cf6-4e28-bb04-025be1bdcc1f a skos:Concept ;
+    skos:broader paedagogik:a5a99fa8-cff1-48dd-83c9-55f1310e72b0 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Sonderpädagogik"@de .
+
+paedagogik:58d90411-c263-462a-a2b0-93156c3a1628 a skos:Concept ;
+    skos:broader paedagogik:c8dbbcea-f1cc-445a-9951-c19a383c9a42 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Streitschlichtung (Schule)"@de .
+
+paedagogik:5a4fa9be-262c-44e1-a12d-9768906fd4b1 a skos:Concept ;
+    skos:broader paedagogik:8f278da9-8749-4be7-8565-461c0661f713 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Lehrerbildung"@de .
+
+paedagogik:5b039010-7e46-4d2a-ac89-23dc607312c1 a skos:Concept ;
+    skos:broader paedagogik:c8dbbcea-f1cc-445a-9951-c19a383c9a42 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Sozialkunde"@de .
+
+paedagogik:5c42df54-b84d-4ec7-a308-5b57ce018f22 a skos:Concept ;
+    skos:broader paedagogik:9d8a33f1-b031-4f48-b8c7-c5673ab106bf ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Hirsch, Betty"@de .
+
+paedagogik:5e151202-9993-4b9c-8ef9-7af573ec70aa a skos:Concept ;
+    skos:broader paedagogik:505fd740-6adb-4def-af9a-dac54ba8c791 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Analyse (Unterrichtsmethode)"@de .
+
+paedagogik:5fa0d57a-3808-4a74-8943-591b754df3dc a skos:Concept ;
+    skos:broader paedagogik:8f278da9-8749-4be7-8565-461c0661f713 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Projektarbeit"@de .
+
+paedagogik:60b68707-fe46-47de-9b2d-17255c5282c7 a skos:Concept ;
+    skos:broader paedagogik:ad55ef6c-a81e-45ec-bc11-be406c1bdfe2 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Sonderschule"@de .
+
+paedagogik:61d4dda8-fbe1-4b26-ab87-45f66ed2427f a skos:Concept ;
+    skos:broader paedagogik:8f278da9-8749-4be7-8565-461c0661f713 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Abstraktion"@de .
+
+paedagogik:631617a4-e6aa-4579-9119-1133c20b17b2 a skos:Concept ;
+    skos:broader paedagogik:9d8a33f1-b031-4f48-b8c7-c5673ab106bf ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Lewin, Kurt"@de .
+
+paedagogik:661aaea3-222b-45cb-b980-ebdcf8c0a58d a skos:Concept ;
+    skos:broader paedagogik:ad55ef6c-a81e-45ec-bc11-be406c1bdfe2 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Klassenzimmer"@de .
+
+paedagogik:6ad151a6-91e2-48cb-8279-f97e249b474c a skos:Concept ;
+    skos:broader paedagogik:598f1d61-e2cd-4d81-8a3f-04735f40bdba ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Autorität"@de .
+
+paedagogik:6d8ab376-5286-4843-b026-a04c63cef0e5 a skos:Concept ;
+    skos:broader paedagogik:598f1d61-e2cd-4d81-8a3f-04735f40bdba ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Schüler-Schüler-Beziehung"@de .
+
+paedagogik:6e5787b3-ea64-4726-8e56-bd1447f07755 a skos:Concept ;
+    skos:broader paedagogik:a5a99fa8-cff1-48dd-83c9-55f1310e72b0 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Berufspädagogik"@de .
+
+paedagogik:7110c2a4-f190-411c-952a-49ccb4ab118e a skos:Concept ;
+    skos:broader paedagogik:598f1d61-e2cd-4d81-8a3f-04735f40bdba ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Fernseherziehung"@de .
+
+paedagogik:741212a1-2710-4977-9fb9-7ec82566c62d a skos:Concept ;
+    skos:broader paedagogik:c8dbbcea-f1cc-445a-9951-c19a383c9a42 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Student"@de .
+
+paedagogik:75eae122-94e3-43bb-b09a-e08036304796 a skos:Concept ;
+    skos:broader paedagogik:8f278da9-8749-4be7-8565-461c0661f713 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Lernhilfe"@de .
+
+paedagogik:76b6679b-3d09-4fc0-bf8f-467f9f63a543 a skos:Concept ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Helene-Lange-Schule (Wiesbaden)"@de ;
+    skos:topConceptOf paedagogik: .
+
+paedagogik:7719da35-043c-4cf5-b35e-f9c14cba009b a skos:Concept ;
+    skos:broader paedagogik:c8dbbcea-f1cc-445a-9951-c19a383c9a42 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Schulpflicht"@de .
+
+paedagogik:772a647f-ee2b-4e4f-9aa3-4b7e648ac653 a skos:Concept ;
+    skos:broader paedagogik:505fd740-6adb-4def-af9a-dac54ba8c791 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Sportdidaktik"@de .
+
+paedagogik:77bf0976-dc16-4666-a0e1-5112f98252a9 a skos:Concept ;
+    skos:broader paedagogik:fe5c793e-22f7-4c9b-9d7b-4b0ee0df7057 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Fachtheoretischer Unterricht "@de .
+
+paedagogik:7d006a96-74d8-4ac8-9fb2-02f0693d796d a skos:Concept ;
+    skos:broader paedagogik:c8dbbcea-f1cc-445a-9951-c19a383c9a42 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Duale Berufsausbildung"@de .
+
+paedagogik:7d2f4394-e291-4220-9091-a1f736abcf93 a skos:Concept ;
+    skos:broader paedagogik:ad55ef6c-a81e-45ec-bc11-be406c1bdfe2 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "College"@de .
+
+paedagogik:7f5c91ff-7fb3-47ab-864e-00bc88faafec a skos:Concept ;
+    skos:broader paedagogik:598f1d61-e2cd-4d81-8a3f-04735f40bdba ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Schülerverhalten"@de .
+
+paedagogik:80748564-5c48-443f-998f-22359bfc4c33 a skos:Concept ;
+    skos:broader paedagogik:9d8a33f1-b031-4f48-b8c7-c5673ab106bf ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Hoffmann, Heinrich"@de .
+
+paedagogik:8143e2bf-7355-4e9b-85e0-74e91a8b96c3 a skos:Concept ;
+    skos:broader paedagogik:ad55ef6c-a81e-45ec-bc11-be406c1bdfe2 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Hausunterricht"@de .
+
+paedagogik:83a757fa-2926-423a-8ba7-3ee50f5c6c1c a skos:Concept ;
+    skos:broader paedagogik:c8dbbcea-f1cc-445a-9951-c19a383c9a42 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Entwicklungspsychologie"@de .
+
+paedagogik:83ce2492-7ff3-462c-b21b-0206e4e51975 a skos:Concept ;
+    skos:broader paedagogik:8f278da9-8749-4be7-8565-461c0661f713 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Blackbox (Kybernetik)"@de .
+
+paedagogik:85e3949f-c475-465f-890f-78fb3d70bf02 a skos:Concept ;
+    skos:broader paedagogik:ad55ef6c-a81e-45ec-bc11-be406c1bdfe2 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Gymnasium"@de .
+
+paedagogik:8708b234-63bc-47de-930c-ae5c244cc4e6 a skos:Concept ;
+    skos:broader paedagogik:9d8a33f1-b031-4f48-b8c7-c5673ab106bf ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Neill, Alexander Sutherland"@de .
+
+paedagogik:8aed14a4-ab83-49a7-915d-bd12136f32af a skos:Concept ;
+    skos:broader paedagogik:8f278da9-8749-4be7-8565-461c0661f713 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Rollenspiel"@de .
+
+paedagogik:8c423279-cf5a-4364-adc1-ec026a5241e4 a skos:Concept ;
+    skos:broader paedagogik:598f1d61-e2cd-4d81-8a3f-04735f40bdba ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Lehrer-Schüler-Beziehung"@de .
+
+paedagogik:8f737511-5d3f-4d50-b8d4-08b805c7a8a1 a skos:Concept ;
+    skos:broader paedagogik:ad55ef6c-a81e-45ec-bc11-be406c1bdfe2 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Internat"@de .
+
+paedagogik:8fdbfd80-2ae2-4969-a17e-aeadad4ba6b8 a skos:Concept ;
+    skos:broader paedagogik:9d8a33f1-b031-4f48-b8c7-c5673ab106bf ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Bollnow, Otto Friedrich"@de .
+
+paedagogik:984795d1-77cb-4966-ab39-2acfad5e9e4e a skos:Concept ;
+    skos:broader paedagogik:8f278da9-8749-4be7-8565-461c0661f713 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Begabung"@de .
+
+paedagogik:996c5297-35e3-4a39-a9b8-f8702dd9bd4a a skos:Concept ;
+    skos:broader paedagogik:8f278da9-8749-4be7-8565-461c0661f713 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Suggestopädie"@de .
+
+paedagogik:9a65d894-6d6a-4907-9b9d-c969aeece31d a skos:Concept ;
+    skos:broader paedagogik:9d8a33f1-b031-4f48-b8c7-c5673ab106bf ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Langeveld, Martinus Jan"@de .
+
+paedagogik:9ab1c343-1994-433e-a880-1bfbed1a2a0c a skos:Concept ;
+    skos:broader paedagogik:8f278da9-8749-4be7-8565-461c0661f713 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Aufmerksamkeit"@de .
+
+paedagogik:9bc95152-8329-4797-985a-9d678e04f944 a skos:Concept ;
+    skos:broader paedagogik:9d8a33f1-b031-4f48-b8c7-c5673ab106bf ;
+    skos:inScheme paedagogik: ;
     skos:prefLabel "Wyneken, Gustav"@de .
 
-<zensur_note_id> a skos:Concept ;
-    skos:broader <prüfung_id> ;
-    skos:inScheme <> ;
+paedagogik:9cf3a681-96cd-45bc-b4d8-1e89e69772fe a skos:Concept ;
+    skos:broader paedagogik:c8dbbcea-f1cc-445a-9951-c19a383c9a42 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Curriculum"@de .
+
+paedagogik:9fcbadc3-b6ab-43cb-b6fe-6127691413c5 a skos:Concept ;
+    skos:broader paedagogik:9d8a33f1-b031-4f48-b8c7-c5673ab106bf ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Litt, Theodor"@de .
+
+paedagogik:a1dd0d1b-3bc3-4bc2-a190-c3d33bca6ca9 a skos:Concept ;
+    skos:broader paedagogik:c8dbbcea-f1cc-445a-9951-c19a383c9a42 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Interkulturelles Lernen"@de .
+
+paedagogik:a4c9ea20-5f88-49d5-957b-e17c54436b65 a skos:Concept ;
+    skos:broader paedagogik:9d8a33f1-b031-4f48-b8c7-c5673ab106bf ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Hentig, Hartmut von"@de .
+
+paedagogik:a5af6fd2-8ad5-49f4-83fc-864331f46dd3 a skos:Concept ;
+    skos:broader paedagogik:598f1d61-e2cd-4d81-8a3f-04735f40bdba ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Umwelterziehung"@de .
+
+paedagogik:a7eb86ca-a42a-40ae-bbba-dc31adf80b5a a skos:Concept ;
+    skos:broader paedagogik:fe5c793e-22f7-4c9b-9d7b-4b0ee0df7057 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Schülerzentrierter Unterricht "@de .
+
+paedagogik:a82757d5-0662-4a27-98b4-7211b75fe825 a skos:Concept ;
+    skos:broader paedagogik:c8dbbcea-f1cc-445a-9951-c19a383c9a42 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Schüleraustausch"@de .
+
+paedagogik:a8570105-a66e-4732-8234-d6d95f6ed555 a skos:Concept ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Kinderbild"@de ;
+    skos:topConceptOf paedagogik: .
+
+paedagogik:a871cc7d-363f-43b7-9a96-a4e2b10dbe5d a skos:Concept ;
+    skos:broader paedagogik:505fd740-6adb-4def-af9a-dac54ba8c791 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Bilingualer Unterricht"@de .
+
+paedagogik:a93757d9-1db7-452f-97c5-2e1b712f6963 a skos:Concept ;
+    skos:broader paedagogik:a5a99fa8-cff1-48dd-83c9-55f1310e72b0 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Ausländerpädagogik"@de .
+
+paedagogik:ac1eca26-7472-4550-99c1-42d8e20298dc a skos:Concept ;
+    skos:broader paedagogik:c8dbbcea-f1cc-445a-9951-c19a383c9a42 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Schulhof"@de .
+
+paedagogik:af11c585-0da3-4165-83a6-324d99a3b060 a skos:Concept ;
+    skos:broader paedagogik:9d8a33f1-b031-4f48-b8c7-c5673ab106bf ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Makarenko, Anton"@de .
+
+paedagogik:b055187b-e530-4e8a-8d9c-82e186fbc45f a skos:Concept ;
+    skos:broader paedagogik:9d8a33f1-b031-4f48-b8c7-c5673ab106bf ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Montessori, Maria"@de .
+
+paedagogik:b17c85fc-d4e3-4973-978a-b1568c9a54d3 a skos:Concept ;
+    skos:broader paedagogik:8f278da9-8749-4be7-8565-461c0661f713 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Weiterbildung"@de .
+
+paedagogik:b284e6ca-a790-4b6c-a2ad-b7d81cfe2e75 a skos:Concept ;
+    skos:broader paedagogik:fe5c793e-22f7-4c9b-9d7b-4b0ee0df7057 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Fächerübergreifender Unterricht "@de .
+
+paedagogik:b36f152c-e702-4ed6-a0fa-3d5e4ec9f1fe a skos:Concept ;
+    skos:broader paedagogik:598f1d61-e2cd-4d81-8a3f-04735f40bdba ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Lehrerverhalten"@de .
+
+paedagogik:b4005c43-10cc-4abc-9ed3-1eb0ac92a660 a skos:Concept ;
+    skos:broader paedagogik:535db582-2009-4634-9748-3d2b30fab293 ;
+    skos:inScheme paedagogik: ;
     skos:prefLabel "Zensur (Note)"@de .
 
-<bildungseinrichtung_id> a skos:Concept ;
-    skos:broader <bildungssystem_id> ;
-    skos:inScheme <> ;
-    skos:narrower <kindergarten_id>,
-        <schule_id> ;
-    skos:prefLabel "Bildungseinrichtung"@de .
+paedagogik:b69f027b-1bba-4874-aa5b-b1aa5cb55377 a skos:Concept ;
+    skos:broader paedagogik:c8dbbcea-f1cc-445a-9951-c19a383c9a42 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Schulfernsehen"@de .
 
-<prüfung_id> a skos:Concept ;
-    skos:broader <bildungssystem_id> ;
-    skos:inScheme <> ;
-    skos:narrower <multiplechoice_id>,
-        <zensur_note_id> ;
+paedagogik:b74311e6-5a40-4d53-9abe-8bbff83374ba a skos:Concept ;
+    skos:broader paedagogik:9d8a33f1-b031-4f48-b8c7-c5673ab106bf ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Pestalozzi, Johann Heinrich"@de .
+
+paedagogik:b8e49500-5221-4a0c-abb5-e19803264b1a a skos:Concept ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Kinderdorf"@de ;
+    skos:topConceptOf paedagogik: .
+
+paedagogik:ba62778c-88b1-42dd-8b04-e3905ca4c854 a skos:Concept ;
+    skos:broader paedagogik:ad55ef6c-a81e-45ec-bc11-be406c1bdfe2 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Schule (Ausland)"@de .
+
+paedagogik:bf161d7d-9f68-42dc-a09f-1ba830ba2711 a skos:Concept ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Benposta"@de ;
+    skos:topConceptOf paedagogik: .
+
+paedagogik:c04992e6-95ee-4155-844a-f13a66556033 a skos:Concept ;
+    skos:broader paedagogik:598f1d61-e2cd-4d81-8a3f-04735f40bdba ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Erziehungsstil"@de .
+
+paedagogik:c055ef5a-0d80-4dca-befe-6b0d626e6674 a skos:Concept ;
+    skos:broader paedagogik:598f1d61-e2cd-4d81-8a3f-04735f40bdba ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Milgram-Experiment"@de .
+
+paedagogik:c4644f92-148b-4aa0-990e-fff4a604c48b a skos:Concept ;
+    skos:broader paedagogik:fe5c793e-22f7-4c9b-9d7b-4b0ee0df7057 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Fachpraktischer Unterricht "@de .
+
+paedagogik:c4f93697-8c7b-4b4e-a9e0-e601b6b67bea a skos:Concept ;
+    skos:broader paedagogik:598f1d61-e2cd-4d81-8a3f-04735f40bdba ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Heimerziehung"@de .
+
+paedagogik:c7b9c360-30a8-4954-a568-866dc6fe72f3 a skos:Concept ;
+    skos:broader paedagogik:c8dbbcea-f1cc-445a-9951-c19a383c9a42 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Mobbing"@de .
+
+paedagogik:c9346148-03f9-45bc-a305-bd7705aa3c95 a skos:Concept ;
+    skos:broader paedagogik:9d8a33f1-b031-4f48-b8c7-c5673ab106bf ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Petersen, Peter"@de .
+
+paedagogik:cb51a084-6770-46ee-96d2-ef3aa49074e9 a skos:Concept ;
+    skos:broader paedagogik:fe5c793e-22f7-4c9b-9d7b-4b0ee0df7057 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Polytechnischer Unterricht "@de .
+
+paedagogik:cd1d8a40-fce2-4577-b133-3fae760696c6 a skos:Concept ;
+    skos:broader paedagogik:9d8a33f1-b031-4f48-b8c7-c5673ab106bf ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Melanchton, Philipp"@de .
+
+paedagogik:ce7f704f-5993-4642-9c4c-f4f970781ade a skos:Concept ;
+    skos:broader paedagogik:8f278da9-8749-4be7-8565-461c0661f713 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Lernschwierigkeit"@de .
+
+paedagogik:d38c738c-25c5-4201-9375-32db9d7fae9e a skos:Concept ;
+    skos:broader paedagogik:9d8a33f1-b031-4f48-b8c7-c5673ab106bf ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Kroh, Oswald"@de .
+
+paedagogik:d41c90a4-ba0e-41c4-9488-09bd11458d27 a skos:Concept ;
+    skos:broader paedagogik:9d8a33f1-b031-4f48-b8c7-c5673ab106bf ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Guts Muths, Johann Christoph Friedrich"@de .
+
+paedagogik:d5e9685d-4e81-4020-af0c-56a1b17e11d1 a skos:Concept ;
+    skos:broader paedagogik:c8dbbcea-f1cc-445a-9951-c19a383c9a42 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Schulreform"@de .
+
+paedagogik:d84774f2-8190-4426-9a9f-660d79dea586 a skos:Concept ;
+    skos:broader paedagogik:8f278da9-8749-4be7-8565-461c0661f713 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Konzentration (Psychologie)"@de .
+
+paedagogik:d94987f5-edf6-4af5-bed4-b2af0ce3c329 a skos:Concept ;
+    skos:broader paedagogik:a5a99fa8-cff1-48dd-83c9-55f1310e72b0 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Religionspädagogik"@de .
+
+paedagogik:dbdf0191-7f9d-47a5-9eab-6b30698caa8b a skos:Concept ;
+    skos:broader paedagogik:c8dbbcea-f1cc-445a-9951-c19a383c9a42 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Schülermitverantwortung"@de .
+
+paedagogik:de20f1ba-7478-4d2c-8bc6-3dc4c2de050d a skos:Concept ;
+    skos:broader paedagogik:ad55ef6c-a81e-45ec-bc11-be406c1bdfe2 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Realschule"@de .
+
+paedagogik:e1889f7f-6c48-44bd-8cb9-27240ff9c7f7 a skos:Concept ;
+    skos:broader paedagogik:505fd740-6adb-4def-af9a-dac54ba8c791 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Deutschunterricht"@de .
+
+paedagogik:e1ef9ee9-028e-45f8-94b8-3e00df0c97cf a skos:Concept ;
+    skos:broader paedagogik:a5a99fa8-cff1-48dd-83c9-55f1310e72b0 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Museumspädagogik"@de .
+
+paedagogik:e2dd753c-c93b-4df4-adf9-ee6549852744 a skos:Concept ;
+    skos:broader paedagogik:598f1d61-e2cd-4d81-8a3f-04735f40bdba ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Erziehungsproblem"@de .
+
+paedagogik:e367049d-9803-43cd-8925-8af051f3ad0c a skos:Concept ;
+    skos:broader paedagogik:9d8a33f1-b031-4f48-b8c7-c5673ab106bf ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Metzger, Wolfgang"@de .
+
+paedagogik:e7bbec47-118b-4aa4-86a6-4db185c3ada4 a skos:Concept ;
+    skos:broader paedagogik:8f278da9-8749-4be7-8565-461c0661f713 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Gruppenarbeit"@de .
+
+paedagogik:e88421bb-c39f-4df3-a2c6-1c35c75ace42 a skos:Concept ;
+    skos:broader paedagogik:505fd740-6adb-4def-af9a-dac54ba8c791 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Unterrichtsmaterial"@de .
+
+paedagogik:e9920c7e-9ab0-43bd-8977-a339c332b66e a skos:Concept ;
+    skos:broader paedagogik:ad55ef6c-a81e-45ec-bc11-be406c1bdfe2 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Gesamtschule"@de .
+
+paedagogik:eaaafe88-f451-4dd8-8b26-acc37b3a4b6e a skos:Concept ;
+    skos:broader paedagogik:9d8a33f1-b031-4f48-b8c7-c5673ab106bf ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Blankertz, Herwig"@de .
+
+paedagogik:eaceb322-87fc-47d4-b4a4-45328e04aff9 a skos:Concept ;
+    skos:broader paedagogik:fe5c793e-22f7-4c9b-9d7b-4b0ee0df7057 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Differenzierter Unterricht "@de .
+
+paedagogik:ec1dab00-25c5-4e3d-a713-6eb890007088 a skos:Concept ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Jugend forscht"@de ;
+    skos:topConceptOf paedagogik: .
+
+paedagogik:efc0a67a-4d9d-4705-8483-056fcb1eb4a9 a skos:Concept ;
+    skos:broader paedagogik:8f278da9-8749-4be7-8565-461c0661f713 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Arbeitsblatt"@de .
+
+paedagogik:f1b27e7b-d0aa-4f8b-9ac2-0e0059b8ea58 a skos:Concept ;
+    skos:broader paedagogik:9d8a33f1-b031-4f48-b8c7-c5673ab106bf ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Wagenschein, Martin"@de .
+
+paedagogik:f4747ad0-eb7c-4faa-9583-349ad2b48366 a skos:Concept ;
+    skos:broader paedagogik:c8dbbcea-f1cc-445a-9951-c19a383c9a42 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Chancengleichheit"@de .
+
+paedagogik:fb55ae56-d589-4b27-a8db-8f646e4b5e92 a skos:Concept ;
+    skos:broader paedagogik:fe5c793e-22f7-4c9b-9d7b-4b0ee0df7057 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Lehrerzentrierter Unterricht"@de .
+
+paedagogik:fce0f36e-21d2-45f2-a189-1968a6f3e2e1 a skos:Concept ;
+    skos:broader paedagogik:598f1d61-e2cd-4d81-8a3f-04735f40bdba ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Strafe (allgemein)"@de .
+
+paedagogik:fdd57b4e-f317-457e-b8f8-44d8224c7683 a skos:Concept ;
+    skos:broader paedagogik:ad55ef6c-a81e-45ec-bc11-be406c1bdfe2 ;
+    skos:inScheme paedagogik: ;
+    skos:prefLabel "Hochschule"@de .
+
+paedagogik:535db582-2009-4634-9748-3d2b30fab293 a skos:Concept ;
+    skos:broader paedagogik:c8dbbcea-f1cc-445a-9951-c19a383c9a42 ;
+    skos:inScheme paedagogik: ;
+    skos:narrower paedagogik:15297457-2d83-4139-8b4f-2d1ab2f318dc,
+        paedagogik:b4005c43-10cc-4abc-9ed3-1eb0ac92a660 ;
     skos:prefLabel "Prüfung"@de .
 
-<pädagogik_id> a skos:Concept ;
-    skos:broader <bildungssystem_id> ;
-    skos:inScheme <> ;
-    skos:narrower <ausländerpädagogik_id>,
-        <behindertenpädagogik_id>,
-        <berufspädagogik_id>,
-        <museumspädagogik_id>,
-        <reformpädagogik_id>,
-        <religionspädagogik_id>,
-        <sonderpädagogik_id> ;
+paedagogik:9eea9cf4-f737-4c24-8bcb-cc2b07968f50 a skos:Concept ;
+    skos:broader paedagogik:c8dbbcea-f1cc-445a-9951-c19a383c9a42 ;
+    skos:inScheme paedagogik: ;
+    skos:narrower paedagogik:1c6fa938-cab8-4c38-894e-290735f9c57d,
+        paedagogik:ad55ef6c-a81e-45ec-bc11-be406c1bdfe2 ;
+    skos:prefLabel "Bildungseinrichtung"@de .
+
+paedagogik:a5a99fa8-cff1-48dd-83c9-55f1310e72b0 a skos:Concept ;
+    skos:broader paedagogik:c8dbbcea-f1cc-445a-9951-c19a383c9a42 ;
+    skos:inScheme paedagogik: ;
+    skos:narrower paedagogik:16b102d7-ba00-42c7-89e4-63045eeb9550,
+        paedagogik:229b0829-ac14-4a9e-a94a-d9b302a231eb,
+        paedagogik:56c318dc-7cf6-4e28-bb04-025be1bdcc1f,
+        paedagogik:6e5787b3-ea64-4726-8e56-bd1447f07755,
+        paedagogik:a93757d9-1db7-452f-97c5-2e1b712f6963,
+        paedagogik:d94987f5-edf6-4af5-bed4-b2af0ce3c329,
+        paedagogik:e1ef9ee9-028e-45f8-94b8-3e00df0c97cf ;
     skos:prefLabel "Pädagogik"@de .
 
-<unterrichtsmethode_id> a skos:Concept ;
-    skos:broader <unterricht_id> ;
-    skos:inScheme <> ;
-    skos:narrower <differenzierter_unterricht__id>,
-        <fachpraktischer_unterricht__id>,
-        <fachtheoretischer_unterricht__id>,
-        <fächerübergreifender_unterricht__id>,
-        <lehrerzentrierter_unterricht_id>,
-        <polytechnischer_unterricht__id>,
-        <schülerzentrierter_unterricht__id> ;
+paedagogik:fe5c793e-22f7-4c9b-9d7b-4b0ee0df7057 a skos:Concept ;
+    skos:broader paedagogik:505fd740-6adb-4def-af9a-dac54ba8c791 ;
+    skos:inScheme paedagogik: ;
+    skos:narrower paedagogik:77bf0976-dc16-4666-a0e1-5112f98252a9,
+        paedagogik:a7eb86ca-a42a-40ae-bbba-dc31adf80b5a,
+        paedagogik:b284e6ca-a790-4b6c-a2ad-b7d81cfe2e75,
+        paedagogik:c4644f92-148b-4aa0-990e-fff4a604c48b,
+        paedagogik:cb51a084-6770-46ee-96d2-ef3aa49074e9,
+        paedagogik:eaceb322-87fc-47d4-b4a4-45328e04aff9,
+        paedagogik:fb55ae56-d589-4b27-a8db-8f646e4b5e92 ;
     skos:prefLabel "Unterrichtsmethode"@de .
 
-<unterricht_id> a skos:Concept ;
-    skos:broader <bildungssystem_id> ;
-    skos:inScheme <> ;
-    skos:narrower <analyse_unterrichtsmethode_id>,
-        <bilingualer_unterricht_id>,
-        <deutschunterricht_id>,
-        <kunstunterricht_id>,
-        <lehrverfahren_id>,
-        <sportdidaktik_id>,
-        <sprachunterricht_pädagogik_id>,
-        <unterrichtsmaterial_id>,
-        <unterrichtsmethode_id>,
-        <unterrichtsmodul_id>,
-        <unterrichtsplanung_id> ;
+paedagogik:505fd740-6adb-4def-af9a-dac54ba8c791 a skos:Concept ;
+    skos:broader paedagogik:c8dbbcea-f1cc-445a-9951-c19a383c9a42 ;
+    skos:inScheme paedagogik: ;
+    skos:narrower paedagogik:15dbe0ec-5953-457d-b060-11855632a3c3,
+        paedagogik:29360624-b791-44b3-9c2a-08822e825208,
+        paedagogik:42d35094-3317-41cd-a633-42fb82aae58d,
+        paedagogik:4a412842-34a5-4ee4-af15-fef68db9e4dc,
+        paedagogik:52a6943e-249e-4571-90d5-b5510a31dc0d,
+        paedagogik:5e151202-9993-4b9c-8ef9-7af573ec70aa,
+        paedagogik:772a647f-ee2b-4e4f-9aa3-4b7e648ac653,
+        paedagogik:a871cc7d-363f-43b7-9a96-a4e2b10dbe5d,
+        paedagogik:e1889f7f-6c48-44bd-8cb9-27240ff9c7f7,
+        paedagogik:e88421bb-c39f-4df3-a2c6-1c35c75ace42,
+        paedagogik:fe5c793e-22f7-4c9b-9d7b-4b0ee0df7057 ;
     skos:prefLabel "Unterricht"@de .
 
-<erziehung_id> a skos:Concept ;
-    skos:broader <bildungssystem_id> ;
-    skos:inScheme <> ;
-    skos:narrower <autorität_id>,
-        <bilinguale_erziehung__id>,
-        <erziehungsproblem_id>,
-        <erziehungsstil_id>,
-        <fernseherziehung_id>,
-        <heimerziehung_id>,
-        <lehrerschülerbeziehung_id>,
-        <lehrerverhalten_id>,
-        <milgramexperiment_id>,
-        <schülerschülerbeziehung_id>,
-        <schülerverhalten_id>,
-        <spielverhalten_kind_id>,
-        <strafe_allgemein_id>,
-        <umwelterziehung_id> ;
+paedagogik:598f1d61-e2cd-4d81-8a3f-04735f40bdba a skos:Concept ;
+    skos:broader paedagogik:c8dbbcea-f1cc-445a-9951-c19a383c9a42 ;
+    skos:inScheme paedagogik: ;
+    skos:narrower paedagogik:13cccb37-acfc-4a42-bd78-1b16e494aa5e,
+        paedagogik:28ff584f-519d-4676-9c88-ed08aa617fd0,
+        paedagogik:6ad151a6-91e2-48cb-8279-f97e249b474c,
+        paedagogik:6d8ab376-5286-4843-b026-a04c63cef0e5,
+        paedagogik:7110c2a4-f190-411c-952a-49ccb4ab118e,
+        paedagogik:7f5c91ff-7fb3-47ab-864e-00bc88faafec,
+        paedagogik:8c423279-cf5a-4364-adc1-ec026a5241e4,
+        paedagogik:a5af6fd2-8ad5-49f4-83fc-864331f46dd3,
+        paedagogik:b36f152c-e702-4ed6-a0fa-3d5e4ec9f1fe,
+        paedagogik:c04992e6-95ee-4155-844a-f13a66556033,
+        paedagogik:c055ef5a-0d80-4dca-befe-6b0d626e6674,
+        paedagogik:c4f93697-8c7b-4b4e-a9e0-e601b6b67bea,
+        paedagogik:e2dd753c-c93b-4df4-adf9-ee6549852744,
+        paedagogik:fce0f36e-21d2-45f2-a189-1968a6f3e2e1 ;
     skos:prefLabel "Erziehung"@de .
 
-<bildung_id> a skos:Concept ;
-    skos:broader <bildungssystem_id> ;
-    skos:inScheme <> ;
-    skos:narrower <abstraktion_id>,
-        <arbeitsblatt_id>,
-        <aufmerksamkeit_id>,
-        <begabung_id>,
-        <blackbox_kybernetik_id>,
-        <elearning_id>,
-        <gruppenarbeit_id>,
-        <hausaufgabe_id>,
-        <konzentration_psychologie_id>,
-        <lehrerbildung_id>,
-        <lernhilfe_id>,
-        <lernschwierigkeit_id>,
-        <projektarbeit_id>,
-        <rollenspiel_id>,
-        <suggestopädie_id>,
-        <weiterbildung_id> ;
+paedagogik:8f278da9-8749-4be7-8565-461c0661f713 a skos:Concept ;
+    skos:broader paedagogik:c8dbbcea-f1cc-445a-9951-c19a383c9a42 ;
+    skos:inScheme paedagogik: ;
+    skos:narrower paedagogik:2aa44399-5d00-4f63-905c-24626261131b,
+        paedagogik:3f979cac-d157-495f-a920-0139156f906b,
+        paedagogik:5a4fa9be-262c-44e1-a12d-9768906fd4b1,
+        paedagogik:5fa0d57a-3808-4a74-8943-591b754df3dc,
+        paedagogik:61d4dda8-fbe1-4b26-ab87-45f66ed2427f,
+        paedagogik:75eae122-94e3-43bb-b09a-e08036304796,
+        paedagogik:83ce2492-7ff3-462c-b21b-0206e4e51975,
+        paedagogik:8aed14a4-ab83-49a7-915d-bd12136f32af,
+        paedagogik:984795d1-77cb-4966-ab39-2acfad5e9e4e,
+        paedagogik:996c5297-35e3-4a39-a9b8-f8702dd9bd4a,
+        paedagogik:9ab1c343-1994-433e-a880-1bfbed1a2a0c,
+        paedagogik:b17c85fc-d4e3-4973-978a-b1568c9a54d3,
+        paedagogik:ce7f704f-5993-4642-9c4c-f4f970781ade,
+        paedagogik:d84774f2-8190-4426-9a9f-660d79dea586,
+        paedagogik:e7bbec47-118b-4aa4-86a6-4db185c3ada4,
+        paedagogik:efc0a67a-4d9d-4705-8483-056fcb1eb4a9 ;
     skos:prefLabel "Bildung"@de .
 
-<schule_id> a skos:Concept ;
-    skos:broader <bildungseinrichtung_id> ;
-    skos:inScheme <> ;
-    skos:narrower <berufsschule_id>,
-        <college_id>,
-        <dorfschule_id>,
-        <fernstudium_id>,
-        <gesamtschule_id>,
-        <grundschule_id>,
-        <gymnasium_id>,
-        <hauptschule_id>,
-        <hausunterricht_id>,
-        <hochschule_id>,
-        <internat_id>,
-        <klassenzimmer_id>,
-        <musikschule_id>,
-        <realschule_id>,
-        <schule_ausland_id>,
-        <schule_geschichte_id>,
-        <schullandheim_id>,
-        <sonderschule_id>,
-        <waldorfschule_id> ;
+paedagogik:ad55ef6c-a81e-45ec-bc11-be406c1bdfe2 a skos:Concept ;
+    skos:broader paedagogik:9eea9cf4-f737-4c24-8bcb-cc2b07968f50 ;
+    skos:inScheme paedagogik: ;
+    skos:narrower paedagogik:1069574a-5887-42c4-ab12-167c540ad541,
+        paedagogik:1c936951-72b0-420a-a9e5-4af9faba9ada,
+        paedagogik:39a5310f-75e5-41c9-a8ef-c556957df179,
+        paedagogik:3c0baf24-0acf-4e55-b813-345e45d26ff3,
+        paedagogik:3d96fef0-6714-4e81-acb5-f0a03940548e,
+        paedagogik:426db9fb-8727-46e9-ade1-a63d8eeba8d0,
+        paedagogik:430900f2-4a4c-46d8-bfbc-b9bf710be2c2,
+        paedagogik:43f71f7c-71e1-442c-bc2a-498251b6bc00,
+        paedagogik:490e4807-57f7-4226-9550-e954eb6bccb9,
+        paedagogik:60b68707-fe46-47de-9b2d-17255c5282c7,
+        paedagogik:661aaea3-222b-45cb-b980-ebdcf8c0a58d,
+        paedagogik:7d2f4394-e291-4220-9091-a1f736abcf93,
+        paedagogik:8143e2bf-7355-4e9b-85e0-74e91a8b96c3,
+        paedagogik:85e3949f-c475-465f-890f-78fb3d70bf02,
+        paedagogik:8f737511-5d3f-4d50-b8d4-08b805c7a8a1,
+        paedagogik:ba62778c-88b1-42dd-8b04-e3905ca4c854,
+        paedagogik:de20f1ba-7478-4d2c-8bc6-3dc4c2de050d,
+        paedagogik:e9920c7e-9ab0-43bd-8977-a339c332b66e,
+        paedagogik:fdd57b4e-f317-457e-b8f8-44d8224c7683 ;
     skos:prefLabel "Schule"@de .
 
-<bildungssystem_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <bildung_id>,
-        <bildungseinrichtung_id>,
-        <chancengleichheit_id>,
-        <curriculum_id>,
-        <duale_berufsausbildung_id>,
-        <einschulung_id>,
-        <entwicklungspsychologie_id>,
-        <erziehung_id>,
-        <interkulturelles_lernen_id>,
-        <kindertagesstätte_id>,
-        <klasse_schule_id>,
-        <mobbing_id>,
-        <prüfung_id>,
-        <pädagogik_id>,
-        <schulfernsehen_id>,
-        <schulhof_id>,
-        <schulpflicht_id>,
-        <schulreform_id>,
-        <schüleraustausch_id>,
-        <schülermitverantwortung_id>,
-        <sozialkunde_id>,
-        <streitschlichtung_schule_id>,
-        <student_id>,
-        <unterricht_id> ;
+paedagogik:c8dbbcea-f1cc-445a-9951-c19a383c9a42 a skos:Concept ;
+    skos:inScheme paedagogik: ;
+    skos:narrower paedagogik:0d638b46-c9e1-4daa-809a-61cd011a8a82,
+        paedagogik:0f77d247-5dc9-4736-ad52-6546f7d0fc5e,
+        paedagogik:1b0702db-9dce-495b-aca0-a30fabfc8cb3,
+        paedagogik:505fd740-6adb-4def-af9a-dac54ba8c791,
+        paedagogik:535db582-2009-4634-9748-3d2b30fab293,
+        paedagogik:58d90411-c263-462a-a2b0-93156c3a1628,
+        paedagogik:598f1d61-e2cd-4d81-8a3f-04735f40bdba,
+        paedagogik:5b039010-7e46-4d2a-ac89-23dc607312c1,
+        paedagogik:741212a1-2710-4977-9fb9-7ec82566c62d,
+        paedagogik:7719da35-043c-4cf5-b35e-f9c14cba009b,
+        paedagogik:7d006a96-74d8-4ac8-9fb2-02f0693d796d,
+        paedagogik:83a757fa-2926-423a-8ba7-3ee50f5c6c1c,
+        paedagogik:8f278da9-8749-4be7-8565-461c0661f713,
+        paedagogik:9cf3a681-96cd-45bc-b4d8-1e89e69772fe,
+        paedagogik:9eea9cf4-f737-4c24-8bcb-cc2b07968f50,
+        paedagogik:a1dd0d1b-3bc3-4bc2-a190-c3d33bca6ca9,
+        paedagogik:a5a99fa8-cff1-48dd-83c9-55f1310e72b0,
+        paedagogik:a82757d5-0662-4a27-98b4-7211b75fe825,
+        paedagogik:ac1eca26-7472-4550-99c1-42d8e20298dc,
+        paedagogik:b69f027b-1bba-4874-aa5b-b1aa5cb55377,
+        paedagogik:c7b9c360-30a8-4954-a568-866dc6fe72f3,
+        paedagogik:d5e9685d-4e81-4020-af0c-56a1b17e11d1,
+        paedagogik:dbdf0191-7f9d-47a5-9eab-6b30698caa8b,
+        paedagogik:f4747ad0-eb7c-4faa-9583-349ad2b48366 ;
     skos:prefLabel "Bildungssystem"@de ;
-    skos:topConceptOf <> .
+    skos:topConceptOf paedagogik: .
 
-<personen_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <ballauff__theodor_id>,
-        <blankertz__herwig_id>,
-        <bollnow__otto_friedrich_id>,
-        <brezinka__wolfgang_id>,
-        <comeniua__johann_amos_id>,
-        <freinet__celestin_id>,
-        <fröbel__friedrich_id>,
-        <guts_muths__johann_christoph_friedrich_id>,
-        <hentig__hartmut_von_id>,
-        <hirsch__betty_id>,
-        <hoffmann__heinrich_id>,
-        <jung__carl_gustav_id>,
-        <kroh__oswald_id>,
-        <köhler__wolfgang_id>,
-        <langeveld__martinus_jan_id>,
-        <lewin__kurt_id>,
-        <lietz__herrmann_id>,
-        <litt__theodor_id>,
-        <makarenko__anton_id>,
-        <melanchton__philipp_id>,
-        <metzger__wolfgang_id>,
-        <montessori__maria_id>,
-        <neill__alexander_sutherland_id>,
-        <pestalozzi__johann_heinrich_id>,
-        <petersen__peter_id>,
-        <roth__heirich_id>,
-        <wagenschein__martin_id>,
-        <wyneken__gustav_id> ;
+paedagogik:9d8a33f1-b031-4f48-b8c7-c5673ab106bf a skos:Concept ;
+    skos:inScheme paedagogik: ;
+    skos:narrower paedagogik:0721c6c5-6fa5-471f-a9b2-a4b2668679cf,
+        paedagogik:13743691-96da-4a73-87cb-9053b83e1abf,
+        paedagogik:18632e2c-fedc-4f9b-a075-9668853c3769,
+        paedagogik:1a9a6cac-08ee-4dfe-8681-1bb65c36912d,
+        paedagogik:23c8f79d-cb09-4132-a805-19a446fa0247,
+        paedagogik:2737569e-6d22-41fe-b32a-6e4125f58135,
+        paedagogik:3c054720-3bd3-4f28-8399-e4ac685aa3fa,
+        paedagogik:3dd6d929-538f-4dff-8f03-2a4eab42f947,
+        paedagogik:411378e8-aecc-4cfc-a891-c7e45e7bbf2c,
+        paedagogik:5c42df54-b84d-4ec7-a308-5b57ce018f22,
+        paedagogik:631617a4-e6aa-4579-9119-1133c20b17b2,
+        paedagogik:80748564-5c48-443f-998f-22359bfc4c33,
+        paedagogik:8708b234-63bc-47de-930c-ae5c244cc4e6,
+        paedagogik:8fdbfd80-2ae2-4969-a17e-aeadad4ba6b8,
+        paedagogik:9a65d894-6d6a-4907-9b9d-c969aeece31d,
+        paedagogik:9bc95152-8329-4797-985a-9d678e04f944,
+        paedagogik:9fcbadc3-b6ab-43cb-b6fe-6127691413c5,
+        paedagogik:a4c9ea20-5f88-49d5-957b-e17c54436b65,
+        paedagogik:af11c585-0da3-4165-83a6-324d99a3b060,
+        paedagogik:b055187b-e530-4e8a-8d9c-82e186fbc45f,
+        paedagogik:b74311e6-5a40-4d53-9abe-8bbff83374ba,
+        paedagogik:c9346148-03f9-45bc-a305-bd7705aa3c95,
+        paedagogik:cd1d8a40-fce2-4577-b133-3fae760696c6,
+        paedagogik:d38c738c-25c5-4201-9375-32db9d7fae9e,
+        paedagogik:d41c90a4-ba0e-41c4-9488-09bd11458d27,
+        paedagogik:e367049d-9803-43cd-8925-8af051f3ad0c,
+        paedagogik:eaaafe88-f451-4dd8-8b26-acc37b3a4b6e,
+        paedagogik:f1b27e7b-d0aa-4f8b-9ac2-0e0059b8ea58 ;
     skos:prefLabel "Personen"@de ;
-    skos:topConceptOf <> .
+    skos:topConceptOf paedagogik: .
 
-<> a skos:ConceptScheme ;
+paedagogik: a skos:ConceptScheme ;
     dct:creator "<https://creator.com>" ;
-    dct:description "paedagogik_systematik"@de ;
-    dct:title "paedagogik_systematik"@de ;
-    skos:hasTopConcept <benposta_id>,
-        <bildungssystem_id>,
-        <helenelangeschule_wiesbaden_id>,
-        <jugend_forscht_id>,
-        <kinderbild_id>,
-        <kinderdorf_id>,
-        <kriegsspielzeug_id>,
-        <personen_id> .
+    dct:description "paedagogik"@de ;
+    dct:title "paedagogik"@de ;
+    skos:hasTopConcept paedagogik:3ecfe12b-6281-47b9-8ebc-d80748f3d393,
+        paedagogik:76b6679b-3d09-4fc0-bf8f-467f9f63a543,
+        paedagogik:9d8a33f1-b031-4f48-b8c7-c5673ab106bf,
+        paedagogik:a8570105-a66e-4732-8234-d6d95f6ed555,
+        paedagogik:b8e49500-5221-4a0c-abb5-e19803264b1a,
+        paedagogik:bf161d7d-9f68-42dc-a09f-1ba830ba2711,
+        paedagogik:c8dbbcea-f1cc-445a-9951-c19a383c9a42,
+        paedagogik:ec1dab00-25c5-4e3d-a713-6eb890007088 .
 

@@ -1,2037 +1,2037 @@
-@base <https://example-perma-id/religion_systematik/> .
 @prefix dct: <http://purl.org/dc/terms/> .
+@prefix religion: <http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<aaron_biblische_gestalt_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Aaron (biblische Gestalt)"@de .
-
-<abel_biblische_gestalt_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Abel (biblische Gestalt)"@de .
-
-<abendmahl_id> a skos:Concept ;
-    skos:broader <eucharistie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Abendmahl"@de .
-
-<aberglaube_id> a skos:Concept ;
-    skos:broader <glaube_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Aberglaube"@de .
-
-<ablasshandel_id> a skos:Concept ;
-    skos:broader <reformation_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Ablasshandel"@de .
-
-<abraham_biblische_gestalt_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Abraham (biblische Gestalt)"@de .
-
-<absalom_biblische_gestalt_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Absalom (biblische Gestalt)"@de .
-
-<adam_biblische_gestalt_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Adam (biblische Gestalt)"@de .
-
-<advent_id> a skos:Concept ;
-    skos:broader <kirchenjahr_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Advent"@de .
-
-<albertz__heinrich_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Albertz, Heinrich"@de .
-
-<altarbild_id> a skos:Concept ;
-    skos:broader <altar_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Altarbild"@de .
-
-<amos_biblische_gestalt_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Amos (biblische Gestalt)"@de .
-
-<atheismus_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Atheismus"@de .
-
-<auferstehung_christi_id> a skos:Concept ;
-    skos:broader <biblische_erzählung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Auferstehung Christi"@de .
-
-<augustiner_kirchlicher_orden_id> a skos:Concept ;
-    skos:broader <mönchtum_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Augustiner (kirchlicher Orden)"@de .
-
-<bahr__petra_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Bahr, Petra"@de .
-
-<baptisten_id> a skos:Concept ;
-    skos:broader <freikirche_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Baptisten"@de .
-
-<barth__karl_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Barth, Karl"@de .
-
-<bartimäus_biblische_gestalt_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Bartimäus (biblische Gestalt)"@de .
-
-<basisgemeinde_id> a skos:Concept ;
-    skos:broader <befreiungstheologie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Basisgemeinde"@de .
-
-<bekennende_kirche_id> a skos:Concept ;
-    skos:broader <evangelische_kirche_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Bekennende Kirche"@de .
-
-<benedikt_von_nursia_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Benedikt von Nursia"@de .
-
-<benedikt_xvi._papst_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Benedikt XVI. (Papst)"@de .
-
-<benediktiner_id> a skos:Concept ;
-    skos:broader <mönchtum_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Benediktiner"@de .
-
-<benjamin_biblische_gestalt_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Benjamin (Biblische Gestalt)"@de .
-
-<bergpredigt_id> a skos:Concept ;
-    skos:broader <neues_testament_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Bergpredigt"@de .
-
-<bernhard_von_clairvaux_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Bernhard von Clairvaux"@de .
-
-<bernward_von_hildesheim_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Bernward von Hildesheim"@de .
-
-<beschneidung_genitalien_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Beschneidung (Genitalien)"@de .
-
-<beyers_naude__christian_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Beyers Naude, Christian"@de .
-
-<bhagwan_id> a skos:Concept ;
-    skos:broader <jugendreligion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Bhagwan"@de .
-
-<bibelgesellschaften_id> a skos:Concept ;
-    skos:broader <bibel_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Bibelgesellschaften"@de .
-
-<bibelübersetzung_id> a skos:Concept ;
-    skos:broader <bibel_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Bibelübersetzung"@de .
-
-<birndorfer__johann_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Birndorfer, Johann"@de .
-
-<bodelschwingh__friedrich_von__der_ältere_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Bodelschwingh, Friedrich von, der Ältere"@de .
-
-<boff__leonardo_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Boff, Leonardo"@de .
-
-<bonhoeffer__dietrich_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Bonhoeffer, Dietrich"@de .
-
-<bonifatius_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Bonifatius"@de .
-
-<bora__katharina_von_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Bora, Katharina von"@de .
-
-<bosco__don_giovanni_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Bosco, Don Giovanni"@de .
-
-<brenz__johannes_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Brenz, Johannes"@de .
-
-<buber__martin_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Buber, Martin"@de .
-
-<calvin__johannes_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Calvin, Johannes"@de .
-
-<camara__dom_helder_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Camara, Dom Helder"@de .
-
-<caritas_id> a skos:Concept ;
-    skos:broader <katholische_kirche_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Caritas"@de .
-
-<chardin__pierre_teilhard_de_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Chardin, Pierre Teilhard de"@de .
-
-<christliche_lebensgestaltung_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Christliche Lebensgestaltung"@de .
-
-<christlicher_fundamentalismus_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Christlicher Fundamentalismus"@de .
-
-<christusbild_id> a skos:Concept ;
-    skos:broader <jesus_christus_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Christusbild"@de .
-
-<citeaux_id> a skos:Concept ;
-    skos:broader <kloster_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Citeaux"@de .
-
-<dalai_lama_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Dalai Lama"@de .
-
-<daniel_biblische_gestalt_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Daniel (biblische Gestalt)"@de .
-
-<daoismus_id> a skos:Concept ;
-    skos:broader <weltreligion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Daoismus"@de .
-
-<david_biblische_gestalt_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "David (biblische Gestalt)"@de .
-
-<delp__alfred_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Delp, Alfred"@de .
-
-<deutsche_christen_id> a skos:Concept ;
-    skos:broader <evangelische_kirche_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Deutsche Christen"@de .
-
-<diakonie_id> a skos:Concept ;
-    skos:broader <evangelische_kirche_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Diakonie"@de .
-
-<dominikaner_kirchlicher_orden_id> a skos:Concept ;
-    skos:broader <mönchtum_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Dominikaner (kirchlicher Orden)"@de .
-
-<drei_könige_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Drei Könige"@de .
-
-<drewermann__euen_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Drewermann, Euen"@de .
-
-<elias_biblische_gestalt_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Elias (biblische Gestalt)"@de .
-
-<elisabeth_biblische_gestalt_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Elisabeth (biblische Gestalt)"@de .
-
-<elisabeth_heilige_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Elisabeth (Heilige)"@de .
-
-<elisäus_biblische_gestalt_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Elisäus (biblische Gestalt)"@de .
-
-<engel_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Engel"@de .
-
-<enomiyalassalle__hugo_makibi_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "EnomiyaLassalle, Hugo Makibi"@de .
-
-<erasmus_von_rotterdam_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Erasmus von Rotterdam"@de .
-
-<erntedankfest_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Erntedankfest"@de .
-
-<ersatzreligion_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Ersatzreligion"@de .
-
-<esau_biblische_gestalt_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Esau (biblische Gestalt)"@de .
-
-<eva_biblische_gestalt_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Eva (biblische Gestalt)"@de .
-
-<evangelische_kirche_in_deutschland_id> a skos:Concept ;
-    skos:broader <evangelische_kirche_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Evangelische Kirche in Deutschland"@de .
-
-<evangelium_id> a skos:Concept ;
-    skos:broader <neues_testament_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Evangelium"@de .
-
-<exodus_id> a skos:Concept ;
-    skos:broader <biblische_erzählung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Exodus"@de .
-
-<fastenzeit_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Fastenzeit"@de .
-
-<fatima_id> a skos:Concept ;
-    skos:broader <wallfahrtsort_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Fatima"@de .
-
-<faulhaber__michael_von_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Faulhaber, Michael von"@de .
-
-<fetisch_id> a skos:Concept ;
-    skos:broader <stammesreligion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Fetisch"@de .
-
-<firmung_id> a skos:Concept ;
-    skos:broader <sakrament_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Firmung"@de .
-
-<fliedner__theodor_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Fliedner, Theodor"@de .
-
-<florian_heiliger_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Florian (Heiliger)"@de .
-
-<franz_von_assisi_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Franz von Assisi"@de .
-
-<franziskaner_kirchlicher_orden_id> a skos:Concept ;
-    skos:broader <mönchtum_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Franziskaner (kirchlicher Orden)"@de .
-
-<franziskus_papst_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Franziskus (Papst)"@de .
-
-<frömmigkeit_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Frömmigkeit"@de .
-
-<gebet_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Gebet"@de .
-
-<gegenreformation_id> a skos:Concept ;
-    skos:broader <kirchengeschichte_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Gegenreformation"@de .
-
-<gerstenmaier__eugen_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Gerstenmaier, Eugen"@de .
-
-<gesellschaft_jesu_id> a skos:Concept ;
-    skos:broader <mönchtum_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Gesellschaft Jesu"@de .
-
-<gideon_biblische_gestalt_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Gideon (biblische Gestalt)"@de .
-
-<golgatha_id> a skos:Concept ;
-    skos:broader <biblische_stätte_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Golgatha"@de .
-
-<goliath_biblische_gestalt_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Goliath (biblische Gestalt)"@de .
-
-<gottesbeweis_id> a skos:Concept ;
-    skos:broader <gott_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Gottesbeweis"@de .
-
-<gröb__wilhelm_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Gröb, Wilhelm"@de .
-
-<hagar_biblische_gestalt_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Hagar (biblische Gestalt)"@de .
-
-<hahn__philipp_matthias_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Hahn, Philipp Matthias"@de .
-
-<hammer__hans_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Hammer, Hans"@de .
-
-<hedwig_von_schlesien_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Hedwig von Schlesien"@de .
-
-<heiligenlegende_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Heiligenlegende"@de .
-
-<heiliger_geist_id> a skos:Concept ;
-    skos:broader <gott_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Heiliger Geist"@de .
-
-<heiliger_id> a skos:Concept ;
-    skos:broader <befreiungstheologie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Heiliger"@de .
-
-<heilsgeschichte_id> a skos:Concept ;
-    skos:broader <biblische_erzählung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Heilsgeschichte"@de .
-
-<herodes_biblische_gestalt_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Herodes (biblische Gestalt)"@de .
-
-<hildegard_von_bingen_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Hildegard von Bingen"@de .
-
-<hiob_biblische_gestalt_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Hiob (biblische Gestalt)"@de .
-
-<hugenotten_id> a skos:Concept ;
-    skos:broader <kirchengeschichte_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Hugenotten"@de .
-
-<hölle_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Hölle"@de .
-
-<inquisition_id> a skos:Concept ;
-    skos:broader <kirchengeschichte_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Inquisition"@de .
-
-<intelligent_design_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Intelligent Design"@de .
-
-<interreligiöser_dialog_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Interreligiöser Dialog"@de .
-
-<isaak_biblische_gestalt_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Isaak (biblische Gestalt)"@de .
-
-<islamisierung_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Islamisierung"@de .
-
-<ismael_biblische_gestalt_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Ismael (biblische Gestalt)"@de .
-
-<jahwe_id> a skos:Concept ;
-    skos:broader <gott_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Jahwe"@de .
-
-<jairus_biblische_gestalt_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Jairus (biblische Gestalt)"@de .
-
-<jakob_biblische_gestalt_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Jakob (biblische Gestalt)"@de .
-
-<jan_hus_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Jan Hus"@de .
-
-<jaspers__karl_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Jaspers, Karl"@de .
-
-<jenseits_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Jenseits"@de .
-
-<jeremia_biblische_gestalt_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Jeremia (biblische Gestalt)"@de .
-
-<jesus_people_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Jesus People"@de .
-
-<johannes_der_täufer_biblische_gestalt_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Johannes der Täufer (biblische Gestalt)"@de .
-
-<johannes_evangelist_id> a skos:Concept ;
-    skos:broader <apostel_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Johannes (Evangelist)"@de .
-
-<johannes_paul_i._papst_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Johannes Paul I. (Papst)"@de .
-
-<johannes_paul_ii._papst_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Johannes Paul II. (Papst)"@de .
-
-<johannes_xxiii._papst_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Johannes XXIII. (Papst)"@de .
-
-<jonas_biblische_gestalt_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Jonas (biblische Gestalt)"@de .
-
-<joseph_biblische_gestalt_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Joseph (biblische Gestalt)"@de .
-
-<joseph_gatte_marias__biblische_gestalt_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Joseph (Gatte Marias, biblische Gestalt)"@de .
-
-<josua_biblische_gestalt_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Josua (biblische Gestalt)"@de .
-
-<juchli__liliane_schwester_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Juchli, Liliane (Schwester)"@de .
-
-<juda_id> a skos:Concept ;
-    skos:broader <biblische_stätte_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Juda"@de .
-
-<judas_biblische_gestalt_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Judas (biblische Gestalt)"@de .
-
-<juden_id> a skos:Concept ;
-    skos:broader <judentum_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Juden"@de .
-
-<judenmission_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Judenmission"@de .
-
-<jägerstätter__franz_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Jägerstätter, Franz"@de .
-
-<kain_biblische_gestalt_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kain (biblische Gestalt)"@de .
-
-<kanaan_id> a skos:Concept ;
-    skos:broader <biblische_stätte_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kanaan"@de .
-
-<karwoche_id> a skos:Concept ;
-    skos:broader <kirchenjahr_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Karwoche"@de .
-
-<katharina_von_siena_heilige_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Katharina von Siena Heilige)"@de .
-
-<katholizismus_id> a skos:Concept ;
-    skos:broader <theologie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Katholizismus"@de .
-
-<ketzer_id> a skos:Concept ;
-    skos:broader <kirchengeschichte_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Ketzer"@de .
-
-<kierkegaard__sören_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kierkegaard, Sören"@de .
-
-<kirchengemeinde_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kirchengemeinde"@de .
-
-<kirchensteuer_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kirchensteuer"@de ;
-    skos:topConceptOf <> .
-
-<klerus_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Klerus"@de .
-
-<kloster_beuron_id> a skos:Concept ;
-    skos:broader <kloster_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kloster Beuron"@de .
-
-<klosterleben_id> a skos:Concept ;
-    skos:broader <kloster_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Klosterleben"@de .
-
-<knobloch__cahrlotte_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Knobloch, Cahrlotte"@de .
-
-<kollekte_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kollekte"@de .
-
-<kolping__adolph_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kolping, Adolph"@de .
-
-<konfirmation_id> a skos:Concept ;
-    skos:broader <religiöse_tradition_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Konfirmation"@de .
-
-<konfuzianismus_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Konfuzianismus"@de .
-
-<konstantinische_wende_id> a skos:Concept ;
-    skos:broader <christentum_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Konstantinische Wende"@de .
-
-<konzil_id> a skos:Concept ;
-    skos:broader <kirchengeschichte_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Konzil"@de .
-
-<kopten_id> a skos:Concept ;
-    skos:broader <freikirche_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kopten"@de .
-
-<koran_id> a skos:Concept ;
-    skos:broader <islam_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Koran"@de .
-
-<kreationismus_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kreationismus"@de .
-
-<kreuz_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kreuz"@de .
-
-<kreuzigung_christi_id> a skos:Concept ;
-    skos:broader <passion_jesu_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kreuzigung Christi"@de .
-
-<kreuzweg_id> a skos:Concept ;
-    skos:broader <passion_jesu_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kreuzweg"@de .
-
-<krippe_weihnachten_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Krippe (Weihnachten)"@de .
-
-<kräutler__erwin_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kräutler, Erwin"@de .
-
-<kult_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kult"@de .
-
-<könig__franz_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "König, Franz"@de .
-
-<lamaismus_id> a skos:Concept ;
-    skos:broader <buddhismus_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Lamaismus"@de .
-
-<lavater__johann_caspar_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Lavater, Johann Caspar"@de .
-
-<lazarus_biblische_gestalt_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Lazarus (biblische Gestalt)"@de .
-
-<lichtenberg__bernhard_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Lichtenberg, Bernhard"@de .
-
-<lot_biblische_gestalt_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Lot (biblische Gestalt)"@de .
-
-<loyola__ignatius_von_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Loyola, Ignatius von"@de .
-
-<lukas_evangelist_id> a skos:Concept ;
-    skos:broader <apostel_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Lukas (Evangelist)"@de .
-
-<luther__martin_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Luther, Martin"@de .
-
-<löhe__johann_konrad_wilhelem_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Löhe, Johann Konrad Wilhelem"@de .
-
-<magie_id> a skos:Concept ;
-    skos:broader <okkultismus_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Magie"@de .
-
-<mallinckrodt__pauline_von_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Mallinckrodt, Pauline von"@de .
-
-<maria_biblische_gestalt_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Maria (biblische Gestalt)"@de .
-
-<markus_evangelist_id> a skos:Concept ;
-    skos:broader <apostel_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Markus (Evangelist)"@de .
-
-<matthäus_evangelist_id> a skos:Concept ;
-    skos:broader <apostel_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Matthäus (Evangelist)"@de .
-
-<meditation_zu_religiöser_kunst_id> a skos:Concept ;
-    skos:broader <meditation_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Meditation zu religiöser Kunst"@de .
-
-<mohammed_stifter_des_islam_id> a skos:Concept ;
-    skos:broader <islam_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Mohammed (Stifter des Islam)"@de .
-
-<moltmann__jürgen_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Moltmann, Jürgen"@de .
-
-<moschee_id> a skos:Concept ;
-    skos:broader <islam_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Moschee"@de .
-
-<moses_biblische_gestalt_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Moses (biblische Gestalt)"@de .
-
-<muslim_id> a skos:Concept ;
-    skos:broader <islam_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Muslim"@de .
-
-<mutter_teresa_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Mutter Teresa"@de .
-
-<mysterienspiel_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Mysterienspiel"@de .
-
-<mystik_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Mystik"@de .
-
-<münster__sebastian_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Münster, Sebastian"@de .
-
-<müntzer__thomas_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Müntzer, Thomas"@de .
-
-<nachfolge_jesus_christus_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Nachfolge Jesus Christus"@de .
-
-<new_age_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "New Age"@de .
-
-<niemöller__martin_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Niemöller, Martin"@de .
-
-<nikolaus_heiliger_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Nikolaus (Heiliger)"@de .
-
-<noah_biblische_gestalt_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Noah (biblische Gestalt)"@de .
-
-<nonne_id> a skos:Concept ;
-    skos:broader <orden_kirche_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Nonne"@de .
-
-<ostern_id> a skos:Concept ;
-    skos:broader <kirchenjahr_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Ostern"@de .
-
-<ostkirchen_id> a skos:Concept ;
-    skos:broader <kirche_christenheit_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Ostkirchen"@de .
-
-<pagode_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Pagode"@de .
-
-<pallotti__vincenzo_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Pallotti, Vincenzo"@de .
-
-<palmsonntag_id> a skos:Concept ;
-    skos:broader <kirchenjahr_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Palmsonntag"@de .
-
-<papst_id> a skos:Concept ;
-    skos:broader <katholische_kirche_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Papst"@de .
-
-<paradies_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Paradies"@de .
-
-<passahfest_id> a skos:Concept ;
-    skos:broader <judentum_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Passah-Fest"@de .
-
-<pastoralreferent_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Pastoralreferent"@de .
-
-<patriarch_erzvater_id> a skos:Concept ;
-    skos:broader <biblische_erzählung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Patriarch (Erzvater)"@de .
-
-<paul_vi._papst_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Paul VI. (Papst)"@de .
-
-<paulus_biblische_gestalt_id> a skos:Concept ;
-    skos:broader <apostel_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Paulus (biblische Gestalt)"@de .
-
-<perikopenbuch_id> a skos:Concept ;
-    skos:broader <kirchengeschichte_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Perikopenbuch"@de .
-
-<petrus_biblische_gestalt_id> a skos:Concept ;
-    skos:broader <apostel_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Petrus (biblische Gestalt)"@de .
-
-<pfarrer_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Pfarrer"@de .
-
-<pfingsten_id> a skos:Concept ;
-    skos:broader <kirchenjahr_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Pfingsten"@de .
-
-<pilatus_biblische_gestalt_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Pilatus (biblische Gestalt)"@de .
-
-<pilger_id> a skos:Concept ;
-    skos:broader <wallfahrt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Pilger"@de .
-
-<pius_xii._papst_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Pius XII. (Papst)"@de .
-
-<protestantismus_id> a skos:Concept ;
-    skos:broader <theologie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Protestantismus"@de .
-
-<prozession_id> a skos:Concept ;
-    skos:broader <gottesdienst_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Prozession"@de .
-
-<qumran_id> a skos:Concept ;
-    skos:broader <biblische_stätte_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Qumran"@de .
-
-<rebekka_biblische_gestalt_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Rebekka (biblische Gestalt)"@de .
-
-<religionsgemeinschaft_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Religionsgemeinschaft"@de .
-
-<religionskritik_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Religionskritik"@de ;
-    skos:topConceptOf <> .
-
-<romero__oscar_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Romero, Oscar"@de .
-
-<ronchamp_id> a skos:Concept ;
-    skos:broader <wallfahrtsort_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Ronchamp"@de .
-
-<roswitha_von_gandersheim_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Roswitha von Gandersheim"@de .
-
-<ruth_biblische_gestalt_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Ruth (biblische Gestalt)"@de .
-
-<sabbat_id> a skos:Concept ;
-    skos:broader <judentum_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Sabbat"@de .
-
-<salafismus_id> a skos:Concept ;
-    skos:broader <islam_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Salafismus"@de .
-
-<salesianer_id> a skos:Concept ;
-    skos:broader <mönchtum_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Salesianer"@de .
-
-<salomo_biblische_gestalt_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Salomo (biblische Gestalt)"@de .
-
-<samariter_biblische_gestalt_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Samariter (biblische Gestalt)"@de .
-
-<samuel_biblische_gestalt_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Samuel (biblische Gestalt)"@de .
-
-<sarah_biblische_gestalt_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Sarah (biblische Gestalt)"@de .
-
-<satanskult_id> a skos:Concept ;
-    skos:broader <okkultismus_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Satanskult"@de .
-
-<saul_könig__biblische_gestalt_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Saul (König, biblische Gestalt)"@de .
-
-<schiiten_id> a skos:Concept ;
-    skos:broader <islam_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Schiiten"@de .
-
-<schutz_de_taizé__frère_roger_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Schutz de Taizé, Frère Roger"@de .
-
-<schönherr__albrecht_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Schönherr, Albrecht"@de .
-
-<schöpfung_id> a skos:Concept ;
-    skos:broader <biblische_erzählung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Schöpfung"@de .
-
-<scientology_id> a skos:Concept ;
-    skos:broader <sekte_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Scientology"@de .
-
-<segen_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Segen"@de .
-
-<shintoismus_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Shintoismus"@de .
-
-<sintflut_id> a skos:Concept ;
-    skos:broader <biblische_erzählung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Sintflut"@de .
-
-<speckle__ignaz_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Speckle, Ignaz"@de .
-
-<spiritualität_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Spiritualität"@de .
-
-<stirling__robert_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Stirling, Robert"@de .
-
-<synagoge_id> a skos:Concept ;
-    skos:broader <judentum_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Synagoge"@de .
-
-<säkularisierung_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Säkularisierung"@de .
-
-<sölle__dorothee_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Sölle, Dorothee"@de .
-
-<sünde_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Sünde"@de .
-
-<taizé_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Taizé"@de .
-
-<taufe_id> a skos:Concept ;
-    skos:broader <sakrament_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Taufe"@de .
-
-<tayler__hudson_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Tayler, Hudson"@de .
-
-<tempel_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Tempel"@de .
-
-<tetzel__johannes_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Tetzel, Johannes"@de .
-
-<theodizee_id> a skos:Concept ;
-    skos:broader <christentum_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Theodizee"@de .
-
-<thomas_von_aquin_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Thomas von Aquin"@de .
-
-<thora_id> a skos:Concept ;
-    skos:broader <judentum_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Thora"@de .
-
-<tielewinckler__eva_von_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "TieleWinckler, Eva von"@de .
-
-<torres__camilo_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Torres, Camilo"@de .
-
-<totenkult_id> a skos:Concept ;
-    skos:broader <okkultismus_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Totenkult"@de .
-
-<tutu__desmond_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Tutu, Desmond"@de .
-
-<umbanda_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Umbanda"@de .
-
-<upanishaden_id> a skos:Concept ;
-    skos:broader <hinduismus_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Upanishaden"@de .
-
-<urban_ii._papst_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Urban II. (Papst)"@de .
-
-<urchristentum_id> a skos:Concept ;
-    skos:broader <kirchengeschichte_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Urchristentum"@de .
-
-<vaterunser_id> a skos:Concept ;
-    skos:broader <neues_testament_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Vaterunser"@de .
-
-<vatikan_id> a skos:Concept ;
-    skos:broader <katholische_kirche_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Vatikan"@de .
-
-<veda_id> a skos:Concept ;
-    skos:broader <hinduismus_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Veda"@de .
-
-<vereinigungskirche_id> a skos:Concept ;
-    skos:broader <sekte_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Vereinigungskirche"@de .
-
-<vergebung_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Vergebung"@de .
-
-<verkündigung_id> a skos:Concept ;
-    skos:broader <bibel_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Verkündigung"@de .
-
-<vishnu_id> a skos:Concept ;
-    skos:broader <hinduismus_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Vishnu"@de .
-
-<vision_religion_id> a skos:Concept ;
-    skos:broader <prophet_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Vision (Religion)"@de .
-
-<wahrsagen_id> a skos:Concept ;
-    skos:broader <okkultismus_id> ;
-    skos:inScheme <> ;
+religion:0006a0e2-94e5-4ad6-abc1-02c32daf0aa9 a skos:Concept ;
+    skos:broader religion:24c69257-57eb-421b-817c-0f4a754c05b0 ;
+    skos:inScheme religion: ;
     skos:prefLabel "Wahrsagen"@de .
 
-<waldenser_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Waldenser"@de .
+religion:00072dfd-5623-4888-bac3-0bda071855b7 a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Tempel"@de .
 
-<weihe_religion_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Weihe (Religion)"@de .
+religion:002ab83c-d65d-46b4-8b7d-b0dd921c7ebd a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Romero, Oscar"@de .
 
-<weihnachten_id> a skos:Concept ;
-    skos:broader <kirchenjahr_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Weihnachten"@de .
+religion:002f7fa0-68bd-4bf7-9f85-66dcf0201d11 a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "David (biblische Gestalt)"@de .
 
-<weihnachtsgeschichte_id> a skos:Concept ;
-    skos:broader <biblische_erzählung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Weihnachtsgeschichte"@de .
+religion:0039137e-9563-4ac9-89d6-5faae3204712 a skos:Concept ;
+    skos:broader religion:1e49af12-29b7-492b-a3a2-5194a3137b85 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Citeaux"@de .
 
-<weihnachtsmann_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Weihnachtsmann"@de .
-
-<weihrauch_id> a skos:Concept ;
-    skos:broader <religiöse_tradition_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Weihrauch"@de .
-
-<werner__gustav_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Werner, Gustav"@de .
-
-<wesley__john_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Wesley, John"@de .
-
-<wichern__johann_hinrich_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Wichern, Johann Hinrich"@de .
-
-<wiedergeburt_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Wiedergeburt"@de .
-
-<wiedertäufer_id> a skos:Concept ;
-    skos:broader <mennoniten_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Wiedertäufer"@de .
-
-<wunder_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Wunder"@de .
-
-<zacharias_biblische_gestalt_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Zacharias (biblische Gestalt)"@de .
-
-<zachäus_biblische_gestalt_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Zachäus (biblische Gestalt)"@de .
-
-<zehn_gebote_id> a skos:Concept ;
-    skos:broader <altes_testament_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Zehn Gebote"@de .
-
-<zelot_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Zelot"@de .
-
-<zenbuddhismus_id> a skos:Concept ;
-    skos:broader <buddhismus_id> ;
-    skos:inScheme <> ;
+religion:00ddfb2a-524f-4440-9002-8840e896d77b a skos:Concept ;
+    skos:broader religion:967d3dbc-72bd-44e6-9696-e272f1124c5b ;
+    skos:inScheme religion: ;
     skos:prefLabel "Zen-Buddhismus"@de .
 
-<zisterzienser_id> a skos:Concept ;
-    skos:broader <mönchtum_id> ;
-    skos:inScheme <> ;
+religion:017cfee0-be61-499a-a00e-de2f2865c11c a skos:Concept ;
+    skos:broader religion:97cf1b92-3459-479b-9f16-54dcb9c57bcf ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Theodizee"@de .
+
+religion:021b4647-6037-4f9b-bb95-efd785d830db a skos:Concept ;
+    skos:broader religion:5301e91d-6f26-49b1-95a3-eabaf30baff0 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Passah-Fest"@de .
+
+religion:034338af-19cd-4892-a137-f148535996e8 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Pallotti, Vincenzo"@de .
+
+religion:0370389d-a367-4261-a1ca-15c36c4b90c2 a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Isaak (biblische Gestalt)"@de .
+
+religion:03c6f741-4ccd-408f-b0aa-d98981b7dc03 a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Rebekka (biblische Gestalt)"@de .
+
+religion:05e28199-9ef5-49d3-bbc6-2688aef632c3 a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Weihnachtsmann"@de .
+
+religion:05f82ca5-6c3a-4afa-bce1-ad014c90d023 a skos:Concept ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Religionskritik"@de ;
+    skos:topConceptOf religion: .
+
+religion:06843719-04b3-4419-a360-5803d0a4561b a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Werner, Gustav"@de .
+
+religion:08495e0f-8cb2-40e7-b8d3-6e245d49b212 a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Jairus (biblische Gestalt)"@de .
+
+religion:09c73942-d036-4195-ab68-c865c114a880 a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Beschneidung (Genitalien)"@de .
+
+religion:0a0471e6-5cb0-43c6-83f2-2e4e7c32d7ef a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Taizé"@de .
+
+religion:0b92ae50-cff0-47b2-8f33-b03338e43cdc a skos:Concept ;
+    skos:broader religion:77aa5aa9-bcc8-4137-aef2-fc76c821390f ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Taufe"@de .
+
+religion:0d5b0efc-c814-479a-8c93-4cabdac4b715 a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Kirchengemeinde"@de .
+
+religion:0df10b4c-3a3b-4a18-b6f7-d41599debee0 a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Salomo (biblische Gestalt)"@de .
+
+religion:10c44723-2df9-4444-a21b-172969adabf8 a skos:Concept ;
+    skos:broader religion:e61456d6-4cd8-4a1e-b5cf-0a91d9f7213e ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Dominikaner (kirchlicher Orden)"@de .
+
+religion:124e3cff-16ce-4228-86a9-1a63748dd308 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Knobloch, Cahrlotte"@de .
+
+religion:158dc99b-7b4b-44c3-be64-3e8fae7f76f1 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Kolping, Adolph"@de .
+
+religion:161a3515-5c78-4900-827d-2e15accd5210 a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Wunder"@de .
+
+religion:163d4e4a-47e2-40b3-bbf9-ac0a71a691fc a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Frömmigkeit"@de .
+
+religion:177852bf-2a2f-4ee5-af44-03a888ef8d27 a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Abraham (biblische Gestalt)"@de .
+
+religion:177ea65c-038e-457e-8ca6-ff65f564ee1e a skos:Concept ;
+    skos:broader religion:bc526996-2530-4159-bec8-fb93ffb49db1 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Advent"@de .
+
+religion:1782bc14-4598-4494-868a-42b06a0c5795 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Schutz de Taizé, Frère Roger"@de .
+
+religion:17bb61b8-172b-40d2-ac2a-a5d69fe0c467 a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Engel"@de .
+
+religion:17e0eec7-8419-435e-8339-e0912c1f7da9 a skos:Concept ;
+    skos:broader religion:73ec76e1-57d2-4440-ae89-8db63a52e8ad ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Aberglaube"@de .
+
+religion:18c7b1e8-d27f-4f86-bb93-61269fda9ebb a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Wichern, Johann Hinrich"@de .
+
+religion:18eff1db-c697-4b0d-8fec-7cae3c10737a a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Jonas (biblische Gestalt)"@de .
+
+religion:1a8b3cfc-246e-48ea-81b6-7d338b2fe798 a skos:Concept ;
+    skos:broader religion:967d3dbc-72bd-44e6-9696-e272f1124c5b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Lamaismus"@de .
+
+religion:1a93e7a8-e714-430e-8d81-5dca6dc0e464 a skos:Concept ;
+    skos:broader religion:1b0e4385-f7b3-4154-a035-a1d0133e6d06 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Konfirmation"@de .
+
+religion:1c49af69-09b6-4f93-930a-75321b39c4de a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Ersatzreligion"@de .
+
+religion:1c6456a8-ac84-4b90-b9c3-6188e4315b95 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Barth, Karl"@de .
+
+religion:1ce70eeb-451d-4cd0-a157-190fe7f142ea a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Christlicher Fundamentalismus"@de .
+
+religion:1fee0278-9c7d-4fe0-b572-351a82059e7c a skos:Concept ;
+    skos:broader religion:f63d85e1-c8f9-4467-9ec9-492f33730c62 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Muslim"@de .
+
+religion:217c91b0-9b53-4b2c-adb7-4f5d5adb957c a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Lot (biblische Gestalt)"@de .
+
+religion:22926fb4-a308-4a39-9c1b-2645e0c029f0 a skos:Concept ;
+    skos:broader religion:7d2aad38-bf4e-44bd-92a3-b3541e0287b2 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Wiedertäufer"@de .
+
+religion:2335675e-e714-4d2d-aedf-f95f86765b29 a skos:Concept ;
+    skos:broader religion:b37c2e5e-5574-474b-8b59-f84d09380885 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Bergpredigt"@de .
+
+religion:278a86ae-ee3b-4e4f-bd04-395f8036f151 a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Eva (biblische Gestalt)"@de .
+
+religion:2a23f3fe-d820-4675-a2ae-abc7e5b8c72f a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Johannes Paul I. (Papst)"@de .
+
+religion:2afcfb84-614b-4e2f-944f-cb91730893a2 a skos:Concept ;
+    skos:broader religion:f033808c-00fe-4c8e-b565-6ac8634daa72 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Bibelübersetzung"@de .
+
+religion:2b8d825f-5753-4ea9-b81a-76d96b7f342b a skos:Concept ;
+    skos:broader religion:72480cc7-489c-4ccd-831c-feb02703c844 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Kreuzweg"@de .
+
+religion:2d45dd83-7d2f-47be-a9f4-0f7324a5738d a skos:Concept ;
+    skos:broader religion:f63d85e1-c8f9-4467-9ec9-492f33730c62 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Mohammed (Stifter des Islam)"@de .
+
+religion:2d620c90-1d07-4d93-90dc-3c93fdf9c16e a skos:Concept ;
+    skos:broader religion:1d7b675f-e6af-4dfe-89d3-5d6594e084f9 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Daoismus"@de .
+
+religion:3080b504-6764-44bf-bc62-7ad21fe6ac75 a skos:Concept ;
+    skos:broader religion:ed6004f0-e840-4a1b-9f18-d1e5f847061e ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Veda"@de .
+
+religion:31f9ed0c-0aee-4b1d-bb70-e7335a7a6bae a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Spiritualität"@de .
+
+religion:32a91f6d-388f-4cd5-b138-f02cb9182618 a skos:Concept ;
+    skos:broader religion:a4eaf766-7d6c-4992-b221-a1b879fdb47d ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Gegenreformation"@de .
+
+religion:32bc2edb-7390-44b1-8081-36b583d7de91 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "TieleWinckler, Eva von"@de .
+
+religion:3330e281-7e77-416f-855b-3caabbae87bc a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Hedwig von Schlesien"@de .
+
+religion:33b345a1-493a-43c6-b9d2-5cb5fcd3154f a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Judas (biblische Gestalt)"@de .
+
+religion:34242d94-e8e5-44c1-ba1a-d7e3f3e4973c a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Birndorfer, Johann"@de .
+
+religion:343f3745-2609-469c-946d-0385a3c630aa a skos:Concept ;
+    skos:broader religion:69b4924c-dfde-41b4-961d-cf88e6c81039 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Nonne"@de .
+
+religion:34f51d66-15dc-4368-b342-8b89cc8aab25 a skos:Concept ;
+    skos:broader religion:a4eaf766-7d6c-4992-b221-a1b879fdb47d ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Urchristentum"@de .
+
+religion:35d8e774-7217-44e7-8599-a08204cf1eac a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Daniel (biblische Gestalt)"@de .
+
+religion:35ff956f-8c8c-43a9-a50a-414883beac31 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Johannes XXIII. (Papst)"@de .
+
+religion:3619f288-afb8-4359-82e8-468425d4d1af a skos:Concept ;
+    skos:broader religion:bc526996-2530-4159-bec8-fb93ffb49db1 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Ostern"@de .
+
+religion:381ae294-e394-45a3-aaa2-9738522ed98a a skos:Concept ;
+    skos:broader religion:0e35cad7-5e6c-4d44-9b6c-4b3b1f4bbee6 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Gottesbeweis"@de .
+
+religion:387acb91-b64e-4da7-9b72-afdeb24b5021 a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Elisäus (biblische Gestalt)"@de .
+
+religion:39534a3f-c7a7-441c-b1f1-0e70bf696bbc a skos:Concept ;
+    skos:broader religion:85eb854f-1780-48f9-a018-31e16ad7ae8a ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Ablasshandel"@de .
+
+religion:39dbccfe-f90b-44f2-b9c0-f3444d05854a a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Sarah (biblische Gestalt)"@de .
+
+religion:3ab2716f-4573-416a-ae0b-ab997b696437 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Gröb, Wilhelm"@de .
+
+religion:3c737bd2-e163-4374-8f8e-6a0521e25c5f a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Erntedankfest"@de .
+
+religion:3c753760-e516-43d7-8a6c-365efcc42a06 a skos:Concept ;
+    skos:broader religion:a7ba061d-55df-4a5b-8433-74200182df5a ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Petrus (biblische Gestalt)"@de .
+
+religion:3d95ae01-c7f2-42ed-b949-960852441c3b a skos:Concept ;
+    skos:broader religion:87ab01fe-d5e3-466e-b594-2a60c92b53ff ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Auferstehung Christi"@de .
+
+religion:3dc0ef6e-199d-4325-b11d-2abd57a2f66e a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Fastenzeit"@de .
+
+religion:3e4286f4-e48a-4478-8d7c-a7a55c6b9ddd a skos:Concept ;
+    skos:broader religion:a4eaf766-7d6c-4992-b221-a1b879fdb47d ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Ketzer"@de .
+
+religion:4032dee6-4678-48b7-ba57-9634a1eaad0e a skos:Concept ;
+    skos:broader religion:16bbf90c-9378-4124-ac97-ec7c2da2a0db ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Kanaan"@de .
+
+religion:404643a2-4f3c-432d-b3a2-9a1c9e5fa9a7 a skos:Concept ;
+    skos:broader religion:e61456d6-4cd8-4a1e-b5cf-0a91d9f7213e ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Augustiner (kirchlicher Orden)"@de .
+
+religion:408471c7-e1b1-4ed6-bf19-2f576d819967 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Elisabeth (Heilige)"@de .
+
+religion:40cdf15a-9a8a-4772-9ebe-7d493c19fb4f a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Beyers Naude, Christian"@de .
+
+religion:435ee383-6986-4104-b6ea-407fd345689a a skos:Concept ;
+    skos:broader religion:5301e91d-6f26-49b1-95a3-eabaf30baff0 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Sabbat"@de .
+
+religion:43a21515-88fe-46fa-99cc-66e59bf9eff5 a skos:Concept ;
+    skos:broader religion:a7ba061d-55df-4a5b-8433-74200182df5a ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Markus (Evangelist)"@de .
+
+religion:446e20cc-af37-43db-8d82-bd0b258f1ea1 a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Samariter (biblische Gestalt)"@de .
+
+religion:44c5863a-efa6-4b87-83d7-84494a10faec a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Bonhoeffer, Dietrich"@de .
+
+religion:4575260b-2205-42fb-8087-1d18e50cd199 a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Drei Könige"@de .
+
+religion:47d74066-884f-482b-b714-f3f52629b7a8 a skos:Concept ;
+    skos:broader religion:24c69257-57eb-421b-817c-0f4a754c05b0 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Totenkult"@de .
+
+religion:4811b3bf-c5b3-4965-be08-b88ed55618c2 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Camara, Dom Helder"@de .
+
+religion:483748b2-2148-4e80-ab20-66123423b0ef a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Katharina von Siena Heilige)"@de .
+
+religion:4a1d49a9-6e55-459d-99a0-baa23bdbdb9d a skos:Concept ;
+    skos:broader religion:ed6004f0-e840-4a1b-9f18-d1e5f847061e ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Upanishaden"@de .
+
+religion:4ac25fdd-e3ef-4273-a65a-f53ebdf496fc a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Joseph (biblische Gestalt)"@de .
+
+religion:4bfbc9ad-c7cd-4bce-92ed-04dd8a0cebef a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Jaspers, Karl"@de .
+
+religion:4c407c6e-fe98-40b9-9675-7e6175aa100f a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Erasmus von Rotterdam"@de .
+
+religion:4c5d76c8-4c02-4161-8fa4-582a28d58a7b a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Hammer, Hans"@de .
+
+religion:4c7dbb91-6a98-4016-902f-2dcd73a67345 a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Josua (biblische Gestalt)"@de .
+
+religion:4d8a26e7-4a55-48e5-b324-ace2a804c6c4 a skos:Concept ;
+    skos:broader religion:8beb5052-277f-46b3-b326-e8fee02bec65 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Prozession"@de .
+
+religion:4db3daf2-3bf3-4dc3-80c0-9030ee5c0bd4 a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Jakob (biblische Gestalt)"@de .
+
+religion:4dcbf0c2-7a7d-476d-a4c3-c64a0d482ff6 a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Benjamin (Biblische Gestalt)"@de .
+
+religion:4e719ee7-c9fa-4520-81bb-321da0c77b98 a skos:Concept ;
+    skos:broader religion:6554a029-2eb2-4bdc-940b-8f7b82f3d197 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Vision (Religion)"@de .
+
+religion:507938c0-bb5e-40dc-9992-f0335eafcf13 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Wesley, John"@de .
+
+religion:50e2800b-d51c-419f-915e-11285e9d02f2 a skos:Concept ;
+    skos:broader religion:a40055c4-5611-4907-9cfa-9009176e2e8e ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Protestantismus"@de .
+
+religion:513d9035-f5f0-4254-86d2-663b86bcb4b0 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Benedikt von Nursia"@de .
+
+religion:540b1117-8fcb-49d9-ad37-02e17b19d6d0 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Schönherr, Albrecht"@de .
+
+religion:54426cac-2230-425f-af12-f7831c7aa431 a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Lazarus (biblische Gestalt)"@de .
+
+religion:544d5eae-2a2c-4747-a285-3713097a7482 a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Hölle"@de .
+
+religion:54bee03c-ba9d-402e-80d7-57a38a6c0883 a skos:Concept ;
+    skos:broader religion:77aa5aa9-bcc8-4137-aef2-fc76c821390f ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Firmung"@de .
+
+religion:56813285-3956-4e7f-a9ef-f2d7ae89f6e8 a skos:Concept ;
+    skos:broader religion:72480cc7-489c-4ccd-831c-feb02703c844 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Kreuzigung Christi"@de .
+
+religion:56d58189-75a5-4029-baeb-43d5fdc5073b a skos:Concept ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Kirchensteuer"@de ;
+    skos:topConceptOf religion: .
+
+religion:57669ded-2652-4835-ab55-517ce0ae3814 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Delp, Alfred"@de .
+
+religion:5778fcd2-d178-4da5-9b9d-be7ee7938e85 a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Zacharias (biblische Gestalt)"@de .
+
+religion:57a09a4b-d86d-464b-87ad-1a673f612f14 a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Weihe (Religion)"@de .
+
+religion:5915bbfa-f726-419c-b35e-7aed2cb7bc6b a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Amos (biblische Gestalt)"@de .
+
+religion:5aae078d-a10e-4b37-9f7d-be0460e2a00a a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Münster, Sebastian"@de .
+
+religion:5e248eeb-606a-425e-8b0f-81fe6204a85d a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Moses (biblische Gestalt)"@de .
+
+religion:5f23f57e-08c7-447f-9369-075200679b83 a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Esau (biblische Gestalt)"@de .
+
+religion:5f4d531a-7897-4cc9-9274-fb137146af95 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Luther, Martin"@de .
+
+religion:60427bfd-76db-4c3f-9872-a850ce74613a a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Gebet"@de .
+
+religion:613ac120-5599-4342-a960-2e991395caa5 a skos:Concept ;
+    skos:broader religion:a7ba061d-55df-4a5b-8433-74200182df5a ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Paulus (biblische Gestalt)"@de .
+
+religion:615c7988-4e6a-4ac3-ba8f-5961ea804d11 a skos:Concept ;
+    skos:broader religion:e61456d6-4cd8-4a1e-b5cf-0a91d9f7213e ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Gesellschaft Jesu"@de .
+
+religion:61b653e0-87a6-40a7-aac9-b1a6d5556817 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Urban II. (Papst)"@de .
+
+religion:62051c4d-9308-40de-8eff-9e6c3205402a a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Speckle, Ignaz"@de .
+
+religion:62520fb6-aff6-4f7e-b934-515a7910e846 a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Pfarrer"@de .
+
+religion:6369605c-3400-4492-8a9c-df0fe57b80d3 a skos:Concept ;
+    skos:broader religion:01426328-9b81-47f7-af2f-03fbd7077586 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Papst"@de .
+
+religion:63b313f1-6b5b-4bca-b891-d93cdceb151b a skos:Concept ;
+    skos:broader religion:b37c2e5e-5574-474b-8b59-f84d09380885 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Evangelium"@de .
+
+religion:65e29395-980c-4d47-b2df-2f2654c1615b a skos:Concept ;
+    skos:broader religion:1b0e4385-f7b3-4154-a035-a1d0133e6d06 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Weihrauch"@de .
+
+religion:6770d964-1de6-46a0-978f-6815a175de4c a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Hiob (biblische Gestalt)"@de .
+
+religion:6780372e-3cf3-4024-9a33-b330b763e27b a skos:Concept ;
+    skos:broader religion:c6dac4fe-090c-4442-9e48-551c3710e3ad ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Altarbild"@de .
+
+religion:68f139c3-f6e8-405c-92c5-81d5613051bf a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Bahr, Petra"@de .
+
+religion:692572be-c4da-4397-abba-197e781ec52c a skos:Concept ;
+    skos:broader religion:01426328-9b81-47f7-af2f-03fbd7077586 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Caritas"@de .
+
+religion:69fb1aa5-9c13-412d-9670-b97e23d3f059 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Jan Hus"@de .
+
+religion:6a231986-6729-4e67-a2c8-acd2c6482ac1 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Bernward von Hildesheim"@de .
+
+religion:6a697107-05bf-4b03-8a0a-b58a16b00f76 a skos:Concept ;
+    skos:broader religion:a7ba061d-55df-4a5b-8433-74200182df5a ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Johannes (Evangelist)"@de .
+
+religion:6bfe53cc-eac2-4edb-9c56-13c49d64f5d8 a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Pagode"@de .
+
+religion:6c522f84-2f32-4218-85f5-eec0faa3db5d a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Paul VI. (Papst)"@de .
+
+religion:6c878843-5c5e-44be-b591-647420e5e689 a skos:Concept ;
+    skos:broader religion:f63d85e1-c8f9-4467-9ec9-492f33730c62 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Schiiten"@de .
+
+religion:6df8f02d-6d08-49f2-b516-57028bec4a1e a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Wiedergeburt"@de .
+
+religion:70e31356-61b9-448d-a945-70666fa1e594 a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Maria (biblische Gestalt)"@de .
+
+religion:712940e5-9f04-48d7-bd76-cfb101cae15c a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Gerstenmaier, Eugen"@de .
+
+religion:71f2cd70-cd2a-4590-8772-bc3b803beaf2 a skos:Concept ;
+    skos:broader religion:87ab01fe-d5e3-466e-b594-2a60c92b53ff ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Patriarch (Erzvater)"@de .
+
+religion:7618ad12-70a5-4084-a39e-62b459a74780 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Lavater, Johann Caspar"@de .
+
+religion:763c3d23-3737-4aca-843e-4c47f6558047 a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Jesus People"@de .
+
+religion:77ea4113-225b-4451-8b34-082a6dd6f498 a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Interreligiöser Dialog"@de .
+
+religion:7817c002-d773-45ca-9a6f-9983b8e1b3bb a skos:Concept ;
+    skos:broader religion:f63d85e1-c8f9-4467-9ec9-492f33730c62 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Moschee"@de .
+
+religion:79fc7349-dea6-4f40-a839-2986eb228784 a skos:Concept ;
+    skos:broader religion:32a91e44-fa41-43dc-8029-dd63d0e257d2 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Vereinigungskirche"@de .
+
+religion:7a937d8b-7e1f-4444-b911-87ee360ba6f3 a skos:Concept ;
+    skos:broader religion:1e49af12-29b7-492b-a3a2-5194a3137b85 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Klosterleben"@de .
+
+religion:7b4eda78-ffd3-4b0e-8c14-d6f9317a8af1 a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Goliath (biblische Gestalt)"@de .
+
+religion:7c975e17-65a5-4418-a26a-e296f7765516 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Nikolaus (Heiliger)"@de .
+
+religion:8035698f-ff5d-4f43-a235-8321fc4f9443 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Juchli, Liliane (Schwester)"@de .
+
+religion:80d7c4f3-0a6d-4d71-b634-59e7d68e3831 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Tutu, Desmond"@de .
+
+religion:81a49beb-5f3e-4ec1-8147-edc37463d098 a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Kreuz"@de .
+
+religion:8221667e-0386-4bec-a43d-bdabaaf05db1 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Sölle, Dorothee"@de .
+
+religion:825c250a-1f42-4be6-b506-9c4ce3e878ca a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Aaron (biblische Gestalt)"@de .
+
+religion:83344d9f-3b26-4ec9-be8d-b30c0a17623f a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Kain (biblische Gestalt)"@de .
+
+religion:8346e047-16e4-4b3f-a3e0-edf4b306c230 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Zelot"@de .
+
+religion:84874c4b-75e9-428f-a6df-0c30501aeb79 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Hahn, Philipp Matthias"@de .
+
+religion:850f0d6c-5901-4b13-b915-8818483cae15 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Drewermann, Euen"@de .
+
+religion:8747fd48-850d-4173-b534-c64e854811e8 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Moltmann, Jürgen"@de .
+
+religion:878dd483-f4e2-49fc-a6ac-2c8de3296297 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Johannes Paul II. (Papst)"@de .
+
+religion:889ddacc-a9d5-49a9-b82b-af2e71930d5a a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Judenmission"@de .
+
+religion:88a04c4a-5cac-418a-8045-560a567d6383 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Lichtenberg, Bernhard"@de .
+
+religion:8914e8fd-95db-459a-9b92-ed96f03b5b2d a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Bonifatius"@de .
+
+religion:8aeafb5f-b883-4ab7-8e41-37621481d18f a skos:Concept ;
+    skos:broader religion:ed6004f0-e840-4a1b-9f18-d1e5f847061e ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Vishnu"@de .
+
+religion:8b8c5f13-7971-4db3-8d4b-c4d8eedfa264 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Tayler, Hudson"@de .
+
+religion:8bcf7e0a-c489-4588-8bab-09a797482054 a skos:Concept ;
+    skos:broader religion:97cf1b92-3459-479b-9f16-54dcb9c57bcf ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Konstantinische Wende"@de .
+
+religion:8cd225c3-73b4-4194-9f2b-2744a3317c41 a skos:Concept ;
+    skos:broader religion:87ab01fe-d5e3-466e-b594-2a60c92b53ff ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Schöpfung"@de .
+
+religion:8d1d5849-fa1a-4604-883b-5d7819c7a87c a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Kreationismus"@de .
+
+religion:8d3b5318-666f-4479-98dd-fc7d39427d08 a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Absalom (biblische Gestalt)"@de .
+
+religion:8d4e579d-710a-4a26-b7c4-4fc7721a9193 a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Umbanda"@de .
+
+religion:8d56ab26-0c5c-4889-a8d2-5155f6c08d7f a skos:Concept ;
+    skos:broader religion:87ab01fe-d5e3-466e-b594-2a60c92b53ff ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Weihnachtsgeschichte"@de .
+
+religion:8dd09f4e-fc2f-4514-91ab-34d53fd2e0a2 a skos:Concept ;
+    skos:broader religion:16bbf90c-9378-4124-ac97-ec7c2da2a0db ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Qumran"@de .
+
+religion:901f810d-ab12-476d-9fd7-65eb9fb6904a a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Krippe (Weihnachten)"@de .
+
+religion:9038ee78-8876-4982-8942-9fc614d454b7 a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Pastoralreferent"@de .
+
+religion:9046712d-49b8-4bac-9106-e76fa04dc0be a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "New Age"@de .
+
+religion:90b49502-6ef5-4147-a614-efa67fa62b48 a skos:Concept ;
+    skos:broader religion:8e14d3d9-1754-4804-aa37-c81a72554cfd ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Basisgemeinde"@de .
+
+religion:910cebe2-d617-47f4-b25c-cbd80c7f3bf8 a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Waldenser"@de .
+
+religion:93e634da-225a-430d-8cad-1e930f570939 a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Konfuzianismus"@de .
+
+religion:940127c4-5a17-4a8d-b283-3b99a8cc4bb5 a skos:Concept ;
+    skos:broader religion:f63d85e1-c8f9-4467-9ec9-492f33730c62 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Koran"@de .
+
+religion:94abb449-1ffd-4d0b-b8a5-04ec8b6f2238 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Albertz, Heinrich"@de .
+
+religion:95022c17-9990-4d0a-a255-9f21f3edf8fa a skos:Concept ;
+    skos:broader religion:87ab01fe-d5e3-466e-b594-2a60c92b53ff ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Sintflut"@de .
+
+religion:95e33f05-7f03-4463-900e-499add9ac9d5 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Fliedner, Theodor"@de .
+
+religion:962ee15c-0829-4cfe-a61a-fabc89597133 a skos:Concept ;
+    skos:broader religion:b1a228be-71ae-4a6f-a258-0a7f84d6e9ca ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Pilger"@de .
+
+religion:9889dd2e-ddb9-473d-9f1e-9100dba22dc0 a skos:Concept ;
+    skos:broader religion:5301e91d-6f26-49b1-95a3-eabaf30baff0 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Juden"@de .
+
+religion:98a2a629-4674-4fca-a23d-1e0afee7317b a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Atheismus"@de .
+
+religion:99429198-14a4-4bbd-a296-db27d48ec1e3 a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Jeremia (biblische Gestalt)"@de .
+
+religion:995b73ba-5eb6-4a8c-b83b-5840569459d2 a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Sünde"@de .
+
+religion:9ba54353-ba08-4513-a42f-e8596b8009c2 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Bosco, Don Giovanni"@de .
+
+religion:9bcdffad-90cd-4a87-9ff8-5d0118a0c7b3 a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Bartimäus (biblische Gestalt)"@de .
+
+religion:9c101292-115d-42b8-b023-2f0a9c1696f7 a skos:Concept ;
+    skos:broader religion:e61456d6-4cd8-4a1e-b5cf-0a91d9f7213e ;
+    skos:inScheme religion: ;
     skos:prefLabel "Zisterzienser"@de .
 
-<ökumene_id> a skos:Concept ;
-    skos:broader <kirche_christenheit_id> ;
-    skos:inScheme <> ;
+religion:9c5fe9e0-cc0d-418e-9f1e-c1a91cade2f4 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Franz von Assisi"@de .
+
+religion:9c90cbae-8ab6-42f1-8c20-94a865ade5e7 a skos:Concept ;
+    skos:broader religion:24c69257-57eb-421b-817c-0f4a754c05b0 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Magie"@de .
+
+religion:9d0844c5-5c15-4d49-886d-2d67e2207888 a skos:Concept ;
+    skos:broader religion:dfa56139-5301-4546-be39-769a16359406 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Baptisten"@de .
+
+religion:9d9ca1f8-6009-4361-9536-daf42f63e89d a skos:Concept ;
+    skos:broader religion:a4eaf766-7d6c-4992-b221-a1b879fdb47d ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Inquisition"@de .
+
+religion:9de00743-06ec-4560-8b07-f5459d443099 a skos:Concept ;
+    skos:broader religion:87ab01fe-d5e3-466e-b594-2a60c92b53ff ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Exodus"@de .
+
+religion:9dee242c-348d-4293-a2a6-3c3a8a5e637a a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Islamisierung"@de .
+
+religion:9df1a8b7-b77e-4835-b590-39cacdddd787 a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Christliche Lebensgestaltung"@de .
+
+religion:9ef337a4-c1f9-4670-bd94-79d2687df60a a skos:Concept ;
+    skos:broader religion:fcf41c65-87d2-4823-af30-2dc8f6643e4b ;
+    skos:inScheme religion: ;
     skos:prefLabel "Ökumene"@de .
 
-<altar_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:narrower <altarbild_id> ;
-    skos:prefLabel "Altar"@de .
+religion:9f9fccb6-3c15-4681-8d65-7aaff4f8a235 a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Intelligent Design"@de .
 
-<altes_testament_id> a skos:Concept ;
-    skos:broader <bibel_id> ;
-    skos:inScheme <> ;
-    skos:narrower <zehn_gebote_id> ;
-    skos:prefLabel "Altes Testament"@de .
+religion:a0c33487-ad93-464f-bd7c-7a33fcc9dd3a a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Dalai Lama"@de .
 
-<eucharistie_id> a skos:Concept ;
-    skos:broader <gottesdienst_id> ;
-    skos:inScheme <> ;
-    skos:narrower <abendmahl_id> ;
-    skos:prefLabel "Eucharistie"@de .
+religion:a18fc2ad-a2bc-4616-bcd0-80a4e8cc97b8 a skos:Concept ;
+    skos:broader religion:c6ec7a62-e20b-40c0-aeb0-d33d0c114413 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Abendmahl"@de .
 
-<glaube_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:narrower <aberglaube_id> ;
-    skos:prefLabel "Glaube"@de .
+religion:a250c750-921b-4ce8-b576-ab32d8b0ca2e a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Saul (König, biblische Gestalt)"@de .
 
-<jesus_christus_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:narrower <christusbild_id> ;
-    skos:prefLabel "Jesus Christus"@de .
+religion:a32c1db7-f506-4e21-bc5a-8f2d57aedb8f a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Shintoismus"@de .
 
-<jugendreligion_id> a skos:Concept ;
-    skos:broader <sekte_id> ;
-    skos:inScheme <> ;
-    skos:narrower <bhagwan_id> ;
-    skos:prefLabel "Jugendreligion"@de .
+religion:a7dfbd4c-3497-417f-b7ea-4bf1ca428e79 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Kräutler, Erwin"@de .
 
-<meditation_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:narrower <meditation_zu_religiöser_kunst_id> ;
-    skos:prefLabel "Meditation"@de .
+religion:a89478df-034f-4c5f-95d6-7fb4ede46dee a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Segen"@de .
 
-<mennoniten_id> a skos:Concept ;
-    skos:broader <freikirche_id> ;
-    skos:inScheme <> ;
-    skos:narrower <wiedertäufer_id> ;
-    skos:prefLabel "Mennoniten"@de .
+religion:a8c3cc23-825d-4d38-8bcc-37cca885266b a skos:Concept ;
+    skos:broader religion:16bbf90c-9378-4124-ac97-ec7c2da2a0db ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Juda"@de .
 
-<prophet_id> a skos:Concept ;
-    skos:broader <biblische_erzählung_id> ;
-    skos:inScheme <> ;
-    skos:narrower <vision_religion_id> ;
-    skos:prefLabel "Prophet"@de .
+religion:a9b8cca9-827b-4066-871a-c63565b8ba4a a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Adam (biblische Gestalt)"@de .
 
-<reformation_id> a skos:Concept ;
-    skos:broader <kirchengeschichte_id> ;
-    skos:inScheme <> ;
-    skos:narrower <ablasshandel_id> ;
-    skos:prefLabel "Reformation"@de .
+religion:a9d800e8-ea55-44d7-aadf-c666d4cbe828 a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Kult"@de .
 
-<stammesreligion_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:narrower <fetisch_id> ;
+religion:ab52a823-4bd1-41a4-8156-c55709e77d3e a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Chardin, Pierre Teilhard de"@de .
+
+religion:ab76cbf1-c070-4094-94cc-f9e21d12c776 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Löhe, Johann Konrad Wilhelem"@de .
+
+religion:ab878db0-50e5-4797-9d7b-6d5dc7185459 a skos:Concept ;
+    skos:broader religion:87ab01fe-d5e3-466e-b594-2a60c92b53ff ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Heilsgeschichte"@de .
+
+religion:ac31fd0f-8d84-4fdb-bed7-5ad0abc24c8e a skos:Concept ;
+    skos:broader religion:bc526996-2530-4159-bec8-fb93ffb49db1 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Palmsonntag"@de .
+
+religion:acd9b047-cfa5-4eaa-9d22-38fcbf2f0cd6 a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Joseph (Gatte Marias, biblische Gestalt)"@de .
+
+religion:acfc55cf-e71f-4626-9a54-75ea2acb9566 a skos:Concept ;
+    skos:broader religion:39238673-4574-4e8d-bf3a-cbda35eaefc0 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Diakonie"@de .
+
+religion:ae73f181-dfb2-4564-91dd-7ff71de00747 a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Heiligenlegende"@de .
+
+religion:af54d525-c54d-4911-88db-846e435f2ddf a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Klerus"@de .
+
+religion:b06997ae-c1f5-4883-90dc-fdd36e8ef2ad a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Florian (Heiliger)"@de .
+
+religion:b0699c6d-75bd-4390-818c-d404a7f36d9c a skos:Concept ;
+    skos:broader religion:f033808c-00fe-4c8e-b565-6ac8634daa72 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Bibelgesellschaften"@de .
+
+religion:b08cca67-ebc6-4b23-ba3f-638c5f3b8101 a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Zachäus (biblische Gestalt)"@de .
+
+religion:b12dbe3d-c58f-4aed-9352-24d8e2c2c1af a skos:Concept ;
+    skos:broader religion:16bbf90c-9378-4124-ac97-ec7c2da2a0db ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Golgatha"@de .
+
+religion:b4179453-5c36-45f1-82b1-e7aa7435b149 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "EnomiyaLassalle, Hugo Makibi"@de .
+
+religion:b50688e1-dc12-40c8-aaa4-4fcd1f3da3e1 a skos:Concept ;
+    skos:broader religion:a40055c4-5611-4907-9cfa-9009176e2e8e ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Katholizismus"@de .
+
+religion:b59ef9a8-9645-4035-94f5-50a2217faff1 a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Herodes (biblische Gestalt)"@de .
+
+religion:b5a23818-6486-407b-9d76-4775af4b7208 a skos:Concept ;
+    skos:broader religion:32bc42aa-0914-4027-a442-5159dd2a9ea2 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Fetisch"@de .
+
+religion:b5a2a3c8-aec7-462d-a5ea-0130059820e1 a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Vergebung"@de .
+
+religion:b634053c-1395-4df5-a4c1-d18c5a770da8 a skos:Concept ;
+    skos:broader religion:e61456d6-4cd8-4a1e-b5cf-0a91d9f7213e ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Salesianer"@de .
+
+religion:b64d090b-f372-4097-acff-d79ba24b9770 a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Abel (biblische Gestalt)"@de .
+
+religion:ba571c05-7a53-4934-ba40-7e4aeb504ff4 a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Samuel (biblische Gestalt)"@de .
+
+religion:bb4711be-de1c-49a3-b361-f17917a539da a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Stirling, Robert"@de .
+
+religion:bdbda0e0-79aa-47c6-93a8-738a89cb9a5f a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Calvin, Johannes"@de .
+
+religion:bded9cb4-9878-4c72-86a2-4aed8bc2b415 a skos:Concept ;
+    skos:broader religion:39238673-4574-4e8d-bf3a-cbda35eaefc0 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Evangelische Kirche in Deutschland"@de .
+
+religion:bfbece47-5a34-4a7b-b1f4-6831af5a4c64 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Müntzer, Thomas"@de .
+
+religion:c0c58564-20a9-4963-a51b-ac9a4a6b24c4 a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Pilatus (biblische Gestalt)"@de .
+
+religion:c0cb6429-8db4-4dc3-a2fa-8e02a7d03efa a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Faulhaber, Michael von"@de .
+
+religion:c0f4a582-54a5-42c5-a68c-e1fda8b4e34c a skos:Concept ;
+    skos:broader religion:c2602651-bdc3-45b0-bc33-b3933d0df5ca ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Bhagwan"@de .
+
+religion:c183a5fa-fc04-4a26-943d-1ec0639666d3 a skos:Concept ;
+    skos:broader religion:a4eaf766-7d6c-4992-b221-a1b879fdb47d ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Hugenotten"@de .
+
+religion:c1e553ab-5da5-4f19-941f-c7fabe863ab0 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Hildegard von Bingen"@de .
+
+religion:c4d1a01d-a150-44ad-b4fe-467e208be8db a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Säkularisierung"@de .
+
+religion:c5475f60-eb5a-417d-8e25-2614c9eddcdc a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Benedikt XVI. (Papst)"@de .
+
+religion:c54a76df-2dc4-4cb2-b1ea-ae3c27f328c0 a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Hagar (biblische Gestalt)"@de .
+
+religion:c5df975d-b22e-4002-8877-d1978a3823e8 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Buber, Martin"@de .
+
+religion:c6d4f88e-730e-4548-b93e-0244cce96ffa a skos:Concept ;
+    skos:broader religion:bc526996-2530-4159-bec8-fb93ffb49db1 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Pfingsten"@de .
+
+religion:c920448e-31a4-4047-bc36-67a537fb4146 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Kierkegaard, Sören"@de .
+
+religion:ca001cb8-5ece-4da7-bd97-8b6f3ffd6132 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "König, Franz"@de .
+
+religion:ca11230a-c87f-439b-ab3e-a4184453c029 a skos:Concept ;
+    skos:broader religion:bc526996-2530-4159-bec8-fb93ffb49db1 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Karwoche"@de .
+
+religion:ca66ca75-b62c-4f1d-9776-ea9e23320b96 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Jägerstätter, Franz"@de .
+
+religion:caa978ec-9afb-4094-b304-d8048652abb8 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Tetzel, Johannes"@de .
+
+religion:cb072302-bdda-4330-9a57-9fc93d576d30 a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Johannes der Täufer (biblische Gestalt)"@de .
+
+religion:cbc5c69b-0e22-4fc1-8232-b0cfb55ad8f2 a skos:Concept ;
+    skos:broader religion:0e35cad7-5e6c-4d44-9b6c-4b3b1f4bbee6 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Jahwe"@de .
+
+religion:cc007fec-aedb-4e38-8358-10cb68396605 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Loyola, Ignatius von"@de .
+
+religion:cd15f10e-907a-43b8-a58b-b2415c2833c4 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Roswitha von Gandersheim"@de .
+
+religion:cd45dd68-88cd-42e6-b225-3eb515d4f7c3 a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Kollekte"@de .
+
+religion:d0729d72-5496-4303-ad9c-047bde35d582 a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Religionsgemeinschaft"@de .
+
+religion:d094ac13-d815-478b-87ee-dac89c5f9b04 a skos:Concept ;
+    skos:broader religion:5301e91d-6f26-49b1-95a3-eabaf30baff0 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Thora"@de .
+
+religion:d10a1648-dc10-46d4-a627-e7b28db0debb a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Mysterienspiel"@de .
+
+religion:d137ae58-97a2-42d2-b08b-cc972622c476 a skos:Concept ;
+    skos:broader religion:a4eaf766-7d6c-4992-b221-a1b879fdb47d ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Perikopenbuch"@de .
+
+religion:d181ab2f-421e-42fb-a22b-7a3d07696e66 a skos:Concept ;
+    skos:broader religion:0e35cad7-5e6c-4d44-9b6c-4b3b1f4bbee6 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Heiliger Geist"@de .
+
+religion:d3a0f3b2-c727-4e62-80ce-ccbed15fa2e3 a skos:Concept ;
+    skos:broader religion:58a8fe16-2193-4d7d-88d6-6ddeff75cce8 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Meditation zu religiöser Kunst"@de .
+
+religion:d426e8c6-e6ab-4a47-b72e-a386e07e35a4 a skos:Concept ;
+    skos:broader religion:5ad0ed37-4f11-4182-89d6-ae342dbb7ec4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Christusbild"@de .
+
+religion:d61a30ad-ba62-4683-b102-f9cfcff9e683 a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Noah (biblische Gestalt)"@de .
+
+religion:d740a136-c78d-48f0-a3cd-7a88c3e9d4ca a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Mystik"@de .
+
+religion:d802c08e-30d2-4c85-bc39-402b342489f9 a skos:Concept ;
+    skos:broader religion:5301e91d-6f26-49b1-95a3-eabaf30baff0 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Synagoge"@de .
+
+religion:d84291c4-a839-4eaf-a290-f0ab0dc84089 a skos:Concept ;
+    skos:broader religion:f542a8ff-ba79-4721-aba4-86e52f8e0eef ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Zehn Gebote"@de .
+
+religion:d8ac36cd-aeca-4466-aac0-9e341bd5e169 a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Ruth (biblische Gestalt)"@de .
+
+religion:da0f3070-24cf-465a-9a09-c7f9e283bb39 a skos:Concept ;
+    skos:broader religion:f63d85e1-c8f9-4467-9ec9-492f33730c62 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Salafismus"@de .
+
+religion:dbfb2794-1dfa-4525-b355-58e53e427c6f a skos:Concept ;
+    skos:broader religion:f033808c-00fe-4c8e-b565-6ac8634daa72 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Verkündigung"@de .
+
+religion:dd084ab3-ffcb-438b-bff1-85f8ff103777 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Niemöller, Martin"@de .
+
+religion:dec345d1-3192-4406-be75-286c71cb580d a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Bodelschwingh, Friedrich von, der Ältere"@de .
+
+religion:df651cd4-82c5-4cec-b22f-355e7021764a a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Elias (biblische Gestalt)"@de .
+
+religion:e163a6bf-95f3-436b-88ca-743c200532fc a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Jenseits"@de .
+
+religion:e16783eb-86a8-414b-9f1c-fbc71458cc1b a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Paradies"@de .
+
+religion:e257111f-25b9-4410-bed2-b7f87e4626a2 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Brenz, Johannes"@de .
+
+religion:e2b851eb-1f26-4669-a14e-f66fa66c5776 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Bernhard von Clairvaux"@de .
+
+religion:e38ed4ef-21a4-49ce-9656-d351ca21b058 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Boff, Leonardo"@de .
+
+religion:e46b906b-b596-48e7-8439-87e9d5c3ddf9 a skos:Concept ;
+    skos:broader religion:fcf41c65-87d2-4823-af30-2dc8f6643e4b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Ostkirchen"@de .
+
+religion:e4e2291d-497c-4541-a2cd-840f992cf93b a skos:Concept ;
+    skos:broader religion:39238673-4574-4e8d-bf3a-cbda35eaefc0 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Bekennende Kirche"@de .
+
+religion:e5e2aecc-8a2e-414e-aef1-b54e8a457dc1 a skos:Concept ;
+    skos:broader religion:bc526996-2530-4159-bec8-fb93ffb49db1 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Weihnachten"@de .
+
+religion:e60d42ca-c88d-4a21-9b0d-9f3fe9721bdb a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Pius XII. (Papst)"@de .
+
+religion:e75dfa6e-a566-4ef9-84a5-5bb9fa3524b6 a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Nachfolge Jesus Christus"@de .
+
+religion:e7949f07-25a9-4516-8295-18f20dfc2030 a skos:Concept ;
+    skos:broader religion:ccccd51b-2fa7-4969-9fda-705b51a1ac9f ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Fatima"@de .
+
+religion:e7a62032-3b76-40f9-ac36-1cdb1fff2c73 a skos:Concept ;
+    skos:broader religion:a4eaf766-7d6c-4992-b221-a1b879fdb47d ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Konzil"@de .
+
+religion:e98a5819-76bb-4215-af55-f9d402ea122e a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Bora, Katharina von"@de .
+
+religion:ea4ba19f-5c3d-4355-beba-c69c5fb7102f a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Gideon (biblische Gestalt)"@de .
+
+religion:eaf6d4b3-0b4a-4131-b458-536353083543 a skos:Concept ;
+    skos:broader religion:a7ba061d-55df-4a5b-8433-74200182df5a ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Matthäus (Evangelist)"@de .
+
+religion:edec254a-09e6-47df-b1e8-3eaf06c89f7f a skos:Concept ;
+    skos:broader religion:ccccd51b-2fa7-4969-9fda-705b51a1ac9f ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Ronchamp"@de .
+
+religion:ee18d250-b540-448f-a3bc-abc4f6f92900 a skos:Concept ;
+    skos:broader religion:e61456d6-4cd8-4a1e-b5cf-0a91d9f7213e ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Benediktiner"@de .
+
+religion:ee87d44a-90cc-4a57-a4c3-75a23ed73230 a skos:Concept ;
+    skos:broader religion:b37c2e5e-5574-474b-8b59-f84d09380885 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Vaterunser"@de .
+
+religion:eeb539bc-6b31-40d8-9edd-1111919a30c0 a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Ismael (biblische Gestalt)"@de .
+
+religion:ef0a743e-cab1-4963-8ffb-a78260a8a5cb a skos:Concept ;
+    skos:broader religion:8e14d3d9-1754-4804-aa37-c81a72554cfd ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Heiliger"@de .
+
+religion:f0c4be13-9073-4e7c-a9a3-00c5c262398b a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Franziskus (Papst)"@de .
+
+religion:f15076ea-607e-4503-bfa6-dde486926eef a skos:Concept ;
+    skos:broader religion:dfa56139-5301-4546-be39-769a16359406 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Kopten"@de .
+
+religion:f23b84e0-6957-4dc5-a8cd-c50ed1eac17d a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Torres, Camilo"@de .
+
+religion:f3449c5e-5fa1-408f-a68a-5f51a8af1781 a skos:Concept ;
+    skos:broader religion:e61456d6-4cd8-4a1e-b5cf-0a91d9f7213e ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Franziskaner (kirchlicher Orden)"@de .
+
+religion:f6589a74-c453-4124-847f-6e7b23234b17 a skos:Concept ;
+    skos:broader religion:39238673-4574-4e8d-bf3a-cbda35eaefc0 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Deutsche Christen"@de .
+
+religion:f6927b97-f2dc-4dd4-b499-f67bc7be1c5c a skos:Concept ;
+    skos:broader religion:24c69257-57eb-421b-817c-0f4a754c05b0 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Satanskult"@de .
+
+religion:f71180ce-2d19-4b80-9d5b-f2cc5957b767 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Mallinckrodt, Pauline von"@de .
+
+religion:fb43a550-9e64-4633-b9fd-dc14d014d4b2 a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Thomas von Aquin"@de .
+
+religion:fb7d9bda-a09b-442b-95e2-22a49248f131 a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Elisabeth (biblische Gestalt)"@de .
+
+religion:fbbfce08-d011-4c8e-95e0-98467a12b21e a skos:Concept ;
+    skos:broader religion:1e49af12-29b7-492b-a3a2-5194a3137b85 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Kloster Beuron"@de .
+
+religion:fc83b6ec-139c-48b2-9326-24c3e46889b2 a skos:Concept ;
+    skos:broader religion:01426328-9b81-47f7-af2f-03fbd7077586 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Vatikan"@de .
+
+religion:fcc28108-5203-4786-af1b-44b27d4d25b9 a skos:Concept ;
+    skos:broader religion:a7ba061d-55df-4a5b-8433-74200182df5a ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Lukas (Evangelist)"@de .
+
+religion:fd30f3cc-8b5c-43ce-be39-f61a8fc41a3d a skos:Concept ;
+    skos:broader religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Mutter Teresa"@de .
+
+religion:fd515969-4257-4d1f-a839-88394eb83ecb a skos:Concept ;
+    skos:broader religion:32a91e44-fa41-43dc-8029-dd63d0e257d2 ;
+    skos:inScheme religion: ;
+    skos:prefLabel "Scientology"@de .
+
+religion:32bc42aa-0914-4027-a442-5159dd2a9ea2 a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:narrower religion:b5a23818-6486-407b-9d76-4775af4b7208 ;
     skos:prefLabel "Stammesreligion"@de .
 
-<befreiungstheologie_id> a skos:Concept ;
-    skos:broader <katholische_kirche_id> ;
-    skos:inScheme <> ;
-    skos:narrower <basisgemeinde_id>,
-        <heiliger_id> ;
-    skos:prefLabel "Befreiungstheologie"@de .
+religion:58a8fe16-2193-4d7d-88d6-6ddeff75cce8 a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:narrower religion:d3a0f3b2-c727-4e62-80ce-ccbed15fa2e3 ;
+    skos:prefLabel "Meditation"@de .
 
-<buddhismus_id> a skos:Concept ;
-    skos:broader <weltreligion_id> ;
-    skos:inScheme <> ;
-    skos:narrower <lamaismus_id>,
-        <zenbuddhismus_id> ;
-    skos:prefLabel "Buddhismus"@de .
+religion:5ad0ed37-4f11-4182-89d6-ae342dbb7ec4 a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:narrower religion:d426e8c6-e6ab-4a47-b72e-a386e07e35a4 ;
+    skos:prefLabel "Jesus Christus"@de .
 
-<gottesdienst_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:narrower <eucharistie_id>,
-        <prozession_id> ;
-    skos:prefLabel "Gottesdienst"@de .
+religion:6554a029-2eb2-4bdc-940b-8f7b82f3d197 a skos:Concept ;
+    skos:broader religion:87ab01fe-d5e3-466e-b594-2a60c92b53ff ;
+    skos:inScheme religion: ;
+    skos:narrower religion:4e719ee7-c9fa-4520-81bb-321da0c77b98 ;
+    skos:prefLabel "Prophet"@de .
 
-<passion_jesu_id> a skos:Concept ;
-    skos:broader <biblische_erzählung_id> ;
-    skos:inScheme <> ;
-    skos:narrower <kreuzigung_christi_id>,
-        <kreuzweg_id> ;
-    skos:prefLabel "Passion Jesu"@de .
+religion:73ec76e1-57d2-4440-ae89-8db63a52e8ad a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:narrower religion:17e0eec7-8419-435e-8339-e0912c1f7da9 ;
+    skos:prefLabel "Glaube"@de .
 
-<religiöse_tradition_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:narrower <konfirmation_id>,
-        <weihrauch_id> ;
+religion:7d2aad38-bf4e-44bd-92a3-b3541e0287b2 a skos:Concept ;
+    skos:broader religion:dfa56139-5301-4546-be39-769a16359406 ;
+    skos:inScheme religion: ;
+    skos:narrower religion:22926fb4-a308-4a39-9c1b-2645e0c029f0 ;
+    skos:prefLabel "Mennoniten"@de .
+
+religion:85eb854f-1780-48f9-a018-31e16ad7ae8a a skos:Concept ;
+    skos:broader religion:a4eaf766-7d6c-4992-b221-a1b879fdb47d ;
+    skos:inScheme religion: ;
+    skos:narrower religion:39534a3f-c7a7-441c-b1f1-0e70bf696bbc ;
+    skos:prefLabel "Reformation"@de .
+
+religion:c2602651-bdc3-45b0-bc33-b3933d0df5ca a skos:Concept ;
+    skos:broader religion:32a91e44-fa41-43dc-8029-dd63d0e257d2 ;
+    skos:inScheme religion: ;
+    skos:narrower religion:c0f4a582-54a5-42c5-a68c-e1fda8b4e34c ;
+    skos:prefLabel "Jugendreligion"@de .
+
+religion:c6dac4fe-090c-4442-9e48-551c3710e3ad a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:narrower religion:6780372e-3cf3-4024-9a33-b330b763e27b ;
+    skos:prefLabel "Altar"@de .
+
+religion:c6ec7a62-e20b-40c0-aeb0-d33d0c114413 a skos:Concept ;
+    skos:broader religion:8beb5052-277f-46b3-b326-e8fee02bec65 ;
+    skos:inScheme religion: ;
+    skos:narrower religion:a18fc2ad-a2bc-4616-bcd0-80a4e8cc97b8 ;
+    skos:prefLabel "Eucharistie"@de .
+
+religion:f542a8ff-ba79-4721-aba4-86e52f8e0eef a skos:Concept ;
+    skos:broader religion:f033808c-00fe-4c8e-b565-6ac8634daa72 ;
+    skos:inScheme religion: ;
+    skos:narrower religion:d84291c4-a839-4eaf-a290-f0ab0dc84089 ;
+    skos:prefLabel "Altes Testament"@de .
+
+religion:1b0e4385-f7b3-4154-a035-a1d0133e6d06 a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:narrower religion:1a93e7a8-e714-430e-8d81-5dca6dc0e464,
+        religion:65e29395-980c-4d47-b2df-2f2654c1615b ;
     skos:prefLabel "Religiöse Tradition"@de .
 
-<sakrament_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:narrower <firmung_id>,
-        <taufe_id> ;
+religion:72480cc7-489c-4ccd-831c-feb02703c844 a skos:Concept ;
+    skos:broader religion:87ab01fe-d5e3-466e-b594-2a60c92b53ff ;
+    skos:inScheme religion: ;
+    skos:narrower religion:2b8d825f-5753-4ea9-b81a-76d96b7f342b,
+        religion:56813285-3956-4e7f-a9ef-f2d7ae89f6e8 ;
+    skos:prefLabel "Passion Jesu"@de .
+
+religion:77aa5aa9-bcc8-4137-aef2-fc76c821390f a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:narrower religion:0b92ae50-cff0-47b2-8f33-b03338e43cdc,
+        religion:54bee03c-ba9d-402e-80d7-57a38a6c0883 ;
     skos:prefLabel "Sakrament"@de .
 
-<theologie_id> a skos:Concept ;
-    skos:broader <christentum_id> ;
-    skos:inScheme <> ;
-    skos:narrower <katholizismus_id>,
-        <protestantismus_id> ;
+religion:8beb5052-277f-46b3-b326-e8fee02bec65 a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:narrower religion:4d8a26e7-4a55-48e5-b324-ace2a804c6c4,
+        religion:c6ec7a62-e20b-40c0-aeb0-d33d0c114413 ;
+    skos:prefLabel "Gottesdienst"@de .
+
+religion:8e14d3d9-1754-4804-aa37-c81a72554cfd a skos:Concept ;
+    skos:broader religion:01426328-9b81-47f7-af2f-03fbd7077586 ;
+    skos:inScheme religion: ;
+    skos:narrower religion:90b49502-6ef5-4147-a614-efa67fa62b48,
+        religion:ef0a743e-cab1-4963-8ffb-a78260a8a5cb ;
+    skos:prefLabel "Befreiungstheologie"@de .
+
+religion:967d3dbc-72bd-44e6-9696-e272f1124c5b a skos:Concept ;
+    skos:broader religion:1d7b675f-e6af-4dfe-89d3-5d6594e084f9 ;
+    skos:inScheme religion: ;
+    skos:narrower religion:00ddfb2a-524f-4440-9002-8840e896d77b,
+        religion:1a8b3cfc-246e-48ea-81b6-7d338b2fe798 ;
+    skos:prefLabel "Buddhismus"@de .
+
+religion:a40055c4-5611-4907-9cfa-9009176e2e8e a skos:Concept ;
+    skos:broader religion:97cf1b92-3459-479b-9f16-54dcb9c57bcf ;
+    skos:inScheme religion: ;
+    skos:narrower religion:50e2800b-d51c-419f-915e-11285e9d02f2,
+        religion:b50688e1-dc12-40c8-aaa4-4fcd1f3da3e1 ;
     skos:prefLabel "Theologie"@de .
 
-<wallfahrt_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:narrower <pilger_id>,
-        <wallfahrtsort_id> ;
+religion:b1a228be-71ae-4a6f-a258-0a7f84d6e9ca a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:narrower religion:962ee15c-0829-4cfe-a61a-fabc89597133,
+        religion:ccccd51b-2fa7-4969-9fda-705b51a1ac9f ;
     skos:prefLabel "Wallfahrt"@de .
 
-<wallfahrtsort_id> a skos:Concept ;
-    skos:broader <wallfahrt_id> ;
-    skos:inScheme <> ;
-    skos:narrower <fatima_id>,
-        <ronchamp_id> ;
+religion:ccccd51b-2fa7-4969-9fda-705b51a1ac9f a skos:Concept ;
+    skos:broader religion:b1a228be-71ae-4a6f-a258-0a7f84d6e9ca ;
+    skos:inScheme religion: ;
+    skos:narrower religion:e7949f07-25a9-4516-8295-18f20dfc2030,
+        religion:edec254a-09e6-47df-b1e8-3eaf06c89f7f ;
     skos:prefLabel "Wallfahrtsort)"@de .
 
-<freikirche_id> a skos:Concept ;
-    skos:broader <kirche_christenheit_id> ;
-    skos:inScheme <> ;
-    skos:narrower <baptisten_id>,
-        <kopten_id>,
-        <mennoniten_id> ;
-    skos:prefLabel "Freikirche"@de .
-
-<gott_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:narrower <gottesbeweis_id>,
-        <heiliger_geist_id>,
-        <jahwe_id> ;
+religion:0e35cad7-5e6c-4d44-9b6c-4b3b1f4bbee6 a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:narrower religion:381ae294-e394-45a3-aaa2-9738522ed98a,
+        religion:cbc5c69b-0e22-4fc1-8232-b0cfb55ad8f2,
+        religion:d181ab2f-421e-42fb-a22b-7a3d07696e66 ;
     skos:prefLabel "Gott"@de .
 
-<hinduismus_id> a skos:Concept ;
-    skos:broader <weltreligion_id> ;
-    skos:inScheme <> ;
-    skos:narrower <upanishaden_id>,
-        <veda_id>,
-        <vishnu_id> ;
-    skos:prefLabel "Hinduismus"@de .
-
-<kloster_id> a skos:Concept ;
-    skos:broader <orden_kirche_id> ;
-    skos:inScheme <> ;
-    skos:narrower <citeaux_id>,
-        <kloster_beuron_id>,
-        <klosterleben_id> ;
+religion:1e49af12-29b7-492b-a3a2-5194a3137b85 a skos:Concept ;
+    skos:broader religion:69b4924c-dfde-41b4-961d-cf88e6c81039 ;
+    skos:inScheme religion: ;
+    skos:narrower religion:0039137e-9563-4ac9-89d6-5faae3204712,
+        religion:7a937d8b-7e1f-4444-b911-87ee360ba6f3,
+        religion:fbbfce08-d011-4c8e-95e0-98467a12b21e ;
     skos:prefLabel "Kloster)"@de .
 
-<neues_testament_id> a skos:Concept ;
-    skos:broader <bibel_id> ;
-    skos:inScheme <> ;
-    skos:narrower <bergpredigt_id>,
-        <evangelium_id>,
-        <vaterunser_id> ;
-    skos:prefLabel "Neues Testament"@de .
-
-<orden_kirche_id> a skos:Concept ;
-    skos:broader <kirche_christenheit_id> ;
-    skos:inScheme <> ;
-    skos:narrower <kloster_id>,
-        <mönchtum_id>,
-        <nonne_id> ;
-    skos:prefLabel "Orden (Kirche)"@de .
-
-<sekte_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:narrower <jugendreligion_id>,
-        <scientology_id>,
-        <vereinigungskirche_id> ;
+religion:32a91e44-fa41-43dc-8029-dd63d0e257d2 a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:narrower religion:79fc7349-dea6-4f40-a839-2986eb228784,
+        religion:c2602651-bdc3-45b0-bc33-b3933d0df5ca,
+        religion:fd515969-4257-4d1f-a839-88394eb83ecb ;
     skos:prefLabel "Sekte"@de .
 
-<biblische_stätte_id> a skos:Concept ;
-    skos:broader <bibel_id> ;
-    skos:inScheme <> ;
-    skos:narrower <golgatha_id>,
-        <juda_id>,
-        <kanaan_id>,
-        <qumran_id> ;
-    skos:prefLabel "Biblische Stätte"@de .
+religion:69b4924c-dfde-41b4-961d-cf88e6c81039 a skos:Concept ;
+    skos:broader religion:fcf41c65-87d2-4823-af30-2dc8f6643e4b ;
+    skos:inScheme religion: ;
+    skos:narrower religion:1e49af12-29b7-492b-a3a2-5194a3137b85,
+        religion:343f3745-2609-469c-946d-0385a3c630aa,
+        religion:e61456d6-4cd8-4a1e-b5cf-0a91d9f7213e ;
+    skos:prefLabel "Orden (Kirche)"@de .
 
-<christentum_id> a skos:Concept ;
-    skos:broader <weltreligion_id> ;
-    skos:inScheme <> ;
-    skos:narrower <kirche_christenheit_id>,
-        <konstantinische_wende_id>,
-        <theodizee_id>,
-        <theologie_id> ;
-    skos:prefLabel "Christentum"@de .
+religion:b37c2e5e-5574-474b-8b59-f84d09380885 a skos:Concept ;
+    skos:broader religion:f033808c-00fe-4c8e-b565-6ac8634daa72 ;
+    skos:inScheme religion: ;
+    skos:narrower religion:2335675e-e714-4d2d-aedf-f95f86765b29,
+        religion:63b313f1-6b5b-4bca-b891-d93cdceb151b,
+        religion:ee87d44a-90cc-4a57-a4c3-75a23ed73230 ;
+    skos:prefLabel "Neues Testament"@de .
 
-<evangelische_kirche_id> a skos:Concept ;
-    skos:broader <kirche_christenheit_id> ;
-    skos:inScheme <> ;
-    skos:narrower <bekennende_kirche_id>,
-        <deutsche_christen_id>,
-        <diakonie_id>,
-        <evangelische_kirche_in_deutschland_id> ;
-    skos:prefLabel "Evangelische Kirche)"@de .
+religion:dfa56139-5301-4546-be39-769a16359406 a skos:Concept ;
+    skos:broader religion:fcf41c65-87d2-4823-af30-2dc8f6643e4b ;
+    skos:inScheme religion: ;
+    skos:narrower religion:7d2aad38-bf4e-44bd-92a3-b3541e0287b2,
+        religion:9d0844c5-5c15-4d49-886d-2d67e2207888,
+        religion:f15076ea-607e-4503-bfa6-dde486926eef ;
+    skos:prefLabel "Freikirche"@de .
 
-<katholische_kirche_id> a skos:Concept ;
-    skos:broader <kirche_christenheit_id> ;
-    skos:inScheme <> ;
-    skos:narrower <befreiungstheologie_id>,
-        <caritas_id>,
-        <papst_id>,
-        <vatikan_id> ;
+religion:ed6004f0-e840-4a1b-9f18-d1e5f847061e a skos:Concept ;
+    skos:broader religion:1d7b675f-e6af-4dfe-89d3-5d6594e084f9 ;
+    skos:inScheme religion: ;
+    skos:narrower religion:3080b504-6764-44bf-bc62-7ad21fe6ac75,
+        religion:4a1d49a9-6e55-459d-99a0-baa23bdbdb9d,
+        religion:8aeafb5f-b883-4ab7-8e41-37621481d18f ;
+    skos:prefLabel "Hinduismus"@de .
+
+religion:01426328-9b81-47f7-af2f-03fbd7077586 a skos:Concept ;
+    skos:broader religion:fcf41c65-87d2-4823-af30-2dc8f6643e4b ;
+    skos:inScheme religion: ;
+    skos:narrower religion:6369605c-3400-4492-8a9c-df0fe57b80d3,
+        religion:692572be-c4da-4397-abba-197e781ec52c,
+        religion:8e14d3d9-1754-4804-aa37-c81a72554cfd,
+        religion:fc83b6ec-139c-48b2-9326-24c3e46889b2 ;
     skos:prefLabel "Katholische Kirche"@de .
 
-<okkultismus_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:narrower <magie_id>,
-        <satanskult_id>,
-        <totenkult_id>,
-        <wahrsagen_id> ;
+religion:16bbf90c-9378-4124-ac97-ec7c2da2a0db a skos:Concept ;
+    skos:broader religion:f033808c-00fe-4c8e-b565-6ac8634daa72 ;
+    skos:inScheme religion: ;
+    skos:narrower religion:4032dee6-4678-48b7-ba57-9634a1eaad0e,
+        religion:8dd09f4e-fc2f-4514-91ab-34d53fd2e0a2,
+        religion:a8c3cc23-825d-4d38-8bcc-37cca885266b,
+        religion:b12dbe3d-c58f-4aed-9352-24d8e2c2c1af ;
+    skos:prefLabel "Biblische Stätte"@de .
+
+religion:24c69257-57eb-421b-817c-0f4a754c05b0 a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:narrower religion:0006a0e2-94e5-4ad6-abc1-02c32daf0aa9,
+        religion:47d74066-884f-482b-b714-f3f52629b7a8,
+        religion:9c90cbae-8ab6-42f1-8c20-94a865ade5e7,
+        religion:f6927b97-f2dc-4dd4-b499-f67bc7be1c5c ;
     skos:prefLabel "Okkultismus"@de .
 
-<judentum_id> a skos:Concept ;
-    skos:broader <weltreligion_id> ;
-    skos:inScheme <> ;
-    skos:narrower <juden_id>,
-        <passahfest_id>,
-        <sabbat_id>,
-        <synagoge_id>,
-        <thora_id> ;
+religion:39238673-4574-4e8d-bf3a-cbda35eaefc0 a skos:Concept ;
+    skos:broader religion:fcf41c65-87d2-4823-af30-2dc8f6643e4b ;
+    skos:inScheme religion: ;
+    skos:narrower religion:acfc55cf-e71f-4626-9a54-75ea2acb9566,
+        religion:bded9cb4-9878-4c72-86a2-4aed8bc2b415,
+        religion:e4e2291d-497c-4541-a2cd-840f992cf93b,
+        religion:f6589a74-c453-4124-847f-6e7b23234b17 ;
+    skos:prefLabel "Evangelische Kirche)"@de .
+
+religion:97cf1b92-3459-479b-9f16-54dcb9c57bcf a skos:Concept ;
+    skos:broader religion:1d7b675f-e6af-4dfe-89d3-5d6594e084f9 ;
+    skos:inScheme religion: ;
+    skos:narrower religion:017cfee0-be61-499a-a00e-de2f2865c11c,
+        religion:8bcf7e0a-c489-4588-8bab-09a797482054,
+        religion:a40055c4-5611-4907-9cfa-9009176e2e8e,
+        religion:fcf41c65-87d2-4823-af30-2dc8f6643e4b ;
+    skos:prefLabel "Christentum"@de .
+
+religion:5301e91d-6f26-49b1-95a3-eabaf30baff0 a skos:Concept ;
+    skos:broader religion:1d7b675f-e6af-4dfe-89d3-5d6594e084f9 ;
+    skos:inScheme religion: ;
+    skos:narrower religion:021b4647-6037-4f9b-bb95-efd785d830db,
+        religion:435ee383-6986-4104-b6ea-407fd345689a,
+        religion:9889dd2e-ddb9-473d-9f1e-9100dba22dc0,
+        religion:d094ac13-d815-478b-87ee-dac89c5f9b04,
+        religion:d802c08e-30d2-4c85-bc39-402b342489f9 ;
     skos:prefLabel "Judentum"@de .
 
-<apostel_id> a skos:Concept ;
-    skos:broader <biblische_gestalt_id> ;
-    skos:inScheme <> ;
-    skos:narrower <johannes_evangelist_id>,
-        <lukas_evangelist_id>,
-        <markus_evangelist_id>,
-        <matthäus_evangelist_id>,
-        <paulus_biblische_gestalt_id>,
-        <petrus_biblische_gestalt_id> ;
-    skos:prefLabel "Apostel"@de .
-
-<islam_id> a skos:Concept ;
-    skos:broader <weltreligion_id> ;
-    skos:inScheme <> ;
-    skos:narrower <koran_id>,
-        <mohammed_stifter_des_islam_id>,
-        <moschee_id>,
-        <muslim_id>,
-        <salafismus_id>,
-        <schiiten_id> ;
-    skos:prefLabel "Islam"@de .
-
-<kirche_christenheit_id> a skos:Concept ;
-    skos:broader <christentum_id> ;
-    skos:inScheme <> ;
-    skos:narrower <evangelische_kirche_id>,
-        <freikirche_id>,
-        <katholische_kirche_id>,
-        <orden_kirche_id>,
-        <ostkirchen_id>,
-        <ökumene_id> ;
-    skos:prefLabel "Kirche (Christenheit)"@de .
-
-<kirchenjahr_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:narrower <advent_id>,
-        <karwoche_id>,
-        <ostern_id>,
-        <palmsonntag_id>,
-        <pfingsten_id>,
-        <weihnachten_id> ;
-    skos:prefLabel "Kirchenjahr"@de .
-
-<weltreligion_id> a skos:Concept ;
-    skos:broader <religion_id> ;
-    skos:inScheme <> ;
-    skos:narrower <buddhismus_id>,
-        <christentum_id>,
-        <daoismus_id>,
-        <hinduismus_id>,
-        <islam_id>,
-        <judentum_id> ;
+religion:1d7b675f-e6af-4dfe-89d3-5d6594e084f9 a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:narrower religion:2d620c90-1d07-4d93-90dc-3c93fdf9c16e,
+        religion:5301e91d-6f26-49b1-95a3-eabaf30baff0,
+        religion:967d3dbc-72bd-44e6-9696-e272f1124c5b,
+        religion:97cf1b92-3459-479b-9f16-54dcb9c57bcf,
+        religion:ed6004f0-e840-4a1b-9f18-d1e5f847061e,
+        religion:f63d85e1-c8f9-4467-9ec9-492f33730c62 ;
     skos:prefLabel "Weltreligion"@de .
 
-<mönchtum_id> a skos:Concept ;
-    skos:broader <orden_kirche_id> ;
-    skos:inScheme <> ;
-    skos:narrower <augustiner_kirchlicher_orden_id>,
-        <benediktiner_id>,
-        <dominikaner_kirchlicher_orden_id>,
-        <franziskaner_kirchlicher_orden_id>,
-        <gesellschaft_jesu_id>,
-        <salesianer_id>,
-        <zisterzienser_id> ;
+religion:a7ba061d-55df-4a5b-8433-74200182df5a a skos:Concept ;
+    skos:broader religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 ;
+    skos:inScheme religion: ;
+    skos:narrower religion:3c753760-e516-43d7-8a6c-365efcc42a06,
+        religion:43a21515-88fe-46fa-99cc-66e59bf9eff5,
+        religion:613ac120-5599-4342-a960-2e991395caa5,
+        religion:6a697107-05bf-4b03-8a0a-b58a16b00f76,
+        religion:eaf6d4b3-0b4a-4131-b458-536353083543,
+        religion:fcc28108-5203-4786-af1b-44b27d4d25b9 ;
+    skos:prefLabel "Apostel"@de .
+
+religion:bc526996-2530-4159-bec8-fb93ffb49db1 a skos:Concept ;
+    skos:broader religion:44168064-c004-437f-916a-62ecb16da41b ;
+    skos:inScheme religion: ;
+    skos:narrower religion:177ea65c-038e-457e-8ca6-ff65f564ee1e,
+        religion:3619f288-afb8-4359-82e8-468425d4d1af,
+        religion:ac31fd0f-8d84-4fdb-bed7-5ad0abc24c8e,
+        religion:c6d4f88e-730e-4548-b93e-0244cce96ffa,
+        religion:ca11230a-c87f-439b-ab3e-a4184453c029,
+        religion:e5e2aecc-8a2e-414e-aef1-b54e8a457dc1 ;
+    skos:prefLabel "Kirchenjahr"@de .
+
+religion:f63d85e1-c8f9-4467-9ec9-492f33730c62 a skos:Concept ;
+    skos:broader religion:1d7b675f-e6af-4dfe-89d3-5d6594e084f9 ;
+    skos:inScheme religion: ;
+    skos:narrower religion:1fee0278-9c7d-4fe0-b572-351a82059e7c,
+        religion:2d45dd83-7d2f-47be-a9f4-0f7324a5738d,
+        religion:6c878843-5c5e-44be-b591-647420e5e689,
+        religion:7817c002-d773-45ca-9a6f-9983b8e1b3bb,
+        religion:940127c4-5a17-4a8d-b283-3b99a8cc4bb5,
+        religion:da0f3070-24cf-465a-9a09-c7f9e283bb39 ;
+    skos:prefLabel "Islam"@de .
+
+religion:fcf41c65-87d2-4823-af30-2dc8f6643e4b a skos:Concept ;
+    skos:broader religion:97cf1b92-3459-479b-9f16-54dcb9c57bcf ;
+    skos:inScheme religion: ;
+    skos:narrower religion:01426328-9b81-47f7-af2f-03fbd7077586,
+        religion:39238673-4574-4e8d-bf3a-cbda35eaefc0,
+        religion:69b4924c-dfde-41b4-961d-cf88e6c81039,
+        religion:9ef337a4-c1f9-4670-bd94-79d2687df60a,
+        religion:dfa56139-5301-4546-be39-769a16359406,
+        religion:e46b906b-b596-48e7-8439-87e9d5c3ddf9 ;
+    skos:prefLabel "Kirche (Christenheit)"@de .
+
+religion:e61456d6-4cd8-4a1e-b5cf-0a91d9f7213e a skos:Concept ;
+    skos:broader religion:69b4924c-dfde-41b4-961d-cf88e6c81039 ;
+    skos:inScheme religion: ;
+    skos:narrower religion:10c44723-2df9-4444-a21b-172969adabf8,
+        religion:404643a2-4f3c-432d-b3a2-9a1c9e5fa9a7,
+        religion:615c7988-4e6a-4ac3-ba8f-5961ea804d11,
+        religion:9c101292-115d-42b8-b023-2f0a9c1696f7,
+        religion:b634053c-1395-4df5-a4c1-d18c5a770da8,
+        religion:ee18d250-b540-448f-a3bc-abc4f6f92900,
+        religion:f3449c5e-5fa1-408f-a68a-5f51a8af1781 ;
     skos:prefLabel "Mönchtum"@de .
 
-<bibel_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <altes_testament_id>,
-        <bibelgesellschaften_id>,
-        <bibelübersetzung_id>,
-        <biblische_erzählung_id>,
-        <biblische_gestalt_id>,
-        <biblische_stätte_id>,
-        <neues_testament_id>,
-        <verkündigung_id> ;
-    skos:prefLabel "Bibel"@de ;
-    skos:topConceptOf <> .
-
-<kirchengeschichte_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <gegenreformation_id>,
-        <hugenotten_id>,
-        <inquisition_id>,
-        <ketzer_id>,
-        <konzil_id>,
-        <perikopenbuch_id>,
-        <reformation_id>,
-        <urchristentum_id> ;
+religion:a4eaf766-7d6c-4992-b221-a1b879fdb47d a skos:Concept ;
+    skos:inScheme religion: ;
+    skos:narrower religion:32a91f6d-388f-4cd5-b138-f02cb9182618,
+        religion:34f51d66-15dc-4368-b342-8b89cc8aab25,
+        religion:3e4286f4-e48a-4478-8d7c-a7a55c6b9ddd,
+        religion:85eb854f-1780-48f9-a018-31e16ad7ae8a,
+        religion:9d9ca1f8-6009-4361-9536-daf42f63e89d,
+        religion:c183a5fa-fc04-4a26-943d-1ec0639666d3,
+        religion:d137ae58-97a2-42d2-b08b-cc972622c476,
+        religion:e7a62032-3b76-40f9-ac36-1cdb1fff2c73 ;
     skos:prefLabel "Kirchengeschichte"@de ;
-    skos:topConceptOf <> .
+    skos:topConceptOf religion: .
 
-<biblische_erzählung_id> a skos:Concept ;
-    skos:broader <bibel_id> ;
-    skos:inScheme <> ;
-    skos:narrower <auferstehung_christi_id>,
-        <exodus_id>,
-        <heilsgeschichte_id>,
-        <passion_jesu_id>,
-        <patriarch_erzvater_id>,
-        <prophet_id>,
-        <schöpfung_id>,
-        <sintflut_id>,
-        <weihnachtsgeschichte_id> ;
+religion:f033808c-00fe-4c8e-b565-6ac8634daa72 a skos:Concept ;
+    skos:inScheme religion: ;
+    skos:narrower religion:16bbf90c-9378-4124-ac97-ec7c2da2a0db,
+        religion:2afcfb84-614b-4e2f-944f-cb91730893a2,
+        religion:2d91e3bf-ee22-4579-8345-c78d485b93f4,
+        religion:87ab01fe-d5e3-466e-b594-2a60c92b53ff,
+        religion:b0699c6d-75bd-4390-818c-d404a7f36d9c,
+        religion:b37c2e5e-5574-474b-8b59-f84d09380885,
+        religion:dbfb2794-1dfa-4525-b355-58e53e427c6f,
+        religion:f542a8ff-ba79-4721-aba4-86e52f8e0eef ;
+    skos:prefLabel "Bibel"@de ;
+    skos:topConceptOf religion: .
+
+religion:87ab01fe-d5e3-466e-b594-2a60c92b53ff a skos:Concept ;
+    skos:broader religion:f033808c-00fe-4c8e-b565-6ac8634daa72 ;
+    skos:inScheme religion: ;
+    skos:narrower religion:3d95ae01-c7f2-42ed-b949-960852441c3b,
+        religion:6554a029-2eb2-4bdc-940b-8f7b82f3d197,
+        religion:71f2cd70-cd2a-4590-8772-bc3b803beaf2,
+        religion:72480cc7-489c-4ccd-831c-feb02703c844,
+        religion:8cd225c3-73b4-4194-9f2b-2744a3317c41,
+        religion:8d56ab26-0c5c-4889-a8d2-5155f6c08d7f,
+        religion:95022c17-9990-4d0a-a255-9f21f3edf8fa,
+        religion:9de00743-06ec-4560-8b07-f5459d443099,
+        religion:ab878db0-50e5-4797-9d7b-6d5dc7185459 ;
     skos:prefLabel "Biblische Erzählung"@de .
 
-<biblische_gestalt_id> a skos:Concept ;
-    skos:broader <bibel_id> ;
-    skos:inScheme <> ;
-    skos:narrower <aaron_biblische_gestalt_id>,
-        <abel_biblische_gestalt_id>,
-        <abraham_biblische_gestalt_id>,
-        <absalom_biblische_gestalt_id>,
-        <adam_biblische_gestalt_id>,
-        <amos_biblische_gestalt_id>,
-        <apostel_id>,
-        <bartimäus_biblische_gestalt_id>,
-        <benjamin_biblische_gestalt_id>,
-        <daniel_biblische_gestalt_id>,
-        <david_biblische_gestalt_id>,
-        <drei_könige_id>,
-        <elias_biblische_gestalt_id>,
-        <elisabeth_biblische_gestalt_id>,
-        <elisäus_biblische_gestalt_id>,
-        <engel_id>,
-        <esau_biblische_gestalt_id>,
-        <eva_biblische_gestalt_id>,
-        <gideon_biblische_gestalt_id>,
-        <goliath_biblische_gestalt_id>,
-        <hagar_biblische_gestalt_id>,
-        <herodes_biblische_gestalt_id>,
-        <hiob_biblische_gestalt_id>,
-        <isaak_biblische_gestalt_id>,
-        <ismael_biblische_gestalt_id>,
-        <jairus_biblische_gestalt_id>,
-        <jakob_biblische_gestalt_id>,
-        <jeremia_biblische_gestalt_id>,
-        <jesus_christus_id>,
-        <johannes_der_täufer_biblische_gestalt_id>,
-        <jonas_biblische_gestalt_id>,
-        <joseph_biblische_gestalt_id>,
-        <joseph_gatte_marias__biblische_gestalt_id>,
-        <josua_biblische_gestalt_id>,
-        <judas_biblische_gestalt_id>,
-        <kain_biblische_gestalt_id>,
-        <lazarus_biblische_gestalt_id>,
-        <lot_biblische_gestalt_id>,
-        <maria_biblische_gestalt_id>,
-        <moses_biblische_gestalt_id>,
-        <noah_biblische_gestalt_id>,
-        <pilatus_biblische_gestalt_id>,
-        <rebekka_biblische_gestalt_id>,
-        <ruth_biblische_gestalt_id>,
-        <salomo_biblische_gestalt_id>,
-        <samariter_biblische_gestalt_id>,
-        <samuel_biblische_gestalt_id>,
-        <sarah_biblische_gestalt_id>,
-        <saul_könig__biblische_gestalt_id>,
-        <zacharias_biblische_gestalt_id>,
-        <zachäus_biblische_gestalt_id> ;
+religion:2d91e3bf-ee22-4579-8345-c78d485b93f4 a skos:Concept ;
+    skos:broader religion:f033808c-00fe-4c8e-b565-6ac8634daa72 ;
+    skos:inScheme religion: ;
+    skos:narrower religion:002f7fa0-68bd-4bf7-9f85-66dcf0201d11,
+        religion:0370389d-a367-4261-a1ca-15c36c4b90c2,
+        religion:03c6f741-4ccd-408f-b0aa-d98981b7dc03,
+        religion:08495e0f-8cb2-40e7-b8d3-6e245d49b212,
+        religion:0df10b4c-3a3b-4a18-b6f7-d41599debee0,
+        religion:177852bf-2a2f-4ee5-af44-03a888ef8d27,
+        religion:17bb61b8-172b-40d2-ac2a-a5d69fe0c467,
+        religion:18eff1db-c697-4b0d-8fec-7cae3c10737a,
+        religion:217c91b0-9b53-4b2c-adb7-4f5d5adb957c,
+        religion:278a86ae-ee3b-4e4f-bd04-395f8036f151,
+        religion:33b345a1-493a-43c6-b9d2-5cb5fcd3154f,
+        religion:35d8e774-7217-44e7-8599-a08204cf1eac,
+        religion:387acb91-b64e-4da7-9b72-afdeb24b5021,
+        religion:39dbccfe-f90b-44f2-b9c0-f3444d05854a,
+        religion:446e20cc-af37-43db-8d82-bd0b258f1ea1,
+        religion:4575260b-2205-42fb-8087-1d18e50cd199,
+        religion:4ac25fdd-e3ef-4273-a65a-f53ebdf496fc,
+        religion:4c7dbb91-6a98-4016-902f-2dcd73a67345,
+        religion:4db3daf2-3bf3-4dc3-80c0-9030ee5c0bd4,
+        religion:4dcbf0c2-7a7d-476d-a4c3-c64a0d482ff6,
+        religion:54426cac-2230-425f-af12-f7831c7aa431,
+        religion:5778fcd2-d178-4da5-9b9d-be7ee7938e85,
+        religion:5915bbfa-f726-419c-b35e-7aed2cb7bc6b,
+        religion:5ad0ed37-4f11-4182-89d6-ae342dbb7ec4,
+        religion:5e248eeb-606a-425e-8b0f-81fe6204a85d,
+        religion:5f23f57e-08c7-447f-9369-075200679b83,
+        religion:6770d964-1de6-46a0-978f-6815a175de4c,
+        religion:70e31356-61b9-448d-a945-70666fa1e594,
+        religion:7b4eda78-ffd3-4b0e-8c14-d6f9317a8af1,
+        religion:825c250a-1f42-4be6-b506-9c4ce3e878ca,
+        religion:83344d9f-3b26-4ec9-be8d-b30c0a17623f,
+        religion:8d3b5318-666f-4479-98dd-fc7d39427d08,
+        religion:99429198-14a4-4bbd-a296-db27d48ec1e3,
+        religion:9bcdffad-90cd-4a87-9ff8-5d0118a0c7b3,
+        religion:a250c750-921b-4ce8-b576-ab32d8b0ca2e,
+        religion:a7ba061d-55df-4a5b-8433-74200182df5a,
+        religion:a9b8cca9-827b-4066-871a-c63565b8ba4a,
+        religion:acd9b047-cfa5-4eaa-9d22-38fcbf2f0cd6,
+        religion:b08cca67-ebc6-4b23-ba3f-638c5f3b8101,
+        religion:b59ef9a8-9645-4035-94f5-50a2217faff1,
+        religion:b64d090b-f372-4097-acff-d79ba24b9770,
+        religion:ba571c05-7a53-4934-ba40-7e4aeb504ff4,
+        religion:c0c58564-20a9-4963-a51b-ac9a4a6b24c4,
+        religion:c54a76df-2dc4-4cb2-b1ea-ae3c27f328c0,
+        religion:cb072302-bdda-4330-9a57-9fc93d576d30,
+        religion:d61a30ad-ba62-4683-b102-f9cfcff9e683,
+        religion:d8ac36cd-aeca-4466-aac0-9e341bd5e169,
+        religion:df651cd4-82c5-4cec-b22f-355e7021764a,
+        religion:ea4ba19f-5c3d-4355-beba-c69c5fb7102f,
+        religion:eeb539bc-6b31-40d8-9edd-1111919a30c0,
+        religion:fb7d9bda-a09b-442b-95e2-22a49248f131 ;
     skos:prefLabel "Biblische Gestalt)"@de .
 
-<religion_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <altar_id>,
-        <atheismus_id>,
-        <beschneidung_genitalien_id>,
-        <christliche_lebensgestaltung_id>,
-        <christlicher_fundamentalismus_id>,
-        <erntedankfest_id>,
-        <ersatzreligion_id>,
-        <fastenzeit_id>,
-        <frömmigkeit_id>,
-        <gebet_id>,
-        <glaube_id>,
-        <gott_id>,
-        <gottesdienst_id>,
-        <heiligenlegende_id>,
-        <hölle_id>,
-        <intelligent_design_id>,
-        <interreligiöser_dialog_id>,
-        <islamisierung_id>,
-        <jenseits_id>,
-        <jesus_people_id>,
-        <judenmission_id>,
-        <kirchengemeinde_id>,
-        <kirchenjahr_id>,
-        <klerus_id>,
-        <kollekte_id>,
-        <konfuzianismus_id>,
-        <kreationismus_id>,
-        <kreuz_id>,
-        <krippe_weihnachten_id>,
-        <kult_id>,
-        <meditation_id>,
-        <mysterienspiel_id>,
-        <mystik_id>,
-        <nachfolge_jesus_christus_id>,
-        <new_age_id>,
-        <okkultismus_id>,
-        <pagode_id>,
-        <paradies_id>,
-        <pastoralreferent_id>,
-        <pfarrer_id>,
-        <religionsgemeinschaft_id>,
-        <religiöse_tradition_id>,
-        <sakrament_id>,
-        <segen_id>,
-        <sekte_id>,
-        <shintoismus_id>,
-        <spiritualität_id>,
-        <stammesreligion_id>,
-        <säkularisierung_id>,
-        <sünde_id>,
-        <taizé_id>,
-        <tempel_id>,
-        <umbanda_id>,
-        <vergebung_id>,
-        <waldenser_id>,
-        <wallfahrt_id>,
-        <weihe_religion_id>,
-        <weihnachtsmann_id>,
-        <weltreligion_id>,
-        <wiedergeburt_id>,
-        <wunder_id> ;
+religion:44168064-c004-437f-916a-62ecb16da41b a skos:Concept ;
+    skos:inScheme religion: ;
+    skos:narrower religion:00072dfd-5623-4888-bac3-0bda071855b7,
+        religion:05e28199-9ef5-49d3-bbc6-2688aef632c3,
+        religion:09c73942-d036-4195-ab68-c865c114a880,
+        religion:0a0471e6-5cb0-43c6-83f2-2e4e7c32d7ef,
+        religion:0d5b0efc-c814-479a-8c93-4cabdac4b715,
+        religion:0e35cad7-5e6c-4d44-9b6c-4b3b1f4bbee6,
+        religion:161a3515-5c78-4900-827d-2e15accd5210,
+        religion:163d4e4a-47e2-40b3-bbf9-ac0a71a691fc,
+        religion:1b0e4385-f7b3-4154-a035-a1d0133e6d06,
+        religion:1c49af69-09b6-4f93-930a-75321b39c4de,
+        religion:1ce70eeb-451d-4cd0-a157-190fe7f142ea,
+        religion:1d7b675f-e6af-4dfe-89d3-5d6594e084f9,
+        religion:24c69257-57eb-421b-817c-0f4a754c05b0,
+        religion:31f9ed0c-0aee-4b1d-bb70-e7335a7a6bae,
+        religion:32a91e44-fa41-43dc-8029-dd63d0e257d2,
+        religion:32bc42aa-0914-4027-a442-5159dd2a9ea2,
+        religion:3c737bd2-e163-4374-8f8e-6a0521e25c5f,
+        religion:3dc0ef6e-199d-4325-b11d-2abd57a2f66e,
+        religion:544d5eae-2a2c-4747-a285-3713097a7482,
+        religion:57a09a4b-d86d-464b-87ad-1a673f612f14,
+        religion:58a8fe16-2193-4d7d-88d6-6ddeff75cce8,
+        religion:60427bfd-76db-4c3f-9872-a850ce74613a,
+        religion:62520fb6-aff6-4f7e-b934-515a7910e846,
+        religion:6bfe53cc-eac2-4edb-9c56-13c49d64f5d8,
+        religion:6df8f02d-6d08-49f2-b516-57028bec4a1e,
+        religion:73ec76e1-57d2-4440-ae89-8db63a52e8ad,
+        religion:763c3d23-3737-4aca-843e-4c47f6558047,
+        religion:77aa5aa9-bcc8-4137-aef2-fc76c821390f,
+        religion:77ea4113-225b-4451-8b34-082a6dd6f498,
+        religion:81a49beb-5f3e-4ec1-8147-edc37463d098,
+        religion:889ddacc-a9d5-49a9-b82b-af2e71930d5a,
+        religion:8beb5052-277f-46b3-b326-e8fee02bec65,
+        religion:8d1d5849-fa1a-4604-883b-5d7819c7a87c,
+        religion:8d4e579d-710a-4a26-b7c4-4fc7721a9193,
+        religion:901f810d-ab12-476d-9fd7-65eb9fb6904a,
+        religion:9038ee78-8876-4982-8942-9fc614d454b7,
+        religion:9046712d-49b8-4bac-9106-e76fa04dc0be,
+        religion:910cebe2-d617-47f4-b25c-cbd80c7f3bf8,
+        religion:93e634da-225a-430d-8cad-1e930f570939,
+        religion:98a2a629-4674-4fca-a23d-1e0afee7317b,
+        religion:995b73ba-5eb6-4a8c-b83b-5840569459d2,
+        religion:9dee242c-348d-4293-a2a6-3c3a8a5e637a,
+        religion:9df1a8b7-b77e-4835-b590-39cacdddd787,
+        religion:9f9fccb6-3c15-4681-8d65-7aaff4f8a235,
+        religion:a32c1db7-f506-4e21-bc5a-8f2d57aedb8f,
+        religion:a89478df-034f-4c5f-95d6-7fb4ede46dee,
+        religion:a9d800e8-ea55-44d7-aadf-c666d4cbe828,
+        religion:ae73f181-dfb2-4564-91dd-7ff71de00747,
+        religion:af54d525-c54d-4911-88db-846e435f2ddf,
+        religion:b1a228be-71ae-4a6f-a258-0a7f84d6e9ca,
+        religion:b5a2a3c8-aec7-462d-a5ea-0130059820e1,
+        religion:bc526996-2530-4159-bec8-fb93ffb49db1,
+        religion:c4d1a01d-a150-44ad-b4fe-467e208be8db,
+        religion:c6dac4fe-090c-4442-9e48-551c3710e3ad,
+        religion:cd45dd68-88cd-42e6-b225-3eb515d4f7c3,
+        religion:d0729d72-5496-4303-ad9c-047bde35d582,
+        religion:d10a1648-dc10-46d4-a627-e7b28db0debb,
+        religion:d740a136-c78d-48f0-a3cd-7a88c3e9d4ca,
+        religion:e163a6bf-95f3-436b-88ca-743c200532fc,
+        religion:e16783eb-86a8-414b-9f1c-fbc71458cc1b,
+        religion:e75dfa6e-a566-4ef9-84a5-5bb9fa3524b6 ;
     skos:prefLabel "Religion"@de ;
-    skos:topConceptOf <> .
+    skos:topConceptOf religion: .
 
-<personen_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <albertz__heinrich_id>,
-        <bahr__petra_id>,
-        <barth__karl_id>,
-        <benedikt_von_nursia_id>,
-        <benedikt_xvi._papst_id>,
-        <bernhard_von_clairvaux_id>,
-        <bernward_von_hildesheim_id>,
-        <beyers_naude__christian_id>,
-        <birndorfer__johann_id>,
-        <bodelschwingh__friedrich_von__der_ältere_id>,
-        <boff__leonardo_id>,
-        <bonhoeffer__dietrich_id>,
-        <bonifatius_id>,
-        <bora__katharina_von_id>,
-        <bosco__don_giovanni_id>,
-        <brenz__johannes_id>,
-        <buber__martin_id>,
-        <calvin__johannes_id>,
-        <camara__dom_helder_id>,
-        <chardin__pierre_teilhard_de_id>,
-        <dalai_lama_id>,
-        <delp__alfred_id>,
-        <drewermann__euen_id>,
-        <elisabeth_heilige_id>,
-        <enomiyalassalle__hugo_makibi_id>,
-        <erasmus_von_rotterdam_id>,
-        <faulhaber__michael_von_id>,
-        <fliedner__theodor_id>,
-        <florian_heiliger_id>,
-        <franz_von_assisi_id>,
-        <franziskus_papst_id>,
-        <gerstenmaier__eugen_id>,
-        <gröb__wilhelm_id>,
-        <hahn__philipp_matthias_id>,
-        <hammer__hans_id>,
-        <hedwig_von_schlesien_id>,
-        <hildegard_von_bingen_id>,
-        <jan_hus_id>,
-        <jaspers__karl_id>,
-        <johannes_paul_i._papst_id>,
-        <johannes_paul_ii._papst_id>,
-        <johannes_xxiii._papst_id>,
-        <juchli__liliane_schwester_id>,
-        <jägerstätter__franz_id>,
-        <katharina_von_siena_heilige_id>,
-        <kierkegaard__sören_id>,
-        <knobloch__cahrlotte_id>,
-        <kolping__adolph_id>,
-        <kräutler__erwin_id>,
-        <könig__franz_id>,
-        <lavater__johann_caspar_id>,
-        <lichtenberg__bernhard_id>,
-        <loyola__ignatius_von_id>,
-        <luther__martin_id>,
-        <löhe__johann_konrad_wilhelem_id>,
-        <mallinckrodt__pauline_von_id>,
-        <moltmann__jürgen_id>,
-        <mutter_teresa_id>,
-        <münster__sebastian_id>,
-        <müntzer__thomas_id>,
-        <niemöller__martin_id>,
-        <nikolaus_heiliger_id>,
-        <pallotti__vincenzo_id>,
-        <paul_vi._papst_id>,
-        <pius_xii._papst_id>,
-        <romero__oscar_id>,
-        <roswitha_von_gandersheim_id>,
-        <schutz_de_taizé__frère_roger_id>,
-        <schönherr__albrecht_id>,
-        <speckle__ignaz_id>,
-        <stirling__robert_id>,
-        <sölle__dorothee_id>,
-        <tayler__hudson_id>,
-        <tetzel__johannes_id>,
-        <thomas_von_aquin_id>,
-        <tielewinckler__eva_von_id>,
-        <torres__camilo_id>,
-        <tutu__desmond_id>,
-        <urban_ii._papst_id>,
-        <werner__gustav_id>,
-        <wesley__john_id>,
-        <wichern__johann_hinrich_id>,
-        <zelot_id> ;
+religion:d7101f6b-584b-4361-9c4d-2c10b08939f7 a skos:Concept ;
+    skos:inScheme religion: ;
+    skos:narrower religion:002ab83c-d65d-46b4-8b7d-b0dd921c7ebd,
+        religion:034338af-19cd-4892-a137-f148535996e8,
+        religion:06843719-04b3-4419-a360-5803d0a4561b,
+        religion:124e3cff-16ce-4228-86a9-1a63748dd308,
+        religion:158dc99b-7b4b-44c3-be64-3e8fae7f76f1,
+        religion:1782bc14-4598-4494-868a-42b06a0c5795,
+        religion:18c7b1e8-d27f-4f86-bb93-61269fda9ebb,
+        religion:1c6456a8-ac84-4b90-b9c3-6188e4315b95,
+        religion:2a23f3fe-d820-4675-a2ae-abc7e5b8c72f,
+        religion:32bc2edb-7390-44b1-8081-36b583d7de91,
+        religion:3330e281-7e77-416f-855b-3caabbae87bc,
+        religion:34242d94-e8e5-44c1-ba1a-d7e3f3e4973c,
+        religion:35ff956f-8c8c-43a9-a50a-414883beac31,
+        religion:3ab2716f-4573-416a-ae0b-ab997b696437,
+        religion:408471c7-e1b1-4ed6-bf19-2f576d819967,
+        religion:40cdf15a-9a8a-4772-9ebe-7d493c19fb4f,
+        religion:44c5863a-efa6-4b87-83d7-84494a10faec,
+        religion:4811b3bf-c5b3-4965-be08-b88ed55618c2,
+        religion:483748b2-2148-4e80-ab20-66123423b0ef,
+        religion:4bfbc9ad-c7cd-4bce-92ed-04dd8a0cebef,
+        religion:4c407c6e-fe98-40b9-9675-7e6175aa100f,
+        religion:4c5d76c8-4c02-4161-8fa4-582a28d58a7b,
+        religion:507938c0-bb5e-40dc-9992-f0335eafcf13,
+        religion:513d9035-f5f0-4254-86d2-663b86bcb4b0,
+        religion:540b1117-8fcb-49d9-ad37-02e17b19d6d0,
+        religion:57669ded-2652-4835-ab55-517ce0ae3814,
+        religion:5aae078d-a10e-4b37-9f7d-be0460e2a00a,
+        religion:5f4d531a-7897-4cc9-9274-fb137146af95,
+        religion:61b653e0-87a6-40a7-aac9-b1a6d5556817,
+        religion:62051c4d-9308-40de-8eff-9e6c3205402a,
+        religion:68f139c3-f6e8-405c-92c5-81d5613051bf,
+        religion:69fb1aa5-9c13-412d-9670-b97e23d3f059,
+        religion:6a231986-6729-4e67-a2c8-acd2c6482ac1,
+        religion:6c522f84-2f32-4218-85f5-eec0faa3db5d,
+        religion:712940e5-9f04-48d7-bd76-cfb101cae15c,
+        religion:7618ad12-70a5-4084-a39e-62b459a74780,
+        religion:7c975e17-65a5-4418-a26a-e296f7765516,
+        religion:8035698f-ff5d-4f43-a235-8321fc4f9443,
+        religion:80d7c4f3-0a6d-4d71-b634-59e7d68e3831,
+        religion:8221667e-0386-4bec-a43d-bdabaaf05db1,
+        religion:8346e047-16e4-4b3f-a3e0-edf4b306c230,
+        religion:84874c4b-75e9-428f-a6df-0c30501aeb79,
+        religion:850f0d6c-5901-4b13-b915-8818483cae15,
+        religion:8747fd48-850d-4173-b534-c64e854811e8,
+        religion:878dd483-f4e2-49fc-a6ac-2c8de3296297,
+        religion:88a04c4a-5cac-418a-8045-560a567d6383,
+        religion:8914e8fd-95db-459a-9b92-ed96f03b5b2d,
+        religion:8b8c5f13-7971-4db3-8d4b-c4d8eedfa264,
+        religion:94abb449-1ffd-4d0b-b8a5-04ec8b6f2238,
+        religion:95e33f05-7f03-4463-900e-499add9ac9d5,
+        religion:9ba54353-ba08-4513-a42f-e8596b8009c2,
+        religion:9c5fe9e0-cc0d-418e-9f1e-c1a91cade2f4,
+        religion:a0c33487-ad93-464f-bd7c-7a33fcc9dd3a,
+        religion:a7dfbd4c-3497-417f-b7ea-4bf1ca428e79,
+        religion:ab52a823-4bd1-41a4-8156-c55709e77d3e,
+        religion:ab76cbf1-c070-4094-94cc-f9e21d12c776,
+        religion:b06997ae-c1f5-4883-90dc-fdd36e8ef2ad,
+        religion:b4179453-5c36-45f1-82b1-e7aa7435b149,
+        religion:bb4711be-de1c-49a3-b361-f17917a539da,
+        religion:bdbda0e0-79aa-47c6-93a8-738a89cb9a5f,
+        religion:bfbece47-5a34-4a7b-b1f4-6831af5a4c64,
+        religion:c0cb6429-8db4-4dc3-a2fa-8e02a7d03efa,
+        religion:c1e553ab-5da5-4f19-941f-c7fabe863ab0,
+        religion:c5475f60-eb5a-417d-8e25-2614c9eddcdc,
+        religion:c5df975d-b22e-4002-8877-d1978a3823e8,
+        religion:c920448e-31a4-4047-bc36-67a537fb4146,
+        religion:ca001cb8-5ece-4da7-bd97-8b6f3ffd6132,
+        religion:ca66ca75-b62c-4f1d-9776-ea9e23320b96,
+        religion:caa978ec-9afb-4094-b304-d8048652abb8,
+        religion:cc007fec-aedb-4e38-8358-10cb68396605,
+        religion:cd15f10e-907a-43b8-a58b-b2415c2833c4,
+        religion:dd084ab3-ffcb-438b-bff1-85f8ff103777,
+        religion:dec345d1-3192-4406-be75-286c71cb580d,
+        religion:e257111f-25b9-4410-bed2-b7f87e4626a2,
+        religion:e2b851eb-1f26-4669-a14e-f66fa66c5776,
+        religion:e38ed4ef-21a4-49ce-9656-d351ca21b058,
+        religion:e60d42ca-c88d-4a21-9b0d-9f3fe9721bdb,
+        religion:e98a5819-76bb-4215-af55-f9d402ea122e,
+        religion:f0c4be13-9073-4e7c-a9a3-00c5c262398b,
+        religion:f23b84e0-6957-4dc5-a8cd-c50ed1eac17d,
+        religion:f71180ce-2d19-4b80-9d5b-f2cc5957b767,
+        religion:fb43a550-9e64-4633-b9fd-dc14d014d4b2,
+        religion:fd30f3cc-8b5c-43ce-be39-f61a8fc41a3d ;
     skos:prefLabel "Personen"@de ;
-    skos:topConceptOf <> .
+    skos:topConceptOf religion: .
 
-<> a skos:ConceptScheme ;
+religion: a skos:ConceptScheme ;
     dct:creator "<https://creator.com>" ;
-    dct:description "religion_systematik"@de ;
-    dct:title "religion_systematik"@de ;
-    skos:hasTopConcept <bibel_id>,
-        <kirchengeschichte_id>,
-        <kirchensteuer_id>,
-        <personen_id>,
-        <religion_id>,
-        <religionskritik_id> .
+    dct:description "religion"@de ;
+    dct:title "religion"@de ;
+    skos:hasTopConcept religion:05f82ca5-6c3a-4afa-bce1-ad014c90d023,
+        religion:44168064-c004-437f-916a-62ecb16da41b,
+        religion:56d58189-75a5-4029-baeb-43d5fdc5073b,
+        religion:a4eaf766-7d6c-4992-b221-a1b879fdb47d,
+        religion:d7101f6b-584b-4361-9c4d-2c10b08939f7,
+        religion:f033808c-00fe-4c8e-b565-6ac8634daa72 .
 

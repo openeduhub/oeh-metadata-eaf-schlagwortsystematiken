@@ -1,405 +1,405 @@
-@base <https://example-perma-id/mathematik_systematik/> .
 @prefix dct: <http://purl.org/dc/terms/> .
+@prefix mathematik: <http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/mathematik/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<achsensymmetrie_id> a skos:Concept ;
-    skos:broader <symmetrie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Achsensymmetrie"@de .
-
-<analysis_id> a skos:Concept ;
-    skos:broader <mathematik_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Analysis"@de .
-
-<babbage__charles_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Babbage, Charles"@de .
-
-<barlow__peter_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Barlow, Peter"@de .
-
-<bernoulli__daniel_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Bernoulli, Daniel"@de .
-
-<bruchrechnung_id> a skos:Concept ;
-    skos:broader <algorithmus_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Bruchrechnung"@de .
-
-<bündelung_mathematik_id> a skos:Concept ;
-    skos:broader <zahlensystem_id> ;
-    skos:inScheme <> ;
+mathematik:05db35c8-4043-46fe-b068-dfd210473f27 a skos:Concept ;
+    skos:broader mathematik:eb397c30-114d-4645-89f4-bd3acf7be2bc ;
+    skos:inScheme mathematik: ;
     skos:prefLabel "Bündelung (Mathematik)"@de .
 
-<cavalieri__bonaventura_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Cavalieri, Bonaventura"@de .
-
-<chaostheorie_id> a skos:Concept ;
-    skos:broader <mathematik_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Chaostheorie"@de .
-
-<coriolis__gaspard_gustave_de_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Coriolis, Gaspard Gustave de"@de .
-
-<descartes__rené_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Descartes, René"@de .
-
-<diagramm_id> a skos:Concept ;
-    skos:broader <geometrie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Diagramm"@de .
-
-<dreisatz_id> a skos:Concept ;
-    skos:broader <gleichung_mathematik_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Dreisatz"@de .
-
-<dualsystem_id> a skos:Concept ;
-    skos:broader <zahlensystem_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Dualsystem"@de .
-
-<ellipse_gemetrie_id> a skos:Concept ;
-    skos:broader <geometrie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Ellipse (Gemetrie)"@de .
-
-<exponentialfunktion__id> a skos:Concept ;
-    skos:broader <funktion_mathematik_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Exponentialfunktion "@de .
-
-<flächeninhalt_id> a skos:Concept ;
-    skos:broader <geometrie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Flächeninhalt"@de .
-
-<formel_mathematik_id> a skos:Concept ;
-    skos:broader <mathematik_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Formel (Mathematik)"@de .
-
-<fraktalgeometrie_id> a skos:Concept ;
-    skos:broader <geometrie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Fraktalgeometrie"@de .
-
-<gauß__carl_friedrich_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
+mathematik:0619d9d9-6058-4258-b615-f5bbaef703b9 a skos:Concept ;
+    skos:broader mathematik:df7a179a-a149-4b79-9662-cad9ce43fcca ;
+    skos:inScheme mathematik: ;
     skos:prefLabel "Gauß, Carl Friedrich"@de .
 
-<gerade_mathematik_id> a skos:Concept ;
-    skos:broader <geometrie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Gerade (Mathematik)"@de .
+mathematik:154f8ab8-077d-4bfe-939b-60831bc59c83 a skos:Concept ;
+    skos:broader mathematik:167a3fc4-600c-49c9-82dc-33b0362193ae ;
+    skos:inScheme mathematik: ;
+    skos:prefLabel "Analysis"@de .
 
-<grundrechenart_id> a skos:Concept ;
-    skos:broader <algorithmus_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Grundrechenart"@de .
-
-<kegelschnitt_id> a skos:Concept ;
-    skos:broader <geometrie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kegelschnitt"@de .
-
-<kommutativgesetz_id> a skos:Concept ;
-    skos:broader <algorithmus_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kommutativgesetz"@de .
-
-<koordinate_id> a skos:Concept ;
-    skos:broader <geometrie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Koordinate"@de .
-
-<kopfrechnen_id> a skos:Concept ;
-    skos:broader <mathematik_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kopfrechnen"@de .
-
-<mandelbrot__benoît_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Mandelbrot, Benoît"@de .
-
-<menge_mathematik_id> a skos:Concept ;
-    skos:broader <mengenlehre_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Menge (Mathematik)"@de .
-
-<negative_zahlen_id> a skos:Concept ;
-    skos:broader <zahl_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Negative Zahlen"@de .
-
-<oberfläche_mathematik_id> a skos:Concept ;
-    skos:broader <geometrie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Oberfläche (Mathematik)"@de .
-
-<parabel_mathematik_id> a skos:Concept ;
-    skos:broader <geometrie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Parabel (Mathematik)"@de .
-
-<projektion_mathematik_id> a skos:Concept ;
-    skos:broader <geometrie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Projektion (Mathematik)"@de .
-
-<proportion_mathematik_id> a skos:Concept ;
-    skos:broader <gleichung_mathematik_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Proportion (Mathematik)"@de .
-
-<prozentrechnung_id> a skos:Concept ;
-    skos:broader <algorithmus_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Prozentrechnung"@de .
-
-<pythagoras_id> a skos:Concept ;
-    skos:broader <geometrie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Pythagoras"@de .
-
-<rechenstab_id> a skos:Concept ;
-    skos:broader <mathematik_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Rechenstab"@de .
-
-<ries__adam_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Ries, Adam"@de .
-
-<schaltalgebra_id> a skos:Concept ;
-    skos:broader <algebra_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Schaltalgebra"@de .
-
-<senkrechte_mathematik_id> a skos:Concept ;
-    skos:broader <geometrie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Senkrechte (Mathematik)"@de .
-
-<statistik_id> a skos:Concept ;
-    skos:broader <mathematik_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Statistik"@de .
-
-<tabellenkalkulation_id> a skos:Concept ;
-    skos:broader <mathematik_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Tabellenkalkulation"@de .
-
-<ungleichung_mathematik_id> a skos:Concept ;
-    skos:broader <algebra_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Ungleichung (Mathematik)"@de .
-
-<venndiagramm_id> a skos:Concept ;
-    skos:broader <mengenlehre_id> ;
-    skos:inScheme <> ;
+mathematik:193dc152-7693-4c5f-be43-3b26bab75bed a skos:Concept ;
+    skos:broader mathematik:ff079099-dfcc-4b25-83e9-22335aaed360 ;
+    skos:inScheme mathematik: ;
     skos:prefLabel "Venn-Diagramm"@de .
 
-<viereck_geometrie_id> a skos:Concept ;
-    skos:broader <geometrische_figur__id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Viereck (Geometrie)"@de .
+mathematik:21ef0f2a-aa0c-4005-a020-441caa29a0e9 a skos:Concept ;
+    skos:broader mathematik:a42e1634-6fff-4dd1-a6ad-f913a4c6dd9b ;
+    skos:inScheme mathematik: ;
+    skos:prefLabel "Schaltalgebra"@de .
 
-<volumenberechnung_id> a skos:Concept ;
-    skos:broader <rauminhalt_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Volumenberechnung"@de .
-
-<wahrscheinlichkeit_mathematik_id> a skos:Concept ;
-    skos:broader <mathematik_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Wahrscheinlichkeit (Mathematik)"@de .
-
-<watt_einheit_id> a skos:Concept ;
-    skos:broader <größe_mathematik/physik_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Watt (Einheit)"@de .
-
-<winkel_geometrie_id> a skos:Concept ;
-    skos:broader <geometrie_id> ;
-    skos:inScheme <> ;
+mathematik:24309a22-2121-408e-b15b-fcd773c9fa37 a skos:Concept ;
+    skos:broader mathematik:3990f1e9-da85-4867-af7a-1dcd2fe82e15 ;
+    skos:inScheme mathematik: ;
     skos:prefLabel "Winkel (Geometrie)"@de .
 
-<winkelfunktion_id> a skos:Concept ;
-    skos:broader <funktion_mathematik_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Winkelfunktion"@de .
+mathematik:27a95e16-fec0-462e-9e1c-b0e737fb09a3 a skos:Concept ;
+    skos:broader mathematik:167a3fc4-600c-49c9-82dc-33b0362193ae ;
+    skos:inScheme mathematik: ;
+    skos:prefLabel "Chaostheorie"@de .
 
-<winkelgeschwindigkeit_id> a skos:Concept ;
-    skos:broader <größe_mathematik/physik_id> ;
-    skos:inScheme <> ;
+mathematik:2a0f951e-2541-4eea-9a9f-9a25ff680dd5 a skos:Concept ;
+    skos:broader mathematik:df7a179a-a149-4b79-9662-cad9ce43fcca ;
+    skos:inScheme mathematik: ;
+    skos:prefLabel "Descartes, René"@de .
+
+mathematik:2bca2581-7f53-4245-8951-fa4b8b6da61b a skos:Concept ;
+    skos:broader mathematik:167a3fc4-600c-49c9-82dc-33b0362193ae ;
+    skos:inScheme mathematik: ;
+    skos:prefLabel "Formel (Mathematik)"@de .
+
+mathematik:2bd27f12-42f0-492a-8300-a799f20e8e50 a skos:Concept ;
+    skos:broader mathematik:3990f1e9-da85-4867-af7a-1dcd2fe82e15 ;
+    skos:inScheme mathematik: ;
+    skos:prefLabel "Pythagoras"@de .
+
+mathematik:30e72ba3-72a7-4825-89a6-d524d65a72e9 a skos:Concept ;
+    skos:broader mathematik:43d536f1-29b3-4b14-a2c3-b20109cc164e ;
+    skos:inScheme mathematik: ;
+    skos:prefLabel "Bruchrechnung"@de .
+
+mathematik:37e1f4a6-7c92-480f-bb14-ed54dd62099e a skos:Concept ;
+    skos:broader mathematik:55ad0439-9103-4548-8e18-db8a8931b27a ;
+    skos:inScheme mathematik: ;
+    skos:prefLabel "Watt (Einheit)"@de .
+
+mathematik:3c001266-fe1c-483c-a2b1-b30cba9b74d7 a skos:Concept ;
+    skos:broader mathematik:df7a179a-a149-4b79-9662-cad9ce43fcca ;
+    skos:inScheme mathematik: ;
+    skos:prefLabel "Bernoulli, Daniel"@de .
+
+mathematik:3dc4c635-91dc-4ce9-afe0-b428f28099db a skos:Concept ;
+    skos:broader mathematik:43d536f1-29b3-4b14-a2c3-b20109cc164e ;
+    skos:inScheme mathematik: ;
+    skos:prefLabel "Kommutativgesetz"@de .
+
+mathematik:439af6a3-ee8f-4954-bb8c-568848c0ef28 a skos:Concept ;
+    skos:broader mathematik:a42e1634-6fff-4dd1-a6ad-f913a4c6dd9b ;
+    skos:inScheme mathematik: ;
+    skos:prefLabel "Ungleichung (Mathematik)"@de .
+
+mathematik:44322a9e-c236-4a1b-bd3e-0d12e7acee67 a skos:Concept ;
+    skos:broader mathematik:df7a179a-a149-4b79-9662-cad9ce43fcca ;
+    skos:inScheme mathematik: ;
+    skos:prefLabel "Barlow, Peter"@de .
+
+mathematik:52bcf59b-930b-4e79-9895-1cca36aeff96 a skos:Concept ;
+    skos:broader mathematik:c703fc6e-f493-47a9-9284-19343789fb73 ;
+    skos:inScheme mathematik: ;
+    skos:prefLabel "Achsensymmetrie"@de .
+
+mathematik:5b3cf290-461e-40b3-9392-c66b420a0964 a skos:Concept ;
+    skos:broader mathematik:3990f1e9-da85-4867-af7a-1dcd2fe82e15 ;
+    skos:inScheme mathematik: ;
+    skos:prefLabel "Ellipse (Gemetrie)"@de .
+
+mathematik:5bc035ed-dea3-4bf8-b967-58ae6c4577e9 a skos:Concept ;
+    skos:broader mathematik:df7a179a-a149-4b79-9662-cad9ce43fcca ;
+    skos:inScheme mathematik: ;
+    skos:prefLabel "Babbage, Charles"@de .
+
+mathematik:5f85f4c6-43d5-4089-9e2f-446fca85d6e1 a skos:Concept ;
+    skos:broader mathematik:df7a179a-a149-4b79-9662-cad9ce43fcca ;
+    skos:inScheme mathematik: ;
+    skos:prefLabel "Cavalieri, Bonaventura"@de .
+
+mathematik:70c9107e-52ac-4c01-89f1-eb3a7db622fe a skos:Concept ;
+    skos:broader mathematik:7c6f9325-1021-46a1-ab27-75c98465ffcf ;
+    skos:inScheme mathematik: ;
+    skos:prefLabel "Viereck (Geometrie)"@de .
+
+mathematik:79e3bddd-2e4b-4ef4-b845-c7ad207d7b00 a skos:Concept ;
+    skos:broader mathematik:3990f1e9-da85-4867-af7a-1dcd2fe82e15 ;
+    skos:inScheme mathematik: ;
+    skos:prefLabel "Fraktalgeometrie"@de .
+
+mathematik:87091179-82ec-4ba4-9859-48b4b52c7add a skos:Concept ;
+    skos:broader mathematik:55ad0439-9103-4548-8e18-db8a8931b27a ;
+    skos:inScheme mathematik: ;
     skos:prefLabel "Winkelgeschwindigkeit"@de .
 
-<würfel_geometrie_id> a skos:Concept ;
-    skos:broader <geometrische_figur__id> ;
-    skos:inScheme <> ;
+mathematik:8c21a173-3a57-46db-bf09-bf26ead2baf1 a skos:Concept ;
+    skos:broader mathematik:43d536f1-29b3-4b14-a2c3-b20109cc164e ;
+    skos:inScheme mathematik: ;
+    skos:prefLabel "Prozentrechnung"@de .
+
+mathematik:90d1555d-3bfa-416a-b18c-4272e4706d19 a skos:Concept ;
+    skos:broader mathematik:3990f1e9-da85-4867-af7a-1dcd2fe82e15 ;
+    skos:inScheme mathematik: ;
+    skos:prefLabel "Gerade (Mathematik)"@de .
+
+mathematik:975d9d44-b1b8-4ddd-a54a-35f517cc5c3a a skos:Concept ;
+    skos:broader mathematik:3990f1e9-da85-4867-af7a-1dcd2fe82e15 ;
+    skos:inScheme mathematik: ;
+    skos:prefLabel "Flächeninhalt"@de .
+
+mathematik:a3b0c238-b61b-4224-bd9b-9e17467d0907 a skos:Concept ;
+    skos:broader mathematik:ff079099-dfcc-4b25-83e9-22335aaed360 ;
+    skos:inScheme mathematik: ;
+    skos:prefLabel "Menge (Mathematik)"@de .
+
+mathematik:a839f172-9190-4460-8a56-39f6f1a74d74 a skos:Concept ;
+    skos:broader mathematik:df7a179a-a149-4b79-9662-cad9ce43fcca ;
+    skos:inScheme mathematik: ;
+    skos:prefLabel "Ries, Adam"@de .
+
+mathematik:acb7ca74-9e1f-4071-b7db-b5d8be1968ab a skos:Concept ;
+    skos:broader mathematik:167a3fc4-600c-49c9-82dc-33b0362193ae ;
+    skos:inScheme mathematik: ;
+    skos:prefLabel "Tabellenkalkulation"@de .
+
+mathematik:b30c9f90-643f-43d9-b662-a1edb89f28ab a skos:Concept ;
+    skos:broader mathematik:3990f1e9-da85-4867-af7a-1dcd2fe82e15 ;
+    skos:inScheme mathematik: ;
+    skos:prefLabel "Parabel (Mathematik)"@de .
+
+mathematik:b3225272-cf31-4ec3-bb22-58d5d00f7ea1 a skos:Concept ;
+    skos:broader mathematik:77490a69-b798-4130-91c1-ee379a940051 ;
+    skos:inScheme mathematik: ;
+    skos:prefLabel "Winkelfunktion"@de .
+
+mathematik:bac3cde9-6ac4-4e29-9f6d-67ba65ec8252 a skos:Concept ;
+    skos:broader mathematik:77490a69-b798-4130-91c1-ee379a940051 ;
+    skos:inScheme mathematik: ;
+    skos:prefLabel "Exponentialfunktion "@de .
+
+mathematik:bae56f2a-dc25-4dac-ac87-a9a60b0083bf a skos:Concept ;
+    skos:broader mathematik:df7a179a-a149-4b79-9662-cad9ce43fcca ;
+    skos:inScheme mathematik: ;
+    skos:prefLabel "Mandelbrot, Benoît"@de .
+
+mathematik:c0605519-fb08-4a90-913c-94d5c281bdc8 a skos:Concept ;
+    skos:broader mathematik:167a3fc4-600c-49c9-82dc-33b0362193ae ;
+    skos:inScheme mathematik: ;
+    skos:prefLabel "Statistik"@de .
+
+mathematik:c43e8d92-f49c-428c-96ca-2ae82fff75be a skos:Concept ;
+    skos:broader mathematik:614826c4-d4de-4bbc-83f2-2d91cbabf03e ;
+    skos:inScheme mathematik: ;
+    skos:prefLabel "Volumenberechnung"@de .
+
+mathematik:cba8aa1a-6fff-438c-8269-b4308ae5e52a a skos:Concept ;
+    skos:broader mathematik:43d536f1-29b3-4b14-a2c3-b20109cc164e ;
+    skos:inScheme mathematik: ;
+    skos:prefLabel "Grundrechenart"@de .
+
+mathematik:cc5d0316-7fa8-460c-aff0-e17804ea8d8b a skos:Concept ;
+    skos:broader mathematik:167a3fc4-600c-49c9-82dc-33b0362193ae ;
+    skos:inScheme mathematik: ;
+    skos:prefLabel "Kopfrechnen"@de .
+
+mathematik:cd191498-5f76-4d00-b68d-ef346b6a9fd4 a skos:Concept ;
+    skos:broader mathematik:eb397c30-114d-4645-89f4-bd3acf7be2bc ;
+    skos:inScheme mathematik: ;
+    skos:prefLabel "Dualsystem"@de .
+
+mathematik:ce05718a-4d97-446c-a6a4-31bca50b9899 a skos:Concept ;
+    skos:broader mathematik:8ff0a53a-7872-444b-978b-ad49b0a322be ;
+    skos:inScheme mathematik: ;
+    skos:prefLabel "Dreisatz"@de .
+
+mathematik:d380228c-dcb2-4cc8-ae17-08a3aa70b532 a skos:Concept ;
+    skos:broader mathematik:137798a5-e322-4f4f-945e-c0a75b833096 ;
+    skos:inScheme mathematik: ;
+    skos:prefLabel "Negative Zahlen"@de .
+
+mathematik:da06b747-3437-4d61-8bdf-3c5c09a9e9d4 a skos:Concept ;
+    skos:broader mathematik:3990f1e9-da85-4867-af7a-1dcd2fe82e15 ;
+    skos:inScheme mathematik: ;
+    skos:prefLabel "Kegelschnitt"@de .
+
+mathematik:db2408c6-8909-4333-a3bf-3a58ddb96c31 a skos:Concept ;
+    skos:broader mathematik:167a3fc4-600c-49c9-82dc-33b0362193ae ;
+    skos:inScheme mathematik: ;
+    skos:prefLabel "Rechenstab"@de .
+
+mathematik:e77700a8-4538-43aa-aeeb-463a999a9ac9 a skos:Concept ;
+    skos:broader mathematik:8ff0a53a-7872-444b-978b-ad49b0a322be ;
+    skos:inScheme mathematik: ;
+    skos:prefLabel "Proportion (Mathematik)"@de .
+
+mathematik:e9b774ef-106f-474b-9e0d-0cc8ea2474e0 a skos:Concept ;
+    skos:broader mathematik:3990f1e9-da85-4867-af7a-1dcd2fe82e15 ;
+    skos:inScheme mathematik: ;
+    skos:prefLabel "Oberfläche (Mathematik)"@de .
+
+mathematik:ee0f6b7e-a1e7-44c1-973a-0bce34a411ab a skos:Concept ;
+    skos:broader mathematik:7c6f9325-1021-46a1-ab27-75c98465ffcf ;
+    skos:inScheme mathematik: ;
     skos:prefLabel "Würfel (Geometrie)"@de .
 
-<analytische_geometrie_id> a skos:Concept ;
-    skos:broader <algebra_id> ;
-    skos:inScheme <> ;
-    skos:narrower <funktion_mathematik_id> ;
-    skos:prefLabel "Analytische Geometrie"@de .
+mathematik:ee8ef2d8-dd9b-4b72-8131-7baa48213b27 a skos:Concept ;
+    skos:broader mathematik:3990f1e9-da85-4867-af7a-1dcd2fe82e15 ;
+    skos:inScheme mathematik: ;
+    skos:prefLabel "Senkrechte (Mathematik)"@de .
 
-<rauminhalt_id> a skos:Concept ;
-    skos:broader <geometrie_id> ;
-    skos:inScheme <> ;
-    skos:narrower <volumenberechnung_id> ;
+mathematik:f725f05d-81aa-4fba-a0bc-1a96a3037de1 a skos:Concept ;
+    skos:broader mathematik:167a3fc4-600c-49c9-82dc-33b0362193ae ;
+    skos:inScheme mathematik: ;
+    skos:prefLabel "Wahrscheinlichkeit (Mathematik)"@de .
+
+mathematik:f86c832d-12a7-4d1e-8bbb-356c9024c8a5 a skos:Concept ;
+    skos:broader mathematik:3990f1e9-da85-4867-af7a-1dcd2fe82e15 ;
+    skos:inScheme mathematik: ;
+    skos:prefLabel "Projektion (Mathematik)"@de .
+
+mathematik:f88286d0-11ca-4aee-a91f-bc2bdc783f08 a skos:Concept ;
+    skos:broader mathematik:df7a179a-a149-4b79-9662-cad9ce43fcca ;
+    skos:inScheme mathematik: ;
+    skos:prefLabel "Coriolis, Gaspard Gustave de"@de .
+
+mathematik:f8fa9abc-b7aa-4f72-b479-b76694b2fd78 a skos:Concept ;
+    skos:broader mathematik:3990f1e9-da85-4867-af7a-1dcd2fe82e15 ;
+    skos:inScheme mathematik: ;
+    skos:prefLabel "Koordinate"@de .
+
+mathematik:fec4e74d-8a44-4b34-a620-a4f48de52df5 a skos:Concept ;
+    skos:broader mathematik:3990f1e9-da85-4867-af7a-1dcd2fe82e15 ;
+    skos:inScheme mathematik: ;
+    skos:prefLabel "Diagramm"@de .
+
+mathematik:614826c4-d4de-4bbc-83f2-2d91cbabf03e a skos:Concept ;
+    skos:broader mathematik:3990f1e9-da85-4867-af7a-1dcd2fe82e15 ;
+    skos:inScheme mathematik: ;
+    skos:narrower mathematik:c43e8d92-f49c-428c-96ca-2ae82fff75be ;
     skos:prefLabel "Rauminhalt"@de .
 
-<symmetrie_id> a skos:Concept ;
-    skos:broader <geometrie_id> ;
-    skos:inScheme <> ;
-    skos:narrower <achsensymmetrie_id> ;
+mathematik:c703fc6e-f493-47a9-9284-19343789fb73 a skos:Concept ;
+    skos:broader mathematik:3990f1e9-da85-4867-af7a-1dcd2fe82e15 ;
+    skos:inScheme mathematik: ;
+    skos:narrower mathematik:52bcf59b-930b-4e79-9895-1cca36aeff96 ;
     skos:prefLabel "Symmetrie"@de .
 
-<funktion_mathematik_id> a skos:Concept ;
-    skos:broader <analytische_geometrie_id> ;
-    skos:inScheme <> ;
-    skos:narrower <exponentialfunktion__id>,
-        <winkelfunktion_id> ;
-    skos:prefLabel "Funktion (Mathematik)"@de .
+mathematik:f2f3e6dc-f2bf-4fdd-9521-525f884bb3e3 a skos:Concept ;
+    skos:broader mathematik:a42e1634-6fff-4dd1-a6ad-f913a4c6dd9b ;
+    skos:inScheme mathematik: ;
+    skos:narrower mathematik:77490a69-b798-4130-91c1-ee379a940051 ;
+    skos:prefLabel "Analytische Geometrie"@de .
 
-<geometrische_figur__id> a skos:Concept ;
-    skos:broader <geometrie_id> ;
-    skos:inScheme <> ;
-    skos:narrower <viereck_geometrie_id>,
-        <würfel_geometrie_id> ;
-    skos:prefLabel "Geometrische Figur "@de .
-
-<gleichung_mathematik_id> a skos:Concept ;
-    skos:broader <algebra_id> ;
-    skos:inScheme <> ;
-    skos:narrower <dreisatz_id>,
-        <proportion_mathematik_id> ;
-    skos:prefLabel "Gleichung (Mathematik)"@de .
-
-<größe_mathematik/physik_id> a skos:Concept ;
-    skos:broader <mathematik_id> ;
-    skos:inScheme <> ;
-    skos:narrower <watt_einheit_id>,
-        <winkelgeschwindigkeit_id> ;
-    skos:prefLabel "Größe (Mathematik/Physik)"@de .
-
-<mengenlehre_id> a skos:Concept ;
-    skos:broader <algebra_id> ;
-    skos:inScheme <> ;
-    skos:narrower <menge_mathematik_id>,
-        <venndiagramm_id> ;
-    skos:prefLabel "Mengenlehre"@de .
-
-<zahl_id> a skos:Concept ;
-    skos:broader <mathematik_id> ;
-    skos:inScheme <> ;
-    skos:narrower <negative_zahlen_id>,
-        <zahlensystem_id> ;
+mathematik:137798a5-e322-4f4f-945e-c0a75b833096 a skos:Concept ;
+    skos:broader mathematik:167a3fc4-600c-49c9-82dc-33b0362193ae ;
+    skos:inScheme mathematik: ;
+    skos:narrower mathematik:d380228c-dcb2-4cc8-ae17-08a3aa70b532,
+        mathematik:eb397c30-114d-4645-89f4-bd3acf7be2bc ;
     skos:prefLabel "Zahl"@de .
 
-<zahlensystem_id> a skos:Concept ;
-    skos:broader <zahl_id> ;
-    skos:inScheme <> ;
-    skos:narrower <bündelung_mathematik_id>,
-        <dualsystem_id> ;
+mathematik:55ad0439-9103-4548-8e18-db8a8931b27a a skos:Concept ;
+    skos:broader mathematik:167a3fc4-600c-49c9-82dc-33b0362193ae ;
+    skos:inScheme mathematik: ;
+    skos:narrower mathematik:37e1f4a6-7c92-480f-bb14-ed54dd62099e,
+        mathematik:87091179-82ec-4ba4-9859-48b4b52c7add ;
+    skos:prefLabel "Größe (Mathematik/Physik)"@de .
+
+mathematik:77490a69-b798-4130-91c1-ee379a940051 a skos:Concept ;
+    skos:broader mathematik:f2f3e6dc-f2bf-4fdd-9521-525f884bb3e3 ;
+    skos:inScheme mathematik: ;
+    skos:narrower mathematik:b3225272-cf31-4ec3-bb22-58d5d00f7ea1,
+        mathematik:bac3cde9-6ac4-4e29-9f6d-67ba65ec8252 ;
+    skos:prefLabel "Funktion (Mathematik)"@de .
+
+mathematik:7c6f9325-1021-46a1-ab27-75c98465ffcf a skos:Concept ;
+    skos:broader mathematik:3990f1e9-da85-4867-af7a-1dcd2fe82e15 ;
+    skos:inScheme mathematik: ;
+    skos:narrower mathematik:70c9107e-52ac-4c01-89f1-eb3a7db622fe,
+        mathematik:ee0f6b7e-a1e7-44c1-973a-0bce34a411ab ;
+    skos:prefLabel "Geometrische Figur "@de .
+
+mathematik:8ff0a53a-7872-444b-978b-ad49b0a322be a skos:Concept ;
+    skos:broader mathematik:a42e1634-6fff-4dd1-a6ad-f913a4c6dd9b ;
+    skos:inScheme mathematik: ;
+    skos:narrower mathematik:ce05718a-4d97-446c-a6a4-31bca50b9899,
+        mathematik:e77700a8-4538-43aa-aeeb-463a999a9ac9 ;
+    skos:prefLabel "Gleichung (Mathematik)"@de .
+
+mathematik:eb397c30-114d-4645-89f4-bd3acf7be2bc a skos:Concept ;
+    skos:broader mathematik:137798a5-e322-4f4f-945e-c0a75b833096 ;
+    skos:inScheme mathematik: ;
+    skos:narrower mathematik:05db35c8-4043-46fe-b068-dfd210473f27,
+        mathematik:cd191498-5f76-4d00-b68d-ef346b6a9fd4 ;
     skos:prefLabel "Zahlensystem"@de .
 
-<algorithmus_id> a skos:Concept ;
-    skos:broader <mathematik_id> ;
-    skos:inScheme <> ;
-    skos:narrower <bruchrechnung_id>,
-        <grundrechenart_id>,
-        <kommutativgesetz_id>,
-        <prozentrechnung_id> ;
+mathematik:ff079099-dfcc-4b25-83e9-22335aaed360 a skos:Concept ;
+    skos:broader mathematik:a42e1634-6fff-4dd1-a6ad-f913a4c6dd9b ;
+    skos:inScheme mathematik: ;
+    skos:narrower mathematik:193dc152-7693-4c5f-be43-3b26bab75bed,
+        mathematik:a3b0c238-b61b-4224-bd9b-9e17467d0907 ;
+    skos:prefLabel "Mengenlehre"@de .
+
+mathematik:43d536f1-29b3-4b14-a2c3-b20109cc164e a skos:Concept ;
+    skos:broader mathematik:167a3fc4-600c-49c9-82dc-33b0362193ae ;
+    skos:inScheme mathematik: ;
+    skos:narrower mathematik:30e72ba3-72a7-4825-89a6-d524d65a72e9,
+        mathematik:3dc4c635-91dc-4ce9-afe0-b428f28099db,
+        mathematik:8c21a173-3a57-46db-bf09-bf26ead2baf1,
+        mathematik:cba8aa1a-6fff-438c-8269-b4308ae5e52a ;
     skos:prefLabel "Algorithmus"@de .
 
-<algebra_id> a skos:Concept ;
-    skos:broader <mathematik_id> ;
-    skos:inScheme <> ;
-    skos:narrower <analytische_geometrie_id>,
-        <gleichung_mathematik_id>,
-        <mengenlehre_id>,
-        <schaltalgebra_id>,
-        <ungleichung_mathematik_id> ;
+mathematik:a42e1634-6fff-4dd1-a6ad-f913a4c6dd9b a skos:Concept ;
+    skos:broader mathematik:167a3fc4-600c-49c9-82dc-33b0362193ae ;
+    skos:inScheme mathematik: ;
+    skos:narrower mathematik:21ef0f2a-aa0c-4005-a020-441caa29a0e9,
+        mathematik:439af6a3-ee8f-4954-bb8c-568848c0ef28,
+        mathematik:8ff0a53a-7872-444b-978b-ad49b0a322be,
+        mathematik:f2f3e6dc-f2bf-4fdd-9521-525f884bb3e3,
+        mathematik:ff079099-dfcc-4b25-83e9-22335aaed360 ;
     skos:prefLabel "Algebra"@de .
 
-<personen_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <babbage__charles_id>,
-        <barlow__peter_id>,
-        <bernoulli__daniel_id>,
-        <cavalieri__bonaventura_id>,
-        <coriolis__gaspard_gustave_de_id>,
-        <descartes__rené_id>,
-        <gauß__carl_friedrich_id>,
-        <mandelbrot__benoît_id>,
-        <ries__adam_id> ;
+mathematik:df7a179a-a149-4b79-9662-cad9ce43fcca a skos:Concept ;
+    skos:inScheme mathematik: ;
+    skos:narrower mathematik:0619d9d9-6058-4258-b615-f5bbaef703b9,
+        mathematik:2a0f951e-2541-4eea-9a9f-9a25ff680dd5,
+        mathematik:3c001266-fe1c-483c-a2b1-b30cba9b74d7,
+        mathematik:44322a9e-c236-4a1b-bd3e-0d12e7acee67,
+        mathematik:5bc035ed-dea3-4bf8-b967-58ae6c4577e9,
+        mathematik:5f85f4c6-43d5-4089-9e2f-446fca85d6e1,
+        mathematik:a839f172-9190-4460-8a56-39f6f1a74d74,
+        mathematik:bae56f2a-dc25-4dac-ac87-a9a60b0083bf,
+        mathematik:f88286d0-11ca-4aee-a91f-bc2bdc783f08 ;
     skos:prefLabel "Personen"@de ;
-    skos:topConceptOf <> .
+    skos:topConceptOf mathematik: .
 
-<mathematik_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <algebra_id>,
-        <algorithmus_id>,
-        <analysis_id>,
-        <chaostheorie_id>,
-        <formel_mathematik_id>,
-        <geometrie_id>,
-        <größe_mathematik/physik_id>,
-        <kopfrechnen_id>,
-        <rechenstab_id>,
-        <statistik_id>,
-        <tabellenkalkulation_id>,
-        <wahrscheinlichkeit_mathematik_id>,
-        <zahl_id> ;
+mathematik:167a3fc4-600c-49c9-82dc-33b0362193ae a skos:Concept ;
+    skos:inScheme mathematik: ;
+    skos:narrower mathematik:137798a5-e322-4f4f-945e-c0a75b833096,
+        mathematik:154f8ab8-077d-4bfe-939b-60831bc59c83,
+        mathematik:27a95e16-fec0-462e-9e1c-b0e737fb09a3,
+        mathematik:2bca2581-7f53-4245-8951-fa4b8b6da61b,
+        mathematik:3990f1e9-da85-4867-af7a-1dcd2fe82e15,
+        mathematik:43d536f1-29b3-4b14-a2c3-b20109cc164e,
+        mathematik:55ad0439-9103-4548-8e18-db8a8931b27a,
+        mathematik:a42e1634-6fff-4dd1-a6ad-f913a4c6dd9b,
+        mathematik:acb7ca74-9e1f-4071-b7db-b5d8be1968ab,
+        mathematik:c0605519-fb08-4a90-913c-94d5c281bdc8,
+        mathematik:cc5d0316-7fa8-460c-aff0-e17804ea8d8b,
+        mathematik:db2408c6-8909-4333-a3bf-3a58ddb96c31,
+        mathematik:f725f05d-81aa-4fba-a0bc-1a96a3037de1 ;
     skos:prefLabel "Mathematik"@de ;
-    skos:topConceptOf <> .
+    skos:topConceptOf mathematik: .
 
-<geometrie_id> a skos:Concept ;
-    skos:broader <mathematik_id> ;
-    skos:inScheme <> ;
-    skos:narrower <diagramm_id>,
-        <ellipse_gemetrie_id>,
-        <flächeninhalt_id>,
-        <fraktalgeometrie_id>,
-        <geometrische_figur__id>,
-        <gerade_mathematik_id>,
-        <kegelschnitt_id>,
-        <koordinate_id>,
-        <oberfläche_mathematik_id>,
-        <parabel_mathematik_id>,
-        <projektion_mathematik_id>,
-        <pythagoras_id>,
-        <rauminhalt_id>,
-        <senkrechte_mathematik_id>,
-        <symmetrie_id>,
-        <winkel_geometrie_id> ;
+mathematik:3990f1e9-da85-4867-af7a-1dcd2fe82e15 a skos:Concept ;
+    skos:broader mathematik:167a3fc4-600c-49c9-82dc-33b0362193ae ;
+    skos:inScheme mathematik: ;
+    skos:narrower mathematik:24309a22-2121-408e-b15b-fcd773c9fa37,
+        mathematik:2bd27f12-42f0-492a-8300-a799f20e8e50,
+        mathematik:5b3cf290-461e-40b3-9392-c66b420a0964,
+        mathematik:614826c4-d4de-4bbc-83f2-2d91cbabf03e,
+        mathematik:79e3bddd-2e4b-4ef4-b845-c7ad207d7b00,
+        mathematik:7c6f9325-1021-46a1-ab27-75c98465ffcf,
+        mathematik:90d1555d-3bfa-416a-b18c-4272e4706d19,
+        mathematik:975d9d44-b1b8-4ddd-a54a-35f517cc5c3a,
+        mathematik:b30c9f90-643f-43d9-b662-a1edb89f28ab,
+        mathematik:c703fc6e-f493-47a9-9284-19343789fb73,
+        mathematik:da06b747-3437-4d61-8bdf-3c5c09a9e9d4,
+        mathematik:e9b774ef-106f-474b-9e0d-0cc8ea2474e0,
+        mathematik:ee8ef2d8-dd9b-4b72-8131-7baa48213b27,
+        mathematik:f86c832d-12a7-4d1e-8bbb-356c9024c8a5,
+        mathematik:f8fa9abc-b7aa-4f72-b479-b76694b2fd78,
+        mathematik:fec4e74d-8a44-4b34-a620-a4f48de52df5 ;
     skos:prefLabel "Geometrie"@de .
 
-<> a skos:ConceptScheme ;
+mathematik: a skos:ConceptScheme ;
     dct:creator "<https://creator.com>" ;
-    dct:description "mathematik_systematik"@de ;
-    dct:title "mathematik_systematik"@de ;
-    skos:hasTopConcept <mathematik_id>,
-        <personen_id> .
+    dct:description "mathematik"@de ;
+    dct:title "mathematik"@de ;
+    skos:hasTopConcept mathematik:167a3fc4-600c-49c9-82dc-33b0362193ae,
+        mathematik:df7a179a-a149-4b79-9662-cad9ce43fcca .
 

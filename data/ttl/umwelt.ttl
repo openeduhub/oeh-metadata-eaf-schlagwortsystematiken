@@ -1,525 +1,525 @@
-@base <https://example-perma-id/umwelt_systematik/> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix umwelt: <http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/umwelt/> .
 
-<abgaskatalysator_id> a skos:Concept ;
-    skos:broader <luftreinhaltung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Abgaskatalysator"@de .
-
-<abwasser_id> a skos:Concept ;
-    skos:broader <umweltbelastung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Abwasser"@de .
-
-<atomausstieg_id> a skos:Concept ;
-    skos:broader <umweltschutz_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Atomausstieg"@de .
-
-<bebauungsplan_id> a skos:Concept ;
-    skos:broader <umweltbelastung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Bebauungsplan"@de .
-
-<biogas_id> a skos:Concept ;
-    skos:broader <erneuerbare_energie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Biogas"@de .
-
-<bioindikator_id> a skos:Concept ;
-    skos:broader <luftreinhaltung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Bioindikator"@de .
-
-<biokraftstoff_id> a skos:Concept ;
-    skos:broader <erneuerbare_energie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Biokraftstoff"@de .
-
-<biokunststoff_id> a skos:Concept ;
-    skos:broader <umweltschutz_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Biokunststoff"@de .
-
-<biotop_id> a skos:Concept ;
-    skos:broader <umweltschutz_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Biotop"@de .
-
-<bodenverschmutzung_id> a skos:Concept ;
-    skos:broader <umweltverschmutzung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Bodenverschmutzung"@de .
-
-<bodenzerstörung_id> a skos:Concept ;
-    skos:broader <umweltzerstörung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Bodenzerstörung"@de .
-
-<desertifikation_id> a skos:Concept ;
-    skos:broader <umweltzerstörung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Desertifikation"@de .
-
-<emission_umwelt_id> a skos:Concept ;
-    skos:broader <umweltbelastung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Emission (Umwelt)"@de .
-
-<energieeffizienz_id> a skos:Concept ;
-    skos:broader <umweltschutz_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Energieeffizienz"@de .
-
-<energiesparen_id> a skos:Concept ;
-    skos:broader <umweltschutz_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Energiesparen"@de .
-
-<eutrophierung_id> a skos:Concept ;
-    skos:broader <umweltzerstörung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Eutrophierung"@de .
-
-<flächenversiegelung_id> a skos:Concept ;
-    skos:broader <umweltbelastung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Flächenversiegelung"@de .
-
-<geothermie_id> a skos:Concept ;
-    skos:broader <erneuerbare_energie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Geothermie"@de .
-
-<greenpeace_id> a skos:Concept ;
-    skos:broader <umweltschutz_id> ;
-    skos:inScheme <> ;
+umwelt:01a58330-72a6-4818-a678-de5b1d80db77 a skos:Concept ;
+    skos:broader umwelt:cf12803c-dc51-4225-944d-b9dc10264351 ;
+    skos:inScheme umwelt: ;
     skos:prefLabel "Greenpeace"@de .
 
-<immission_id> a skos:Concept ;
-    skos:broader <umweltbelastung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Immission"@de .
-
-<kiesgrube_id> a skos:Concept ;
-    skos:broader <rekultivierung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kiesgrube"@de .
-
-<kläranlage_id> a skos:Concept ;
-    skos:broader <gewässerschutz_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kläranlage"@de .
-
-<kompost_id> a skos:Concept ;
-    skos:broader <umweltschutz_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kompost"@de .
-
-<küstenschutz_id> a skos:Concept ;
-    skos:broader <umweltschutz_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Küstenschutz"@de .
-
-<lärmschutz_id> a skos:Concept ;
-    skos:broader <umweltschutz_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Lärmschutz"@de .
-
-<meeresschutzgebiet_id> a skos:Concept ;
-    skos:broader <landschaftsschutz_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Meeresschutzgebiet"@de .
-
-<meeresverschmutzung_id> a skos:Concept ;
-    skos:broader <umweltverschmutzung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Meeresverschmutzung"@de .
-
-<mehrwegflasche_id> a skos:Concept ;
-    skos:broader <müllvermeidung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Mehrwegflasche"@de .
-
-<mülldeponie_id> a skos:Concept ;
-    skos:broader <müllbeseitigung_id> ;
-    skos:inScheme <> ;
+umwelt:050ee1f3-3876-4d80-aaab-a5f4a6c0c841 a skos:Concept ;
+    skos:broader umwelt:fcc17273-2627-4945-b0a2-0ba4f8c1d5c9 ;
+    skos:inScheme umwelt: ;
     skos:prefLabel "Mülldeponie"@de .
 
-<müllverbrennung_id> a skos:Concept ;
-    skos:broader <müllbeseitigung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Müllverbrennung"@de .
-
-<nachhaltige_entwicklung_id> a skos:Concept ;
-    skos:broader <umweltschutz_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Nachhaltige Entwicklung"@de .
-
-<ozeanversauerung_id> a skos:Concept ;
-    skos:broader <umweltbelastung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Ozeanversauerung"@de .
-
-<ozonloch_id> a skos:Concept ;
-    skos:broader <umweltveränderung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Ozonloch"@de .
-
-<photvoltaik_id> a skos:Concept ;
-    skos:broader <erneuerbare_energie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Photvoltaik"@de .
-
-<reaktorkatastrophe_id> a skos:Concept ;
-    skos:broader <umweltkatastrophe_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Reaktorkatastrophe"@de .
-
-<renaturierung_id> a skos:Concept ;
-    skos:broader <rekultivierung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Renaturierung"@de .
-
-<saurer_regen_id> a skos:Concept ;
-    skos:broader <umweltbelastung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Saurer Regen"@de .
-
-<schadstoff_id> a skos:Concept ;
-    skos:broader <umweltbelastung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Schadstoff"@de .
-
-<smog_id> a skos:Concept ;
-    skos:broader <umweltbelastung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Smog"@de .
-
-<solarenergie_id> a skos:Concept ;
-    skos:broader <erneuerbare_energie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Solarenergie"@de .
-
-<sondermüll_id> a skos:Concept ;
-    skos:broader <müll_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Sondermüll"@de .
-
-<taubergießen_id> a skos:Concept ;
-    skos:broader <nationalpark_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Taubergießen"@de .
-
-<tenside_id> a skos:Concept ;
-    skos:broader <umweltbelastung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Tenside"@de .
-
-<treibhauseffekt_id> a skos:Concept ;
-    skos:broader <umweltbelastung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Treibhauseffekt"@de .
-
-<umweltbewusstsein_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Umweltbewusstsein"@de ;
-    skos:topConceptOf <> .
-
-<umweltforschung_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Umweltforschung"@de ;
-    skos:topConceptOf <> .
-
-<umweltgefährliche_stoffe_id> a skos:Concept ;
-    skos:broader <umweltgefährdung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Umweltgefährliche Stoffe"@de .
-
-<umweltmanagement_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Umweltmanagement"@de ;
-    skos:topConceptOf <> .
-
-<umweltschaden_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Umweltschaden"@de ;
-    skos:topConceptOf <> .
-
-<umwelttechnologie_id> a skos:Concept ;
-    skos:broader <umweltschutz_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Umwelttechnologie"@de .
-
-<waldsterben_id> a skos:Concept ;
-    skos:broader <umweltzerstörung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Waldsterben"@de .
-
-<wasserkraft_id> a skos:Concept ;
-    skos:broader <erneuerbare_energie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Wasserkraft"@de .
-
-<wasserschutzgebiet_id> a skos:Concept ;
-    skos:broader <gewässerschutz_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Wasserschutzgebiet"@de .
-
-<wasserverbrauch_id> a skos:Concept ;
-    skos:broader <umweltschutz_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Wasserverbrauch"@de .
-
-<wasserverschmutzung_id> a skos:Concept ;
-    skos:broader <umweltverschmutzung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Wasserverschmutzung"@de .
-
-<weltraummüll_id> a skos:Concept ;
-    skos:broader <müll_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Weltraummüll"@de .
-
-<werkstoffliches_recycling_id> a skos:Concept ;
-    skos:broader <recycling_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Werkstoffliches Recycling"@de .
-
-<windenergie_id> a skos:Concept ;
-    skos:broader <erneuerbare_energie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Windenergie"@de .
-
-<yellowstone_nationalpark_id> a skos:Concept ;
-    skos:broader <nationalpark_id> ;
-    skos:inScheme <> ;
+umwelt:0a3d83eb-caec-4fbf-a834-0c264c1c71e0 a skos:Concept ;
+    skos:broader umwelt:2722b7c3-e131-4c2c-815e-19f1da4a74ab ;
+    skos:inScheme umwelt: ;
     skos:prefLabel "Yellowstone Nationalpark"@de .
 
-<yosemite_id> a skos:Concept ;
-    skos:broader <nationalpark_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Yosemite"@de .
+umwelt:108460e4-3bd1-416f-b173-06064af14efc a skos:Concept ;
+    skos:broader umwelt:6814c3d2-6fce-4498-90c1-ae64dd5beb86 ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Emission (Umwelt)"@de .
 
-<ökologischer_fußabdruck_id> a skos:Concept ;
-    skos:broader <umweltbelastung_id> ;
-    skos:inScheme <> ;
+umwelt:1b61ecb9-7f7b-46b1-9ea5-180b3f380da0 a skos:Concept ;
+    skos:broader umwelt:f76c2db5-5444-4ba6-b491-9375e2f468f6 ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Weltraummüll"@de .
+
+umwelt:1b832cd7-b000-4513-8006-ca6c563f5b30 a skos:Concept ;
+    skos:broader umwelt:cf12803c-dc51-4225-944d-b9dc10264351 ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Energiesparen"@de .
+
+umwelt:1e995db4-6557-459d-9f0e-86b8a3eaaa8c a skos:Concept ;
+    skos:broader umwelt:26ddbd2f-b46a-4c6f-96c7-b9d568ce3ff6 ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Umweltgefährliche Stoffe"@de .
+
+umwelt:20ca0704-02dc-4f00-9ef4-7b8f86f5624d a skos:Concept ;
+    skos:broader umwelt:55c4182d-c6ca-4955-aaef-6c66dd014036 ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Eutrophierung"@de .
+
+umwelt:2ae2ef4c-33a7-4c8e-9abf-ae2176d0d0b9 a skos:Concept ;
+    skos:broader umwelt:91f5d626-d60e-4681-8a7b-73812f57b63a ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Werkstoffliches Recycling"@de .
+
+umwelt:2d51a59f-4311-4ae2-860e-92bf2cba32a3 a skos:Concept ;
+    skos:broader umwelt:68423448-20f2-49fd-a14e-c1d2b66e72ce ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Kiesgrube"@de .
+
+umwelt:2dcf0683-7fd3-4f2a-b847-44fbff98548e a skos:Concept ;
+    skos:broader umwelt:6814c3d2-6fce-4498-90c1-ae64dd5beb86 ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Tenside"@de .
+
+umwelt:30355df5-6068-4335-93ee-82c234ffa92f a skos:Concept ;
+    skos:broader umwelt:6814c3d2-6fce-4498-90c1-ae64dd5beb86 ;
+    skos:inScheme umwelt: ;
     skos:prefLabel "Ökologischer Fußabdruck"@de .
 
-<ökologisches_gleichgewicht__id> a skos:Concept ;
-    skos:broader <landschaftspflege_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Ökologisches Gleichgewicht "@de .
+umwelt:3c3b5e5c-2a3b-4f6b-8ab8-8624140fe13d a skos:Concept ;
+    skos:broader umwelt:a6cfd9df-ca09-4f84-90f2-40bd86744cc0 ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Photvoltaik"@de .
 
-<ölpest_id> a skos:Concept ;
-    skos:broader <umweltbelastung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Ölpest"@de .
+umwelt:3c642be7-755c-4e3c-9851-b39fb38645e4 a skos:Concept ;
+    skos:broader umwelt:cf12803c-dc51-4225-944d-b9dc10264351 ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Atomausstieg"@de .
 
-<überdüngung_id> a skos:Concept ;
-    skos:broader <umweltbelastung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Überdüngung"@de .
+umwelt:3e320ac1-fb07-44d8-9af8-8b1b32002012 a skos:Concept ;
+    skos:broader umwelt:a6cfd9df-ca09-4f84-90f2-40bd86744cc0 ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Geothermie"@de .
 
-<überschwemmung_id> a skos:Concept ;
-    skos:broader <umweltbelastung_id> ;
-    skos:inScheme <> ;
+umwelt:3ed370e5-44ec-4ed6-a7b4-c0c930b5136c a skos:Concept ;
+    skos:broader umwelt:55c4182d-c6ca-4955-aaef-6c66dd014036 ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Waldsterben"@de .
+
+umwelt:40352180-10a9-468a-9c68-0b5675bf01ae a skos:Concept ;
+    skos:broader umwelt:20b0fc37-6ad2-4695-9497-ffb64084b330 ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Bodenverschmutzung"@de .
+
+umwelt:404caffa-f105-40ad-b88e-da71cba69967 a skos:Concept ;
+    skos:broader umwelt:a6cfd9df-ca09-4f84-90f2-40bd86744cc0 ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Biogas"@de .
+
+umwelt:41bec255-6fcf-440b-8f72-f1d3d7145087 a skos:Concept ;
+    skos:broader umwelt:f76c2db5-5444-4ba6-b491-9375e2f468f6 ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Sondermüll"@de .
+
+umwelt:46aaa611-6b43-418f-8c29-af3532149b6d a skos:Concept ;
+    skos:broader umwelt:a6cfd9df-ca09-4f84-90f2-40bd86744cc0 ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Biokraftstoff"@de .
+
+umwelt:47673c49-28c1-4ef7-bd09-6b7d856728f3 a skos:Concept ;
+    skos:broader umwelt:6814c3d2-6fce-4498-90c1-ae64dd5beb86 ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Flächenversiegelung"@de .
+
+umwelt:47dacafb-e28f-4990-b91a-75e8d1345c00 a skos:Concept ;
+    skos:broader umwelt:6814c3d2-6fce-4498-90c1-ae64dd5beb86 ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Saurer Regen"@de .
+
+umwelt:4ac02d3a-515e-440c-a20f-a0ec49252b48 a skos:Concept ;
+    skos:broader umwelt:a6cfd9df-ca09-4f84-90f2-40bd86744cc0 ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Solarenergie"@de .
+
+umwelt:4bae79bd-35be-48f4-88ff-2600a4ab2723 a skos:Concept ;
+    skos:broader umwelt:2722b7c3-e131-4c2c-815e-19f1da4a74ab ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Taubergießen"@de .
+
+umwelt:5143f68f-a3f9-4d07-8f03-cda357b93598 a skos:Concept ;
+    skos:broader umwelt:d85692b4-0cac-44a5-8536-f2e18418eded ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Wasserschutzgebiet"@de .
+
+umwelt:5472cf3c-4c7c-4590-9223-22e993f02cf4 a skos:Concept ;
+    skos:broader umwelt:a56fdbd7-4048-42e2-93e9-a0b0d059c59f ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Abgaskatalysator"@de .
+
+umwelt:56174da6-fa69-4724-90e1-8fd5e63d4d09 a skos:Concept ;
+    skos:broader umwelt:6814c3d2-6fce-4498-90c1-ae64dd5beb86 ;
+    skos:inScheme umwelt: ;
     skos:prefLabel "Überschwemmung"@de .
 
-<überweidung_id> a skos:Concept ;
-    skos:broader <übernutzung_id> ;
-    skos:inScheme <> ;
+umwelt:575e7cdb-ced5-42ba-b14d-9e73d5259697 a skos:Concept ;
+    skos:broader umwelt:a56fdbd7-4048-42e2-93e9-a0b0d059c59f ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Bioindikator"@de .
+
+umwelt:59b25b2b-50b5-40fa-9c1b-5b297f321863 a skos:Concept ;
+    skos:broader umwelt:2722b7c3-e131-4c2c-815e-19f1da4a74ab ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Yosemite"@de .
+
+umwelt:64ade437-602d-4204-a9c8-747e3b17446b a skos:Concept ;
+    skos:broader umwelt:a6cfd9df-ca09-4f84-90f2-40bd86744cc0 ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Windenergie"@de .
+
+umwelt:69a7479a-22ab-4218-80a6-e54c4b893897 a skos:Concept ;
+    skos:broader umwelt:cf12803c-dc51-4225-944d-b9dc10264351 ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Biokunststoff"@de .
+
+umwelt:74ea99ef-254d-4ba1-b1ac-9006c46f41be a skos:Concept ;
+    skos:broader umwelt:6814c3d2-6fce-4498-90c1-ae64dd5beb86 ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Immission"@de .
+
+umwelt:7ba83ee7-2fad-46ff-93db-31680f4c731e a skos:Concept ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Umweltforschung"@de ;
+    skos:topConceptOf umwelt: .
+
+umwelt:8fea905c-e85b-4c87-bff8-50981f238699 a skos:Concept ;
+    skos:broader umwelt:a6cfd9df-ca09-4f84-90f2-40bd86744cc0 ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Wasserkraft"@de .
+
+umwelt:92b6b9a6-870d-4de2-8eb3-9152b70008c7 a skos:Concept ;
+    skos:broader umwelt:0b0d3592-bf18-4f52-88b2-4bc82b8ccb2f ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Ökologisches Gleichgewicht "@de .
+
+umwelt:9f135774-99e3-4f63-a5f1-b1995db10e95 a skos:Concept ;
+    skos:broader umwelt:04d8e0ed-65b9-421e-ad81-e2d193b16ca3 ;
+    skos:inScheme umwelt: ;
     skos:prefLabel "Überweidung"@de .
 
-<müllvermeidung_id> a skos:Concept ;
-    skos:broader <müll_id> ;
-    skos:inScheme <> ;
-    skos:narrower <mehrwegflasche_id> ;
-    skos:prefLabel "Müllvermeidung"@de .
+umwelt:9fd68ce4-00cd-4985-b8f0-ad939f1b9542 a skos:Concept ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Umweltmanagement"@de ;
+    skos:topConceptOf umwelt: .
 
-<müllverwertung_id> a skos:Concept ;
-    skos:broader <müllbeseitigung_id> ;
-    skos:inScheme <> ;
-    skos:narrower <recycling_id> ;
-    skos:prefLabel "Müllverwertung"@de .
+umwelt:a4a5b2b0-34ce-4c33-96d2-253e7dae805b a skos:Concept ;
+    skos:broader umwelt:68423448-20f2-49fd-a14e-c1d2b66e72ce ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Renaturierung"@de .
 
-<recycling_id> a skos:Concept ;
-    skos:broader <müllverwertung_id> ;
-    skos:inScheme <> ;
-    skos:narrower <werkstoffliches_recycling_id> ;
-    skos:prefLabel "Recycling"@de .
+umwelt:a5306127-371e-4111-88fc-361aec348923 a skos:Concept ;
+    skos:broader umwelt:e1f5a90c-84d7-4118-90bf-6cd5f37fc52a ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Ozonloch"@de .
 
-<umweltkatastrophe_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <reaktorkatastrophe_id> ;
-    skos:prefLabel "Umweltkatastrophe"@de ;
-    skos:topConceptOf <> .
+umwelt:a60ab41a-922d-4cca-87b6-009c9d5304c3 a skos:Concept ;
+    skos:broader umwelt:6814c3d2-6fce-4498-90c1-ae64dd5beb86 ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Smog"@de .
 
-<umweltveränderung_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <ozonloch_id> ;
-    skos:prefLabel "Umweltveränderung"@de ;
-    skos:topConceptOf <> .
+umwelt:a632bae2-f914-4bde-ac4a-0d9dd2a0af79 a skos:Concept ;
+    skos:broader umwelt:c5d0cddc-c081-4836-9d0c-03f35bea47a3 ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Meeresschutzgebiet"@de .
 
-<übernutzung_id> a skos:Concept ;
-    skos:broader <umweltbelastung_id> ;
-    skos:inScheme <> ;
-    skos:narrower <überweidung_id> ;
+umwelt:a7c881fa-f49e-44ee-9be2-dc1c13d3ad2c a skos:Concept ;
+    skos:broader umwelt:cf12803c-dc51-4225-944d-b9dc10264351 ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Nachhaltige Entwicklung"@de .
+
+umwelt:a7ebd5f7-bb15-419b-bfac-93ec62b13364 a skos:Concept ;
+    skos:broader umwelt:20b0fc37-6ad2-4695-9497-ffb64084b330 ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Meeresverschmutzung"@de .
+
+umwelt:b111bfd3-02c4-40c5-b1c4-c2c7ca0b8ab5 a skos:Concept ;
+    skos:broader umwelt:d85692b4-0cac-44a5-8536-f2e18418eded ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Kläranlage"@de .
+
+umwelt:b2242325-5fb8-4d22-8c25-d52de66b16ea a skos:Concept ;
+    skos:broader umwelt:6814c3d2-6fce-4498-90c1-ae64dd5beb86 ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Abwasser"@de .
+
+umwelt:ba2650af-2608-450c-84a9-cb91e2f3b36a a skos:Concept ;
+    skos:broader umwelt:6814c3d2-6fce-4498-90c1-ae64dd5beb86 ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Bebauungsplan"@de .
+
+umwelt:c0c79244-2130-4c93-8a63-b81494789c49 a skos:Concept ;
+    skos:broader umwelt:cf12803c-dc51-4225-944d-b9dc10264351 ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Energieeffizienz"@de .
+
+umwelt:c19eea43-725e-4184-895c-457efe4f9899 a skos:Concept ;
+    skos:broader umwelt:6814c3d2-6fce-4498-90c1-ae64dd5beb86 ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Treibhauseffekt"@de .
+
+umwelt:c352772d-00b7-41c1-94d0-127dd0838a6e a skos:Concept ;
+    skos:broader umwelt:55c4182d-c6ca-4955-aaef-6c66dd014036 ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Desertifikation"@de .
+
+umwelt:c779f116-82f4-42fb-a6e6-e41e756824ef a skos:Concept ;
+    skos:broader umwelt:cf12803c-dc51-4225-944d-b9dc10264351 ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Lärmschutz"@de .
+
+umwelt:c8158b03-d562-4d32-beb3-41150f1873b7 a skos:Concept ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Umweltschaden"@de ;
+    skos:topConceptOf umwelt: .
+
+umwelt:c8f89004-b147-4cda-a451-24bbb3c9e775 a skos:Concept ;
+    skos:broader umwelt:6814c3d2-6fce-4498-90c1-ae64dd5beb86 ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Ozeanversauerung"@de .
+
+umwelt:cd111467-83e5-496a-b97c-4701ed08feca a skos:Concept ;
+    skos:broader umwelt:47d4c344-8ca9-4e43-b410-d96e84cd7778 ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Reaktorkatastrophe"@de .
+
+umwelt:ce959ae5-7040-4eae-b180-1f65e8062c46 a skos:Concept ;
+    skos:broader umwelt:3fba3ee1-c367-4b17-a2c9-88bb402be64a ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Mehrwegflasche"@de .
+
+umwelt:ced93a8c-84e8-40a0-a492-e601c4972c09 a skos:Concept ;
+    skos:broader umwelt:cf12803c-dc51-4225-944d-b9dc10264351 ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Biotop"@de .
+
+umwelt:d1ab5a43-9813-4c97-b171-a6e8afc6eb5b a skos:Concept ;
+    skos:broader umwelt:cf12803c-dc51-4225-944d-b9dc10264351 ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Kompost"@de .
+
+umwelt:db0614d4-0f07-4656-b742-b919147f3d1d a skos:Concept ;
+    skos:broader umwelt:6814c3d2-6fce-4498-90c1-ae64dd5beb86 ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Ölpest"@de .
+
+umwelt:e071d8ca-9d09-4b1e-8191-8c430a91a46c a skos:Concept ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Umweltbewusstsein"@de ;
+    skos:topConceptOf umwelt: .
+
+umwelt:e083a0a3-8303-4117-95db-60030ce37fe0 a skos:Concept ;
+    skos:broader umwelt:cf12803c-dc51-4225-944d-b9dc10264351 ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Küstenschutz"@de .
+
+umwelt:e1612edb-5661-4beb-8536-d9e7f613bfb3 a skos:Concept ;
+    skos:broader umwelt:6814c3d2-6fce-4498-90c1-ae64dd5beb86 ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Schadstoff"@de .
+
+umwelt:e40b6303-dcc2-4ff4-baf2-b6996362f008 a skos:Concept ;
+    skos:broader umwelt:6814c3d2-6fce-4498-90c1-ae64dd5beb86 ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Überdüngung"@de .
+
+umwelt:e5462bcb-1fdf-4d7e-8873-3d1db36636ac a skos:Concept ;
+    skos:broader umwelt:cf12803c-dc51-4225-944d-b9dc10264351 ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Umwelttechnologie"@de .
+
+umwelt:eaeab620-245b-4e87-b8fb-9a88d1eb697a a skos:Concept ;
+    skos:broader umwelt:20b0fc37-6ad2-4695-9497-ffb64084b330 ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Wasserverschmutzung"@de .
+
+umwelt:ee51d346-2c84-4e1e-bfdd-07b088fd4da6 a skos:Concept ;
+    skos:broader umwelt:cf12803c-dc51-4225-944d-b9dc10264351 ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Wasserverbrauch"@de .
+
+umwelt:fa7ad2d2-dc3f-47ba-b475-845a7b83c698 a skos:Concept ;
+    skos:broader umwelt:fcc17273-2627-4945-b0a2-0ba4f8c1d5c9 ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Müllverbrennung"@de .
+
+umwelt:fd6affa5-c1e3-45a6-88d6-783dcd762826 a skos:Concept ;
+    skos:broader umwelt:55c4182d-c6ca-4955-aaef-6c66dd014036 ;
+    skos:inScheme umwelt: ;
+    skos:prefLabel "Bodenzerstörung"@de .
+
+umwelt:04d8e0ed-65b9-421e-ad81-e2d193b16ca3 a skos:Concept ;
+    skos:broader umwelt:6814c3d2-6fce-4498-90c1-ae64dd5beb86 ;
+    skos:inScheme umwelt: ;
+    skos:narrower umwelt:9f135774-99e3-4f63-a5f1-b1995db10e95 ;
     skos:prefLabel "Übernutzung"@de .
 
-<gewässerschutz_id> a skos:Concept ;
-    skos:broader <umweltschutz_id> ;
-    skos:inScheme <> ;
-    skos:narrower <kläranlage_id>,
-        <wasserschutzgebiet_id> ;
-    skos:prefLabel "Gewässerschutz"@de .
+umwelt:213f2f14-4b85-48ba-bde8-65bf0e71bdfc a skos:Concept ;
+    skos:broader umwelt:fcc17273-2627-4945-b0a2-0ba4f8c1d5c9 ;
+    skos:inScheme umwelt: ;
+    skos:narrower umwelt:91f5d626-d60e-4681-8a7b-73812f57b63a ;
+    skos:prefLabel "Müllverwertung"@de .
 
-<landschaftspflege_id> a skos:Concept ;
-    skos:broader <umweltschutz_id> ;
-    skos:inScheme <> ;
-    skos:narrower <rekultivierung_id>,
-        <ökologisches_gleichgewicht__id> ;
+umwelt:3fba3ee1-c367-4b17-a2c9-88bb402be64a a skos:Concept ;
+    skos:broader umwelt:f76c2db5-5444-4ba6-b491-9375e2f468f6 ;
+    skos:inScheme umwelt: ;
+    skos:narrower umwelt:ce959ae5-7040-4eae-b180-1f65e8062c46 ;
+    skos:prefLabel "Müllvermeidung"@de .
+
+umwelt:47d4c344-8ca9-4e43-b410-d96e84cd7778 a skos:Concept ;
+    skos:inScheme umwelt: ;
+    skos:narrower umwelt:cd111467-83e5-496a-b97c-4701ed08feca ;
+    skos:prefLabel "Umweltkatastrophe"@de ;
+    skos:topConceptOf umwelt: .
+
+umwelt:91f5d626-d60e-4681-8a7b-73812f57b63a a skos:Concept ;
+    skos:broader umwelt:213f2f14-4b85-48ba-bde8-65bf0e71bdfc ;
+    skos:inScheme umwelt: ;
+    skos:narrower umwelt:2ae2ef4c-33a7-4c8e-9abf-ae2176d0d0b9 ;
+    skos:prefLabel "Recycling"@de .
+
+umwelt:e1f5a90c-84d7-4118-90bf-6cd5f37fc52a a skos:Concept ;
+    skos:inScheme umwelt: ;
+    skos:narrower umwelt:a5306127-371e-4111-88fc-361aec348923 ;
+    skos:prefLabel "Umweltveränderung"@de ;
+    skos:topConceptOf umwelt: .
+
+umwelt:0b0d3592-bf18-4f52-88b2-4bc82b8ccb2f a skos:Concept ;
+    skos:broader umwelt:cf12803c-dc51-4225-944d-b9dc10264351 ;
+    skos:inScheme umwelt: ;
+    skos:narrower umwelt:68423448-20f2-49fd-a14e-c1d2b66e72ce,
+        umwelt:92b6b9a6-870d-4de2-8eb3-9152b70008c7 ;
     skos:prefLabel "Landschaftspflege"@de .
 
-<landschaftsschutz_id> a skos:Concept ;
-    skos:broader <umweltschutz_id> ;
-    skos:inScheme <> ;
-    skos:narrower <meeresschutzgebiet_id>,
-        <nationalpark_id> ;
-    skos:prefLabel "Landschaftsschutz"@de .
+umwelt:26ddbd2f-b46a-4c6f-96c7-b9d568ce3ff6 a skos:Concept ;
+    skos:inScheme umwelt: ;
+    skos:narrower umwelt:1e995db4-6557-459d-9f0e-86b8a3eaaa8c,
+        umwelt:20b0fc37-6ad2-4695-9497-ffb64084b330 ;
+    skos:prefLabel "Umweltgefährdung"@de ;
+    skos:topConceptOf umwelt: .
 
-<luftreinhaltung_id> a skos:Concept ;
-    skos:broader <umweltschutz_id> ;
-    skos:inScheme <> ;
-    skos:narrower <abgaskatalysator_id>,
-        <bioindikator_id> ;
-    skos:prefLabel "Luftreinhaltung"@de .
-
-<rekultivierung_id> a skos:Concept ;
-    skos:broader <landschaftspflege_id> ;
-    skos:inScheme <> ;
-    skos:narrower <kiesgrube_id>,
-        <renaturierung_id> ;
+umwelt:68423448-20f2-49fd-a14e-c1d2b66e72ce a skos:Concept ;
+    skos:broader umwelt:0b0d3592-bf18-4f52-88b2-4bc82b8ccb2f ;
+    skos:inScheme umwelt: ;
+    skos:narrower umwelt:2d51a59f-4311-4ae2-860e-92bf2cba32a3,
+        umwelt:a4a5b2b0-34ce-4c33-96d2-253e7dae805b ;
     skos:prefLabel "Rekultivierung"@de .
 
-<umweltgefährdung_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <umweltgefährliche_stoffe_id>,
-        <umweltverschmutzung_id> ;
-    skos:prefLabel "Umweltgefährdung"@de ;
-    skos:topConceptOf <> .
+umwelt:a56fdbd7-4048-42e2-93e9-a0b0d059c59f a skos:Concept ;
+    skos:broader umwelt:cf12803c-dc51-4225-944d-b9dc10264351 ;
+    skos:inScheme umwelt: ;
+    skos:narrower umwelt:5472cf3c-4c7c-4590-9223-22e993f02cf4,
+        umwelt:575e7cdb-ced5-42ba-b14d-9e73d5259697 ;
+    skos:prefLabel "Luftreinhaltung"@de .
 
-<müllbeseitigung_id> a skos:Concept ;
-    skos:broader <müll_id> ;
-    skos:inScheme <> ;
-    skos:narrower <mülldeponie_id>,
-        <müllverbrennung_id>,
-        <müllverwertung_id> ;
-    skos:prefLabel "Müllbeseitigung"@de .
+umwelt:c5d0cddc-c081-4836-9d0c-03f35bea47a3 a skos:Concept ;
+    skos:broader umwelt:cf12803c-dc51-4225-944d-b9dc10264351 ;
+    skos:inScheme umwelt: ;
+    skos:narrower umwelt:2722b7c3-e131-4c2c-815e-19f1da4a74ab,
+        umwelt:a632bae2-f914-4bde-ac4a-0d9dd2a0af79 ;
+    skos:prefLabel "Landschaftsschutz"@de .
 
-<nationalpark_id> a skos:Concept ;
-    skos:broader <landschaftsschutz_id> ;
-    skos:inScheme <> ;
-    skos:narrower <taubergießen_id>,
-        <yellowstone_nationalpark_id>,
-        <yosemite_id> ;
-    skos:prefLabel "Nationalpark"@de .
+umwelt:d85692b4-0cac-44a5-8536-f2e18418eded a skos:Concept ;
+    skos:broader umwelt:cf12803c-dc51-4225-944d-b9dc10264351 ;
+    skos:inScheme umwelt: ;
+    skos:narrower umwelt:5143f68f-a3f9-4d07-8f03-cda357b93598,
+        umwelt:b111bfd3-02c4-40c5-b1c4-c2c7ca0b8ab5 ;
+    skos:prefLabel "Gewässerschutz"@de .
 
-<umweltverschmutzung_id> a skos:Concept ;
-    skos:broader <umweltgefährdung_id> ;
-    skos:inScheme <> ;
-    skos:narrower <bodenverschmutzung_id>,
-        <meeresverschmutzung_id>,
-        <wasserverschmutzung_id> ;
+umwelt:20b0fc37-6ad2-4695-9497-ffb64084b330 a skos:Concept ;
+    skos:broader umwelt:26ddbd2f-b46a-4c6f-96c7-b9d568ce3ff6 ;
+    skos:inScheme umwelt: ;
+    skos:narrower umwelt:40352180-10a9-468a-9c68-0b5675bf01ae,
+        umwelt:a7ebd5f7-bb15-419b-bfac-93ec62b13364,
+        umwelt:eaeab620-245b-4e87-b8fb-9a88d1eb697a ;
     skos:prefLabel "Umweltverschmutzung"@de .
 
-<müll_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <müllbeseitigung_id>,
-        <müllvermeidung_id>,
-        <sondermüll_id>,
-        <weltraummüll_id> ;
-    skos:prefLabel "Müll"@de ;
-    skos:topConceptOf <> .
+umwelt:2722b7c3-e131-4c2c-815e-19f1da4a74ab a skos:Concept ;
+    skos:broader umwelt:c5d0cddc-c081-4836-9d0c-03f35bea47a3 ;
+    skos:inScheme umwelt: ;
+    skos:narrower umwelt:0a3d83eb-caec-4fbf-a834-0c264c1c71e0,
+        umwelt:4bae79bd-35be-48f4-88ff-2600a4ab2723,
+        umwelt:59b25b2b-50b5-40fa-9c1b-5b297f321863 ;
+    skos:prefLabel "Nationalpark"@de .
 
-<umweltzerstörung_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <bodenzerstörung_id>,
-        <desertifikation_id>,
-        <eutrophierung_id>,
-        <waldsterben_id> ;
+umwelt:fcc17273-2627-4945-b0a2-0ba4f8c1d5c9 a skos:Concept ;
+    skos:broader umwelt:f76c2db5-5444-4ba6-b491-9375e2f468f6 ;
+    skos:inScheme umwelt: ;
+    skos:narrower umwelt:050ee1f3-3876-4d80-aaab-a5f4a6c0c841,
+        umwelt:213f2f14-4b85-48ba-bde8-65bf0e71bdfc,
+        umwelt:fa7ad2d2-dc3f-47ba-b475-845a7b83c698 ;
+    skos:prefLabel "Müllbeseitigung"@de .
+
+umwelt:55c4182d-c6ca-4955-aaef-6c66dd014036 a skos:Concept ;
+    skos:inScheme umwelt: ;
+    skos:narrower umwelt:20ca0704-02dc-4f00-9ef4-7b8f86f5624d,
+        umwelt:3ed370e5-44ec-4ed6-a7b4-c0c930b5136c,
+        umwelt:c352772d-00b7-41c1-94d0-127dd0838a6e,
+        umwelt:fd6affa5-c1e3-45a6-88d6-783dcd762826 ;
     skos:prefLabel "Umweltzerstörung"@de ;
-    skos:topConceptOf <> .
+    skos:topConceptOf umwelt: .
 
-<erneuerbare_energie_id> a skos:Concept ;
-    skos:broader <umweltschutz_id> ;
-    skos:inScheme <> ;
-    skos:narrower <biogas_id>,
-        <biokraftstoff_id>,
-        <geothermie_id>,
-        <photvoltaik_id>,
-        <solarenergie_id>,
-        <wasserkraft_id>,
-        <windenergie_id> ;
+umwelt:f76c2db5-5444-4ba6-b491-9375e2f468f6 a skos:Concept ;
+    skos:inScheme umwelt: ;
+    skos:narrower umwelt:1b61ecb9-7f7b-46b1-9ea5-180b3f380da0,
+        umwelt:3fba3ee1-c367-4b17-a2c9-88bb402be64a,
+        umwelt:41bec255-6fcf-440b-8f72-f1d3d7145087,
+        umwelt:fcc17273-2627-4945-b0a2-0ba4f8c1d5c9 ;
+    skos:prefLabel "Müll"@de ;
+    skos:topConceptOf umwelt: .
+
+umwelt:a6cfd9df-ca09-4f84-90f2-40bd86744cc0 a skos:Concept ;
+    skos:broader umwelt:cf12803c-dc51-4225-944d-b9dc10264351 ;
+    skos:inScheme umwelt: ;
+    skos:narrower umwelt:3c3b5e5c-2a3b-4f6b-8ab8-8624140fe13d,
+        umwelt:3e320ac1-fb07-44d8-9af8-8b1b32002012,
+        umwelt:404caffa-f105-40ad-b88e-da71cba69967,
+        umwelt:46aaa611-6b43-418f-8c29-af3532149b6d,
+        umwelt:4ac02d3a-515e-440c-a20f-a0ec49252b48,
+        umwelt:64ade437-602d-4204-a9c8-747e3b17446b,
+        umwelt:8fea905c-e85b-4c87-bff8-50981f238699 ;
     skos:prefLabel "Erneuerbare Energie"@de .
 
-<umweltbelastung_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <abwasser_id>,
-        <bebauungsplan_id>,
-        <emission_umwelt_id>,
-        <flächenversiegelung_id>,
-        <immission_id>,
-        <ozeanversauerung_id>,
-        <saurer_regen_id>,
-        <schadstoff_id>,
-        <smog_id>,
-        <tenside_id>,
-        <treibhauseffekt_id>,
-        <ökologischer_fußabdruck_id>,
-        <ölpest_id>,
-        <überdüngung_id>,
-        <übernutzung_id>,
-        <überschwemmung_id> ;
+umwelt:6814c3d2-6fce-4498-90c1-ae64dd5beb86 a skos:Concept ;
+    skos:inScheme umwelt: ;
+    skos:narrower umwelt:04d8e0ed-65b9-421e-ad81-e2d193b16ca3,
+        umwelt:108460e4-3bd1-416f-b173-06064af14efc,
+        umwelt:2dcf0683-7fd3-4f2a-b847-44fbff98548e,
+        umwelt:30355df5-6068-4335-93ee-82c234ffa92f,
+        umwelt:47673c49-28c1-4ef7-bd09-6b7d856728f3,
+        umwelt:47dacafb-e28f-4990-b91a-75e8d1345c00,
+        umwelt:56174da6-fa69-4724-90e1-8fd5e63d4d09,
+        umwelt:74ea99ef-254d-4ba1-b1ac-9006c46f41be,
+        umwelt:a60ab41a-922d-4cca-87b6-009c9d5304c3,
+        umwelt:b2242325-5fb8-4d22-8c25-d52de66b16ea,
+        umwelt:ba2650af-2608-450c-84a9-cb91e2f3b36a,
+        umwelt:c19eea43-725e-4184-895c-457efe4f9899,
+        umwelt:c8f89004-b147-4cda-a451-24bbb3c9e775,
+        umwelt:db0614d4-0f07-4656-b742-b919147f3d1d,
+        umwelt:e1612edb-5661-4beb-8536-d9e7f613bfb3,
+        umwelt:e40b6303-dcc2-4ff4-baf2-b6996362f008 ;
     skos:prefLabel "Umweltbelastung"@de ;
-    skos:topConceptOf <> .
+    skos:topConceptOf umwelt: .
 
-<umweltschutz_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <atomausstieg_id>,
-        <biokunststoff_id>,
-        <biotop_id>,
-        <energieeffizienz_id>,
-        <energiesparen_id>,
-        <erneuerbare_energie_id>,
-        <gewässerschutz_id>,
-        <greenpeace_id>,
-        <kompost_id>,
-        <küstenschutz_id>,
-        <landschaftspflege_id>,
-        <landschaftsschutz_id>,
-        <luftreinhaltung_id>,
-        <lärmschutz_id>,
-        <nachhaltige_entwicklung_id>,
-        <umwelttechnologie_id>,
-        <wasserverbrauch_id> ;
+umwelt:cf12803c-dc51-4225-944d-b9dc10264351 a skos:Concept ;
+    skos:inScheme umwelt: ;
+    skos:narrower umwelt:01a58330-72a6-4818-a678-de5b1d80db77,
+        umwelt:0b0d3592-bf18-4f52-88b2-4bc82b8ccb2f,
+        umwelt:1b832cd7-b000-4513-8006-ca6c563f5b30,
+        umwelt:3c642be7-755c-4e3c-9851-b39fb38645e4,
+        umwelt:69a7479a-22ab-4218-80a6-e54c4b893897,
+        umwelt:a56fdbd7-4048-42e2-93e9-a0b0d059c59f,
+        umwelt:a6cfd9df-ca09-4f84-90f2-40bd86744cc0,
+        umwelt:a7c881fa-f49e-44ee-9be2-dc1c13d3ad2c,
+        umwelt:c0c79244-2130-4c93-8a63-b81494789c49,
+        umwelt:c5d0cddc-c081-4836-9d0c-03f35bea47a3,
+        umwelt:c779f116-82f4-42fb-a6e6-e41e756824ef,
+        umwelt:ced93a8c-84e8-40a0-a492-e601c4972c09,
+        umwelt:d1ab5a43-9813-4c97-b171-a6e8afc6eb5b,
+        umwelt:d85692b4-0cac-44a5-8536-f2e18418eded,
+        umwelt:e083a0a3-8303-4117-95db-60030ce37fe0,
+        umwelt:e5462bcb-1fdf-4d7e-8873-3d1db36636ac,
+        umwelt:ee51d346-2c84-4e1e-bfdd-07b088fd4da6 ;
     skos:prefLabel "Umweltschutz"@de ;
-    skos:topConceptOf <> .
+    skos:topConceptOf umwelt: .
 
-<> a skos:ConceptScheme ;
+umwelt: a skos:ConceptScheme ;
     dct:creator "<https://creator.com>" ;
-    dct:description "umwelt_systematik"@de ;
-    dct:title "umwelt_systematik"@de ;
-    skos:hasTopConcept <müll_id>,
-        <umweltbelastung_id>,
-        <umweltbewusstsein_id>,
-        <umweltforschung_id>,
-        <umweltgefährdung_id>,
-        <umweltkatastrophe_id>,
-        <umweltmanagement_id>,
-        <umweltschaden_id>,
-        <umweltschutz_id>,
-        <umweltveränderung_id>,
-        <umweltzerstörung_id> .
+    dct:description "umwelt"@de ;
+    dct:title "umwelt"@de ;
+    skos:hasTopConcept umwelt:26ddbd2f-b46a-4c6f-96c7-b9d568ce3ff6,
+        umwelt:47d4c344-8ca9-4e43-b410-d96e84cd7778,
+        umwelt:55c4182d-c6ca-4955-aaef-6c66dd014036,
+        umwelt:6814c3d2-6fce-4498-90c1-ae64dd5beb86,
+        umwelt:7ba83ee7-2fad-46ff-93db-31680f4c731e,
+        umwelt:9fd68ce4-00cd-4985-b8f0-ad939f1b9542,
+        umwelt:c8158b03-d562-4d32-beb3-41150f1873b7,
+        umwelt:cf12803c-dc51-4225-944d-b9dc10264351,
+        umwelt:e071d8ca-9d09-4b1e-8191-8c430a91a46c,
+        umwelt:e1f5a90c-84d7-4118-90bf-6cd5f37fc52a,
+        umwelt:f76c2db5-5444-4ba6-b491-9375e2f468f6 .
 

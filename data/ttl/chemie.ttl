@@ -1,1041 +1,1041 @@
-@base <https://example-perma-id/chemie_systematik/> .
+@prefix chemie: <http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/chemie/> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<_bader__alfred_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Bader, Alfred"@de .
-
-<_baekeland__leo_hendrik_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Baekeland, Leo Hendrik"@de .
-
-<_bosch__carl_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Bosch, Carl"@de .
-
-<_butenandt__adolf_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Butenandt, Adolf"@de .
-
-<_böttger__johann_friedrich_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Böttger, Johann Friedrich"@de .
-
-<_curie__marie_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Curie, Marie"@de .
-
-<_dalton__john_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Dalton, John"@de .
-
-<_djerassi__carl_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Djerassi, Carl"@de .
-
-<_feigl__friedrich_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Feigl, Friedrich"@de .
-
-<_fischer__emil_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Fischer, Emil"@de .
-
-<_goodyear__charles_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Goodyear, Charles"@de .
-
-<_haber__fritz_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Haber, Fritz"@de .
-
-<_hahn__otto_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Hahn, Otto"@de .
-
-<_havemann__robert_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Havemann, Robert"@de .
-
-<_hofmann__fritz_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Hofmann, Fritz"@de .
-
-<_klatte__fritz_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Klatte, Fritz"@de .
-
-<_kohn__walter_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kohn, Walter"@de .
-
-<_lavoisier__antoine_laurent_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Lavoisier, Antoine Laurent"@de .
-
-<_liebig__justus_von_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Liebig, Justus von"@de .
-
-<_mendelejew__dimitrij_iwanowitsch_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Mendelejew, Dimitrij Iwanowitsch"@de .
-
-<_meyer__lothar_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Meyer, Lothar"@de .
-
-<_nobel__alfred_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Nobel, Alfred"@de .
-
-<_ostwald__wilhelm_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Ostwald, Wilhelm"@de .
-
-<_pasteur__louis_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Pasteur, Louis"@de .
-
-<_pauling__linus_carl_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Pauling, Linus Carl"@de .
-
-<_perkin__william_henry_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Perkin, William Henry"@de .
-
-<_pfeiffer__paul_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Pfeiffer, Paul"@de .
-
-<_priestley__joseph_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Priestley, Joseph"@de .
-
-<_staudinger__hermann_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Staudinger, Hermann"@de .
-
-<_straßmann__fritz_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Straßmann, Fritz"@de .
-
-<_thomas__sidney_gilchrist_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Thomas, Sidney Gilchrist"@de .
-
-<_wöhler__friedrich_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Wöhler, Friedrich"@de .
-
-<alkalimetalle_id> a skos:Concept ;
-    skos:broader <leichtmetalle_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Alkalimetalle"@de .
-
-<aluminium_id> a skos:Concept ;
-    skos:broader <leichtmetalle_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Aluminium"@de .
-
-<ammoniak_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Ammoniak"@de ;
-    skos:topConceptOf <> .
-
-<anorganische_chemie_id> a skos:Concept ;
-    skos:broader <chemie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Anorganische Chemie"@de .
-
-<austenit_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Austenit"@de ;
-    skos:topConceptOf <> .
-
-<base_chemie_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Base (Chemie)"@de ;
-    skos:topConceptOf <> .
-
-<benzin_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Benzin"@de ;
-    skos:topConceptOf <> .
-
-<bier_id> a skos:Concept ;
-    skos:broader <alkohol_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Bier"@de .
-
-<calcium_id> a skos:Concept ;
-    skos:broader <erdalkalimetalle_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Calcium"@de .
-
-<cellulose_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Cellulose"@de ;
-    skos:topConceptOf <> .
-
-<chemiefaser_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Chemiefaser"@de ;
-    skos:topConceptOf <> .
-
-<chemieforschung_id> a skos:Concept ;
-    skos:broader <chemie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Chemieforschung"@de .
-
-<chemische_aktivierungsenergie_id> a skos:Concept ;
-    skos:broader <chemie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Chemische Aktivierungsenergie"@de .
-
-<chemische_elemente_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Chemische Elemente"@de ;
-    skos:topConceptOf <> .
-
-<chemische_reduktion_id> a skos:Concept ;
-    skos:broader <chemische_reaktion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Chemische Reduktion"@de .
-
-<chemischer_versuch_id> a skos:Concept ;
-    skos:broader <chemie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Chemischer Versuch"@de .
-
-<chemisches_gleichgewicht_id> a skos:Concept ;
-    skos:broader <chemische_reaktion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Chemisches Gleichgewicht"@de .
-
-<chlor_id> a skos:Concept ;
-    skos:broader <halogen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Chlor"@de .
-
-<damaszenerstahl_id> a skos:Concept ;
-    skos:broader <stahl_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Damaszenerstahl"@de .
-
-<denitrifikation_id> a skos:Concept ;
-    skos:broader <stickstoff_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Denitrifikation"@de .
-
-<destillation_id> a skos:Concept ;
-    skos:broader <chemische_reaktion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Destillation"@de .
-
-<diamant_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Diamant"@de ;
-    skos:topConceptOf <> .
-
-<dioxin_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Dioxin"@de ;
-    skos:topConceptOf <> .
-
-<dipeptid_id> a skos:Concept ;
-    skos:broader <chemische_verbindung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Dipeptid"@de .
-
-<duroplast_id> a skos:Concept ;
-    skos:broader <kunststoff_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Duroplast"@de .
-
-<edelgase_id> a skos:Concept ;
-    skos:broader <nichtmetalle_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Edelgase"@de .
-
-<eisen_id> a skos:Concept ;
-    skos:broader <schwermetalle_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Eisen"@de .
-
-<elektrochemie_id> a skos:Concept ;
-    skos:broader <chemie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Elektrochemie"@de .
-
-<elektrolyse_id> a skos:Concept ;
-    skos:broader <chemische_reaktion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Elektrolyse"@de .
-
-<elektrolyt_id> a skos:Concept ;
-    skos:broader <chemische_verbindung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Elektrolyt"@de .
-
-<emulsion_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Emulsion"@de ;
-    skos:topConceptOf <> .
-
-<fettsäure_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Fettsäure"@de ;
-    skos:topConceptOf <> .
-
-<fluorchlorkohlenwasserstoffe_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Fluorchlorkohlenwasserstoffe"@de ;
-    skos:topConceptOf <> .
-
-<funktionelle_gruppe_id> a skos:Concept ;
-    skos:broader <chemie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Funktionelle Gruppe"@de .
-
-<gefahrstoff_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Gefahrstoff"@de ;
-    skos:topConceptOf <> .
-
-<gips_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Gips"@de ;
-    skos:topConceptOf <> .
-
-<glycerin_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Glycerin"@de ;
-    skos:topConceptOf <> .
-
-<gold_id> a skos:Concept ;
-    skos:broader <edelmetalle_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Gold"@de .
-
-<gärung_id> a skos:Concept ;
-    skos:broader <chemische_reaktion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Gärung"@de .
-
-<halbmetalle_id> a skos:Concept ;
-    skos:broader <periodensystem_der_elemente_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Halbmetalle"@de .
-
-<heizöl_id> a skos:Concept ;
-    skos:broader <öl_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Heizöl"@de .
-
-<iod_id> a skos:Concept ;
-    skos:broader <halogen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Iod"@de .
-
-<iodkaliumiodidlösung_id> a skos:Concept ;
-    skos:broader <chemische_analyse_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Iod-Kaliumiodid-Lösung"@de .
-
-<ionenbindung_id> a skos:Concept ;
-    skos:broader <chemische_reaktion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Ionenbindung"@de .
-
-<ionisation_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Ionisation"@de ;
-    skos:topConceptOf <> .
-
-<isotop_id> a skos:Concept ;
-    skos:broader <atomkern_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Isotop"@de .
-
-<kali_salz_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kali (Salz)"@de ;
-    skos:topConceptOf <> .
-
-<katalysator_chemie_id> a skos:Concept ;
-    skos:broader <chemische_reaktion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Katalysator (Chemie)"@de .
-
-<kieselsäure_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kieselsäure"@de ;
-    skos:topConceptOf <> .
-
-<kohlendioxid_id> a skos:Concept ;
-    skos:broader <gas_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kohlendioxid"@de .
-
-<kohlenmonoxid_id> a skos:Concept ;
-    skos:broader <nichtmetalle_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kohlenmonoxid"@de .
-
-<kohlenstoff_id> a skos:Concept ;
-    skos:broader <halogen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kohlenstoff"@de .
-
-<kohäsion_id> a skos:Concept ;
-    skos:broader <chemie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kohäsion"@de .
-
-<konzentration_chemie_id> a skos:Concept ;
-    skos:broader <chemische_verbindung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Konzentration (Chemie)"@de .
-
-<korrosion_id> a skos:Concept ;
-    skos:broader <chemische_reaktion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Korrosion"@de .
-
-<kupfer_id> a skos:Concept ;
-    skos:broader <schwermetalle_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kupfer"@de .
-
-<legierung_id> a skos:Concept ;
-    skos:broader <chemische_verbindung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Legierung"@de .
-
-<lösung_chemie_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Lösung (Chemie)"@de ;
-    skos:topConceptOf <> .
-
-<methan_id> a skos:Concept ;
-    skos:broader <kohlenwasserstoffe_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Methan"@de .
-
-<naturstoff_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Naturstoff"@de ;
-    skos:topConceptOf <> .
-
-<nitrate_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Nitrate"@de ;
-    skos:topConceptOf <> .
-
-<organische_chemie_id> a skos:Concept ;
-    skos:broader <chemie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Organische Chemie"@de .
-
-<oxidation_id> a skos:Concept ;
-    skos:broader <chemische_reaktion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Oxidation"@de .
-
-<oxide_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Oxide"@de ;
-    skos:topConceptOf <> .
-
-<parfüm_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Parfüm"@de ;
-    skos:topConceptOf <> .
-
-<pet_id> a skos:Concept ;
-    skos:broader <kunststoff_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "PET"@de .
-
-<phasenübergang_id> a skos:Concept ;
-    skos:broader <aggregatzustand_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Phasenübergang"@de .
-
-<phosphate_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Phosphate"@de ;
-    skos:topConceptOf <> .
-
-<phwert_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "PH-Wert"@de ;
-    skos:topConceptOf <> .
-
-<polystyrol_id> a skos:Concept ;
-    skos:broader <kunststoff_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Polystyrol"@de .
-
-<pyroplaste_id> a skos:Concept ;
-    skos:broader <kunststoff_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Pyroplaste"@de .
-
-<radioaktivität_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Radioaktivität"@de ;
-    skos:topConceptOf <> .
-
-<raffinerie_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Raffinerie"@de ;
-    skos:topConceptOf <> .
-
-<reaktionsgleichung_id> a skos:Concept ;
-    skos:broader <chemische_reaktion_id> ;
-    skos:inScheme <> ;
+chemie:008a0cbf-5db0-49aa-9103-bb828b27bc6a a skos:Concept ;
+    skos:broader chemie:b46a97ad-efde-4a17-9bed-c99a22d49a85 ;
+    skos:inScheme chemie: ;
     skos:prefLabel "Reaktionsgleichung"@de .
 
-<salz_chemische_verbindung_id> a skos:Concept ;
-    skos:broader <chemische_verbindung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Salz (chemische Verbindung)"@de .
+chemie:0210c60b-e266-417f-b5e1-be94086e287b a skos:Concept ;
+    skos:broader chemie:b7b7caa5-ce7f-4155-bbbe-2c7c68bf5155 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Isotop"@de .
 
-<salz_natriumchlorid_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Salz (Natriumchlorid)"@de ;
-    skos:topConceptOf <> .
+chemie:034bd738-6116-4c59-94ee-c0f5f403222e a skos:Concept ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Emulsion"@de ;
+    skos:topConceptOf chemie: .
 
-<sauerstoff_id> a skos:Concept ;
-    skos:broader <nichtmetalle_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Sauerstoff"@de .
+chemie:03882246-2cbc-4db0-aafa-24ca08959840 a skos:Concept ;
+    skos:broader chemie:9252b105-ab07-4402-ac38-0017140872d6 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Legierung"@de .
 
-<schwefeldioxid_id> a skos:Concept ;
-    skos:broader <gas_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Schwefeldioxid"@de .
+chemie:03dd3936-7dad-47aa-bc83-0e460e2c2fab a skos:Concept ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Oxide"@de ;
+    skos:topConceptOf chemie: .
 
-<schwefelsäure_id> a skos:Concept ;
-    skos:broader <säuren_id> ;
-    skos:inScheme <> ;
+chemie:041fdf60-be3e-47aa-a2be-e8209d9f14a7 a skos:Concept ;
+    skos:broader chemie:5c227842-775b-41a9-9899-1a9a795a398d ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Elektrochemie"@de .
+
+chemie:050bb895-3ab2-4b2f-bfa2-44e63583c3a3 a skos:Concept ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Parfüm"@de ;
+    skos:topConceptOf chemie: .
+
+chemie:072b9ca8-2f68-4e81-9418-36d30ae3c42e a skos:Concept ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Kieselsäure"@de ;
+    skos:topConceptOf chemie: .
+
+chemie:07746c83-02e4-4ca5-9d07-f2155349837f a skos:Concept ;
+    skos:broader chemie:594dafba-a630-4ca4-b4c4-05a025535330 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Kohn, Walter"@de .
+
+chemie:08d44d56-b433-4043-bb9f-a5417a4eeeba a skos:Concept ;
+    skos:broader chemie:571d2a95-f2d0-46fa-babf-66e2063bf8bb ;
+    skos:inScheme chemie: ;
     skos:prefLabel "Schwefelsäure"@de .
 
-<sequenzanalyse_chemie_id> a skos:Concept ;
-    skos:broader <chemische_reaktion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Sequenzanalyse (Chemie)"@de .
+chemie:09421138-2ccd-4bc1-a28c-d109eba699b0 a skos:Concept ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Fettsäure"@de ;
+    skos:topConceptOf chemie: .
 
-<silber_id> a skos:Concept ;
-    skos:broader <edelmetalle_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Silber"@de .
+chemie:0b469c26-017d-425e-96bc-9d243adf5a2d a skos:Concept ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Benzin"@de ;
+    skos:topConceptOf chemie: .
 
-<silicium_id> a skos:Concept ;
-    skos:broader <nichtmetalle_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Silicium"@de .
+chemie:0d1f54e5-1eaa-47b5-a6ed-5ed1f0e245cc a skos:Concept ;
+    skos:broader chemie:e0b0587a-6ed3-4931-91db-f4742aa2913b ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Damaszenerstahl"@de .
 
-<soda_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Soda"@de ;
-    skos:topConceptOf <> .
-
-<spektroskopie_id> a skos:Concept ;
-    skos:broader <chemie_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Spektroskopie"@de .
-
-<sprengstoff_id> a skos:Concept ;
-    skos:broader <chemische_verbindung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Sprengstoff"@de .
-
-<stickstoffsioxid_id> a skos:Concept ;
-    skos:broader <gas_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Stickstoffsioxid"@de .
-
-<titan_id> a skos:Concept ;
-    skos:broader <leichtmetalle_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Titan"@de .
-
-<uran_id> a skos:Concept ;
-    skos:broader <schwermetalle_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Uran"@de .
-
-<valenzelektron_id> a skos:Concept ;
-    skos:broader <elektron_id> ;
-    skos:inScheme <> ;
+chemie:0dc6637f-9b91-4d99-91ad-6c7443c45284 a skos:Concept ;
+    skos:broader chemie:ad687fb2-2dad-4857-9d13-431867fa4008 ;
+    skos:inScheme chemie: ;
     skos:prefLabel "Valenzelektron"@de .
 
-<vanderwaalskräfte_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Van-der-Waals-Kräfte"@de ;
-    skos:topConceptOf <> .
+chemie:0e2e5ee3-14af-4c5d-9175-1827145e79df a skos:Concept ;
+    skos:broader chemie:594dafba-a630-4ca4-b4c4-05a025535330 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Pauling, Linus Carl"@de .
 
-<verbrennungsvorgang_id> a skos:Concept ;
-    skos:broader <chemische_reaktion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Verbrennungsvorgang"@de .
+chemie:0edc91c1-309b-4a35-9e3d-158473cec50e a skos:Concept ;
+    skos:broader chemie:011d4928-b78f-4013-8a05-7fc6a888dc99 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Phasenübergang"@de .
 
-<verdampfen_id> a skos:Concept ;
-    skos:broader <chemische_reaktion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Verdampfen"@de .
+chemie:10f22cdb-c01a-4fef-ac2a-8521d7d5c37f a skos:Concept ;
+    skos:broader chemie:b46a97ad-efde-4a17-9bed-c99a22d49a85 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Sequenzanalyse (Chemie)"@de .
 
-<verdunstung_id> a skos:Concept ;
-    skos:broader <chemische_reaktion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Verdunstung"@de .
+chemie:122d2544-a674-4a15-99bf-853638a88123 a skos:Concept ;
+    skos:broader chemie:9252b105-ab07-4402-ac38-0017140872d6 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Elektrolyt"@de .
 
-<veresterung_id> a skos:Concept ;
-    skos:broader <chemische_reaktion_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Veresterung"@de .
+chemie:12f92fb9-e638-467f-8c28-667ba208ca41 a skos:Concept ;
+    skos:broader chemie:594dafba-a630-4ca4-b4c4-05a025535330 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Hofmann, Fritz"@de .
 
-<verkokung_id> a skos:Concept ;
-    skos:broader <pyrolyse_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Verkokung"@de .
-
-<verseifung_id> a skos:Concept ;
-    skos:broader <hydrolyse_id> ;
-    skos:inScheme <> ;
+chemie:180c39ea-1c6d-4eab-b616-61651766ec8e a skos:Concept ;
+    skos:broader chemie:39a7a787-fdec-4f89-a712-2db1f26dc7a9 ;
+    skos:inScheme chemie: ;
     skos:prefLabel "Verseifung"@de .
 
-<verzinken_id> a skos:Concept ;
-    skos:broader <stahl_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Verzinken"@de .
+chemie:186de808-1143-401b-a769-59f5315ad0df a skos:Concept ;
+    skos:broader chemie:b46a97ad-efde-4a17-9bed-c99a22d49a85 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Verdunstung"@de .
 
-<viskosität_id> a skos:Concept ;
-    skos:broader <stoffeigenschaft_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Viskosität"@de .
+chemie:19166ce7-863b-46e7-8aa0-7ba94117abda a skos:Concept ;
+    skos:broader chemie:6d13031a-65e1-4c0c-bdf8-6c0872e89baf ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Verkokung"@de .
 
-<vulkanisation_id> a skos:Concept ;
-    skos:inScheme <> ;
+chemie:1a8c41a4-a6c8-4faf-b779-c1c684221d41 a skos:Concept ;
+    skos:broader chemie:2a643ad0-631f-46c0-8eda-79eeee6f0a80 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Iod-Kaliumiodid-Lösung"@de .
+
+chemie:1b4cde85-c0da-4763-8898-0452488d24a6 a skos:Concept ;
+    skos:broader chemie:b46a97ad-efde-4a17-9bed-c99a22d49a85 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Veresterung"@de .
+
+chemie:2155badf-a58e-48d5-97aa-79ca85eadb2a a skos:Concept ;
+    skos:broader chemie:2ad27887-bb12-40ef-a0bc-9104876299a3 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Uran"@de .
+
+chemie:246f6563-c10a-42a2-b1f6-4ed91a6292d7 a skos:Concept ;
+    skos:broader chemie:594dafba-a630-4ca4-b4c4-05a025535330 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Wöhler, Friedrich"@de .
+
+chemie:263b182c-7e04-4e25-a897-b5150c7ff434 a skos:Concept ;
+    skos:inScheme chemie: ;
     skos:prefLabel "Vulkanisation"@de ;
-    skos:topConceptOf <> .
+    skos:topConceptOf chemie: .
 
-<wasserdampf_id> a skos:Concept ;
-    skos:broader <wasser_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Wasserdampf"@de .
+chemie:267196c8-6d65-4c22-82eb-34067fe1bff3 a skos:Concept ;
+    skos:broader chemie:9252b105-ab07-4402-ac38-0017140872d6 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Salz (chemische Verbindung)"@de .
 
-<wasserstoff_id> a skos:Concept ;
-    skos:broader <nichtmetalle_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Wasserstoff"@de .
+chemie:26a1f2ea-df73-4c50-b835-d570e71e5fdb a skos:Concept ;
+    skos:broader chemie:5c227842-775b-41a9-9899-1a9a795a398d ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Funktionelle Gruppe"@de .
 
-<wasserstoffbrückenbindung_id> a skos:Concept ;
-    skos:broader <chemische_verbindung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Wasserstoffbrückenbindung"@de .
-
-<weichmacher_id> a skos:Concept ;
-    skos:broader <kunststoff_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Weichmacher"@de .
-
-<wein_id> a skos:Concept ;
-    skos:broader <alkohol_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Wein"@de .
-
-<wolfram_id> a skos:Concept ;
-    skos:broader <übergangsmetalle_id> ;
-    skos:inScheme <> ;
+chemie:28fccbcb-1a9e-4e78-82e6-3998272d4feb a skos:Concept ;
+    skos:broader chemie:bd83d09c-566c-4b77-a300-7786bb9ae98f ;
+    skos:inScheme chemie: ;
     skos:prefLabel "Wolfram"@de .
 
-<wärmeleitfähigkeit_id> a skos:Concept ;
-    skos:broader <stoffeigenschaft_id> ;
-    skos:inScheme <> ;
+chemie:2b1855e2-b626-44cb-be42-7bb2676bfedb a skos:Concept ;
+    skos:broader chemie:594dafba-a630-4ca4-b4c4-05a025535330 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Havemann, Robert"@de .
+
+chemie:2b5d7ac7-52cb-4702-bfca-0862b32688e2 a skos:Concept ;
+    skos:broader chemie:594dafba-a630-4ca4-b4c4-05a025535330 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Hahn, Otto"@de .
+
+chemie:2dbc1a5f-438b-45ab-ae66-70409c6bb161 a skos:Concept ;
+    skos:broader chemie:19e72b8b-5ad2-4573-9834-54c174f41bec ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Iod"@de .
+
+chemie:2e27c01b-763e-4f0f-ba54-ca1babb154f5 a skos:Concept ;
+    skos:broader chemie:594dafba-a630-4ca4-b4c4-05a025535330 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Haber, Fritz"@de .
+
+chemie:3498ffa0-4920-4552-8a04-140d6c6f4215 a skos:Concept ;
+    skos:broader chemie:b46a97ad-efde-4a17-9bed-c99a22d49a85 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Chemisches Gleichgewicht"@de .
+
+chemie:3d9c9f99-e992-45b4-8fd3-20edeeee939a a skos:Concept ;
+    skos:broader chemie:745bfdcf-d816-411d-9430-f4e25eee1664 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Alkalimetalle"@de .
+
+chemie:40bf264a-678d-42e2-8b7d-68676d47995f a skos:Concept ;
+    skos:broader chemie:594dafba-a630-4ca4-b4c4-05a025535330 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Meyer, Lothar"@de .
+
+chemie:41de1450-1f34-4b67-aa33-493571e6c112 a skos:Concept ;
+    skos:broader chemie:594dafba-a630-4ca4-b4c4-05a025535330 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Klatte, Fritz"@de .
+
+chemie:43a5ceb4-01db-4d73-828e-0c2b13a1680e a skos:Concept ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Lösung (Chemie)"@de ;
+    skos:topConceptOf chemie: .
+
+chemie:455486e0-3546-487b-a915-d226f31c04fe a skos:Concept ;
+    skos:broader chemie:594dafba-a630-4ca4-b4c4-05a025535330 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Bader, Alfred"@de .
+
+chemie:4c84a22b-c857-4a3c-b6e8-68ff47ca7edb a skos:Concept ;
+    skos:broader chemie:b46a97ad-efde-4a17-9bed-c99a22d49a85 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Verdampfen"@de .
+
+chemie:4dc76751-1c55-4b22-8232-eab55362cc0e a skos:Concept ;
+    skos:broader chemie:b46a97ad-efde-4a17-9bed-c99a22d49a85 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Verbrennungsvorgang"@de .
+
+chemie:4e5df497-c334-4f00-a422-95d46703accf a skos:Concept ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Austenit"@de ;
+    skos:topConceptOf chemie: .
+
+chemie:4fd6a78b-a94f-4766-bcf1-94d491521ec4 a skos:Concept ;
+    skos:broader chemie:5c227842-775b-41a9-9899-1a9a795a398d ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Anorganische Chemie"@de .
+
+chemie:50168788-ebb0-404f-aa92-a6e4c41863f0 a skos:Concept ;
+    skos:broader chemie:2fde966b-e1c9-4e8c-baa6-a20440f63058 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Kohlenmonoxid"@de .
+
+chemie:50c1a6d0-996d-4ca0-b0ff-f5fc874655fa a skos:Concept ;
+    skos:broader chemie:19e72b8b-5ad2-4573-9834-54c174f41bec ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Chlor"@de .
+
+chemie:52a3f95d-e82a-4cd6-9f75-a30c77ec6e05 a skos:Concept ;
+    skos:broader chemie:64927ef4-c585-45bc-9e1f-ac5c832037db ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Viskosität"@de .
+
+chemie:52bee2cb-ef66-4042-929a-410a12fa27e6 a skos:Concept ;
+    skos:broader chemie:594dafba-a630-4ca4-b4c4-05a025535330 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Fischer, Emil"@de .
+
+chemie:5535c8b8-30d6-4d7e-a780-ed2d4f67acdb a skos:Concept ;
+    skos:broader chemie:594dafba-a630-4ca4-b4c4-05a025535330 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Bosch, Carl"@de .
+
+chemie:574baf2a-67f4-4815-81c3-5a509f0eba60 a skos:Concept ;
+    skos:broader chemie:594dafba-a630-4ca4-b4c4-05a025535330 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Lavoisier, Antoine Laurent"@de .
+
+chemie:5b8177c2-d526-411b-95ff-ee62d65a3324 a skos:Concept ;
+    skos:broader chemie:5c227842-775b-41a9-9899-1a9a795a398d ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Spektroskopie"@de .
+
+chemie:603699d2-9a71-4bf4-8144-acc026c06499 a skos:Concept ;
+    skos:broader chemie:b46a97ad-efde-4a17-9bed-c99a22d49a85 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Elektrolyse"@de .
+
+chemie:610373c4-78be-4ec2-ae66-a4876c2db2fe a skos:Concept ;
+    skos:broader chemie:12a0dc48-3073-42f7-846d-70f9ea894337 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Denitrifikation"@de .
+
+chemie:6122ea88-d9ea-4629-9ad5-c20f6d81ccd6 a skos:Concept ;
+    skos:broader chemie:5b77943f-05d1-4699-840b-6eebb311e356 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Wasserdampf"@de .
+
+chemie:612d14d8-d0a1-4316-b3cc-b2999198e758 a skos:Concept ;
+    skos:broader chemie:b46a97ad-efde-4a17-9bed-c99a22d49a85 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Katalysator (Chemie)"@de .
+
+chemie:67a86c5c-2c06-474b-a2cd-2a1876cef69b a skos:Concept ;
+    skos:broader chemie:594dafba-a630-4ca4-b4c4-05a025535330 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Mendelejew, Dimitrij Iwanowitsch"@de .
+
+chemie:68b81658-4f44-44e1-8f7d-f6fdbd0e85e6 a skos:Concept ;
+    skos:broader chemie:2fde966b-e1c9-4e8c-baa6-a20440f63058 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Sauerstoff"@de .
+
+chemie:6c752ff3-f858-4805-bf06-8c1d75b503c6 a skos:Concept ;
+    skos:broader chemie:745bfdcf-d816-411d-9430-f4e25eee1664 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Titan"@de .
+
+chemie:6ca76b5a-a69e-47c0-b2ef-f84ebd00878f a skos:Concept ;
+    skos:broader chemie:19e72b8b-5ad2-4573-9834-54c174f41bec ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Kohlenstoff"@de .
+
+chemie:6d8bf6c5-fa5a-4cde-85d3-2184602da388 a skos:Concept ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Gefahrstoff"@de ;
+    skos:topConceptOf chemie: .
+
+chemie:6eb9ae72-3dc6-4606-ac8f-0863dda3b970 a skos:Concept ;
+    skos:broader chemie:594dafba-a630-4ca4-b4c4-05a025535330 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Butenandt, Adolf"@de .
+
+chemie:7061d3f8-1aff-4ec5-957d-0c292c199acf a skos:Concept ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Ionisation"@de ;
+    skos:topConceptOf chemie: .
+
+chemie:70c94f58-3d92-44f2-8406-a20b241cb5e2 a skos:Concept ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "PH-Wert"@de ;
+    skos:topConceptOf chemie: .
+
+chemie:71a02cdf-8281-4dbe-a0c4-364d76fac8e0 a skos:Concept ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Diamant"@de ;
+    skos:topConceptOf chemie: .
+
+chemie:763c6f61-28fc-4b7a-aca5-262a0c004736 a skos:Concept ;
+    skos:broader chemie:9252b105-ab07-4402-ac38-0017140872d6 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Dipeptid"@de .
+
+chemie:77474d2e-632f-4eb6-a4e2-317470acd507 a skos:Concept ;
+    skos:broader chemie:f83986f2-3133-4a5f-86b0-c3584872ad35 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Calcium"@de .
+
+chemie:784d3935-573b-4554-b252-1195d3e51f5c a skos:Concept ;
+    skos:broader chemie:b46a97ad-efde-4a17-9bed-c99a22d49a85 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Chemische Reduktion"@de .
+
+chemie:78959828-fbc5-419d-beb6-e6461073ce47 a skos:Concept ;
+    skos:broader chemie:2fde966b-e1c9-4e8c-baa6-a20440f63058 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Edelgase"@de .
+
+chemie:7a44075a-9b3a-479b-8dd5-5c71a41ea28b a skos:Concept ;
+    skos:broader chemie:594dafba-a630-4ca4-b4c4-05a025535330 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Curie, Marie"@de .
+
+chemie:7bdf6e8b-02b9-4ac0-b29a-f992340bc2e8 a skos:Concept ;
+    skos:broader chemie:594dafba-a630-4ca4-b4c4-05a025535330 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Ostwald, Wilhelm"@de .
+
+chemie:7c3778fb-b12a-4e83-99c2-25ec700d379a a skos:Concept ;
+    skos:broader chemie:71c2ed18-35e3-494e-bbf2-30f7464df2f7 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Weichmacher"@de .
+
+chemie:7eb61e40-2fcc-49eb-a25e-bb502033fa4a a skos:Concept ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Salz (Natriumchlorid)"@de ;
+    skos:topConceptOf chemie: .
+
+chemie:7ff40606-2676-4773-9762-bd5d1f3953b2 a skos:Concept ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Kali (Salz)"@de ;
+    skos:topConceptOf chemie: .
+
+chemie:807375f8-aa75-43a0-ab87-3af3691dae7c a skos:Concept ;
+    skos:broader chemie:b46a97ad-efde-4a17-9bed-c99a22d49a85 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Oxidation"@de .
+
+chemie:8244255e-b2c2-4c5e-b427-d07739ae9284 a skos:Concept ;
+    skos:broader chemie:7986c5e8-1f4e-4094-9ce6-d5bcbca29d5e ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Stickstoffsioxid"@de .
+
+chemie:82797ed6-7dbb-4381-97c3-35934e795e5e a skos:Concept ;
+    skos:broader chemie:5c227842-775b-41a9-9899-1a9a795a398d ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Chemische Aktivierungsenergie"@de .
+
+chemie:8626d456-9e45-4193-80ef-1e3f245a5e62 a skos:Concept ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Phosphate"@de ;
+    skos:topConceptOf chemie: .
+
+chemie:865ab693-458e-493e-ac4e-964f2d8a9607 a skos:Concept ;
+    skos:broader chemie:5c227842-775b-41a9-9899-1a9a795a398d ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Chemischer Versuch"@de .
+
+chemie:871b4b69-5a79-4a74-a817-a5d7d65c37f0 a skos:Concept ;
+    skos:broader chemie:e55efa9c-fd3a-4511-b4fe-626fbd4a200a ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Halbmetalle"@de .
+
+chemie:88cd563f-e34d-4522-b805-5d6b17d09f20 a skos:Concept ;
+    skos:broader chemie:e0b0587a-6ed3-4931-91db-f4742aa2913b ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Verzinken"@de .
+
+chemie:8ad34a12-5ba7-48e6-a6d6-ace467d5809d a skos:Concept ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Base (Chemie)"@de ;
+    skos:topConceptOf chemie: .
+
+chemie:9290aa44-f06a-43e0-a141-a6ed82fcc94f a skos:Concept ;
+    skos:broader chemie:594dafba-a630-4ca4-b4c4-05a025535330 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Feigl, Friedrich"@de .
+
+chemie:93ae1330-ff56-4bb8-9c7e-eb4ba08dd505 a skos:Concept ;
+    skos:broader chemie:594dafba-a630-4ca4-b4c4-05a025535330 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Liebig, Justus von"@de .
+
+chemie:948d8dff-e045-4815-b903-d818ca86a045 a skos:Concept ;
+    skos:broader chemie:9252b105-ab07-4402-ac38-0017140872d6 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Konzentration (Chemie)"@de .
+
+chemie:9530280b-a334-42bd-8c79-53fbf8232a70 a skos:Concept ;
+    skos:broader chemie:594dafba-a630-4ca4-b4c4-05a025535330 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Goodyear, Charles"@de .
+
+chemie:95ce125d-f151-4409-a481-6e58644163b6 a skos:Concept ;
+    skos:broader chemie:594dafba-a630-4ca4-b4c4-05a025535330 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Priestley, Joseph"@de .
+
+chemie:963d5412-509b-4d6e-88be-a791ccfa9548 a skos:Concept ;
+    skos:broader chemie:594dafba-a630-4ca4-b4c4-05a025535330 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Staudinger, Hermann"@de .
+
+chemie:964c6e32-791f-4fcc-8f94-61d3fe34bd7e a skos:Concept ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Radioaktivität"@de ;
+    skos:topConceptOf chemie: .
+
+chemie:991bc9e1-8f43-4eb5-810d-a520580b2850 a skos:Concept ;
+    skos:broader chemie:71c2ed18-35e3-494e-bbf2-30f7464df2f7 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Duroplast"@de .
+
+chemie:9cf1f9fb-57cc-4ba8-b736-8982170cc579 a skos:Concept ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Nitrate"@de ;
+    skos:topConceptOf chemie: .
+
+chemie:9e4d125e-035a-4159-a8ea-e1d5ec92abdd a skos:Concept ;
+    skos:broader chemie:594dafba-a630-4ca4-b4c4-05a025535330 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Straßmann, Fritz"@de .
+
+chemie:a3d0f757-8c6e-4e69-bc07-44a73ddd6e05 a skos:Concept ;
+    skos:broader chemie:594dafba-a630-4ca4-b4c4-05a025535330 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Thomas, Sidney Gilchrist"@de .
+
+chemie:a47635f5-76d7-4d77-9ecd-de97d3b137ce a skos:Concept ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Soda"@de ;
+    skos:topConceptOf chemie: .
+
+chemie:a5d35db0-3358-4c72-a9e1-52bef1658a43 a skos:Concept ;
+    skos:broader chemie:b46a97ad-efde-4a17-9bed-c99a22d49a85 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Ionenbindung"@de .
+
+chemie:a6b7459d-be7a-4a56-bdb9-6840a1e09db1 a skos:Concept ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Gips"@de ;
+    skos:topConceptOf chemie: .
+
+chemie:a79ed196-fe9c-4b4e-9229-737ba7ea17d4 a skos:Concept ;
+    skos:broader chemie:64927ef4-c585-45bc-9e1f-ac5c832037db ;
+    skos:inScheme chemie: ;
     skos:prefLabel "Wärmeleitfähigkeit"@de .
 
-<zinn_id> a skos:Concept ;
-    skos:broader <schwermetalle_id> ;
-    skos:inScheme <> ;
+chemie:a7a1619d-8f42-420f-9da1-ffc4703a8785 a skos:Concept ;
+    skos:broader chemie:0c124931-ec78-4392-9985-60870ef224db ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Methan"@de .
+
+chemie:a7da01dd-450e-4b38-bff4-9b2c4b7ecc61 a skos:Concept ;
+    skos:broader chemie:b46a97ad-efde-4a17-9bed-c99a22d49a85 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Korrosion"@de .
+
+chemie:a8b86da0-f886-4b37-8dfc-ac3ac2494ff5 a skos:Concept ;
+    skos:broader chemie:b46a97ad-efde-4a17-9bed-c99a22d49a85 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Destillation"@de .
+
+chemie:a90c24ea-06a9-435c-ae64-df14f73bba77 a skos:Concept ;
+    skos:broader chemie:2ad27887-bb12-40ef-a0bc-9104876299a3 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Kupfer"@de .
+
+chemie:a91af585-5978-42ea-a75d-666a87e0a3c5 a skos:Concept ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Van-der-Waals-Kräfte"@de ;
+    skos:topConceptOf chemie: .
+
+chemie:a9b0722f-bf9d-4fcb-b9af-8640f8715fd2 a skos:Concept ;
+    skos:broader chemie:594dafba-a630-4ca4-b4c4-05a025535330 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Böttger, Johann Friedrich"@de .
+
+chemie:aa19966d-3324-4cf8-ad6a-2b697915cbdf a skos:Concept ;
+    skos:broader chemie:7986c5e8-1f4e-4094-9ce6-d5bcbca29d5e ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Kohlendioxid"@de .
+
+chemie:abc148ba-4a56-4e38-bf23-5c00e48d818d a skos:Concept ;
+    skos:broader chemie:d34feb66-d099-4ae5-98c1-910346e053c4 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Silber"@de .
+
+chemie:acc833b2-0050-47f0-b5f9-375921080c1e a skos:Concept ;
+    skos:broader chemie:7955cef4-b756-4707-972c-f40194b1d2fa ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Heizöl"@de .
+
+chemie:b4984e03-ff84-4ca4-ae81-fc1ca98c5731 a skos:Concept ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Ammoniak"@de ;
+    skos:topConceptOf chemie: .
+
+chemie:b6995189-5c11-461a-b38e-6481e75164cf a skos:Concept ;
+    skos:broader chemie:3db6f389-81b5-4366-b51d-2f260dc5af23 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Wein"@de .
+
+chemie:b7253cd5-0919-4002-bfb1-609b3eb340f5 a skos:Concept ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Dioxin"@de ;
+    skos:topConceptOf chemie: .
+
+chemie:b834ea0f-211b-4c2d-9c9f-79c03edf4df1 a skos:Concept ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Raffinerie"@de ;
+    skos:topConceptOf chemie: .
+
+chemie:b90bcf99-8b46-4b4c-b117-bcce5f2fd7ad a skos:Concept ;
+    skos:broader chemie:594dafba-a630-4ca4-b4c4-05a025535330 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Pfeiffer, Paul"@de .
+
+chemie:b95cea34-3b44-4a91-911e-92ab851e179a a skos:Concept ;
+    skos:broader chemie:2fde966b-e1c9-4e8c-baa6-a20440f63058 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Silicium"@de .
+
+chemie:ba7530fc-dd96-433b-9957-2bf31b374e08 a skos:Concept ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Glycerin"@de ;
+    skos:topConceptOf chemie: .
+
+chemie:bb49f5c9-f24c-4ab1-b94e-eea240bf5483 a skos:Concept ;
+    skos:broader chemie:594dafba-a630-4ca4-b4c4-05a025535330 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Perkin, William Henry"@de .
+
+chemie:c01142b1-d770-4ed7-869b-b50966bd494f a skos:Concept ;
+    skos:broader chemie:594dafba-a630-4ca4-b4c4-05a025535330 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Baekeland, Leo Hendrik"@de .
+
+chemie:c312b45e-ec41-4656-a8c1-790815246ac5 a skos:Concept ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Ätzende Stoffe"@de ;
+    skos:topConceptOf chemie: .
+
+chemie:c4044f4a-7e50-4117-af8f-6601363f5716 a skos:Concept ;
+    skos:broader chemie:71c2ed18-35e3-494e-bbf2-30f7464df2f7 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Polystyrol"@de .
+
+chemie:c6247deb-acd4-4e89-9098-9439bdb94933 a skos:Concept ;
+    skos:broader chemie:2ad27887-bb12-40ef-a0bc-9104876299a3 ;
+    skos:inScheme chemie: ;
     skos:prefLabel "Zinn"@de .
 
-<ätzende_stoffe_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Ätzende Stoffe"@de ;
-    skos:topConceptOf <> .
+chemie:c779af38-81b6-4f8a-a976-55e7ceebe47b a skos:Concept ;
+    skos:broader chemie:9252b105-ab07-4402-ac38-0017140872d6 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Wasserstoffbrückenbindung"@de .
 
-<aggregatzustand_id> a skos:Concept ;
-    skos:broader <chemie_id> ;
-    skos:inScheme <> ;
-    skos:narrower <phasenübergang_id> ;
+chemie:c8d8a542-f61d-40cc-8db2-b51fdd863bf8 a skos:Concept ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Naturstoff"@de ;
+    skos:topConceptOf chemie: .
+
+chemie:d07ef9d8-3e02-436c-9338-6ea1ab9d7a89 a skos:Concept ;
+    skos:broader chemie:594dafba-a630-4ca4-b4c4-05a025535330 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Pasteur, Louis"@de .
+
+chemie:d18a8910-9679-417a-921f-0bfd75505580 a skos:Concept ;
+    skos:broader chemie:b46a97ad-efde-4a17-9bed-c99a22d49a85 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Gärung"@de .
+
+chemie:d3ae0c7a-f32a-4aaa-b817-eb76f604b2b8 a skos:Concept ;
+    skos:broader chemie:594dafba-a630-4ca4-b4c4-05a025535330 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Dalton, John"@de .
+
+chemie:d4bf360a-7870-45f4-931e-901c49cab804 a skos:Concept ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Cellulose"@de ;
+    skos:topConceptOf chemie: .
+
+chemie:d6347667-9cb0-4a38-beea-f7771f406b56 a skos:Concept ;
+    skos:broader chemie:594dafba-a630-4ca4-b4c4-05a025535330 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Djerassi, Carl"@de .
+
+chemie:d72ab21d-0c3b-41b3-b40e-a325120f359b a skos:Concept ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Fluorchlorkohlenwasserstoffe"@de ;
+    skos:topConceptOf chemie: .
+
+chemie:d82b05f5-56a2-4fed-a4c6-7cf22ce48431 a skos:Concept ;
+    skos:broader chemie:2ad27887-bb12-40ef-a0bc-9104876299a3 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Eisen"@de .
+
+chemie:d956e57b-343a-4d9c-8c39-1f3755af7a11 a skos:Concept ;
+    skos:broader chemie:d34feb66-d099-4ae5-98c1-910346e053c4 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Gold"@de .
+
+chemie:da4d6154-fa1d-4f62-a093-7aee66ddd0a0 a skos:Concept ;
+    skos:broader chemie:5c227842-775b-41a9-9899-1a9a795a398d ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Kohäsion"@de .
+
+chemie:dcc72c17-3c36-4c2b-8992-1bce60ec149f a skos:Concept ;
+    skos:broader chemie:71c2ed18-35e3-494e-bbf2-30f7464df2f7 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "PET"@de .
+
+chemie:e3a1b684-8098-48ca-bc55-d002c981b760 a skos:Concept ;
+    skos:broader chemie:594dafba-a630-4ca4-b4c4-05a025535330 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Nobel, Alfred"@de .
+
+chemie:e833e128-9bc0-4bed-9921-36158c781bd9 a skos:Concept ;
+    skos:broader chemie:2fde966b-e1c9-4e8c-baa6-a20440f63058 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Wasserstoff"@de .
+
+chemie:f036b97f-87bd-4c5c-bd04-732926e68136 a skos:Concept ;
+    skos:broader chemie:745bfdcf-d816-411d-9430-f4e25eee1664 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Aluminium"@de .
+
+chemie:f0f3061a-ca9b-4e36-a525-f93c70d2de0b a skos:Concept ;
+    skos:broader chemie:3db6f389-81b5-4366-b51d-2f260dc5af23 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Bier"@de .
+
+chemie:f35f31bb-131c-40d9-b0f0-e0b8a33dca86 a skos:Concept ;
+    skos:broader chemie:9252b105-ab07-4402-ac38-0017140872d6 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Sprengstoff"@de .
+
+chemie:f38251be-64dd-4b95-9b6f-f4ec8681c8d9 a skos:Concept ;
+    skos:broader chemie:7986c5e8-1f4e-4094-9ce6-d5bcbca29d5e ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Schwefeldioxid"@de .
+
+chemie:f47fdecb-0b9e-4c45-b9e4-5f0c97d08f15 a skos:Concept ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Chemische Elemente"@de ;
+    skos:topConceptOf chemie: .
+
+chemie:f4d4f61f-6702-4973-adc4-c2ad61a06899 a skos:Concept ;
+    skos:broader chemie:71c2ed18-35e3-494e-bbf2-30f7464df2f7 ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Pyroplaste"@de .
+
+chemie:f9320392-44a9-4691-84e1-f4101211f5b5 a skos:Concept ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Chemiefaser"@de ;
+    skos:topConceptOf chemie: .
+
+chemie:fb903943-c100-41df-9eb7-b879f1353fdb a skos:Concept ;
+    skos:broader chemie:5c227842-775b-41a9-9899-1a9a795a398d ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Organische Chemie"@de .
+
+chemie:fbbef6f3-a303-43bb-a810-fd90afa5760a a skos:Concept ;
+    skos:broader chemie:5c227842-775b-41a9-9899-1a9a795a398d ;
+    skos:inScheme chemie: ;
+    skos:prefLabel "Chemieforschung"@de .
+
+chemie:011d4928-b78f-4013-8a05-7fc6a888dc99 a skos:Concept ;
+    skos:broader chemie:5c227842-775b-41a9-9899-1a9a795a398d ;
+    skos:inScheme chemie: ;
+    skos:narrower chemie:0edc91c1-309b-4a35-9e3d-158473cec50e ;
     skos:prefLabel "Aggregatzustand"@de .
 
-<atomkern_id> a skos:Concept ;
-    skos:broader <atom_id> ;
-    skos:inScheme <> ;
-    skos:narrower <isotop_id> ;
-    skos:prefLabel "Atomkern)"@de .
+chemie:02a7f762-d9a8-4ec4-95fa-b59c67845d2e a skos:Concept ;
+    skos:inScheme chemie: ;
+    skos:narrower chemie:b0393097-6016-411a-867a-606b28aa90e5 ;
+    skos:prefLabel "Teilchen"@de ;
+    skos:topConceptOf chemie: .
 
-<chemische_analyse_id> a skos:Concept ;
-    skos:broader <chemische_reaktion_id> ;
-    skos:inScheme <> ;
-    skos:narrower <iodkaliumiodidlösung_id> ;
-    skos:prefLabel "Chemische Analyse"@de .
-
-<elektron_id> a skos:Concept ;
-    skos:broader <atom_id> ;
-    skos:inScheme <> ;
-    skos:narrower <valenzelektron_id> ;
-    skos:prefLabel "Elektron)"@de .
-
-<erdalkalimetalle_id> a skos:Concept ;
-    skos:broader <leichtmetalle_id> ;
-    skos:inScheme <> ;
-    skos:narrower <calcium_id> ;
-    skos:prefLabel "Erdalkalimetalle"@de .
-
-<hydrolyse_id> a skos:Concept ;
-    skos:broader <chemische_reaktion_id> ;
-    skos:inScheme <> ;
-    skos:narrower <verseifung_id> ;
-    skos:prefLabel "Hydrolyse"@de .
-
-<kohlenwasserstoffe_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <methan_id> ;
+chemie:0c124931-ec78-4392-9985-60870ef224db a skos:Concept ;
+    skos:inScheme chemie: ;
+    skos:narrower chemie:a7a1619d-8f42-420f-9da1-ffc4703a8785 ;
     skos:prefLabel "Kohlenwasserstoffe"@de ;
-    skos:topConceptOf <> .
+    skos:topConceptOf chemie: .
 
-<molekül_id> a skos:Concept ;
-    skos:broader <teilchen_id> ;
-    skos:inScheme <> ;
-    skos:narrower <atom_id> ;
-    skos:prefLabel "Molekül"@de .
-
-<pyrolyse_id> a skos:Concept ;
-    skos:broader <chemische_reaktion_id> ;
-    skos:inScheme <> ;
-    skos:narrower <verkokung_id> ;
-    skos:prefLabel "Pyrolyse"@de .
-
-<stickstoff_id> a skos:Concept ;
-    skos:broader <nichtmetalle_id> ;
-    skos:inScheme <> ;
-    skos:narrower <denitrifikation_id> ;
+chemie:12a0dc48-3073-42f7-846d-70f9ea894337 a skos:Concept ;
+    skos:broader chemie:2fde966b-e1c9-4e8c-baa6-a20440f63058 ;
+    skos:inScheme chemie: ;
+    skos:narrower chemie:610373c4-78be-4ec2-ae66-a4876c2db2fe ;
     skos:prefLabel "Stickstoff"@de .
 
-<säuren_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <schwefelsäure_id> ;
+chemie:2a643ad0-631f-46c0-8eda-79eeee6f0a80 a skos:Concept ;
+    skos:broader chemie:b46a97ad-efde-4a17-9bed-c99a22d49a85 ;
+    skos:inScheme chemie: ;
+    skos:narrower chemie:1a8c41a4-a6c8-4faf-b779-c1c684221d41 ;
+    skos:prefLabel "Chemische Analyse"@de .
+
+chemie:39a7a787-fdec-4f89-a712-2db1f26dc7a9 a skos:Concept ;
+    skos:broader chemie:b46a97ad-efde-4a17-9bed-c99a22d49a85 ;
+    skos:inScheme chemie: ;
+    skos:narrower chemie:180c39ea-1c6d-4eab-b616-61651766ec8e ;
+    skos:prefLabel "Hydrolyse"@de .
+
+chemie:571d2a95-f2d0-46fa-babf-66e2063bf8bb a skos:Concept ;
+    skos:inScheme chemie: ;
+    skos:narrower chemie:08d44d56-b433-4043-bb9f-a5417a4eeeba ;
     skos:prefLabel "Säuren"@de ;
-    skos:topConceptOf <> .
+    skos:topConceptOf chemie: .
 
-<teilchen_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <molekül_id> ;
-    skos:prefLabel "Teilchen"@de ;
-    skos:topConceptOf <> .
-
-<wasser_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <wasserdampf_id> ;
+chemie:5b77943f-05d1-4699-840b-6eebb311e356 a skos:Concept ;
+    skos:inScheme chemie: ;
+    skos:narrower chemie:6122ea88-d9ea-4629-9ad5-c20f6d81ccd6 ;
     skos:prefLabel "Wasser"@de ;
-    skos:topConceptOf <> .
+    skos:topConceptOf chemie: .
 
-<öl_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <heizöl_id> ;
+chemie:6d13031a-65e1-4c0c-bdf8-6c0872e89baf a skos:Concept ;
+    skos:broader chemie:b46a97ad-efde-4a17-9bed-c99a22d49a85 ;
+    skos:inScheme chemie: ;
+    skos:narrower chemie:19166ce7-863b-46e7-8aa0-7ba94117abda ;
+    skos:prefLabel "Pyrolyse"@de .
+
+chemie:7955cef4-b756-4707-972c-f40194b1d2fa a skos:Concept ;
+    skos:inScheme chemie: ;
+    skos:narrower chemie:acc833b2-0050-47f0-b5f9-375921080c1e ;
     skos:prefLabel "Öl"@de ;
-    skos:topConceptOf <> .
+    skos:topConceptOf chemie: .
 
-<übergangsmetalle_id> a skos:Concept ;
-    skos:broader <metalle_id> ;
-    skos:inScheme <> ;
-    skos:narrower <wolfram_id> ;
+chemie:ad687fb2-2dad-4857-9d13-431867fa4008 a skos:Concept ;
+    skos:broader chemie:dd297a8f-611b-42ce-a092-1059f3b5b176 ;
+    skos:inScheme chemie: ;
+    skos:narrower chemie:0dc6637f-9b91-4d99-91ad-6c7443c45284 ;
+    skos:prefLabel "Elektron)"@de .
+
+chemie:b0393097-6016-411a-867a-606b28aa90e5 a skos:Concept ;
+    skos:broader chemie:02a7f762-d9a8-4ec4-95fa-b59c67845d2e ;
+    skos:inScheme chemie: ;
+    skos:narrower chemie:dd297a8f-611b-42ce-a092-1059f3b5b176 ;
+    skos:prefLabel "Molekül"@de .
+
+chemie:b7b7caa5-ce7f-4155-bbbe-2c7c68bf5155 a skos:Concept ;
+    skos:broader chemie:dd297a8f-611b-42ce-a092-1059f3b5b176 ;
+    skos:inScheme chemie: ;
+    skos:narrower chemie:0210c60b-e266-417f-b5e1-be94086e287b ;
+    skos:prefLabel "Atomkern)"@de .
+
+chemie:bd83d09c-566c-4b77-a300-7786bb9ae98f a skos:Concept ;
+    skos:broader chemie:8970f355-8838-4654-8c04-0dce7629d183 ;
+    skos:inScheme chemie: ;
+    skos:narrower chemie:28fccbcb-1a9e-4e78-82e6-3998272d4feb ;
     skos:prefLabel "Übergangsmetalle)"@de .
 
-<alkohol_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <bier_id>,
-        <wein_id> ;
+chemie:f83986f2-3133-4a5f-86b0-c3584872ad35 a skos:Concept ;
+    skos:broader chemie:745bfdcf-d816-411d-9430-f4e25eee1664 ;
+    skos:inScheme chemie: ;
+    skos:narrower chemie:77474d2e-632f-4eb6-a4e2-317470acd507 ;
+    skos:prefLabel "Erdalkalimetalle"@de .
+
+chemie:3db6f389-81b5-4366-b51d-2f260dc5af23 a skos:Concept ;
+    skos:inScheme chemie: ;
+    skos:narrower chemie:b6995189-5c11-461a-b38e-6481e75164cf,
+        chemie:f0f3061a-ca9b-4e36-a525-f93c70d2de0b ;
     skos:prefLabel "Alkohol"@de ;
-    skos:topConceptOf <> .
+    skos:topConceptOf chemie: .
 
-<atom_id> a skos:Concept ;
-    skos:broader <molekül_id> ;
-    skos:inScheme <> ;
-    skos:narrower <atomkern_id>,
-        <elektron_id> ;
-    skos:prefLabel "Atom"@de .
+chemie:64927ef4-c585-45bc-9e1f-ac5c832037db a skos:Concept ;
+    skos:inScheme chemie: ;
+    skos:narrower chemie:52a3f95d-e82a-4cd6-9f75-a30c77ec6e05,
+        chemie:a79ed196-fe9c-4b4e-9229-737ba7ea17d4 ;
+    skos:prefLabel "Stoffeigenschaft"@de ;
+    skos:topConceptOf chemie: .
 
-<edelmetalle_id> a skos:Concept ;
-    skos:broader <metalle_id> ;
-    skos:inScheme <> ;
-    skos:narrower <gold_id>,
-        <silber_id> ;
+chemie:d34feb66-d099-4ae5-98c1-910346e053c4 a skos:Concept ;
+    skos:broader chemie:8970f355-8838-4654-8c04-0dce7629d183 ;
+    skos:inScheme chemie: ;
+    skos:narrower chemie:abc148ba-4a56-4e38-bf23-5c00e48d818d,
+        chemie:d956e57b-343a-4d9c-8c39-1f3755af7a11 ;
     skos:prefLabel "Edelmetalle"@de .
 
-<stahl_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <damaszenerstahl_id>,
-        <verzinken_id> ;
+chemie:dd297a8f-611b-42ce-a092-1059f3b5b176 a skos:Concept ;
+    skos:broader chemie:b0393097-6016-411a-867a-606b28aa90e5 ;
+    skos:inScheme chemie: ;
+    skos:narrower chemie:ad687fb2-2dad-4857-9d13-431867fa4008,
+        chemie:b7b7caa5-ce7f-4155-bbbe-2c7c68bf5155 ;
+    skos:prefLabel "Atom"@de .
+
+chemie:e0b0587a-6ed3-4931-91db-f4742aa2913b a skos:Concept ;
+    skos:inScheme chemie: ;
+    skos:narrower chemie:0d1f54e5-1eaa-47b5-a6ed-5ed1f0e245cc,
+        chemie:88cd563f-e34d-4522-b805-5d6b17d09f20 ;
     skos:prefLabel "Stahl"@de ;
-    skos:topConceptOf <> .
+    skos:topConceptOf chemie: .
 
-<stoffeigenschaft_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <viskosität_id>,
-        <wärmeleitfähigkeit_id> ;
-    skos:prefLabel "Stoffeigenschaft"@de ;
-    skos:topConceptOf <> .
-
-<gas_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <kohlendioxid_id>,
-        <schwefeldioxid_id>,
-        <stickstoffsioxid_id> ;
-    skos:prefLabel "Gas"@de ;
-    skos:topConceptOf <> .
-
-<halogen_id> a skos:Concept ;
-    skos:broader <nichtmetalle_id> ;
-    skos:inScheme <> ;
-    skos:narrower <chlor_id>,
-        <iod_id>,
-        <kohlenstoff_id> ;
+chemie:19e72b8b-5ad2-4573-9834-54c174f41bec a skos:Concept ;
+    skos:broader chemie:2fde966b-e1c9-4e8c-baa6-a20440f63058 ;
+    skos:inScheme chemie: ;
+    skos:narrower chemie:2dbc1a5f-438b-45ab-ae66-70409c6bb161,
+        chemie:50c1a6d0-996d-4ca0-b0ff-f5fc874655fa,
+        chemie:6ca76b5a-a69e-47c0-b2ef-f84ebd00878f ;
     skos:prefLabel "Halogen"@de .
 
-<periodensystem_der_elemente_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <halbmetalle_id>,
-        <metalle_id>,
-        <nichtmetalle_id> ;
+chemie:7986c5e8-1f4e-4094-9ce6-d5bcbca29d5e a skos:Concept ;
+    skos:inScheme chemie: ;
+    skos:narrower chemie:8244255e-b2c2-4c5e-b427-d07739ae9284,
+        chemie:aa19966d-3324-4cf8-ad6a-2b697915cbdf,
+        chemie:f38251be-64dd-4b95-9b6f-f4ec8681c8d9 ;
+    skos:prefLabel "Gas"@de ;
+    skos:topConceptOf chemie: .
+
+chemie:e55efa9c-fd3a-4511-b4fe-626fbd4a200a a skos:Concept ;
+    skos:inScheme chemie: ;
+    skos:narrower chemie:2fde966b-e1c9-4e8c-baa6-a20440f63058,
+        chemie:871b4b69-5a79-4a74-a817-a5d7d65c37f0,
+        chemie:8970f355-8838-4654-8c04-0dce7629d183 ;
     skos:prefLabel "Periodensystem der Elemente"@de ;
-    skos:topConceptOf <> .
+    skos:topConceptOf chemie: .
 
-<leichtmetalle_id> a skos:Concept ;
-    skos:broader <metalle_id> ;
-    skos:inScheme <> ;
-    skos:narrower <alkalimetalle_id>,
-        <aluminium_id>,
-        <erdalkalimetalle_id>,
-        <titan_id> ;
-    skos:prefLabel "Leichtmetalle)"@de .
-
-<metalle_id> a skos:Concept ;
-    skos:broader <periodensystem_der_elemente_id> ;
-    skos:inScheme <> ;
-    skos:narrower <edelmetalle_id>,
-        <leichtmetalle_id>,
-        <schwermetalle_id>,
-        <übergangsmetalle_id> ;
-    skos:prefLabel "Metalle"@de .
-
-<schwermetalle_id> a skos:Concept ;
-    skos:broader <metalle_id> ;
-    skos:inScheme <> ;
-    skos:narrower <eisen_id>,
-        <kupfer_id>,
-        <uran_id>,
-        <zinn_id> ;
+chemie:2ad27887-bb12-40ef-a0bc-9104876299a3 a skos:Concept ;
+    skos:broader chemie:8970f355-8838-4654-8c04-0dce7629d183 ;
+    skos:inScheme chemie: ;
+    skos:narrower chemie:2155badf-a58e-48d5-97aa-79ca85eadb2a,
+        chemie:a90c24ea-06a9-435c-ae64-df14f73bba77,
+        chemie:c6247deb-acd4-4e89-9098-9439bdb94933,
+        chemie:d82b05f5-56a2-4fed-a4c6-7cf22ce48431 ;
     skos:prefLabel "Schwermetalle"@de .
 
-<kunststoff_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <duroplast_id>,
-        <pet_id>,
-        <polystyrol_id>,
-        <pyroplaste_id>,
-        <weichmacher_id> ;
+chemie:745bfdcf-d816-411d-9430-f4e25eee1664 a skos:Concept ;
+    skos:broader chemie:8970f355-8838-4654-8c04-0dce7629d183 ;
+    skos:inScheme chemie: ;
+    skos:narrower chemie:3d9c9f99-e992-45b4-8fd3-20edeeee939a,
+        chemie:6c752ff3-f858-4805-bf06-8c1d75b503c6,
+        chemie:f036b97f-87bd-4c5c-bd04-732926e68136,
+        chemie:f83986f2-3133-4a5f-86b0-c3584872ad35 ;
+    skos:prefLabel "Leichtmetalle)"@de .
+
+chemie:8970f355-8838-4654-8c04-0dce7629d183 a skos:Concept ;
+    skos:broader chemie:e55efa9c-fd3a-4511-b4fe-626fbd4a200a ;
+    skos:inScheme chemie: ;
+    skos:narrower chemie:2ad27887-bb12-40ef-a0bc-9104876299a3,
+        chemie:745bfdcf-d816-411d-9430-f4e25eee1664,
+        chemie:bd83d09c-566c-4b77-a300-7786bb9ae98f,
+        chemie:d34feb66-d099-4ae5-98c1-910346e053c4 ;
+    skos:prefLabel "Metalle"@de .
+
+chemie:71c2ed18-35e3-494e-bbf2-30f7464df2f7 a skos:Concept ;
+    skos:inScheme chemie: ;
+    skos:narrower chemie:7c3778fb-b12a-4e83-99c2-25ec700d379a,
+        chemie:991bc9e1-8f43-4eb5-810d-a520580b2850,
+        chemie:c4044f4a-7e50-4117-af8f-6601363f5716,
+        chemie:dcc72c17-3c36-4c2b-8992-1bce60ec149f,
+        chemie:f4d4f61f-6702-4973-adc4-c2ad61a06899 ;
     skos:prefLabel "Kunststoff"@de ;
-    skos:topConceptOf <> .
+    skos:topConceptOf chemie: .
 
-<chemische_verbindung_id> a skos:Concept ;
-    skos:broader <chemie_id> ;
-    skos:inScheme <> ;
-    skos:narrower <dipeptid_id>,
-        <elektrolyt_id>,
-        <konzentration_chemie_id>,
-        <legierung_id>,
-        <salz_chemische_verbindung_id>,
-        <sprengstoff_id>,
-        <wasserstoffbrückenbindung_id> ;
-    skos:prefLabel "Chemische Verbindung"@de .
-
-<nichtmetalle_id> a skos:Concept ;
-    skos:broader <periodensystem_der_elemente_id> ;
-    skos:inScheme <> ;
-    skos:narrower <edelgase_id>,
-        <halogen_id>,
-        <kohlenmonoxid_id>,
-        <sauerstoff_id>,
-        <silicium_id>,
-        <stickstoff_id>,
-        <wasserstoff_id> ;
+chemie:2fde966b-e1c9-4e8c-baa6-a20440f63058 a skos:Concept ;
+    skos:broader chemie:e55efa9c-fd3a-4511-b4fe-626fbd4a200a ;
+    skos:inScheme chemie: ;
+    skos:narrower chemie:12a0dc48-3073-42f7-846d-70f9ea894337,
+        chemie:19e72b8b-5ad2-4573-9834-54c174f41bec,
+        chemie:50168788-ebb0-404f-aa92-a6e4c41863f0,
+        chemie:68b81658-4f44-44e1-8f7d-f6fdbd0e85e6,
+        chemie:78959828-fbc5-419d-beb6-e6461073ce47,
+        chemie:b95cea34-3b44-4a91-911e-92ab851e179a,
+        chemie:e833e128-9bc0-4bed-9921-36158c781bd9 ;
     skos:prefLabel "Nichtmetalle"@de .
 
-<chemie_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <aggregatzustand_id>,
-        <anorganische_chemie_id>,
-        <chemieforschung_id>,
-        <chemische_aktivierungsenergie_id>,
-        <chemische_reaktion_id>,
-        <chemische_verbindung_id>,
-        <chemischer_versuch_id>,
-        <elektrochemie_id>,
-        <funktionelle_gruppe_id>,
-        <kohäsion_id>,
-        <organische_chemie_id>,
-        <spektroskopie_id> ;
-    skos:prefLabel "Chemie"@de ;
-    skos:topConceptOf <> .
+chemie:9252b105-ab07-4402-ac38-0017140872d6 a skos:Concept ;
+    skos:broader chemie:5c227842-775b-41a9-9899-1a9a795a398d ;
+    skos:inScheme chemie: ;
+    skos:narrower chemie:03882246-2cbc-4db0-aafa-24ca08959840,
+        chemie:122d2544-a674-4a15-99bf-853638a88123,
+        chemie:267196c8-6d65-4c22-82eb-34067fe1bff3,
+        chemie:763c6f61-28fc-4b7a-aca5-262a0c004736,
+        chemie:948d8dff-e045-4815-b903-d818ca86a045,
+        chemie:c779af38-81b6-4f8a-a976-55e7ceebe47b,
+        chemie:f35f31bb-131c-40d9-b0f0-e0b8a33dca86 ;
+    skos:prefLabel "Chemische Verbindung"@de .
 
-<chemische_reaktion_id> a skos:Concept ;
-    skos:broader <chemie_id> ;
-    skos:inScheme <> ;
-    skos:narrower <chemische_analyse_id>,
-        <chemische_reduktion_id>,
-        <chemisches_gleichgewicht_id>,
-        <destillation_id>,
-        <elektrolyse_id>,
-        <gärung_id>,
-        <hydrolyse_id>,
-        <ionenbindung_id>,
-        <katalysator_chemie_id>,
-        <korrosion_id>,
-        <oxidation_id>,
-        <pyrolyse_id>,
-        <reaktionsgleichung_id>,
-        <sequenzanalyse_chemie_id>,
-        <verbrennungsvorgang_id>,
-        <verdampfen_id>,
-        <verdunstung_id>,
-        <veresterung_id> ;
+chemie:5c227842-775b-41a9-9899-1a9a795a398d a skos:Concept ;
+    skos:inScheme chemie: ;
+    skos:narrower chemie:011d4928-b78f-4013-8a05-7fc6a888dc99,
+        chemie:041fdf60-be3e-47aa-a2be-e8209d9f14a7,
+        chemie:26a1f2ea-df73-4c50-b835-d570e71e5fdb,
+        chemie:4fd6a78b-a94f-4766-bcf1-94d491521ec4,
+        chemie:5b8177c2-d526-411b-95ff-ee62d65a3324,
+        chemie:82797ed6-7dbb-4381-97c3-35934e795e5e,
+        chemie:865ab693-458e-493e-ac4e-964f2d8a9607,
+        chemie:9252b105-ab07-4402-ac38-0017140872d6,
+        chemie:b46a97ad-efde-4a17-9bed-c99a22d49a85,
+        chemie:da4d6154-fa1d-4f62-a093-7aee66ddd0a0,
+        chemie:fb903943-c100-41df-9eb7-b879f1353fdb,
+        chemie:fbbef6f3-a303-43bb-a810-fd90afa5760a ;
+    skos:prefLabel "Chemie"@de ;
+    skos:topConceptOf chemie: .
+
+chemie:b46a97ad-efde-4a17-9bed-c99a22d49a85 a skos:Concept ;
+    skos:broader chemie:5c227842-775b-41a9-9899-1a9a795a398d ;
+    skos:inScheme chemie: ;
+    skos:narrower chemie:008a0cbf-5db0-49aa-9103-bb828b27bc6a,
+        chemie:10f22cdb-c01a-4fef-ac2a-8521d7d5c37f,
+        chemie:186de808-1143-401b-a769-59f5315ad0df,
+        chemie:1b4cde85-c0da-4763-8898-0452488d24a6,
+        chemie:2a643ad0-631f-46c0-8eda-79eeee6f0a80,
+        chemie:3498ffa0-4920-4552-8a04-140d6c6f4215,
+        chemie:39a7a787-fdec-4f89-a712-2db1f26dc7a9,
+        chemie:4c84a22b-c857-4a3c-b6e8-68ff47ca7edb,
+        chemie:4dc76751-1c55-4b22-8232-eab55362cc0e,
+        chemie:603699d2-9a71-4bf4-8144-acc026c06499,
+        chemie:612d14d8-d0a1-4316-b3cc-b2999198e758,
+        chemie:6d13031a-65e1-4c0c-bdf8-6c0872e89baf,
+        chemie:784d3935-573b-4554-b252-1195d3e51f5c,
+        chemie:807375f8-aa75-43a0-ab87-3af3691dae7c,
+        chemie:a5d35db0-3358-4c72-a9e1-52bef1658a43,
+        chemie:a7da01dd-450e-4b38-bff4-9b2c4b7ecc61,
+        chemie:a8b86da0-f886-4b37-8dfc-ac3ac2494ff5,
+        chemie:d18a8910-9679-417a-921f-0bfd75505580 ;
     skos:prefLabel "Chemische Reaktion"@de .
 
-<personen_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <_bader__alfred_id>,
-        <_baekeland__leo_hendrik_id>,
-        <_bosch__carl_id>,
-        <_butenandt__adolf_id>,
-        <_böttger__johann_friedrich_id>,
-        <_curie__marie_id>,
-        <_dalton__john_id>,
-        <_djerassi__carl_id>,
-        <_feigl__friedrich_id>,
-        <_fischer__emil_id>,
-        <_goodyear__charles_id>,
-        <_haber__fritz_id>,
-        <_hahn__otto_id>,
-        <_havemann__robert_id>,
-        <_hofmann__fritz_id>,
-        <_klatte__fritz_id>,
-        <_kohn__walter_id>,
-        <_lavoisier__antoine_laurent_id>,
-        <_liebig__justus_von_id>,
-        <_mendelejew__dimitrij_iwanowitsch_id>,
-        <_meyer__lothar_id>,
-        <_nobel__alfred_id>,
-        <_ostwald__wilhelm_id>,
-        <_pasteur__louis_id>,
-        <_pauling__linus_carl_id>,
-        <_perkin__william_henry_id>,
-        <_pfeiffer__paul_id>,
-        <_priestley__joseph_id>,
-        <_staudinger__hermann_id>,
-        <_straßmann__fritz_id>,
-        <_thomas__sidney_gilchrist_id>,
-        <_wöhler__friedrich_id> ;
+chemie:594dafba-a630-4ca4-b4c4-05a025535330 a skos:Concept ;
+    skos:inScheme chemie: ;
+    skos:narrower chemie:07746c83-02e4-4ca5-9d07-f2155349837f,
+        chemie:0e2e5ee3-14af-4c5d-9175-1827145e79df,
+        chemie:12f92fb9-e638-467f-8c28-667ba208ca41,
+        chemie:246f6563-c10a-42a2-b1f6-4ed91a6292d7,
+        chemie:2b1855e2-b626-44cb-be42-7bb2676bfedb,
+        chemie:2b5d7ac7-52cb-4702-bfca-0862b32688e2,
+        chemie:2e27c01b-763e-4f0f-ba54-ca1babb154f5,
+        chemie:40bf264a-678d-42e2-8b7d-68676d47995f,
+        chemie:41de1450-1f34-4b67-aa33-493571e6c112,
+        chemie:455486e0-3546-487b-a915-d226f31c04fe,
+        chemie:52bee2cb-ef66-4042-929a-410a12fa27e6,
+        chemie:5535c8b8-30d6-4d7e-a780-ed2d4f67acdb,
+        chemie:574baf2a-67f4-4815-81c3-5a509f0eba60,
+        chemie:67a86c5c-2c06-474b-a2cd-2a1876cef69b,
+        chemie:6eb9ae72-3dc6-4606-ac8f-0863dda3b970,
+        chemie:7a44075a-9b3a-479b-8dd5-5c71a41ea28b,
+        chemie:7bdf6e8b-02b9-4ac0-b29a-f992340bc2e8,
+        chemie:9290aa44-f06a-43e0-a141-a6ed82fcc94f,
+        chemie:93ae1330-ff56-4bb8-9c7e-eb4ba08dd505,
+        chemie:9530280b-a334-42bd-8c79-53fbf8232a70,
+        chemie:95ce125d-f151-4409-a481-6e58644163b6,
+        chemie:963d5412-509b-4d6e-88be-a791ccfa9548,
+        chemie:9e4d125e-035a-4159-a8ea-e1d5ec92abdd,
+        chemie:a3d0f757-8c6e-4e69-bc07-44a73ddd6e05,
+        chemie:a9b0722f-bf9d-4fcb-b9af-8640f8715fd2,
+        chemie:b90bcf99-8b46-4b4c-b117-bcce5f2fd7ad,
+        chemie:bb49f5c9-f24c-4ab1-b94e-eea240bf5483,
+        chemie:c01142b1-d770-4ed7-869b-b50966bd494f,
+        chemie:d07ef9d8-3e02-436c-9338-6ea1ab9d7a89,
+        chemie:d3ae0c7a-f32a-4aaa-b817-eb76f604b2b8,
+        chemie:d6347667-9cb0-4a38-beea-f7771f406b56,
+        chemie:e3a1b684-8098-48ca-bc55-d002c981b760 ;
     skos:prefLabel "Personen"@de ;
-    skos:topConceptOf <> .
+    skos:topConceptOf chemie: .
 
-<> a skos:ConceptScheme ;
+chemie: a skos:ConceptScheme ;
     dct:creator "<https://creator.com>" ;
-    dct:description "chemie_systematik"@de ;
-    dct:title "chemie_systematik"@de ;
-    skos:hasTopConcept <alkohol_id>,
-        <ammoniak_id>,
-        <austenit_id>,
-        <base_chemie_id>,
-        <benzin_id>,
-        <cellulose_id>,
-        <chemie_id>,
-        <chemiefaser_id>,
-        <chemische_elemente_id>,
-        <diamant_id>,
-        <dioxin_id>,
-        <emulsion_id>,
-        <fettsäure_id>,
-        <fluorchlorkohlenwasserstoffe_id>,
-        <gas_id>,
-        <gefahrstoff_id>,
-        <gips_id>,
-        <glycerin_id>,
-        <ionisation_id>,
-        <kali_salz_id>,
-        <kieselsäure_id>,
-        <kohlenwasserstoffe_id>,
-        <kunststoff_id>,
-        <lösung_chemie_id>,
-        <naturstoff_id>,
-        <nitrate_id>,
-        <oxide_id>,
-        <parfüm_id>,
-        <periodensystem_der_elemente_id>,
-        <personen_id>,
-        <phosphate_id>,
-        <phwert_id>,
-        <radioaktivität_id>,
-        <raffinerie_id>,
-        <salz_natriumchlorid_id>,
-        <soda_id>,
-        <stahl_id>,
-        <stoffeigenschaft_id>,
-        <säuren_id>,
-        <teilchen_id>,
-        <vanderwaalskräfte_id>,
-        <vulkanisation_id>,
-        <wasser_id>,
-        <ätzende_stoffe_id>,
-        <öl_id> .
+    dct:description "chemie"@de ;
+    dct:title "chemie"@de ;
+    skos:hasTopConcept chemie:02a7f762-d9a8-4ec4-95fa-b59c67845d2e,
+        chemie:034bd738-6116-4c59-94ee-c0f5f403222e,
+        chemie:03dd3936-7dad-47aa-bc83-0e460e2c2fab,
+        chemie:050bb895-3ab2-4b2f-bfa2-44e63583c3a3,
+        chemie:072b9ca8-2f68-4e81-9418-36d30ae3c42e,
+        chemie:09421138-2ccd-4bc1-a28c-d109eba699b0,
+        chemie:0b469c26-017d-425e-96bc-9d243adf5a2d,
+        chemie:0c124931-ec78-4392-9985-60870ef224db,
+        chemie:263b182c-7e04-4e25-a897-b5150c7ff434,
+        chemie:3db6f389-81b5-4366-b51d-2f260dc5af23,
+        chemie:43a5ceb4-01db-4d73-828e-0c2b13a1680e,
+        chemie:4e5df497-c334-4f00-a422-95d46703accf,
+        chemie:571d2a95-f2d0-46fa-babf-66e2063bf8bb,
+        chemie:594dafba-a630-4ca4-b4c4-05a025535330,
+        chemie:5b77943f-05d1-4699-840b-6eebb311e356,
+        chemie:5c227842-775b-41a9-9899-1a9a795a398d,
+        chemie:64927ef4-c585-45bc-9e1f-ac5c832037db,
+        chemie:6d8bf6c5-fa5a-4cde-85d3-2184602da388,
+        chemie:7061d3f8-1aff-4ec5-957d-0c292c199acf,
+        chemie:70c94f58-3d92-44f2-8406-a20b241cb5e2,
+        chemie:71a02cdf-8281-4dbe-a0c4-364d76fac8e0,
+        chemie:71c2ed18-35e3-494e-bbf2-30f7464df2f7,
+        chemie:7955cef4-b756-4707-972c-f40194b1d2fa,
+        chemie:7986c5e8-1f4e-4094-9ce6-d5bcbca29d5e,
+        chemie:7eb61e40-2fcc-49eb-a25e-bb502033fa4a,
+        chemie:7ff40606-2676-4773-9762-bd5d1f3953b2,
+        chemie:8626d456-9e45-4193-80ef-1e3f245a5e62,
+        chemie:8ad34a12-5ba7-48e6-a6d6-ace467d5809d,
+        chemie:964c6e32-791f-4fcc-8f94-61d3fe34bd7e,
+        chemie:9cf1f9fb-57cc-4ba8-b736-8982170cc579,
+        chemie:a47635f5-76d7-4d77-9ecd-de97d3b137ce,
+        chemie:a6b7459d-be7a-4a56-bdb9-6840a1e09db1,
+        chemie:a91af585-5978-42ea-a75d-666a87e0a3c5,
+        chemie:b4984e03-ff84-4ca4-ae81-fc1ca98c5731,
+        chemie:b7253cd5-0919-4002-bfb1-609b3eb340f5,
+        chemie:b834ea0f-211b-4c2d-9c9f-79c03edf4df1,
+        chemie:ba7530fc-dd96-433b-9957-2bf31b374e08,
+        chemie:c312b45e-ec41-4656-a8c1-790815246ac5,
+        chemie:c8d8a542-f61d-40cc-8db2-b51fdd863bf8,
+        chemie:d4bf360a-7870-45f4-931e-901c49cab804,
+        chemie:d72ab21d-0c3b-41b3-b40e-a325120f359b,
+        chemie:e0b0587a-6ed3-4931-91db-f4742aa2913b,
+        chemie:e55efa9c-fd3a-4511-b4fe-626fbd4a200a,
+        chemie:f47fdecb-0b9e-4c45-b9e4-5f0c97d08f15,
+        chemie:f9320392-44a9-4691-84e1-f4101211f5b5 .
 

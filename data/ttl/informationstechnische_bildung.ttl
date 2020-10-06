@@ -1,525 +1,525 @@
-@base <https://example-perma-id/informationstechnische_bildung_systematik/> .
 @prefix dct: <http://purl.org/dc/terms/> .
+@prefix informationstechnische_bildung: <http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/informationstechnische_bildung/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<abofalle_id> a skos:Concept ;
-    skos:broader <internet_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Abofalle"@de .
-
-<bernerslee__timothy_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "BernersLee, Timothy"@de .
-
-<betriebssystem_id> a skos:Concept ;
-    skos:broader <software_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Betriebssystem"@de .
-
-<big_data_id> a skos:Concept ;
-    skos:broader <datenverarbeitung_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Big data"@de .
-
-<bildschirmtext_id> a skos:Concept ;
-    skos:broader <telekommunikation_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Bildschirmtext"@de .
-
-<blog_id> a skos:Concept ;
-    skos:broader <internet_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Blog"@de .
-
-<blogger_id> a skos:Concept ;
-    skos:broader <internet_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Blogger"@de .
-
-<braille__louis_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Braille, Louis"@de .
-
-<bürokommunikation_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Bürokommunikation"@de ;
-    skos:topConceptOf <> .
-
-<cdrom_id> a skos:Concept ;
-    skos:broader <datenträger_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "CD-ROM"@de .
-
-<chip_id> a skos:Concept ;
-    skos:broader <datenträger_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Chip"@de .
-
-<codierung_id> a skos:Concept ;
-    skos:broader <computertechnik_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Codierung"@de .
-
-<computer_aided_design_id> a skos:Concept ;
-    skos:broader <anwendersystem_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Computer Aided Design"@de .
-
-<computer_aided_manufacturing_id> a skos:Concept ;
-    skos:broader <anwendersystem_id> ;
-    skos:inScheme <> ;
+informationstechnische_bildung:05d0552a-57a3-46f4-8cfd-affa86fc1516 a skos:Concept ;
+    skos:broader informationstechnische_bildung:bb7a739c-af15-4789-9ade-94710684f4fe ;
+    skos:inScheme informationstechnische_bildung: ;
     skos:prefLabel "Computer Aided Manufacturing"@de .
 
-<computereinsatz_id> a skos:Concept ;
-    skos:broader <computer_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Computereinsatz"@de .
-
-<computergrafik_id> a skos:Concept ;
-    skos:broader <grafikprogramm_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Computergrafik"@de .
-
-<computerized_numerical_control_id> a skos:Concept ;
-    skos:broader <anwendersystem_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Computerized Numerical Control"@de .
-
-<computerspiel_denkspiel_id> a skos:Concept ;
-    skos:broader <computerspiel_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Computerspiel (Denkspiel)"@de .
-
-<computerspiel_jumpandrun__id> a skos:Concept ;
-    skos:broader <computerspiel_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Computerspiel (Jump-and-Run) "@de .
-
-<computerspiel_kampfspiel_id> a skos:Concept ;
-    skos:broader <computerspiel_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Computerspiel (Kampfspiel)"@de .
-
-<computerspiel_simulation_id> a skos:Concept ;
-    skos:broader <computerspiel_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Computerspiel (Simulation)"@de .
-
-<computerspiel_spielgeschichte_id> a skos:Concept ;
-    skos:broader <computerspiel_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Computerspiel (Spielgeschichte)"@de .
-
-<computervirus_id> a skos:Concept ;
-    skos:broader <software_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Computervirus"@de .
-
-<cybermobbing_id> a skos:Concept ;
-    skos:broader <internet_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Cybermobbing"@de .
-
-<darknet_id> a skos:Concept ;
-    skos:broader <internet_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Darknet"@de .
-
-<datei_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Datei"@de ;
-    skos:topConceptOf <> .
-
-<datenbank_id> a skos:Concept ;
-    skos:broader <anwendersystem_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Datenbank"@de .
-
-<datenfernübertragung_id> a skos:Concept ;
-    skos:broader <telekommunikation_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Datenfernübertragung"@de .
-
-<datenschutz_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Datenschutz"@de ;
-    skos:topConceptOf <> .
-
-<datensicherung_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Datensicherung"@de ;
-    skos:topConceptOf <> .
-
-<deep_web_id> a skos:Concept ;
-    skos:broader <internet_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Deep Web"@de .
-
-<desktoppublishing_id> a skos:Concept ;
-    skos:broader <anwendersystem_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Desktop-Publishing"@de .
-
-<didaktische_software_id> a skos:Concept ;
-    skos:broader <anwendersystem_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Didaktische Software"@de .
-
-<digitaltechnik_id> a skos:Concept ;
-    skos:broader <telekommunikation_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Digitaltechnik"@de .
-
-<drucker_edv_id> a skos:Concept ;
-    skos:broader <computertechnik_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Drucker (EDV)"@de .
-
-<eansystem_id> a skos:Concept ;
-    skos:broader <anwendersystem_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "EAN-System"@de .
-
-<evaprinzip_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "EVA-Prinzip"@de ;
-    skos:topConceptOf <> .
-
-<gates__bill_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Gates, Bill"@de .
-
-<geoinformationssystem_id> a skos:Concept ;
-    skos:broader <informationswesen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Geoinformationssystem"@de .
-
-<hacker_computersicherheit_id> a skos:Concept ;
-    skos:broader <computer_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Hacker (Computersicherheit)"@de .
-
-<influencer_id> a skos:Concept ;
-    skos:broader <internet_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Influencer"@de .
-
-<kybernetik_id> a skos:Concept ;
-    skos:broader <informatik_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Kybernetik"@de .
-
-<mikroelektronik_id> a skos:Concept ;
-    skos:broader <computertechnik_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Mikroelektronik"@de .
-
-<mikrofilm_id> a skos:Concept ;
-    skos:broader <informationswesen_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Mikrofilm"@de .
-
-<morse__samuel_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
+informationstechnische_bildung:0745a21a-c97a-4e70-bea0-60bf8bae70d6 a skos:Concept ;
+    skos:broader informationstechnische_bildung:3841d063-72a7-4c0c-86f3-061d03b82256 ;
+    skos:inScheme informationstechnische_bildung: ;
     skos:prefLabel "Morse, Samuel"@de .
 
-<morsezeichen_id> a skos:Concept ;
-    skos:broader <telekommunikation_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Morsezeichen"@de .
+informationstechnische_bildung:09badcca-c350-4d2d-b270-df62a3c842f7 a skos:Concept ;
+    skos:broader informationstechnische_bildung:6378e6b1-a1dd-499d-9af3-e73cb8324f9d ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Computerspiel (Jump-and-Run) "@de .
 
-<motion_capture_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Motion Capture"@de ;
-    skos:topConceptOf <> .
+informationstechnische_bildung:199ae2c1-15cf-4aaa-b39e-b73c6aa51b28 a skos:Concept ;
+    skos:broader informationstechnische_bildung:bb7a739c-af15-4789-9ade-94710684f4fe ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Didaktische Software"@de .
 
-<multimedia_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Multimedia"@de ;
-    skos:topConceptOf <> .
+informationstechnische_bildung:1ac1fd0a-fd30-43a3-9e05-d6552e7ca64f a skos:Concept ;
+    skos:broader informationstechnische_bildung:3841d063-72a7-4c0c-86f3-061d03b82256 ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "BernersLee, Timothy"@de .
 
-<netiquette_id> a skos:Concept ;
-    skos:broader <telekommunikation_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Netiquette"@de .
-
-<overlay_id> a skos:Concept ;
-    skos:broader <anwendersystem_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Overlay"@de .
-
-<phishing_id> a skos:Concept ;
-    skos:broader <internet_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Phishing"@de .
-
-<podcasting_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Podcasting"@de ;
-    skos:topConceptOf <> .
-
-<programmierung_id> a skos:Concept ;
-    skos:broader <informatik_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Programmierung"@de .
-
-<schnittstelle_id> a skos:Concept ;
-    skos:broader <computertechnik_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Schnittstelle"@de .
-
-<soziales_netzwerk_id> a skos:Concept ;
-    skos:broader <internet_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Soziales Netzwerk"@de .
-
-<tablet_id> a skos:Concept ;
-    skos:broader <computertechnik_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Tablet"@de .
-
-<taschenrechner_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:prefLabel "Taschenrechner"@de ;
-    skos:topConceptOf <> .
-
-<telefon_id> a skos:Concept ;
-    skos:broader <telekommunikation_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Telefon"@de .
-
-<textverarbeitung_id> a skos:Concept ;
-    skos:broader <anwendersystem_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Textverarbeitung"@de .
-
-<tutorielles_programm__id> a skos:Concept ;
-    skos:broader <software_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Tutorielles Programm "@de .
-
-<usbstick_id> a skos:Concept ;
-    skos:broader <datenträger_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "USB-Stick"@de .
-
-<verkabelung_id> a skos:Concept ;
-    skos:broader <telekommunikation_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Verkabelung"@de .
-
-<vernetzung_informationstechnik_id> a skos:Concept ;
-    skos:broader <computertechnik_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Vernetzung (Informationstechnik)"@de .
-
-<videoportal_id> a skos:Concept ;
-    skos:broader <internet_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Videoportal"@de .
-
-<virtual_reality_id> a skos:Concept ;
-    skos:broader <computersimulation_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Virtual Reality"@de .
-
-<web_2.0_id> a skos:Concept ;
-    skos:broader <internet_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Web 2.0"@de .
-
-<webinar_id> a skos:Concept ;
-    skos:broader <telekommunikation_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Webinar"@de .
-
-<wikipedia_id> a skos:Concept ;
-    skos:broader <internet_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "Wikipedia"@de .
-
-<wlan_id> a skos:Concept ;
-    skos:broader <internet_id> ;
-    skos:inScheme <> ;
-    skos:prefLabel "WLAN"@de .
-
-<world_wide_web_id> a skos:Concept ;
-    skos:broader <internet_id> ;
-    skos:inScheme <> ;
+informationstechnische_bildung:1e9d8414-f708-4749-8549-4e9c86afe37e a skos:Concept ;
+    skos:broader informationstechnische_bildung:5ddfde20-28be-4a65-8c0e-4f7b69a5b49a ;
+    skos:inScheme informationstechnische_bildung: ;
     skos:prefLabel "World Wide Web"@de .
 
-<zeichenerkennung_id> a skos:Concept ;
-    skos:broader <datenverarbeitung_id> ;
-    skos:inScheme <> ;
+informationstechnische_bildung:1fec3134-7898-4e2e-9658-1299824b43cb a skos:Concept ;
+    skos:broader informationstechnische_bildung:bb7a739c-af15-4789-9ade-94710684f4fe ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "EAN-System"@de .
+
+informationstechnische_bildung:20e654a1-2df7-4a98-bff9-a85f3e55c3dd a skos:Concept ;
+    skos:broader informationstechnische_bildung:31a829c8-4d6a-4247-adbb-00c790f19d8b ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Codierung"@de .
+
+informationstechnische_bildung:249e6eb8-f46d-4d72-9384-a4d614d6d31d a skos:Concept ;
+    skos:broader informationstechnische_bildung:5ddfde20-28be-4a65-8c0e-4f7b69a5b49a ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Influencer"@de .
+
+informationstechnische_bildung:27cbb01a-c23f-474b-b2d9-709215c0d8c8 a skos:Concept ;
+    skos:broader informationstechnische_bildung:5ddfde20-28be-4a65-8c0e-4f7b69a5b49a ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Deep Web"@de .
+
+informationstechnische_bildung:2a34f90a-adf5-4cde-a90a-a9405c614b8b a skos:Concept ;
+    skos:broader informationstechnische_bildung:2cd9a551-8ba6-4ed3-926c-d52ddc7486d5 ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Computereinsatz"@de .
+
+informationstechnische_bildung:2b741a34-b5d6-4b1d-9a07-722b1aa3004b a skos:Concept ;
+    skos:broader informationstechnische_bildung:6378e6b1-a1dd-499d-9af3-e73cb8324f9d ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Computerspiel (Simulation)"@de .
+
+informationstechnische_bildung:2bbb4a8d-0639-4105-9291-569d320d5fb9 a skos:Concept ;
+    skos:broader informationstechnische_bildung:31a829c8-4d6a-4247-adbb-00c790f19d8b ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Schnittstelle"@de .
+
+informationstechnische_bildung:2f59daae-c34f-48c7-a1f7-1149512c6a4b a skos:Concept ;
+    skos:broader informationstechnische_bildung:d7c20163-54f1-4bed-be79-8ff734d91b99 ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Computergrafik"@de .
+
+informationstechnische_bildung:2fcb4990-c767-42ea-b18d-147fc820e811 a skos:Concept ;
+    skos:broader informationstechnische_bildung:5ddfde20-28be-4a65-8c0e-4f7b69a5b49a ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Phishing"@de .
+
+informationstechnische_bildung:302b1241-9ffc-4d3c-9d6d-9317b575dbbd a skos:Concept ;
+    skos:broader informationstechnische_bildung:bb7a739c-af15-4789-9ade-94710684f4fe ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Overlay"@de .
+
+informationstechnische_bildung:3226e22a-85be-48d6-ad4f-073112c0fe72 a skos:Concept ;
+    skos:broader informationstechnische_bildung:5ddfde20-28be-4a65-8c0e-4f7b69a5b49a ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Darknet"@de .
+
+informationstechnische_bildung:32f25962-4b5d-4396-aafa-7098d7a35b77 a skos:Concept ;
+    skos:broader informationstechnische_bildung:5ddfde20-28be-4a65-8c0e-4f7b69a5b49a ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Abofalle"@de .
+
+informationstechnische_bildung:3a050e31-7e27-489c-bd85-caa584c3ebef a skos:Concept ;
+    skos:broader informationstechnische_bildung:2cd9a551-8ba6-4ed3-926c-d52ddc7486d5 ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Hacker (Computersicherheit)"@de .
+
+informationstechnische_bildung:492e49d4-f6eb-4cc5-a0fe-031156276a00 a skos:Concept ;
+    skos:broader informationstechnische_bildung:a8b7696b-63cd-4713-b40f-e656f8a0c097 ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Programmierung"@de .
+
+informationstechnische_bildung:4973e0ed-2d51-4756-ad8c-620bf5905f54 a skos:Concept ;
+    skos:broader informationstechnische_bildung:77c031a8-0e9e-4753-9ca0-c9bf35309a62 ;
+    skos:inScheme informationstechnische_bildung: ;
     skos:prefLabel "Zeichenerkennung"@de .
 
-<zuse__konrad_id> a skos:Concept ;
-    skos:broader <personen_id> ;
-    skos:inScheme <> ;
+informationstechnische_bildung:4cf1cd21-c69d-44ed-9d5b-6b2c30867f08 a skos:Concept ;
+    skos:broader informationstechnische_bildung:6378e6b1-a1dd-499d-9af3-e73cb8324f9d ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Computerspiel (Kampfspiel)"@de .
+
+informationstechnische_bildung:4cf2e25c-2172-4293-acda-300b71c8b407 a skos:Concept ;
+    skos:broader informationstechnische_bildung:5ddfde20-28be-4a65-8c0e-4f7b69a5b49a ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Wikipedia"@de .
+
+informationstechnische_bildung:523d9ce7-43fb-484a-ba9d-96c9a61d1d7f a skos:Concept ;
+    skos:broader informationstechnische_bildung:5ddfde20-28be-4a65-8c0e-4f7b69a5b49a ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Web 2.0"@de .
+
+informationstechnische_bildung:5490db3f-01f6-4f81-a126-bf66349b43b9 a skos:Concept ;
+    skos:broader informationstechnische_bildung:45ea6a89-5b15-48f9-8f20-e3c607f81704 ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "USB-Stick"@de .
+
+informationstechnische_bildung:59b051ab-4c8b-4a00-aa46-99000e914fbd a skos:Concept ;
+    skos:broader informationstechnische_bildung:89cc8104-9d45-437b-ab25-d821ea3d2e58 ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Digitaltechnik"@de .
+
+informationstechnische_bildung:5c375afc-e3b1-4a0a-8033-24e732cf96b8 a skos:Concept ;
+    skos:broader informationstechnische_bildung:bb7a739c-af15-4789-9ade-94710684f4fe ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Computerized Numerical Control"@de .
+
+informationstechnische_bildung:5d74cba2-20c3-4be0-b048-8b72fcabc216 a skos:Concept ;
+    skos:broader informationstechnische_bildung:bb7a739c-af15-4789-9ade-94710684f4fe ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Datenbank"@de .
+
+informationstechnische_bildung:662a81f7-859a-4578-b7a8-e6cb797df49b a skos:Concept ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Multimedia"@de ;
+    skos:topConceptOf informationstechnische_bildung: .
+
+informationstechnische_bildung:68b120a1-ddc9-453a-b47e-5ac57292617b a skos:Concept ;
+    skos:broader informationstechnische_bildung:5ddfde20-28be-4a65-8c0e-4f7b69a5b49a ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Videoportal"@de .
+
+informationstechnische_bildung:6b0cafae-103b-47ff-b8ee-1d1274d6753f a skos:Concept ;
+    skos:broader informationstechnische_bildung:89cc8104-9d45-437b-ab25-d821ea3d2e58 ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Bildschirmtext"@de .
+
+informationstechnische_bildung:6f64a46a-d391-447d-b957-80c3f53dffc1 a skos:Concept ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Datenschutz"@de ;
+    skos:topConceptOf informationstechnische_bildung: .
+
+informationstechnische_bildung:7544943d-cd09-4bb2-95de-fad05db633b5 a skos:Concept ;
+    skos:broader informationstechnische_bildung:447b6983-5160-441b-abbc-b7dc09f3d1a8 ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Tutorielles Programm "@de .
+
+informationstechnische_bildung:79d76f0b-0107-4533-b69b-ca67ad45e4c2 a skos:Concept ;
+    skos:broader informationstechnische_bildung:a8b7696b-63cd-4713-b40f-e656f8a0c097 ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Kybernetik"@de .
+
+informationstechnische_bildung:7cce8d56-5412-424b-94ab-e5b022c29dc2 a skos:Concept ;
+    skos:broader informationstechnische_bildung:5ddfde20-28be-4a65-8c0e-4f7b69a5b49a ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Soziales Netzwerk"@de .
+
+informationstechnische_bildung:811645d4-66fc-47c7-a8be-9993ca3cd974 a skos:Concept ;
+    skos:broader informationstechnische_bildung:89cc8104-9d45-437b-ab25-d821ea3d2e58 ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Netiquette"@de .
+
+informationstechnische_bildung:84a91101-f482-465a-b25e-6e51a41bc5bd a skos:Concept ;
+    skos:broader informationstechnische_bildung:45ea6a89-5b15-48f9-8f20-e3c607f81704 ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Chip"@de .
+
+informationstechnische_bildung:897e0f77-1f36-49eb-8d41-305acf7879c4 a skos:Concept ;
+    skos:broader informationstechnische_bildung:31a829c8-4d6a-4247-adbb-00c790f19d8b ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Drucker (EDV)"@de .
+
+informationstechnische_bildung:8a61d403-78ea-4ca8-91a5-6e2e0639cc25 a skos:Concept ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Taschenrechner"@de ;
+    skos:topConceptOf informationstechnische_bildung: .
+
+informationstechnische_bildung:8d08278b-33ea-4863-b208-7450cf0fb27e a skos:Concept ;
+    skos:broader informationstechnische_bildung:3841d063-72a7-4c0c-86f3-061d03b82256 ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Braille, Louis"@de .
+
+informationstechnische_bildung:8e3eb35f-734e-4ed3-9a31-4c37958f25ba a skos:Concept ;
+    skos:broader informationstechnische_bildung:31a829c8-4d6a-4247-adbb-00c790f19d8b ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Mikroelektronik"@de .
+
+informationstechnische_bildung:8fe6537a-0101-40d6-bb85-088263c6ce9d a skos:Concept ;
+    skos:broader informationstechnische_bildung:89cc8104-9d45-437b-ab25-d821ea3d2e58 ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Telefon"@de .
+
+informationstechnische_bildung:9136637e-c059-4691-afe3-b267247c5c07 a skos:Concept ;
+    skos:broader informationstechnische_bildung:89cc8104-9d45-437b-ab25-d821ea3d2e58 ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Datenfernübertragung"@de .
+
+informationstechnische_bildung:9297cbed-733d-4794-aa48-e8bd8b0d9edc a skos:Concept ;
+    skos:broader informationstechnische_bildung:6378e6b1-a1dd-499d-9af3-e73cb8324f9d ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Computerspiel (Denkspiel)"@de .
+
+informationstechnische_bildung:96ba514d-162b-4fcf-aabd-f565273fcc90 a skos:Concept ;
+    skos:broader informationstechnische_bildung:447b6983-5160-441b-abbc-b7dc09f3d1a8 ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Betriebssystem"@de .
+
+informationstechnische_bildung:9842f103-802c-4106-ba5e-ca831fc0b753 a skos:Concept ;
+    skos:broader informationstechnische_bildung:89cc8104-9d45-437b-ab25-d821ea3d2e58 ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Webinar"@de .
+
+informationstechnische_bildung:9ee9e7cf-1194-4047-9aba-e02e69e9cc10 a skos:Concept ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Podcasting"@de ;
+    skos:topConceptOf informationstechnische_bildung: .
+
+informationstechnische_bildung:a1a333fc-0d6c-4aa2-bb2e-9eb108f6f133 a skos:Concept ;
+    skos:broader informationstechnische_bildung:5ddfde20-28be-4a65-8c0e-4f7b69a5b49a ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "WLAN"@de .
+
+informationstechnische_bildung:a438ec0d-0f6d-43a0-9e23-b6cebcd79d28 a skos:Concept ;
+    skos:broader informationstechnische_bildung:77c031a8-0e9e-4753-9ca0-c9bf35309a62 ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Big data"@de .
+
+informationstechnische_bildung:ac2f2eaf-5cb5-4d91-86f8-774a465f409d a skos:Concept ;
+    skos:broader informationstechnische_bildung:6378e6b1-a1dd-499d-9af3-e73cb8324f9d ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Computerspiel (Spielgeschichte)"@de .
+
+informationstechnische_bildung:aea1ca75-2e7a-4767-b562-fc7e7928e598 a skos:Concept ;
+    skos:broader informationstechnische_bildung:5ddfde20-28be-4a65-8c0e-4f7b69a5b49a ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Cybermobbing"@de .
+
+informationstechnische_bildung:b3f1fb71-80f5-475a-a1dc-ebe935b5968f a skos:Concept ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Datei"@de ;
+    skos:topConceptOf informationstechnische_bildung: .
+
+informationstechnische_bildung:b48791c0-8c2b-4264-8085-b6a698d19288 a skos:Concept ;
+    skos:broader informationstechnische_bildung:3841d063-72a7-4c0c-86f3-061d03b82256 ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Gates, Bill"@de .
+
+informationstechnische_bildung:b73b96b5-486e-444f-9bec-9f687daa1fd1 a skos:Concept ;
+    skos:broader informationstechnische_bildung:57690fd4-b498-453e-8af6-b30104e5907b ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Virtual Reality"@de .
+
+informationstechnische_bildung:ba838004-2221-4999-b7b5-61cec79cb1ea a skos:Concept ;
+    skos:broader informationstechnische_bildung:45ea6a89-5b15-48f9-8f20-e3c607f81704 ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "CD-ROM"@de .
+
+informationstechnische_bildung:c5e8ea33-e32f-482c-9224-3db36c87c156 a skos:Concept ;
+    skos:broader informationstechnische_bildung:89cc8104-9d45-437b-ab25-d821ea3d2e58 ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Morsezeichen"@de .
+
+informationstechnische_bildung:c6108b6e-3cce-4b05-943d-d20a0f673499 a skos:Concept ;
+    skos:broader informationstechnische_bildung:5ddfde20-28be-4a65-8c0e-4f7b69a5b49a ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Blog"@de .
+
+informationstechnische_bildung:c61d530d-846c-4748-ad01-8388f753e026 a skos:Concept ;
+    skos:broader informationstechnische_bildung:31a829c8-4d6a-4247-adbb-00c790f19d8b ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Vernetzung (Informationstechnik)"@de .
+
+informationstechnische_bildung:c803b630-f2e5-4fe3-b645-6ea2a0aac393 a skos:Concept ;
+    skos:broader informationstechnische_bildung:447b6983-5160-441b-abbc-b7dc09f3d1a8 ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Computervirus"@de .
+
+informationstechnische_bildung:c804d861-7e30-45a3-a4d4-7ef2dd48f040 a skos:Concept ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Motion Capture"@de ;
+    skos:topConceptOf informationstechnische_bildung: .
+
+informationstechnische_bildung:cb556e8d-6b69-4d34-b133-f5fdc8ef388c a skos:Concept ;
+    skos:broader informationstechnische_bildung:31a829c8-4d6a-4247-adbb-00c790f19d8b ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Tablet"@de .
+
+informationstechnische_bildung:d2737d9c-7636-4f40-9f62-135bab8ff836 a skos:Concept ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Bürokommunikation"@de ;
+    skos:topConceptOf informationstechnische_bildung: .
+
+informationstechnische_bildung:d2ba9a5b-3925-4b37-894c-27d490222346 a skos:Concept ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "EVA-Prinzip"@de ;
+    skos:topConceptOf informationstechnische_bildung: .
+
+informationstechnische_bildung:da447055-aad0-40e9-8780-e4e55653b6af a skos:Concept ;
+    skos:broader informationstechnische_bildung:bb7a739c-af15-4789-9ade-94710684f4fe ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Textverarbeitung"@de .
+
+informationstechnische_bildung:dbf54319-ba70-4640-a2f5-207cf243de92 a skos:Concept ;
+    skos:broader informationstechnische_bildung:a0a04230-4c83-495e-8a3d-49a1fceb194f ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Mikrofilm"@de .
+
+informationstechnische_bildung:e552f767-7b56-4c49-8442-8042bcc2bc48 a skos:Concept ;
+    skos:broader informationstechnische_bildung:89cc8104-9d45-437b-ab25-d821ea3d2e58 ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Verkabelung"@de .
+
+informationstechnische_bildung:e6a790fa-5fda-4114-9ccd-bcf3c44024d9 a skos:Concept ;
+    skos:broader informationstechnische_bildung:a0a04230-4c83-495e-8a3d-49a1fceb194f ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Geoinformationssystem"@de .
+
+informationstechnische_bildung:e95a0a7f-75a9-415c-ba5e-abec36bba41e a skos:Concept ;
+    skos:broader informationstechnische_bildung:bb7a739c-af15-4789-9ade-94710684f4fe ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Computer Aided Design"@de .
+
+informationstechnische_bildung:ef6206c2-aad4-4a2b-b804-3c8bbd1b5f32 a skos:Concept ;
+    skos:broader informationstechnische_bildung:3841d063-72a7-4c0c-86f3-061d03b82256 ;
+    skos:inScheme informationstechnische_bildung: ;
     skos:prefLabel "Zuse, Konrad"@de .
 
-<computersimulation_id> a skos:Concept ;
-    skos:broader <software_id> ;
-    skos:inScheme <> ;
-    skos:narrower <virtual_reality_id> ;
+informationstechnische_bildung:f0ad33c9-7efa-4fc7-8e1f-eadc5603e2f4 a skos:Concept ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Datensicherung"@de ;
+    skos:topConceptOf informationstechnische_bildung: .
+
+informationstechnische_bildung:f192e5ba-048f-4000-8aad-52729dc583a2 a skos:Concept ;
+    skos:broader informationstechnische_bildung:5ddfde20-28be-4a65-8c0e-4f7b69a5b49a ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Blogger"@de .
+
+informationstechnische_bildung:f77b89e8-1951-4ba4-8de2-cfd20fd4a6f1 a skos:Concept ;
+    skos:broader informationstechnische_bildung:bb7a739c-af15-4789-9ade-94710684f4fe ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:prefLabel "Desktop-Publishing"@de .
+
+informationstechnische_bildung:57690fd4-b498-453e-8af6-b30104e5907b a skos:Concept ;
+    skos:broader informationstechnische_bildung:447b6983-5160-441b-abbc-b7dc09f3d1a8 ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:narrower informationstechnische_bildung:b73b96b5-486e-444f-9bec-9f687daa1fd1 ;
     skos:prefLabel "Computersimulation"@de .
 
-<grafikprogramm_id> a skos:Concept ;
-    skos:broader <anwendersystem_id> ;
-    skos:inScheme <> ;
-    skos:narrower <computergrafik_id> ;
+informationstechnische_bildung:d7c20163-54f1-4bed-be79-8ff734d91b99 a skos:Concept ;
+    skos:broader informationstechnische_bildung:bb7a739c-af15-4789-9ade-94710684f4fe ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:narrower informationstechnische_bildung:2f59daae-c34f-48c7-a1f7-1149512c6a4b ;
     skos:prefLabel "Grafikprogramm"@de .
 
-<datenverarbeitung_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <big_data_id>,
-        <zeichenerkennung_id> ;
+informationstechnische_bildung:77c031a8-0e9e-4753-9ca0-c9bf35309a62 a skos:Concept ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:narrower informationstechnische_bildung:4973e0ed-2d51-4756-ad8c-620bf5905f54,
+        informationstechnische_bildung:a438ec0d-0f6d-43a0-9e23-b6cebcd79d28 ;
     skos:prefLabel "Datenverarbeitung"@de ;
-    skos:topConceptOf <> .
+    skos:topConceptOf informationstechnische_bildung: .
 
-<informatik_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <kybernetik_id>,
-        <programmierung_id> ;
-    skos:prefLabel "Informatik"@de ;
-    skos:topConceptOf <> .
-
-<informationswesen_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <geoinformationssystem_id>,
-        <mikrofilm_id> ;
+informationstechnische_bildung:a0a04230-4c83-495e-8a3d-49a1fceb194f a skos:Concept ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:narrower informationstechnische_bildung:dbf54319-ba70-4640-a2f5-207cf243de92,
+        informationstechnische_bildung:e6a790fa-5fda-4114-9ccd-bcf3c44024d9 ;
     skos:prefLabel "Informationswesen"@de ;
-    skos:topConceptOf <> .
+    skos:topConceptOf informationstechnische_bildung: .
 
-<computer_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <computereinsatz_id>,
-        <computertechnik_id>,
-        <hacker_computersicherheit_id> ;
+informationstechnische_bildung:a8b7696b-63cd-4713-b40f-e656f8a0c097 a skos:Concept ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:narrower informationstechnische_bildung:492e49d4-f6eb-4cc5-a0fe-031156276a00,
+        informationstechnische_bildung:79d76f0b-0107-4533-b69b-ca67ad45e4c2 ;
+    skos:prefLabel "Informatik"@de ;
+    skos:topConceptOf informationstechnische_bildung: .
+
+informationstechnische_bildung:2cd9a551-8ba6-4ed3-926c-d52ddc7486d5 a skos:Concept ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:narrower informationstechnische_bildung:2a34f90a-adf5-4cde-a90a-a9405c614b8b,
+        informationstechnische_bildung:31a829c8-4d6a-4247-adbb-00c790f19d8b,
+        informationstechnische_bildung:3a050e31-7e27-489c-bd85-caa584c3ebef ;
     skos:prefLabel "Computer"@de ;
-    skos:topConceptOf <> .
+    skos:topConceptOf informationstechnische_bildung: .
 
-<datenträger_id> a skos:Concept ;
-    skos:broader <computertechnik_id> ;
-    skos:inScheme <> ;
-    skos:narrower <cdrom_id>,
-        <chip_id>,
-        <usbstick_id> ;
+informationstechnische_bildung:45ea6a89-5b15-48f9-8f20-e3c607f81704 a skos:Concept ;
+    skos:broader informationstechnische_bildung:31a829c8-4d6a-4247-adbb-00c790f19d8b ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:narrower informationstechnische_bildung:5490db3f-01f6-4f81-a126-bf66349b43b9,
+        informationstechnische_bildung:84a91101-f482-465a-b25e-6e51a41bc5bd,
+        informationstechnische_bildung:ba838004-2221-4999-b7b5-61cec79cb1ea ;
     skos:prefLabel "Datenträger"@de .
 
-<computerspiel_id> a skos:Concept ;
-    skos:broader <software_id> ;
-    skos:inScheme <> ;
-    skos:narrower <computerspiel_denkspiel_id>,
-        <computerspiel_jumpandrun__id>,
-        <computerspiel_kampfspiel_id>,
-        <computerspiel_simulation_id>,
-        <computerspiel_spielgeschichte_id> ;
+informationstechnische_bildung:3841d063-72a7-4c0c-86f3-061d03b82256 a skos:Concept ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:narrower informationstechnische_bildung:0745a21a-c97a-4e70-bea0-60bf8bae70d6,
+        informationstechnische_bildung:1ac1fd0a-fd30-43a3-9e05-d6552e7ca64f,
+        informationstechnische_bildung:8d08278b-33ea-4863-b208-7450cf0fb27e,
+        informationstechnische_bildung:b48791c0-8c2b-4264-8085-b6a698d19288,
+        informationstechnische_bildung:ef6206c2-aad4-4a2b-b804-3c8bbd1b5f32 ;
+    skos:prefLabel "Personen"@de ;
+    skos:topConceptOf informationstechnische_bildung: .
+
+informationstechnische_bildung:6378e6b1-a1dd-499d-9af3-e73cb8324f9d a skos:Concept ;
+    skos:broader informationstechnische_bildung:447b6983-5160-441b-abbc-b7dc09f3d1a8 ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:narrower informationstechnische_bildung:09badcca-c350-4d2d-b270-df62a3c842f7,
+        informationstechnische_bildung:2b741a34-b5d6-4b1d-9a07-722b1aa3004b,
+        informationstechnische_bildung:4cf1cd21-c69d-44ed-9d5b-6b2c30867f08,
+        informationstechnische_bildung:9297cbed-733d-4794-aa48-e8bd8b0d9edc,
+        informationstechnische_bildung:ac2f2eaf-5cb5-4d91-86f8-774a465f409d ;
     skos:prefLabel "Computerspiel"@de .
 
-<personen_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <bernerslee__timothy_id>,
-        <braille__louis_id>,
-        <gates__bill_id>,
-        <morse__samuel_id>,
-        <zuse__konrad_id> ;
-    skos:prefLabel "Personen"@de ;
-    skos:topConceptOf <> .
-
-<software_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <anwendersystem_id>,
-        <betriebssystem_id>,
-        <computersimulation_id>,
-        <computerspiel_id>,
-        <computervirus_id>,
-        <tutorielles_programm__id> ;
+informationstechnische_bildung:447b6983-5160-441b-abbc-b7dc09f3d1a8 a skos:Concept ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:narrower informationstechnische_bildung:57690fd4-b498-453e-8af6-b30104e5907b,
+        informationstechnische_bildung:6378e6b1-a1dd-499d-9af3-e73cb8324f9d,
+        informationstechnische_bildung:7544943d-cd09-4bb2-95de-fad05db633b5,
+        informationstechnische_bildung:96ba514d-162b-4fcf-aabd-f565273fcc90,
+        informationstechnische_bildung:bb7a739c-af15-4789-9ade-94710684f4fe,
+        informationstechnische_bildung:c803b630-f2e5-4fe3-b645-6ea2a0aac393 ;
     skos:prefLabel "Software"@de ;
-    skos:topConceptOf <> .
+    skos:topConceptOf informationstechnische_bildung: .
 
-<computertechnik_id> a skos:Concept ;
-    skos:broader <computer_id> ;
-    skos:inScheme <> ;
-    skos:narrower <codierung_id>,
-        <datenträger_id>,
-        <drucker_edv_id>,
-        <mikroelektronik_id>,
-        <schnittstelle_id>,
-        <tablet_id>,
-        <vernetzung_informationstechnik_id> ;
+informationstechnische_bildung:31a829c8-4d6a-4247-adbb-00c790f19d8b a skos:Concept ;
+    skos:broader informationstechnische_bildung:2cd9a551-8ba6-4ed3-926c-d52ddc7486d5 ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:narrower informationstechnische_bildung:20e654a1-2df7-4a98-bff9-a85f3e55c3dd,
+        informationstechnische_bildung:2bbb4a8d-0639-4105-9291-569d320d5fb9,
+        informationstechnische_bildung:45ea6a89-5b15-48f9-8f20-e3c607f81704,
+        informationstechnische_bildung:897e0f77-1f36-49eb-8d41-305acf7879c4,
+        informationstechnische_bildung:8e3eb35f-734e-4ed3-9a31-4c37958f25ba,
+        informationstechnische_bildung:c61d530d-846c-4748-ad01-8388f753e026,
+        informationstechnische_bildung:cb556e8d-6b69-4d34-b133-f5fdc8ef388c ;
     skos:prefLabel "Computertechnik"@de .
 
-<telekommunikation_id> a skos:Concept ;
-    skos:inScheme <> ;
-    skos:narrower <bildschirmtext_id>,
-        <datenfernübertragung_id>,
-        <digitaltechnik_id>,
-        <internet_id>,
-        <morsezeichen_id>,
-        <netiquette_id>,
-        <telefon_id>,
-        <verkabelung_id>,
-        <webinar_id> ;
+informationstechnische_bildung:89cc8104-9d45-437b-ab25-d821ea3d2e58 a skos:Concept ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:narrower informationstechnische_bildung:59b051ab-4c8b-4a00-aa46-99000e914fbd,
+        informationstechnische_bildung:5ddfde20-28be-4a65-8c0e-4f7b69a5b49a,
+        informationstechnische_bildung:6b0cafae-103b-47ff-b8ee-1d1274d6753f,
+        informationstechnische_bildung:811645d4-66fc-47c7-a8be-9993ca3cd974,
+        informationstechnische_bildung:8fe6537a-0101-40d6-bb85-088263c6ce9d,
+        informationstechnische_bildung:9136637e-c059-4691-afe3-b267247c5c07,
+        informationstechnische_bildung:9842f103-802c-4106-ba5e-ca831fc0b753,
+        informationstechnische_bildung:c5e8ea33-e32f-482c-9224-3db36c87c156,
+        informationstechnische_bildung:e552f767-7b56-4c49-8442-8042bcc2bc48 ;
     skos:prefLabel "Telekommunikation"@de ;
-    skos:topConceptOf <> .
+    skos:topConceptOf informationstechnische_bildung: .
 
-<anwendersystem_id> a skos:Concept ;
-    skos:broader <software_id> ;
-    skos:inScheme <> ;
-    skos:narrower <computer_aided_design_id>,
-        <computer_aided_manufacturing_id>,
-        <computerized_numerical_control_id>,
-        <datenbank_id>,
-        <desktoppublishing_id>,
-        <didaktische_software_id>,
-        <eansystem_id>,
-        <grafikprogramm_id>,
-        <overlay_id>,
-        <textverarbeitung_id> ;
+informationstechnische_bildung:bb7a739c-af15-4789-9ade-94710684f4fe a skos:Concept ;
+    skos:broader informationstechnische_bildung:447b6983-5160-441b-abbc-b7dc09f3d1a8 ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:narrower informationstechnische_bildung:05d0552a-57a3-46f4-8cfd-affa86fc1516,
+        informationstechnische_bildung:199ae2c1-15cf-4aaa-b39e-b73c6aa51b28,
+        informationstechnische_bildung:1fec3134-7898-4e2e-9658-1299824b43cb,
+        informationstechnische_bildung:302b1241-9ffc-4d3c-9d6d-9317b575dbbd,
+        informationstechnische_bildung:5c375afc-e3b1-4a0a-8033-24e732cf96b8,
+        informationstechnische_bildung:5d74cba2-20c3-4be0-b048-8b72fcabc216,
+        informationstechnische_bildung:d7c20163-54f1-4bed-be79-8ff734d91b99,
+        informationstechnische_bildung:da447055-aad0-40e9-8780-e4e55653b6af,
+        informationstechnische_bildung:e95a0a7f-75a9-415c-ba5e-abec36bba41e,
+        informationstechnische_bildung:f77b89e8-1951-4ba4-8de2-cfd20fd4a6f1 ;
     skos:prefLabel "Anwendersystem"@de .
 
-<internet_id> a skos:Concept ;
-    skos:broader <telekommunikation_id> ;
-    skos:inScheme <> ;
-    skos:narrower <abofalle_id>,
-        <blog_id>,
-        <blogger_id>,
-        <cybermobbing_id>,
-        <darknet_id>,
-        <deep_web_id>,
-        <influencer_id>,
-        <phishing_id>,
-        <soziales_netzwerk_id>,
-        <videoportal_id>,
-        <web_2.0_id>,
-        <wikipedia_id>,
-        <wlan_id>,
-        <world_wide_web_id> ;
+informationstechnische_bildung:5ddfde20-28be-4a65-8c0e-4f7b69a5b49a a skos:Concept ;
+    skos:broader informationstechnische_bildung:89cc8104-9d45-437b-ab25-d821ea3d2e58 ;
+    skos:inScheme informationstechnische_bildung: ;
+    skos:narrower informationstechnische_bildung:1e9d8414-f708-4749-8549-4e9c86afe37e,
+        informationstechnische_bildung:249e6eb8-f46d-4d72-9384-a4d614d6d31d,
+        informationstechnische_bildung:27cbb01a-c23f-474b-b2d9-709215c0d8c8,
+        informationstechnische_bildung:2fcb4990-c767-42ea-b18d-147fc820e811,
+        informationstechnische_bildung:3226e22a-85be-48d6-ad4f-073112c0fe72,
+        informationstechnische_bildung:32f25962-4b5d-4396-aafa-7098d7a35b77,
+        informationstechnische_bildung:4cf2e25c-2172-4293-acda-300b71c8b407,
+        informationstechnische_bildung:523d9ce7-43fb-484a-ba9d-96c9a61d1d7f,
+        informationstechnische_bildung:68b120a1-ddc9-453a-b47e-5ac57292617b,
+        informationstechnische_bildung:7cce8d56-5412-424b-94ab-e5b022c29dc2,
+        informationstechnische_bildung:a1a333fc-0d6c-4aa2-bb2e-9eb108f6f133,
+        informationstechnische_bildung:aea1ca75-2e7a-4767-b562-fc7e7928e598,
+        informationstechnische_bildung:c6108b6e-3cce-4b05-943d-d20a0f673499,
+        informationstechnische_bildung:f192e5ba-048f-4000-8aad-52729dc583a2 ;
     skos:prefLabel "Internet"@de .
 
-<> a skos:ConceptScheme ;
+informationstechnische_bildung: a skos:ConceptScheme ;
     dct:creator "<https://creator.com>" ;
-    dct:description "informationstechnische_bildung_systematik"@de ;
-    dct:title "informationstechnische_bildung_systematik"@de ;
-    skos:hasTopConcept <bürokommunikation_id>,
-        <computer_id>,
-        <datei_id>,
-        <datenschutz_id>,
-        <datensicherung_id>,
-        <datenverarbeitung_id>,
-        <evaprinzip_id>,
-        <informatik_id>,
-        <informationswesen_id>,
-        <motion_capture_id>,
-        <multimedia_id>,
-        <personen_id>,
-        <podcasting_id>,
-        <software_id>,
-        <taschenrechner_id>,
-        <telekommunikation_id> .
+    dct:description "informationstechnische_bildung"@de ;
+    dct:title "informationstechnische_bildung"@de ;
+    skos:hasTopConcept informationstechnische_bildung:2cd9a551-8ba6-4ed3-926c-d52ddc7486d5,
+        informationstechnische_bildung:3841d063-72a7-4c0c-86f3-061d03b82256,
+        informationstechnische_bildung:447b6983-5160-441b-abbc-b7dc09f3d1a8,
+        informationstechnische_bildung:662a81f7-859a-4578-b7a8-e6cb797df49b,
+        informationstechnische_bildung:6f64a46a-d391-447d-b957-80c3f53dffc1,
+        informationstechnische_bildung:77c031a8-0e9e-4753-9ca0-c9bf35309a62,
+        informationstechnische_bildung:89cc8104-9d45-437b-ab25-d821ea3d2e58,
+        informationstechnische_bildung:8a61d403-78ea-4ca8-91a5-6e2e0639cc25,
+        informationstechnische_bildung:9ee9e7cf-1194-4047-9aba-e02e69e9cc10,
+        informationstechnische_bildung:a0a04230-4c83-495e-8a3d-49a1fceb194f,
+        informationstechnische_bildung:a8b7696b-63cd-4713-b40f-e656f8a0c097,
+        informationstechnische_bildung:b3f1fb71-80f5-475a-a1dc-ebe935b5968f,
+        informationstechnische_bildung:c804d861-7e30-45a3-a4d4-7ef2dd48f040,
+        informationstechnische_bildung:d2737d9c-7636-4f40-9f62-135bab8ff836,
+        informationstechnische_bildung:d2ba9a5b-3925-4b37-894c-27d490222346,
+        informationstechnische_bildung:f0ad33c9-7efa-4fc7-8e1f-eadc5603e2f4 .
 

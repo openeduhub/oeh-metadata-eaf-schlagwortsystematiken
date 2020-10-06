@@ -60,10 +60,12 @@ Bundesrepublik Deutschland (1949-90)
 -Siebzehnter Juni
 -Studentenbewegung
 -Wirtschaftswunder
+
 Byzantinisches Reich
 China (Kaiserreich)
 China (Republik 1912-49)
 Delphi
+
 Deutsches Reich (vor 1871)
 -Deutsche Revolution (1848)
 -Hambacher Fest
@@ -71,6 +73,7 @@ Deutsches Reich (vor 1871)
 	--Franken (Herzogtum)
 -Reichsinsignien
 -Vormärz
+
 Deutsches Reich (1871-1918)
 -Berlin (vor 1918)
 -Erster Weltkrieg
