@@ -53,7 +53,7 @@ Teilchen
 		---(Elektron)
 			----Valenzelektron
 
-Periodensystem der Elemente
+Periodensystem der Elemente PSE
 -Halbmetalle
 -Metalle
 	--Edelmetalle
@@ -176,3 +176,8 @@ Personen
 - Straßmann, Fritz
 - Thomas, Sidney Gilchrist
 - Wöhler, Friedrich
+
+lewisformel
+lewisformeln
+stickstoffkreislauf
+atomaufbau

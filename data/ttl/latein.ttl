@@ -1,0 +1,33 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix latein: <http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/latein/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+latein:7193a593-6799-4b07-a331-2a05fc64c859 a skos:Concept ;
+    skos:broader latein:01b3bdd9-c127-4c1d-a141-81a1982a2562 ;
+    skos:inScheme latein: ;
+    skos:prefLabel "Cursus"@de .
+
+latein:8cba03a1-45a4-4945-91c3-a3b75a0fdf64 a skos:Concept ;
+    skos:broader latein:e3d6ea3e-24c7-42d0-a531-6af52731944a ;
+    skos:inScheme latein: ;
+    skos:prefLabel "Deklination"@de .
+
+latein:01b3bdd9-c127-4c1d-a141-81a1982a2562 a skos:Concept ;
+    skos:inScheme latein: ;
+    skos:narrower latein:7193a593-6799-4b07-a331-2a05fc64c859 ;
+    skos:prefLabel "Lehrbücher"@de ;
+    skos:topConceptOf latein: .
+
+latein:e3d6ea3e-24c7-42d0-a531-6af52731944a a skos:Concept ;
+    skos:inScheme latein: ;
+    skos:narrower latein:8cba03a1-45a4-4945-91c3-a3b75a0fdf64 ;
+    skos:prefLabel "Grammatik"@de ;
+    skos:topConceptOf latein: .
+
+latein: a skos:ConceptScheme ;
+    dct:creator "<https://creator.com>" ;
+    dct:description "latein"@de ;
+    dct:title "latein"@de ;
+    skos:hasTopConcept latein:01b3bdd9-c127-4c1d-a141-81a1982a2562,
+        latein:e3d6ea3e-24c7-42d0-a531-6af52731944a .
+

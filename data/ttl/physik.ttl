@@ -2,1878 +2,1883 @@
 @prefix physik: <http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-physik:005cefae-013d-43db-8fdd-92027becce18 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Nipkow, Paul Julius Gottlieb"@de .
-
-physik:012cecfa-daf3-4723-99fd-4ea8860eed49 a skos:Concept ;
-    skos:broader physik:3280b95a-2fca-45f4-9873-87538844bb56 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Adhäsion"@de .
-
-physik:019e31f3-4768-4fda-bdc8-141610f644d6 a skos:Concept ;
-    skos:broader physik:3280b95a-2fca-45f4-9873-87538844bb56 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Zug (Festigkeitslehre)"@de .
-
-physik:04944334-a01e-4115-8d51-eb70979495a7 a skos:Concept ;
-    skos:broader physik:3280b95a-2fca-45f4-9873-87538844bb56 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Ausdehnung"@de .
-
-physik:059b262f-c4e7-4e51-9512-cc0e069e5dce a skos:Concept ;
-    skos:broader physik:b8a96bb5-c438-48d2-92df-c1e2a2aac03f ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Signal (Elektrik)"@de .
-
-physik:07915661-404e-42c2-9e9a-a5db6890957a a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Messerschmitt, Willy"@de .
-
-physik:0826c243-eed6-4445-b2f6-e2b2a4bbe562 a skos:Concept ;
-    skos:broader physik:3280b95a-2fca-45f4-9873-87538844bb56 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Leistung (Physik)"@de .
-
-physik:08817ac6-533a-4a3b-8030-2dd9095e1692 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Ruska, Ernst"@de .
-
-physik:08d893cc-c70f-4577-a085-e85fb0036edb a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Stauss, Joseph Baermann"@de .
-
-physik:09a46d6c-352d-46a1-9e0f-8e73f973d36a a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Faraday, Michael"@de .
-
-physik:0a360dcb-cfa7-42c0-bf5f-647545fef4da a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Hawking, Stephen William"@de .
-
-physik:0ac60064-0b11-40c7-95de-6b21505b32de a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Maxwell, James Clark"@de .
-
-physik:0acf6886-9f39-4050-97fe-ad7882aeeedc a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Fermi, Enrico"@de .
-
-physik:0d63165d-d41a-4869-84e5-ac5614f1f390 a skos:Concept ;
-    skos:broader physik:a9f19aac-8329-4b7d-a3a4-32d7b3f2bc53 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Magnetometer"@de .
-
-physik:0e296985-24e3-437f-b64a-165f13569101 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Baird, John Logie"@de .
-
-physik:0e49ab59-4ca8-4d60-8628-8e0c5c432f60 a skos:Concept ;
-    skos:broader physik:3f2c1fe3-c6ab-44af-a8c6-d38f5e8ce432 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Windmesser"@de .
-
-physik:0f9cfa60-8e74-4bb7-9531-1273cd27e1b0 a skos:Concept ;
-    skos:broader physik:3f2c1fe3-c6ab-44af-a8c6-d38f5e8ce432 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Temperatur (allgemein)"@de .
-
-physik:1068bdb3-6f50-461f-bc7c-739d7e8c7cb6 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Diesel, Rudolf"@de .
-
-physik:11c8e2e5-ab45-4568-9572-577b230d1f48 a skos:Concept ;
-    skos:broader physik:3280b95a-2fca-45f4-9873-87538844bb56 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Getriebe"@de .
-
-physik:16100ca1-bc77-4f36-b10e-53ebbe6d82a2 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Whittle, Frank"@de .
-
-physik:16afed4b-036f-4e97-91a5-d95fa68daaa2 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Lilienthal, Otto"@de .
-
-physik:16cd2f4f-7dfb-42ab-a7f0-ff21c47073ee a skos:Concept ;
-    skos:broader physik:a7cefabf-fc43-4aef-b9d9-06406d96fadd ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Neptun (Planet)"@de .
-
-physik:16ce6446-f5e1-4728-baf8-0feb5d5097bc a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Oberth, Hermann"@de .
-
-physik:17334a65-2f3c-4d7a-9c81-12c0a86b11ba a skos:Concept ;
-    skos:broader physik:af294858-19ef-4dba-899b-1d9749da6990 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Lupe"@de .
-
-physik:1752017a-cb56-4c34-9b74-50a2a92f1910 a skos:Concept ;
-    skos:broader physik:1ea4da37-fc15-4319-8de2-ca7fa1c0d211 ;
+physik:01a296c9-7e6b-4340-a2cd-ff61301d3c05 a skos:Concept ;
+    skos:broader physik:8a27fc1e-cae8-46dd-8eaa-2f34fe954084 ;
     skos:inScheme physik: ;
     skos:prefLabel "Mikroskopie"@de .
 
-physik:18272d81-caa9-4a7a-ad86-081cb7233c8a a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
+physik:023c0b25-6e48-46d1-87ab-d8d4fac1328f a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
     skos:inScheme physik: ;
-    skos:prefLabel "Grove, William Robert"@de .
+    skos:prefLabel "Mayer, Tobias"@de .
 
-physik:182d51d2-f078-4211-84db-f86c789512eb a skos:Concept ;
-    skos:broader physik:2db14809-c77e-4a55-b4e4-6063bf1e73ed ;
+physik:036bb1eb-5622-42bf-981f-5f38550ad10c a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
     skos:inScheme physik: ;
-    skos:prefLabel "Isolator (Elektrotechnik)"@de .
+    skos:prefLabel "Papin, Denis"@de .
 
-physik:18e13bde-a228-4528-a8be-3248bfca6f1e a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
+physik:03dbe10d-572b-441e-914f-85de78cf86d2 a skos:Concept ;
+    skos:broader physik:d372a6f8-9026-43e8-8e1d-6e3ab9990c6f ;
     skos:inScheme physik: ;
-    skos:prefLabel "Newcomen, Thomas"@de .
+    skos:prefLabel "Wirkungsgrad"@de .
 
-physik:1942d794-10d8-40f2-9831-dcca86230c13 a skos:Concept ;
-    skos:broader physik:e2696cff-7acc-47b8-8798-94b68a096d06 ;
+physik:042cf424-7a3b-4808-89bb-d3280e965fa8 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
     skos:inScheme physik: ;
-    skos:prefLabel "Volt"@de .
+    skos:prefLabel "Bethe, Hans"@de .
 
-physik:1975f2ab-4447-430f-981c-252276c7490e a skos:Concept ;
-    skos:broader physik:7f584c3e-b7b7-4e55-bc2b-df2fd01fd0c7 ;
+physik:05148cd8-6b9c-438a-b6d7-f3f2a9e05e46 a skos:Concept ;
+    skos:broader physik:cf66080d-03b2-450d-92f0-523cfd0f1878 ;
     skos:inScheme physik: ;
-    skos:prefLabel "Wechselwirkung (fundamentale)"@de .
+    skos:prefLabel "Zug (Festigkeitslehre)"@de .
 
-physik:19d4ba87-e6e4-4a57-9063-b8b6bc619bf7 a skos:Concept ;
-    skos:broader physik:b1e33dc0-9241-4f42-9252-d412937fba1b ;
+physik:06c85160-be8c-48e2-884f-58222b7ab6a1 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
     skos:inScheme physik: ;
-    skos:prefLabel "Induktion (Elektrizität)"@de .
+    skos:prefLabel "Röntgen, Wilhelm Conrad"@de .
 
-physik:19dafaa8-aba1-4dc8-bd0a-2d728350219f a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
+physik:077bfa26-0e30-49bb-84f1-26c91ad70b59 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
     skos:inScheme physik: ;
-    skos:prefLabel "Schawlow, Arthur Leonard"@de .
+    skos:prefLabel "Becquerel, Antoine Henri"@de .
 
-physik:1b2f2147-12cb-4dc9-b1dd-92172c4c9b31 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
+physik:07af3202-ad49-4265-a4c0-6e9568f2d949 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
     skos:inScheme physik: ;
-    skos:prefLabel "Braun, Wernher von"@de .
+    skos:prefLabel "Wankel, Felix"@de .
 
-physik:1b38c624-36a2-49a1-b103-e6b31ac792e3 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
+physik:07e607d4-030a-420c-9a13-1b340feddcee a skos:Concept ;
+    skos:broader physik:ef62039e-fe2e-49cf-b829-02b24c2981d8 ;
     skos:inScheme physik: ;
-    skos:prefLabel "Bohr, Niels"@de .
+    skos:prefLabel "Merkur (Planet)"@de .
 
-physik:1b6d9ecf-c301-4205-b933-0d93cc3c473e a skos:Concept ;
-    skos:broader physik:691df043-fb27-4896-80a5-715785e24ed6 ;
+physik:0a3a652b-b5bb-4adf-a795-82ff8fc25499 a skos:Concept ;
+    skos:broader physik:6e35fbcf-973b-4fb6-b429-4567ccb71c49 ;
     skos:inScheme physik: ;
-    skos:prefLabel "Ultraviolett-Katastrophe"@de .
+    skos:prefLabel "Weltlinie"@de .
 
-physik:1bc01edb-f1c7-4c7c-a42f-8ee3afc1f39f a skos:Concept ;
-    skos:broader physik:af294858-19ef-4dba-899b-1d9749da6990 ;
+physik:0b09642b-60b8-42dc-aa18-cddec2aefb3a a skos:Concept ;
+    skos:broader physik:99061e38-e85b-49f3-a723-cb16c6f7fe31 ;
     skos:inScheme physik: ;
-    skos:prefLabel "Teleskop"@de .
+    skos:prefLabel "Dampfmaschine"@de .
 
-physik:1bd6d721-7394-444d-abb3-63acc61df5bf a skos:Concept ;
-    skos:broader physik:4a02d3db-6e96-45c0-8899-77d8a9fe570a ;
+physik:0b464120-ac25-4efa-b831-6a10f052ac35 a skos:Concept ;
+    skos:broader physik:98e488ff-00ea-4974-bb2c-2adf751492e9 ;
     skos:inScheme physik: ;
-    skos:prefLabel "Wärmeausdehnung"@de .
+    skos:prefLabel "Temperatur (allgemein)"@de .
 
-physik:1c2fae36-a6ec-4382-bab7-3ddf09f3e551 a skos:Concept ;
-    skos:broader physik:a0206910-705d-4db4-85ff-bccec04a81b8 ;
+physik:0b670bd3-adea-433c-be89-c89c525a8597 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
     skos:inScheme physik: ;
-    skos:prefLabel "Wärmetauscher"@de .
+    skos:prefLabel "Kepler, Johannes"@de .
 
-physik:1c3a1922-74f3-4aee-9ac6-44bb723e551e a skos:Concept ;
-    skos:broader physik:af294858-19ef-4dba-899b-1d9749da6990 ;
+physik:0bd976c5-1851-4b01-8442-81f586075148 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
     skos:inScheme physik: ;
-    skos:prefLabel "Kamera"@de .
+    skos:prefLabel "Stephenson, George"@de .
 
-physik:1dd7ad69-ca67-45a3-8cb7-0cd89f354c3c a skos:Concept ;
-    skos:broader physik:3f2c1fe3-c6ab-44af-a8c6-d38f5e8ce432 ;
+physik:0c154642-10fd-452e-b3f1-753f27c5a658 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
     skos:inScheme physik: ;
-    skos:prefLabel "Thermostat"@de .
+    skos:prefLabel "Pacal, Blaise"@de .
 
-physik:1ed14b1a-0fc8-43b8-b521-b366f3925e77 a skos:Concept ;
-    skos:broader physik:3280b95a-2fca-45f4-9873-87538844bb56 ;
+physik:0c35d94f-1caf-4b47-9f5f-f21d60dee753 a skos:Concept ;
+    skos:broader physik:ef28a5d1-e19b-4ab3-a92e-0935f5919384 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Kondensator (Elektrizität)"@de .
+
+physik:0dc58f4e-5a4b-4474-b282-e69d3f85e4fa a skos:Concept ;
+    skos:broader physik:cf66080d-03b2-450d-92f0-523cfd0f1878 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Newtonsche Gesetze"@de .
+
+physik:0dcedac2-4d09-430f-8083-595f6d30c68a a skos:Concept ;
+    skos:broader physik:1706be2c-5ce4-4581-9420-2624a302ff6b ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Wiederaufarbeitung"@de .
+
+physik:0e3d824a-c34e-4bc9-b087-036c5559883b a skos:Concept ;
+    skos:broader physik:b24b26a0-da9e-4c0f-b806-0c35bb777e56 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Optische Täuschung"@de .
+
+physik:0ff4088c-9057-46a4-9194-72e29519dbdf a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Einstein, Albert"@de .
+
+physik:100a86ab-f55e-44a4-8340-62d32077a7cd a skos:Concept ;
+    skos:broader physik:cf66080d-03b2-450d-92f0-523cfd0f1878 ;
     skos:inScheme physik: ;
     skos:prefLabel "Wurf (Physik)"@de .
 
-physik:1f77ef68-9027-42cb-bce4-95cacd708fc8 a skos:Concept ;
-    skos:broader physik:3280b95a-2fca-45f4-9873-87538844bb56 ;
+physik:115fadd4-86ae-403a-994e-329f989dc6cd a skos:Concept ;
+    skos:broader physik:12c84364-0d47-4749-b6fb-e2f3cab3faee ;
     skos:inScheme physik: ;
-    skos:prefLabel "Vortrieb"@de .
+    skos:prefLabel "Feldlinie"@de .
 
-physik:1fe6b412-216c-4dcf-8493-fdd2142bfde4 a skos:Concept ;
-    skos:broader physik:aa521a47-ee9c-4aa5-b9bd-13981c5e0e03 ;
+physik:119bd346-dafd-4b06-8313-a0d2e9695265 a skos:Concept ;
+    skos:broader physik:a7838e2f-afe8-467a-ac8b-bf0f07646889 ;
     skos:inScheme physik: ;
-    skos:prefLabel "Meteor"@de .
+    skos:prefLabel "Ultraviolett-Katastrophe"@de .
 
-physik:203bfa97-7135-466d-822c-d1d548add321 a skos:Concept ;
-    skos:broader physik:2db14809-c77e-4a55-b4e4-6063bf1e73ed ;
+physik:11bbbba5-a9dd-465f-a909-224643890349 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Braun, Karl Friedrich"@de .
+
+physik:11eea9f4-cb23-46f8-962f-f33c2c1ed010 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Grove, William Robert"@de .
+
+physik:121548d8-045a-4efa-b101-c1720c1a752f a skos:Concept ;
+    skos:broader physik:c60454cd-2c6f-44b3-aa41-a12805e72f90 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Modulation"@de .
+
+physik:12fecbf2-234d-4c59-a0b2-8e1cd2a6d8e5 a skos:Concept ;
+    skos:broader physik:ef28a5d1-e19b-4ab3-a92e-0935f5919384 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Synchroton"@de .
+
+physik:13bccfbe-1e03-40ad-8d07-13c53b8b1c42 a skos:Concept ;
+    skos:broader physik:c60454cd-2c6f-44b3-aa41-a12805e72f90 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Signal (Elektrik)"@de .
+
+physik:144925a0-049b-41f9-9190-6f5cde3fc6e0 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Schawlow, Arthur Leonard"@de .
+
+physik:1709e512-0c74-403a-abcd-c48d76458cf2 a skos:Concept ;
+    skos:broader physik:98ba65f4-0f54-46b9-a968-5bcca87a09ac ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Reflexion (Physik)"@de .
+
+physik:1774ce9c-cb17-4a12-8b19-a055f5fc2843 a skos:Concept ;
+    skos:broader physik:4d358ade-a762-4104-86d2-dff771fd2348 ;
     skos:inScheme physik: ;
     skos:prefLabel "Relais"@de .
 
-physik:227fc258-f557-48bb-8e16-eb43d6461fa9 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
+physik:18fd2a72-2c08-4393-8eb1-b04c540692d5 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
     skos:inScheme physik: ;
-    skos:prefLabel "Schrödinger, Erwin "@de .
+    skos:prefLabel "Abbe, Ernst"@de .
 
-physik:236f1d49-c158-41d1-8692-c89a990eb5d4 a skos:Concept ;
-    skos:broader physik:a7cefabf-fc43-4aef-b9d9-06406d96fadd ;
+physik:19746514-c520-4c08-807c-77a774c2e5b5 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
     skos:inScheme physik: ;
-    skos:prefLabel "Saturn (Planet)"@de .
+    skos:prefLabel "Gilbert, William"@de .
 
-physik:267d4530-cea7-44ca-bb8b-1ddd62485f1e a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
+physik:19bee379-8613-43fd-ad4c-a4c22e26ff3e a skos:Concept ;
+    skos:broader physik:117a5935-db31-4e6f-bf73-dece7ce24a60 ;
     skos:inScheme physik: ;
-    skos:prefLabel "Bardeen, John"@de .
+    skos:prefLabel "Satellit"@de .
 
-physik:29293ba1-1cda-4d93-9066-5525589bea4f a skos:Concept ;
-    skos:broader physik:3280b95a-2fca-45f4-9873-87538844bb56 ;
+physik:1adf21ce-694b-4761-9dc4-a232a85ecafe a skos:Concept ;
+    skos:broader physik:27996ddc-ff4c-457e-b106-10778ea1b3fe ;
     skos:inScheme physik: ;
-    skos:prefLabel "Reibung"@de .
+    skos:prefLabel "Wärmeleitung"@de .
 
-physik:29875df3-a1ee-40c4-9342-0dcb52c16bc4 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
+physik:1c2840a3-1ee9-4b4d-87c7-0a23770b25c1 a skos:Concept ;
+    skos:broader physik:b24b26a0-da9e-4c0f-b806-0c35bb777e56 ;
     skos:inScheme physik: ;
-    skos:prefLabel "Avogadro, Amedeo"@de .
+    skos:prefLabel "Lupe"@de .
 
-physik:2a42c4ea-9f31-4a7c-82b2-f4f5b9eda6e4 a skos:Concept ;
-    skos:broader physik:b1e33dc0-9241-4f42-9252-d412937fba1b ;
+physik:1c2cd46f-429a-43af-9549-0944045f5a50 a skos:Concept ;
+    skos:broader physik:117a5935-db31-4e6f-bf73-dece7ce24a60 ;
     skos:inScheme physik: ;
-    skos:prefLabel "Elektrode"@de .
+    skos:prefLabel "Mondlandung"@de .
 
-physik:2c5e9178-efc3-4b42-915f-6cac0f750bc1 a skos:Concept ;
-    skos:broader physik:3dc03202-85a8-4ea4-aa5f-967b97a3a284 ;
+physik:1ca363c9-bd5c-44cf-b530-b8b364fe6ce6 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
     skos:inScheme physik: ;
-    skos:prefLabel "Daguerreotypie"@de .
+    skos:prefLabel "Messerschmitt, Willy"@de .
 
-physik:2caea116-406c-46ce-ad96-f5edf53cffa8 a skos:Concept ;
+physik:1dc0b6e3-a71e-417e-9241-c7970e123247 a skos:Concept ;
+    skos:broader physik:a5237692-e761-4d35-aafe-86ddafbc2dd1 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Auftrieb (Physik)"@de .
+
+physik:1e68809d-a2ba-45a7-9c31-5cac6d6996b0 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Wright (Gebrüder)"@de .
+
+physik:1fae9c5e-57c5-4b95-a701-f2469feb4e38 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Diesel, Rudolf"@de .
+
+physik:1faf69ce-4502-48bc-9a41-d059ec9fe8e3 a skos:Concept ;
+    skos:broader physik:cf66080d-03b2-450d-92f0-523cfd0f1878 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Getriebe"@de .
+
+physik:1ff33aaa-8057-4fdf-a5bd-984a5b145697 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Joule, James Prescott"@de .
+
+physik:2141d239-f343-4972-8ef2-9182912a0a20 a skos:Concept ;
+    skos:broader physik:98ba65f4-0f54-46b9-a968-5bcca87a09ac ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Interferenz"@de .
+
+physik:24ccd77c-1479-4f17-9fc1-32ba2c8f3f25 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Piccard, Auguste"@de .
+
+physik:25a3b400-d822-48e3-966f-bb62fa67b780 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Celsius, Anders"@de .
+
+physik:2765e967-626c-4217-94bb-3edc280c0c9c a skos:Concept ;
+    skos:broader physik:cf66080d-03b2-450d-92f0-523cfd0f1878 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Leistung (Physik)"@de .
+
+physik:279ee21a-b37b-4099-8504-6e5d79ebebf9 a skos:Concept ;
+    skos:broader physik:c60454cd-2c6f-44b3-aa41-a12805e72f90 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "RFID"@de .
+
+physik:27d81dea-a636-4275-8c48-ca887589b471 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "KammerlinghOnnes, Heike"@de .
+
+physik:2bba3a10-2385-4934-bf8d-5a58f0e31679 a skos:Concept ;
+    skos:broader physik:ef8a9c90-e869-4471-9aa2-a60711e814b6 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Elementarteilchen"@de .
+
+physik:2caf7219-820a-4127-a308-a31129d6efdc a skos:Concept ;
+    skos:broader physik:b24b26a0-da9e-4c0f-b806-0c35bb777e56 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Vergrößerung (Optik)"@de .
+
+physik:2d31a74d-0703-4745-ad13-2145f53c33de a skos:Concept ;
+    skos:broader physik:b2f72d21-a060-4c5c-a51a-a3cf0f0fc690 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Vollmond"@de .
+
+physik:2de227f2-fcdf-42b3-b4d9-1aac0eee7d08 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Lumière, Gebrüder"@de .
+
+physik:2fbf046c-1625-4380-9245-be2a56426492 a skos:Concept ;
+    skos:broader physik:57207ea5-5109-44d9-8ecb-f895320dfd16 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Meteor"@de .
+
+physik:2ff02128-0515-4363-8f76-71b6a67e4023 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Eyth, Max"@de .
+
+physik:311be1bb-5027-4d5e-a9e5-7d2f849d3f03 a skos:Concept ;
+    skos:broader physik:3f2714bd-cafe-46aa-86a6-616d6fa6d6e6 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Wendekreis (Breitenkreis)"@de .
+
+physik:325437e2-7899-4e65-a72a-a68911ffd8d7 a skos:Concept ;
+    skos:broader physik:27996ddc-ff4c-457e-b106-10778ea1b3fe ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Wärmetauscher"@de .
+
+physik:3287d82e-c69a-43dd-b8e3-9c94ef24ec8f a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Skladanowsky, Max"@de .
+
+physik:33906787-ce3f-4813-a373-404d9c53cf1b a skos:Concept ;
+    skos:broader physik:d372a6f8-9026-43e8-8e1d-6e3ab9990c6f ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Elektrische Leitung"@de .
+
+physik:36130261-2689-4708-aade-5fc5bc4c9693 a skos:Concept ;
+    skos:broader physik:d4d0eb06-f876-43a2-852e-289966ab4051 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Inertialsystem"@de .
+
+physik:36f64d36-ccfd-4ee2-94ae-e2f8d153f296 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Lilienthal, Otto"@de .
+
+physik:386e5ba2-9bf3-45ea-ac0e-5449ef90488f a skos:Concept ;
+    skos:broader physik:ebe2d114-3bce-41a1-9536-a84cba2f9dbc ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Kerze"@de .
+
+physik:393cc93c-7eed-4064-ba75-ccd041aec332 a skos:Concept ;
+    skos:broader physik:57207ea5-5109-44d9-8ecb-f895320dfd16 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Polarlicht"@de .
+
+physik:39bf16b5-9c06-40f0-8fec-c70dc93ba4d0 a skos:Concept ;
+    skos:broader physik:ef28a5d1-e19b-4ab3-a92e-0935f5919384 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Transistor"@de .
+
+physik:3a00e1ac-a9dc-4632-8d11-8762ec4532ee a skos:Concept ;
+    skos:broader physik:ebe2d114-3bce-41a1-9536-a84cba2f9dbc ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Spektrum (Physik)"@de .
+
+physik:3cb94c07-019f-4999-8f93-a95a3a0844c9 a skos:Concept ;
+    skos:broader physik:4d358ade-a762-4104-86d2-dff771fd2348 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Wechselstrom"@de .
+
+physik:3cd799f4-179b-44bd-8a4e-1faabd42d63c a skos:Concept ;
+    skos:broader physik:ef62039e-fe2e-49cf-b829-02b24c2981d8 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Neptun (Planet)"@de .
+
+physik:3da9dd5d-6258-4207-81d7-084cf1ce5de2 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Guericke, Otto von"@de .
+
+physik:3e4f38df-8cc3-4106-971b-1a8f32e54eac a skos:Concept ;
+    skos:broader physik:cf50fd6d-1d0d-4002-9ac5-6f20da3b31ab ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Halleyscher Komet"@de .
+
+physik:3e8310be-ddf3-421f-9a64-6832623e6813 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "WatsonWatt, Robert"@de .
+
+physik:3e927506-5e10-4e1a-9066-5c0a4160111e a skos:Concept ;
+    skos:broader physik:cf66080d-03b2-450d-92f0-523cfd0f1878 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Zeit"@de .
+
+physik:41d661f2-5160-4e96-af36-c84a7ca2288f a skos:Concept ;
+    skos:broader physik:d372a6f8-9026-43e8-8e1d-6e3ab9990c6f ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Leiter (Physik)"@de .
+
+physik:42cbafa6-8a8d-45d8-a65e-084b8fe1f50f a skos:Concept ;
+    skos:broader physik:ef28a5d1-e19b-4ab3-a92e-0935f5919384 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Millikanversuch"@de .
+
+physik:432f79a5-e5bc-4aa2-a96f-bf4982f58989 a skos:Concept ;
+    skos:broader physik:b24b26a0-da9e-4c0f-b806-0c35bb777e56 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Röntgenkunde"@de .
+
+physik:4365f823-509b-4c88-915f-3531f2e35bb1 a skos:Concept ;
+    skos:broader physik:cf66080d-03b2-450d-92f0-523cfd0f1878 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Hooksches Gesetz"@de .
+
+physik:453aff56-430b-4289-b88d-c377ec91c0d4 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Baird, John Logie"@de .
+
+physik:462eb897-a8f3-40b3-b07f-36fa25eb8be2 a skos:Concept ;
+    skos:broader physik:cf66080d-03b2-450d-92f0-523cfd0f1878 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Struktur (allgemein)"@de .
+
+physik:463f5e1b-bd9c-4ef7-9e34-97dfc6a61eab a skos:Concept ;
+    skos:broader physik:1706be2c-5ce4-4581-9420-2624a302ff6b ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Kernfusion"@de .
+
+physik:484b9371-908c-4c85-a36e-5b86d5effd43 a skos:Concept ;
+    skos:broader physik:a7838e2f-afe8-467a-ac8b-bf0f07646889 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Freie-Elektronen-Laser"@de .
+
+physik:487671d1-49d7-4a57-a5d6-e997bf28d024 a skos:Concept ;
+    skos:broader physik:98ba65f4-0f54-46b9-a968-5bcca87a09ac ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Schallmauer"@de .
+
+physik:48bf90f4-ac40-4e89-a0bb-28f00a5670b0 a skos:Concept ;
+    skos:broader physik:08aeac90-e9c1-4eaf-97cb-35d91e3e78f5 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Bildbearbeitung"@de .
+
+physik:49f9bc0c-dcd7-4deb-8fb9-4579823739b5 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Laplace, Pierre Simon de"@de .
+
+physik:4acf2140-6cb5-4c36-9a5b-73dc79befdb5 a skos:Concept ;
+    skos:broader physik:1706be2c-5ce4-4581-9420-2624a302ff6b ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Teilchenbeschleuniger"@de .
+
+physik:4c0aa58e-c3c2-4d80-a4ab-1c0d7e1a99b3 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Tesla, Nikola"@de .
+
+physik:4ccd3163-3350-4095-bc2e-5592475762f5 a skos:Concept ;
+    skos:broader physik:b24b26a0-da9e-4c0f-b806-0c35bb777e56 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Virtuelles Bild"@de .
+
+physik:4cd214a2-482a-4c68-81df-d6474f92c9f4 a skos:Concept ;
+    skos:broader physik:98ba65f4-0f54-46b9-a968-5bcca87a09ac ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Doppler-Effekt"@de .
+
+physik:4da1bfc6-b80e-4a7b-93e0-a7920f6c2d51 a skos:Concept ;
+    skos:broader physik:cf66080d-03b2-450d-92f0-523cfd0f1878 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Drehmoment"@de .
+
+physik:4ddc18ba-a624-4f43-a1d4-b362c642e601 a skos:Concept ;
+    skos:broader physik:cf66080d-03b2-450d-92f0-523cfd0f1878 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Vortrieb"@de .
+
+physik:4df6b0a9-2d7c-4986-a750-2e4839f1746b a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Bell, Alexander Graham"@de .
+
+physik:4f81af17-867c-4dba-8161-e320df7bfb7e a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Townes, Charles Hard"@de .
+
+physik:50868c7b-c915-471b-a85c-578e9801869c a skos:Concept ;
+    skos:broader physik:ef62039e-fe2e-49cf-b829-02b24c2981d8 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Uranus (Planet)"@de .
+
+physik:54117353-4353-49da-9882-e1707d805762 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Marconi, Guglielmo"@de .
+
+physik:54f71f4a-603b-4ddc-a20d-6e2c0b6b2005 a skos:Concept ;
+    skos:broader physik:4d358ade-a762-4104-86d2-dff771fd2348 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Batterie"@de .
+
+physik:5754446a-5460-4997-9483-b640f41614c8 a skos:Concept ;
+    skos:broader physik:ef62039e-fe2e-49cf-b829-02b24c2981d8 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Jupiter (Planat)"@de .
+
+physik:58914f7f-1b4c-4e9f-9abc-f10744377235 a skos:Concept ;
+    skos:broader physik:ef8a9c90-e869-4471-9aa2-a60711e814b6 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Prüfverfahren"@de .
+
+physik:58ee97b2-b989-4287-a3da-f5f0062bf525 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Thomson, William"@de .
+
+physik:5904a24b-1769-473f-b138-59f8fb1f8951 a skos:Concept ;
+    skos:broader physik:ef28a5d1-e19b-4ab3-a92e-0935f5919384 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Operationsverstärker"@de .
+
+physik:596f9026-048b-42be-9d8f-520ecd9f44a9 a skos:Concept ;
+    skos:broader physik:12c84364-0d47-4749-b6fb-e2f3cab3faee ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Elektrodynamik"@de .
+
+physik:59c65a35-597c-4c5e-9497-660d26ca55c9 a skos:Concept ;
+    skos:broader physik:c60454cd-2c6f-44b3-aa41-a12805e72f90 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Radar"@de .
+
+physik:5be0f175-78ae-4eda-8bf3-be2bc0a43e36 a skos:Concept ;
+    skos:broader physik:8a27fc1e-cae8-46dd-8eaa-2f34fe954084 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Elektronenmikroskop"@de .
+
+physik:5c0c38df-8038-4ec5-a2ed-5fe83832a754 a skos:Concept ;
+    skos:broader physik:d372a6f8-9026-43e8-8e1d-6e3ab9990c6f ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Feuerwerk"@de .
+
+physik:5d94db98-d041-4d69-b0b6-843462825be5 a skos:Concept ;
+    skos:broader physik:012bf173-23b8-410d-8ce2-cba73b8cd28b ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Rotation (Physik)"@de .
+
+physik:5dd0b19c-2689-49d5-b728-1561984f4e0c a skos:Concept ;
+    skos:broader physik:cf66080d-03b2-450d-92f0-523cfd0f1878 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Pumpe"@de .
+
+physik:5df82a9a-7f46-4fee-81d2-e5231bfdc759 a skos:Concept ;
+    skos:broader physik:0e54e925-cd4c-4cda-b0af-a51719c80cda ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Lorentzkraft"@de .
+
+physik:5e505e74-f02a-4800-846c-e6ad76726adc a skos:Concept ;
+    skos:broader physik:cf66080d-03b2-450d-92f0-523cfd0f1878 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Pneumatik"@de .
+
+physik:5fae17d6-b00e-4e06-84be-32ad5aa9e6fc a skos:Concept ;
+    skos:inScheme physik: ;
+    skos:prefLabel "elektroskop"@de ;
+    skos:topConceptOf physik: .
+
+physik:62dc2825-9500-4421-a26b-daad4aaa21f3 a skos:Concept ;
+    skos:broader physik:266cd666-7acf-4706-b0e5-35ecd3c823c8 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Hydrostatischer Druck"@de .
+
+physik:65228b25-53b3-4562-a0a5-8e14fe3bdfd9 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Ampère, AndréMarie"@de .
+
+physik:65a2f740-da3a-4dd3-9afb-b2d53fb04c78 a skos:Concept ;
     skos:inScheme physik: ;
     skos:prefLabel "UFO"@de ;
     skos:topConceptOf physik: .
 
-physik:2d0b2fc1-cec2-48d6-add9-6d11151b8250 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Wright (Gebrüder)"@de .
-
-physik:2dfefe0c-80f9-4e78-9ed1-d9de1a0d686f a skos:Concept ;
-    skos:broader physik:bfaf68a9-f5a9-4364-ac9e-3d81a040717d ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Rakete"@de .
-
-physik:2f3cd2b7-b7a2-4b6a-a11a-b9af2c20e192 a skos:Concept ;
-    skos:broader physik:1ea4da37-fc15-4319-8de2-ca7fa1c0d211 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Dünnschliff"@de .
-
-physik:2ff5fff2-d411-4bf7-87ff-5dbaa1b1b4c3 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Meißner, Walther"@de .
-
-physik:30801d4a-4cb3-49da-9c58-6fe8130f730a a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Wankel, Felix"@de .
-
-physik:30cc77af-b0ac-44cb-a194-579ea9b05e2e a skos:Concept ;
-    skos:broader physik:b1e33dc0-9241-4f42-9252-d412937fba1b ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Kondensator (Elektrizität)"@de .
-
-physik:33f63982-5d6b-4e59-b52b-48e4bb83b6e1 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Thomson, William"@de .
-
-physik:349c6464-8b4e-4eac-907b-284413ece28c a skos:Concept ;
-    skos:broader physik:b1e33dc0-9241-4f42-9252-d412937fba1b ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Transistor"@de .
-
-physik:3518bcfa-744b-43ed-a224-919e695e8bb8 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Edison, Thomas Alva"@de .
-
-physik:3819396d-f7a4-4825-815b-11e4523129b1 a skos:Concept ;
-    skos:broader physik:2db14809-c77e-4a55-b4e4-6063bf1e73ed ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Wechselstrom"@de .
-
-physik:38ef5f93-729e-453d-aac2-6618c986a49b a skos:Concept ;
-    skos:broader physik:3b8d5c74-b366-45e2-9383-26b0d94396e4 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Dampfmaschine"@de .
-
-physik:3b028736-2460-4007-9142-011002540a53 a skos:Concept ;
-    skos:broader physik:8e707ef5-ed71-4471-8df4-8541f568518c ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Lorentzkraft"@de .
-
-physik:3bc5a828-68c8-49a3-a3e0-af641ce21957 a skos:Concept ;
-    skos:broader physik:d32bacc1-9cd4-4d25-93bd-99e6ed4ac453 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Supraleiter"@de .
-
-physik:3cc7404c-1999-4604-b9ea-ae95dbc278c4 a skos:Concept ;
-    skos:broader physik:dd942463-b40c-4088-a6ac-0370301524e5 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Wellenlänge"@de .
-
-physik:3cecc79a-3a8b-4def-9089-73251734fcaf a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Papin, Denis"@de .
-
-physik:40ac9d2d-d8a1-4cba-b9d0-15cc38b90eb4 a skos:Concept ;
-    skos:broader physik:3280b95a-2fca-45f4-9873-87538844bb56 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Rad (Maschinenteil)"@de .
-
-physik:4329ab7c-55cd-4076-9213-70aa53a57fa5 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Becquerel, Antoine Henri"@de .
-
-physik:43848957-d66a-4db0-a40f-c8403a0d3115 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Guericke, Otto von"@de .
-
-physik:4492f093-2ed3-417b-9907-969eea1ddb8d a skos:Concept ;
-    skos:broader physik:3280b95a-2fca-45f4-9873-87538844bb56 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Turm"@de .
-
-physik:44ce11f3-6317-4bc6-a2e2-c33c6528adb0 a skos:Concept ;
-    skos:broader physik:94fd726c-1369-44ee-9435-231e22710b0e ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Halbwertszeit"@de .
-
-physik:45515a42-9f27-431f-a11e-d942cd0b13f2 a skos:Concept ;
-    skos:broader physik:63e78150-6483-4d30-b9c6-b6298cbd624d ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Wendekreis (Breitenkreis)"@de .
-
-physik:460b66fc-a0e0-4038-b591-8953b8b25c4e a skos:Concept ;
-    skos:broader physik:94fd726c-1369-44ee-9435-231e22710b0e ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Wiederaufarbeitung"@de .
-
-physik:461a5fac-ef49-4d18-8e43-16a3a90de921 a skos:Concept ;
-    skos:broader physik:dd942463-b40c-4088-a6ac-0370301524e5 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Interferenz"@de .
-
-physik:469947f1-68ef-46ae-a843-c6524c23f444 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Marconi, Guglielmo"@de .
-
-physik:499e2975-1787-4a21-a426-25dd975b7231 a skos:Concept ;
-    skos:broader physik:d32bacc1-9cd4-4d25-93bd-99e6ed4ac453 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Energieträger"@de .
-
-physik:49b7e8bc-4b52-4a26-8606-548c6f768d7e a skos:Concept ;
-    skos:broader physik:088e5645-f350-4ef7-974f-269bc35b3d4f ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Rotation (Physik)"@de .
-
-physik:4a8f0510-0eb5-48f3-b2ef-ec793d150dc4 a skos:Concept ;
-    skos:broader physik:af294858-19ef-4dba-899b-1d9749da6990 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Optische Täuschung"@de .
-
-physik:4d78de61-4b6b-4238-84c8-30dc3a091ff4 a skos:Concept ;
-    skos:broader physik:e2696cff-7acc-47b8-8798-94b68a096d06 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Elektrodynamik"@de .
-
-physik:4dd4c3b7-2476-4a67-808c-5c58d661ab45 a skos:Concept ;
-    skos:broader physik:e8f82640-12e8-4707-a711-a4099bf9d393 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Regenbogen"@de .
-
-physik:4e08cbe0-10dc-4ff4-9cb1-3767c04e009a a skos:Concept ;
-    skos:broader physik:b8a96bb5-c438-48d2-92df-c1e2a2aac03f ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Telefon"@de .
-
-physik:4f5d8bcc-f4d5-40a2-855a-2133358cc59b a skos:Concept ;
-    skos:broader physik:7f584c3e-b7b7-4e55-bc2b-df2fd01fd0c7 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Elementarteilchen"@de .
-
-physik:5021be17-c884-4108-a600-d227b1886c66 a skos:Concept ;
-    skos:broader physik:3d606f7d-f64b-46de-a18d-52f9dc21a303 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Urknall"@de .
-
-physik:51140fef-1d14-4c47-bcc1-f8dbffe5f59a a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "WatsonWatt, Robert"@de .
-
-physik:5349677e-c565-41a4-8dbd-e518950ee96a a skos:Concept ;
-    skos:broader physik:9bbe656a-29a0-485f-b9a8-4729e8691687 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Ekliptik"@de .
-
-physik:55660926-5d31-49b3-8528-5366eec959f5 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Ohm, Georg Simon"@de .
-
-physik:55db9549-bfdb-42d4-a127-1152eda3b973 a skos:Concept ;
-    skos:broader physik:b8a96bb5-c438-48d2-92df-c1e2a2aac03f ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Frequenz (physikalische Größe)"@de .
-
-physik:562e48c1-50ae-45ec-b2be-c4a90f883bae a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Eyth, Max"@de .
-
-physik:56ec5e52-97e6-403d-bb2c-b1d7cf0bac37 a skos:Concept ;
-    skos:broader physik:b1e33dc0-9241-4f42-9252-d412937fba1b ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Operationsverstärker"@de .
-
-physik:571ed287-5132-4523-ae81-538ec25cc5be a skos:Concept ;
-    skos:broader physik:63e78150-6483-4d30-b9c6-b6298cbd624d ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Van-Allen-Gürtel"@de .
-
-physik:57405e0b-5076-43fe-8189-0f5a244381c4 a skos:Concept ;
-    skos:broader physik:b1e33dc0-9241-4f42-9252-d412937fba1b ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Nebelkammer"@de .
-
-physik:57f1c210-5399-41eb-ae14-98cdf715e65b a skos:Concept ;
-    skos:broader physik:3280b95a-2fca-45f4-9873-87538844bb56 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Drehmoment"@de .
-
-physik:57f9666a-a820-42b3-a209-d7aa4e9306dd a skos:Concept ;
-    skos:broader physik:3280b95a-2fca-45f4-9873-87538844bb56 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Brücke (Bauwerk)"@de .
-
-physik:58858145-2e8a-47d6-ae2e-bd38950afb15 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Newton, Isaac"@de .
-
-physik:5a242d94-6105-4b41-9e27-e6680df60a2c a skos:Concept ;
-    skos:broader physik:b8a96bb5-c438-48d2-92df-c1e2a2aac03f ;
-    skos:inScheme physik: ;
-    skos:prefLabel "RFID"@de .
-
-physik:5c2fe471-de0f-40dc-9436-ab4559195a25 a skos:Concept ;
-    skos:broader physik:02761eec-215c-45c0-bc85-cb496ec2023b ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Inertialsystem"@de .
-
-physik:5cf7063f-51a4-4f9a-8d4c-8d25e96c9ba2 a skos:Concept ;
-    skos:broader physik:94fd726c-1369-44ee-9435-231e22710b0e ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Kernspaltung"@de .
-
-physik:5e78c1c5-bc98-4bb5-a209-3f068ba167fe a skos:Concept ;
-    skos:broader physik:3280b95a-2fca-45f4-9873-87538844bb56 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Zeit"@de .
-
-physik:603c7e72-812b-4b34-a602-edfef3883434 a skos:Concept ;
-    skos:broader physik:b1e33dc0-9241-4f42-9252-d412937fba1b ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Dipol"@de .
-
-physik:603e09fe-e6b2-4488-bc8c-014874dd1239 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Braun, Karl Friedrich"@de .
-
-physik:622a5c4d-6e56-44ca-a6cd-bd219142f502 a skos:Concept ;
-    skos:broader physik:5ff8558f-a20f-4e10-99e2-07f707552676 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Vollmond"@de .
-
-physik:625d167a-834e-4217-bdd5-9efd0bcacc7d a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Stephenson, George"@de .
-
-physik:62a75de9-9e44-47d4-90ab-74614fe1507c a skos:Concept ;
-    skos:broader physik:3280b95a-2fca-45f4-9873-87538844bb56 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Hydraulik"@de .
-
-physik:62d8cbd7-3bdf-49cc-8ac7-e02e9af40ddb a skos:Concept ;
-    skos:broader physik:bfaf68a9-f5a9-4364-ac9e-3d81a040717d ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Apollo-Programm"@de .
-
-physik:6428651f-a67a-4e23-bd60-52a1a9293867 a skos:Concept ;
-    skos:broader physik:a7cefabf-fc43-4aef-b9d9-06406d96fadd ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Uranus (Planet)"@de .
-
-physik:64455d72-f523-4fee-b65a-ca452ca0cb68 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Hubble, Edwin Powell"@de .
-
-physik:652a8e54-6659-4dce-937b-7dc1b9effd44 a skos:Concept ;
-    skos:broader physik:b1e33dc0-9241-4f42-9252-d412937fba1b ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Verstärker (Elektrotechnik)"@de .
-
-physik:65a0760d-719e-4fac-aeec-0cbb648ef180 a skos:Concept ;
-    skos:broader physik:3280b95a-2fca-45f4-9873-87538844bb56 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Zahnrad"@de .
-
-physik:65b44d16-45ed-4fae-9154-076adb69ce20 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Townes, Charles Hard"@de .
-
-physik:67c8a758-3691-4a46-aa6c-3fec277c6c4b a skos:Concept ;
-    skos:broader physik:8ecbd3e7-3e8f-45c9-aa55-3e899289b0d4 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Braunsche Röhre"@de .
-
-physik:6928a79b-74ab-4b6c-94d0-a74250d2c76e a skos:Concept ;
-    skos:broader physik:84388bc4-fda8-480c-af87-f9c331dc710b ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Objektiv (Optik)"@de .
-
-physik:6b5b343b-3990-41fa-901c-7183a6fbfc28 a skos:Concept ;
-    skos:broader physik:dd942463-b40c-4088-a6ac-0370301524e5 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Reflexion (Physik)"@de .
-
-physik:6c9dc725-383e-4a96-9754-8e2dfad4a448 a skos:Concept ;
-    skos:broader physik:a7cefabf-fc43-4aef-b9d9-06406d96fadd ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Jupiter (Planat)"@de .
-
-physik:6ea7013a-822b-46ce-b8f9-b62a15fd27ac a skos:Concept ;
-    skos:broader physik:3dc03202-85a8-4ea4-aa5f-967b97a3a284 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Digitale Fotografie"@de .
-
-physik:6f81798c-0a96-45ab-b3d4-7a2983e4eb01 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Foucault, Jean Bernard Léon"@de .
-
-physik:6fef7938-99f8-40ac-a9e1-1cfa842a4629 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Nostradamus"@de .
-
-physik:73eaf835-93bd-47b1-91cf-d3c01469c20c a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Tesla, Nikola"@de .
-
-physik:7419db12-481f-4dc4-b82d-fa8ccc2a5eb2 a skos:Concept ;
-    skos:broader physik:94fd726c-1369-44ee-9435-231e22710b0e ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Kernwaffe"@de .
-
-physik:75049bf3-2588-4270-9881-7592c2d4e33c a skos:Concept ;
-    skos:broader physik:3280b95a-2fca-45f4-9873-87538844bb56 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Pumpe"@de .
-
-physik:751dc5a2-b043-4c1c-a360-43163b75b6aa a skos:Concept ;
-    skos:broader physik:3d606f7d-f64b-46de-a18d-52f9dc21a303 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Epizykletheorie"@de .
-
-physik:77854a23-a77c-4ea9-88a5-988dad1fad26 a skos:Concept ;
-    skos:broader physik:b1e33dc0-9241-4f42-9252-d412937fba1b ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Millikanversuch"@de .
-
-physik:7846addf-ea62-44ec-b209-b2c828f8ece1 a skos:Concept ;
-    skos:broader physik:b8a96bb5-c438-48d2-92df-c1e2a2aac03f ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Modulation"@de .
-
-physik:7a4687b0-c8f1-4d2a-b13f-1ded6c8fbe99 a skos:Concept ;
-    skos:broader physik:3dc03202-85a8-4ea4-aa5f-967b97a3a284 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Sofortbildfotografie"@de .
-
-physik:7b4d1a17-b38b-4c5e-9899-89787dff9bdf a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Watt, James"@de .
-
-physik:7cc28115-2e79-4c38-928b-9bd376b04e9e a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Sikorsky, Igor Iwanowitsch"@de .
-
-physik:7cc8426a-b296-41d4-b372-51a8165bc5cc a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Siemens, Werner von"@de .
-
-physik:7d033b75-c4c0-4803-b820-4d8f4a76af0b a skos:Concept ;
-    skos:broader physik:691df043-fb27-4896-80a5-715785e24ed6 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Einfallswinkel"@de .
-
-physik:7d65dadc-e781-4da7-aa82-dfa90a828b0b a skos:Concept ;
-    skos:broader physik:b6250dcf-10b3-4386-b15e-f8a1cebe9815 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Halleyscher Komet"@de .
-
-physik:7d85e73e-c137-42ab-b511-e3144a23de27 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Celsius, Anders"@de .
-
-physik:7e6b4554-d592-4110-8a06-e4eb08f8651f a skos:Concept ;
-    skos:broader physik:8e707ef5-ed71-4471-8df4-8541f568518c ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Zentrifugalkraft"@de .
-
-physik:7ea69210-48e0-4a3d-ae59-247c8fb21c88 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Einstein, Albert"@de .
-
-physik:805664f2-9616-4086-b5db-81f97bdb989e a skos:Concept ;
-    skos:broader physik:fea4815b-feef-48dd-a906-e0423e08aed6 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Glühlampe"@de .
-
-physik:80f93608-cdf5-465e-9c3a-5e2cba36cd1c a skos:Concept ;
-    skos:broader physik:b1e33dc0-9241-4f42-9252-d412937fba1b ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Transformator"@de .
-
-physik:812b6d21-e06d-4bdc-ad0d-8fa34a4787b7 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Linde, Carl von"@de .
-
-physik:825ecc42-12fc-4f95-9f09-532045f9f1a9 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Shckley, William Bradford"@de .
-
-physik:83608cec-9e02-4581-b64c-8fcc0c1edabb a skos:Concept ;
-    skos:broader physik:af294858-19ef-4dba-899b-1d9749da6990 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Wölbspiegel"@de .
-
-physik:8399af94-a9d6-4c30-8505-9a28dfc97aad a skos:Concept ;
-    skos:broader physik:3280b95a-2fca-45f4-9873-87538844bb56 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Struktur (allgemein)"@de .
-
-physik:83a440f6-897b-4ab8-8547-0ce39c532d43 a skos:Concept ;
-    skos:broader physik:b8a96bb5-c438-48d2-92df-c1e2a2aac03f ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Radar"@de .
-
-physik:8713ae97-d219-4d90-96a2-b313da802f1d a skos:Concept ;
-    skos:broader physik:b1e33dc0-9241-4f42-9252-d412937fba1b ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Unipolare Ansteuerung"@de .
-
-physik:8720ff3a-816c-49b4-9099-983c5707f08c a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Laplace, Pierre Simon de"@de .
-
-physik:8753f414-bd63-471e-bb70-b3764c5303f8 a skos:Concept ;
-    skos:broader physik:02761eec-215c-45c0-bc85-cb496ec2023b ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Lichtgeschwindigkeit"@de .
-
-physik:88165881-182f-4163-822f-7c95bb9473e6 a skos:Concept ;
-    skos:broader physik:dd942463-b40c-4088-a6ac-0370301524e5 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Schallmauer"@de .
-
-physik:884a9608-4b82-4486-b653-589e0df8dbb1 a skos:Concept ;
-    skos:broader physik:94fd726c-1369-44ee-9435-231e22710b0e ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Kernbrennstoff"@de .
-
-physik:887e811f-98a2-4a50-a7b5-5cf96562160b a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Pacal, Blaise"@de .
-
-physik:88f116f7-2895-4361-9abb-2b87eb8076de a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Maimann, Theodore"@de .
-
-physik:894134c2-1fb7-4111-95ee-7a490eee2b11 a skos:Concept ;
-    skos:broader physik:dd942463-b40c-4088-a6ac-0370301524e5 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Elektromagnetische Wellen"@de .
-
-physik:8bcde070-0c73-4624-b232-204e1d03eeb0 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Halley, Edmond"@de .
-
-physik:8d928f2f-d30a-4d3b-bfd6-19a9d8dc08d7 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Lumière, Gebrüder"@de .
-
-physik:9176a1cd-b878-4cca-a92f-47f6b027cabc a skos:Concept ;
-    skos:broader physik:5b027e60-3ce8-4a9a-9b17-f45620a31b68 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Auftrieb (Physik)"@de .
-
-physik:918452ea-c978-4fe7-9e20-6eb290db6b0f a skos:Concept ;
-    skos:broader physik:b9a3c4de-445e-40ef-84e3-a1952228e30c ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Überstromschutzeinrichtung"@de .
-
-physik:93252a97-942e-46af-bbd1-c60ddf157d06 a skos:Concept ;
-    skos:broader physik:af294858-19ef-4dba-899b-1d9749da6990 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Oszillograf"@de .
-
-physik:95a9bd89-0f12-492d-a4a2-815cc222b141 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Abbe, Ernst"@de .
-
-physik:95f83486-2dbf-49a5-8f48-bea84103e223 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Röntgen, Wilhelm Conrad"@de .
-
-physik:985f00a6-23e8-4c15-8dce-2bacef91199d a skos:Concept ;
-    skos:broader physik:b1e33dc0-9241-4f42-9252-d412937fba1b ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Dotierung"@de .
-
-physik:987d4d69-9a18-4979-ace6-496cacf45ac1 a skos:Concept ;
-    skos:broader physik:2db14809-c77e-4a55-b4e4-6063bf1e73ed ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Generator"@de .
-
-physik:98cd19a9-8dd3-4b6f-b2d0-9a173e5508fe a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Joule, James Prescott"@de .
-
-physik:9c72aecb-4681-42a5-9b1b-6487d0618413 a skos:Concept ;
-    skos:broader physik:af294858-19ef-4dba-899b-1d9749da6990 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Virtuelles Bild"@de .
-
-physik:a147240c-32e9-4b66-9a34-17d1e8e54626 a skos:Concept ;
-    skos:broader physik:3280b95a-2fca-45f4-9873-87538844bb56 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Newtonsche Gesetze"@de .
-
-physik:a272ccea-1600-4be1-8b9f-293fd8de96b0 a skos:Concept ;
-    skos:broader physik:e8f82640-12e8-4707-a711-a4099bf9d393 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Lichtbrechung"@de .
-
-physik:a2c5309a-d333-4a42-b821-fa872ef365f3 a skos:Concept ;
-    skos:broader physik:bfaf68a9-f5a9-4364-ac9e-3d81a040717d ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Satellit"@de .
-
-physik:a33c2d96-2dba-4f6b-bb96-312b76b732bc a skos:Concept ;
-    skos:broader physik:af294858-19ef-4dba-899b-1d9749da6990 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Vergrößerung (Optik)"@de .
-
-physik:a45da83f-6e17-40e9-a4ba-516043b8dacf a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Piccard, Auguste"@de .
-
-physik:a6368650-d99f-4603-80e3-d17b692abd0d a skos:Concept ;
-    skos:broader physik:b21c4227-0cf0-4de4-b6ec-58618b0b09d2 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Lichtbogen"@de .
-
-physik:a6b2c894-897e-4276-9e04-319f6b46f122 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Binning, Gerd"@de .
-
-physik:a7f25b84-61d2-48ea-b850-16218667df71 a skos:Concept ;
-    skos:broader physik:a7cefabf-fc43-4aef-b9d9-06406d96fadd ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Merkur (Planet)"@de .
-
-physik:a83c151f-c488-4749-9584-e0366b6600eb a skos:Concept ;
-    skos:broader physik:3280b95a-2fca-45f4-9873-87538844bb56 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Aerodynamik"@de .
-
-physik:a8440568-7113-42dc-8873-6cf04bf2ed21 a skos:Concept ;
-    skos:broader physik:af294858-19ef-4dba-899b-1d9749da6990 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Abbildungsfehler"@de .
-
-physik:a95f5c4e-199b-4354-bcbe-f954d3b8afd4 a skos:Concept ;
-    skos:broader physik:2db14809-c77e-4a55-b4e4-6063bf1e73ed ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Gleichrichter"@de .
-
-physik:aa164274-189d-4209-a1e3-d54f940f7cba a skos:Concept ;
-    skos:broader physik:af294858-19ef-4dba-899b-1d9749da6990 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Röntgenkunde"@de .
-
-physik:aa188a54-75e2-49c8-8e80-ea689848bf07 a skos:Concept ;
-    skos:broader physik:b5e77816-d682-4557-9bd8-2eab5476202b ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Weltlinie"@de .
-
-physik:aa7b77a8-55f8-4966-aa79-628d2e7641da a skos:Concept ;
-    skos:broader physik:d32bacc1-9cd4-4d25-93bd-99e6ed4ac453 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Feuerwerk"@de .
-
-physik:ab08e925-1b24-41c4-aeaf-8d81f09e1559 a skos:Concept ;
-    skos:broader physik:1ea4da37-fc15-4319-8de2-ca7fa1c0d211 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Elektronenmikroskop"@de .
-
-physik:ab78deb2-9817-4d5e-a36e-6498c9292a65 a skos:Concept ;
-    skos:broader physik:3280b95a-2fca-45f4-9873-87538844bb56 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Drehachse"@de .
-
-physik:abe02978-5c7d-4ece-8bb7-82aefb6a9159 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Koroljow, Sergej Pawlowitsch"@de .
-
-physik:ad6fcfb1-631b-4e09-92ff-ec10d5175be0 a skos:Concept ;
-    skos:broader physik:b1e33dc0-9241-4f42-9252-d412937fba1b ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Bipolare Ansteuerung"@de .
-
-physik:ae5cb62b-5557-46d3-bab6-b6b9bb0bdd81 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "MacCready, Paul"@de .
-
-physik:aedca7b1-8ef2-440c-bbe8-4d0a3ca961ee a skos:Concept ;
-    skos:broader physik:b1e33dc0-9241-4f42-9252-d412937fba1b ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Kurzschluss"@de .
-
-physik:b08e9bbc-d208-4f76-babd-5a61dbc166c0 a skos:Concept ;
-    skos:broader physik:3dc03202-85a8-4ea4-aa5f-967b97a3a284 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Bildbearbeitung"@de .
-
-physik:b0dac3ea-18e2-4c79-a9eb-2bee7521df95 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Drais, CarlFriedrich"@de .
-
-physik:b1a2de8e-b202-40de-8827-b4b9c21cb752 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Hertz, Gustav"@de .
-
-physik:b2d69468-9db2-46ff-b2cc-d5f1d7706da2 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Ampère, AndréMarie"@de .
-
-physik:b2e7e5d1-f585-45f6-b13a-939b52f1cb91 a skos:Concept ;
-    skos:broader physik:aa521a47-ee9c-4aa5-b9bd-13981c5e0e03 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Polarlicht"@de .
-
-physik:b4c2c78c-cc68-47b4-bdc5-518090b65ce5 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Volta, Alessandro Graf"@de .
-
-physik:b556755d-42c3-46c8-9afd-6c06f2dba3a3 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Gilbert, William"@de .
-
-physik:b55c1105-3919-4d7c-9bcf-54ea45c88948 a skos:Concept ;
-    skos:broader physik:0c651930-2a04-4bc2-8036-8c0f3ec80b14 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Hydrostatischer Druck"@de .
-
-physik:b596ca11-5829-466b-bc83-5e52c426ea66 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Jenny, Hans"@de .
-
-physik:b61cf3e9-ec0c-4921-b0ba-e350cf591982 a skos:Concept ;
-    skos:broader physik:94fd726c-1369-44ee-9435-231e22710b0e ;
-    skos:inScheme physik: ;
-    skos:prefLabel "CERN"@de .
-
-physik:b62a5271-edf0-415d-8f28-898b23ba824e a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Weizenbaum, Joseph"@de .
-
-physik:b7981a49-c032-4ab0-ad6d-8db2da1fd236 a skos:Concept ;
-    skos:broader physik:3280b95a-2fca-45f4-9873-87538844bb56 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Schmiermittel"@de .
-
-physik:b82cb9f3-a399-4d65-ade0-0a4a7a0f9ac4 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Zeiss, Carl"@de .
-
-physik:b88a8b53-37ec-4397-84c4-74bd82ecb9c7 a skos:Concept ;
-    skos:broader physik:3280b95a-2fca-45f4-9873-87538844bb56 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Masse (Physik)"@de .
-
-physik:b8b13c3c-5e64-462b-9ced-4efe518628a7 a skos:Concept ;
-    skos:broader physik:e8f82640-12e8-4707-a711-a4099bf9d393 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Spektrum (Physik)"@de .
-
-physik:ba04ce6e-a6ca-46b0-bfb4-04c5006e720e a skos:Concept ;
-    skos:broader physik:691df043-fb27-4896-80a5-715785e24ed6 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Freie-Elektronen-Laser"@de .
-
-physik:bbb3540d-28ff-4a76-ba81-57b328aae61a a skos:Concept ;
-    skos:broader physik:7f584c3e-b7b7-4e55-bc2b-df2fd01fd0c7 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Prüfverfahren"@de .
-
-physik:bbfb5165-2647-4930-b8a5-29da96e2f9b8 a skos:Concept ;
-    skos:broader physik:3280b95a-2fca-45f4-9873-87538844bb56 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Brownsche Bewegung"@de .
-
-physik:beebd4a3-b8cd-4c6c-9006-a51ea94a84ea a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Rutherford, Ernest"@de .
-
-physik:c0f27343-f73f-47f2-a471-e3b14b6974be a skos:Concept ;
-    skos:broader physik:b1e33dc0-9241-4f42-9252-d412937fba1b ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Widerstand (Physik)"@de .
-
-physik:c399e972-a967-4c0f-ae18-60a3c6f51888 a skos:Concept ;
-    skos:broader physik:3280b95a-2fca-45f4-9873-87538844bb56 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Lotuseffekt"@de .
-
-physik:c48440b0-da29-4d60-92c5-d8d0d3fb94ba a skos:Concept ;
-    skos:broader physik:b1e33dc0-9241-4f42-9252-d412937fba1b ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Stromkreis"@de .
-
-physik:c5135ddd-9aa3-40a6-b763-c9e89694e1c0 a skos:Concept ;
-    skos:broader physik:691df043-fb27-4896-80a5-715785e24ed6 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Ultraviolettstrahlung"@de .
-
-physik:c66143b2-eb37-4e6f-a57c-68f310e04ef2 a skos:Concept ;
-    skos:broader physik:dd942463-b40c-4088-a6ac-0370301524e5 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Doppler-Effekt"@de .
-
-physik:ca15d65f-7b98-4d47-98f4-9c5901ff41c0 a skos:Concept ;
-    skos:broader physik:d32bacc1-9cd4-4d25-93bd-99e6ed4ac453 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Solarenergie"@de .
-
-physik:cac6648d-58a7-4ea8-a3bd-042339832cd7 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Planck, Max"@de .
-
-physik:cbbdbb49-9a79-44f0-a46f-d134c23ac507 a skos:Concept ;
-    skos:broader physik:2db14809-c77e-4a55-b4e4-6063bf1e73ed ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Ultraschall"@de .
-
-physik:ccabb060-3b44-4591-b057-cfacf070fc7f a skos:Concept ;
-    skos:broader physik:f9cf5fd0-8ba6-4764-bd2e-8f4e1c57ed77 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Wärmeleistung (Heiztechnik)"@de .
-
-physik:cd6fb94b-29ec-43c0-8220-451b93447afb a skos:Concept ;
-    skos:broader physik:bfaf68a9-f5a9-4364-ac9e-3d81a040717d ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Mondlandung"@de .
-
-physik:ce2c1cec-7d4c-448f-a394-5eba96ae5ed5 a skos:Concept ;
-    skos:broader physik:94fd726c-1369-44ee-9435-231e22710b0e ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Kernkraftwerk"@de .
-
-physik:cec44a9a-93b0-4652-b215-6406736f10a0 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Mayer, Tobias"@de .
-
-physik:ceec6fb0-a4b0-4398-8269-a44e7cba4cba a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Knoll, Max"@de .
-
-physik:d0934502-ef0b-4488-8977-56d2a57027dd a skos:Concept ;
-    skos:broader physik:9eb18913-a66f-4c16-864f-0ba46bb4b460 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Farbenlehre"@de .
-
-physik:d12d32af-74bc-41c6-b12e-246d863db54b a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Kepler, Johannes"@de .
-
-physik:d148ecba-ace1-4117-a976-eb6f0dbdea60 a skos:Concept ;
-    skos:broader physik:d32bacc1-9cd4-4d25-93bd-99e6ed4ac453 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Wärmeenergie"@de .
-
-physik:d1f094ae-7253-496a-8c69-d20602506c7b a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Bell, Alexander Graham"@de .
-
-physik:d480eea5-bb3e-4664-b56b-6315d3406c1f a skos:Concept ;
-    skos:broader physik:2db14809-c77e-4a55-b4e4-6063bf1e73ed ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Gleichstrom"@de .
-
-physik:d5041c17-175d-4a2e-92a8-ad05cb812c82 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Westinghouse, George"@de .
-
-physik:d6315775-6e44-40de-b329-c2c0fe7f61f7 a skos:Concept ;
-    skos:broader physik:3280b95a-2fca-45f4-9873-87538844bb56 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Oberflächenspannung"@de .
-
-physik:d67df614-7370-441d-875c-e658d54cb49f a skos:Concept ;
-    skos:broader physik:004a9b33-80f7-4ff8-9abd-732f0ff3d129 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Sonnenfinsternis"@de .
-
-physik:d6b3ec54-299e-41dc-aca0-09c6117dbacd a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Heisenberg, Werner"@de .
-
-physik:d782582d-3706-43dd-af68-8d3a15683288 a skos:Concept ;
-    skos:broader physik:3280b95a-2fca-45f4-9873-87538844bb56 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Pneumatik"@de .
-
-physik:d7ad4e19-07ba-4c51-8859-16a076e2161e a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Brahe, Tycho"@de .
-
-physik:d8e3cb9f-d412-4180-99ba-86fbc21134f8 a skos:Concept ;
-    skos:broader physik:e8f82640-12e8-4707-a711-a4099bf9d393 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Kerze"@de .
-
-physik:d9921c22-29f6-49c7-abf5-7f1b5f0a3bf3 a skos:Concept ;
-    skos:broader physik:d32bacc1-9cd4-4d25-93bd-99e6ed4ac453 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Nichtleiter"@de .
-
-physik:d9d3e1d5-b0bb-41c7-8197-aa59508d60bb a skos:Concept ;
-    skos:broader physik:94fd726c-1369-44ee-9435-231e22710b0e ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Plasmaphysik"@de .
-
-physik:d9e3bfd3-800e-46fb-942e-8227739523ee a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
+physik:68f8f350-3ce5-462d-9db0-fd69a1f333c1 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
     skos:inScheme physik: ;
     skos:prefLabel "Weizsäcker, Carl Friedrich"@de .
 
-physik:da10bf54-0a1c-4c36-87f9-7a5db5b68bb1 a skos:Concept ;
-    skos:broader physik:7f584c3e-b7b7-4e55-bc2b-df2fd01fd0c7 ;
+physik:6906f124-350f-4e8c-90c9-4b4335751fb7 a skos:Concept ;
+    skos:broader physik:c60454cd-2c6f-44b3-aa41-a12805e72f90 ;
     skos:inScheme physik: ;
-    skos:prefLabel "Quantentheorie"@de .
+    skos:prefLabel "Frequenz (physikalische Größe)"@de .
 
-physik:da5342c6-3a73-4de6-ab54-24f4d1c0c415 a skos:Concept ;
-    skos:broader physik:ee7378c0-1234-46ab-b628-936273db2017 ;
+physik:69478406-c6a6-4a66-bcb0-b1c2c835bd3e a skos:Concept ;
+    skos:broader physik:4d358ade-a762-4104-86d2-dff771fd2348 ;
     skos:inScheme physik: ;
-    skos:prefLabel "Rauch"@de .
+    skos:prefLabel "Gleichrichter"@de .
 
-physik:dff1d4f5-cd4c-4921-9853-36a0fdff4707 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
+physik:6a78975d-9ef0-460c-a61c-b70121657996 a skos:Concept ;
+    skos:broader physik:98ba65f4-0f54-46b9-a968-5bcca87a09ac ;
     skos:inScheme physik: ;
-    skos:prefLabel "Hertz, Heinrich"@de .
+    skos:prefLabel "Elektromagnetische Wellen"@de .
 
-physik:e08db21e-e4af-4206-9ae7-71b193e820f8 a skos:Concept ;
-    skos:broader physik:a0206910-705d-4db4-85ff-bccec04a81b8 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Konvektion"@de .
-
-physik:e0935fc7-d373-4f4b-b53a-520ef34dbb9f a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Ardenne, Manfred von"@de .
-
-physik:e13884b3-f913-48e6-b2ed-8294a5ac9413 a skos:Concept ;
-    skos:broader physik:0c651930-2a04-4bc2-8036-8c0f3ec80b14 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Vakuum"@de .
-
-physik:e2545516-d626-49c4-8768-685bcd4cdb51 a skos:Concept ;
-    skos:broader physik:e2696cff-7acc-47b8-8798-94b68a096d06 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Feldlinie"@de .
-
-physik:e34c44f7-ce4f-48ac-852f-72ad773ba585 a skos:Concept ;
-    skos:broader physik:7f584c3e-b7b7-4e55-bc2b-df2fd01fd0c7 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Orbitalmodell"@de .
-
-physik:e5bbcf28-c4a6-42dc-a1e2-a4fc98b92264 a skos:Concept ;
-    skos:broader physik:d32bacc1-9cd4-4d25-93bd-99e6ed4ac453 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Wirkungsgrad"@de .
-
-physik:e5e8b97b-34aa-4f41-800d-93a6be45dbf6 a skos:Concept ;
-    skos:broader physik:3280b95a-2fca-45f4-9873-87538844bb56 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Kristall"@de .
-
-physik:e604b755-65a5-423e-ad55-db467cab8a7a a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Montgolfier (Gebrüder)"@de .
-
-physik:e70c3035-5491-4bfd-9f19-4e9fc8612921 a skos:Concept ;
-    skos:broader physik:d32bacc1-9cd4-4d25-93bd-99e6ed4ac453 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Elektrische Leitung"@de .
-
-physik:e882a8f0-5207-4a0b-bb09-0db84f0022d5 a skos:Concept ;
-    skos:broader physik:3280b95a-2fca-45f4-9873-87538844bb56 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Hooksches Gesetz"@de .
-
-physik:e89c3f2a-71b4-4c98-ae22-5cad41316961 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Fraunhofer, Joseph"@de .
-
-physik:e905a0f9-eb50-41da-8530-e01b8ae460a6 a skos:Concept ;
-    skos:broader physik:2db14809-c77e-4a55-b4e4-6063bf1e73ed ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Klingel"@de .
-
-physik:ea49cca4-a943-4bbd-a43c-050f9b9115ec a skos:Concept ;
-    skos:broader physik:a7cefabf-fc43-4aef-b9d9-06406d96fadd ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Venus (Planet)"@de .
-
-physik:ea4a799c-aea1-4a08-9a07-fe17e71bc68c a skos:Concept ;
-    skos:broader physik:088e5645-f350-4ef7-974f-269bc35b3d4f ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Trägheit (Physik)"@de .
-
-physik:ee48cd26-f46e-4fff-9726-701ea53012c8 a skos:Concept ;
-    skos:broader physik:af294858-19ef-4dba-899b-1d9749da6990 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Laser"@de .
-
-physik:ef44bdbc-0c11-498c-8ec5-590c775693e3 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Skladanowsky, Max"@de .
-
-physik:efd7eacc-b9ed-4ddb-a014-87b278a8d5fc a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Joliot, Frederic"@de .
-
-physik:f000223f-eea9-4557-b94b-913aff300231 a skos:Concept ;
-    skos:broader physik:a0206910-705d-4db4-85ff-bccec04a81b8 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Wärmeleitung"@de .
-
-physik:f098106e-d389-4798-8eac-ad6c6ac79d3f a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Zworykin, Vladimir Kosma"@de .
-
-physik:f1435967-2047-4f65-bee7-cf8c4d48beab a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Brattain, Walter"@de .
-
-physik:f2105f12-0213-4d9b-bf44-08c203369ac3 a skos:Concept ;
-    skos:broader physik:3280b95a-2fca-45f4-9873-87538844bb56 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Kondensation (Physik)"@de .
-
-physik:f281d9ed-ec98-4d47-a28b-2aeb4bf56306 a skos:Concept ;
-    skos:broader physik:94fd726c-1369-44ee-9435-231e22710b0e ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Kernfusion"@de .
-
-physik:f29320fd-465e-4b5e-9eda-ac44b392bdc5 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Wiechert, Emil"@de .
-
-physik:f2ac232e-460e-4092-82ab-f9195bc75781 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Daguerre, Louis"@de .
-
-physik:f31698ed-e705-43db-a9af-f268ea60ca1a a skos:Concept ;
-    skos:broader physik:a7cefabf-fc43-4aef-b9d9-06406d96fadd ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Mars (Planet)"@de .
-
-physik:f370dc60-fd0b-4be4-a6c8-62297e758e79 a skos:Concept ;
-    skos:broader physik:3f2c1fe3-c6ab-44af-a8c6-d38f5e8ce432 ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Thermometer"@de .
-
-physik:f41444c9-8b64-4b21-afe1-ccbd9679a9de a skos:Concept ;
-    skos:broader physik:b1e33dc0-9241-4f42-9252-d412937fba1b ;
-    skos:inScheme physik: ;
-    skos:prefLabel "Synchroton"@de .
-
-physik:f4abb089-2248-4f21-880f-d9a8da6933d0 a skos:Concept ;
-    skos:broader physik:af294858-19ef-4dba-899b-1d9749da6990 ;
+physik:6b8e611f-c9d1-4a1c-a06f-a602368519a2 a skos:Concept ;
+    skos:broader physik:b24b26a0-da9e-4c0f-b806-0c35bb777e56 ;
     skos:inScheme physik: ;
     skos:prefLabel "Schatten"@de .
 
-physik:f5884171-4b8d-4c85-aa50-afb7f71697d4 a skos:Concept ;
-    skos:broader physik:d32bacc1-9cd4-4d25-93bd-99e6ed4ac453 ;
+physik:6bed7619-e7bb-4998-96b5-28af418186ff a skos:Concept ;
+    skos:broader physik:1706be2c-5ce4-4581-9420-2624a302ff6b ;
     skos:inScheme physik: ;
-    skos:prefLabel "Leiter (Physik)"@de .
+    skos:prefLabel "Kernspaltung"@de .
 
-physik:f7f5a853-51cf-49f2-8408-6c20b109bca2 a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
+physik:6cb9d93c-dbf5-40a0-a908-28c4e6c21c2a a skos:Concept ;
+    skos:broader physik:d372a6f8-9026-43e8-8e1d-6e3ab9990c6f ;
     skos:inScheme physik: ;
-    skos:prefLabel "KammerlinghOnnes, Heike"@de .
+    skos:prefLabel "Energieträger"@de .
 
-physik:fa30ecdb-028e-41ac-b4f4-49b2d73d05e7 a skos:Concept ;
-    skos:broader physik:b52f9462-5539-4e54-8ba1-93e320cde837 ;
+physik:6cbd5d93-848e-40fa-b01b-4722bc647e6c a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
     skos:inScheme physik: ;
-    skos:prefLabel "Mondfinsternis"@de .
+    skos:prefLabel "Bohr, Niels"@de .
 
-physik:fb4abca1-1819-4ec5-bd16-0a4268d3ca28 a skos:Concept ;
-    skos:broader physik:b1e33dc0-9241-4f42-9252-d412937fba1b ;
+physik:6eede01a-9f69-4e9d-ac85-3751e7541951 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Hawking, Stephen William"@de .
+
+physik:6ff5a3cd-fb0f-4b42-a78b-2cbec78aa68c a skos:Concept ;
+    skos:broader physik:7161228a-831b-4ee5-b465-35d437d6f182 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Rauch"@de .
+
+physik:72a6170a-d4d4-412a-a153-18377929c26c a skos:Concept ;
+    skos:broader physik:0e54e925-cd4c-4cda-b0af-a51719c80cda ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Zentrifugalkraft"@de .
+
+physik:74a7bef8-33ed-4406-9a72-2b1d2c10e4f8 a skos:Concept ;
+    skos:broader physik:b24b26a0-da9e-4c0f-b806-0c35bb777e56 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Abbildungsfehler"@de .
+
+physik:75e07471-fb68-4746-b779-cd7f2f96eee5 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Newcomen, Thomas"@de .
+
+physik:76a69de6-ca69-490d-a851-35a846dc2575 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Weizenbaum, Joseph"@de .
+
+physik:773d13ea-17b7-4d43-8069-e10e289c71bf a skos:Concept ;
+    skos:broader physik:cf66080d-03b2-450d-92f0-523cfd0f1878 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Reibung"@de .
+
+physik:777ce697-cf04-4810-a61b-817c2e072a0b a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Shckley, William Bradford"@de .
+
+physik:78a2eb06-6c1b-4e79-9385-9a869ddf6aa4 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Wiechert, Emil"@de .
+
+physik:79396777-21cc-4f96-9860-d9c37a2a54a4 a skos:Concept ;
+    skos:broader physik:1706be2c-5ce4-4581-9420-2624a302ff6b ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Kernkraftwerk"@de .
+
+physik:795c78e0-739f-4001-8ebb-209dc1eab12f a skos:Concept ;
+    skos:broader physik:a7838e2f-afe8-467a-ac8b-bf0f07646889 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Ultraviolettstrahlung"@de .
+
+physik:7a316a1d-e9a5-4167-97e6-0a1ef9b36637 a skos:Concept ;
+    skos:broader physik:cf66080d-03b2-450d-92f0-523cfd0f1878 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Ausdehnung"@de .
+
+physik:7ac93b07-f49b-4188-b8a4-f909c0657e6c a skos:Concept ;
+    skos:broader physik:4a7a15a8-03dd-432d-8962-e80a8f5a27f1 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Wärmeausdehnung"@de .
+
+physik:7bc96b39-8e35-4d6d-a614-674e1e005988 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Koroljow, Sergej Pawlowitsch"@de .
+
+physik:7cb10e7b-457e-48cd-9d95-befdbde682e6 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Bardeen, John"@de .
+
+physik:7d1f9337-52a4-403f-af96-df82d3574966 a skos:Concept ;
+    skos:broader physik:ef8a9c90-e869-4471-9aa2-a60711e814b6 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Orbitalmodell"@de .
+
+physik:7d38b243-aa28-4c13-90da-82f578d7bf73 a skos:Concept ;
+    skos:broader physik:ef8a9c90-e869-4471-9aa2-a60711e814b6 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Quantentheorie"@de .
+
+physik:7de1aed2-6757-4183-b5b7-ae0dcf24708a a skos:Concept ;
+    skos:broader physik:98e488ff-00ea-4974-bb2c-2adf751492e9 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Thermometer"@de .
+
+physik:7f16e6fa-6502-415a-8648-96f974afef1b a skos:Concept ;
+    skos:broader physik:0144ffe4-b73f-4c8b-8c6e-76ea80704ce3 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Epizykletheorie"@de .
+
+physik:80664e3f-6685-41f2-bb9b-36ce3f00b3c8 a skos:Concept ;
+    skos:broader physik:12c84364-0d47-4749-b6fb-e2f3cab3faee ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Volt"@de .
+
+physik:80adca46-9d9e-441e-811e-e2b3047e66e7 a skos:Concept ;
+    skos:broader physik:012bf173-23b8-410d-8ce2-cba73b8cd28b ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Trägheit (Physik)"@de .
+
+physik:80ed4e25-e1e8-4da5-b73f-802cb5c5895f a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Knoll, Max"@de .
+
+physik:8155e949-a967-4305-bff6-2816177ed134 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Braun, Wernher von"@de .
+
+physik:81d8746d-bd26-4282-8a37-48e9aaa4977e a skos:Concept ;
+    skos:broader physik:117a5935-db31-4e6f-bf73-dece7ce24a60 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Rakete"@de .
+
+physik:820370d4-3713-42ee-84a8-c8779b8deaa3 a skos:Concept ;
+    skos:broader physik:ef28a5d1-e19b-4ab3-a92e-0935f5919384 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Bipolare Ansteuerung"@de .
+
+physik:8745a60b-9bfc-4e0b-927a-a8da3008bec3 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Planck, Max"@de .
+
+physik:88b34485-cedd-44c3-80a4-d9ab5d5328b9 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Avogadro, Amedeo"@de .
+
+physik:8a32f5bc-9f3c-4573-b33b-2337fd68a96f a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Newton, Isaac"@de .
+
+physik:8bf18bea-9144-45fc-8b53-ea51f81efec9 a skos:Concept ;
+    skos:broader physik:ef8a9c90-e869-4471-9aa2-a60711e814b6 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Wechselwirkung (fundamentale)"@de .
+
+physik:8bf976a4-136f-4a2a-9993-6b96c3f292aa a skos:Concept ;
+    skos:broader physik:b24b26a0-da9e-4c0f-b806-0c35bb777e56 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Oszillograf"@de .
+
+physik:8c0d6542-4505-4e12-b3c1-84cac6285142 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Westinghouse, George"@de .
+
+physik:8f44283e-35b7-4b1a-a392-0aab4aa86a00 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Halley, Edmond"@de .
+
+physik:8f49c021-235b-493f-8461-a0b4c9f99292 a skos:Concept ;
+    skos:broader physik:ef62039e-fe2e-49cf-b829-02b24c2981d8 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Saturn (Planet)"@de .
+
+physik:923c8361-d585-4ea4-98fb-0d6bd3b1bc50 a skos:Concept ;
+    skos:broader physik:4d358ade-a762-4104-86d2-dff771fd2348 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Gleichstrom"@de .
+
+physik:92b4539e-6926-4603-95d5-84cdaa7cb15f a skos:Concept ;
+    skos:broader physik:d1e1bde5-7c7d-4b53-ac6c-64f640f8a63a ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Braunsche Röhre"@de .
+
+physik:9598d579-5f6a-477d-862f-bf741d5b5fb7 a skos:Concept ;
+    skos:broader physik:d372a6f8-9026-43e8-8e1d-6e3ab9990c6f ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Solarenergie"@de .
+
+physik:95a11d55-d3c2-410b-8ace-d784eb587891 a skos:Concept ;
+    skos:broader physik:ef28a5d1-e19b-4ab3-a92e-0935f5919384 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Dipol"@de .
+
+physik:96842e2a-1e29-493d-a448-eb5e91813dcd a skos:Concept ;
+    skos:broader physik:1706be2c-5ce4-4581-9420-2624a302ff6b ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Kernwaffe"@de .
+
+physik:97cad0bf-7193-4f62-8d5d-56620f1db391 a skos:Concept ;
+    skos:broader physik:4d358ade-a762-4104-86d2-dff771fd2348 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Isolator (Elektrotechnik)"@de .
+
+physik:999238c4-a5a6-4c8c-ab6f-1330e64c6e34 a skos:Concept ;
+    skos:broader physik:cf66080d-03b2-450d-92f0-523cfd0f1878 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Adhäsion"@de .
+
+physik:99dea983-f34d-43e7-b3fc-012600248eb9 a skos:Concept ;
+    skos:broader physik:9f34e02f-ddea-41cc-8464-6db5b1e9b975 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Objektiv (Optik)"@de .
+
+physik:9b3aa659-b231-4907-9698-6f00d471ef23 a skos:Concept ;
+    skos:broader physik:ef28a5d1-e19b-4ab3-a92e-0935f5919384 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Stromkreis"@de .
+
+physik:9c3b5ce6-cc74-426a-99f6-3ef777b28e9b a skos:Concept ;
+    skos:broader physik:ef62039e-fe2e-49cf-b829-02b24c2981d8 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Venus (Planet)"@de .
+
+physik:9d15d1e1-8593-414c-8e19-d11369f26a9f a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Meißner, Walther"@de .
+
+physik:9d4b5342-755d-4521-bc51-0d8b3f325014 a skos:Concept ;
+    skos:broader physik:ef28a5d1-e19b-4ab3-a92e-0935f5919384 ;
     skos:inScheme physik: ;
     skos:prefLabel "Halbleiter"@de .
 
-physik:fb542a6c-ba9b-4c95-b4a4-47941850d507 a skos:Concept ;
-    skos:broader physik:3f2c1fe3-c6ab-44af-a8c6-d38f5e8ce432 ;
+physik:a0bef59a-adf5-4710-895b-1f426cb6b599 a skos:Concept ;
+    skos:broader physik:b24b26a0-da9e-4c0f-b806-0c35bb777e56 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Laser"@de .
+
+physik:a0f07207-5513-41ea-af94-18d94c9fa696 a skos:Concept ;
+    skos:broader physik:8a27fc1e-cae8-46dd-8eaa-2f34fe954084 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Dünnschliff"@de .
+
+physik:a1da2714-f4ec-4663-9385-79aeb7b61c1c a skos:Concept ;
+    skos:broader physik:08aeac90-e9c1-4eaf-97cb-35d91e3e78f5 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Digitale Fotografie"@de .
+
+physik:a2211719-319f-4e00-9dd8-f48f45074f7c a skos:Concept ;
+    skos:broader physik:cf66080d-03b2-450d-92f0-523cfd0f1878 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Kondensation (Physik)"@de .
+
+physik:a333965b-aa3c-42ef-9d24-3c03c12bced5 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Jenny, Hans"@de .
+
+physik:a35ab242-dab4-4b27-b58d-c7c843dddd10 a skos:Concept ;
+    skos:broader physik:ef62039e-fe2e-49cf-b829-02b24c2981d8 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Mars (Planet)"@de .
+
+physik:a3e08818-9ace-4a9b-8ab2-5a5da0a2c288 a skos:Concept ;
+    skos:broader physik:ef28a5d1-e19b-4ab3-a92e-0935f5919384 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Dotierung"@de .
+
+physik:a5c0b621-521e-456e-8183-db667a3e396d a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Watt, James"@de .
+
+physik:a5eb1b92-f02e-4bc8-a667-c38d3c3ec5db a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Maimann, Theodore"@de .
+
+physik:a8566448-b367-4074-9f17-ebdea77cce16 a skos:Concept ;
+    skos:broader physik:cf66080d-03b2-450d-92f0-523cfd0f1878 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Zahnrad"@de .
+
+physik:a89554b4-2df4-4feb-b103-c8c9f36c2e5c a skos:Concept ;
+    skos:broader physik:d372a6f8-9026-43e8-8e1d-6e3ab9990c6f ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Nichtleiter"@de .
+
+physik:aa19119e-e34b-4b9b-9525-0db98fa1dbd4 a skos:Concept ;
+    skos:broader physik:f02b7fee-84b4-489b-b81d-ecfe6826a4e4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Überstromschutzeinrichtung"@de .
+
+physik:abbf1231-9950-4dd3-b4a3-c42ece500430 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Drais, CarlFriedrich"@de .
+
+physik:acc28d65-18e4-4d22-974a-6ad34f0c898f a skos:Concept ;
+    skos:broader physik:ef28a5d1-e19b-4ab3-a92e-0935f5919384 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Nebelkammer"@de .
+
+physik:ad5c5d07-484f-4492-9b0a-adbe989f1836 a skos:Concept ;
+    skos:broader physik:08aeac90-e9c1-4eaf-97cb-35d91e3e78f5 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Daguerreotypie"@de .
+
+physik:ae345e70-5dd0-435a-bc6e-b3a4f29310e7 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Siemens, Werner von"@de .
+
+physik:ae3d0983-5919-4f97-81b4-b47cca466f59 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Fermi, Enrico"@de .
+
+physik:ae68d9e4-f266-4d10-8eb8-6a7ff11ff6d8 a skos:Concept ;
+    skos:broader physik:d4d0eb06-f876-43a2-852e-289966ab4051 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Lichtgeschwindigkeit"@de .
+
+physik:aeb47b3d-1760-4f31-84b5-80f093d7c616 a skos:Concept ;
+    skos:broader physik:1706be2c-5ce4-4581-9420-2624a302ff6b ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Kernbrennstoff"@de .
+
+physik:af07b326-c757-455b-8a65-fb2b67982036 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Daguerre, Louis"@de .
+
+physik:afbd2903-822f-4140-80af-8e8abe297823 a skos:Concept ;
+    skos:broader physik:cf66080d-03b2-450d-92f0-523cfd0f1878 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Drehachse"@de .
+
+physik:b00e1915-f2f8-4593-9f43-14245161155c a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Fraunhofer, Joseph"@de .
+
+physik:b0ead345-02e5-4975-b41f-7054df2016b9 a skos:Concept ;
+    skos:broader physik:0db11fa8-1bff-4d33-9c4d-a602ebebc244 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Sonnenfinsternis"@de .
+
+physik:b3733fe9-17ac-4982-bf0f-e24b75f1c1b6 a skos:Concept ;
+    skos:broader physik:08aeac90-e9c1-4eaf-97cb-35d91e3e78f5 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Sofortbildfotografie"@de .
+
+physik:b41785fb-1ccb-4960-953c-0a41f57b73e0 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Stauss, Joseph Baermann"@de .
+
+physik:b536d3d6-3119-4b36-b4a0-9965bdd7e0dc a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Sikorsky, Igor Iwanowitsch"@de .
+
+physik:b56aac41-d305-4560-b522-e64add2cd5f3 a skos:Concept ;
+    skos:broader physik:cf66080d-03b2-450d-92f0-523cfd0f1878 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Aerodynamik"@de .
+
+physik:b6b5ea4b-c6cb-43e2-b212-c7c7b444521f a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Ardenne, Manfred von"@de .
+
+physik:b6ce57ab-4468-4996-bc5d-99760ce21c87 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Schrödinger, Erwin "@de .
+
+physik:b9566e15-9cd0-4677-ae6f-83c2d2d7fbf2 a skos:Concept ;
+    skos:broader physik:1706be2c-5ce4-4581-9420-2624a302ff6b ;
+    skos:inScheme physik: ;
+    skos:prefLabel "CERN"@de .
+
+physik:b9700f72-eebd-4998-bd0e-38f9de9553f3 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Linde, Carl von"@de .
+
+physik:ba134140-c4cd-429a-b1d8-d4c43e50dce1 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Whittle, Frank"@de .
+
+physik:ba168d87-356e-40f9-8b85-709bb0752b99 a skos:Concept ;
+    skos:broader physik:266cd666-7acf-4706-b0e5-35ecd3c823c8 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Vakuum"@de .
+
+physik:ba8c6f62-4f13-469d-a374-97509e33e648 a skos:Concept ;
+    skos:broader physik:7fc479f4-b175-440a-9a5f-c7370a238e55 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Magnetometer"@de .
+
+physik:baae0977-8628-47f8-baa7-0a42891af855 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Nipkow, Paul Julius Gottlieb"@de .
+
+physik:bbf4247a-3114-4dd3-89a8-b724a03d5b7c a skos:Concept ;
+    skos:broader physik:ef28a5d1-e19b-4ab3-a92e-0935f5919384 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Elektrode"@de .
+
+physik:bc2d658f-2e60-411e-a1aa-e0191c61372c a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Zworykin, Vladimir Kosma"@de .
+
+physik:bc3438f3-a24e-4b29-be2c-ea043c62e39d a skos:Concept ;
+    skos:broader physik:4d358ade-a762-4104-86d2-dff771fd2348 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Generator"@de .
+
+physik:bc93f4df-8e32-45cf-b544-e436530361b4 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Edison, Thomas Alva"@de .
+
+physik:bd4bbfaa-b46e-4345-8c5e-666dbdbd8e7e a skos:Concept ;
+    skos:broader physik:98ba65f4-0f54-46b9-a968-5bcca87a09ac ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Wellenlänge"@de .
+
+physik:be7542ee-2f82-4d94-b8cb-4754fcd7e668 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Nostradamus"@de .
+
+physik:c0f75951-429a-4c23-bbfd-6cf1cbc8ce9f a skos:Concept ;
+    skos:broader physik:b24b26a0-da9e-4c0f-b806-0c35bb777e56 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Kamera"@de .
+
+physik:c1fbab21-eb1e-4d6d-a539-d1c61fccace8 a skos:Concept ;
+    skos:broader physik:b24b26a0-da9e-4c0f-b806-0c35bb777e56 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Teleskop"@de .
+
+physik:c32e9256-cf21-4347-9883-937c22fc2fef a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Oberth, Hermann"@de .
+
+physik:c40fd968-1671-40f8-a1c4-eb7a827b3898 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Hertz, Heinrich"@de .
+
+physik:c463bbb7-9b5f-433a-86d9-d40f8befae0a a skos:Concept ;
+    skos:broader physik:a7838e2f-afe8-467a-ac8b-bf0f07646889 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Einfallswinkel"@de .
+
+physik:c5370af0-8c0c-4d78-a848-3255b8f1761f a skos:Concept ;
+    skos:broader physik:ef28a5d1-e19b-4ab3-a92e-0935f5919384 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Verstärker (Elektrotechnik)"@de .
+
+physik:c69c4910-447a-480e-9c01-2f9875805c65 a skos:Concept ;
+    skos:broader physik:cf66080d-03b2-450d-92f0-523cfd0f1878 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Brücke (Bauwerk)"@de .
+
+physik:c79448f0-9f89-4653-b77a-bc9a09a5abae a skos:Concept ;
+    skos:broader physik:c60454cd-2c6f-44b3-aa41-a12805e72f90 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Telefon"@de .
+
+physik:c8c5aaf7-1fce-4de1-9afe-6367de5eef8c a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Brahe, Tycho"@de .
+
+physik:c8da2ae5-e597-4eaf-a5c1-7169f5be8c1d a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Ruska, Ernst"@de .
+
+physik:c8e748ed-b06a-4fb9-b7a9-038f530f0755 a skos:Concept ;
+    skos:broader physik:27996ddc-ff4c-457e-b106-10778ea1b3fe ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Konvektion"@de .
+
+physik:ca4b4873-8646-44d7-8208-6759b2410673 a skos:Concept ;
+    skos:broader physik:1706be2c-5ce4-4581-9420-2624a302ff6b ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Halbwertszeit"@de .
+
+physik:ca9b1df3-9b0a-46c3-9cf9-787596d2831a a skos:Concept ;
+    skos:broader physik:98e488ff-00ea-4974-bb2c-2adf751492e9 ;
     skos:inScheme physik: ;
     skos:prefLabel "Barometer"@de .
 
-physik:fbae9f11-f523-4397-ba96-3b053e555777 a skos:Concept ;
-    skos:broader physik:94fd726c-1369-44ee-9435-231e22710b0e ;
+physik:cc40b07d-194e-4807-968b-0315fc95031d a skos:Concept ;
+    skos:broader physik:cf66080d-03b2-450d-92f0-523cfd0f1878 ;
     skos:inScheme physik: ;
-    skos:prefLabel "Teilchenbeschleuniger"@de .
+    skos:prefLabel "Kristall"@de .
 
-physik:fd6101e9-96bf-4b6f-a151-7b39c657cfad a skos:Concept ;
-    skos:broader physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 ;
+physik:ccf3cd5c-6b15-47a6-bb68-d178a58d2468 a skos:Concept ;
+    skos:broader physik:cf66080d-03b2-450d-92f0-523cfd0f1878 ;
     skos:inScheme physik: ;
-    skos:prefLabel "Bethe, Hans"@de .
+    skos:prefLabel "Rad (Maschinenteil)"@de .
 
-physik:fdec4a0d-a932-4eff-aaa6-3f85d6c6b042 a skos:Concept ;
-    skos:broader physik:e8f82640-12e8-4707-a711-a4099bf9d393 ;
+physik:cd5eb18c-0e7a-4321-8ce4-78cfc6dc6121 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "MacCready, Paul"@de .
+
+physik:cd641500-fdfa-4c21-b4ab-ca0b1a229023 a skos:Concept ;
+    skos:broader physik:ef28a5d1-e19b-4ab3-a92e-0935f5919384 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Transformator"@de .
+
+physik:ce07b883-1d78-43bd-8d1d-34dc0cdd6c1c a skos:Concept ;
+    skos:broader physik:98e488ff-00ea-4974-bb2c-2adf751492e9 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Windmesser"@de .
+
+physik:cfc47c21-647b-4f1f-8b29-a0bcdfd9f35e a skos:Concept ;
+    skos:broader physik:cf66080d-03b2-450d-92f0-523cfd0f1878 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Lotuseffekt"@de .
+
+physik:d16193a8-365d-4711-a8bd-33420ade4ec6 a skos:Concept ;
+    skos:broader physik:cf66080d-03b2-450d-92f0-523cfd0f1878 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Oberflächenspannung"@de .
+
+physik:d2c88bd6-838f-4b0e-bb11-6cea3eaa9a07 a skos:Concept ;
+    skos:broader physik:ebe2d114-3bce-41a1-9536-a84cba2f9dbc ;
     skos:inScheme physik: ;
     skos:prefLabel "Photoeffekt"@de .
 
-physik:fe876b52-f119-46de-8c4f-dc2e7df86259 a skos:Concept ;
-    skos:broader physik:a7cefabf-fc43-4aef-b9d9-06406d96fadd ;
+physik:d41f0a92-d0ad-42d3-bcf6-b39e38b7e46e a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Volta, Alessandro Graf"@de .
+
+physik:d49ee037-e48c-43be-b854-6554a6bf886e a skos:Concept ;
+    skos:broader physik:4d358ade-a762-4104-86d2-dff771fd2348 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Ultraschall"@de .
+
+physik:d5412aba-5d7b-45f8-b364-c948e5df6349 a skos:Concept ;
+    skos:broader physik:98e488ff-00ea-4974-bb2c-2adf751492e9 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Thermostat"@de .
+
+physik:d5709a91-5e27-4e23-b4b6-dc206f4c81a4 a skos:Concept ;
+    skos:broader physik:8d912364-e641-442f-9316-585fb7a87339 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Ekliptik"@de .
+
+physik:d5a49d63-fa98-424d-ae55-3ce16c796500 a skos:Concept ;
+    skos:broader physik:ef28a5d1-e19b-4ab3-a92e-0935f5919384 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Kurzschluss"@de .
+
+physik:d7a7faf2-2fa9-4c19-9c4b-d23992d93f05 a skos:Concept ;
+    skos:broader physik:cf66080d-03b2-450d-92f0-523cfd0f1878 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Masse (Physik)"@de .
+
+physik:d8aeac29-0134-428b-ac81-81ca0a4a3a2f a skos:Concept ;
+    skos:broader physik:cf66080d-03b2-450d-92f0-523cfd0f1878 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Turm"@de .
+
+physik:d9cf4568-5fbb-4103-bcbf-725565498d82 a skos:Concept ;
+    skos:broader physik:cf66080d-03b2-450d-92f0-523cfd0f1878 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Brownsche Bewegung"@de .
+
+physik:da58813f-743e-459d-ade7-5dbda56d1310 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Hubble, Edwin Powell"@de .
+
+physik:da9e553d-2e84-417c-9456-45b23514b9a2 a skos:Concept ;
+    skos:broader physik:2f2fb44d-2922-45d6-9b71-79a5af80e698 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Glühlampe"@de .
+
+physik:db70a251-1645-4efe-9796-add65822807f a skos:Concept ;
+    skos:broader physik:d372a6f8-9026-43e8-8e1d-6e3ab9990c6f ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Wärmeenergie"@de .
+
+physik:ddf138ac-e51d-4825-ad04-3a2420ca293e a skos:Concept ;
+    skos:broader physik:3f2714bd-cafe-46aa-86a6-616d6fa6d6e6 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Van-Allen-Gürtel"@de .
+
+physik:de51b0a8-f449-42c3-82b6-5daf95b7b2e7 a skos:Concept ;
+    skos:broader physik:ebe2d114-3bce-41a1-9536-a84cba2f9dbc ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Regenbogen"@de .
+
+physik:df38171b-495f-4dbf-b641-ad957e7e2750 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Rutherford, Ernest"@de .
+
+physik:df7bc96a-7892-4dcf-83fb-4d655eda15d9 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Zeiss, Carl"@de .
+
+physik:e1a371c4-9804-4dc1-8805-fc8690ccb4d2 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Hertz, Gustav"@de .
+
+physik:e213a30c-25c3-4b45-b40a-d61b824b5f91 a skos:Concept ;
+    skos:broader physik:900234da-104e-4713-8e2f-58803ff94157 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Farbenlehre"@de .
+
+physik:e2a26fa8-399d-4f42-a64a-e03663eca8b6 a skos:Concept ;
+    skos:broader physik:117a5935-db31-4e6f-bf73-dece7ce24a60 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Apollo-Programm"@de .
+
+physik:e4241d15-e59c-4475-8344-59e17ba512d4 a skos:Concept ;
+    skos:broader physik:ef28a5d1-e19b-4ab3-a92e-0935f5919384 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Unipolare Ansteuerung"@de .
+
+physik:e5c650d0-76e8-4eaf-a822-596f1120d667 a skos:Concept ;
+    skos:broader physik:4d358ade-a762-4104-86d2-dff771fd2348 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Klingel"@de .
+
+physik:e6b66c40-762b-435b-a19f-abeba0ae94a5 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Faraday, Michael"@de .
+
+physik:e9da3fa9-e528-4709-a732-483df6f3fb20 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Joliot, Frederic"@de .
+
+physik:ea7f0850-cf68-401a-b1e8-ed3e2549441d a skos:Concept ;
+    skos:broader physik:888ef0c3-cffd-4c17-b24a-646c42832c8f ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Wärmeleistung (Heiztechnik)"@de .
+
+physik:ea90abd7-030d-4a9d-85ad-12192e6d90b8 a skos:Concept ;
+    skos:broader physik:ef28a5d1-e19b-4ab3-a92e-0935f5919384 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Induktion (Elektrizität)"@de .
+
+physik:eaa3c2af-0e68-4d3e-bc55-56cde833fb62 a skos:Concept ;
+    skos:broader physik:cf66080d-03b2-450d-92f0-523cfd0f1878 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Schmiermittel"@de .
+
+physik:ed3ec3e9-5a2c-49a8-8969-80e057ffd009 a skos:Concept ;
+    skos:broader physik:0144ffe4-b73f-4c8b-8c6e-76ea80704ce3 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Urknall"@de .
+
+physik:ee6574ae-f7df-41ea-a6da-bb4496c31cc6 a skos:Concept ;
+    skos:broader physik:d372a6f8-9026-43e8-8e1d-6e3ab9990c6f ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Supraleiter"@de .
+
+physik:eeff5815-b3b3-43be-aabb-4b2caf2ee644 a skos:Concept ;
+    skos:broader physik:ebe2d114-3bce-41a1-9536-a84cba2f9dbc ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Lichtbrechung"@de .
+
+physik:f1901b34-c4eb-4ba7-a72f-3d238df6f9b1 a skos:Concept ;
+    skos:broader physik:ef62039e-fe2e-49cf-b829-02b24c2981d8 ;
     skos:inScheme physik: ;
     skos:prefLabel "Pluto (PLanat)"@de .
 
-physik:fe9c7ff7-6fd2-4603-9e5b-9455b22b0ac4 a skos:Concept ;
-    skos:broader physik:2db14809-c77e-4a55-b4e4-6063bf1e73ed ;
+physik:f258e0e4-371a-4cc7-9b62-96867035dfb1 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
     skos:inScheme physik: ;
-    skos:prefLabel "Batterie"@de .
+    skos:prefLabel "Brattain, Walter"@de .
 
-physik:004a9b33-80f7-4ff8-9abd-732f0ff3d129 a skos:Concept ;
-    skos:broader physik:aa521a47-ee9c-4aa5-b9bd-13981c5e0e03 ;
+physik:f2ababf8-079d-48c4-90ed-20069ae7f20e a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
     skos:inScheme physik: ;
-    skos:narrower physik:d67df614-7370-441d-875c-e658d54cb49f ;
+    skos:prefLabel "Binning, Gerd"@de .
+
+physik:f4503885-1727-4e71-9105-dc6562ccd02a a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Foucault, Jean Bernard Léon"@de .
+
+physik:f52f91c0-70e5-4a44-b2c5-77f7a2f80539 a skos:Concept ;
+    skos:broader physik:97075800-5507-42d3-864c-3503ca2b1442 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Lichtbogen"@de .
+
+physik:f6f74d04-b7b2-4bad-ae7f-b48d3060c7c2 a skos:Concept ;
+    skos:broader physik:ef28a5d1-e19b-4ab3-a92e-0935f5919384 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Widerstand (Physik)"@de .
+
+physik:f786790d-e42d-4b61-ada1-989c2778cc52 a skos:Concept ;
+    skos:broader physik:cf66080d-03b2-450d-92f0-523cfd0f1878 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Hydraulik"@de .
+
+physik:f89b25c9-6d8b-45fc-98ef-322761c5bd6d a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Montgolfier (Gebrüder)"@de .
+
+physik:f904eca4-9217-49bc-b7e0-a13a9d941ef6 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Maxwell, James Clark"@de .
+
+physik:fa4d19b4-9e12-4249-a253-bc9a43fd794f a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Ohm, Georg Simon"@de .
+
+physik:fb429234-d2a9-4f3c-89f3-5f28f589fc43 a skos:Concept ;
+    skos:broader physik:1706be2c-5ce4-4581-9420-2624a302ff6b ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Plasmaphysik"@de .
+
+physik:fba6f539-10b9-4c1f-be89-4e1e9976038c a skos:Concept ;
+    skos:broader physik:dbbe8dc9-4c4b-49ff-b03a-4cdccae33618 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Mondfinsternis"@de .
+
+physik:fbfc0135-9e51-435b-8814-d847a5ea3294 a skos:Concept ;
+    skos:broader physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Heisenberg, Werner"@de .
+
+physik:fc3857cc-90a5-4af6-b7c0-5e0e49d6f011 a skos:Concept ;
+    skos:broader physik:b24b26a0-da9e-4c0f-b806-0c35bb777e56 ;
+    skos:inScheme physik: ;
+    skos:prefLabel "Wölbspiegel"@de .
+
+physik:0db11fa8-1bff-4d33-9c4d-a602ebebc244 a skos:Concept ;
+    skos:broader physik:57207ea5-5109-44d9-8ecb-f895320dfd16 ;
+    skos:inScheme physik: ;
+    skos:narrower physik:b0ead345-02e5-4975-b41f-7054df2016b9 ;
     skos:prefLabel "Sonne"@de .
 
-physik:14f0aa51-ae6b-4955-92e6-6d6d9c7b2a62 a skos:Concept ;
-    skos:broader physik:d46458e0-a3db-4bfd-b6e5-9e8326d5283a ;
+physik:2f2fb44d-2922-45d6-9b71-79a5af80e698 a skos:Concept ;
+    skos:broader physik:12c84364-0d47-4749-b6fb-e2f3cab3faee ;
     skos:inScheme physik: ;
-    skos:narrower physik:bfaf68a9-f5a9-4364-ac9e-3d81a040717d ;
-    skos:prefLabel "Weltraumforschung"@de .
-
-physik:3b8d5c74-b366-45e2-9383-26b0d94396e4 a skos:Concept ;
-    skos:broader physik:3280b95a-2fca-45f4-9873-87538844bb56 ;
-    skos:inScheme physik: ;
-    skos:narrower physik:38ef5f93-729e-453d-aac2-6618c986a49b ;
-    skos:prefLabel "Wärmekraftmaschine"@de .
-
-physik:5b027e60-3ce8-4a9a-9b17-f45620a31b68 a skos:Concept ;
-    skos:broader physik:3d606f7d-f64b-46de-a18d-52f9dc21a303 ;
-    skos:inScheme physik: ;
-    skos:narrower physik:9176a1cd-b878-4cca-a92f-47f6b027cabc ;
-    skos:prefLabel "Gravitation"@de .
-
-physik:5ff8558f-a20f-4e10-99e2-07f707552676 a skos:Concept ;
-    skos:broader physik:b52f9462-5539-4e54-8ba1-93e320cde837 ;
-    skos:inScheme physik: ;
-    skos:narrower physik:622a5c4d-6e56-44ca-a6cd-bd219142f502 ;
-    skos:prefLabel "Mondphase"@de .
-
-physik:84388bc4-fda8-480c-af87-f9c331dc710b a skos:Concept ;
-    skos:broader physik:af294858-19ef-4dba-899b-1d9749da6990 ;
-    skos:inScheme physik: ;
-    skos:narrower physik:6928a79b-74ab-4b6c-94d0-a74250d2c76e ;
-    skos:prefLabel "Linse (Optik)"@de .
-
-physik:8ecbd3e7-3e8f-45c9-aa55-3e899289b0d4 a skos:Concept ;
-    skos:broader physik:b8a96bb5-c438-48d2-92df-c1e2a2aac03f ;
-    skos:inScheme physik: ;
-    skos:narrower physik:67c8a758-3691-4a46-aa6c-3fec277c6c4b ;
-    skos:prefLabel "Fernsehtechnik"@de .
-
-physik:9bbe656a-29a0-485f-b9a8-4729e8691687 a skos:Concept ;
-    skos:broader physik:aa521a47-ee9c-4aa5-b9bd-13981c5e0e03 ;
-    skos:inScheme physik: ;
-    skos:narrower physik:5349677e-c565-41a4-8dbd-e518950ee96a ;
-    skos:prefLabel "Keplersche Gesetze"@de .
-
-physik:9eb18913-a66f-4c16-864f-0ba46bb4b460 a skos:Concept ;
-    skos:broader physik:691df043-fb27-4896-80a5-715785e24ed6 ;
-    skos:inScheme physik: ;
-    skos:narrower physik:d0934502-ef0b-4488-8977-56d2a57027dd ;
-    skos:prefLabel "Farbe"@de .
-
-physik:a9f19aac-8329-4b7d-a3a4-32d7b3f2bc53 a skos:Concept ;
-    skos:broader physik:3d606f7d-f64b-46de-a18d-52f9dc21a303 ;
-    skos:inScheme physik: ;
-    skos:narrower physik:0d63165d-d41a-4869-84e5-ac5614f1f390 ;
-    skos:prefLabel "Magnetismus"@de .
-
-physik:b21c4227-0cf0-4de4-b6ec-58618b0b09d2 a skos:Concept ;
-    skos:broader physik:b1e33dc0-9241-4f42-9252-d412937fba1b ;
-    skos:inScheme physik: ;
-    skos:narrower physik:a6368650-d99f-4603-80e3-d17b692abd0d ;
-    skos:prefLabel "Gasentladung"@de .
-
-physik:b5e77816-d682-4557-9bd8-2eab5476202b a skos:Concept ;
-    skos:broader physik:7f584c3e-b7b7-4e55-bc2b-df2fd01fd0c7 ;
-    skos:inScheme physik: ;
-    skos:narrower physik:aa188a54-75e2-49c8-8e80-ea689848bf07 ;
-    skos:prefLabel "Relativitätstheorie"@de .
-
-physik:b6250dcf-10b3-4386-b15e-f8a1cebe9815 a skos:Concept ;
-    skos:broader physik:aa521a47-ee9c-4aa5-b9bd-13981c5e0e03 ;
-    skos:inScheme physik: ;
-    skos:narrower physik:7d65dadc-e781-4da7-aa82-dfa90a828b0b ;
-    skos:prefLabel "Komet"@de .
-
-physik:b9a3c4de-445e-40ef-84e3-a1952228e30c a skos:Concept ;
-    skos:broader physik:2db14809-c77e-4a55-b4e4-6063bf1e73ed ;
-    skos:inScheme physik: ;
-    skos:narrower physik:918452ea-c978-4fe7-9e20-6eb290db6b0f ;
-    skos:prefLabel "Schutzmaßnahme (Elektrik)"@de .
-
-physik:c706a1a6-74b6-4b13-8037-09103108504d a skos:Concept ;
-    skos:broader physik:7f584c3e-b7b7-4e55-bc2b-df2fd01fd0c7 ;
-    skos:inScheme physik: ;
-    skos:narrower physik:aa521a47-ee9c-4aa5-b9bd-13981c5e0e03 ;
-    skos:prefLabel "Astronomie"@de .
-
-physik:d46458e0-a3db-4bfd-b6e5-9e8326d5283a a skos:Concept ;
-    skos:broader physik:aa521a47-ee9c-4aa5-b9bd-13981c5e0e03 ;
-    skos:inScheme physik: ;
-    skos:narrower physik:14f0aa51-ae6b-4955-92e6-6d6d9c7b2a62 ;
-    skos:prefLabel "Weltraum"@de .
-
-physik:ee7378c0-1234-46ab-b628-936273db2017 a skos:Concept ;
-    skos:broader physik:4a02d3db-6e96-45c0-8899-77d8a9fe570a ;
-    skos:inScheme physik: ;
-    skos:narrower physik:da5342c6-3a73-4de6-ab54-24f4d1c0c415 ;
-    skos:prefLabel "Feuer"@de .
-
-physik:f9cf5fd0-8ba6-4764-bd2e-8f4e1c57ed77 a skos:Concept ;
-    skos:broader physik:7f584c3e-b7b7-4e55-bc2b-df2fd01fd0c7 ;
-    skos:inScheme physik: ;
-    skos:narrower physik:ccabb060-3b44-4591-b057-cfacf070fc7f ;
-    skos:prefLabel "Heizung"@de .
-
-physik:fea4815b-feef-48dd-a906-e0423e08aed6 a skos:Concept ;
-    skos:broader physik:e2696cff-7acc-47b8-8798-94b68a096d06 ;
-    skos:inScheme physik: ;
-    skos:narrower physik:805664f2-9616-4086-b5db-81f97bdb989e ;
+    skos:narrower physik:da9e553d-2e84-417c-9456-45b23514b9a2 ;
     skos:prefLabel "Lampe"@de .
 
-physik:02761eec-215c-45c0-bc85-cb496ec2023b a skos:Concept ;
-    skos:broader physik:3280b95a-2fca-45f4-9873-87538844bb56 ;
+physik:33aac1e3-9cc0-4dbc-b107-d156254489df a skos:Concept ;
+    skos:broader physik:ef8a9c90-e869-4471-9aa2-a60711e814b6 ;
     skos:inScheme physik: ;
-    skos:narrower physik:5c2fe471-de0f-40dc-9436-ab4559195a25,
-        physik:8753f414-bd63-471e-bb70-b3764c5303f8 ;
-    skos:prefLabel "Geschwindigkeit"@de .
+    skos:narrower physik:57207ea5-5109-44d9-8ecb-f895320dfd16 ;
+    skos:prefLabel "Astronomie"@de .
 
-physik:088e5645-f350-4ef7-974f-269bc35b3d4f a skos:Concept ;
-    skos:broader physik:7f584c3e-b7b7-4e55-bc2b-df2fd01fd0c7 ;
+physik:62e415ed-c16a-42a6-b687-15007dae35ed a skos:Concept ;
+    skos:broader physik:57207ea5-5109-44d9-8ecb-f895320dfd16 ;
     skos:inScheme physik: ;
-    skos:narrower physik:49b7e8bc-4b52-4a26-8606-548c6f768d7e,
-        physik:ea4a799c-aea1-4a08-9a07-fe17e71bc68c ;
+    skos:narrower physik:77d43258-4c99-4716-9c6b-f0e7b0f4fdcd ;
+    skos:prefLabel "Weltraum"@de .
+
+physik:6e35fbcf-973b-4fb6-b429-4567ccb71c49 a skos:Concept ;
+    skos:broader physik:ef8a9c90-e869-4471-9aa2-a60711e814b6 ;
+    skos:inScheme physik: ;
+    skos:narrower physik:0a3a652b-b5bb-4adf-a795-82ff8fc25499 ;
+    skos:prefLabel "Relativitätstheorie"@de .
+
+physik:7161228a-831b-4ee5-b465-35d437d6f182 a skos:Concept ;
+    skos:broader physik:4a7a15a8-03dd-432d-8962-e80a8f5a27f1 ;
+    skos:inScheme physik: ;
+    skos:narrower physik:6ff5a3cd-fb0f-4b42-a78b-2cbec78aa68c ;
+    skos:prefLabel "Feuer"@de .
+
+physik:77d43258-4c99-4716-9c6b-f0e7b0f4fdcd a skos:Concept ;
+    skos:broader physik:62e415ed-c16a-42a6-b687-15007dae35ed ;
+    skos:inScheme physik: ;
+    skos:narrower physik:117a5935-db31-4e6f-bf73-dece7ce24a60 ;
+    skos:prefLabel "Weltraumforschung"@de .
+
+physik:7fc479f4-b175-440a-9a5f-c7370a238e55 a skos:Concept ;
+    skos:broader physik:0144ffe4-b73f-4c8b-8c6e-76ea80704ce3 ;
+    skos:inScheme physik: ;
+    skos:narrower physik:ba8c6f62-4f13-469d-a374-97509e33e648 ;
+    skos:prefLabel "Magnetismus"@de .
+
+physik:888ef0c3-cffd-4c17-b24a-646c42832c8f a skos:Concept ;
+    skos:broader physik:ef8a9c90-e869-4471-9aa2-a60711e814b6 ;
+    skos:inScheme physik: ;
+    skos:narrower physik:ea7f0850-cf68-401a-b1e8-ed3e2549441d ;
+    skos:prefLabel "Heizung"@de .
+
+physik:8d912364-e641-442f-9316-585fb7a87339 a skos:Concept ;
+    skos:broader physik:57207ea5-5109-44d9-8ecb-f895320dfd16 ;
+    skos:inScheme physik: ;
+    skos:narrower physik:d5709a91-5e27-4e23-b4b6-dc206f4c81a4 ;
+    skos:prefLabel "Keplersche Gesetze"@de .
+
+physik:900234da-104e-4713-8e2f-58803ff94157 a skos:Concept ;
+    skos:broader physik:a7838e2f-afe8-467a-ac8b-bf0f07646889 ;
+    skos:inScheme physik: ;
+    skos:narrower physik:e213a30c-25c3-4b45-b40a-d61b824b5f91 ;
+    skos:prefLabel "Farbe"@de .
+
+physik:97075800-5507-42d3-864c-3503ca2b1442 a skos:Concept ;
+    skos:broader physik:ef28a5d1-e19b-4ab3-a92e-0935f5919384 ;
+    skos:inScheme physik: ;
+    skos:narrower physik:f52f91c0-70e5-4a44-b2c5-77f7a2f80539 ;
+    skos:prefLabel "Gasentladung"@de .
+
+physik:99061e38-e85b-49f3-a723-cb16c6f7fe31 a skos:Concept ;
+    skos:broader physik:cf66080d-03b2-450d-92f0-523cfd0f1878 ;
+    skos:inScheme physik: ;
+    skos:narrower physik:0b09642b-60b8-42dc-aa18-cddec2aefb3a ;
+    skos:prefLabel "Wärmekraftmaschine"@de .
+
+physik:9f34e02f-ddea-41cc-8464-6db5b1e9b975 a skos:Concept ;
+    skos:broader physik:b24b26a0-da9e-4c0f-b806-0c35bb777e56 ;
+    skos:inScheme physik: ;
+    skos:narrower physik:99dea983-f34d-43e7-b3fc-012600248eb9 ;
+    skos:prefLabel "Linse (Optik)"@de .
+
+physik:a5237692-e761-4d35-aafe-86ddafbc2dd1 a skos:Concept ;
+    skos:broader physik:0144ffe4-b73f-4c8b-8c6e-76ea80704ce3 ;
+    skos:inScheme physik: ;
+    skos:narrower physik:1dc0b6e3-a71e-417e-9241-c7970e123247 ;
+    skos:prefLabel "Gravitation"@de .
+
+physik:b2f72d21-a060-4c5c-a51a-a3cf0f0fc690 a skos:Concept ;
+    skos:broader physik:dbbe8dc9-4c4b-49ff-b03a-4cdccae33618 ;
+    skos:inScheme physik: ;
+    skos:narrower physik:2d31a74d-0703-4745-ad13-2145f53c33de ;
+    skos:prefLabel "Mondphase"@de .
+
+physik:cf50fd6d-1d0d-4002-9ac5-6f20da3b31ab a skos:Concept ;
+    skos:broader physik:57207ea5-5109-44d9-8ecb-f895320dfd16 ;
+    skos:inScheme physik: ;
+    skos:narrower physik:3e4f38df-8cc3-4106-971b-1a8f32e54eac ;
+    skos:prefLabel "Komet"@de .
+
+physik:d1e1bde5-7c7d-4b53-ac6c-64f640f8a63a a skos:Concept ;
+    skos:broader physik:c60454cd-2c6f-44b3-aa41-a12805e72f90 ;
+    skos:inScheme physik: ;
+    skos:narrower physik:92b4539e-6926-4603-95d5-84cdaa7cb15f ;
+    skos:prefLabel "Fernsehtechnik"@de .
+
+physik:f02b7fee-84b4-489b-b81d-ecfe6826a4e4 a skos:Concept ;
+    skos:broader physik:4d358ade-a762-4104-86d2-dff771fd2348 ;
+    skos:inScheme physik: ;
+    skos:narrower physik:aa19119e-e34b-4b9b-9525-0db98fa1dbd4 ;
+    skos:prefLabel "Schutzmaßnahme (Elektrik)"@de .
+
+physik:012bf173-23b8-410d-8ce2-cba73b8cd28b a skos:Concept ;
+    skos:broader physik:ef8a9c90-e869-4471-9aa2-a60711e814b6 ;
+    skos:inScheme physik: ;
+    skos:narrower physik:5d94db98-d041-4d69-b0b6-843462825be5,
+        physik:80adca46-9d9e-441e-811e-e2b3047e66e7 ;
     skos:prefLabel "Bewegung (Physik)"@de .
 
-physik:0c651930-2a04-4bc2-8036-8c0f3ec80b14 a skos:Concept ;
-    skos:broader physik:3280b95a-2fca-45f4-9873-87538844bb56 ;
+physik:0e54e925-cd4c-4cda-b0af-a51719c80cda a skos:Concept ;
+    skos:broader physik:cf66080d-03b2-450d-92f0-523cfd0f1878 ;
     skos:inScheme physik: ;
-    skos:narrower physik:b55c1105-3919-4d7c-9bcf-54ea45c88948,
-        physik:e13884b3-f913-48e6-b2ed-8294a5ac9413 ;
-    skos:prefLabel "Druck (Physik)"@de .
-
-physik:8e707ef5-ed71-4471-8df4-8541f568518c a skos:Concept ;
-    skos:broader physik:3280b95a-2fca-45f4-9873-87538844bb56 ;
-    skos:inScheme physik: ;
-    skos:narrower physik:3b028736-2460-4007-9142-011002540a53,
-        physik:7e6b4554-d592-4110-8a06-e4eb08f8651f ;
+    skos:narrower physik:5df82a9a-7f46-4fee-81d2-e5231bfdc759,
+        physik:72a6170a-d4d4-412a-a153-18377929c26c ;
     skos:prefLabel "Kraft"@de .
 
-physik:b52f9462-5539-4e54-8ba1-93e320cde837 a skos:Concept ;
-    skos:broader physik:63e78150-6483-4d30-b9c6-b6298cbd624d ;
+physik:266cd666-7acf-4706-b0e5-35ecd3c823c8 a skos:Concept ;
+    skos:broader physik:cf66080d-03b2-450d-92f0-523cfd0f1878 ;
     skos:inScheme physik: ;
-    skos:narrower physik:5ff8558f-a20f-4e10-99e2-07f707552676,
-        physik:fa30ecdb-028e-41ac-b4f4-49b2d73d05e7 ;
+    skos:narrower physik:62dc2825-9500-4421-a26b-daad4aaa21f3,
+        physik:ba168d87-356e-40f9-8b85-709bb0752b99 ;
+    skos:prefLabel "Druck (Physik)"@de .
+
+physik:d4d0eb06-f876-43a2-852e-289966ab4051 a skos:Concept ;
+    skos:broader physik:cf66080d-03b2-450d-92f0-523cfd0f1878 ;
+    skos:inScheme physik: ;
+    skos:narrower physik:36130261-2689-4708-aade-5fc5bc4c9693,
+        physik:ae68d9e4-f266-4d10-8eb8-6a7ff11ff6d8 ;
+    skos:prefLabel "Geschwindigkeit"@de .
+
+physik:dbbe8dc9-4c4b-49ff-b03a-4cdccae33618 a skos:Concept ;
+    skos:broader physik:3f2714bd-cafe-46aa-86a6-616d6fa6d6e6 ;
+    skos:inScheme physik: ;
+    skos:narrower physik:b2f72d21-a060-4c5c-a51a-a3cf0f0fc690,
+        physik:fba6f539-10b9-4c1f-be89-4e1e9976038c ;
     skos:prefLabel "Mond"@de .
 
-physik:1ea4da37-fc15-4319-8de2-ca7fa1c0d211 a skos:Concept ;
-    skos:broader physik:af294858-19ef-4dba-899b-1d9749da6990 ;
+physik:27996ddc-ff4c-457e-b106-10778ea1b3fe a skos:Concept ;
+    skos:broader physik:4a7a15a8-03dd-432d-8962-e80a8f5a27f1 ;
     skos:inScheme physik: ;
-    skos:narrower physik:1752017a-cb56-4c34-9b74-50a2a92f1910,
-        physik:2f3cd2b7-b7a2-4b6a-a11a-b9af2c20e192,
-        physik:ab08e925-1b24-41c4-aeaf-8d81f09e1559 ;
-    skos:prefLabel "Mikroskop"@de .
-
-physik:4a02d3db-6e96-45c0-8899-77d8a9fe570a a skos:Concept ;
-    skos:broader physik:3280b95a-2fca-45f4-9873-87538844bb56 ;
-    skos:inScheme physik: ;
-    skos:narrower physik:1bd6d721-7394-444d-abb3-63acc61df5bf,
-        physik:a0206910-705d-4db4-85ff-bccec04a81b8,
-        physik:ee7378c0-1234-46ab-b628-936273db2017 ;
-    skos:prefLabel "Wärme"@de .
-
-physik:63e78150-6483-4d30-b9c6-b6298cbd624d a skos:Concept ;
-    skos:broader physik:a7cefabf-fc43-4aef-b9d9-06406d96fadd ;
-    skos:inScheme physik: ;
-    skos:narrower physik:45515a42-9f27-431f-a11e-d942cd0b13f2,
-        physik:571ed287-5132-4523-ae81-538ec25cc5be,
-        physik:b52f9462-5539-4e54-8ba1-93e320cde837 ;
-    skos:prefLabel "Erde"@de .
-
-physik:a0206910-705d-4db4-85ff-bccec04a81b8 a skos:Concept ;
-    skos:broader physik:4a02d3db-6e96-45c0-8899-77d8a9fe570a ;
-    skos:inScheme physik: ;
-    skos:narrower physik:1c2fae36-a6ec-4382-bab7-3ddf09f3e551,
-        physik:e08db21e-e4af-4206-9ae7-71b193e820f8,
-        physik:f000223f-eea9-4557-b94b-913aff300231 ;
+    skos:narrower physik:1adf21ce-694b-4761-9dc4-a232a85ecafe,
+        physik:325437e2-7899-4e65-a72a-a68911ffd8d7,
+        physik:c8e748ed-b06a-4fb9-b7a9-038f530f0755 ;
     skos:prefLabel "Wärmeübertragung"@de .
 
-physik:3d606f7d-f64b-46de-a18d-52f9dc21a303 a skos:Concept ;
-    skos:broader physik:aa521a47-ee9c-4aa5-b9bd-13981c5e0e03 ;
+physik:3f2714bd-cafe-46aa-86a6-616d6fa6d6e6 a skos:Concept ;
+    skos:broader physik:ef62039e-fe2e-49cf-b829-02b24c2981d8 ;
     skos:inScheme physik: ;
-    skos:narrower physik:5021be17-c884-4108-a600-d227b1886c66,
-        physik:5b027e60-3ce8-4a9a-9b17-f45620a31b68,
-        physik:751dc5a2-b043-4c1c-a360-43163b75b6aa,
-        physik:a9f19aac-8329-4b7d-a3a4-32d7b3f2bc53 ;
+    skos:narrower physik:311be1bb-5027-4d5e-a9e5-7d2f849d3f03,
+        physik:dbbe8dc9-4c4b-49ff-b03a-4cdccae33618,
+        physik:ddf138ac-e51d-4825-ad04-3a2420ca293e ;
+    skos:prefLabel "Erde"@de .
+
+physik:4a7a15a8-03dd-432d-8962-e80a8f5a27f1 a skos:Concept ;
+    skos:broader physik:cf66080d-03b2-450d-92f0-523cfd0f1878 ;
+    skos:inScheme physik: ;
+    skos:narrower physik:27996ddc-ff4c-457e-b106-10778ea1b3fe,
+        physik:7161228a-831b-4ee5-b465-35d437d6f182,
+        physik:7ac93b07-f49b-4188-b8a4-f909c0657e6c ;
+    skos:prefLabel "Wärme"@de .
+
+physik:8a27fc1e-cae8-46dd-8eaa-2f34fe954084 a skos:Concept ;
+    skos:broader physik:b24b26a0-da9e-4c0f-b806-0c35bb777e56 ;
+    skos:inScheme physik: ;
+    skos:narrower physik:01a296c9-7e6b-4340-a2cd-ff61301d3c05,
+        physik:5be0f175-78ae-4eda-8bf3-be2bc0a43e36,
+        physik:a0f07207-5513-41ea-af94-18d94c9fa696 ;
+    skos:prefLabel "Mikroskop"@de .
+
+physik:0144ffe4-b73f-4c8b-8c6e-76ea80704ce3 a skos:Concept ;
+    skos:broader physik:57207ea5-5109-44d9-8ecb-f895320dfd16 ;
+    skos:inScheme physik: ;
+    skos:narrower physik:7f16e6fa-6502-415a-8648-96f974afef1b,
+        physik:7fc479f4-b175-440a-9a5f-c7370a238e55,
+        physik:a5237692-e761-4d35-aafe-86ddafbc2dd1,
+        physik:ed3ec3e9-5a2c-49a8-8969-80e057ffd009 ;
     skos:prefLabel "Weltbild"@de .
 
-physik:3dc03202-85a8-4ea4-aa5f-967b97a3a284 a skos:Concept ;
-    skos:broader physik:af294858-19ef-4dba-899b-1d9749da6990 ;
+physik:08aeac90-e9c1-4eaf-97cb-35d91e3e78f5 a skos:Concept ;
+    skos:broader physik:b24b26a0-da9e-4c0f-b806-0c35bb777e56 ;
     skos:inScheme physik: ;
-    skos:narrower physik:2c5e9178-efc3-4b42-915f-6cac0f750bc1,
-        physik:6ea7013a-822b-46ce-b8f9-b62a15fd27ac,
-        physik:7a4687b0-c8f1-4d2a-b13f-1ded6c8fbe99,
-        physik:b08e9bbc-d208-4f76-babd-5a61dbc166c0 ;
+    skos:narrower physik:48bf90f4-ac40-4e89-a0bb-28f00a5670b0,
+        physik:a1da2714-f4ec-4663-9385-79aeb7b61c1c,
+        physik:ad5c5d07-484f-4492-9b0a-adbe989f1836,
+        physik:b3733fe9-17ac-4982-bf0f-e24b75f1c1b6 ;
     skos:prefLabel "Fotografie"@de .
 
-physik:bfaf68a9-f5a9-4364-ac9e-3d81a040717d a skos:Concept ;
-    skos:broader physik:14f0aa51-ae6b-4955-92e6-6d6d9c7b2a62 ;
+physik:117a5935-db31-4e6f-bf73-dece7ce24a60 a skos:Concept ;
+    skos:broader physik:77d43258-4c99-4716-9c6b-f0e7b0f4fdcd ;
     skos:inScheme physik: ;
-    skos:narrower physik:2dfefe0c-80f9-4e78-9ed1-d9de1a0d686f,
-        physik:62d8cbd7-3bdf-49cc-8ac7-e02e9af40ddb,
-        physik:a2c5309a-d333-4a42-b821-fa872ef365f3,
-        physik:cd6fb94b-29ec-43c0-8220-451b93447afb ;
+    skos:narrower physik:19bee379-8613-43fd-ad4c-a4c22e26ff3e,
+        physik:1c2cd46f-429a-43af-9549-0944045f5a50,
+        physik:81d8746d-bd26-4282-8a37-48e9aaa4977e,
+        physik:e2a26fa8-399d-4f42-a64a-e03663eca8b6 ;
     skos:prefLabel "Weltraumfahrt"@de .
 
-physik:3f2c1fe3-c6ab-44af-a8c6-d38f5e8ce432 a skos:Concept ;
-    skos:broader physik:7f584c3e-b7b7-4e55-bc2b-df2fd01fd0c7 ;
+physik:98e488ff-00ea-4974-bb2c-2adf751492e9 a skos:Concept ;
+    skos:broader physik:ef8a9c90-e869-4471-9aa2-a60711e814b6 ;
     skos:inScheme physik: ;
-    skos:narrower physik:0e49ab59-4ca8-4d60-8628-8e0c5c432f60,
-        physik:0f9cfa60-8e74-4bb7-9531-1273cd27e1b0,
-        physik:1dd7ad69-ca67-45a3-8cb7-0cd89f354c3c,
-        physik:f370dc60-fd0b-4be4-a6c8-62297e758e79,
-        physik:fb542a6c-ba9b-4c95-b4a4-47941850d507 ;
+    skos:narrower physik:0b464120-ac25-4efa-b831-6a10f052ac35,
+        physik:7de1aed2-6757-4183-b5b7-ae0dcf24708a,
+        physik:ca9b1df3-9b0a-46c3-9cf9-787596d2831a,
+        physik:ce07b883-1d78-43bd-8d1d-34dc0cdd6c1c,
+        physik:d5412aba-5d7b-45f8-b364-c948e5df6349 ;
     skos:prefLabel "Messtechnik"@de .
 
-physik:e8f82640-12e8-4707-a711-a4099bf9d393 a skos:Concept ;
-    skos:broader physik:691df043-fb27-4896-80a5-715785e24ed6 ;
+physik:ebe2d114-3bce-41a1-9536-a84cba2f9dbc a skos:Concept ;
+    skos:broader physik:a7838e2f-afe8-467a-ac8b-bf0f07646889 ;
     skos:inScheme physik: ;
-    skos:narrower physik:4dd4c3b7-2476-4a67-808c-5c58d661ab45,
-        physik:a272ccea-1600-4be1-8b9f-293fd8de96b0,
-        physik:b8b13c3c-5e64-462b-9ced-4efe518628a7,
-        physik:d8e3cb9f-d412-4180-99ba-86fbc21134f8,
-        physik:fdec4a0d-a932-4eff-aaa6-3f85d6c6b042 ;
+    skos:narrower physik:386e5ba2-9bf3-45ea-ac0e-5449ef90488f,
+        physik:3a00e1ac-a9dc-4632-8d11-8762ec4532ee,
+        physik:d2c88bd6-838f-4b0e-bb11-6cea3eaa9a07,
+        physik:de51b0a8-f449-42c3-82b6-5daf95b7b2e7,
+        physik:eeff5815-b3b3-43be-aabb-4b2caf2ee644 ;
     skos:prefLabel "Licht"@de .
 
-physik:691df043-fb27-4896-80a5-715785e24ed6 a skos:Concept ;
-    skos:broader physik:af294858-19ef-4dba-899b-1d9749da6990 ;
+physik:12c84364-0d47-4749-b6fb-e2f3cab3faee a skos:Concept ;
+    skos:broader physik:d372a6f8-9026-43e8-8e1d-6e3ab9990c6f ;
     skos:inScheme physik: ;
-    skos:narrower physik:1b6d9ecf-c301-4205-b933-0d93cc3c473e,
-        physik:7d033b75-c4c0-4803-b820-4d8f4a76af0b,
-        physik:9eb18913-a66f-4c16-864f-0ba46bb4b460,
-        physik:ba04ce6e-a6ca-46b0-bfb4-04c5006e720e,
-        physik:c5135ddd-9aa3-40a6-b763-c9e89694e1c0,
-        physik:e8f82640-12e8-4707-a711-a4099bf9d393 ;
-    skos:prefLabel "Strahlung (allgemein)"@de .
-
-physik:dd942463-b40c-4088-a6ac-0370301524e5 a skos:Concept ;
-    skos:broader physik:3280b95a-2fca-45f4-9873-87538844bb56 ;
-    skos:inScheme physik: ;
-    skos:narrower physik:3cc7404c-1999-4604-b9ea-ae95dbc278c4,
-        physik:461a5fac-ef49-4d18-8e43-16a3a90de921,
-        physik:6b5b343b-3990-41fa-901c-7183a6fbfc28,
-        physik:88165881-182f-4163-822f-7c95bb9473e6,
-        physik:894134c2-1fb7-4111-95ee-7a490eee2b11,
-        physik:c66143b2-eb37-4e6f-a57c-68f310e04ef2 ;
-    skos:prefLabel "Welle (Physik)"@de .
-
-physik:e2696cff-7acc-47b8-8798-94b68a096d06 a skos:Concept ;
-    skos:broader physik:d32bacc1-9cd4-4d25-93bd-99e6ed4ac453 ;
-    skos:inScheme physik: ;
-    skos:narrower physik:1942d794-10d8-40f2-9831-dcca86230c13,
-        physik:2db14809-c77e-4a55-b4e4-6063bf1e73ed,
-        physik:4d78de61-4b6b-4238-84c8-30dc3a091ff4,
-        physik:b1e33dc0-9241-4f42-9252-d412937fba1b,
-        physik:e2545516-d626-49c4-8768-685bcd4cdb51,
-        physik:fea4815b-feef-48dd-a906-e0423e08aed6 ;
+    skos:narrower physik:115fadd4-86ae-403a-994e-329f989dc6cd,
+        physik:2f2fb44d-2922-45d6-9b71-79a5af80e698,
+        physik:4d358ade-a762-4104-86d2-dff771fd2348,
+        physik:596f9026-048b-42be-9d8f-520ecd9f44a9,
+        physik:80664e3f-6685-41f2-bb9b-36ce3f00b3c8,
+        physik:ef28a5d1-e19b-4ab3-a92e-0935f5919384 ;
     skos:prefLabel "Elektrizität"@de .
 
-physik:b8a96bb5-c438-48d2-92df-c1e2a2aac03f a skos:Concept ;
-    skos:broader physik:7f584c3e-b7b7-4e55-bc2b-df2fd01fd0c7 ;
+physik:98ba65f4-0f54-46b9-a968-5bcca87a09ac a skos:Concept ;
+    skos:broader physik:cf66080d-03b2-450d-92f0-523cfd0f1878 ;
     skos:inScheme physik: ;
-    skos:narrower physik:059b262f-c4e7-4e51-9512-cc0e069e5dce,
-        physik:4e08cbe0-10dc-4ff4-9cb1-3767c04e009a,
-        physik:55db9549-bfdb-42d4-a127-1152eda3b973,
-        physik:5a242d94-6105-4b41-9e27-e6680df60a2c,
-        physik:7846addf-ea62-44ec-b209-b2c828f8ece1,
-        physik:83a440f6-897b-4ab8-8547-0ce39c532d43,
-        physik:8ecbd3e7-3e8f-45c9-aa55-3e899289b0d4 ;
+    skos:narrower physik:1709e512-0c74-403a-abcd-c48d76458cf2,
+        physik:2141d239-f343-4972-8ef2-9182912a0a20,
+        physik:487671d1-49d7-4a57-a5d6-e997bf28d024,
+        physik:4cd214a2-482a-4c68-81df-d6474f92c9f4,
+        physik:6a78975d-9ef0-460c-a61c-b70121657996,
+        physik:bd4bbfaa-b46e-4345-8c5e-666dbdbd8e7e ;
+    skos:prefLabel "Welle (Physik)"@de .
+
+physik:a7838e2f-afe8-467a-ac8b-bf0f07646889 a skos:Concept ;
+    skos:broader physik:b24b26a0-da9e-4c0f-b806-0c35bb777e56 ;
+    skos:inScheme physik: ;
+    skos:narrower physik:119bd346-dafd-4b06-8313-a0d2e9695265,
+        physik:484b9371-908c-4c85-a36e-5b86d5effd43,
+        physik:795c78e0-739f-4001-8ebb-209dc1eab12f,
+        physik:900234da-104e-4713-8e2f-58803ff94157,
+        physik:c463bbb7-9b5f-433a-86d9-d40f8befae0a,
+        physik:ebe2d114-3bce-41a1-9536-a84cba2f9dbc ;
+    skos:prefLabel "Strahlung (allgemein)"@de .
+
+physik:c60454cd-2c6f-44b3-aa41-a12805e72f90 a skos:Concept ;
+    skos:broader physik:ef8a9c90-e869-4471-9aa2-a60711e814b6 ;
+    skos:inScheme physik: ;
+    skos:narrower physik:121548d8-045a-4efa-b101-c1720c1a752f,
+        physik:13bccfbe-1e03-40ad-8d07-13c53b8b1c42,
+        physik:279ee21a-b37b-4099-8504-6e5d79ebebf9,
+        physik:59c65a35-597c-4c5e-9497-660d26ca55c9,
+        physik:6906f124-350f-4e8c-90c9-4b4335751fb7,
+        physik:c79448f0-9f89-4653-b77a-bc9a09a5abae,
+        physik:d1e1bde5-7c7d-4b53-ac6c-64f640f8a63a ;
     skos:prefLabel "Funktechnik"@de .
 
-physik:aa521a47-ee9c-4aa5-b9bd-13981c5e0e03 a skos:Concept ;
-    skos:broader physik:c706a1a6-74b6-4b13-8037-09103108504d ;
+physik:57207ea5-5109-44d9-8ecb-f895320dfd16 a skos:Concept ;
+    skos:broader physik:33aac1e3-9cc0-4dbc-b107-d156254489df ;
     skos:inScheme physik: ;
-    skos:narrower physik:004a9b33-80f7-4ff8-9abd-732f0ff3d129,
-        physik:1fe6b412-216c-4dcf-8493-fdd2142bfde4,
-        physik:3d606f7d-f64b-46de-a18d-52f9dc21a303,
-        physik:9bbe656a-29a0-485f-b9a8-4729e8691687,
-        physik:a7cefabf-fc43-4aef-b9d9-06406d96fadd,
-        physik:b2e7e5d1-f585-45f6-b13a-939b52f1cb91,
-        physik:b6250dcf-10b3-4386-b15e-f8a1cebe9815,
-        physik:d46458e0-a3db-4bfd-b6e5-9e8326d5283a ;
+    skos:narrower physik:0144ffe4-b73f-4c8b-8c6e-76ea80704ce3,
+        physik:0db11fa8-1bff-4d33-9c4d-a602ebebc244,
+        physik:2fbf046c-1625-4380-9245-be2a56426492,
+        physik:393cc93c-7eed-4064-ba75-ccd041aec332,
+        physik:62e415ed-c16a-42a6-b687-15007dae35ed,
+        physik:8d912364-e641-442f-9316-585fb7a87339,
+        physik:cf50fd6d-1d0d-4002-9ac5-6f20da3b31ab,
+        physik:ef62039e-fe2e-49cf-b829-02b24c2981d8 ;
     skos:prefLabel "Weltall"@de .
 
-physik:a7cefabf-fc43-4aef-b9d9-06406d96fadd a skos:Concept ;
-    skos:broader physik:aa521a47-ee9c-4aa5-b9bd-13981c5e0e03 ;
+physik:ef62039e-fe2e-49cf-b829-02b24c2981d8 a skos:Concept ;
+    skos:broader physik:57207ea5-5109-44d9-8ecb-f895320dfd16 ;
     skos:inScheme physik: ;
-    skos:narrower physik:16cd2f4f-7dfb-42ab-a7f0-ff21c47073ee,
-        physik:236f1d49-c158-41d1-8692-c89a990eb5d4,
-        physik:63e78150-6483-4d30-b9c6-b6298cbd624d,
-        physik:6428651f-a67a-4e23-bd60-52a1a9293867,
-        physik:6c9dc725-383e-4a96-9754-8e2dfad4a448,
-        physik:a7f25b84-61d2-48ea-b850-16218667df71,
-        physik:ea49cca4-a943-4bbd-a43c-050f9b9115ec,
-        physik:f31698ed-e705-43db-a9af-f268ea60ca1a,
-        physik:fe876b52-f119-46de-8c4f-dc2e7df86259 ;
+    skos:narrower physik:07e607d4-030a-420c-9a13-1b340feddcee,
+        physik:3cd799f4-179b-44bd-8a4e-1faabd42d63c,
+        physik:3f2714bd-cafe-46aa-86a6-616d6fa6d6e6,
+        physik:50868c7b-c915-471b-a85c-578e9801869c,
+        physik:5754446a-5460-4997-9483-b640f41614c8,
+        physik:8f49c021-235b-493f-8461-a0b4c9f99292,
+        physik:9c3b5ce6-cc74-426a-99f6-3ef777b28e9b,
+        physik:a35ab242-dab4-4b27-b58d-c7c843dddd10,
+        physik:f1901b34-c4eb-4ba7-a72f-3d238df6f9b1 ;
     skos:prefLabel "Planet"@de .
 
-physik:2db14809-c77e-4a55-b4e4-6063bf1e73ed a skos:Concept ;
-    skos:broader physik:e2696cff-7acc-47b8-8798-94b68a096d06 ;
+physik:1706be2c-5ce4-4581-9420-2624a302ff6b a skos:Concept ;
+    skos:broader physik:ef8a9c90-e869-4471-9aa2-a60711e814b6 ;
     skos:inScheme physik: ;
-    skos:narrower physik:182d51d2-f078-4211-84db-f86c789512eb,
-        physik:203bfa97-7135-466d-822c-d1d548add321,
-        physik:3819396d-f7a4-4825-815b-11e4523129b1,
-        physik:987d4d69-9a18-4979-ace6-496cacf45ac1,
-        physik:a95f5c4e-199b-4354-bcbe-f954d3b8afd4,
-        physik:b9a3c4de-445e-40ef-84e3-a1952228e30c,
-        physik:cbbdbb49-9a79-44f0-a46f-d134c23ac507,
-        physik:d480eea5-bb3e-4664-b56b-6315d3406c1f,
-        physik:e905a0f9-eb50-41da-8530-e01b8ae460a6,
-        physik:fe9c7ff7-6fd2-4603-9e5b-9455b22b0ac4 ;
-    skos:prefLabel "Elektrotechnik"@de .
-
-physik:94fd726c-1369-44ee-9435-231e22710b0e a skos:Concept ;
-    skos:broader physik:7f584c3e-b7b7-4e55-bc2b-df2fd01fd0c7 ;
-    skos:inScheme physik: ;
-    skos:narrower physik:44ce11f3-6317-4bc6-a2e2-c33c6528adb0,
-        physik:460b66fc-a0e0-4038-b591-8953b8b25c4e,
-        physik:5cf7063f-51a4-4f9a-8d4c-8d25e96c9ba2,
-        physik:7419db12-481f-4dc4-b82d-fa8ccc2a5eb2,
-        physik:884a9608-4b82-4486-b653-589e0df8dbb1,
-        physik:b61cf3e9-ec0c-4921-b0ba-e350cf591982,
-        physik:ce2c1cec-7d4c-448f-a394-5eba96ae5ed5,
-        physik:d9d3e1d5-b0bb-41c7-8197-aa59508d60bb,
-        physik:f281d9ed-ec98-4d47-a28b-2aeb4bf56306,
-        physik:fbae9f11-f523-4397-ba96-3b053e555777 ;
+    skos:narrower physik:0dcedac2-4d09-430f-8083-595f6d30c68a,
+        physik:463f5e1b-bd9c-4ef7-9e34-97dfc6a61eab,
+        physik:4acf2140-6cb5-4c36-9a5b-73dc79befdb5,
+        physik:6bed7619-e7bb-4998-96b5-28af418186ff,
+        physik:79396777-21cc-4f96-9860-d9c37a2a54a4,
+        physik:96842e2a-1e29-493d-a448-eb5e91813dcd,
+        physik:aeb47b3d-1760-4f31-84b5-80f093d7c616,
+        physik:b9566e15-9cd0-4677-ae6f-83c2d2d7fbf2,
+        physik:ca4b4873-8646-44d7-8208-6759b2410673,
+        physik:fb429234-d2a9-4f3c-89f3-5f28f589fc43 ;
     skos:prefLabel "Kernphysik"@de .
 
-physik:d32bacc1-9cd4-4d25-93bd-99e6ed4ac453 a skos:Concept ;
-    skos:broader physik:7f584c3e-b7b7-4e55-bc2b-df2fd01fd0c7 ;
+physik:4d358ade-a762-4104-86d2-dff771fd2348 a skos:Concept ;
+    skos:broader physik:12c84364-0d47-4749-b6fb-e2f3cab3faee ;
     skos:inScheme physik: ;
-    skos:narrower physik:3bc5a828-68c8-49a3-a3e0-af641ce21957,
-        physik:499e2975-1787-4a21-a426-25dd975b7231,
-        physik:aa7b77a8-55f8-4966-aa79-628d2e7641da,
-        physik:ca15d65f-7b98-4d47-98f4-9c5901ff41c0,
-        physik:d148ecba-ace1-4117-a976-eb6f0dbdea60,
-        physik:d9921c22-29f6-49c7-abf5-7f1b5f0a3bf3,
-        physik:e2696cff-7acc-47b8-8798-94b68a096d06,
-        physik:e5bbcf28-c4a6-42dc-a1e2-a4fc98b92264,
-        physik:e70c3035-5491-4bfd-9f19-4e9fc8612921,
-        physik:f5884171-4b8d-4c85-aa50-afb7f71697d4 ;
+    skos:narrower physik:1774ce9c-cb17-4a12-8b19-a055f5fc2843,
+        physik:3cb94c07-019f-4999-8f93-a95a3a0844c9,
+        physik:54f71f4a-603b-4ddc-a20d-6e2c0b6b2005,
+        physik:69478406-c6a6-4a66-bcb0-b1c2c835bd3e,
+        physik:923c8361-d585-4ea4-98fb-0d6bd3b1bc50,
+        physik:97cad0bf-7193-4f62-8d5d-56620f1db391,
+        physik:bc3438f3-a24e-4b29-be2c-ea043c62e39d,
+        physik:d49ee037-e48c-43be-b854-6554a6bf886e,
+        physik:e5c650d0-76e8-4eaf-a822-596f1120d667,
+        physik:f02b7fee-84b4-489b-b81d-ecfe6826a4e4 ;
+    skos:prefLabel "Elektrotechnik"@de .
+
+physik:d372a6f8-9026-43e8-8e1d-6e3ab9990c6f a skos:Concept ;
+    skos:broader physik:ef8a9c90-e869-4471-9aa2-a60711e814b6 ;
+    skos:inScheme physik: ;
+    skos:narrower physik:03dbe10d-572b-441e-914f-85de78cf86d2,
+        physik:12c84364-0d47-4749-b6fb-e2f3cab3faee,
+        physik:33906787-ce3f-4813-a373-404d9c53cf1b,
+        physik:41d661f2-5160-4e96-af36-c84a7ca2288f,
+        physik:5c0c38df-8038-4ec5-a2ed-5fe83832a754,
+        physik:6cb9d93c-dbf5-40a0-a908-28c4e6c21c2a,
+        physik:9598d579-5f6a-477d-862f-bf741d5b5fb7,
+        physik:a89554b4-2df4-4feb-b103-c8c9f36c2e5c,
+        physik:db70a251-1645-4efe-9796-add65822807f,
+        physik:ee6574ae-f7df-41ea-a6da-bb4496c31cc6 ;
     skos:prefLabel "Energie"@de .
 
-physik:7f584c3e-b7b7-4e55-bc2b-df2fd01fd0c7 a skos:Concept ;
+physik:ef8a9c90-e869-4471-9aa2-a60711e814b6 a skos:Concept ;
     skos:inScheme physik: ;
-    skos:narrower physik:088e5645-f350-4ef7-974f-269bc35b3d4f,
-        physik:1975f2ab-4447-430f-981c-252276c7490e,
-        physik:3280b95a-2fca-45f4-9873-87538844bb56,
-        physik:3f2c1fe3-c6ab-44af-a8c6-d38f5e8ce432,
-        physik:4f5d8bcc-f4d5-40a2-855a-2133358cc59b,
-        physik:94fd726c-1369-44ee-9435-231e22710b0e,
-        physik:af294858-19ef-4dba-899b-1d9749da6990,
-        physik:b5e77816-d682-4557-9bd8-2eab5476202b,
-        physik:b8a96bb5-c438-48d2-92df-c1e2a2aac03f,
-        physik:bbb3540d-28ff-4a76-ba81-57b328aae61a,
-        physik:c706a1a6-74b6-4b13-8037-09103108504d,
-        physik:d32bacc1-9cd4-4d25-93bd-99e6ed4ac453,
-        physik:da10bf54-0a1c-4c36-87f9-7a5db5b68bb1,
-        physik:e34c44f7-ce4f-48ac-852f-72ad773ba585,
-        physik:f9cf5fd0-8ba6-4764-bd2e-8f4e1c57ed77 ;
+    skos:narrower physik:012bf173-23b8-410d-8ce2-cba73b8cd28b,
+        physik:1706be2c-5ce4-4581-9420-2624a302ff6b,
+        physik:2bba3a10-2385-4934-bf8d-5a58f0e31679,
+        physik:33aac1e3-9cc0-4dbc-b107-d156254489df,
+        physik:58914f7f-1b4c-4e9f-9abc-f10744377235,
+        physik:6e35fbcf-973b-4fb6-b429-4567ccb71c49,
+        physik:7d1f9337-52a4-403f-af96-df82d3574966,
+        physik:7d38b243-aa28-4c13-90da-82f578d7bf73,
+        physik:888ef0c3-cffd-4c17-b24a-646c42832c8f,
+        physik:8bf18bea-9144-45fc-8b53-ea51f81efec9,
+        physik:98e488ff-00ea-4974-bb2c-2adf751492e9,
+        physik:b24b26a0-da9e-4c0f-b806-0c35bb777e56,
+        physik:c60454cd-2c6f-44b3-aa41-a12805e72f90,
+        physik:cf66080d-03b2-450d-92f0-523cfd0f1878,
+        physik:d372a6f8-9026-43e8-8e1d-6e3ab9990c6f ;
     skos:prefLabel "Physik"@de ;
     skos:topConceptOf physik: .
 
-physik:af294858-19ef-4dba-899b-1d9749da6990 a skos:Concept ;
-    skos:broader physik:7f584c3e-b7b7-4e55-bc2b-df2fd01fd0c7 ;
+physik:b24b26a0-da9e-4c0f-b806-0c35bb777e56 a skos:Concept ;
+    skos:broader physik:ef8a9c90-e869-4471-9aa2-a60711e814b6 ;
     skos:inScheme physik: ;
-    skos:narrower physik:17334a65-2f3c-4d7a-9c81-12c0a86b11ba,
-        physik:1bc01edb-f1c7-4c7c-a42f-8ee3afc1f39f,
-        physik:1c3a1922-74f3-4aee-9ac6-44bb723e551e,
-        physik:1ea4da37-fc15-4319-8de2-ca7fa1c0d211,
-        physik:3dc03202-85a8-4ea4-aa5f-967b97a3a284,
-        physik:4a8f0510-0eb5-48f3-b2ef-ec793d150dc4,
-        physik:691df043-fb27-4896-80a5-715785e24ed6,
-        physik:83608cec-9e02-4581-b64c-8fcc0c1edabb,
-        physik:84388bc4-fda8-480c-af87-f9c331dc710b,
-        physik:93252a97-942e-46af-bbd1-c60ddf157d06,
-        physik:9c72aecb-4681-42a5-9b1b-6487d0618413,
-        physik:a33c2d96-2dba-4f6b-bb96-312b76b732bc,
-        physik:a8440568-7113-42dc-8873-6cf04bf2ed21,
-        physik:aa164274-189d-4209-a1e3-d54f940f7cba,
-        physik:ee48cd26-f46e-4fff-9726-701ea53012c8,
-        physik:f4abb089-2248-4f21-880f-d9a8da6933d0 ;
+    skos:narrower physik:08aeac90-e9c1-4eaf-97cb-35d91e3e78f5,
+        physik:0e3d824a-c34e-4bc9-b087-036c5559883b,
+        physik:1c2840a3-1ee9-4b4d-87c7-0a23770b25c1,
+        physik:2caf7219-820a-4127-a308-a31129d6efdc,
+        physik:432f79a5-e5bc-4aa2-a96f-bf4982f58989,
+        physik:4ccd3163-3350-4095-bc2e-5592475762f5,
+        physik:6b8e611f-c9d1-4a1c-a06f-a602368519a2,
+        physik:74a7bef8-33ed-4406-9a72-2b1d2c10e4f8,
+        physik:8a27fc1e-cae8-46dd-8eaa-2f34fe954084,
+        physik:8bf976a4-136f-4a2a-9993-6b96c3f292aa,
+        physik:9f34e02f-ddea-41cc-8464-6db5b1e9b975,
+        physik:a0bef59a-adf5-4710-895b-1f426cb6b599,
+        physik:a7838e2f-afe8-467a-ac8b-bf0f07646889,
+        physik:c0f75951-429a-4c23-bbfd-6cf1cbc8ce9f,
+        physik:c1fbab21-eb1e-4d6d-a539-d1c61fccace8,
+        physik:fc3857cc-90a5-4af6-b7c0-5e0e49d6f011 ;
     skos:prefLabel "Optik"@de .
 
-physik:b1e33dc0-9241-4f42-9252-d412937fba1b a skos:Concept ;
-    skos:broader physik:e2696cff-7acc-47b8-8798-94b68a096d06 ;
+physik:ef28a5d1-e19b-4ab3-a92e-0935f5919384 a skos:Concept ;
+    skos:broader physik:12c84364-0d47-4749-b6fb-e2f3cab3faee ;
     skos:inScheme physik: ;
-    skos:narrower physik:19d4ba87-e6e4-4a57-9063-b8b6bc619bf7,
-        physik:2a42c4ea-9f31-4a7c-82b2-f4f5b9eda6e4,
-        physik:30cc77af-b0ac-44cb-a194-579ea9b05e2e,
-        physik:349c6464-8b4e-4eac-907b-284413ece28c,
-        physik:56ec5e52-97e6-403d-bb2c-b1d7cf0bac37,
-        physik:57405e0b-5076-43fe-8189-0f5a244381c4,
-        physik:603c7e72-812b-4b34-a602-edfef3883434,
-        physik:652a8e54-6659-4dce-937b-7dc1b9effd44,
-        physik:77854a23-a77c-4ea9-88a5-988dad1fad26,
-        physik:80f93608-cdf5-465e-9c3a-5e2cba36cd1c,
-        physik:8713ae97-d219-4d90-96a2-b313da802f1d,
-        physik:985f00a6-23e8-4c15-8dce-2bacef91199d,
-        physik:ad6fcfb1-631b-4e09-92ff-ec10d5175be0,
-        physik:aedca7b1-8ef2-440c-bbe8-4d0a3ca961ee,
-        physik:b21c4227-0cf0-4de4-b6ec-58618b0b09d2,
-        physik:c0f27343-f73f-47f2-a471-e3b14b6974be,
-        physik:c48440b0-da29-4d60-92c5-d8d0d3fb94ba,
-        physik:f41444c9-8b64-4b21-afe1-ccbd9679a9de,
-        physik:fb4abca1-1819-4ec5-bd16-0a4268d3ca28 ;
+    skos:narrower physik:0c35d94f-1caf-4b47-9f5f-f21d60dee753,
+        physik:12fecbf2-234d-4c59-a0b2-8e1cd2a6d8e5,
+        physik:39bf16b5-9c06-40f0-8fec-c70dc93ba4d0,
+        physik:42cbafa6-8a8d-45d8-a65e-084b8fe1f50f,
+        physik:5904a24b-1769-473f-b138-59f8fb1f8951,
+        physik:820370d4-3713-42ee-84a8-c8779b8deaa3,
+        physik:95a11d55-d3c2-410b-8ace-d784eb587891,
+        physik:97075800-5507-42d3-864c-3503ca2b1442,
+        physik:9b3aa659-b231-4907-9698-6f00d471ef23,
+        physik:9d4b5342-755d-4521-bc51-0d8b3f325014,
+        physik:a3e08818-9ace-4a9b-8ab2-5a5da0a2c288,
+        physik:acc28d65-18e4-4d22-974a-6ad34f0c898f,
+        physik:bbf4247a-3114-4dd3-89a8-b724a03d5b7c,
+        physik:c5370af0-8c0c-4d78-a848-3255b8f1761f,
+        physik:cd641500-fdfa-4c21-b4ab-ca0b1a229023,
+        physik:d5a49d63-fa98-424d-ae55-3ce16c796500,
+        physik:e4241d15-e59c-4475-8344-59e17ba512d4,
+        physik:ea90abd7-030d-4a9d-85ad-12192e6d90b8,
+        physik:f6f74d04-b7b2-4bad-ae7f-b48d3060c7c2 ;
     skos:prefLabel "Elektronik"@de .
 
-physik:3280b95a-2fca-45f4-9873-87538844bb56 a skos:Concept ;
-    skos:broader physik:7f584c3e-b7b7-4e55-bc2b-df2fd01fd0c7 ;
+physik:cf66080d-03b2-450d-92f0-523cfd0f1878 a skos:Concept ;
+    skos:broader physik:ef8a9c90-e869-4471-9aa2-a60711e814b6 ;
     skos:inScheme physik: ;
-    skos:narrower physik:012cecfa-daf3-4723-99fd-4ea8860eed49,
-        physik:019e31f3-4768-4fda-bdc8-141610f644d6,
-        physik:02761eec-215c-45c0-bc85-cb496ec2023b,
-        physik:04944334-a01e-4115-8d51-eb70979495a7,
-        physik:0826c243-eed6-4445-b2f6-e2b2a4bbe562,
-        physik:0c651930-2a04-4bc2-8036-8c0f3ec80b14,
-        physik:11c8e2e5-ab45-4568-9572-577b230d1f48,
-        physik:1ed14b1a-0fc8-43b8-b521-b366f3925e77,
-        physik:1f77ef68-9027-42cb-bce4-95cacd708fc8,
-        physik:29293ba1-1cda-4d93-9066-5525589bea4f,
-        physik:3b8d5c74-b366-45e2-9383-26b0d94396e4,
-        physik:40ac9d2d-d8a1-4cba-b9d0-15cc38b90eb4,
-        physik:4492f093-2ed3-417b-9907-969eea1ddb8d,
-        physik:4a02d3db-6e96-45c0-8899-77d8a9fe570a,
-        physik:57f1c210-5399-41eb-ae14-98cdf715e65b,
-        physik:57f9666a-a820-42b3-a209-d7aa4e9306dd,
-        physik:5e78c1c5-bc98-4bb5-a209-3f068ba167fe,
-        physik:62a75de9-9e44-47d4-90ab-74614fe1507c,
-        physik:65a0760d-719e-4fac-aeec-0cbb648ef180,
-        physik:75049bf3-2588-4270-9881-7592c2d4e33c,
-        physik:8399af94-a9d6-4c30-8505-9a28dfc97aad,
-        physik:8e707ef5-ed71-4471-8df4-8541f568518c,
-        physik:a147240c-32e9-4b66-9a34-17d1e8e54626,
-        physik:a83c151f-c488-4749-9584-e0366b6600eb,
-        physik:ab78deb2-9817-4d5e-a36e-6498c9292a65,
-        physik:b7981a49-c032-4ab0-ad6d-8db2da1fd236,
-        physik:b88a8b53-37ec-4397-84c4-74bd82ecb9c7,
-        physik:bbfb5165-2647-4930-b8a5-29da96e2f9b8,
-        physik:c399e972-a967-4c0f-ae18-60a3c6f51888,
-        physik:d6315775-6e44-40de-b329-c2c0fe7f61f7,
-        physik:d782582d-3706-43dd-af68-8d3a15683288,
-        physik:dd942463-b40c-4088-a6ac-0370301524e5,
-        physik:e5e8b97b-34aa-4f41-800d-93a6be45dbf6,
-        physik:e882a8f0-5207-4a0b-bb09-0db84f0022d5,
-        physik:f2105f12-0213-4d9b-bf44-08c203369ac3 ;
+    skos:narrower physik:05148cd8-6b9c-438a-b6d7-f3f2a9e05e46,
+        physik:0dc58f4e-5a4b-4474-b282-e69d3f85e4fa,
+        physik:0e54e925-cd4c-4cda-b0af-a51719c80cda,
+        physik:100a86ab-f55e-44a4-8340-62d32077a7cd,
+        physik:1faf69ce-4502-48bc-9a41-d059ec9fe8e3,
+        physik:266cd666-7acf-4706-b0e5-35ecd3c823c8,
+        physik:2765e967-626c-4217-94bb-3edc280c0c9c,
+        physik:3e927506-5e10-4e1a-9066-5c0a4160111e,
+        physik:4365f823-509b-4c88-915f-3531f2e35bb1,
+        physik:462eb897-a8f3-40b3-b07f-36fa25eb8be2,
+        physik:4a7a15a8-03dd-432d-8962-e80a8f5a27f1,
+        physik:4da1bfc6-b80e-4a7b-93e0-a7920f6c2d51,
+        physik:4ddc18ba-a624-4f43-a1d4-b362c642e601,
+        physik:5dd0b19c-2689-49d5-b728-1561984f4e0c,
+        physik:5e505e74-f02a-4800-846c-e6ad76726adc,
+        physik:773d13ea-17b7-4d43-8069-e10e289c71bf,
+        physik:7a316a1d-e9a5-4167-97e6-0a1ef9b36637,
+        physik:98ba65f4-0f54-46b9-a968-5bcca87a09ac,
+        physik:99061e38-e85b-49f3-a723-cb16c6f7fe31,
+        physik:999238c4-a5a6-4c8c-ab6f-1330e64c6e34,
+        physik:a2211719-319f-4e00-9dd8-f48f45074f7c,
+        physik:a8566448-b367-4074-9f17-ebdea77cce16,
+        physik:afbd2903-822f-4140-80af-8e8abe297823,
+        physik:b56aac41-d305-4560-b522-e64add2cd5f3,
+        physik:c69c4910-447a-480e-9c01-2f9875805c65,
+        physik:cc40b07d-194e-4807-968b-0315fc95031d,
+        physik:ccf3cd5c-6b15-47a6-bb68-d178a58d2468,
+        physik:cfc47c21-647b-4f1f-8b29-a0bcdfd9f35e,
+        physik:d16193a8-365d-4711-a8bd-33420ade4ec6,
+        physik:d4d0eb06-f876-43a2-852e-289966ab4051,
+        physik:d7a7faf2-2fa9-4c19-9c4b-d23992d93f05,
+        physik:d8aeac29-0134-428b-ac81-81ca0a4a3a2f,
+        physik:d9cf4568-5fbb-4103-bcbf-725565498d82,
+        physik:eaa3c2af-0e68-4d3e-bc55-56cde833fb62,
+        physik:f786790d-e42d-4b61-ada1-989c2778cc52 ;
     skos:prefLabel "Mechanik"@de .
 
-physik:4cf6d06c-5920-4644-b379-6c7dcfa24730 a skos:Concept ;
+physik:9294011b-c134-4eb5-beea-d70a3dbad8a4 a skos:Concept ;
     skos:inScheme physik: ;
-    skos:narrower physik:005cefae-013d-43db-8fdd-92027becce18,
-        physik:07915661-404e-42c2-9e9a-a5db6890957a,
-        physik:08817ac6-533a-4a3b-8030-2dd9095e1692,
-        physik:08d893cc-c70f-4577-a085-e85fb0036edb,
-        physik:09a46d6c-352d-46a1-9e0f-8e73f973d36a,
-        physik:0a360dcb-cfa7-42c0-bf5f-647545fef4da,
-        physik:0ac60064-0b11-40c7-95de-6b21505b32de,
-        physik:0acf6886-9f39-4050-97fe-ad7882aeeedc,
-        physik:0e296985-24e3-437f-b64a-165f13569101,
-        physik:1068bdb3-6f50-461f-bc7c-739d7e8c7cb6,
-        physik:16100ca1-bc77-4f36-b10e-53ebbe6d82a2,
-        physik:16afed4b-036f-4e97-91a5-d95fa68daaa2,
-        physik:16ce6446-f5e1-4728-baf8-0feb5d5097bc,
-        physik:18272d81-caa9-4a7a-ad86-081cb7233c8a,
-        physik:18e13bde-a228-4528-a8be-3248bfca6f1e,
-        physik:19dafaa8-aba1-4dc8-bd0a-2d728350219f,
-        physik:1b2f2147-12cb-4dc9-b1dd-92172c4c9b31,
-        physik:1b38c624-36a2-49a1-b103-e6b31ac792e3,
-        physik:227fc258-f557-48bb-8e16-eb43d6461fa9,
-        physik:267d4530-cea7-44ca-bb8b-1ddd62485f1e,
-        physik:29875df3-a1ee-40c4-9342-0dcb52c16bc4,
-        physik:2d0b2fc1-cec2-48d6-add9-6d11151b8250,
-        physik:2ff5fff2-d411-4bf7-87ff-5dbaa1b1b4c3,
-        physik:30801d4a-4cb3-49da-9c58-6fe8130f730a,
-        physik:33f63982-5d6b-4e59-b52b-48e4bb83b6e1,
-        physik:3518bcfa-744b-43ed-a224-919e695e8bb8,
-        physik:3cecc79a-3a8b-4def-9089-73251734fcaf,
-        physik:4329ab7c-55cd-4076-9213-70aa53a57fa5,
-        physik:43848957-d66a-4db0-a40f-c8403a0d3115,
-        physik:469947f1-68ef-46ae-a843-c6524c23f444,
-        physik:51140fef-1d14-4c47-bcc1-f8dbffe5f59a,
-        physik:55660926-5d31-49b3-8528-5366eec959f5,
-        physik:562e48c1-50ae-45ec-b2be-c4a90f883bae,
-        physik:58858145-2e8a-47d6-ae2e-bd38950afb15,
-        physik:603e09fe-e6b2-4488-bc8c-014874dd1239,
-        physik:625d167a-834e-4217-bdd5-9efd0bcacc7d,
-        physik:64455d72-f523-4fee-b65a-ca452ca0cb68,
-        physik:65b44d16-45ed-4fae-9154-076adb69ce20,
-        physik:6f81798c-0a96-45ab-b3d4-7a2983e4eb01,
-        physik:6fef7938-99f8-40ac-a9e1-1cfa842a4629,
-        physik:73eaf835-93bd-47b1-91cf-d3c01469c20c,
-        physik:7b4d1a17-b38b-4c5e-9899-89787dff9bdf,
-        physik:7cc28115-2e79-4c38-928b-9bd376b04e9e,
-        physik:7cc8426a-b296-41d4-b372-51a8165bc5cc,
-        physik:7d85e73e-c137-42ab-b511-e3144a23de27,
-        physik:7ea69210-48e0-4a3d-ae59-247c8fb21c88,
-        physik:812b6d21-e06d-4bdc-ad0d-8fa34a4787b7,
-        physik:825ecc42-12fc-4f95-9f09-532045f9f1a9,
-        physik:8720ff3a-816c-49b4-9099-983c5707f08c,
-        physik:887e811f-98a2-4a50-a7b5-5cf96562160b,
-        physik:88f116f7-2895-4361-9abb-2b87eb8076de,
-        physik:8bcde070-0c73-4624-b232-204e1d03eeb0,
-        physik:8d928f2f-d30a-4d3b-bfd6-19a9d8dc08d7,
-        physik:95a9bd89-0f12-492d-a4a2-815cc222b141,
-        physik:95f83486-2dbf-49a5-8f48-bea84103e223,
-        physik:98cd19a9-8dd3-4b6f-b2d0-9a173e5508fe,
-        physik:a45da83f-6e17-40e9-a4ba-516043b8dacf,
-        physik:a6b2c894-897e-4276-9e04-319f6b46f122,
-        physik:abe02978-5c7d-4ece-8bb7-82aefb6a9159,
-        physik:ae5cb62b-5557-46d3-bab6-b6b9bb0bdd81,
-        physik:b0dac3ea-18e2-4c79-a9eb-2bee7521df95,
-        physik:b1a2de8e-b202-40de-8827-b4b9c21cb752,
-        physik:b2d69468-9db2-46ff-b2cc-d5f1d7706da2,
-        physik:b4c2c78c-cc68-47b4-bdc5-518090b65ce5,
-        physik:b556755d-42c3-46c8-9afd-6c06f2dba3a3,
-        physik:b596ca11-5829-466b-bc83-5e52c426ea66,
-        physik:b62a5271-edf0-415d-8f28-898b23ba824e,
-        physik:b82cb9f3-a399-4d65-ade0-0a4a7a0f9ac4,
-        physik:beebd4a3-b8cd-4c6c-9006-a51ea94a84ea,
-        physik:cac6648d-58a7-4ea8-a3bd-042339832cd7,
-        physik:cec44a9a-93b0-4652-b215-6406736f10a0,
-        physik:ceec6fb0-a4b0-4398-8269-a44e7cba4cba,
-        physik:d12d32af-74bc-41c6-b12e-246d863db54b,
-        physik:d1f094ae-7253-496a-8c69-d20602506c7b,
-        physik:d5041c17-175d-4a2e-92a8-ad05cb812c82,
-        physik:d6b3ec54-299e-41dc-aca0-09c6117dbacd,
-        physik:d7ad4e19-07ba-4c51-8859-16a076e2161e,
-        physik:d9e3bfd3-800e-46fb-942e-8227739523ee,
-        physik:dff1d4f5-cd4c-4921-9853-36a0fdff4707,
-        physik:e0935fc7-d373-4f4b-b53a-520ef34dbb9f,
-        physik:e604b755-65a5-423e-ad55-db467cab8a7a,
-        physik:e89c3f2a-71b4-4c98-ae22-5cad41316961,
-        physik:ef44bdbc-0c11-498c-8ec5-590c775693e3,
-        physik:efd7eacc-b9ed-4ddb-a014-87b278a8d5fc,
-        physik:f098106e-d389-4798-8eac-ad6c6ac79d3f,
-        physik:f1435967-2047-4f65-bee7-cf8c4d48beab,
-        physik:f29320fd-465e-4b5e-9eda-ac44b392bdc5,
-        physik:f2ac232e-460e-4092-82ab-f9195bc75781,
-        physik:f7f5a853-51cf-49f2-8408-6c20b109bca2,
-        physik:fd6101e9-96bf-4b6f-a151-7b39c657cfad ;
+    skos:narrower physik:023c0b25-6e48-46d1-87ab-d8d4fac1328f,
+        physik:036bb1eb-5622-42bf-981f-5f38550ad10c,
+        physik:042cf424-7a3b-4808-89bb-d3280e965fa8,
+        physik:06c85160-be8c-48e2-884f-58222b7ab6a1,
+        physik:077bfa26-0e30-49bb-84f1-26c91ad70b59,
+        physik:07af3202-ad49-4265-a4c0-6e9568f2d949,
+        physik:0b670bd3-adea-433c-be89-c89c525a8597,
+        physik:0bd976c5-1851-4b01-8442-81f586075148,
+        physik:0c154642-10fd-452e-b3f1-753f27c5a658,
+        physik:0ff4088c-9057-46a4-9194-72e29519dbdf,
+        physik:11bbbba5-a9dd-465f-a909-224643890349,
+        physik:11eea9f4-cb23-46f8-962f-f33c2c1ed010,
+        physik:144925a0-049b-41f9-9190-6f5cde3fc6e0,
+        physik:18fd2a72-2c08-4393-8eb1-b04c540692d5,
+        physik:19746514-c520-4c08-807c-77a774c2e5b5,
+        physik:1ca363c9-bd5c-44cf-b530-b8b364fe6ce6,
+        physik:1e68809d-a2ba-45a7-9c31-5cac6d6996b0,
+        physik:1fae9c5e-57c5-4b95-a701-f2469feb4e38,
+        physik:1ff33aaa-8057-4fdf-a5bd-984a5b145697,
+        physik:24ccd77c-1479-4f17-9fc1-32ba2c8f3f25,
+        physik:25a3b400-d822-48e3-966f-bb62fa67b780,
+        physik:27d81dea-a636-4275-8c48-ca887589b471,
+        physik:2de227f2-fcdf-42b3-b4d9-1aac0eee7d08,
+        physik:2ff02128-0515-4363-8f76-71b6a67e4023,
+        physik:3287d82e-c69a-43dd-b8e3-9c94ef24ec8f,
+        physik:36f64d36-ccfd-4ee2-94ae-e2f8d153f296,
+        physik:3da9dd5d-6258-4207-81d7-084cf1ce5de2,
+        physik:3e8310be-ddf3-421f-9a64-6832623e6813,
+        physik:453aff56-430b-4289-b88d-c377ec91c0d4,
+        physik:49f9bc0c-dcd7-4deb-8fb9-4579823739b5,
+        physik:4c0aa58e-c3c2-4d80-a4ab-1c0d7e1a99b3,
+        physik:4df6b0a9-2d7c-4986-a750-2e4839f1746b,
+        physik:4f81af17-867c-4dba-8161-e320df7bfb7e,
+        physik:54117353-4353-49da-9882-e1707d805762,
+        physik:58ee97b2-b989-4287-a3da-f5f0062bf525,
+        physik:65228b25-53b3-4562-a0a5-8e14fe3bdfd9,
+        physik:68f8f350-3ce5-462d-9db0-fd69a1f333c1,
+        physik:6cbd5d93-848e-40fa-b01b-4722bc647e6c,
+        physik:6eede01a-9f69-4e9d-ac85-3751e7541951,
+        physik:75e07471-fb68-4746-b779-cd7f2f96eee5,
+        physik:76a69de6-ca69-490d-a851-35a846dc2575,
+        physik:777ce697-cf04-4810-a61b-817c2e072a0b,
+        physik:78a2eb06-6c1b-4e79-9385-9a869ddf6aa4,
+        physik:7bc96b39-8e35-4d6d-a614-674e1e005988,
+        physik:7cb10e7b-457e-48cd-9d95-befdbde682e6,
+        physik:80ed4e25-e1e8-4da5-b73f-802cb5c5895f,
+        physik:8155e949-a967-4305-bff6-2816177ed134,
+        physik:8745a60b-9bfc-4e0b-927a-a8da3008bec3,
+        physik:88b34485-cedd-44c3-80a4-d9ab5d5328b9,
+        physik:8a32f5bc-9f3c-4573-b33b-2337fd68a96f,
+        physik:8c0d6542-4505-4e12-b3c1-84cac6285142,
+        physik:8f44283e-35b7-4b1a-a392-0aab4aa86a00,
+        physik:9d15d1e1-8593-414c-8e19-d11369f26a9f,
+        physik:a333965b-aa3c-42ef-9d24-3c03c12bced5,
+        physik:a5c0b621-521e-456e-8183-db667a3e396d,
+        physik:a5eb1b92-f02e-4bc8-a667-c38d3c3ec5db,
+        physik:abbf1231-9950-4dd3-b4a3-c42ece500430,
+        physik:ae345e70-5dd0-435a-bc6e-b3a4f29310e7,
+        physik:ae3d0983-5919-4f97-81b4-b47cca466f59,
+        physik:af07b326-c757-455b-8a65-fb2b67982036,
+        physik:b00e1915-f2f8-4593-9f43-14245161155c,
+        physik:b41785fb-1ccb-4960-953c-0a41f57b73e0,
+        physik:b536d3d6-3119-4b36-b4a0-9965bdd7e0dc,
+        physik:b6b5ea4b-c6cb-43e2-b212-c7c7b444521f,
+        physik:b6ce57ab-4468-4996-bc5d-99760ce21c87,
+        physik:b9700f72-eebd-4998-bd0e-38f9de9553f3,
+        physik:ba134140-c4cd-429a-b1d8-d4c43e50dce1,
+        physik:baae0977-8628-47f8-baa7-0a42891af855,
+        physik:bc2d658f-2e60-411e-a1aa-e0191c61372c,
+        physik:bc93f4df-8e32-45cf-b544-e436530361b4,
+        physik:be7542ee-2f82-4d94-b8cb-4754fcd7e668,
+        physik:c32e9256-cf21-4347-9883-937c22fc2fef,
+        physik:c40fd968-1671-40f8-a1c4-eb7a827b3898,
+        physik:c8c5aaf7-1fce-4de1-9afe-6367de5eef8c,
+        physik:c8da2ae5-e597-4eaf-a5c1-7169f5be8c1d,
+        physik:cd5eb18c-0e7a-4321-8ce4-78cfc6dc6121,
+        physik:d41f0a92-d0ad-42d3-bcf6-b39e38b7e46e,
+        physik:da58813f-743e-459d-ade7-5dbda56d1310,
+        physik:df38171b-495f-4dbf-b641-ad957e7e2750,
+        physik:df7bc96a-7892-4dcf-83fb-4d655eda15d9,
+        physik:e1a371c4-9804-4dc1-8805-fc8690ccb4d2,
+        physik:e6b66c40-762b-435b-a19f-abeba0ae94a5,
+        physik:e9da3fa9-e528-4709-a732-483df6f3fb20,
+        physik:f258e0e4-371a-4cc7-9b62-96867035dfb1,
+        physik:f2ababf8-079d-48c4-90ed-20069ae7f20e,
+        physik:f4503885-1727-4e71-9105-dc6562ccd02a,
+        physik:f89b25c9-6d8b-45fc-98ef-322761c5bd6d,
+        physik:f904eca4-9217-49bc-b7e0-a13a9d941ef6,
+        physik:fa4d19b4-9e12-4249-a253-bc9a43fd794f,
+        physik:fbfc0135-9e51-435b-8814-d847a5ea3294 ;
     skos:prefLabel "Personen"@de ;
     skos:topConceptOf physik: .
 
@@ -1881,7 +1886,8 @@ physik: a skos:ConceptScheme ;
     dct:creator "<https://creator.com>" ;
     dct:description "physik"@de ;
     dct:title "physik"@de ;
-    skos:hasTopConcept physik:2caea116-406c-46ce-ad96-f5edf53cffa8,
-        physik:4cf6d06c-5920-4644-b379-6c7dcfa24730,
-        physik:7f584c3e-b7b7-4e55-bc2b-df2fd01fd0c7 .
+    skos:hasTopConcept physik:5fae17d6-b00e-4e06-84be-32ad5aa9e6fc,
+        physik:65a2f740-da3a-4dd3-9afb-b2d53fb04c78,
+        physik:9294011b-c134-4eb5-beea-d70a3dbad8a4,
+        physik:ef8a9c90-e869-4471-9aa2-a60711e814b6 .
 

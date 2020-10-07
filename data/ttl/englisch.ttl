@@ -1,0 +1,57 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix englisch: <http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/englisch/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+englisch:1c9965c1-159a-4efa-aecc-5893bbabe186 a skos:Concept ;
+    skos:inScheme englisch: ;
+    skos:prefLabel "amerikanisches englisch"@de ;
+    skos:topConceptOf englisch: .
+
+englisch:9a0d1b5e-b312-4e90-a10b-55ff201055f6 a skos:Concept ;
+    skos:broader englisch:81225704-2d05-44a5-8026-662a7b2c8b9d ;
+    skos:inScheme englisch: ;
+    skos:prefLabel "Dead Men's Path"@de .
+
+englisch:bf9e86ef-4802-42b7-a713-94016055ce7a a skos:Concept ;
+    skos:broader englisch:d310b233-a639-4e65-b600-77ba34647282 ;
+    skos:inScheme englisch: ;
+    skos:prefLabel "Outback"@de .
+
+englisch:c5ec8144-3b57-4416-aeb0-9f5e44818edf a skos:Concept ;
+    skos:broader englisch:9e0e494b-59f2-48d6-83e3-89aff5cc732d ;
+    skos:inScheme englisch: ;
+    skos:prefLabel "The Circle"@de .
+
+englisch:81225704-2d05-44a5-8026-662a7b2c8b9d a skos:Concept ;
+    skos:broader englisch:d5048a2f-4268-44bf-aaa4-b45f2c6d1ded ;
+    skos:inScheme englisch: ;
+    skos:narrower englisch:9a0d1b5e-b312-4e90-a10b-55ff201055f6 ;
+    skos:prefLabel "Achebe, Chinua"@de .
+
+englisch:9e0e494b-59f2-48d6-83e3-89aff5cc732d a skos:Concept ;
+    skos:broader englisch:d5048a2f-4268-44bf-aaa4-b45f2c6d1ded ;
+    skos:inScheme englisch: ;
+    skos:narrower englisch:c5ec8144-3b57-4416-aeb0-9f5e44818edf ;
+    skos:prefLabel "Eggers, Dave"@de .
+
+englisch:d310b233-a639-4e65-b600-77ba34647282 a skos:Concept ;
+    skos:inScheme englisch: ;
+    skos:narrower englisch:bf9e86ef-4802-42b7-a713-94016055ce7a ;
+    skos:prefLabel "Australia"@de ;
+    skos:topConceptOf englisch: .
+
+englisch:d5048a2f-4268-44bf-aaa4-b45f2c6d1ded a skos:Concept ;
+    skos:inScheme englisch: ;
+    skos:narrower englisch:81225704-2d05-44a5-8026-662a7b2c8b9d,
+        englisch:9e0e494b-59f2-48d6-83e3-89aff5cc732d ;
+    skos:prefLabel "Literatur"@de ;
+    skos:topConceptOf englisch: .
+
+englisch: a skos:ConceptScheme ;
+    dct:creator "<https://creator.com>" ;
+    dct:description "englisch"@de ;
+    dct:title "englisch"@de ;
+    skos:hasTopConcept englisch:1c9965c1-159a-4efa-aecc-5893bbabe186,
+        englisch:d310b233-a639-4e65-b600-77ba34647282,
+        englisch:d5048a2f-4268-44bf-aaa4-b45f2c6d1ded .
+

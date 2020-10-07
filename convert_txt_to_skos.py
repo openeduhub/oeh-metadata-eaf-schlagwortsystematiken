@@ -1,4 +1,3 @@
-from striprtf.striprtf import rtf_to_text
 from os import listdir
 from os.path import isfile, join
 from rdflib import Graph, Literal, Namespace, RDF, URIRef
@@ -8,8 +7,9 @@ from argparse import ArgumentParser
 import uuid
 
 parser = ArgumentParser()
-parser.add_argument("-f", "--file", dest="filename", nargs='+',
-                    help="files to be converted, use 'all' to convert all files", metavar="FILE")
+parser.add_argument(
+    "-f", "--file", dest="filename", nargs='+',
+    help="files to be converted, use '--file fall' to convert all files", metavar="FILE")
 
 args = parser.parse_args()
 

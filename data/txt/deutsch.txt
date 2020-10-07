@@ -119,6 +119,7 @@ Dichter, Schriftsteller, etc.
 -Aichinger, Ilse
 -Aischylos
 -Alafenisch, Salim
+--Die Feuerprobe
 -Alexis, Willibald
 -Allmers,Hermann
 -Althaus, Peter Paul
@@ -208,6 +209,7 @@ Dichter, Schriftsteller, etc.
 -Friedländer, Salomon
 -Fries, Fritz Rudolf
 -Frisch, Max
+	--Andorra
 -Fuchs, Günter Bruno
 -Fühmann, Franz
 -Geibel, Emanuel
@@ -485,3 +487,6 @@ Dichter, Schriftsteller, etc.
 -Zweig, Max
 -Zweig, Stefan
 -Zwerenz, Gerhard
+
+
+Konjunktiv I

@@ -87,3 +87,7 @@ Personen
 -Gates, Bill
 -Morse, Samuel
 -Zuse, Konrad
+
+RAM
+Aufbau eines Computers
+augmented Reality

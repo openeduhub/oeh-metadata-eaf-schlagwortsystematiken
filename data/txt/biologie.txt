@@ -709,31 +709,31 @@ Neurobiologie
 Physiologie
 
 Forscher, Biologen
-	Behring, Emil von
-	Chain, Ernst Boris
-	Correns, Carl
-	Cousteau, Jacques Yves
-	Crick, Francis
-	Darwin, Charles
-	Eliava, George
-	Fleming, Alexander
-	Florey, Howard
-	Frisch, Karl von
-	Goodall, Jane
-	Grzimek, Bernhard
-	Haeckel, Ernst
-	Hagenbeck, Carl
-	Hérelle, Felix d’
-	Koch, Robert
-	Lamarck, Jean-Baptiste de
-	Leeuwenhoek, Antoni van
-	Linné, Carl von
-	Lorenz, Konrad
-	Mendel, Gregor
-	Sielmann, Heinz
-	Sprengel, Christian Konrad
-	Watson, James
-	Watson, Paul
+-Behring, Emil von
+-Chain, Ernst Boris
+-Correns, Carl
+-Cousteau, Jacques Yves
+-Crick, Francis
+-Darwin, Charles
+-Eliava, George
+-Fleming, Alexander
+-Florey, Howard
+-Frisch, Karl von
+-Goodall, Jane
+-Grzimek, Bernhard
+-Haeckel, Ernst
+-Hagenbeck, Carl
+-Hérelle, Felix d’
+-Koch, Robert
+-Lamarck, Jean-Baptiste de
+-Leeuwenhoek, Antoni van
+-Linné, Carl von
+-Lorenz, Konrad
+-Mendel, Gregor
+-Sielmann, Heinz
+-Sprengel, Christian Konrad
+-Watson, James
+-Watson, Paul
 
 Aquarium
 Haustier
@@ -766,3 +766,6 @@ Tierheilkunde
 
 Tollwut
 
+Mikroskop
+Mikroskopieren
+Vitamine

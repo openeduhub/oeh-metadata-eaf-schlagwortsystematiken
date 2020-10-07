@@ -16,7 +16,13 @@ Mathematik
 	--Ungleichung (Mathematik)
 -Algorithmus
 	--Bruchrechnung
+	--Bruchrechnen
 	--Grundrechenart
+	---Addieren
+	---Subtrahieren
+	---Multiplizieren
+	---Einmaleins
+	---Dividieren
 	--Kommutativgesetz
 	--Prozentrechnung
 -Analysis
@@ -67,3 +73,14 @@ Personen
 -Gauß, Carl Friedrich
 -Mandelbrot, Benoît
 -Ries, Adam
+
+Mathearbeit
+Terme
+Term
+Gleichungen
+Gleichung
+geometrische Körper
+rechteck
+quader
+ableitung
+-änderungsrate

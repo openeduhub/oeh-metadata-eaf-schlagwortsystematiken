@@ -2,150 +2,170 @@
 @prefix ethik: <http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/ethik/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-ethik:0eb90c7c-d2eb-4129-a14a-9550043942d9 a skos:Concept ;
-    skos:broader ethik:4f475a88-3bd8-41c2-918d-b07b69e4791c ;
+ethik:11325e6c-6ae2-4335-8392-53d5483ee6f7 a skos:Concept ;
+    skos:broader ethik:ff8b3516-bc19-4c9e-aa07-2ed8755c8ee9 ;
     skos:inScheme ethik: ;
-    skos:prefLabel "Moral"@de .
+    skos:prefLabel "Gerechtigkeit"@de .
 
-ethik:1729ac0d-9d91-4851-bccb-f476d296eb2d a skos:Concept ;
+ethik:157ca063-dae6-49b5-b748-5c74ce8358bd a skos:Concept ;
+    skos:broader ethik:95fb284a-e90d-46e1-89ed-ac8f24a8a978 ;
     skos:inScheme ethik: ;
-    skos:prefLabel "Marcuse, Herbert"@de ;
-    skos:topConceptOf ethik: .
+    skos:prefLabel "Wertphilosophie"@de .
 
-ethik:19031bc8-a446-409c-b2f4-dfa478df55fb a skos:Concept ;
-    skos:broader ethik:4f475a88-3bd8-41c2-918d-b07b69e4791c ;
-    skos:inScheme ethik: ;
-    skos:prefLabel "LaoTse"@de .
-
-ethik:1f32684d-e669-420f-8711-d990292c205e a skos:Concept ;
-    skos:broader ethik:4f475a88-3bd8-41c2-918d-b07b69e4791c ;
-    skos:inScheme ethik: ;
-    skos:prefLabel "Leid"@de .
-
-ethik:34e52d41-f016-419d-88b3-9987f7cbf241 a skos:Concept ;
-    skos:broader ethik:4f475a88-3bd8-41c2-918d-b07b69e4791c ;
-    skos:inScheme ethik: ;
-    skos:prefLabel "Menschlichkeit"@de .
-
-ethik:35d9968a-7b6f-4134-8873-e7f3aed82fe9 a skos:Concept ;
-    skos:broader ethik:4f475a88-3bd8-41c2-918d-b07b69e4791c ;
-    skos:inScheme ethik: ;
-    skos:prefLabel "Verkafferung"@de .
-
-ethik:452aea24-4407-470b-9b39-5fb73a6fb86f a skos:Concept ;
-    skos:inScheme ethik: ;
-    skos:prefLabel "Kant, Immanuel"@de ;
-    skos:topConceptOf ethik: .
-
-ethik:49e68ddd-e0fc-40d7-8297-dcf2a886afd4 a skos:Concept ;
-    skos:broader ethik:a020d325-e82b-4b48-9d38-6f28e9a1f2ff ;
-    skos:inScheme ethik: ;
-    skos:prefLabel "Lebensphilosophie"@de .
-
-ethik:5197eddd-3eb8-4245-8e4e-4d8ddfb2d2b8 a skos:Concept ;
-    skos:broader ethik:4f475a88-3bd8-41c2-918d-b07b69e4791c ;
-    skos:inScheme ethik: ;
-    skos:prefLabel "Kaste"@de .
-
-ethik:5201f401-e538-4a54-a6af-b105e4aef3bf a skos:Concept ;
-    skos:broader ethik:4f475a88-3bd8-41c2-918d-b07b69e4791c ;
-    skos:inScheme ethik: ;
-    skos:prefLabel "Seele"@de .
-
-ethik:54850be7-3575-490d-9174-58fc26b1f47d a skos:Concept ;
-    skos:inScheme ethik: ;
-    skos:prefLabel "Brune, Paul"@de ;
-    skos:topConceptOf ethik: .
-
-ethik:5c3b0618-a12d-47c0-af72-7d79238e9772 a skos:Concept ;
-    skos:inScheme ethik: ;
-    skos:prefLabel "Habermas, Jürgen"@de ;
-    skos:topConceptOf ethik: .
-
-ethik:62c05eed-5de4-425d-88db-654bc54c311a a skos:Concept ;
+ethik:20099ce1-daa3-487b-b5b3-0ff25e41d622 a skos:Concept ;
     skos:inScheme ethik: ;
     skos:prefLabel "Heidegger, Martin"@de ;
     skos:topConceptOf ethik: .
 
-ethik:67632e10-5704-4ae5-80e6-7d5f164655ea a skos:Concept ;
-    skos:broader ethik:4f475a88-3bd8-41c2-918d-b07b69e4791c ;
-    skos:inScheme ethik: ;
-    skos:prefLabel "Qualität (Werthaltung)"@de .
-
-ethik:7baf9fc7-1b1d-430b-9cca-f34f0f560901 a skos:Concept ;
-    skos:inScheme ethik: ;
-    skos:prefLabel "Leibniz, Gottfried Wilhelm"@de ;
-    skos:topConceptOf ethik: .
-
-ethik:82a09b01-5f20-4430-86d9-2523aa513e21 a skos:Concept ;
-    skos:broader ethik:4f475a88-3bd8-41c2-918d-b07b69e4791c ;
-    skos:inScheme ethik: ;
-    skos:prefLabel "Gerechtigkeit"@de .
-
-ethik:ac9edbbe-b3ac-4785-9aec-5205eb5f0b11 a skos:Concept ;
+ethik:214ebff1-44a3-4a75-8f00-760b86d86724 a skos:Concept ;
     skos:inScheme ethik: ;
     skos:prefLabel "Thales von Milet"@de ;
     skos:topConceptOf ethik: .
 
-ethik:c6ab1d30-e654-41c8-a450-8ca3778740ce a skos:Concept ;
-    skos:broader ethik:4f475a88-3bd8-41c2-918d-b07b69e4791c ;
+ethik:272fd7a0-e5f2-450c-88e4-9fdab535e9bb a skos:Concept ;
+    skos:broader ethik:95fb284a-e90d-46e1-89ed-ac8f24a8a978 ;
     skos:inScheme ethik: ;
-    skos:prefLabel "Weltanschauung"@de .
+    skos:prefLabel "Lebensphilosophie"@de .
 
-ethik:cf3c6b4f-5873-4bfc-b11f-430dac62ac6d a skos:Concept ;
-    skos:broader ethik:4f475a88-3bd8-41c2-918d-b07b69e4791c ;
+ethik:36ee5d3b-9c9f-47de-83f0-aa41265d125b a skos:Concept ;
+    skos:broader ethik:ff8b3516-bc19-4c9e-aa07-2ed8755c8ee9 ;
     skos:inScheme ethik: ;
-    skos:prefLabel "Pflicht"@de .
+    skos:prefLabel "Seele"@de .
 
-ethik:e6569de9-969d-42b5-825c-df6ab17b9fb6 a skos:Concept ;
+ethik:3a1d4e02-a6e8-4e1f-bee7-b829620a6372 a skos:Concept ;
+    skos:broader ethik:ff8b3516-bc19-4c9e-aa07-2ed8755c8ee9 ;
+    skos:inScheme ethik: ;
+    skos:prefLabel "Menschlichkeit"@de .
+
+ethik:3f3fd6cd-a345-490c-89bb-7d8a510f21aa a skos:Concept ;
+    skos:broader ethik:ff8b3516-bc19-4c9e-aa07-2ed8755c8ee9 ;
+    skos:inScheme ethik: ;
+    skos:prefLabel "LaoTse"@de .
+
+ethik:4a53f9bf-11de-4112-8ad5-1f89ba01ed44 a skos:Concept ;
+    skos:inScheme ethik: ;
+    skos:prefLabel "Buddhismus"@de ;
+    skos:topConceptOf ethik: .
+
+ethik:5c681fbf-16c3-45c4-8153-4baccca631ce a skos:Concept ;
+    skos:inScheme ethik: ;
+    skos:prefLabel "Kant, Immanuel"@de ;
+    skos:topConceptOf ethik: .
+
+ethik:64995eff-0ea2-4003-9cc7-02895ed49437 a skos:Concept ;
+    skos:inScheme ethik: ;
+    skos:prefLabel "Aggressionstheorien"@de ;
+    skos:topConceptOf ethik: .
+
+ethik:6bdfb55a-03e9-4894-ab58-dc7500d9d480 a skos:Concept ;
+    skos:inScheme ethik: ;
+    skos:prefLabel "Marcuse, Herbert"@de ;
+    skos:topConceptOf ethik: .
+
+ethik:7f00be75-8d3f-4288-9864-7f990d218a05 a skos:Concept ;
+    skos:inScheme ethik: ;
+    skos:prefLabel "Brune, Paul"@de ;
+    skos:topConceptOf ethik: .
+
+ethik:8160d807-db01-4aeb-8f38-36907bffad7b a skos:Concept ;
+    skos:broader ethik:ff8b3516-bc19-4c9e-aa07-2ed8755c8ee9 ;
+    skos:inScheme ethik: ;
+    skos:prefLabel "Menschenwürde"@de .
+
+ethik:86446832-ae0c-477c-aa74-7299262964ed a skos:Concept ;
     skos:inScheme ethik: ;
     skos:prefLabel "Schopenhauer, Arthur"@de ;
     skos:topConceptOf ethik: .
 
-ethik:e963e2c8-aa89-4950-8015-07b2e4bb23e7 a skos:Concept ;
-    skos:broader ethik:4f475a88-3bd8-41c2-918d-b07b69e4791c ;
+ethik:8cb2b1c0-577b-470f-96ad-44b6fd4f59f2 a skos:Concept ;
+    skos:broader ethik:ff8b3516-bc19-4c9e-aa07-2ed8755c8ee9 ;
     skos:inScheme ethik: ;
-    skos:prefLabel "Menschenwürde"@de .
+    skos:prefLabel "Moral"@de .
 
-ethik:eccadcab-18d9-44b5-a128-b7cba27763bf a skos:Concept ;
-    skos:broader ethik:4f475a88-3bd8-41c2-918d-b07b69e4791c ;
+ethik:8d79c019-5458-432e-bcde-d5109d04d5d3 a skos:Concept ;
     skos:inScheme ethik: ;
-    skos:prefLabel "Weltschmerz"@de .
+    skos:prefLabel "Habermas, Jürgen"@de ;
+    skos:topConceptOf ethik: .
 
-ethik:f7a72840-9806-4ae6-858c-81a8707fef32 a skos:Concept ;
-    skos:broader ethik:4f475a88-3bd8-41c2-918d-b07b69e4791c ;
+ethik:9629fc95-07ce-46ad-85ea-1caf8de54973 a skos:Concept ;
+    skos:broader ethik:ff8b3516-bc19-4c9e-aa07-2ed8755c8ee9 ;
+    skos:inScheme ethik: ;
+    skos:prefLabel "Verkafferung"@de .
+
+ethik:9e5bcc9b-d555-49b8-a029-2a934f665cb6 a skos:Concept ;
+    skos:broader ethik:ff8b3516-bc19-4c9e-aa07-2ed8755c8ee9 ;
+    skos:inScheme ethik: ;
+    skos:prefLabel "Qualität (Werthaltung)"@de .
+
+ethik:ab37bb43-2d50-492b-a109-adc8f95bcbe7 a skos:Concept ;
+    skos:broader ethik:ff8b3516-bc19-4c9e-aa07-2ed8755c8ee9 ;
     skos:inScheme ethik: ;
     skos:prefLabel "Autosuggestion"@de .
 
-ethik:fe4db74d-7ca9-4976-a0fa-f5fd7006002e a skos:Concept ;
-    skos:broader ethik:a020d325-e82b-4b48-9d38-6f28e9a1f2ff ;
+ethik:d9ef9522-74fc-4816-be31-324117da2c8f a skos:Concept ;
+    skos:broader ethik:ff8b3516-bc19-4c9e-aa07-2ed8755c8ee9 ;
     skos:inScheme ethik: ;
-    skos:prefLabel "Wertphilosophie"@de .
+    skos:prefLabel "Pflicht"@de .
 
-ethik:a020d325-e82b-4b48-9d38-6f28e9a1f2ff a skos:Concept ;
-    skos:broader ethik:4f475a88-3bd8-41c2-918d-b07b69e4791c ;
+ethik:ddc3ce35-6e19-40ec-8369-ad3e0ac57311 a skos:Concept ;
+    skos:broader ethik:ff8b3516-bc19-4c9e-aa07-2ed8755c8ee9 ;
     skos:inScheme ethik: ;
-    skos:narrower ethik:49e68ddd-e0fc-40d7-8297-dcf2a886afd4,
-        ethik:fe4db74d-7ca9-4976-a0fa-f5fd7006002e ;
+    skos:prefLabel "Kaste"@de .
+
+ethik:ed878d4c-1ab2-4a04-a220-e089b688d1c8 a skos:Concept ;
+    skos:broader ethik:ff8b3516-bc19-4c9e-aa07-2ed8755c8ee9 ;
+    skos:inScheme ethik: ;
+    skos:prefLabel "Weltschmerz"@de .
+
+ethik:f39218b5-6bf0-40c2-a160-742468138ec3 a skos:Concept ;
+    skos:broader ethik:ff8b3516-bc19-4c9e-aa07-2ed8755c8ee9 ;
+    skos:inScheme ethik: ;
+    skos:prefLabel "Leid"@de .
+
+ethik:f6d7c326-6a69-4f69-8e04-95c77007ccfd a skos:Concept ;
+    skos:inScheme ethik: ;
+    skos:prefLabel "Bewusstseins"@de ;
+    skos:topConceptOf ethik: .
+
+ethik:f87e6405-144d-40c4-8b70-8a2e56e06e86 a skos:Concept ;
+    skos:inScheme ethik: ;
+    skos:prefLabel "Hume, David"@de ;
+    skos:topConceptOf ethik: .
+
+ethik:f983966a-1700-4298-a173-2d454dc6febb a skos:Concept ;
+    skos:inScheme ethik: ;
+    skos:prefLabel "Leibniz, Gottfried Wilhelm"@de ;
+    skos:topConceptOf ethik: .
+
+ethik:fcb7a4b6-6fb1-4071-b772-998fc5e6b4bb a skos:Concept ;
+    skos:broader ethik:ff8b3516-bc19-4c9e-aa07-2ed8755c8ee9 ;
+    skos:inScheme ethik: ;
+    skos:prefLabel "Weltanschauung"@de .
+
+ethik:95fb284a-e90d-46e1-89ed-ac8f24a8a978 a skos:Concept ;
+    skos:broader ethik:ff8b3516-bc19-4c9e-aa07-2ed8755c8ee9 ;
+    skos:inScheme ethik: ;
+    skos:narrower ethik:157ca063-dae6-49b5-b748-5c74ce8358bd,
+        ethik:272fd7a0-e5f2-450c-88e4-9fdab535e9bb ;
     skos:prefLabel "Philosophie"@de .
 
-ethik:4f475a88-3bd8-41c2-918d-b07b69e4791c a skos:Concept ;
+ethik:ff8b3516-bc19-4c9e-aa07-2ed8755c8ee9 a skos:Concept ;
     skos:inScheme ethik: ;
-    skos:narrower ethik:0eb90c7c-d2eb-4129-a14a-9550043942d9,
-        ethik:19031bc8-a446-409c-b2f4-dfa478df55fb,
-        ethik:1f32684d-e669-420f-8711-d990292c205e,
-        ethik:34e52d41-f016-419d-88b3-9987f7cbf241,
-        ethik:35d9968a-7b6f-4134-8873-e7f3aed82fe9,
-        ethik:5197eddd-3eb8-4245-8e4e-4d8ddfb2d2b8,
-        ethik:5201f401-e538-4a54-a6af-b105e4aef3bf,
-        ethik:67632e10-5704-4ae5-80e6-7d5f164655ea,
-        ethik:82a09b01-5f20-4430-86d9-2523aa513e21,
-        ethik:a020d325-e82b-4b48-9d38-6f28e9a1f2ff,
-        ethik:c6ab1d30-e654-41c8-a450-8ca3778740ce,
-        ethik:cf3c6b4f-5873-4bfc-b11f-430dac62ac6d,
-        ethik:e963e2c8-aa89-4950-8015-07b2e4bb23e7,
-        ethik:eccadcab-18d9-44b5-a128-b7cba27763bf,
-        ethik:f7a72840-9806-4ae6-858c-81a8707fef32 ;
+    skos:narrower ethik:11325e6c-6ae2-4335-8392-53d5483ee6f7,
+        ethik:36ee5d3b-9c9f-47de-83f0-aa41265d125b,
+        ethik:3a1d4e02-a6e8-4e1f-bee7-b829620a6372,
+        ethik:3f3fd6cd-a345-490c-89bb-7d8a510f21aa,
+        ethik:8160d807-db01-4aeb-8f38-36907bffad7b,
+        ethik:8cb2b1c0-577b-470f-96ad-44b6fd4f59f2,
+        ethik:95fb284a-e90d-46e1-89ed-ac8f24a8a978,
+        ethik:9629fc95-07ce-46ad-85ea-1caf8de54973,
+        ethik:9e5bcc9b-d555-49b8-a029-2a934f665cb6,
+        ethik:ab37bb43-2d50-492b-a109-adc8f95bcbe7,
+        ethik:d9ef9522-74fc-4816-be31-324117da2c8f,
+        ethik:ddc3ce35-6e19-40ec-8369-ad3e0ac57311,
+        ethik:ed878d4c-1ab2-4a04-a220-e089b688d1c8,
+        ethik:f39218b5-6bf0-40c2-a160-742468138ec3,
+        ethik:fcb7a4b6-6fb1-4071-b772-998fc5e6b4bb ;
     skos:prefLabel "Ethik"@de ;
     skos:topConceptOf ethik: .
 
@@ -153,13 +173,17 @@ ethik: a skos:ConceptScheme ;
     dct:creator "<https://creator.com>" ;
     dct:description "ethik"@de ;
     dct:title "ethik"@de ;
-    skos:hasTopConcept ethik:1729ac0d-9d91-4851-bccb-f476d296eb2d,
-        ethik:452aea24-4407-470b-9b39-5fb73a6fb86f,
-        ethik:4f475a88-3bd8-41c2-918d-b07b69e4791c,
-        ethik:54850be7-3575-490d-9174-58fc26b1f47d,
-        ethik:5c3b0618-a12d-47c0-af72-7d79238e9772,
-        ethik:62c05eed-5de4-425d-88db-654bc54c311a,
-        ethik:7baf9fc7-1b1d-430b-9cca-f34f0f560901,
-        ethik:ac9edbbe-b3ac-4785-9aec-5205eb5f0b11,
-        ethik:e6569de9-969d-42b5-825c-df6ab17b9fb6 .
+    skos:hasTopConcept ethik:20099ce1-daa3-487b-b5b3-0ff25e41d622,
+        ethik:214ebff1-44a3-4a75-8f00-760b86d86724,
+        ethik:4a53f9bf-11de-4112-8ad5-1f89ba01ed44,
+        ethik:5c681fbf-16c3-45c4-8153-4baccca631ce,
+        ethik:64995eff-0ea2-4003-9cc7-02895ed49437,
+        ethik:6bdfb55a-03e9-4894-ab58-dc7500d9d480,
+        ethik:7f00be75-8d3f-4288-9864-7f990d218a05,
+        ethik:86446832-ae0c-477c-aa74-7299262964ed,
+        ethik:8d79c019-5458-432e-bcde-d5109d04d5d3,
+        ethik:f6d7c326-6a69-4f69-8e04-95c77007ccfd,
+        ethik:f87e6405-144d-40c4-8b70-8a2e56e06e86,
+        ethik:f983966a-1700-4298-a173-2d454dc6febb,
+        ethik:ff8b3516-bc19-4c9e-aa07-2ed8755c8ee9 .
 

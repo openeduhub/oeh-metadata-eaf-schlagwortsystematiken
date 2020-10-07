@@ -2,1662 +2,1682 @@
 @prefix politik: <http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-politik:0167f5ac-1a0d-49f2-9a1e-87b1d7ba7af3 a skos:Concept ;
-    skos:broader politik:40fa13a7-0670-4816-8043-2bfc9f38811c ;
+politik:00f03a3f-25ba-42a2-bb5e-ef6935780059 a skos:Concept ;
+    skos:broader politik:74a947a7-d4a3-4fa8-81fa-014a917dfb8f ;
     skos:inScheme politik: ;
-    skos:prefLabel "Sozialdemokratische Partei Deutschlands"@de .
+    skos:prefLabel "Bundesverfassungsgericht"@de .
 
-politik:0281c91b-6425-4ef6-90bc-2b5db66d274f a skos:Concept ;
-    skos:broader politik:74117693-cd34-4f22-83cd-17d5a20b3264 ;
+politik:01015945-d858-4db7-a1ad-d2657e72d603 a skos:Concept ;
+    skos:broader politik:12e6cc43-0ef1-49ca-a2de-939926288bb0 ;
     skos:inScheme politik: ;
-    skos:prefLabel "Trump, Donald"@de .
+    skos:prefLabel "Vermittlungsausschuss"@de .
 
-politik:02935451-79d3-44e6-9103-dba68d6f9541 a skos:Concept ;
-    skos:broader politik:74117693-cd34-4f22-83cd-17d5a20b3264 ;
+politik:01794ef8-26de-4912-b953-674e1f1f0270 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
     skos:inScheme politik: ;
-    skos:prefLabel "Yousafzai, Malala"@de .
+    skos:prefLabel "Grundrechte"@de .
 
-politik:05e5f6e2-0e70-4a20-8313-2e81c3ab1a2b a skos:Concept ;
-    skos:broader politik:79dacc6d-0266-4b0f-b8c6-4d5b6d47f91b ;
+politik:017c9802-c427-4020-ad9d-943297eeaefd a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
     skos:inScheme politik: ;
-    skos:prefLabel "Isolationismus"@de .
+    skos:prefLabel "Kinderrechte"@de .
 
-politik:06c274d6-2f20-487d-8353-68767d216cc0 a skos:Concept ;
-    skos:broader politik:cba8e94e-4057-4a0d-9151-1ffff887acd7 ;
+politik:021806eb-2ae7-4405-bdc7-eaf4e9ae0bad a skos:Concept ;
+    skos:broader politik:0c10c619-99ca-4ca5-ae58-f00f36fb1e7f ;
     skos:inScheme politik: ;
-    skos:prefLabel "Rechtsstaat"@de .
+    skos:prefLabel "Entwicklungsland"@de .
 
-politik:0725b400-f1de-4174-942e-2c2c7cd741ae a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
+politik:02c3f9d4-8b57-42ad-8f9a-9d661d5ca939 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
     skos:inScheme politik: ;
-    skos:prefLabel "Polizei"@de .
+    skos:prefLabel "Interesse (Politikwissenschaft)"@de .
 
-politik:07f38dfa-28b5-4440-9437-f82f9c508cb4 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
+politik:034042a2-8484-493a-a76a-e1b3b25130a5 a skos:Concept ;
+    skos:broader politik:c38b1562-1117-46b3-b303-3763217a3c7d ;
     skos:inScheme politik: ;
-    skos:prefLabel "Politischer Konflikt"@de .
+    skos:prefLabel "Zivilrecht"@de .
 
-politik:0c6e9cc5-95c0-4854-bfd3-9664ea9f799b a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Sozialismus"@de .
-
-politik:0ca944be-b2e2-4bba-9749-05b3bb56424b a skos:Concept ;
-    skos:broader politik:74117693-cd34-4f22-83cd-17d5a20b3264 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Schmidt, Helmut"@de .
-
-politik:0d38d5cf-f9ed-43ca-85ba-6aac9a0024d2 a skos:Concept ;
-    skos:broader politik:74117693-cd34-4f22-83cd-17d5a20b3264 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Kraft, Hannelore"@de .
-
-politik:0f2e5685-6be1-4857-a265-a5538235bc54 a skos:Concept ;
-    skos:broader politik:74117693-cd34-4f22-83cd-17d5a20b3264 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Neudeck, Rupert"@de .
-
-politik:10e31270-575d-4466-82d3-820ad5b1cb2e a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Opposition"@de .
-
-politik:1302883b-cf70-4e83-9c00-c7dfed49356c a skos:Concept ;
-    skos:broader politik:81368287-b410-4fde-8b69-91e13e1392a2 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Friedensbewegung"@de .
-
-politik:1363b098-8ed5-4856-904f-1b8d27ea93fd a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Protest"@de .
-
-politik:13a5bd3c-5ee8-43cc-85e6-10d08b9706c6 a skos:Concept ;
-    skos:broader politik:419eb6d1-8d29-4752-97d6-74351fe03e96 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Pressefreiheit"@de .
-
-politik:13c713dc-0b59-4983-a02c-54eb6e54a902 a skos:Concept ;
-    skos:broader politik:0021ab1f-bf9c-4fc9-8195-aa0134f96bbf ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Verhältniswahl"@de .
-
-politik:13cf4a75-1b3d-4cf2-92bb-d63313e43098 a skos:Concept ;
-    skos:broader politik:c4d0ee1d-954a-4f19-b6b2-e81cd6c7f379 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Weltmacht"@de .
-
-politik:18259f29-05d0-42ce-9df9-601078353c7f a skos:Concept ;
-    skos:broader politik:74117693-cd34-4f22-83cd-17d5a20b3264 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Brugioni, Dino"@de .
-
-politik:1948dd27-68d7-4f49-91f7-115a66724f62 a skos:Concept ;
-    skos:broader politik:c4d0ee1d-954a-4f19-b6b2-e81cd6c7f379 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Nationalismus"@de .
-
-politik:19f9e644-9a3d-4b6d-bf66-7904c2839424 a skos:Concept ;
-    skos:broader politik:e8e3682e-4c72-44ef-b219-2bb9b064c113 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Rassismus (Deutschland)"@de .
-
-politik:1c59a606-2140-475c-8b6e-5d1f52ec2b71 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "EGovernment"@de .
-
-politik:1d4e669d-9a00-4b49-b4df-aa03b5202031 a skos:Concept ;
-    skos:broader politik:74117693-cd34-4f22-83cd-17d5a20b3264 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Bush, George W."@de .
-
-politik:1e1584aa-e552-4a07-979f-5609f32dbb45 a skos:Concept ;
-    skos:broader politik:c2643ec5-ac36-4d86-8e30-010c7fa3ddfb ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Kinderarbeit"@de .
-
-politik:1e65c839-1379-4fe4-83e0-ba8763af511b a skos:Concept ;
-    skos:broader politik:1f4ab22e-8263-41df-8e47-b435cd6926c0 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Jugendstrafvollzug"@de .
-
-politik:1fb6a195-b9b0-4f53-9af1-6a46fc879ff2 a skos:Concept ;
-    skos:broader politik:e5540f6b-284a-4624-841e-ac7bf6a1de35 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Unrecht"@de .
-
-politik:20a8d57b-e553-4235-b223-7a025f64a2a1 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Selbstbestimmung"@de .
-
-politik:20f4c799-9fe9-4565-915c-b04ed1831e50 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
+politik:03ec26f6-532b-41c1-b13b-ef5a3e7f84c4 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
     skos:inScheme politik: ;
     skos:prefLabel "Jugendfreiwilligendienst"@de .
 
-politik:21ccca36-8148-44a1-bcc0-6f46d9acea45 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
+politik:0460e09f-8fbd-482e-bde4-bda45bfd4a74 a skos:Concept ;
+    skos:broader politik:67ea7bf0-8b7b-412f-90c7-1a3431bebedb ;
     skos:inScheme politik: ;
-    skos:prefLabel "Nobelpreis"@de .
+    skos:prefLabel "Verfassungsschutz"@de .
 
-politik:2233c7f8-d803-4eb7-880c-69788ad3e92e a skos:Concept ;
-    skos:broader politik:3c9725c3-cdb4-4ce8-ba98-568075731620 ;
+politik:0536472b-e76c-4c59-a677-5144559f98f1 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
     skos:inScheme politik: ;
-    skos:prefLabel "Wahlkampf"@de .
+    skos:prefLabel "DominoTheorie"@de .
 
-politik:2261be30-fb15-48cb-840c-8667e20ffe92 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
+politik:05f1288a-e7fa-4bd7-904a-7d12aa950e2b a skos:Concept ;
+    skos:broader politik:44c1d1d5-b732-442e-b989-638b41bd9249 ;
     skos:inScheme politik: ;
-    skos:prefLabel "Jugendkultur"@de .
+    skos:prefLabel "Brugioni, Dino"@de .
 
-politik:253d38f4-54aa-4831-9b30-353c85f1f45c a skos:Concept ;
-    skos:broader politik:cba8e94e-4057-4a0d-9151-1ffff887acd7 ;
+politik:061c33c9-d903-4f5e-b7bb-cc1dd388a38b a skos:Concept ;
+    skos:broader politik:cbd3bb63-2b80-43e8-a489-ee61f2d7ae20 ;
     skos:inScheme politik: ;
-    skos:prefLabel "Gleichschaltung"@de .
+    skos:prefLabel "Pressefreiheit"@de .
 
-politik:2620dcc1-333d-496b-a816-944202d27609 a skos:Concept ;
-    skos:broader politik:c4d0ee1d-954a-4f19-b6b2-e81cd6c7f379 ;
+politik:06278f24-63ee-460b-8c2a-b8e5d50af284 a skos:Concept ;
+    skos:broader politik:12e6cc43-0ef1-49ca-a2de-939926288bb0 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Bundesrat"@de .
+
+politik:067d9eaa-5056-4026-a9ad-bf954bfca313 a skos:Concept ;
+    skos:broader politik:96dcd6cf-2920-4d91-82b4-c66fd0a320dd ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Große Koalition "@de .
+
+politik:073a55df-f2ba-4da9-9036-ed05c2d722cf a skos:Concept ;
+    skos:broader politik:04ad6a9d-e655-4ec8-b17f-80dd9bef88d7 ;
     skos:inScheme politik: ;
     skos:prefLabel "Staatsbürgerschaft"@de .
 
-politik:275f7f33-5056-4d25-b307-21e67a210d8e a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
+politik:0d15b6cc-fd42-4543-bae1-514610ddc789 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
     skos:inScheme politik: ;
-    skos:prefLabel "Arbeitsagentur"@de .
+    skos:prefLabel "Rationalismus"@de .
 
-politik:28d36278-8883-4bd3-8b07-af98d0aaf1d2 a skos:Concept ;
-    skos:broader politik:74117693-cd34-4f22-83cd-17d5a20b3264 ;
+politik:0eb751d7-6251-4f3e-9034-d0fd83338040 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
     skos:inScheme politik: ;
-    skos:prefLabel "Modrow, Hans"@de .
+    skos:prefLabel "Spätaussiedler"@de .
 
-politik:294325e4-062d-4900-882a-6a7fd2dc8462 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
+politik:0f424136-60af-410e-a4c9-d3547b0a5d3c a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
     skos:inScheme politik: ;
     skos:prefLabel "OderNeißeGrenze"@de .
 
-politik:2a009b4e-c7e2-465a-b2d5-ec2a8c1972ea a skos:Concept ;
+politik:0f7c5384-6f92-43d3-8a07-72202077da7e a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
     skos:inScheme politik: ;
-    skos:prefLabel "GUS"@de ;
+    skos:prefLabel "Demoskopie"@de .
+
+politik:0fe49985-abce-48ff-8d35-baddec96bd49 a skos:Concept ;
+    skos:broader politik:0606000e-0d95-42d4-912e-c86e350dfcb2 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Okkupation"@de .
+
+politik:0ff02995-c961-4845-a4c8-f5b34e94ec56 a skos:Concept ;
+    skos:broader politik:0606000e-0d95-42d4-912e-c86e350dfcb2 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Verteidigung (Politik)"@de .
+
+politik:112d96bd-f045-4af4-b169-d7c575cced09 a skos:Concept ;
+    skos:broader politik:c38b1562-1117-46b3-b303-3763217a3c7d ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Rechtsprechung"@de .
+
+politik:1162790f-efcc-497f-aa65-cc5f41146e17 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Arbeitsmarktpolitik"@de .
+
+politik:14c3c457-5081-4097-bd1a-8bd74c385ce4 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Imperialismus"@de .
+
+politik:14cf6ce0-5726-4148-b7e5-387acbe17479 a skos:Concept ;
+    skos:broader politik:bd8e3d36-d0e4-45ab-9ef5-e1bd304e1b5c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Marxismus"@de .
+
+politik:157539c4-5a21-4862-9971-494d2d918dcb a skos:Concept ;
+    skos:broader politik:01ee2b22-4efc-45ad-9c88-e046ff027b99 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Wahlrecht"@de .
+
+politik:18afd9ec-4988-48b1-a770-6f3047e735e1 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Herrscher"@de .
+
+politik:1b1ab4a3-b9bf-441a-9301-fe8a58ecbfb0 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Propaganda"@de .
+
+politik:1c3e18d7-1bac-4691-a3e9-74bd2a163bf4 a skos:Concept ;
+    skos:broader politik:c38b1562-1117-46b3-b303-3763217a3c7d ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Unrecht"@de .
+
+politik:1c7d88e1-3502-4e2b-82f6-58714feadcf0 a skos:Concept ;
+    skos:broader politik:04ad6a9d-e655-4ec8-b17f-80dd9bef88d7 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Nationalflagge"@de .
+
+politik:1ded709c-5420-458a-ba5b-f4aed7c4110d a skos:Concept ;
+    skos:broader politik:018c7161-3dee-4814-bcef-5d051090feba ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Gesetzgebungsverfahren"@de .
+
+politik:1e5af1a2-e23f-48f5-8973-7a6f8a1baec5 a skos:Concept ;
+    skos:broader politik:9af467a5-6b52-4aaf-b972-ac74d87dabfc ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Rassismus (USA)"@de .
+
+politik:1ea683b9-3f8b-4071-8da1-34a3f289ea8b a skos:Concept ;
+    skos:broader politik:a9b11aa8-9f88-4884-a8e9-c82876e5c5f5 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Grundgesetz"@de .
+
+politik:1ed9239b-82f1-4393-832c-c4d38d2c2bb4 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Kollektivierung"@de .
+
+politik:1f1b5530-5dab-4fda-bb94-12a1b50d2a71 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Modellversuch"@de .
+
+politik:1f1ce785-eacb-4d9c-957a-b4a5e5a3f863 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Rassenfrage"@de .
+
+politik:204b1200-194d-4261-8658-baaa7bf09b40 a skos:Concept ;
+    skos:broader politik:44c1d1d5-b732-442e-b989-638b41bd9249 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Modrow, Hans"@de .
+
+politik:217a0e46-fe86-4678-a320-aef8d6440b11 a skos:Concept ;
+    skos:broader politik:0606000e-0d95-42d4-912e-c86e350dfcb2 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Invasion"@de .
+
+politik:235d0502-6edd-4fd7-a1fe-f33790f70266 a skos:Concept ;
+    skos:broader politik:bd8e3d36-d0e4-45ab-9ef5-e1bd304e1b5c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Totalitarismus"@de .
+
+politik:239bd24a-f125-4c31-a465-0119005a3f5d a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Arbeitsagentur"@de .
+
+politik:23ea1b13-0711-4d2a-8ab8-18ff18f501e2 a skos:Concept ;
+    skos:broader politik:44c1d1d5-b732-442e-b989-638b41bd9249 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Neudeck, Rupert"@de .
+
+politik:25826d8b-a0ca-46e4-bed5-8a9deb59cf7e a skos:Concept ;
+    skos:broader politik:44c1d1d5-b732-442e-b989-638b41bd9249 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Avnery, Uri"@de .
+
+politik:25f658db-391b-4889-b46f-bd594fe08f00 a skos:Concept ;
+    skos:broader politik:bd8e3d36-d0e4-45ab-9ef5-e1bd304e1b5c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Militarismus"@de .
+
+politik:26e05a01-6a8e-4f65-80a1-93790acb6541 a skos:Concept ;
+    skos:broader politik:c51d9f59-91da-41e1-8459-44ad48148a46 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Verhältniswahl"@de .
+
+politik:26fef7bd-cf68-43b6-b98e-056cbc94c31b a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Opposition"@de .
+
+politik:2a884766-2754-400d-9450-79c3ec59f4ac a skos:Concept ;
+    skos:broader politik:44c1d1d5-b732-442e-b989-638b41bd9249 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Hänsch, Klaus"@de .
+
+politik:2b1b6a1f-520b-454c-a9a6-6705e4ea550d a skos:Concept ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Klimawandel"@de ;
     skos:topConceptOf politik: .
 
-politik:2acce778-86f1-4d34-9758-a7d1cf567b86 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
+politik:2bde4e66-fc6e-447e-bcd2-3aff14142ae9 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
     skos:inScheme politik: ;
-    skos:prefLabel "Bundesfreiwilligendienst"@de .
+    skos:prefLabel "Golfstaaten"@de .
 
-politik:2b01bfde-0413-4ee2-8515-959ec8f44a17 a skos:Concept ;
-    skos:broader politik:098dbe83-ad24-478f-91c5-a88465787057 ;
+politik:2ca513ec-832a-4e29-a1c7-bf2d1d86e15c a skos:Concept ;
+    skos:broader politik:04ad6a9d-e655-4ec8-b17f-80dd9bef88d7 ;
     skos:inScheme politik: ;
-    skos:prefLabel "Sozialstruktur"@de .
+    skos:prefLabel "Nationalismus"@de .
 
-politik:2e2f207d-dc8e-4ba1-8768-79bf143d4804 a skos:Concept ;
-    skos:broader politik:ffc72bc1-34ee-4622-817a-162f913539a0 ;
+politik:2d4a342c-8097-47ed-a1a7-aa78147af317 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
     skos:inScheme politik: ;
-    skos:prefLabel "Zwangsvollstreckung"@de .
+    skos:prefLabel "Dienstleistung"@de .
 
-politik:301e0947-1fb9-4c66-aaeb-0e50a0f8d4f9 a skos:Concept ;
-    skos:broader politik:2c0fbfa6-b855-472f-bb21-6b4879592c80 ;
+politik:2d7f4ae1-e6cd-4496-b6f0-7b2b6bd53c9a a skos:Concept ;
+    skos:broader politik:c38b1562-1117-46b3-b303-3763217a3c7d ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Staatsanwaltschaft"@de .
+
+politik:2f967049-81be-4efc-82e1-1e43747ba825 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Gesellschaft"@de .
+
+politik:301ff9f6-fc19-4105-88c9-29fc70d38a21 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "EGovernment"@de .
+
+politik:30a2ed02-323f-4016-bbe5-a836bdc1a65b a skos:Concept ;
+    skos:broader politik:0606000e-0d95-42d4-912e-c86e350dfcb2 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Gewalt (Krieg)"@de .
+
+politik:31ede7ef-f495-4c7e-ba29-9a7d116f430f a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Materialismus"@de .
+
+politik:34c815f2-c1b3-4a40-958f-a72aae941de3 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "KSZE"@de .
+
+politik:34d70749-f278-431d-a715-788d199c7237 a skos:Concept ;
+    skos:broader politik:15535a66-56c1-43d2-8bf9-cf3a4885cf86 ;
     skos:inScheme politik: ;
     skos:prefLabel "RAF"@de .
 
-politik:30e5d32b-57d0-4e39-88c2-8e1f7ff6cb75 a skos:Concept ;
+politik:3582dcb6-32b0-405e-92a3-c1344ac4d8e1 a skos:Concept ;
+    skos:broader politik:44c1d1d5-b732-442e-b989-638b41bd9249 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Biedenkopf, Kurt"@de .
+
+politik:361fb754-9fea-42a8-a688-27811cf91bfe a skos:Concept ;
+    skos:broader politik:44c1d1d5-b732-442e-b989-638b41bd9249 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Le Pen, JeanMArie"@de .
+
+politik:3747aa90-7c87-4266-8ba2-f6f727702b8b a skos:Concept ;
+    skos:broader politik:44c1d1d5-b732-442e-b989-638b41bd9249 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Trump, Donald"@de .
+
+politik:37756a87-ec92-4c52-bb8d-bb0ca3666bce a skos:Concept ;
+    skos:broader politik:44c1d1d5-b732-442e-b989-638b41bd9249 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Clement, Wolfgang"@de .
+
+politik:378ec7e3-f0b7-4450-bde1-b413018e782d a skos:Concept ;
+    skos:broader politik:2a0562be-2fc7-4653-8606-45ec16d7e970 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Zwangsvollstreckung"@de .
+
+politik:37cf5280-defd-40fe-afe2-80a64fe47e61 a skos:Concept ;
+    skos:broader politik:c51d9f59-91da-41e1-8459-44ad48148a46 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Überhangmandat"@de .
+
+politik:39e80c87-4a14-41c4-87c8-0adf07737761 a skos:Concept ;
+    skos:broader politik:0606000e-0d95-42d4-912e-c86e350dfcb2 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Luftkrieg"@de .
+
+politik:400d13e9-5fff-422f-8b25-b0757ca8e029 a skos:Concept ;
+    skos:broader politik:bd8e3d36-d0e4-45ab-9ef5-e1bd304e1b5c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Liberalismus"@de .
+
+politik:40a831cd-821a-4cdf-96ab-fa863b3fcec2 a skos:Concept ;
+    skos:broader politik:2c244383-f732-494a-abb6-77e407f5ebb3 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "UNESCO"@de .
+
+politik:427f4054-eb04-43c3-bd05-08c4d573268b a skos:Concept ;
+    skos:broader politik:c38b1562-1117-46b3-b303-3763217a3c7d ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Völkerrecht"@de .
+
+politik:434316f4-4c08-4d05-8f1a-2ffd5eba45fc a skos:Concept ;
+    skos:broader politik:44c1d1d5-b732-442e-b989-638b41bd9249 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Elisabeth II. (Königin England)"@de .
+
+politik:46fc4d36-3ae6-4310-81ae-e16633723480 a skos:Concept ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Kapitalismus"@de ;
+    skos:topConceptOf politik: .
+
+politik:488bd4bc-6444-4565-9fb2-8545fb6b0e2a a skos:Concept ;
+    skos:broader politik:8de1d902-6607-4aea-abaf-2ddf9959805e ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Illegale Einwanderung"@de .
+
+politik:48a7045e-2357-41d3-8486-3790949698e2 a skos:Concept ;
+    skos:broader politik:44c1d1d5-b732-442e-b989-638b41bd9249 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Keller, Ska"@de .
+
+politik:48cb740c-63a1-4fc7-a1b9-96ac16a985a3 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Jugendkultur"@de .
+
+politik:4ac28cb4-5803-4655-af5a-55bc24baf717 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Ausweis"@de .
+
+politik:4af24fab-54f2-4b0f-a1bd-55aacc26dd27 a skos:Concept ;
+    skos:broader politik:96dcd6cf-2920-4d91-82b4-c66fd0a320dd ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Christlich Demokratische Union"@de .
+
+politik:4b43b379-e9c2-4678-903c-de109e559a72 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Politischer Widerstand "@de .
+
+politik:4d8cd6f5-9fba-4f88-86c3-ae9b92f70186 a skos:Concept ;
+    skos:broader politik:bd8e3d36-d0e4-45ab-9ef5-e1bd304e1b5c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Parlamentarismus"@de .
+
+politik:4e6c673f-997b-4d9d-885a-51a22350f0df a skos:Concept ;
+    skos:broader politik:44c1d1d5-b732-442e-b989-638b41bd9249 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Schröder, Gerhard"@de .
+
+politik:4fabc24a-1f16-49a0-9b3b-711582dae675 a skos:Concept ;
+    skos:broader politik:614d17b6-aa82-465b-89ae-7803d98f3d0e ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Europäischer Binnenmarkt"@de .
+
+politik:52cde9e7-a2e2-4437-8be2-860ae93e317b a skos:Concept ;
+    skos:broader politik:97ea3db5-46b0-4962-82f7-d2259be6ed32 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Parteiendemokratie"@de .
+
+politik:55a258ee-508a-46a4-bc50-3422fc7f67e9 a skos:Concept ;
+    skos:broader politik:7caad10d-85ff-4580-aae0-bd1ba1e7bf76 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Wahlkampf"@de .
+
+politik:55fa98a2-b375-4f6a-9f56-0d006f7b087a a skos:Concept ;
     skos:inScheme politik: ;
     skos:prefLabel "Nahostkonflikt"@de ;
     skos:topConceptOf politik: .
 
-politik:31baa385-81ef-4d87-8dc4-df9764c02711 a skos:Concept ;
-    skos:broader politik:e13ce36f-d45c-402a-8662-ff0718f24dc1 ;
+politik:5789facb-7fc7-4b15-9a28-25488eae3742 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
     skos:inScheme politik: ;
-    skos:prefLabel "Grundgesetz"@de .
+    skos:prefLabel "Populismus"@de .
 
-politik:31dc38bc-5725-4ebe-9ea4-6512c1d5da9b a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
+politik:57eaa1df-52d7-4cbc-9710-e8b9bc48d60e a skos:Concept ;
+    skos:broader politik:bd8e3d36-d0e4-45ab-9ef5-e1bd304e1b5c ;
     skos:inScheme politik: ;
-    skos:prefLabel "Aussiedler"@de .
+    skos:prefLabel "Demagogie"@de .
 
-politik:32148a47-621e-4d5c-a833-e6b3cdb3e917 a skos:Concept ;
-    skos:broader politik:cca8f343-fc99-4f89-94f4-972c2407475a ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Atomkrieg"@de .
-
-politik:345d5af6-12fd-4748-8898-52346e3c767d a skos:Concept ;
-    skos:broader politik:74117693-cd34-4f22-83cd-17d5a20b3264 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "HammBrücher, Hildegard"@de .
-
-politik:36ede8dd-0436-46a9-8888-4bc00e795e5d a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Politischer Widerstand "@de .
-
-politik:37908951-527d-4ad6-8dba-afaa140daa9e a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Vorwahlen (USA)"@de .
-
-politik:38f611e2-67c7-436e-86d8-581cb23c526a a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Diskriminierung"@de .
-
-politik:399f6041-72cc-4f57-82bf-bfcfdc6dd109 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "KSZE"@de .
-
-politik:3b231c6c-0a3d-4fda-ad54-2793e93769e0 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Gewaltfreie Aktion"@de .
-
-politik:3d154559-c8e3-43cf-bd23-8cf30ba2a035 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Bündnis"@de .
-
-politik:3e06d702-727d-45cb-8b61-664fa52e7a36 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Bürgerinitiative"@de .
-
-politik:3ebbede3-8fb3-46b3-a7f7-9a1db6788ae3 a skos:Concept ;
-    skos:broader politik:cca8f343-fc99-4f89-94f4-972c2407475a ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Gewalt (Krieg)"@de .
-
-politik:3ecac6c3-a0ef-4f84-b957-5afad332ccc3 a skos:Concept ;
-    skos:broader politik:74117693-cd34-4f22-83cd-17d5a20b3264 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Cheney, Richard"@de .
-
-politik:3ed46ca9-e374-4776-a672-60d7b92a402c a skos:Concept ;
-    skos:broader politik:c89fc9be-d1e5-4e9d-87c9-5553e6974416 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Abgeordneter"@de .
-
-politik:4292b08c-dbb7-49be-9d30-0b53b3b76de3 a skos:Concept ;
-    skos:broader politik:c0b64b0e-d6f7-4c8f-8677-025565515121 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Nutzungsrecht"@de .
-
-politik:42fa322b-d597-4fd1-ba91-ea07b4d6cbcc a skos:Concept ;
-    skos:broader politik:cba8e94e-4057-4a0d-9151-1ffff887acd7 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Marxismus"@de .
-
-politik:453c37bd-3c72-47c3-b8ad-80cc7b1dfbb9 a skos:Concept ;
-    skos:broader politik:cba8e94e-4057-4a0d-9151-1ffff887acd7 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Föderalismus"@de .
-
-politik:465d0f50-139c-4873-8aab-12505468d9f2 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Kinderrechte"@de .
-
-politik:47b748ec-ece8-4a23-a65b-90487da8d269 a skos:Concept ;
-    skos:broader politik:74117693-cd34-4f22-83cd-17d5a20b3264 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Obama, Barack"@de .
-
-politik:495ef79c-4d01-4efd-a038-85fbbe7e5843 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Migrationsursache"@de .
-
-politik:49881c24-9f81-4b4d-aec2-8f5229634d11 a skos:Concept ;
-    skos:broader politik:74117693-cd34-4f22-83cd-17d5a20b3264 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Clement, Wolfgang"@de .
-
-politik:49b79072-78b6-4dd2-ab42-a7dd73587eb4 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Öffentlicher Haushalt"@de .
-
-politik:4cfd04f4-6ba6-40ff-8df4-4b243e531ded a skos:Concept ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Mafia"@de ;
-    skos:topConceptOf politik: .
-
-politik:4dac603c-c5c1-4a70-bfcc-746bf366ab86 a skos:Concept ;
-    skos:broader politik:cba8e94e-4057-4a0d-9151-1ffff887acd7 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Monarchie"@de .
-
-politik:4e8fa174-3802-47fc-a850-83d4e410e415 a skos:Concept ;
-    skos:broader politik:c4d0ee1d-954a-4f19-b6b2-e81cd6c7f379 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Nationalflagge"@de .
-
-politik:4fe6a9a0-ea26-4e65-8c10-3026defe48be a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Nationalversammlung"@de .
-
-politik:514678c2-5658-438c-a306-b1b5a4d72085 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Rationalismus"@de .
-
-politik:51db0723-291e-49f2-9971-307ab60bd7a8 a skos:Concept ;
-    skos:broader politik:ebf6d2a0-d24f-4e76-b116-e4f05fdbfb8e ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Vermittlungsausschuss"@de .
-
-politik:52e6574f-3054-4853-9f85-decb8716ba79 a skos:Concept ;
-    skos:broader politik:0923d9c3-2ae5-49fb-bffc-9899965658a2 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Zivildienst"@de .
-
-politik:54a7bf59-8983-4f8c-b3ef-6ee5228b8d72 a skos:Concept ;
-    skos:broader politik:e8e3682e-4c72-44ef-b219-2bb9b064c113 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Rassismus (USA)"@de .
-
-politik:55316e0f-e023-4033-b37b-44366708a8f2 a skos:Concept ;
-    skos:broader politik:0253db4c-0687-41dd-a254-e93cd1947169 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Europäische Einigungsbewegung"@de .
-
-politik:58c1dfb8-7dcc-4191-9697-d43221e55fb6 a skos:Concept ;
-    skos:broader politik:74117693-cd34-4f22-83cd-17d5a20b3264 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Mugabe, Robert"@de .
-
-politik:58f080b2-b2fe-4b19-aa92-ce6fc6a78a91 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Kriegsgräberfürsorge"@de .
-
-politik:5a6ea1af-9a62-4a9a-9356-c35f26229f66 a skos:Concept ;
-    skos:broader politik:21805d92-d17d-4ba8-8833-2b02ac2544d6 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Entwicklungsland"@de .
-
-politik:5efaf921-7f3e-4efd-bc63-37ead8811f38 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Kollektivierung"@de .
-
-politik:5f55a94c-c3ca-4e5f-9cda-956597a3e2e4 a skos:Concept ;
-    skos:broader politik:74117693-cd34-4f22-83cd-17d5a20b3264 ;
+politik:59d30345-1850-401d-9bb2-a90a1a150a34 a skos:Concept ;
+    skos:broader politik:44c1d1d5-b732-442e-b989-638b41bd9249 ;
     skos:inScheme politik: ;
     skos:prefLabel "Charles (Prinz Wales)"@de .
 
-politik:6043b2e0-3b81-42f1-a0e7-fe0182b0f84d a skos:Concept ;
-    skos:broader politik:40fa13a7-0670-4816-8043-2bfc9f38811c ;
+politik:5a24bae1-608a-451d-8de5-bd62a7f1708a a skos:Concept ;
+    skos:broader politik:44c1d1d5-b732-442e-b989-638b41bd9249 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Kohl, Helmut"@de .
+
+politik:5a48077d-3bcd-4af2-a9e9-6793ba3821f2 a skos:Concept ;
+    skos:broader politik:c38b1562-1117-46b3-b303-3763217a3c7d ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Strafrecht"@de .
+
+politik:5c4ca592-ba96-4e48-8578-5eadeb7562a1 a skos:Concept ;
+    skos:broader politik:44c1d1d5-b732-442e-b989-638b41bd9249 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Yousafzai, Malala"@de .
+
+politik:5c7463de-9a13-449f-9317-6ff13894255f a skos:Concept ;
+    skos:broader politik:44c1d1d5-b732-442e-b989-638b41bd9249 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Kraft, Hannelore"@de .
+
+politik:5c8457b0-d457-49cd-957e-762901fe865c a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Verband (Soziologie)"@de .
+
+politik:5ec124d8-57e5-4247-bd86-bc994541c04b a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Hauptstadt"@de .
+
+politik:5f574671-a21c-4560-8ffb-fd94f45ce99e a skos:Concept ;
+    skos:broader politik:44c1d1d5-b732-442e-b989-638b41bd9249 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Gysi, Gregor "@de .
+
+politik:5f727b07-8a3a-49e0-83aa-2814147d9639 a skos:Concept ;
+    skos:broader politik:ebc96aee-dac9-45b9-9913-8517a43d54eb ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Militäreinsatz"@de .
+
+politik:62ead585-babe-4e51-9633-1915f90d2359 a skos:Concept ;
+    skos:broader politik:72e886ee-79f6-4e88-b6b1-44b7dad7a881 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Isolationismus"@de .
+
+politik:6376fcd5-66dc-4740-ba92-8ed422406da7 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Freiheit"@de .
+
+politik:640bb5f3-4ea2-49f3-bc18-fa099b15f39d a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Befreiungsbewegung"@de .
+
+politik:6465bad3-955a-4689-be25-adb2f7ac16fd a skos:Concept ;
+    skos:broader politik:96dcd6cf-2920-4d91-82b4-c66fd0a320dd ;
     skos:inScheme politik: ;
     skos:prefLabel "Sozialliberale Koalition "@de .
 
-politik:639a40a7-b731-4976-8250-ee5a2541f840 a skos:Concept ;
-    skos:broader politik:e8e3682e-4c72-44ef-b219-2bb9b064c113 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Rassismus (Republik Südafrika)"@de .
-
-politik:63f623f2-6133-451b-8375-cb45e7711d33 a skos:Concept ;
-    skos:broader politik:e5540f6b-284a-4624-841e-ac7bf6a1de35 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Rechtsprechung"@de .
-
-politik:64e01e88-b35b-4cc5-9d64-b86aa79bc6a2 a skos:Concept ;
-    skos:broader politik:40fa13a7-0670-4816-8043-2bfc9f38811c ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Christlich Demokratische Union"@de .
-
-politik:64e788bf-e311-43ed-b5ec-183d22776e85 a skos:Concept ;
-    skos:broader politik:74117693-cd34-4f22-83cd-17d5a20b3264 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Klarsfeld, Beate"@de .
-
-politik:67782556-3cc8-4c52-8158-3175ecbe17b7 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Deutschfranzösische Beziehungen"@de .
-
-politik:678f60a0-9ce7-4c22-9638-15b392af07b9 a skos:Concept ;
-    skos:broader politik:0021ab1f-bf9c-4fc9-8195-aa0134f96bbf ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Überhangmandat"@de .
-
-politik:67a87c97-1912-41f8-9bb4-59d342d66a0d a skos:Concept ;
-    skos:broader politik:74117693-cd34-4f22-83cd-17d5a20b3264 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Chirac, Jacques"@de .
-
-politik:67dee6f5-3eff-4020-b4ea-105390ab6f62 a skos:Concept ;
-    skos:broader politik:74117693-cd34-4f22-83cd-17d5a20b3264 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Chamorro, Violeta"@de .
-
-politik:6812a6e5-6dec-44b2-b15e-68db2b136fb7 a skos:Concept ;
-    skos:broader politik:74117693-cd34-4f22-83cd-17d5a20b3264 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Giscard d'Estaing, Valéry"@de .
-
-politik:68eb83fb-1341-49a7-80a8-28f9b4a1d33e a skos:Concept ;
-    skos:broader politik:cba8e94e-4057-4a0d-9151-1ffff887acd7 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Diktatur"@de .
-
-politik:68f35596-ac2f-4eb5-82f0-7672000df7c0 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Politische Verfolgung "@de .
-
-politik:69dccc4e-b48b-4243-9440-4fdcef6851df a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Kriegsfolge"@de .
-
-politik:6a41bddd-c8ec-42ea-97ab-329c72ceb2b5 a skos:Concept ;
-    skos:broader politik:74117693-cd34-4f22-83cd-17d5a20b3264 ;
+politik:64821af7-2287-4122-b923-5f7184b3fafe a skos:Concept ;
+    skos:broader politik:44c1d1d5-b732-442e-b989-638b41bd9249 ;
     skos:inScheme politik: ;
     skos:prefLabel "FarhatNaser, Sumaya"@de .
 
-politik:6b6ec804-8757-4d96-9120-297b14cc3ec5 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
+politik:660cfb11-5502-44ea-a1be-9515b3dfa841 a skos:Concept ;
+    skos:broader politik:96dcd6cf-2920-4d91-82b4-c66fd0a320dd ;
     skos:inScheme politik: ;
-    skos:prefLabel "Bürgerbeteiligung"@de .
+    skos:prefLabel "Sozialdemokratische Partei Deutschlands"@de .
 
-politik:6c585830-f417-4a00-b161-da17c6d4aef7 a skos:Concept ;
-    skos:broader politik:c2643ec5-ac36-4d86-8e30-010c7fa3ddfb ;
+politik:67c66d13-4cc6-4fd1-97a4-7678f4832033 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
     skos:inScheme politik: ;
-    skos:prefLabel "Jugendmedienschutz"@de .
+    skos:prefLabel "Müllabfuhr"@de .
 
-politik:6cadb31b-8c86-4eab-9151-99cc6902cafd a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
+politik:6c9ee8bd-7cc4-45d3-8e1e-b0a39f6d572e a skos:Concept ;
+    skos:broader politik:44c1d1d5-b732-442e-b989-638b41bd9249 ;
     skos:inScheme politik: ;
-    skos:prefLabel "Rassenfrage"@de .
+    skos:prefLabel "Steinbrück, Peer"@de .
 
-politik:6e71037c-ee6e-483d-96fb-e77592f10b1d a skos:Concept ;
-    skos:broader politik:cba8e94e-4057-4a0d-9151-1ffff887acd7 ;
+politik:6cea2548-e9d7-4265-9b5b-20305df49fec a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
     skos:inScheme politik: ;
-    skos:prefLabel "Liberalismus"@de .
+    skos:prefLabel "DIN"@de .
 
-politik:6ec8e785-1ac5-4ac0-8dd5-acc48811b2b3 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
+politik:6dc78413-d787-463b-bac5-b7b00f328d11 a skos:Concept ;
+    skos:broader politik:70b5e725-0d0a-4a3e-9382-5db29ab8f4c8 ;
     skos:inScheme politik: ;
-    skos:prefLabel "Petition"@de .
+    skos:prefLabel "Abgeordneter"@de .
 
-politik:705e63e1-3706-4291-8138-e88f3b25c709 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
+politik:6e403d67-c58d-4cc9-87f8-24628d9bcf73 a skos:Concept ;
+    skos:broader politik:44c1d1d5-b732-442e-b989-638b41bd9249 ;
     skos:inScheme politik: ;
-    skos:prefLabel "Demonstration"@de .
+    skos:prefLabel "Veil, Simone"@de .
 
-politik:72a82367-8539-4ef6-8922-694509aefd3c a skos:Concept ;
-    skos:broader politik:cca8f343-fc99-4f89-94f4-972c2407475a ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Invasion"@de .
-
-politik:72fcf977-619f-40c9-9bbc-630f56d7216a a skos:Concept ;
-    skos:broader politik:74117693-cd34-4f22-83cd-17d5a20b3264 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Elisabeth II. (Königin England)"@de .
-
-politik:748d1f02-b2be-437d-8b54-793e8a8bf8f3 a skos:Concept ;
-    skos:broader politik:74117693-cd34-4f22-83cd-17d5a20b3264 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Merkel, Angela"@de .
-
-politik:74a6f8e3-caa6-4fa8-ab6d-72497b7be513 a skos:Concept ;
-    skos:broader politik:40fa13a7-0670-4816-8043-2bfc9f38811c ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Große Koalition "@de .
-
-politik:7771ea8f-be61-4701-a5ad-2e4d49ed87f6 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Mitbestimmung"@de .
-
-politik:7782d589-969a-4cda-9167-c4aeb8260015 a skos:Concept ;
-    skos:broader politik:cba8e94e-4057-4a0d-9151-1ffff887acd7 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Militarismus"@de .
-
-politik:797aa0ac-3e33-4654-a4b8-f040f88875ad a skos:Concept ;
+politik:6eaaf1c1-7cc3-4b1f-8023-4c883494cb3f a skos:Concept ;
     skos:inScheme politik: ;
     skos:prefLabel "Europäische Union"@de ;
     skos:topConceptOf politik: .
 
-politik:7a6735bf-bd90-4498-9455-4116d6b574f7 a skos:Concept ;
-    skos:broader politik:74117693-cd34-4f22-83cd-17d5a20b3264 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Chruschtschow, Sergej"@de .
-
-politik:7b1412a6-8e82-4f24-88fa-25877b106ba5 a skos:Concept ;
-    skos:broader politik:b74e4e15-7e26-46d3-881c-2b9ef9432cfe ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Grenzschutz"@de .
-
-politik:7d2a6e11-08a5-44c2-9c94-d1c71ade773b a skos:Concept ;
-    skos:broader politik:74117693-cd34-4f22-83cd-17d5a20b3264 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Balladur, Edouard"@de .
-
-politik:7f9d5b2a-d176-4eb8-bef7-06c4127e6150 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Dschandschawid"@de .
-
-politik:7fa0ef33-224d-43b8-958b-7c74ad847d0e a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Ausweis"@de .
-
-politik:807a086c-55f2-457b-883a-db3fc6a0e5bc a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Grundrechte"@de .
-
-politik:81204974-2d89-46cb-bb72-f2ed293f5dff a skos:Concept ;
-    skos:broader politik:c4d0ee1d-954a-4f19-b6b2-e81cd6c7f379 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Nation"@de .
-
-politik:81b226af-9ec8-4980-82dc-d50eec59ae16 a skos:Concept ;
-    skos:broader politik:cba8e94e-4057-4a0d-9151-1ffff887acd7 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Totalitarismus"@de .
-
-politik:8520d5c7-5bc6-43e0-ae40-a7bae3ba7fe6 a skos:Concept ;
-    skos:broader politik:74117693-cd34-4f22-83cd-17d5a20b3264 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Schorlemmer, Friedrich"@de .
-
-politik:85619493-e5c5-4b3d-b695-e5ebf49c9a2a a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Diplomatie"@de .
-
-politik:85ba16a8-3276-4644-81ea-afd3662479f5 a skos:Concept ;
-    skos:broader politik:2b998b5f-c99e-4472-ae27-9a47ffc378a3 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Whistleblower"@de .
-
-politik:884f0a5f-f93c-4a36-9041-ca249497af59 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Dissident"@de .
-
-politik:884fa80b-fc23-4400-8980-07eb0b194cd2 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Verband (Soziologie)"@de .
-
-politik:89a9909a-aaa3-4e4a-88b0-7e273b04404a a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Neofaschismus"@de .
-
-politik:89b972e0-b120-434c-82cf-86c443c52567 a skos:Concept ;
-    skos:broader politik:cc0d3546-655e-4978-bdb6-bdcf79408ed4 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Verfassungsschutz"@de .
-
-politik:8a044bfe-e7c2-4cf1-8df3-c82cf5bda9c9 a skos:Concept ;
-    skos:broader politik:cba8e94e-4057-4a0d-9151-1ffff887acd7 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Parlamentarismus"@de .
-
-politik:8a81eaf6-e251-445f-83b3-7197a0cfc5ef a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Fanatismus"@de .
-
-politik:8ab867af-2dad-438b-b519-7b54f8ac4a57 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Tag der Arbeit"@de .
-
-politik:8afb7d9b-040c-46b7-a63b-6c949d15247b a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Hauptstadt"@de .
-
-politik:8d56fde2-b9c0-49dd-85d0-df36efa89f66 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Parlament"@de .
-
-politik:8ebf5b4a-acd0-420c-a0d0-b8598e64b133 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Herrscher"@de .
-
-politik:8fa21a75-a75b-41b7-a007-184cb448c37a a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Exil"@de .
-
-politik:8fca0d58-9663-4643-8cef-7a557de70397 a skos:Concept ;
-    skos:broader politik:74117693-cd34-4f22-83cd-17d5a20b3264 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Avnery, Uri"@de .
-
-politik:90272e85-7be3-4263-b1f3-23a487e3f76c a skos:Concept ;
-    skos:broader politik:74117693-cd34-4f22-83cd-17d5a20b3264 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Schröder, Gerhard"@de .
-
-politik:91f2602f-b84e-4fed-ae14-86716b904209 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Arbeitsmarktpolitik"@de .
-
-politik:92720866-3ac3-480c-885f-9c7d16616564 a skos:Concept ;
-    skos:broader politik:138b69de-0a52-4975-b4b7-298714896bbf ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Weltgesundheitsorganisation"@de .
-
-politik:92de5ac4-151d-4a76-af46-950eb37ea905 a skos:Concept ;
-    skos:broader politik:0253db4c-0687-41dd-a254-e93cd1947169 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Europäischer Binnenmarkt"@de .
-
-politik:93746629-8ee1-417d-9ed1-f807a6994118 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Sozialdemokratie"@de .
-
-politik:95cf679f-e68b-4a7d-88ce-6ba66c5e9035 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Demoskopie"@de .
-
-politik:96e3d9f1-7fd3-4f73-8e97-84688b3619bc a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Kriegsverbrechen"@de .
-
-politik:975d5d47-3b8b-4223-8041-5a44517c31b7 a skos:Concept ;
-    skos:broader politik:e5540f6b-284a-4624-841e-ac7bf6a1de35 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Völkerrecht"@de .
-
-politik:981249bf-f40f-49e1-bb17-d1b27695099b a skos:Concept ;
-    skos:broader politik:40fa13a7-0670-4816-8043-2bfc9f38811c ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Volkspartei"@de .
-
-politik:998c3b39-f70e-40fd-84c3-8121270afff4 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Ausländer (weltweit)"@de .
-
-politik:9a7dc794-2846-42e2-aa08-890b1d7f104b a skos:Concept ;
-    skos:broader politik:74117693-cd34-4f22-83cd-17d5a20b3264 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Steinbrück, Peer"@de .
-
-politik:9c1248ff-c18b-405b-a1c4-59ffed6900d8 a skos:Concept ;
-    skos:broader politik:e5540f6b-284a-4624-841e-ac7bf6a1de35 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Verband (Recht)"@de .
-
-politik:9c2d25db-0d69-4d8e-8842-9ba952f158ad a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Ideologie"@de .
-
-politik:9ef1157c-5c70-4134-acf8-b3795dfbc473 a skos:Concept ;
-    skos:broader politik:81368287-b410-4fde-8b69-91e13e1392a2 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Friedenserziehung"@de .
-
-politik:a01361da-2ecd-48e5-ad04-83adcb090f3d a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Feindbild"@de .
-
-politik:a1558b0e-05ef-459e-b464-2c3fa7dc7e0e a skos:Concept ;
-    skos:broader politik:26c002d1-3f3b-4b1a-ad5d-6f3d62552673 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Amnesty International"@de .
-
-politik:a15b57ce-79f4-47ca-b3ba-3947b935b4de a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Patriotismus"@de .
-
-politik:a30103d1-3b60-420f-9726-adbf54924327 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Völkermord"@de .
-
-politik:a4b5746f-03af-4bcd-bac3-f70860bbb76b a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "DIN"@de .
-
-politik:a5001c0c-b603-4d72-8981-339f7203e13d a skos:Concept ;
-    skos:broader politik:0e80719c-1b8a-4ceb-8e05-38e7c7229c0f ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Abrüstung"@de .
-
-politik:a51ff4b5-61ea-4cc2-8172-fed8ff780e99 a skos:Concept ;
-    skos:broader politik:74117693-cd34-4f22-83cd-17d5a20b3264 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Kohl, Helmut"@de .
-
-politik:a5d40aa2-413f-40f4-8d57-f182cb127878 a skos:Concept ;
-    skos:broader politik:ebf6d2a0-d24f-4e76-b116-e4f05fdbfb8e ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Bundesrat"@de .
-
-politik:a63c6f65-71b2-4f55-8eef-e212ce5946f4 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Politikverdrossenheit"@de .
-
-politik:a6c7129a-6504-4fdc-9eaa-31275681d081 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Freiheit"@de .
-
-politik:a8c29fab-cc2c-4c5e-be37-a96cd0b730c4 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Revolution (allgemein)"@de .
-
-politik:a8e5b14a-453c-4dd9-82b2-319b21d1cb58 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "DominoTheorie"@de .
-
-politik:aa92142a-6212-40c5-aa53-66705aac3b60 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Volksdeutsche"@de .
-
-politik:aabb42de-9506-4ef7-ae4c-5fd33b621d7f a skos:Concept ;
-    skos:broader politik:74117693-cd34-4f22-83cd-17d5a20b3264 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Gysi, Gregor "@de .
-
-politik:aafa1ddb-b8ab-4a41-a07f-c3bbc8fc2c9a a skos:Concept ;
-    skos:broader politik:40fa13a7-0670-4816-8043-2bfc9f38811c ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Grüne"@de .
-
-politik:ac16c148-e197-41b4-a8c4-68bcab0b61db a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Putsch"@de .
-
-politik:acbdcf08-000d-413c-89ec-a99e255bf8ca a skos:Concept ;
-    skos:broader politik:74117693-cd34-4f22-83cd-17d5a20b3264 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "McNamara, Robert"@de .
-
-politik:aeca99cc-dfc2-404b-993f-2100ffe32716 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Nordatlantikpakt"@de .
-
-politik:b0de9b57-6e23-451e-aa44-8394ec7dc401 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Golfstaaten"@de .
-
-politik:b253dd3c-1225-47bb-b7ec-5048aa95aa73 a skos:Concept ;
-    skos:broader politik:cba8e94e-4057-4a0d-9151-1ffff887acd7 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Demagogie"@de .
-
-politik:b2d15527-3b6b-4362-af4c-4792d4ad2378 a skos:Concept ;
-    skos:broader politik:26c002d1-3f3b-4b1a-ad5d-6f3d62552673 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Brot für die Welt"@de .
-
-politik:b304353d-2788-4dfa-a578-bd0368acf750 a skos:Concept ;
-    skos:broader politik:8ee8d135-0f9f-4a17-ac52-8773f967c7bf ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Wettrüsten"@de .
-
-politik:b3b361f0-ef0a-4618-8623-c570fcda8801 a skos:Concept ;
-    skos:broader politik:74117693-cd34-4f22-83cd-17d5a20b3264 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Guttenberg, Karl Theodor zu"@de .
-
-politik:b4218c94-ae09-491b-9788-07ae79d9ff85 a skos:Concept ;
-    skos:broader politik:21805d92-d17d-4ba8-8833-2b02ac2544d6 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Schwellenländer"@de .
-
-politik:b43e9b74-a4fe-456f-b8a5-b7c7c32d06dd a skos:Concept ;
-    skos:broader politik:e8e3682e-4c72-44ef-b219-2bb9b064c113 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Rassismus (Frankreich)"@de .
-
-politik:b6748def-59f9-4010-9020-e6859c9ce9ee a skos:Concept ;
-    skos:broader politik:0923d9c3-2ae5-49fb-bffc-9899965658a2 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Wehrpflicht"@de .
-
-politik:b6eba59e-3e4e-4fee-a28e-92194a731a15 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Treuhandanstalt"@de .
-
-politik:b71fa116-4d84-41ad-8fff-52494e33a04e a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Deutscher Gewerkschaftsbund"@de .
-
-politik:b7212010-a936-4cd1-a9cc-4b96c9639acd a skos:Concept ;
-    skos:broader politik:40fa13a7-0670-4816-8043-2bfc9f38811c ;
+politik:6f34cf87-9480-41eb-ad61-6e615bc87468 a skos:Concept ;
+    skos:broader politik:96dcd6cf-2920-4d91-82b4-c66fd0a320dd ;
     skos:inScheme politik: ;
     skos:prefLabel "Freie Demokratische Partei"@de .
 
-politik:b87e2c8c-1c09-4c86-9ba7-d00adb91dfc5 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
+politik:6fa3e621-f899-4857-b183-e5c77adf0ca6 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
     skos:inScheme politik: ;
-    skos:prefLabel "Demokratisierung"@de .
+    skos:prefLabel "Bundesfreiwilligendienst"@de .
 
-politik:b920a768-1231-4303-b55e-2f74af1b7f03 a skos:Concept ;
-    skos:broader politik:e5540f6b-284a-4624-841e-ac7bf6a1de35 ;
+politik:6fdfce34-be5c-4d8a-a082-22e3a363bb8d a skos:Concept ;
+    skos:broader politik:44c1d1d5-b732-442e-b989-638b41bd9249 ;
     skos:inScheme politik: ;
-    skos:prefLabel "Strafrecht"@de .
+    skos:prefLabel "Guttenberg, Karl Theodor zu"@de .
 
-politik:ba62caf5-2a45-47d0-aed6-bd0f5e31835b a skos:Concept ;
-    skos:broader politik:2c0fbfa6-b855-472f-bb21-6b4879592c80 ;
+politik:73c48f35-80e3-4965-b8b7-b241c931c1d4 a skos:Concept ;
+    skos:broader politik:44c1d1d5-b732-442e-b989-638b41bd9249 ;
     skos:inScheme politik: ;
-    skos:prefLabel "Terrorismus"@de .
+    skos:prefLabel "Mugabe, Robert"@de .
 
-politik:bc112db6-5b54-4385-993c-71dab10a6a54 a skos:Concept ;
-    skos:broader politik:f451e9ca-cb1a-46a3-9aac-454a5d924678 ;
+politik:741a03fe-5fcc-4fb3-937e-3bae060294cb a skos:Concept ;
+    skos:broader politik:bd8e3d36-d0e4-45ab-9ef5-e1bd304e1b5c ;
     skos:inScheme politik: ;
-    skos:prefLabel "Parteiendemokratie"@de .
+    skos:prefLabel "Diktatur"@de .
 
-politik:bcd99f7a-edb1-41be-81bc-26056ba2d977 a skos:Concept ;
-    skos:broader politik:c21150f6-4c3c-497f-8c9a-24a65859b1a8 ;
+politik:7579f658-a811-4f7d-91a4-e6512405c575 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
     skos:inScheme politik: ;
-    skos:prefLabel "Selbstverwaltung"@de .
+    skos:prefLabel "Ausländer (weltweit)"@de .
 
-politik:bd63c002-6983-470d-b3ef-100860d4f3c7 a skos:Concept ;
-    skos:broader politik:74117693-cd34-4f22-83cd-17d5a20b3264 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Schäuble, Wolfgang"@de .
-
-politik:bf9cf769-f73a-4a81-a410-0ae10520ea5b a skos:Concept ;
-    skos:broader politik:ebf6d2a0-d24f-4e76-b116-e4f05fdbfb8e ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Bundespräsident"@de .
-
-politik:bf9e0e2a-a1bd-4097-9a14-b108300bc3da a skos:Concept ;
-    skos:broader politik:74117693-cd34-4f22-83cd-17d5a20b3264 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Castro, Fidel"@de .
-
-politik:c00f7cb3-93d1-440e-bbb5-21d8565acb8e a skos:Concept ;
-    skos:broader politik:e5540f6b-284a-4624-841e-ac7bf6a1de35 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Staatsanwaltschaft"@de .
-
-politik:c13dfe92-d870-41d9-899a-e1bddb1b1ac9 a skos:Concept ;
-    skos:broader politik:138b69de-0a52-4975-b4b7-298714896bbf ;
-    skos:inScheme politik: ;
-    skos:prefLabel "UNESCO"@de .
-
-politik:c17b6074-856b-4fd5-b2ea-a6ac0015a173 a skos:Concept ;
-    skos:broader politik:402019b8-515b-461d-ad00-077abdb00645 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Illegale Einwanderung"@de .
-
-politik:c1c57d35-5d31-41d6-afcb-3b3af147c298 a skos:Concept ;
-    skos:broader politik:74117693-cd34-4f22-83cd-17d5a20b3264 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Veil, Simone"@de .
-
-politik:c1f91bd7-0546-45ad-8c64-3d00923f7091 a skos:Concept ;
-    skos:broader politik:74117693-cd34-4f22-83cd-17d5a20b3264 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Eppelmann, Rainer"@de .
-
-politik:c2013d5e-5a33-424e-9bfa-936804e4ea4c a skos:Concept ;
-    skos:broader politik:74117693-cd34-4f22-83cd-17d5a20b3264 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Biedenkopf, Kurt"@de .
-
-politik:c205610c-1111-4ca2-8d5e-7681bb4c8fe9 a skos:Concept ;
-    skos:broader politik:e5540f6b-284a-4624-841e-ac7bf6a1de35 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Zivilrecht"@de .
-
-politik:c2a79f53-1d30-48dd-8339-afb0081a9251 a skos:Concept ;
-    skos:broader politik:cca8f343-fc99-4f89-94f4-972c2407475a ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Luftkrieg"@de .
-
-politik:c2fea1f6-49fa-4d21-9a8c-7193f4a78289 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Verbrechensbekämpfung"@de .
-
-politik:c3e57f86-e156-41b5-a6c1-81ee872cf414 a skos:Concept ;
-    skos:broader politik:ebf6d2a0-d24f-4e76-b116-e4f05fdbfb8e ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Bundeskanzler"@de .
-
-politik:c4c736fc-7cab-4bf0-bd98-0974ada2258c a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Kriegsgefangenschaft"@de .
-
-politik:c5c6f4e6-8d55-41d9-9348-fa55131908d0 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Zensur (Überwachung)"@de .
-
-politik:c640321a-6564-47fe-98ff-e04176302779 a skos:Concept ;
-    skos:broader politik:74117693-cd34-4f22-83cd-17d5a20b3264 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Höllenreiner, Hugo"@de .
-
-politik:c6719106-d454-499f-b1a4-693476e835cd a skos:Concept ;
-    skos:broader politik:0923d9c3-2ae5-49fb-bffc-9899965658a2 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Kriegsdienstverweigerung"@de .
-
-politik:c6a47d8e-9f11-40fa-b730-d9a118b1e742 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Bürokratie"@de .
-
-politik:c914a7a9-a677-4962-8537-2886ea1cdf00 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Müllabfuhr"@de .
-
-politik:c9b4fa46-883c-4e2b-8790-03dae14c8477 a skos:Concept ;
-    skos:broader politik:74117693-cd34-4f22-83cd-17d5a20b3264 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Rüttgers, Jürgen"@de .
-
-politik:ca43f1aa-73c5-4b0f-81be-7f13cbf90c97 a skos:Concept ;
-    skos:broader politik:477ab04e-0783-44e7-8fb0-a4dea0967acd ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Kommunalpolitik"@de .
-
-politik:ca774b7b-883c-43c3-83f0-7b793d12e50b a skos:Concept ;
-    skos:broader politik:74117693-cd34-4f22-83cd-17d5a20b3264 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Keller, Ska"@de .
-
-politik:cd2a6702-d38b-485c-902b-22de25c6371e a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Imperialismus"@de .
-
-politik:cdcb95df-324c-42e8-8c72-2546ca052047 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Flüchtlinge"@de .
-
-politik:cfefc150-a7a0-45dd-beec-cb836946a74a a skos:Concept ;
-    skos:broader politik:098dbe83-ad24-478f-91c5-a88465787057 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Wohnungsbau"@de .
-
-politik:d0758a5d-601c-47ab-8270-d2685811f73f a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "MST"@de .
-
-politik:d2953876-9345-49e1-954f-1d6977784934 a skos:Concept ;
-    skos:broader politik:74117693-cd34-4f22-83cd-17d5a20b3264 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Hänsch, Klaus"@de .
-
-politik:d2bf26a3-c77e-4d5f-95ec-c425acf65c9b a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Spätaussiedler"@de .
-
-politik:d31336d2-afaf-45a6-85c4-bc18bb2cd5c0 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Gesellschaft"@de .
-
-politik:d6b7b151-3d3c-4663-801d-3716e3bdfc10 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Propaganda"@de .
-
-politik:d8326abc-f24f-4350-a356-9460611dbc81 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Dienstleistung"@de .
-
-politik:d8ab30a3-8633-4b04-bfd8-b8e8fc45eb7b a skos:Concept ;
-    skos:broader politik:79dacc6d-0266-4b0f-b8c6-4d5b6d47f91b ;
-    skos:inScheme politik: ;
-    skos:prefLabel "USA (Außenpolitik)"@de .
-
-politik:dadc08ab-1486-4a6c-8d71-9fda547a4701 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Befreiungsbewegung"@de .
-
-politik:dfeee9be-ec41-4cad-b464-b578b31cbfad a skos:Concept ;
-    skos:broader politik:0923d9c3-2ae5-49fb-bffc-9899965658a2 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Wehrdienst"@de .
-
-politik:e2929dda-739d-4b5b-b1d1-13129816864e a skos:Concept ;
-    skos:broader politik:cca8f343-fc99-4f89-94f4-972c2407475a ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Okkupation"@de .
-
-politik:e2e9d718-78e6-4337-bf1d-928aad79aa75 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Materialismus"@de .
-
-politik:e470a914-50a8-45f2-b3e9-72479a13da46 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Postleitzahl"@de .
-
-politik:e477e9c1-4956-49c6-afb9-ca4e87f7d32e a skos:Concept ;
-    skos:broader politik:0253db4c-0687-41dd-a254-e93cd1947169 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Europarat"@de .
-
-politik:e50893fa-bbda-4eea-884f-6a8c1e010b2c a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Interesse (Politikwissenschaft)"@de .
-
-politik:e645a8a7-815e-4cfe-91d0-438552e793e2 a skos:Concept ;
-    skos:broader politik:6fe1d381-d1b3-4635-baa6-567e903c0ae5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Gesetzgebungsverfahren"@de .
-
-politik:e6921f72-976b-419b-939f-3baa3acac2d0 a skos:Concept ;
-    skos:broader politik:cba8e94e-4057-4a0d-9151-1ffff887acd7 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Kommunismus"@de .
-
-politik:e6de4820-9e40-4a58-92b1-d9608ce940a4 a skos:Concept ;
-    skos:broader politik:ee30e458-9a30-472a-a1b5-fdfa214149dd ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Militäreinsatz"@de .
-
-politik:e70d3422-cf97-40f7-a3b0-dfae7835f3cf a skos:Concept ;
-    skos:broader politik:cca8f343-fc99-4f89-94f4-972c2407475a ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Bürgerkrieg"@de .
-
-politik:e7256ab9-94ee-4276-be93-16e970fb2363 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Auslanddeutsche"@de .
-
-politik:e7cd31f6-d1d8-4adb-81e0-1668906fb70d a skos:Concept ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Russifizierung"@de ;
-    skos:topConceptOf politik: .
-
-politik:e8e4876d-8dcb-456e-bd7e-7fa1dd3da681 a skos:Concept ;
-    skos:broader politik:e7ce7ef1-6e53-4561-b211-e0815d912a23 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Sorben"@de .
-
-politik:e9e8e66d-832a-4c23-bed8-4fc5b9c78581 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Reform"@de .
-
-politik:ebacb22f-ca49-4c52-911c-e9aa5cf81e93 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Todesstrafe"@de .
-
-politik:ee2b4aca-ee98-4743-8447-e4069692c4fb a skos:Concept ;
-    skos:broader politik:cca8f343-fc99-4f89-94f4-972c2407475a ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Verteidigung (Politik)"@de .
-
-politik:f0143122-4810-4b57-9d87-ecb8755ed98b a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Populismus"@de .
-
-politik:f135a321-59e7-4672-bfbb-8d83c9be4394 a skos:Concept ;
-    skos:broader politik:0253db4c-0687-41dd-a254-e93cd1947169 ;
-    skos:inScheme politik: ;
-    skos:prefLabel "Europäisches Parlament"@de .
-
-politik:f19f035c-12c6-4fcf-955e-4ca5ecd5c45f a skos:Concept ;
-    skos:broader politik:c21150f6-4c3c-497f-8c9a-24a65859b1a8 ;
+politik:75e2872d-afda-4f12-9736-407bec147d24 a skos:Concept ;
+    skos:broader politik:42aa706a-be68-4e5a-9fb7-124df5006f79 ;
     skos:inScheme politik: ;
     skos:prefLabel "Landtag"@de .
 
-politik:f35ae113-be69-4a68-88d9-7508b9382aca a skos:Concept ;
-    skos:broader politik:8c585053-dfcc-4498-a152-bd31458647a4 ;
+politik:765940fc-335f-4392-b583-279d22ccb158 a skos:Concept ;
+    skos:broader politik:614d17b6-aa82-465b-89ae-7803d98f3d0e ;
     skos:inScheme politik: ;
-    skos:prefLabel "Bundesverfassungsgericht"@de .
+    skos:prefLabel "Europäische Einigungsbewegung"@de .
 
-politik:f368ebe9-eb63-4d78-9749-d28b0c6d649e a skos:Concept ;
-    skos:broader politik:74117693-cd34-4f22-83cd-17d5a20b3264 ;
+politik:765dac1d-36db-4dc4-988f-70a9e3188981 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
     skos:inScheme politik: ;
-    skos:prefLabel "Le Pen, JeanMArie"@de .
+    skos:prefLabel "Sozialismus"@de .
 
-politik:f686585c-e142-41a5-be67-c88e619b9094 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
+politik:7780a205-c03c-4d10-b78a-51e7b15d825d a skos:Concept ;
+    skos:broader politik:bd8e3d36-d0e4-45ab-9ef5-e1bd304e1b5c ;
     skos:inScheme politik: ;
-    skos:prefLabel "Vertreibung"@de .
+    skos:prefLabel "Rechtsstaat"@de .
 
-politik:f89074b6-b938-4aa5-a143-6d8b19b4ea9b a skos:Concept ;
+politik:7bcca56f-3734-4c15-b3f2-aa7249fe3dc0 a skos:Concept ;
+    skos:broader politik:44c1d1d5-b732-442e-b989-638b41bd9249 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Cheney, Richard"@de .
+
+politik:7cbe1ce1-13f3-4fbb-8a4d-0601152927f2 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Petition"@de .
+
+politik:7ce175f4-eaf3-4209-a6d6-03599ba42bac a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Revolution (allgemein)"@de .
+
+politik:7e027fed-0e7d-475d-81a0-5b35a1a14343 a skos:Concept ;
+    skos:broader politik:04ad6a9d-e655-4ec8-b17f-80dd9bef88d7 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Nation"@de .
+
+politik:7e6b9ce8-b47e-4ed3-8703-3e499264834c a skos:Concept ;
+    skos:broader politik:d9c1c305-a8fc-4bba-8e50-2634c2ce5b57 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Kriegsdienstverweigerung"@de .
+
+politik:7edc13fe-e76e-4824-9d60-ec8a260fe765 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Dschandschawid"@de .
+
+politik:7f026642-b640-437c-8565-1fc86428690d a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "MST"@de .
+
+politik:7f2dcefa-0580-4b8a-b3a3-26d0c51ddb01 a skos:Concept ;
+    skos:broader politik:9af467a5-6b52-4aaf-b972-ac74d87dabfc ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Rassismus (Deutschland)"@de .
+
+politik:7f8daf89-7c16-480a-a915-0313a6f40058 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Todesstrafe"@de .
+
+politik:806510d8-6ca4-408f-a736-a5f38e313832 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Politische Verfolgung "@de .
+
+politik:8088556d-ebb6-43fa-bbc2-9436b504ebc4 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Nordatlantikpakt"@de .
+
+politik:80c4ae0c-f069-4f56-895b-6d15991dfb9b a skos:Concept ;
+    skos:broader politik:44c1d1d5-b732-442e-b989-638b41bd9249 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Balladur, Edouard"@de .
+
+politik:8188765d-3cef-4783-bfd1-b1a858c21f70 a skos:Concept ;
+    skos:inScheme politik: ;
+    skos:prefLabel "GUS"@de ;
+    skos:topConceptOf politik: .
+
+politik:82a74160-912d-4468-a09e-9ecb7031b785 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Nationalversammlung"@de .
+
+politik:832b249f-78df-4954-b7a8-8f8dbcc2889f a skos:Concept ;
+    skos:broader politik:44c1d1d5-b732-442e-b989-638b41bd9249 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Castro, Fidel"@de .
+
+politik:836342dc-f3a6-44fe-b97c-2d43476c085b a skos:Concept ;
+    skos:broader politik:44c1d1d5-b732-442e-b989-638b41bd9249 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Chamorro, Violeta"@de .
+
+politik:883adf93-7d4d-430e-9c22-1451b24b3488 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Bürokratie"@de .
+
+politik:88daa3c4-949c-4226-83d6-538e9cb17ba3 a skos:Concept ;
+    skos:broader politik:0606000e-0d95-42d4-912e-c86e350dfcb2 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Atomkrieg"@de .
+
+politik:8ad29262-71b2-4694-beb7-3f5942645d8b a skos:Concept ;
+    skos:broader politik:44c1d1d5-b732-442e-b989-638b41bd9249 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Höllenreiner, Hugo"@de .
+
+politik:8b4ce3f7-e201-4824-99d4-4b9d562ffe08 a skos:Concept ;
+    skos:broader politik:44c1d1d5-b732-442e-b989-638b41bd9249 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Obama, Barack"@de .
+
+politik:8ca3a565-6aa1-400c-b07c-8025ff4a7284 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Fanatismus"@de .
+
+politik:8d5b1fee-8805-47d6-baef-a5024ebc2c95 a skos:Concept ;
+    skos:broader politik:44c1d1d5-b732-442e-b989-638b41bd9249 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Eppelmann, Rainer"@de .
+
+politik:8db44f96-3295-4309-a9d0-a043a99a470e a skos:Concept ;
+    skos:broader politik:d9c1c305-a8fc-4bba-8e50-2634c2ce5b57 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Wehrdienst"@de .
+
+politik:8fa4bceb-cfad-4391-9d60-474cc2582d03 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Konferenz"@de .
+
+politik:919140a1-20ad-4bde-b5ea-8c59d7fe0c19 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Tag der Arbeit"@de .
+
+politik:919e1a26-61a3-4d07-bcd0-742f98f1a11f a skos:Concept ;
+    skos:broader politik:d9c1c305-a8fc-4bba-8e50-2634c2ce5b57 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Zivildienst"@de .
+
+politik:96ee46cc-dd85-4704-b299-b0c3b8b4ce26 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Exil"@de .
+
+politik:973581bc-91b1-4360-ac2f-fee259d349a7 a skos:Concept ;
     skos:inScheme politik: ;
     skos:prefLabel "Glasnost"@de ;
     skos:topConceptOf politik: .
 
-politik:f8fcf249-9802-4d3c-9ed3-2bc4d7e3b6c6 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
+politik:9762050a-7518-41c4-8fba-3db213e146bd a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
     skos:inScheme politik: ;
-    skos:prefLabel "Statistisches Bundesamt"@de .
+    skos:prefLabel "Parlament"@de .
 
-politik:f95c34ce-a87f-4364-b7c0-d06028426702 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
+politik:99c6a2bf-90a6-46d4-9623-025b6a104e9a a skos:Concept ;
+    skos:broader politik:2d484531-cb3e-41c9-be9b-213bf6af1828 ;
     skos:inScheme politik: ;
-    skos:prefLabel "Konferenz"@de .
+    skos:prefLabel "Kinderarbeit"@de .
 
-politik:fbcc2e27-9c5a-4ea2-a32b-3e0b3b883f03 a skos:Concept ;
-    skos:broader politik:9e467c60-fb4b-4be5-bfa5-856a7344e0ea ;
+politik:9b5b55cb-f926-4f8b-ac44-1c1080806888 a skos:Concept ;
+    skos:broader politik:e961c37f-86a5-4dbd-9b3c-cd2e992eeb97 ;
     skos:inScheme politik: ;
-    skos:prefLabel "Wahlrecht"@de .
+    skos:prefLabel "Friedenserziehung"@de .
 
-politik:fd1b1e98-f5dc-48f6-b5a2-9d3ff2a940ea a skos:Concept ;
-    skos:broader politik:74117693-cd34-4f22-83cd-17d5a20b3264 ;
+politik:9bfd2010-f906-40de-ba1b-4376c457e5f5 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Diskriminierung"@de .
+
+politik:9d305a0c-8488-4582-b197-c7f6d3e2d387 a skos:Concept ;
+    skos:broader politik:e961c37f-86a5-4dbd-9b3c-cd2e992eeb97 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Friedensbewegung"@de .
+
+politik:9e1adc85-af5a-4fb8-bf53-0a12a7544d09 a skos:Concept ;
+    skos:broader politik:44c1d1d5-b732-442e-b989-638b41bd9249 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Chruschtschow, Sergej"@de .
+
+politik:a0a48a13-af49-4a1d-8fdd-88a0a9b54cea a skos:Concept ;
+    skos:broader politik:9af467a5-6b52-4aaf-b972-ac74d87dabfc ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Rassismus (Republik Südafrika)"@de .
+
+politik:a189eff3-38db-4844-995c-9c714ca1f922 a skos:Concept ;
+    skos:broader politik:44c1d1d5-b732-442e-b989-638b41bd9249 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Giscard d'Estaing, Valéry"@de .
+
+politik:a1f31918-c0a6-4a03-b4bf-d5212a830d99 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Polizei"@de .
+
+politik:a2129d4b-87a0-4e14-bd7f-933499a12024 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Postleitzahl"@de .
+
+politik:a3c18ab0-f4ca-4603-878f-7264419fb77f a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Vertreibung"@de .
+
+politik:a4116ffd-2a2b-4aa0-8129-ba9f1ae403be a skos:Concept ;
+    skos:broader politik:2ea3db9a-1f95-43ec-a970-0e1baa8d5e0d ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Brot für die Welt"@de .
+
+politik:a4adc98f-928f-482f-9995-0c1954608403 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Kriegsfolge"@de .
+
+politik:a64aa600-acbf-4e47-a9f3-ac483924fb79 a skos:Concept ;
+    skos:broader politik:86524333-5b77-4e69-b150-d922883e24ca ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Sozialstruktur"@de .
+
+politik:a812120d-b1af-49a1-a8a9-4ef835e1f3dc a skos:Concept ;
+    skos:broader politik:614d17b6-aa82-465b-89ae-7803d98f3d0e ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Europarat"@de .
+
+politik:aaaffdca-d4f5-4aed-9baf-5da722d7a141 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Kriegsgefangenschaft"@de .
+
+politik:ab765e66-7e0d-4ffb-94dd-049eda8f57d3 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Nobelpreis"@de .
+
+politik:ac421d4f-0747-43e6-b64e-e10d8dc66776 a skos:Concept ;
+    skos:broader politik:614d17b6-aa82-465b-89ae-7803d98f3d0e ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Europäisches Parlament"@de .
+
+politik:ac974727-e3c9-407b-9fac-119ced39c775 a skos:Concept ;
+    skos:broader politik:86524333-5b77-4e69-b150-d922883e24ca ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Wohnungsbau"@de .
+
+politik:adc32c4f-5d98-44be-baf0-43ee716be43a a skos:Concept ;
+    skos:broader politik:bd8e3d36-d0e4-45ab-9ef5-e1bd304e1b5c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Föderalismus"@de .
+
+politik:ae165d28-ad81-4c80-a58e-596a16519a11 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Selbstbestimmung"@de .
+
+politik:aeead935-66a2-45eb-9b19-79ff2dec60e8 a skos:Concept ;
+    skos:broader politik:c38b1562-1117-46b3-b303-3763217a3c7d ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Verband (Recht)"@de .
+
+politik:af6c171b-c79c-4cef-9ba4-12a63dcf2954 a skos:Concept ;
+    skos:broader politik:44c1d1d5-b732-442e-b989-638b41bd9249 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Schäuble, Wolfgang"@de .
+
+politik:b0ff8546-c838-443d-9618-2f38806a4aa7 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Demonstration"@de .
+
+politik:b1f014e0-b479-492a-a132-768470dfba02 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Protest"@de .
+
+politik:b264f189-b2c5-484f-8f70-eb0ae1a49139 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Treuhandanstalt"@de .
+
+politik:b3d2cafe-00a1-45eb-ab80-413d22a3ff55 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Gewaltfreie Aktion"@de .
+
+politik:b44514d3-19b3-43f6-a6bd-59b8e7395d72 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Sozialdemokratie"@de .
+
+politik:b55c5c38-6c28-47fa-b995-43cb4db9fd8b a skos:Concept ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Mafia"@de ;
+    skos:topConceptOf politik: .
+
+politik:b6df72b7-3521-4809-8039-38a1f2d35dd7 a skos:Concept ;
+    skos:broader politik:f3c5b4cd-5855-4991-a8be-0ccb27108ff0 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Grenzschutz"@de .
+
+politik:b7b8985e-25ef-43ea-b24f-6e805e6c2ba0 a skos:Concept ;
+    skos:broader politik:04ad6a9d-e655-4ec8-b17f-80dd9bef88d7 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Weltmacht"@de .
+
+politik:b9d48742-9f50-4c6d-89d8-6baa89b0fb49 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Demokratisierung"@de .
+
+politik:bb3ba80c-3a8f-44b4-b43f-da4df2e22d12 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Migrationsursache"@de .
+
+politik:be0bea21-1de0-4282-bf92-9f28ecd20553 a skos:Concept ;
+    skos:broader politik:44c1d1d5-b732-442e-b989-638b41bd9249 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Klarsfeld, Beate"@de .
+
+politik:be76be54-8376-4494-b55d-a7d67617ed4c a skos:Concept ;
+    skos:broader politik:12e6cc43-0ef1-49ca-a2de-939926288bb0 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Bundeskanzler"@de .
+
+politik:bf766f7e-74ca-4d71-877e-c313102f2425 a skos:Concept ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Demokratie in Deutschland"@de ;
+    skos:topConceptOf politik: .
+
+politik:c35b1ae2-ac77-4384-91c7-0c3106fffa0e a skos:Concept ;
+    skos:broader politik:42aa706a-be68-4e5a-9fb7-124df5006f79 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Selbstverwaltung"@de .
+
+politik:c3b3077d-9b24-4d4b-939c-d1934b187dfe a skos:Concept ;
+    skos:broader politik:2c244383-f732-494a-abb6-77e407f5ebb3 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Weltgesundheitsorganisation"@de .
+
+politik:c40f2cff-d873-44f3-87c8-ec33e0411a42 a skos:Concept ;
+    skos:broader politik:44c1d1d5-b732-442e-b989-638b41bd9249 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "HammBrücher, Hildegard"@de .
+
+politik:c48f3b2b-f8fd-49df-8544-102a7980970d a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Ideologie"@de .
+
+politik:c6455b94-c6c2-40f0-a2f8-643e37b31461 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Deutschfranzösische Beziehungen"@de .
+
+politik:c6606c44-e481-4915-ad0f-517c2d02e1a6 a skos:Concept ;
+    skos:broader politik:bd8e3d36-d0e4-45ab-9ef5-e1bd304e1b5c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Gleichschaltung"@de .
+
+politik:c6e7e0b2-6cc2-4639-b502-8eef9eecab9a a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Bürgerinitiative"@de .
+
+politik:c72dc306-bdab-42e4-b3f0-a0f8f8cb4782 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Politikverdrossenheit"@de .
+
+politik:c7d7ac5a-6248-4cd4-9986-c86d07e0c3e1 a skos:Concept ;
+    skos:broader politik:44c1d1d5-b732-442e-b989-638b41bd9249 ;
     skos:inScheme politik: ;
     skos:prefLabel "Menchu, Rigoberta"@de .
 
-politik:fdd9e3d1-2a03-4056-ab58-2d4aac125452 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
+politik:c884f64a-aa50-4d26-9582-f9f6dedd5562 a skos:Concept ;
+    skos:broader politik:d9c1c305-a8fc-4bba-8e50-2634c2ce5b57 ;
     skos:inScheme politik: ;
-    skos:prefLabel "Modellversuch"@de .
+    skos:prefLabel "Wehrpflicht"@de .
 
-politik:0e80719c-1b8a-4ceb-8e05-38e7c7229c0f a skos:Concept ;
-    skos:broader politik:79dacc6d-0266-4b0f-b8c6-4d5b6d47f91b ;
+politik:ca58136a-8fe4-499a-b90d-cfd2c47de376 a skos:Concept ;
+    skos:broader politik:44c1d1d5-b732-442e-b989-638b41bd9249 ;
     skos:inScheme politik: ;
-    skos:narrower politik:a5001c0c-b603-4d72-8981-339f7203e13d ;
-    skos:prefLabel "Entspannungspolitik"@de .
+    skos:prefLabel "Schmidt, Helmut"@de .
 
-politik:1f4ab22e-8263-41df-8e47-b435cd6926c0 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
+politik:caea4405-05de-437f-a553-d67ef1a6ae26 a skos:Concept ;
+    skos:broader politik:96dcd6cf-2920-4d91-82b4-c66fd0a320dd ;
     skos:inScheme politik: ;
-    skos:narrower politik:1e65c839-1379-4fe4-83e0-ba8763af511b ;
-    skos:prefLabel "Strafvollzug"@de .
+    skos:prefLabel "Grüne"@de .
 
-politik:2b998b5f-c99e-4472-ae27-9a47ffc378a3 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
+politik:cc5b9afa-094c-4edc-a449-e3653152a878 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
     skos:inScheme politik: ;
-    skos:narrower politik:85ba16a8-3276-4644-81ea-afd3662479f5 ;
-    skos:prefLabel "Spionage"@de .
+    skos:prefLabel "Putsch"@de .
 
-politik:402019b8-515b-461d-ad00-077abdb00645 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
+politik:cd3a0998-68d4-46eb-b9e5-117091e43d1f a skos:Concept ;
+    skos:broader politik:72a86e81-6bf4-4292-990e-26a3c7689cc5 ;
     skos:inScheme politik: ;
-    skos:narrower politik:c17b6074-856b-4fd5-b2ea-a6ac0015a173 ;
-    skos:prefLabel "Einwanderungspolitik"@de .
+    skos:prefLabel "Abrüstung"@de .
 
-politik:419eb6d1-8d29-4752-97d6-74351fe03e96 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
+politik:cd756c2c-12bc-4eec-aa8e-501a42fcd673 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
     skos:inScheme politik: ;
-    skos:narrower politik:13a5bd3c-5ee8-43cc-85e6-10d08b9706c6 ;
-    skos:prefLabel "Meinungsfreiheit"@de .
+    skos:prefLabel "Diplomatie"@de .
 
-politik:477ab04e-0783-44e7-8fb0-a4dea0967acd a skos:Concept ;
-    skos:broader politik:afd46588-9fa4-4cbf-8ccc-f77301974b23 ;
+politik:cf657685-dfac-4bc6-b36b-4381bac1ea6b a skos:Concept ;
+    skos:broader politik:0606000e-0d95-42d4-912e-c86e350dfcb2 ;
     skos:inScheme politik: ;
-    skos:narrower politik:ca43f1aa-73c5-4b0f-81be-7f13cbf90c97 ;
-    skos:prefLabel "Gemeinde (Politik)"@de .
+    skos:prefLabel "Bürgerkrieg"@de .
 
-politik:6fe1d381-d1b3-4635-baa6-567e903c0ae5 a skos:Concept ;
-    skos:broader politik:e13ce36f-d45c-402a-8662-ff0718f24dc1 ;
+politik:d0de7f6e-2842-44b0-9ebc-334dd35ecb15 a skos:Concept ;
+    skos:broader politik:797713f9-f734-49d3-b672-9d8c2e5c49ad ;
     skos:inScheme politik: ;
-    skos:narrower politik:e645a8a7-815e-4cfe-91d0-438552e793e2 ;
+    skos:prefLabel "Jugendstrafvollzug"@de .
+
+politik:d2e58f2e-f882-4bb5-a423-c4686625b7c4 a skos:Concept ;
+    skos:broader politik:44c1d1d5-b732-442e-b989-638b41bd9249 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Rüttgers, Jürgen"@de .
+
+politik:d33441af-26e4-473d-903a-8e546fba029e a skos:Concept ;
+    skos:broader politik:2d484531-cb3e-41c9-be9b-213bf6af1828 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Jugendmedienschutz"@de .
+
+politik:d3c78884-c3c9-4864-9295-6bb063a9b3d4 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Zensur (Überwachung)"@de .
+
+politik:d4e56408-e64c-4bf3-957b-5ea210a0c0c4 a skos:Concept ;
+    skos:broader politik:bbaff0d1-e51f-4de7-a970-c991dd902f3a ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Whistleblower"@de .
+
+politik:d5a13754-1500-4e84-9a98-545aaa6e45b5 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Mitbestimmung"@de .
+
+politik:d5cbe688-40a7-4e93-979f-dcfd6999b47b a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Feindbild"@de .
+
+politik:d79f57b9-9510-4606-bc5c-081ad44e068b a skos:Concept ;
+    skos:broader politik:9af467a5-6b52-4aaf-b972-ac74d87dabfc ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Rassismus (Frankreich)"@de .
+
+politik:d7b06c1a-8772-4d58-b569-031e770e9d12 a skos:Concept ;
+    skos:broader politik:bdb9168b-1214-404b-b660-d6390c356ff8 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Wettrüsten"@de .
+
+politik:d86e0743-dcf3-4615-9d90-1ae466a8269a a skos:Concept ;
+    skos:broader politik:83463f35-571f-4b45-bea6-86e53b60ff96 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Sorben"@de .
+
+politik:d99ec5c3-8eda-41df-9b8b-9e2d23c2abab a skos:Concept ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Bevölkerungspyramide"@de ;
+    skos:topConceptOf politik: .
+
+politik:dcff7591-67ac-4cea-b1db-263ef9328deb a skos:Concept ;
+    skos:broader politik:96dcd6cf-2920-4d91-82b4-c66fd0a320dd ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Volkspartei"@de .
+
+politik:dd8e117c-6aa8-41bc-b69e-b79338957c90 a skos:Concept ;
+    skos:broader politik:15535a66-56c1-43d2-8bf9-cf3a4885cf86 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Terrorismus"@de .
+
+politik:ddb4fe1a-97b0-473b-95aa-8d4952619131 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Flüchtlinge"@de .
+
+politik:ddc0b208-eba0-4633-8b66-86e53358dc7d a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Patriotismus"@de .
+
+politik:def1ba9f-09ac-4198-b576-f72a3edcb829 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Vorwahlen (USA)"@de .
+
+politik:e0df753a-cb4f-44d5-8cce-2dcf3b710e0e a skos:Concept ;
+    skos:broader politik:7276834d-8802-4d68-87d2-9c6f03126e3e ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Kommunalpolitik"@de .
+
+politik:e4842a1b-9615-4c01-975e-8ad057bcb2b8 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Kriegsgräberfürsorge"@de .
+
+politik:e5b9ddbf-fcc7-45c5-b903-81758ee60730 a skos:Concept ;
+    skos:broader politik:0c10c619-99ca-4ca5-ae58-f00f36fb1e7f ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Schwellenländer"@de .
+
+politik:e907c8c9-ea82-400f-a1f5-94e6820e7d4b a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Statistisches Bundesamt"@de .
+
+politik:e9c73411-33ea-4b23-bff1-698603795c44 a skos:Concept ;
+    skos:broader politik:bd8e3d36-d0e4-45ab-9ef5-e1bd304e1b5c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Kommunismus"@de .
+
+politik:ec6666ea-d923-49f8-ad21-2f873e2bfc07 a skos:Concept ;
+    skos:broader politik:bd8e3d36-d0e4-45ab-9ef5-e1bd304e1b5c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Monarchie"@de .
+
+politik:ed5c3bf0-783a-4a44-8079-6628182f59fc a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Aussiedler"@de .
+
+politik:edb537e8-80e2-4189-9409-602105e245e6 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Auslanddeutsche"@de .
+
+politik:ef134fde-2632-4bb0-94a2-2cb98c6b2c61 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Verbrechensbekämpfung"@de .
+
+politik:f0ad9a06-dac3-470a-ad85-74cae48c58bd a skos:Concept ;
+    skos:broader politik:44c1d1d5-b732-442e-b989-638b41bd9249 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Schorlemmer, Friedrich"@de .
+
+politik:f197fa26-9659-465f-9517-fe6e59c07c9f a skos:Concept ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Russifizierung"@de ;
+    skos:topConceptOf politik: .
+
+politik:f24a7e10-bdfe-44fe-8561-14a5adafbc10 a skos:Concept ;
+    skos:broader politik:44c1d1d5-b732-442e-b989-638b41bd9249 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Bush, George W."@de .
+
+politik:f2c6bec5-86d3-4de8-9d1c-0f3a85db3de8 a skos:Concept ;
+    skos:broader politik:44c1d1d5-b732-442e-b989-638b41bd9249 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "McNamara, Robert"@de .
+
+politik:f3f0844a-8b01-4cd3-a72e-31d0778f87ee a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Politischer Konflikt"@de .
+
+politik:f4642aae-0f56-42bb-be59-32461ec85ea7 a skos:Concept ;
+    skos:broader politik:2ea3db9a-1f95-43ec-a970-0e1baa8d5e0d ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Amnesty International"@de .
+
+politik:f47cc224-c355-4b0d-9ab3-d9584530a81c a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Reform"@de .
+
+politik:f5c81692-205a-460a-b512-494c4e780297 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Völkermord"@de .
+
+politik:f6278bc5-ce20-4878-b17e-f5a7cbbbb930 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Bündnis"@de .
+
+politik:f68992ef-539a-4843-a5bd-abf456c746b8 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Volksdeutsche"@de .
+
+politik:f8ae4a33-802c-432c-ab5a-e28d8ace6943 a skos:Concept ;
+    skos:broader politik:12e6cc43-0ef1-49ca-a2de-939926288bb0 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Bundespräsident"@de .
+
+politik:f903b731-b9b3-4a07-9e81-d3de10d1f34b a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Kriegsverbrechen"@de .
+
+politik:f94c1437-bf11-4d14-a4df-a764f2b9c7c8 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Öffentlicher Haushalt"@de .
+
+politik:faa327a1-47f7-46c7-ad8a-d98363099e64 a skos:Concept ;
+    skos:broader politik:b901392b-3b3b-4732-a7a6-b88e5eaedb4d ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Nutzungsrecht"@de .
+
+politik:faddbc5b-4428-4c2e-af16-f6a1d17da862 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Dissident"@de .
+
+politik:fae5aabd-4022-4ac1-ad02-5f6f1c6964df a skos:Concept ;
+    skos:broader politik:44c1d1d5-b732-442e-b989-638b41bd9249 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Merkel, Angela"@de .
+
+politik:fd288b3a-9dfe-44c9-aad5-6452f9a68684 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Neofaschismus"@de .
+
+politik:fd74cb1b-7f08-4681-8bdf-0a9af633c7d8 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Deutscher Gewerkschaftsbund"@de .
+
+politik:ff0a2c07-856f-46dd-8209-7529eeb8c231 a skos:Concept ;
+    skos:broader politik:44c1d1d5-b732-442e-b989-638b41bd9249 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Chirac, Jacques"@de .
+
+politik:ff4f9a52-73b8-4e46-b888-9e2b2100370c a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:prefLabel "Bürgerbeteiligung"@de .
+
+politik:ff520b21-a7e7-48cc-b682-e5d81c0fcdd1 a skos:Concept ;
+    skos:broader politik:72e886ee-79f6-4e88-b6b1-44b7dad7a881 ;
+    skos:inScheme politik: ;
+    skos:prefLabel "USA (Außenpolitik)"@de .
+
+politik:018c7161-3dee-4814-bcef-5d051090feba a skos:Concept ;
+    skos:broader politik:a9b11aa8-9f88-4884-a8e9-c82876e5c5f5 ;
+    skos:inScheme politik: ;
+    skos:narrower politik:1ded709c-5420-458a-ba5b-f4aed7c4110d ;
     skos:prefLabel "Gesetzgebung"@de .
 
-politik:8c585053-dfcc-4498-a152-bd31458647a4 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
+politik:01ee2b22-4efc-45ad-9c88-e046ff027b99 a skos:Concept ;
+    skos:broader politik:7caad10d-85ff-4580-aae0-bd1ba1e7bf76 ;
     skos:inScheme politik: ;
-    skos:narrower politik:f35ae113-be69-4a68-88d9-7508b9382aca ;
-    skos:prefLabel "Gericht (Recht)"@de .
-
-politik:8ee8d135-0f9f-4a17-ac52-8773f967c7bf a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:narrower politik:b304353d-2788-4dfa-a578-bd0368acf750 ;
-    skos:prefLabel "Rüstung (Politik)"@de .
-
-politik:9e467c60-fb4b-4be5-bfa5-856a7344e0ea a skos:Concept ;
-    skos:broader politik:3c9725c3-cdb4-4ce8-ba98-568075731620 ;
-    skos:inScheme politik: ;
-    skos:narrower politik:fbcc2e27-9c5a-4ea2-a32b-3e0b3b883f03 ;
+    skos:narrower politik:157539c4-5a21-4862-9971-494d2d918dcb ;
     skos:prefLabel "Wahlrechtsgrundsatz"@de .
 
-politik:afd46588-9fa4-4cbf-8ccc-f77301974b23 a skos:Concept ;
-    skos:broader politik:c21150f6-4c3c-497f-8c9a-24a65859b1a8 ;
+politik:21f769dc-79e7-4759-adab-cb17d7a36b1b a skos:Concept ;
+    skos:broader politik:42aa706a-be68-4e5a-9fb7-124df5006f79 ;
     skos:inScheme politik: ;
-    skos:narrower politik:477ab04e-0783-44e7-8fb0-a4dea0967acd ;
+    skos:narrower politik:7276834d-8802-4d68-87d2-9c6f03126e3e ;
     skos:prefLabel "Kreis (Verwaltungsbezirk)"@de .
 
-politik:b74e4e15-7e26-46d3-881c-2b9ef9432cfe a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
+politik:2a0562be-2fc7-4653-8606-45ec16d7e970 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
     skos:inScheme politik: ;
-    skos:narrower politik:7b1412a6-8e82-4f24-88fa-25877b106ba5 ;
-    skos:prefLabel "Politische Grenze"@de .
-
-politik:c0b64b0e-d6f7-4c8f-8677-025565515121 a skos:Concept ;
-    skos:broader politik:e5540f6b-284a-4624-841e-ac7bf6a1de35 ;
-    skos:inScheme politik: ;
-    skos:narrower politik:4292b08c-dbb7-49be-9d30-0b53b3b76de3 ;
-    skos:prefLabel "Urheberrecht"@de .
-
-politik:c89fc9be-d1e5-4e9d-87c9-5553e6974416 a skos:Concept ;
-    skos:broader politik:ebf6d2a0-d24f-4e76-b116-e4f05fdbfb8e ;
-    skos:inScheme politik: ;
-    skos:narrower politik:3ed46ca9-e374-4776-a672-60d7b92a402c ;
-    skos:prefLabel "Bundestag"@de .
-
-politik:cc0d3546-655e-4978-bdb6-bdcf79408ed4 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:narrower politik:89b972e0-b120-434c-82cf-86c443c52567 ;
-    skos:prefLabel "Verfassung (Politik)"@de .
-
-politik:e7ce7ef1-6e53-4561-b211-e0815d912a23 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:narrower politik:e8e4876d-8dcb-456e-bd7e-7fa1dd3da681 ;
-    skos:prefLabel "Minderheit"@de .
-
-politik:ee30e458-9a30-472a-a1b5-fdfa214149dd a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:narrower politik:e6de4820-9e40-4a58-92b1-d9608ce940a4 ;
-    skos:prefLabel "Militär"@de .
-
-politik:f451e9ca-cb1a-46a3-9aac-454a5d924678 a skos:Concept ;
-    skos:broader politik:cba8e94e-4057-4a0d-9151-1ffff887acd7 ;
-    skos:inScheme politik: ;
-    skos:narrower politik:bc112db6-5b54-4385-993c-71dab10a6a54 ;
-    skos:prefLabel "Demokratie"@de .
-
-politik:ffc72bc1-34ee-4622-817a-162f913539a0 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:narrower politik:2e2f207d-dc8e-4ba1-8768-79bf143d4804 ;
+    skos:narrower politik:378ec7e3-f0b7-4450-bde1-b413018e782d ;
     skos:prefLabel "Vollstreckung"@de .
 
-politik:0021ab1f-bf9c-4fc9-8195-aa0134f96bbf a skos:Concept ;
-    skos:broader politik:3c9725c3-cdb4-4ce8-ba98-568075731620 ;
+politik:67ea7bf0-8b7b-412f-90c7-1a3431bebedb a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
     skos:inScheme politik: ;
-    skos:narrower politik:13c713dc-0b59-4983-a02c-54eb6e54a902,
-        politik:678f60a0-9ce7-4c22-9638-15b392af07b9 ;
-    skos:prefLabel "Wahlsystem"@de .
+    skos:narrower politik:0460e09f-8fbd-482e-bde4-bda45bfd4a74 ;
+    skos:prefLabel "Verfassung (Politik)"@de .
 
-politik:098dbe83-ad24-478f-91c5-a88465787057 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
+politik:70b5e725-0d0a-4a3e-9382-5db29ab8f4c8 a skos:Concept ;
+    skos:broader politik:12e6cc43-0ef1-49ca-a2de-939926288bb0 ;
     skos:inScheme politik: ;
-    skos:narrower politik:2b01bfde-0413-4ee2-8515-959ec8f44a17,
-        politik:cfefc150-a7a0-45dd-beec-cb836946a74a ;
-    skos:prefLabel "Sozialstaat"@de .
+    skos:narrower politik:6dc78413-d787-463b-bac5-b7b00f328d11 ;
+    skos:prefLabel "Bundestag"@de .
 
-politik:138b69de-0a52-4975-b4b7-298714896bbf a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
+politik:7276834d-8802-4d68-87d2-9c6f03126e3e a skos:Concept ;
+    skos:broader politik:21f769dc-79e7-4759-adab-cb17d7a36b1b ;
     skos:inScheme politik: ;
-    skos:narrower politik:92720866-3ac3-480c-885f-9c7d16616564,
-        politik:c13dfe92-d870-41d9-899a-e1bddb1b1ac9 ;
-    skos:prefLabel "Vereinte Nationen"@de .
+    skos:narrower politik:e0df753a-cb4f-44d5-8cce-2dcf3b710e0e ;
+    skos:prefLabel "Gemeinde (Politik)"@de .
 
-politik:21805d92-d17d-4ba8-8833-2b02ac2544d6 a skos:Concept ;
-    skos:broader politik:79dacc6d-0266-4b0f-b8c6-4d5b6d47f91b ;
+politik:72a86e81-6bf4-4292-990e-26a3c7689cc5 a skos:Concept ;
+    skos:broader politik:72e886ee-79f6-4e88-b6b1-44b7dad7a881 ;
     skos:inScheme politik: ;
-    skos:narrower politik:5a6ea1af-9a62-4a9a-9356-c35f26229f66,
-        politik:b4218c94-ae09-491b-9788-07ae79d9ff85 ;
+    skos:narrower politik:cd3a0998-68d4-46eb-b9e5-117091e43d1f ;
+    skos:prefLabel "Entspannungspolitik"@de .
+
+politik:74a947a7-d4a3-4fa8-81fa-014a917dfb8f a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:narrower politik:00f03a3f-25ba-42a2-bb5e-ef6935780059 ;
+    skos:prefLabel "Gericht (Recht)"@de .
+
+politik:797713f9-f734-49d3-b672-9d8c2e5c49ad a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:narrower politik:d0de7f6e-2842-44b0-9ebc-334dd35ecb15 ;
+    skos:prefLabel "Strafvollzug"@de .
+
+politik:83463f35-571f-4b45-bea6-86e53b60ff96 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:narrower politik:d86e0743-dcf3-4615-9d90-1ae466a8269a ;
+    skos:prefLabel "Minderheit"@de .
+
+politik:8de1d902-6607-4aea-abaf-2ddf9959805e a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:narrower politik:488bd4bc-6444-4565-9fb2-8545fb6b0e2a ;
+    skos:prefLabel "Einwanderungspolitik"@de .
+
+politik:97ea3db5-46b0-4962-82f7-d2259be6ed32 a skos:Concept ;
+    skos:broader politik:bd8e3d36-d0e4-45ab-9ef5-e1bd304e1b5c ;
+    skos:inScheme politik: ;
+    skos:narrower politik:52cde9e7-a2e2-4437-8be2-860ae93e317b ;
+    skos:prefLabel "Demokratie"@de .
+
+politik:b901392b-3b3b-4732-a7a6-b88e5eaedb4d a skos:Concept ;
+    skos:broader politik:c38b1562-1117-46b3-b303-3763217a3c7d ;
+    skos:inScheme politik: ;
+    skos:narrower politik:faa327a1-47f7-46c7-ad8a-d98363099e64 ;
+    skos:prefLabel "Urheberrecht"@de .
+
+politik:bbaff0d1-e51f-4de7-a970-c991dd902f3a a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:narrower politik:d4e56408-e64c-4bf3-957b-5ea210a0c0c4 ;
+    skos:prefLabel "Spionage"@de .
+
+politik:bdb9168b-1214-404b-b660-d6390c356ff8 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:narrower politik:d7b06c1a-8772-4d58-b569-031e770e9d12 ;
+    skos:prefLabel "Rüstung (Politik)"@de .
+
+politik:cbd3bb63-2b80-43e8-a489-ee61f2d7ae20 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:narrower politik:061c33c9-d903-4f5e-b7bb-cc1dd388a38b ;
+    skos:prefLabel "Meinungsfreiheit"@de .
+
+politik:ebc96aee-dac9-45b9-9913-8517a43d54eb a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:narrower politik:5f727b07-8a3a-49e0-83aa-2814147d9639 ;
+    skos:prefLabel "Militär"@de .
+
+politik:f3c5b4cd-5855-4991-a8be-0ccb27108ff0 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:narrower politik:b6df72b7-3521-4809-8039-38a1f2d35dd7 ;
+    skos:prefLabel "Politische Grenze"@de .
+
+politik:0c10c619-99ca-4ca5-ae58-f00f36fb1e7f a skos:Concept ;
+    skos:broader politik:72e886ee-79f6-4e88-b6b1-44b7dad7a881 ;
+    skos:inScheme politik: ;
+    skos:narrower politik:021806eb-2ae7-4405-bdc7-eaf4e9ae0bad,
+        politik:e5b9ddbf-fcc7-45c5-b903-81758ee60730 ;
     skos:prefLabel "Entwicklungshilfe"@de .
 
-politik:26c002d1-3f3b-4b1a-ad5d-6f3d62552673 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
+politik:15535a66-56c1-43d2-8bf9-cf3a4885cf86 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
     skos:inScheme politik: ;
-    skos:narrower politik:a1558b0e-05ef-459e-b464-2c3fa7dc7e0e,
-        politik:b2d15527-3b6b-4362-af4c-4792d4ad2378 ;
-    skos:prefLabel "Nichtregierungsorganisation"@de .
-
-politik:2c0fbfa6-b855-472f-bb21-6b4879592c80 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:narrower politik:301e0947-1fb9-4c66-aaeb-0e50a0f8d4f9,
-        politik:ba62caf5-2a45-47d0-aed6-bd0f5e31835b ;
+    skos:narrower politik:34d70749-f278-431d-a715-788d199c7237,
+        politik:dd8e117c-6aa8-41bc-b69e-b79338957c90 ;
     skos:prefLabel "Terror"@de .
 
-politik:81368287-b410-4fde-8b69-91e13e1392a2 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
+politik:2c244383-f732-494a-abb6-77e407f5ebb3 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
     skos:inScheme politik: ;
-    skos:narrower politik:1302883b-cf70-4e83-9c00-c7dfed49356c,
-        politik:9ef1157c-5c70-4134-acf8-b3795dfbc473 ;
-    skos:prefLabel "Frieden"@de .
+    skos:narrower politik:40a831cd-821a-4cdf-96ab-fa863b3fcec2,
+        politik:c3b3077d-9b24-4d4b-939c-d1934b187dfe ;
+    skos:prefLabel "Vereinte Nationen"@de .
 
-politik:c2643ec5-ac36-4d86-8e30-010c7fa3ddfb a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
+politik:2d484531-cb3e-41c9-be9b-213bf6af1828 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
     skos:inScheme politik: ;
-    skos:narrower politik:1e1584aa-e552-4a07-979f-5609f32dbb45,
-        politik:6c585830-f417-4a00-b161-da17c6d4aef7 ;
+    skos:narrower politik:99c6a2bf-90a6-46d4-9623-025b6a104e9a,
+        politik:d33441af-26e4-473d-903a-8e546fba029e ;
     skos:prefLabel "Jugendschutz"@de .
 
-politik:e13ce36f-d45c-402a-8662-ff0718f24dc1 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
+politik:2ea3db9a-1f95-43ec-a970-0e1baa8d5e0d a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
     skos:inScheme politik: ;
-    skos:narrower politik:31baa385-81ef-4d87-8dc4-df9764c02711,
-        politik:6fe1d381-d1b3-4635-baa6-567e903c0ae5 ;
+    skos:narrower politik:a4116ffd-2a2b-4aa0-8129-ba9f1ae403be,
+        politik:f4642aae-0f56-42bb-be59-32461ec85ea7 ;
+    skos:prefLabel "Nichtregierungsorganisation"@de .
+
+politik:86524333-5b77-4e69-b150-d922883e24ca a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:narrower politik:a64aa600-acbf-4e47-a9f3-ac483924fb79,
+        politik:ac974727-e3c9-407b-9fac-119ced39c775 ;
+    skos:prefLabel "Sozialstaat"@de .
+
+politik:a9b11aa8-9f88-4884-a8e9-c82876e5c5f5 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:narrower politik:018c7161-3dee-4814-bcef-5d051090feba,
+        politik:1ea683b9-3f8b-4071-8da1-34a3f289ea8b ;
     skos:prefLabel "Gesetz"@de .
 
-politik:3c9725c3-cdb4-4ce8-ba98-568075731620 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
+politik:c51d9f59-91da-41e1-8459-44ad48148a46 a skos:Concept ;
+    skos:broader politik:7caad10d-85ff-4580-aae0-bd1ba1e7bf76 ;
     skos:inScheme politik: ;
-    skos:narrower politik:0021ab1f-bf9c-4fc9-8195-aa0134f96bbf,
-        politik:2233c7f8-d803-4eb7-880c-69788ad3e92e,
-        politik:9e467c60-fb4b-4be5-bfa5-856a7344e0ea ;
-    skos:prefLabel "Wahl"@de .
+    skos:narrower politik:26e05a01-6a8e-4f65-80a1-93790acb6541,
+        politik:37cf5280-defd-40fe-afe2-80a64fe47e61 ;
+    skos:prefLabel "Wahlsystem"@de .
 
-politik:c21150f6-4c3c-497f-8c9a-24a65859b1a8 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
+politik:e961c37f-86a5-4dbd-9b3c-cd2e992eeb97 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
     skos:inScheme politik: ;
-    skos:narrower politik:afd46588-9fa4-4cbf-8ccc-f77301974b23,
-        politik:bcd99f7a-edb1-41be-81bc-26056ba2d977,
-        politik:f19f035c-12c6-4fcf-955e-4ca5ecd5c45f ;
+    skos:narrower politik:9b5b55cb-f926-4f8b-ac44-1c1080806888,
+        politik:9d305a0c-8488-4582-b197-c7f6d3e2d387 ;
+    skos:prefLabel "Frieden"@de .
+
+politik:42aa706a-be68-4e5a-9fb7-124df5006f79 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:narrower politik:21f769dc-79e7-4759-adab-cb17d7a36b1b,
+        politik:75e2872d-afda-4f12-9736-407bec147d24,
+        politik:c35b1ae2-ac77-4384-91c7-0c3106fffa0e ;
     skos:prefLabel "Verwaltung"@de .
 
-politik:0253db4c-0687-41dd-a254-e93cd1947169 a skos:Concept ;
+politik:7caad10d-85ff-4580-aae0-bd1ba1e7bf76 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
     skos:inScheme politik: ;
-    skos:narrower politik:55316e0f-e023-4033-b37b-44366708a8f2,
-        politik:92de5ac4-151d-4a76-af46-950eb37ea905,
-        politik:e477e9c1-4956-49c6-afb9-ca4e87f7d32e,
-        politik:f135a321-59e7-4672-bfbb-8d83c9be4394 ;
+    skos:narrower politik:01ee2b22-4efc-45ad-9c88-e046ff027b99,
+        politik:55a258ee-508a-46a4-bc50-3422fc7f67e9,
+        politik:c51d9f59-91da-41e1-8459-44ad48148a46 ;
+    skos:prefLabel "Wahl"@de .
+
+politik:614d17b6-aa82-465b-89ae-7803d98f3d0e a skos:Concept ;
+    skos:inScheme politik: ;
+    skos:narrower politik:4fabc24a-1f16-49a0-9b3b-711582dae675,
+        politik:765940fc-335f-4392-b583-279d22ccb158,
+        politik:a812120d-b1af-49a1-a8a9-4ef835e1f3dc,
+        politik:ac421d4f-0747-43e6-b64e-e10d8dc66776 ;
     skos:prefLabel "Europäische Gemeinschaften"@de ;
     skos:topConceptOf politik: .
 
-politik:0923d9c3-2ae5-49fb-bffc-9899965658a2 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
+politik:9af467a5-6b52-4aaf-b972-ac74d87dabfc a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
     skos:inScheme politik: ;
-    skos:narrower politik:52e6574f-3054-4853-9f85-decb8716ba79,
-        politik:b6748def-59f9-4010-9020-e6859c9ce9ee,
-        politik:c6719106-d454-499f-b1a4-693476e835cd,
-        politik:dfeee9be-ec41-4cad-b464-b578b31cbfad ;
-    skos:prefLabel "Bundeswehr"@de .
-
-politik:e8e3682e-4c72-44ef-b219-2bb9b064c113 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
-    skos:inScheme politik: ;
-    skos:narrower politik:19f9e644-9a3d-4b6d-bf66-7904c2839424,
-        politik:54a7bf59-8983-4f8c-b3ef-6ee5228b8d72,
-        politik:639a40a7-b731-4976-8250-ee5a2541f840,
-        politik:b43e9b74-a4fe-456f-b8a5-b7c7c32d06dd ;
+    skos:narrower politik:1e5af1a2-e23f-48f5-8973-7a6f8a1baec5,
+        politik:7f2dcefa-0580-4b8a-b3a3-26d0c51ddb01,
+        politik:a0a48a13-af49-4a1d-8fdd-88a0a9b54cea,
+        politik:d79f57b9-9510-4606-bc5c-081ad44e068b ;
     skos:prefLabel "Rassismus"@de .
 
-politik:79dacc6d-0266-4b0f-b8c6-4d5b6d47f91b a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
+politik:d9c1c305-a8fc-4bba-8e50-2634c2ce5b57 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
     skos:inScheme politik: ;
-    skos:narrower politik:05e5f6e2-0e70-4a20-8313-2e81c3ab1a2b,
-        politik:0e80719c-1b8a-4ceb-8e05-38e7c7229c0f,
-        politik:21805d92-d17d-4ba8-8833-2b02ac2544d6,
-        politik:cca8f343-fc99-4f89-94f4-972c2407475a,
-        politik:d8ab30a3-8633-4b04-bfd8-b8e8fc45eb7b ;
-    skos:prefLabel "Außenpolitik"@de .
+    skos:narrower politik:7e6b9ce8-b47e-4ed3-8703-3e499264834c,
+        politik:8db44f96-3295-4309-a9d0-a043a99a470e,
+        politik:919e1a26-61a3-4d07-bcd0-742f98f1a11f,
+        politik:c884f64a-aa50-4d26-9582-f9f6dedd5562 ;
+    skos:prefLabel "Bundeswehr"@de .
 
-politik:c4d0ee1d-954a-4f19-b6b2-e81cd6c7f379 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
+politik:04ad6a9d-e655-4ec8-b17f-80dd9bef88d7 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
     skos:inScheme politik: ;
-    skos:narrower politik:13cf4a75-1b3d-4cf2-92bb-d63313e43098,
-        politik:1948dd27-68d7-4f49-91f7-115a66724f62,
-        politik:2620dcc1-333d-496b-a816-944202d27609,
-        politik:4e8fa174-3802-47fc-a850-83d4e410e415,
-        politik:81204974-2d89-46cb-bb72-f2ed293f5dff ;
+    skos:narrower politik:073a55df-f2ba-4da9-9036-ed05c2d722cf,
+        politik:1c7d88e1-3502-4e2b-82f6-58714feadcf0,
+        politik:2ca513ec-832a-4e29-a1c7-bf2d1d86e15c,
+        politik:7e027fed-0e7d-475d-81a0-5b35a1a14343,
+        politik:b7b8985e-25ef-43ea-b24f-6e805e6c2ba0 ;
     skos:prefLabel "Staat (Land)"@de .
 
-politik:ebf6d2a0-d24f-4e76-b116-e4f05fdbfb8e a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
+politik:12e6cc43-0ef1-49ca-a2de-939926288bb0 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
     skos:inScheme politik: ;
-    skos:narrower politik:51db0723-291e-49f2-9971-307ab60bd7a8,
-        politik:a5d40aa2-413f-40f4-8d57-f182cb127878,
-        politik:bf9cf769-f73a-4a81-a410-0ae10520ea5b,
-        politik:c3e57f86-e156-41b5-a6c1-81ee872cf414,
-        politik:c89fc9be-d1e5-4e9d-87c9-5553e6974416 ;
+    skos:narrower politik:01015945-d858-4db7-a1ad-d2657e72d603,
+        politik:06278f24-63ee-460b-8c2a-b8e5d50af284,
+        politik:70b5e725-0d0a-4a3e-9382-5db29ab8f4c8,
+        politik:be76be54-8376-4494-b55d-a7d67617ed4c,
+        politik:f8ae4a33-802c-432c-ab5a-e28d8ace6943 ;
     skos:prefLabel "Bundesregierung"@de .
 
-politik:40fa13a7-0670-4816-8043-2bfc9f38811c a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
+politik:72e886ee-79f6-4e88-b6b1-44b7dad7a881 a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
     skos:inScheme politik: ;
-    skos:narrower politik:0167f5ac-1a0d-49f2-9a1e-87b1d7ba7af3,
-        politik:6043b2e0-3b81-42f1-a0e7-fe0182b0f84d,
-        politik:64e01e88-b35b-4cc5-9d64-b86aa79bc6a2,
-        politik:74a6f8e3-caa6-4fa8-ab6d-72497b7be513,
-        politik:981249bf-f40f-49e1-bb17-d1b27695099b,
-        politik:aafa1ddb-b8ab-4a41-a07f-c3bbc8fc2c9a,
-        politik:b7212010-a936-4cd1-a9cc-4b96c9639acd ;
-    skos:prefLabel "Partei (Politik)"@de .
+    skos:narrower politik:0606000e-0d95-42d4-912e-c86e350dfcb2,
+        politik:0c10c619-99ca-4ca5-ae58-f00f36fb1e7f,
+        politik:62ead585-babe-4e51-9633-1915f90d2359,
+        politik:72a86e81-6bf4-4292-990e-26a3c7689cc5,
+        politik:ff520b21-a7e7-48cc-b682-e5d81c0fcdd1 ;
+    skos:prefLabel "Außenpolitik"@de .
 
-politik:cca8f343-fc99-4f89-94f4-972c2407475a a skos:Concept ;
-    skos:broader politik:79dacc6d-0266-4b0f-b8c6-4d5b6d47f91b ;
+politik:0606000e-0d95-42d4-912e-c86e350dfcb2 a skos:Concept ;
+    skos:broader politik:72e886ee-79f6-4e88-b6b1-44b7dad7a881 ;
     skos:inScheme politik: ;
-    skos:narrower politik:32148a47-621e-4d5c-a833-e6b3cdb3e917,
-        politik:3ebbede3-8fb3-46b3-a7f7-9a1db6788ae3,
-        politik:72a82367-8539-4ef6-8922-694509aefd3c,
-        politik:c2a79f53-1d30-48dd-8339-afb0081a9251,
-        politik:e2929dda-739d-4b5b-b1d1-13129816864e,
-        politik:e70d3422-cf97-40f7-a3b0-dfae7835f3cf,
-        politik:ee2b4aca-ee98-4743-8447-e4069692c4fb ;
+    skos:narrower politik:0fe49985-abce-48ff-8d35-baddec96bd49,
+        politik:0ff02995-c961-4845-a4c8-f5b34e94ec56,
+        politik:217a0e46-fe86-4678-a320-aef8d6440b11,
+        politik:30a2ed02-323f-4016-bbe5-a836bdc1a65b,
+        politik:39e80c87-4a14-41c4-87c8-0adf07737761,
+        politik:88daa3c4-949c-4226-83d6-538e9cb17ba3,
+        politik:cf657685-dfac-4bc6-b36b-4381bac1ea6b ;
     skos:prefLabel "Krieg"@de .
 
-politik:e5540f6b-284a-4624-841e-ac7bf6a1de35 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
+politik:96dcd6cf-2920-4d91-82b4-c66fd0a320dd a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
     skos:inScheme politik: ;
-    skos:narrower politik:1fb6a195-b9b0-4f53-9af1-6a46fc879ff2,
-        politik:63f623f2-6133-451b-8375-cb45e7711d33,
-        politik:975d5d47-3b8b-4223-8041-5a44517c31b7,
-        politik:9c1248ff-c18b-405b-a1c4-59ffed6900d8,
-        politik:b920a768-1231-4303-b55e-2f74af1b7f03,
-        politik:c00f7cb3-93d1-440e-bbb5-21d8565acb8e,
-        politik:c0b64b0e-d6f7-4c8f-8677-025565515121,
-        politik:c205610c-1111-4ca2-8d5e-7681bb4c8fe9 ;
+    skos:narrower politik:067d9eaa-5056-4026-a9ad-bf954bfca313,
+        politik:4af24fab-54f2-4b0f-a1bd-55aacc26dd27,
+        politik:6465bad3-955a-4689-be25-adb2f7ac16fd,
+        politik:660cfb11-5502-44ea-a1be-9515b3dfa841,
+        politik:6f34cf87-9480-41eb-ad61-6e615bc87468,
+        politik:caea4405-05de-437f-a553-d67ef1a6ae26,
+        politik:dcff7591-67ac-4cea-b1db-263ef9328deb ;
+    skos:prefLabel "Partei (Politik)"@de .
+
+politik:c38b1562-1117-46b3-b303-3763217a3c7d a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
+    skos:inScheme politik: ;
+    skos:narrower politik:034042a2-8484-493a-a76a-e1b3b25130a5,
+        politik:112d96bd-f045-4af4-b169-d7c575cced09,
+        politik:1c3e18d7-1bac-4691-a3e9-74bd2a163bf4,
+        politik:2d7f4ae1-e6cd-4496-b6f0-7b2b6bd53c9a,
+        politik:427f4054-eb04-43c3-bd05-08c4d573268b,
+        politik:5a48077d-3bcd-4af2-a9e9-6793ba3821f2,
+        politik:aeead935-66a2-45eb-9b19-79ff2dec60e8,
+        politik:b901392b-3b3b-4732-a7a6-b88e5eaedb4d ;
     skos:prefLabel "Recht"@de .
 
-politik:cba8e94e-4057-4a0d-9151-1ffff887acd7 a skos:Concept ;
-    skos:broader politik:76279962-3727-4f9e-9bea-2a016af55fc5 ;
+politik:bd8e3d36-d0e4-45ab-9ef5-e1bd304e1b5c a skos:Concept ;
+    skos:broader politik:881f332b-7a8d-481d-a991-7df63fb1a88c ;
     skos:inScheme politik: ;
-    skos:narrower politik:06c274d6-2f20-487d-8353-68767d216cc0,
-        politik:253d38f4-54aa-4831-9b30-353c85f1f45c,
-        politik:42fa322b-d597-4fd1-ba91-ea07b4d6cbcc,
-        politik:453c37bd-3c72-47c3-b8ad-80cc7b1dfbb9,
-        politik:4dac603c-c5c1-4a70-bfcc-746bf366ab86,
-        politik:68eb83fb-1341-49a7-80a8-28f9b4a1d33e,
-        politik:6e71037c-ee6e-483d-96fb-e77592f10b1d,
-        politik:7782d589-969a-4cda-9167-c4aeb8260015,
-        politik:81b226af-9ec8-4980-82dc-d50eec59ae16,
-        politik:8a044bfe-e7c2-4cf1-8df3-c82cf5bda9c9,
-        politik:b253dd3c-1225-47bb-b7ec-5048aa95aa73,
-        politik:e6921f72-976b-419b-939f-3baa3acac2d0,
-        politik:f451e9ca-cb1a-46a3-9aac-454a5d924678 ;
+    skos:narrower politik:14cf6ce0-5726-4148-b7e5-387acbe17479,
+        politik:235d0502-6edd-4fd7-a1fe-f33790f70266,
+        politik:25f658db-391b-4889-b46f-bd594fe08f00,
+        politik:400d13e9-5fff-422f-8b25-b0757ca8e029,
+        politik:4d8cd6f5-9fba-4f88-86c3-ae9b92f70186,
+        politik:57eaa1df-52d7-4cbc-9710-e8b9bc48d60e,
+        politik:741a03fe-5fcc-4fb3-937e-3bae060294cb,
+        politik:7780a205-c03c-4d10-b78a-51e7b15d825d,
+        politik:97ea3db5-46b0-4962-82f7-d2259be6ed32,
+        politik:adc32c4f-5d98-44be-baf0-43ee716be43a,
+        politik:c6606c44-e481-4915-ad0f-517c2d02e1a6,
+        politik:e9c73411-33ea-4b23-bff1-698603795c44,
+        politik:ec6666ea-d923-49f8-ad21-2f873e2bfc07 ;
     skos:prefLabel "Herrschaftsform"@de .
 
-politik:74117693-cd34-4f22-83cd-17d5a20b3264 a skos:Concept ;
+politik:44c1d1d5-b732-442e-b989-638b41bd9249 a skos:Concept ;
     skos:inScheme politik: ;
-    skos:narrower politik:0281c91b-6425-4ef6-90bc-2b5db66d274f,
-        politik:02935451-79d3-44e6-9103-dba68d6f9541,
-        politik:0ca944be-b2e2-4bba-9749-05b3bb56424b,
-        politik:0d38d5cf-f9ed-43ca-85ba-6aac9a0024d2,
-        politik:0f2e5685-6be1-4857-a265-a5538235bc54,
-        politik:18259f29-05d0-42ce-9df9-601078353c7f,
-        politik:1d4e669d-9a00-4b49-b4df-aa03b5202031,
-        politik:28d36278-8883-4bd3-8b07-af98d0aaf1d2,
-        politik:345d5af6-12fd-4748-8898-52346e3c767d,
-        politik:3ecac6c3-a0ef-4f84-b957-5afad332ccc3,
-        politik:47b748ec-ece8-4a23-a65b-90487da8d269,
-        politik:49881c24-9f81-4b4d-aec2-8f5229634d11,
-        politik:58c1dfb8-7dcc-4191-9697-d43221e55fb6,
-        politik:5f55a94c-c3ca-4e5f-9cda-956597a3e2e4,
-        politik:64e788bf-e311-43ed-b5ec-183d22776e85,
-        politik:67a87c97-1912-41f8-9bb4-59d342d66a0d,
-        politik:67dee6f5-3eff-4020-b4ea-105390ab6f62,
-        politik:6812a6e5-6dec-44b2-b15e-68db2b136fb7,
-        politik:6a41bddd-c8ec-42ea-97ab-329c72ceb2b5,
-        politik:72fcf977-619f-40c9-9bbc-630f56d7216a,
-        politik:748d1f02-b2be-437d-8b54-793e8a8bf8f3,
-        politik:7a6735bf-bd90-4498-9455-4116d6b574f7,
-        politik:7d2a6e11-08a5-44c2-9c94-d1c71ade773b,
-        politik:8520d5c7-5bc6-43e0-ae40-a7bae3ba7fe6,
-        politik:8fca0d58-9663-4643-8cef-7a557de70397,
-        politik:90272e85-7be3-4263-b1f3-23a487e3f76c,
-        politik:9a7dc794-2846-42e2-aa08-890b1d7f104b,
-        politik:a51ff4b5-61ea-4cc2-8172-fed8ff780e99,
-        politik:aabb42de-9506-4ef7-ae4c-5fd33b621d7f,
-        politik:acbdcf08-000d-413c-89ec-a99e255bf8ca,
-        politik:b3b361f0-ef0a-4618-8623-c570fcda8801,
-        politik:bd63c002-6983-470d-b3ef-100860d4f3c7,
-        politik:bf9e0e2a-a1bd-4097-9a14-b108300bc3da,
-        politik:c1c57d35-5d31-41d6-afcb-3b3af147c298,
-        politik:c1f91bd7-0546-45ad-8c64-3d00923f7091,
-        politik:c2013d5e-5a33-424e-9bfa-936804e4ea4c,
-        politik:c640321a-6564-47fe-98ff-e04176302779,
-        politik:c9b4fa46-883c-4e2b-8790-03dae14c8477,
-        politik:ca774b7b-883c-43c3-83f0-7b793d12e50b,
-        politik:d2953876-9345-49e1-954f-1d6977784934,
-        politik:f368ebe9-eb63-4d78-9749-d28b0c6d649e,
-        politik:fd1b1e98-f5dc-48f6-b5a2-9d3ff2a940ea ;
+    skos:narrower politik:05f1288a-e7fa-4bd7-904a-7d12aa950e2b,
+        politik:204b1200-194d-4261-8658-baaa7bf09b40,
+        politik:23ea1b13-0711-4d2a-8ab8-18ff18f501e2,
+        politik:25826d8b-a0ca-46e4-bed5-8a9deb59cf7e,
+        politik:2a884766-2754-400d-9450-79c3ec59f4ac,
+        politik:3582dcb6-32b0-405e-92a3-c1344ac4d8e1,
+        politik:361fb754-9fea-42a8-a688-27811cf91bfe,
+        politik:3747aa90-7c87-4266-8ba2-f6f727702b8b,
+        politik:37756a87-ec92-4c52-bb8d-bb0ca3666bce,
+        politik:434316f4-4c08-4d05-8f1a-2ffd5eba45fc,
+        politik:48a7045e-2357-41d3-8486-3790949698e2,
+        politik:4e6c673f-997b-4d9d-885a-51a22350f0df,
+        politik:59d30345-1850-401d-9bb2-a90a1a150a34,
+        politik:5a24bae1-608a-451d-8de5-bd62a7f1708a,
+        politik:5c4ca592-ba96-4e48-8578-5eadeb7562a1,
+        politik:5c7463de-9a13-449f-9317-6ff13894255f,
+        politik:5f574671-a21c-4560-8ffb-fd94f45ce99e,
+        politik:64821af7-2287-4122-b923-5f7184b3fafe,
+        politik:6c9ee8bd-7cc4-45d3-8e1e-b0a39f6d572e,
+        politik:6e403d67-c58d-4cc9-87f8-24628d9bcf73,
+        politik:6fdfce34-be5c-4d8a-a082-22e3a363bb8d,
+        politik:73c48f35-80e3-4965-b8b7-b241c931c1d4,
+        politik:7bcca56f-3734-4c15-b3f2-aa7249fe3dc0,
+        politik:80c4ae0c-f069-4f56-895b-6d15991dfb9b,
+        politik:832b249f-78df-4954-b7a8-8f8dbcc2889f,
+        politik:836342dc-f3a6-44fe-b97c-2d43476c085b,
+        politik:8ad29262-71b2-4694-beb7-3f5942645d8b,
+        politik:8b4ce3f7-e201-4824-99d4-4b9d562ffe08,
+        politik:8d5b1fee-8805-47d6-baef-a5024ebc2c95,
+        politik:9e1adc85-af5a-4fb8-bf53-0a12a7544d09,
+        politik:a189eff3-38db-4844-995c-9c714ca1f922,
+        politik:af6c171b-c79c-4cef-9ba4-12a63dcf2954,
+        politik:be0bea21-1de0-4282-bf92-9f28ecd20553,
+        politik:c40f2cff-d873-44f3-87c8-ec33e0411a42,
+        politik:c7d7ac5a-6248-4cd4-9986-c86d07e0c3e1,
+        politik:ca58136a-8fe4-499a-b90d-cfd2c47de376,
+        politik:d2e58f2e-f882-4bb5-a423-c4686625b7c4,
+        politik:f0ad9a06-dac3-470a-ad85-74cae48c58bd,
+        politik:f24a7e10-bdfe-44fe-8561-14a5adafbc10,
+        politik:f2c6bec5-86d3-4de8-9d1c-0f3a85db3de8,
+        politik:fae5aabd-4022-4ac1-ad02-5f6f1c6964df,
+        politik:ff0a2c07-856f-46dd-8209-7529eeb8c231 ;
     skos:prefLabel "Personen"@de ;
     skos:topConceptOf politik: .
 
-politik:76279962-3727-4f9e-9bea-2a016af55fc5 a skos:Concept ;
+politik:881f332b-7a8d-481d-a991-7df63fb1a88c a skos:Concept ;
     skos:inScheme politik: ;
-    skos:narrower politik:0725b400-f1de-4174-942e-2c2c7cd741ae,
-        politik:07f38dfa-28b5-4440-9437-f82f9c508cb4,
-        politik:0923d9c3-2ae5-49fb-bffc-9899965658a2,
-        politik:098dbe83-ad24-478f-91c5-a88465787057,
-        politik:0c6e9cc5-95c0-4854-bfd3-9664ea9f799b,
-        politik:10e31270-575d-4466-82d3-820ad5b1cb2e,
-        politik:1363b098-8ed5-4856-904f-1b8d27ea93fd,
-        politik:138b69de-0a52-4975-b4b7-298714896bbf,
-        politik:1c59a606-2140-475c-8b6e-5d1f52ec2b71,
-        politik:1f4ab22e-8263-41df-8e47-b435cd6926c0,
-        politik:20a8d57b-e553-4235-b223-7a025f64a2a1,
-        politik:20f4c799-9fe9-4565-915c-b04ed1831e50,
-        politik:21ccca36-8148-44a1-bcc0-6f46d9acea45,
-        politik:2261be30-fb15-48cb-840c-8667e20ffe92,
-        politik:26c002d1-3f3b-4b1a-ad5d-6f3d62552673,
-        politik:275f7f33-5056-4d25-b307-21e67a210d8e,
-        politik:294325e4-062d-4900-882a-6a7fd2dc8462,
-        politik:2acce778-86f1-4d34-9758-a7d1cf567b86,
-        politik:2b998b5f-c99e-4472-ae27-9a47ffc378a3,
-        politik:2c0fbfa6-b855-472f-bb21-6b4879592c80,
-        politik:31dc38bc-5725-4ebe-9ea4-6512c1d5da9b,
-        politik:36ede8dd-0436-46a9-8888-4bc00e795e5d,
-        politik:37908951-527d-4ad6-8dba-afaa140daa9e,
-        politik:38f611e2-67c7-436e-86d8-581cb23c526a,
-        politik:399f6041-72cc-4f57-82bf-bfcfdc6dd109,
-        politik:3b231c6c-0a3d-4fda-ad54-2793e93769e0,
-        politik:3c9725c3-cdb4-4ce8-ba98-568075731620,
-        politik:3d154559-c8e3-43cf-bd23-8cf30ba2a035,
-        politik:3e06d702-727d-45cb-8b61-664fa52e7a36,
-        politik:402019b8-515b-461d-ad00-077abdb00645,
-        politik:40fa13a7-0670-4816-8043-2bfc9f38811c,
-        politik:419eb6d1-8d29-4752-97d6-74351fe03e96,
-        politik:465d0f50-139c-4873-8aab-12505468d9f2,
-        politik:495ef79c-4d01-4efd-a038-85fbbe7e5843,
-        politik:49b79072-78b6-4dd2-ab42-a7dd73587eb4,
-        politik:4fe6a9a0-ea26-4e65-8c10-3026defe48be,
-        politik:514678c2-5658-438c-a306-b1b5a4d72085,
-        politik:58f080b2-b2fe-4b19-aa92-ce6fc6a78a91,
-        politik:5efaf921-7f3e-4efd-bc63-37ead8811f38,
-        politik:67782556-3cc8-4c52-8158-3175ecbe17b7,
-        politik:68f35596-ac2f-4eb5-82f0-7672000df7c0,
-        politik:69dccc4e-b48b-4243-9440-4fdcef6851df,
-        politik:6b6ec804-8757-4d96-9120-297b14cc3ec5,
-        politik:6cadb31b-8c86-4eab-9151-99cc6902cafd,
-        politik:6ec8e785-1ac5-4ac0-8dd5-acc48811b2b3,
-        politik:705e63e1-3706-4291-8138-e88f3b25c709,
-        politik:7771ea8f-be61-4701-a5ad-2e4d49ed87f6,
-        politik:79dacc6d-0266-4b0f-b8c6-4d5b6d47f91b,
-        politik:7f9d5b2a-d176-4eb8-bef7-06c4127e6150,
-        politik:7fa0ef33-224d-43b8-958b-7c74ad847d0e,
-        politik:807a086c-55f2-457b-883a-db3fc6a0e5bc,
-        politik:81368287-b410-4fde-8b69-91e13e1392a2,
-        politik:85619493-e5c5-4b3d-b695-e5ebf49c9a2a,
-        politik:884f0a5f-f93c-4a36-9041-ca249497af59,
-        politik:884fa80b-fc23-4400-8980-07eb0b194cd2,
-        politik:89a9909a-aaa3-4e4a-88b0-7e273b04404a,
-        politik:8a81eaf6-e251-445f-83b3-7197a0cfc5ef,
-        politik:8ab867af-2dad-438b-b519-7b54f8ac4a57,
-        politik:8afb7d9b-040c-46b7-a63b-6c949d15247b,
-        politik:8c585053-dfcc-4498-a152-bd31458647a4,
-        politik:8d56fde2-b9c0-49dd-85d0-df36efa89f66,
-        politik:8ebf5b4a-acd0-420c-a0d0-b8598e64b133,
-        politik:8ee8d135-0f9f-4a17-ac52-8773f967c7bf,
-        politik:8fa21a75-a75b-41b7-a007-184cb448c37a,
-        politik:91f2602f-b84e-4fed-ae14-86716b904209,
-        politik:93746629-8ee1-417d-9ed1-f807a6994118,
-        politik:95cf679f-e68b-4a7d-88ce-6ba66c5e9035,
-        politik:96e3d9f1-7fd3-4f73-8e97-84688b3619bc,
-        politik:998c3b39-f70e-40fd-84c3-8121270afff4,
-        politik:9c2d25db-0d69-4d8e-8842-9ba952f158ad,
-        politik:a01361da-2ecd-48e5-ad04-83adcb090f3d,
-        politik:a15b57ce-79f4-47ca-b3ba-3947b935b4de,
-        politik:a30103d1-3b60-420f-9726-adbf54924327,
-        politik:a4b5746f-03af-4bcd-bac3-f70860bbb76b,
-        politik:a63c6f65-71b2-4f55-8eef-e212ce5946f4,
-        politik:a6c7129a-6504-4fdc-9eaa-31275681d081,
-        politik:a8c29fab-cc2c-4c5e-be37-a96cd0b730c4,
-        politik:a8e5b14a-453c-4dd9-82b2-319b21d1cb58,
-        politik:aa92142a-6212-40c5-aa53-66705aac3b60,
-        politik:ac16c148-e197-41b4-a8c4-68bcab0b61db,
-        politik:aeca99cc-dfc2-404b-993f-2100ffe32716,
-        politik:b0de9b57-6e23-451e-aa44-8394ec7dc401,
-        politik:b6eba59e-3e4e-4fee-a28e-92194a731a15,
-        politik:b71fa116-4d84-41ad-8fff-52494e33a04e,
-        politik:b74e4e15-7e26-46d3-881c-2b9ef9432cfe,
-        politik:b87e2c8c-1c09-4c86-9ba7-d00adb91dfc5,
-        politik:c21150f6-4c3c-497f-8c9a-24a65859b1a8,
-        politik:c2643ec5-ac36-4d86-8e30-010c7fa3ddfb,
-        politik:c2fea1f6-49fa-4d21-9a8c-7193f4a78289,
-        politik:c4c736fc-7cab-4bf0-bd98-0974ada2258c,
-        politik:c4d0ee1d-954a-4f19-b6b2-e81cd6c7f379,
-        politik:c5c6f4e6-8d55-41d9-9348-fa55131908d0,
-        politik:c6a47d8e-9f11-40fa-b730-d9a118b1e742,
-        politik:c914a7a9-a677-4962-8537-2886ea1cdf00,
-        politik:cba8e94e-4057-4a0d-9151-1ffff887acd7,
-        politik:cc0d3546-655e-4978-bdb6-bdcf79408ed4,
-        politik:cd2a6702-d38b-485c-902b-22de25c6371e,
-        politik:cdcb95df-324c-42e8-8c72-2546ca052047,
-        politik:d0758a5d-601c-47ab-8270-d2685811f73f,
-        politik:d2bf26a3-c77e-4d5f-95ec-c425acf65c9b,
-        politik:d31336d2-afaf-45a6-85c4-bc18bb2cd5c0,
-        politik:d6b7b151-3d3c-4663-801d-3716e3bdfc10,
-        politik:d8326abc-f24f-4350-a356-9460611dbc81,
-        politik:dadc08ab-1486-4a6c-8d71-9fda547a4701,
-        politik:e13ce36f-d45c-402a-8662-ff0718f24dc1,
-        politik:e2e9d718-78e6-4337-bf1d-928aad79aa75,
-        politik:e470a914-50a8-45f2-b3e9-72479a13da46,
-        politik:e50893fa-bbda-4eea-884f-6a8c1e010b2c,
-        politik:e5540f6b-284a-4624-841e-ac7bf6a1de35,
-        politik:e7256ab9-94ee-4276-be93-16e970fb2363,
-        politik:e7ce7ef1-6e53-4561-b211-e0815d912a23,
-        politik:e8e3682e-4c72-44ef-b219-2bb9b064c113,
-        politik:e9e8e66d-832a-4c23-bed8-4fc5b9c78581,
-        politik:ebacb22f-ca49-4c52-911c-e9aa5cf81e93,
-        politik:ebf6d2a0-d24f-4e76-b116-e4f05fdbfb8e,
-        politik:ee30e458-9a30-472a-a1b5-fdfa214149dd,
-        politik:f0143122-4810-4b57-9d87-ecb8755ed98b,
-        politik:f686585c-e142-41a5-be67-c88e619b9094,
-        politik:f8fcf249-9802-4d3c-9ed3-2bc4d7e3b6c6,
-        politik:f95c34ce-a87f-4364-b7c0-d06028426702,
-        politik:fdd9e3d1-2a03-4056-ab58-2d4aac125452,
-        politik:ffc72bc1-34ee-4622-817a-162f913539a0 ;
+    skos:narrower politik:01794ef8-26de-4912-b953-674e1f1f0270,
+        politik:017c9802-c427-4020-ad9d-943297eeaefd,
+        politik:02c3f9d4-8b57-42ad-8f9a-9d661d5ca939,
+        politik:03ec26f6-532b-41c1-b13b-ef5a3e7f84c4,
+        politik:04ad6a9d-e655-4ec8-b17f-80dd9bef88d7,
+        politik:0536472b-e76c-4c59-a677-5144559f98f1,
+        politik:0d15b6cc-fd42-4543-bae1-514610ddc789,
+        politik:0eb751d7-6251-4f3e-9034-d0fd83338040,
+        politik:0f424136-60af-410e-a4c9-d3547b0a5d3c,
+        politik:0f7c5384-6f92-43d3-8a07-72202077da7e,
+        politik:1162790f-efcc-497f-aa65-cc5f41146e17,
+        politik:12e6cc43-0ef1-49ca-a2de-939926288bb0,
+        politik:14c3c457-5081-4097-bd1a-8bd74c385ce4,
+        politik:15535a66-56c1-43d2-8bf9-cf3a4885cf86,
+        politik:18afd9ec-4988-48b1-a770-6f3047e735e1,
+        politik:1b1ab4a3-b9bf-441a-9301-fe8a58ecbfb0,
+        politik:1ed9239b-82f1-4393-832c-c4d38d2c2bb4,
+        politik:1f1b5530-5dab-4fda-bb94-12a1b50d2a71,
+        politik:1f1ce785-eacb-4d9c-957a-b4a5e5a3f863,
+        politik:239bd24a-f125-4c31-a465-0119005a3f5d,
+        politik:26fef7bd-cf68-43b6-b98e-056cbc94c31b,
+        politik:2a0562be-2fc7-4653-8606-45ec16d7e970,
+        politik:2bde4e66-fc6e-447e-bcd2-3aff14142ae9,
+        politik:2c244383-f732-494a-abb6-77e407f5ebb3,
+        politik:2d484531-cb3e-41c9-be9b-213bf6af1828,
+        politik:2d4a342c-8097-47ed-a1a7-aa78147af317,
+        politik:2ea3db9a-1f95-43ec-a970-0e1baa8d5e0d,
+        politik:2f967049-81be-4efc-82e1-1e43747ba825,
+        politik:301ff9f6-fc19-4105-88c9-29fc70d38a21,
+        politik:31ede7ef-f495-4c7e-ba29-9a7d116f430f,
+        politik:34c815f2-c1b3-4a40-958f-a72aae941de3,
+        politik:42aa706a-be68-4e5a-9fb7-124df5006f79,
+        politik:48cb740c-63a1-4fc7-a1b9-96ac16a985a3,
+        politik:4ac28cb4-5803-4655-af5a-55bc24baf717,
+        politik:4b43b379-e9c2-4678-903c-de109e559a72,
+        politik:5789facb-7fc7-4b15-9a28-25488eae3742,
+        politik:5c8457b0-d457-49cd-957e-762901fe865c,
+        politik:5ec124d8-57e5-4247-bd86-bc994541c04b,
+        politik:6376fcd5-66dc-4740-ba92-8ed422406da7,
+        politik:640bb5f3-4ea2-49f3-bc18-fa099b15f39d,
+        politik:67c66d13-4cc6-4fd1-97a4-7678f4832033,
+        politik:67ea7bf0-8b7b-412f-90c7-1a3431bebedb,
+        politik:6cea2548-e9d7-4265-9b5b-20305df49fec,
+        politik:6fa3e621-f899-4857-b183-e5c77adf0ca6,
+        politik:72e886ee-79f6-4e88-b6b1-44b7dad7a881,
+        politik:74a947a7-d4a3-4fa8-81fa-014a917dfb8f,
+        politik:7579f658-a811-4f7d-91a4-e6512405c575,
+        politik:765dac1d-36db-4dc4-988f-70a9e3188981,
+        politik:797713f9-f734-49d3-b672-9d8c2e5c49ad,
+        politik:7caad10d-85ff-4580-aae0-bd1ba1e7bf76,
+        politik:7cbe1ce1-13f3-4fbb-8a4d-0601152927f2,
+        politik:7ce175f4-eaf3-4209-a6d6-03599ba42bac,
+        politik:7edc13fe-e76e-4824-9d60-ec8a260fe765,
+        politik:7f026642-b640-437c-8565-1fc86428690d,
+        politik:7f8daf89-7c16-480a-a915-0313a6f40058,
+        politik:806510d8-6ca4-408f-a736-a5f38e313832,
+        politik:8088556d-ebb6-43fa-bbc2-9436b504ebc4,
+        politik:82a74160-912d-4468-a09e-9ecb7031b785,
+        politik:83463f35-571f-4b45-bea6-86e53b60ff96,
+        politik:86524333-5b77-4e69-b150-d922883e24ca,
+        politik:883adf93-7d4d-430e-9c22-1451b24b3488,
+        politik:8ca3a565-6aa1-400c-b07c-8025ff4a7284,
+        politik:8de1d902-6607-4aea-abaf-2ddf9959805e,
+        politik:8fa4bceb-cfad-4391-9d60-474cc2582d03,
+        politik:919140a1-20ad-4bde-b5ea-8c59d7fe0c19,
+        politik:96dcd6cf-2920-4d91-82b4-c66fd0a320dd,
+        politik:96ee46cc-dd85-4704-b299-b0c3b8b4ce26,
+        politik:9762050a-7518-41c4-8fba-3db213e146bd,
+        politik:9af467a5-6b52-4aaf-b972-ac74d87dabfc,
+        politik:9bfd2010-f906-40de-ba1b-4376c457e5f5,
+        politik:a1f31918-c0a6-4a03-b4bf-d5212a830d99,
+        politik:a2129d4b-87a0-4e14-bd7f-933499a12024,
+        politik:a3c18ab0-f4ca-4603-878f-7264419fb77f,
+        politik:a4adc98f-928f-482f-9995-0c1954608403,
+        politik:a9b11aa8-9f88-4884-a8e9-c82876e5c5f5,
+        politik:aaaffdca-d4f5-4aed-9baf-5da722d7a141,
+        politik:ab765e66-7e0d-4ffb-94dd-049eda8f57d3,
+        politik:ae165d28-ad81-4c80-a58e-596a16519a11,
+        politik:b0ff8546-c838-443d-9618-2f38806a4aa7,
+        politik:b1f014e0-b479-492a-a132-768470dfba02,
+        politik:b264f189-b2c5-484f-8f70-eb0ae1a49139,
+        politik:b3d2cafe-00a1-45eb-ab80-413d22a3ff55,
+        politik:b44514d3-19b3-43f6-a6bd-59b8e7395d72,
+        politik:b9d48742-9f50-4c6d-89d8-6baa89b0fb49,
+        politik:bb3ba80c-3a8f-44b4-b43f-da4df2e22d12,
+        politik:bbaff0d1-e51f-4de7-a970-c991dd902f3a,
+        politik:bd8e3d36-d0e4-45ab-9ef5-e1bd304e1b5c,
+        politik:bdb9168b-1214-404b-b660-d6390c356ff8,
+        politik:c38b1562-1117-46b3-b303-3763217a3c7d,
+        politik:c48f3b2b-f8fd-49df-8544-102a7980970d,
+        politik:c6455b94-c6c2-40f0-a2f8-643e37b31461,
+        politik:c6e7e0b2-6cc2-4639-b502-8eef9eecab9a,
+        politik:c72dc306-bdab-42e4-b3f0-a0f8f8cb4782,
+        politik:cbd3bb63-2b80-43e8-a489-ee61f2d7ae20,
+        politik:cc5b9afa-094c-4edc-a449-e3653152a878,
+        politik:cd756c2c-12bc-4eec-aa8e-501a42fcd673,
+        politik:d3c78884-c3c9-4864-9295-6bb063a9b3d4,
+        politik:d5a13754-1500-4e84-9a98-545aaa6e45b5,
+        politik:d5cbe688-40a7-4e93-979f-dcfd6999b47b,
+        politik:d9c1c305-a8fc-4bba-8e50-2634c2ce5b57,
+        politik:ddb4fe1a-97b0-473b-95aa-8d4952619131,
+        politik:ddc0b208-eba0-4633-8b66-86e53358dc7d,
+        politik:def1ba9f-09ac-4198-b576-f72a3edcb829,
+        politik:e4842a1b-9615-4c01-975e-8ad057bcb2b8,
+        politik:e907c8c9-ea82-400f-a1f5-94e6820e7d4b,
+        politik:e961c37f-86a5-4dbd-9b3c-cd2e992eeb97,
+        politik:ebc96aee-dac9-45b9-9913-8517a43d54eb,
+        politik:ed5c3bf0-783a-4a44-8079-6628182f59fc,
+        politik:edb537e8-80e2-4189-9409-602105e245e6,
+        politik:ef134fde-2632-4bb0-94a2-2cb98c6b2c61,
+        politik:f3c5b4cd-5855-4991-a8be-0ccb27108ff0,
+        politik:f3f0844a-8b01-4cd3-a72e-31d0778f87ee,
+        politik:f47cc224-c355-4b0d-9ab3-d9584530a81c,
+        politik:f5c81692-205a-460a-b512-494c4e780297,
+        politik:f6278bc5-ce20-4878-b17e-f5a7cbbbb930,
+        politik:f68992ef-539a-4843-a5bd-abf456c746b8,
+        politik:f903b731-b9b3-4a07-9e81-d3de10d1f34b,
+        politik:f94c1437-bf11-4d14-a4df-a764f2b9c7c8,
+        politik:faddbc5b-4428-4c2e-af16-f6a1d17da862,
+        politik:fd288b3a-9dfe-44c9-aad5-6452f9a68684,
+        politik:fd74cb1b-7f08-4681-8bdf-0a9af633c7d8,
+        politik:ff4f9a52-73b8-4e46-b888-9e2b2100370c ;
     skos:prefLabel "Politik"@de ;
     skos:topConceptOf politik: .
 
@@ -1665,13 +1685,17 @@ politik: a skos:ConceptScheme ;
     dct:creator "<https://creator.com>" ;
     dct:description "politik"@de ;
     dct:title "politik"@de ;
-    skos:hasTopConcept politik:0253db4c-0687-41dd-a254-e93cd1947169,
-        politik:2a009b4e-c7e2-465a-b2d5-ec2a8c1972ea,
-        politik:30e5d32b-57d0-4e39-88c2-8e1f7ff6cb75,
-        politik:4cfd04f4-6ba6-40ff-8df4-4b243e531ded,
-        politik:74117693-cd34-4f22-83cd-17d5a20b3264,
-        politik:76279962-3727-4f9e-9bea-2a016af55fc5,
-        politik:797aa0ac-3e33-4654-a4b8-f040f88875ad,
-        politik:e7cd31f6-d1d8-4adb-81e0-1668906fb70d,
-        politik:f89074b6-b938-4aa5-a143-6d8b19b4ea9b .
+    skos:hasTopConcept politik:2b1b6a1f-520b-454c-a9a6-6705e4ea550d,
+        politik:44c1d1d5-b732-442e-b989-638b41bd9249,
+        politik:46fc4d36-3ae6-4310-81ae-e16633723480,
+        politik:55fa98a2-b375-4f6a-9f56-0d006f7b087a,
+        politik:614d17b6-aa82-465b-89ae-7803d98f3d0e,
+        politik:6eaaf1c1-7cc3-4b1f-8023-4c883494cb3f,
+        politik:8188765d-3cef-4783-bfd1-b1a858c21f70,
+        politik:881f332b-7a8d-481d-a991-7df63fb1a88c,
+        politik:973581bc-91b1-4360-ac2f-fee259d349a7,
+        politik:b55c5c38-6c28-47fa-b995-43cb4db9fd8b,
+        politik:bf766f7e-74ca-4d71-877e-c313102f2425,
+        politik:d99ec5c3-8eda-41df-9b8b-9e2d23c2abab,
+        politik:f197fa26-9659-465f-9517-fe6e59c07c9f .
 

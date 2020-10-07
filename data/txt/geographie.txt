@@ -785,7 +785,7 @@ Ozeanien
 -Papua-Neuguinea
 -Polynesien
 
-(Polargebiete)
+Polargebiete
 -Antarktis
 	--Rossmeer
 -Arktis
@@ -1468,3 +1468,4 @@ Geographie
 - Wegener, Alfred
 
 Schwarzwalduhr
+Bevölkerungspyramide
