@@ -1,181 +1,184 @@
-C H E M I E
+CHEMIE
 
-Chemie
--Aggregatzustand
-	--Phasenübergang
--Anorganische Chemie
--Chemieforschung
--Chemische Aktivierungsenergie
--Chemische Reaktion
-	--Chemische Analyse
-		---Iod-Kaliumiodid-Lösung
-	--Chemische Reduktion
-	--Chemisches Gleichgewicht
-	--Destillation
-	--Elektrolyse
-	--Gärung
-	--Hydrolyse
-		---Verseifung
-	--Ionenbindung
-	--Katalysator (Chemie)
-	--Korrosion
-	--Oxidation
-	--Sequenzanalyse (Chemie)
-	--Pyrolyse
-		---Verkokung
-	--Reaktionsgleichung
-	--Verbrennungsvorgang
-	--Verdampfen
-	--Verdunstung
-	--Veresterung
--Chemische Verbindung
-	--Dipeptid
-	--Elektrolyt
-	--Konzentration (Chemie)
-	--Legierung
-	--Salz (chemische Verbindung)
-	--Sprengstoff
-	--Wasserstoffbrückenbindung
--Chemischer Versuch
--Elektrochemie
--Funktionelle Gruppe
--Kohäsion
--Organische Chemie
--Spektroskopie
+Aggregatzustand
+-Phasenübergang
+Anorganische Chemie
+Chemieforschung
+Chemische Aktivierungsenergie
+
+Chemische Reaktion
+-Chemische Analyse
+--Iod-Kaliumiodid-Lösung
+-Chemische Reduktion
+-Chemisches Gleichgewicht
+-Destillation
+-Elektrolyse
+-Gärung
+-Hydrolyse
+--Verseifung
+-Ionenbindung
+-Katalysator (Chemie)
+-Korrosion
+-Oxidation
+-Sequenzanalyse (Chemie)
+-Pyrolyse
+--Verkokung
+-Reaktionsgleichung
+-Verbrennungsvorgang
+-Verdampfen
+-Verdunstung
+-Veresterung
+
+Chemische Verbindung
+-Dipeptid
+-Elektrolyt
+-Konzentration (Chemie)
+-Legierung
+-Salz (chemische Verbindung)
+-Sprengstoff
+-Wasserstoffbrückenbindung
+
+Chemischer Versuch
+Elektrochemie
+Funktionelle Gruppe
+Kohäsion
+Organische Chemie
+Spektroskopie
 
 Base (Chemie)
 Chemische Elemente
 Teilchen
 -Molekül
-	--Atom
-		---(Atomkern)
-			----Isotop
-		---(Elektron)
-			----Valenzelektron
+--Atom
+---Atomkern
+----Isotop
+---Elektron
+----Valenzelektron
 
 Periodensystem der Elemente PSE
 -Halbmetalle
 -Metalle
-	--Edelmetalle
-		---Gold
-		---Silber
-	--(Leichtmetalle)
-		---Alkalimetalle
-		---Aluminium
-		---Erdalkalimetalle
-			----Calcium
-		---Titan
-	--Schwermetalle
-		---Eisen
-		---Kupfer
-		---Uran
-		---Zinn
-	--(Übergangsmetalle)
-		---Wolfram
+--Edelmetalle
+---Gold
+---Silber
+--Leichtmetalle
+---Alkalimetalle
+---Aluminium
+---Erdalkalimetalle
+----Calcium
+---Titan
+--Schwermetalle
+---Eisen
+---Kupfer
+---Uran
+---Zinn
+--Übergangsmetalle
+---Wolfram
 -Nichtmetalle
-	--Edelgase
-	--Halogen
-		---Chlor
-		---Iod
-		---Kohlenstoff
-	--Kohlenmonoxid
-	--Sauerstoff
-	--Silicium
-	--Stickstoff
-		---Denitrifikation
-	--Wasserstoff
+--Edelgase
+--Halogen
+---Chlor
+---Iod
+---Kohlenstoff
+--Kohlenmonoxid
+--Sauerstoff
+--Silicium
+--Stickstoff
+---Denitrifikation
+--Wasserstoff
 
-Ätzende Stoffe
-Alkohol
--Bier
--Wein
-Ammoniak
-Austenit
-Benzin
-Cellulose
-Chemiefaser
-Diamant
-Dioxin
-Emulsion
-Fettsäure
-Fluorchlorkohlenwasserstoffe
-Gas
--Kohlendioxid
--Schwefeldioxid
--Stickstoffsioxid
-Gefahrstoff
-Gips
-Glycerin
-Ionisation
-Kali (Salz)
-Kieselsäure
-Kohlenwasserstoffe
--Methan
-Kunststoff
--Duroplast
--PET
--Polystyrol
--Pyroplaste
--Weichmacher
-Lösung (Chemie)
-Naturstoff
-Nitrate
-Öl
--Heizöl
-Oxide
-Parfüm
-Phosphate
-PH-Wert
-Radioaktivität
-Raffinerie
-Salz (Natriumchlorid)
-Säuren
--Schwefelsäure
-Soda
-Stahl
--Damaszenerstahl
--Verzinken
-Stoffeigenschaft
--Viskosität
--Wärmeleitfähigkeit
-Van-der-Waals-Kräfte
-Vulkanisation
-Wasser
--Wasserdampf
+Stoffe
+-Ätzende Stoffe
+-Alkohol
+--Bier
+--Wein
+-Ammoniak
+-Austenit
+-Benzin
+-Cellulose
+-Chemiefaser
+-Diamant
+-Dioxin
+-Emulsion
+-Fettsäure
+-Fluorchlorkohlenwasserstoffe
+-Gas
+--Kohlendioxid
+--Schwefeldioxid
+--Stickstoffsioxid
+-Gefahrstoff
+-Gips
+-Glycerin
+-Ionisation
+-Kali (Salz)
+-Kieselsäure
+-Kohlenwasserstoffe
+--Methan
+-Kunststoff
+--Duroplast
+--PET
+--Polystyrol
+--Pyroplaste
+--Weichmacher
+-Lösung (Chemie)
+-Naturstoff
+-Nitrate
+-Öl
+--Heizöl
+-Oxide
+-Parfüm
+-Phosphate
+-PH-Wert
+-Radioaktivität
+-Raffinerie
+-Salz (Natriumchlorid)
+-Säuren
+--Schwefelsäure
+-Soda
+-Stahl
+--Damaszenerstahl
+--Verzinken
+-Stoffeigenschaft
+--Viskosität
+--Wärmeleitfähigkeit
+-Van-der-Waals-Kräfte
+-Vulkanisation
+-Wasser
+--Wasserdampf
 
 Personen
-- Bader, Alfred
-- Baekeland, Leo Hendrik
-- Böttger, Johann Friedrich
-- Bosch, Carl
-- Butenandt, Adolf
-- Curie, Marie
-- Dalton, John
-- Djerassi, Carl
-- Feigl, Friedrich
-- Fischer, Emil
-- Goodyear, Charles
-- Haber, Fritz
-- Hahn, Otto
-- Havemann, Robert
-- Hofmann, Fritz
-- Klatte, Fritz
-- Kohn, Walter
-- Lavoisier, Antoine Laurent
-- Liebig, Justus von
-- Mendelejew, Dimitrij Iwanowitsch
-- Meyer, Lothar
-- Nobel, Alfred
-- Ostwald, Wilhelm
-- Pasteur, Louis
-- Pauling, Linus Carl
-- Perkin, William Henry
-- Pfeiffer, Paul
-- Priestley, Joseph
-- Staudinger, Hermann
-- Straßmann, Fritz
-- Thomas, Sidney Gilchrist
-- Wöhler, Friedrich
+-Bader, Alfred
+-Baekeland, Leo Hendrik
+-Böttger, Johann Friedrich
+-Bosch, Carl
+-Butenandt, Adolf
+-Curie, Marie
+-Dalton, John
+-Djerassi, Carl
+-Feigl, Friedrich
+-Fischer, Emil
+-Goodyear, Charles
+-Haber, Fritz
+-Hahn, Otto
+-Havemann, Robert
+-Hofmann, Fritz
+-Klatte, Fritz
+-Kohn, Walter
+-Lavoisier, Antoine Laurent
+-Liebig, Justus von
+-Mendelejew, Dimitrij Iwanowitsch
+-Meyer, Lothar
+-Nobel, Alfred
+-Ostwald, Wilhelm
+-Pasteur, Louis
+-Pauling, Linus Carl
+-Perkin, William Henry
+-Pfeiffer, Paul
+-Priestley, Joseph
+-Staudinger, Hermann
+-Straßmann, Fritz
+-Thomas, Sidney Gilchrist
+-Wöhler, Friedrich
 
 lewisformel
 lewisformeln
